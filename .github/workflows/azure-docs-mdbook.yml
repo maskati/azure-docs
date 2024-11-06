@@ -1,0 +1,148 @@
+name: Azure Docs to mdBook
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '12 3 * * *' # daily at 03:12 UTC
+
+jobs:
+  
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # required for git push
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v4
+      - name: Clone Azure docs
+        run: |
+          git clone --no-checkout --sparse --single-branch --no-tags --depth 1 https://github.com/MicrosoftDocs/azure-docs.git
+      - name: Sparse checkout Azure docs
+        id: git
+        working-directory: azure-docs
+        run: |
+          status=$(git show --oneline -s)
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+          git sparse-checkout set --no-cone "/articles/*/toc.yml" "/articles/*/TOC.yml" "/articles/*/index.yml" "/articles/*/INDEX.yml"
+          git checkout
+      - name: Extract TOC
+        shell: pwsh
+        run: |
+          gci -path azure-docs -recurse -file -include toc.yml|%{$_|copy-item -destination "$($_.directory.name).toc"}
+          gci -path azure-docs -recurse -file -include index.yml|%{$_|copy-item -destination "$($_.directory.name).index"}
+      - name: Save TOC
+        uses: actions/upload-artifact@v4
+        with:
+          name: toc
+          compression-level: 9 # max
+          path: |
+            *.toc
+            *.index
+      - name: Generate MD
+        shell: pwsh
+        run: |
+          install-module -name powershell-yaml -force
+          function indentitems($item,[int]$indent,[string]$product){
+            $indentstring=[string]::new(' ',$indent)
+            $safename=$item.name -replace '[\(\)\[\]]',''
+            $uribase=[uri]"https://learn.microsoft.com/en-us/azure/$product/"
+            if($item.href){
+              $leafname=$item.href -replace '\.md$',''
+              $uri=[uri]::new($uribase,$leafname)
+              $uri_nomd=[uri]"$($uri.scheme)://$($uri.host)$($uri.absolutepath -replace '\.md$','' -replace 'index\.yml$','')$($uri.query)"
+              "$indentstring- [$safename]($uri_nomd)"
+            }else{
+              "$indentstring- $safename"
+            }
+            if($item.items.count){
+              $item.items|%{indentitems $_ ($indent+2) $product}
+            }
+          }
+          "[book]`ntitle = `"Azure Docs Links`"`ndescription = `"Generated from commit: ${{ steps.git.outputs.status }}`"" > "book.toml"
+          remove-item -recurse -force -path "src"
+          new-item -itemtype directory -force -path "src"
+          get-childitem -file *.toc|% `
+            {
+              "# Azure Docs - Table of Contents`n---`n[Introduction](README.md)" > "src/SUMMARY.md"
+            } `
+            {
+              $product=$_.basename
+              "Processing $product..."
+              if (test-path "$product.index"){
+                $index=get-content -path "$product.index"|convertfrom-yaml
+                "[$($index.title)](./$product.md)" >> "src/SUMMARY.md"
+                "# $($index.title)" > "src/$product.md"
+                if ($index.summary){
+                  "> $($index.summary)" >> "src/$product.md"
+                }
+              }else {
+                "[$product](./$product.md)" >> "src/SUMMARY.md"
+                "# $product" > "src/$product.md"
+              }
+              $toc=$_|get-content|convertfrom-yaml
+              if($toc -is [hashtable]){
+                $toc.items|%{indentitems $_ 2 $product} >> "src/$product.md"
+              } else {
+                $toc|%{indentitems $_ 2 $product} >> "src/$product.md"
+              }
+            }
+            copy-item "README.md" "src/README.md"
+      - name: Save mdBook
+        uses: actions/upload-artifact@v4
+        with:
+          name: mdbook-src
+          compression-level: 9 # max
+          path: |
+            book.toml
+            src/*
+      - name: Git config as workflow named bot
+        run: |
+          git config user.name "GitHub Actions (${{ github.workflow }})"
+          git config user.email "<>"
+      - name: Git add and commit
+        run: |
+          git add book.toml
+          git add README.md
+          git add src/*
+          git diff-index --quiet HEAD || git commit -m 'Update of Azure docs'
+      - name: Git push
+        run: |
+          git push origin main
+      - name: Install mdBook
+        run: |
+          curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.40/mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz | tar -xz
+      - name: Build mdBook
+        run: |
+          ./mdbook build
+      - name: Upload mdBook
+        uses: actions/upload-artifact@v4
+        with:
+          name: mdbook-build
+          compression-level: 9 # max
+          path: book
+
+  publish:
+    needs: process
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Download markdown
+        uses: actions/download-artifact@v4
+        with:
+          name: mdbook-build
+          path: .
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
