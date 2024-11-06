@@ -1,0 +1,33 @@
+# Azure Resource Mover documentation
+> Move Azure resources between Azure regions in the Azure Resource Mover hub.
+  - [Azure Resource Mover Documentation](https://learn.microsoft.com/en-us/azure/resource-mover/)
+  - Overview
+    - [About Azure Resource Mover](https://learn.microsoft.com/en-us/azure/resource-mover/overview)
+    - [Select a tool to move resources](https://learn.microsoft.com/en-us/azure/resource-mover/select-move-tool)
+    - [Common questions](https://learn.microsoft.com/en-us/azure/resource-mover/common-questions)
+    - [What's new](https://learn.microsoft.com/en-us/azure/resource-mover/whats-new)
+  - Tutorials
+    - [Move Azure VMs to another region](https://learn.microsoft.com/en-us/azure/resource-mover/tutorial-move-region-virtual-machines)
+    - [Move encrypted Azure VMs to another region](https://learn.microsoft.com/en-us/azure/resource-mover/tutorial-move-region-encrypted-virtual-machines)
+    - [Move resources across regions with PowerShell](https://learn.microsoft.com/en-us/azure/resource-mover/tutorial-move-region-powershell)
+    - [Move SQL resources to another region](https://learn.microsoft.com/en-us/azure/resource-mover/tutorial-move-region-sql)
+  - Concepts
+    - [Move overview](https://learn.microsoft.com/en-us/azure/resource-mover/about-move-process)
+    - [Support-Move Azure VMs across regions](https://learn.microsoft.com/en-us/azure/resource-mover/support-matrix-move-region-azure-vm)
+    - [Support-Move Azure SQL across regions](https://learn.microsoft.com/en-us/azure/resource-mover/support-matrix-move-region-sql)
+    - [Support-Move Extension resource types](https://learn.microsoft.com/en-us/azure/resource-mover/support-matrix-extension-resource-types)
+  - How-to Guides
+    - Move across regions
+      - [Move Azure VMs to availability zones](https://learn.microsoft.com/en-us/azure/resource-mover/move-region-availability-zone)
+      - [Move across regions from resource group](https://learn.microsoft.com/en-us/azure/resource-mover/move-region-within-resource-group)
+    - Manage region moves
+      - [Modify destination settings](https://learn.microsoft.com/en-us/azure/resource-mover/modify-target-settings)
+      - [Remove resources from a move collection](https://learn.microsoft.com/en-us/azure/resource-mover/remove-move-resources)
+      - [Manage resources created during move](https://learn.microsoft.com/en-us/azure/resource-mover/manage-resources-created-move-process)
+  - Resources
+    - [Migration in the Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/)
+    - [Azure services relcoation guidance overview](https://learn.microsoft.com/azure/operational-excellence/overview-relocation)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.migrate/allversions)
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+  - Monitoring
+    - [Monitor Move across region](https://learn.microsoft.com/en-us/azure/resource-mover/move-across-region-dashboard)

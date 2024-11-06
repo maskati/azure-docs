@@ -1,0 +1,43 @@
+# Oracle on Azure Documentation
+> Oracle applications and solutions on Azure.
+  - [Oracle on Azure Documentation](https://learn.microsoft.com/en-us/azure/oracle/)
+  - [Overview](https://learn.microsoft.com/en-us/azure/oracle/oracle-azure-overview)
+  - Oracle on Azure Virtual Machines
+    - [Overview - Oracle on Azure Virtual Machines](https://learn.microsoft.com/azure/virtual-machines/workloads/oracle/)
+  - Oracle Database@Azure
+    - [What's new](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-what-is-new)
+    - [Region availability](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-regions)
+    - [Get started](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-get-started)
+    - [Compliance information](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-compliance)
+    - [Overview](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/database-overview)
+    - [Network planning](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-network-plan)
+    - [Groups and roles](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-groups-roles)
+    - [Troubleshoot](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-troubleshoot)
+    - [Known issues](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-known-issues)
+    - Onboarding
+      - [Onboard Oracle Database@Azure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/onboard-oracle-database)
+    - Design considerations
+      - [Groups and roles](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-groups-roles)
+      - [Plan IP address space](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-plan-ip)
+      - [Delegated subnet limits](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-delegated-subnet-limits)
+    - Exadata services
+      - [What's new in Exadata services](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/exadata-whats-new-services)
+      - [Provision an Exadata infrastructure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/exadata-provision-infrastructure)
+      - [Manage Exadata resources](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/exadata-manage-resources)
+      - [Operations processes for Exadata services](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/exadata-operations-processes-services)
+      - [OCI multicloud landing zone for Azure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/exadata-multicloud-landing-zone-azure-services)
+      - [Terraform/OpenTofu examples for Exadata services](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/exadata-examples-services)
+      - [Troubleshoot Exadata services](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/exadata-troubleshoot-services)
+    - Autonomous Database services
+      - [What's new in Autonomous Database services](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-whats-new-autonomous-database-services)
+      - [Provision an autonomous database](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/provision-autonomous-oracle-databases)
+      - [Manage Autonomous Database resources](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-manage-autonomous-database-resources)
+      - [Autonomous Database services in Azure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-autonomous-database-services)
+      - [Operations processes for Autonomous Database services](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-processes-autonomous-database-services)
+      - [Provision an Autonomous Database instance](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-provision-autonomous-database)
+      - [OCI multicloud landing zone for Azure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-cloud-infrastructure-azure-autonomous-database-services)
+      - [Terraform/OpenTofu examples for Autonomous Database services](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-examples-autonomous-database-services)
+      - [Troubleshoot Autonomous Database services](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-troubleshoot-autonomous-database-services)
+    - [Link Oracle Database@Azure to multiple Azure subscriptions](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/link-oracle-database-multiple-subscription)
+    - [Support](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-support)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/faq-oracle-database-azure)

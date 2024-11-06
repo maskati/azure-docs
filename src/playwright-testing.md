@@ -1,0 +1,38 @@
+# Microsoft Playwright Testing Preview documentation
+> Learn how to run end-to-end tests for your web apps at scale with Microsoft Playwright Testing Preview. Run Playwright tests with high parallelization across different operating system and browser combinations simultaneously. Tutorials, code examples, GitHub Actions, Azure Pipelines, and more.
+  - [Microsoft Playwright Testing documentation](https://learn.microsoft.com/en-us/azure/playwright-testing/)
+  - Overview
+    - [What is Microsoft Playwright Testing?](https://learn.microsoft.com/en-us/azure/playwright-testing/overview-what-is-microsoft-playwright-testing)
+    - [Try Microsoft Playwright Testing for free](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-try-playwright-testing-free)
+  - Quickstarts
+    - [Run end-to-end tests at scale](https://learn.microsoft.com/en-us/azure/playwright-testing/quickstart-run-end-to-end-tests)
+    - [Set up continuous end-to-end testing](https://learn.microsoft.com/en-us/azure/playwright-testing/quickstart-automate-end-to-end-testing)
+    - [Troubleshoot using rich reports and atrifacts](https://learn.microsoft.com/en-us/azure/playwright-testing/quickstart-generate-rich-reports-for-tests)
+  - Concepts
+    - [Determine optimal test suite configuration](https://learn.microsoft.com/en-us/azure/playwright-testing/concept-determine-optimal-configuration)
+  - How-to guides
+    - [Optimize regional latency](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-optimize-regional-latency)
+    - [Manage workspaces](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-manage-playwright-workspace)
+    - [Manage access tokens](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-manage-access-tokens)
+    - [Manage workspace access](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-manage-workspace-access)
+    - [Run tests for local apps](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-test-local-applications)
+    - [Configure visual comparisons](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-configure-visual-comparisons)
+    - [Monitor Microsoft Playwright Testing](https://learn.microsoft.com/en-us/azure/playwright-testing/monitor-playwright-testing)
+    - [Use Microsoft Playwright Testing with sharding](https://learn.microsoft.com/en-us/azure/playwright-testing/playwright-testing-reporting-with-sharding)
+    - [Manage authentication](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-manage-authentication)
+    - [Use service features](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-use-service-features)
+    - [Use service package options](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-use-service-config-file)
+  - Samples
+    - [Contoso Traders cloud testing demo](https://github.com/microsoft/contosotraders-cloudtesting/)
+    - [Examples repository](https://github.com/microsoft/playwright-testing-service/)
+  - Troubleshoot & debug
+    - [Troubleshoot Playwright portal sign-in issues](https://learn.microsoft.com/en-us/azure/playwright-testing/troubleshoot-unable-sign-into-playwright-portal)
+    - [Troubleshoot test run failures](https://learn.microsoft.com/en-us/azure/playwright-testing/troubleshoot-test-run-failures)
+  - Resources
+    - [Azure roadmap](https://azure.microsoft.com/roadmap/)
+    - [Playwright documentation](https://playwright.dev/)
+    - [Pricing](https://aka.ms/mpt/pricing)
+    - [Regional availability](https://azure.microsoft.com/regions/services/)
+    - [Service limits](https://learn.microsoft.com/en-us/azure/playwright-testing/resource-limits-quotas-capacity)
+  - Reference
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/playwright-testing/monitor-playwright-testing-reference)

@@ -1,0 +1,55 @@
+# Azure Deployment Environments documentation
+> Learn how to configure self-serve environments that developers can use to deploy their code with Azure Deployment Environments. Tutorials, quickstarts, how-to guides, and more.
+  - [Azure Deployment Environments documentation](https://learn.microsoft.com/en-us/azure/deployment-environments/)
+  - Overview
+    - [What is Azure Deployment Environments?](https://learn.microsoft.com/en-us/azure/deployment-environments/overview-what-is-azure-deployment-environments)
+    - [Roadmap for Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/ade-roadmap)
+  - Quickstarts
+    - [Configure Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/quickstart-create-and-configure-devcenter)
+    - [Create dev center and project Azure Resource Manager](https://learn.microsoft.com/en-us/azure/deployment-environments/quickstart-create-dev-center-project-azure-resource-manager)
+    - [Create and access an environment](https://learn.microsoft.com/en-us/azure/deployment-environments/quickstart-create-access-environments)
+  - Concepts
+    - [Key concepts](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-environments-key-concepts)
+    - [Parameters and data types in environment.yaml](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-environment-yaml)
+    - [Best practices for designing catalogs](https://learn.microsoft.com/en-us/azure/deployment-environments/best-practice-catalog-structure)
+    - [Reliability in Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/reliability/reliability-deployment-environments?toc=/azure/deployment-environments/toc.json&bc=/azure/deployment-environments/breadcrumb/toc.json)
+    - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-deployment-environments-role-based-access-control)
+  - Configure resources
+    - [Add & configure a catalog](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-catalog)
+    - [Add & configure an environment definition](https://learn.microsoft.com/en-us/azure/deployment-environments/configure-environment-definition)
+    - [Configure a managed identity](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-managed-identity)
+    - [Configure dev center environment types](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-devcenter-environment-types)
+    - [Add & delete project environment types](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-project-environment-types)
+    - [Create and configure a dev center from the CLI](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-create-configure-dev-center)
+    - [Create and configure a project from the CLI](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-create-configure-projects)
+    - [Configure AZD-compatible templates](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-azure-developer-cli-deployment-environments)
+  - Create and manage environments
+    - [Manage environments in the developer portal](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-manage-environments)
+    - [Create environments with Azure CLI](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-create-access-environments)
+  - Configure the ADE extensibility model
+    - [Configure container image to execute deployments](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-extensibility-model-custom-image)
+    - [Troubleshoot custom image errors and warnings](https://learn.microsoft.com/en-us/azure/deployment-environments/troubleshoot-custom-image-logs-errors)
+  - Use Azure Developer CLI with ADE
+    - [Use Azure Developer CLI azd with ADE](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-azure-developer-cli-with-deployment-environments)
+    - [Create environments with Azure Developer CLI azd](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-create-environment-with-azure-developer)
+  - Manage costs
+    - [Automatically delete an environment](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-schedule-environment-deletion)
+    - [Request a quota limit increase](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-request-quota-increase)
+  - Security
+    - [Provide access to dev managers](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-project-admin)
+    - [Provide access to developers](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-deployment-environments-user)
+    - [Authenticate to REST APIs](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-authenticate)
+  - Automate with CI/CD
+    - [Automate with GitHub Actions CI/CD](https://learn.microsoft.com/en-us/azure/deployment-environments/tutorial-deploy-environments-in-cicd-github)
+    - [Automate with Azure Pipelines CI/CD](https://learn.microsoft.com/en-us/azure/deployment-environments/tutorial-deploy-environments-in-cicd-azure-devops)
+  - Reference
+    - [ADE CLI reference](https://learn.microsoft.com/en-us/azure/deployment-environments/reference-deployment-environment-cli)
+    - [ADE CLI variables](https://learn.microsoft.com/en-us/azure/deployment-environments/reference-deployment-environment-variables)
+    - [Install Azure CLI extension](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-install-devcenter-cli-extension)
+    - [Azure CLI - devcenter](https://aka.ms/CLI-reference)
+    - [REST API](https://learn.microsoft.com/rest/api/devcenter/)
+  - Resources
+    - [Azure roadmap](https://azure.microsoft.com/roadmap/)
+    - [Regional availability](https://azure.microsoft.com/regions/services/)
+    - [Report a problem](https://aka.ms/deployment-environments/reportproblem)
+    - [Suggest a feature](https://aka.ms/deployment-environments/suggestfeature)

@@ -1,0 +1,29 @@
+# Azure Import/Export documentation
+> Use Azure Import/Export to securely import large amounts of data to Azure Blob storage and Azure Files by shipping disk drives to an Azure datacenter.
+  - [Azure Import/Export documentation](https://learn.microsoft.com/en-us/azure/import-export/)
+  - Overview
+    - [What is Import/Export?](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-service)
+  - Tutorials
+    - [Import data to Blob storage](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-data-to-blobs)
+    - [Import data to Azure Files](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-data-to-files)
+    - [Export data from Blob storage](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-data-from-blobs)
+  - Concepts
+    - [Review requirements](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-requirements)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-service-faq.yml)
+  - How to
+    - [Use customer-managed keys](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-encryption-key-portal)
+    - [Identify disks to use](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-determine-drives-for-export)
+    - Monitor
+      - [View job, drive status](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-view-drive-status)
+      - [Review copy logs](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-tool-reviewing-job-status-v1)
+    - Troubleshoot
+      - [Fix common errors](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-tool-troubleshooting-v1)
+      - [Repair an import job](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-tool-repairing-an-import-job-v1)
+      - [Repair an export job](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-tool-repairing-an-export-job-v1)
+      - [Contact Support](https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-contact-microsoft-support)
+  - Reference
+    - [REST API](https://github.com/Azure-Samples/azure-stack-edge-deploy-vms/blob/master/MicrosoftAzureImportExportAPIMigrationGuide_20221206.pdf)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/Az.ImportExport)
+  - Resources
+    - [Export data offline](https://learn.microsoft.com/training/modules/export-data-with-azure-import-export)
+    - [Other offline transfer options](https://learn.microsoft.com/en-us/azure/databox/)

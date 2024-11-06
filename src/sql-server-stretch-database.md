@@ -1,0 +1,30 @@
+# Azure SQL Server Stretch Database documentation
+> Learn how to use SQL Server Stretch Database to migrate cold data transparently and securely to the Azure cloud. You can set up cost-effective availability for databases with infrequently used data without requiring changes to existing queries or applications.
+  - [Azure SQL Server Stretch Database documentation](https://learn.microsoft.com/en-us/azure/sql-server-stretch-database/)
+  - Overview
+    - [What is Stretch Database?](https://learn.microsoft.com/sql/sql-server/stretch-database/stretch-database)
+    - [Limitations and blocking issues](https://learn.microsoft.com/sql/sql-server/stretch-database/limitations-for-stretch-database)
+  - Get Started
+    - [Identify databases and tables](https://learn.microsoft.com/sql/sql-server/stretch-database/stretch-database-databases-and-tables-stretch-database-advisor)
+    - [Run the wizard](https://learn.microsoft.com/sql/sql-server/stretch-database/get-started-by-running-the-enable-database-for-stretch-wizard)
+  - How To
+    - Enable
+      - [Enable a database](https://learn.microsoft.com/sql/sql-server/stretch-database/enable-stretch-database-for-a-database)
+      - [Enable a table](https://learn.microsoft.com/sql/sql-server/stretch-database/enable-stretch-database-for-a-table)
+      - [Select rows to migrate](https://learn.microsoft.com/sql/sql-server/stretch-database/select-rows-to-migrate-by-using-a-filter-function-stretch-database)
+    - Manage
+      - [Monitor data migration](https://learn.microsoft.com/sql/sql-server/stretch-database/monitor-and-troubleshoot-data-migration-stretch-database)
+      - [Pause and resume migration](https://learn.microsoft.com/sql/sql-server/stretch-database/pause-and-resume-data-migration-stretch-database)
+      - [Manage and troubleshoot](https://learn.microsoft.com/sql/sql-server/stretch-database/manage-and-troubleshoot-stretch-database)
+      - [Back up](https://learn.microsoft.com/sql/sql-server/stretch-database/backup-stretch-enabled-databases-stretch-database)
+      - [Restore](https://learn.microsoft.com/sql/sql-server/stretch-database/restore-stretch-enabled-databases-stretch-database)
+      - [Disable Stretch Database](https://learn.microsoft.com/sql/sql-server/stretch-database/disable-stretch-database-and-bring-back-remote-data)
+  - Reference
+    - [Code samples](https://azure.microsoft.com/resources/samples/?service=sql-server-database)
+  - Resources
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Blog](https://blogs.technet.microsoft.com/dataplatforminsider/tag/stretch-database/)
+    - [Pricing](https://azure.microsoft.com/pricing/details/sql-server-stretch-database/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Service updates](https://azure.microsoft.com/updates/?product=sql-server-stretch-database)
+    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=sql-server-stretch-database)

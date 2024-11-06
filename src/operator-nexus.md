@@ -1,0 +1,177 @@
+# Operator Nexus
+> Operator Nexus runs network-intensive workloads under stringent security, performance and manageability. Learn Operator Nexus with these quickstarts and how-to guides.
+  - [Azure Operator Nexus documentation](https://learn.microsoft.com/en-us/azure/operator-nexus/)
+  - Overview
+    - [What is Azure Operator Nexus?](https://learn.microsoft.com/en-us/azure/operator-nexus/overview)
+  - Concepts
+    - [Resource Types](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-resource-types)
+    - [Compute overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-compute)
+    - [Storage overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage)
+    - [Cluster deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-deployment-overview)
+    - Network Fabric
+      - [Network Fabric overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric)
+      - [Network Fabric Controller](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-controller)
+      - [Network Fabric Services](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-services)
+      - [Network Fabric resource update and commit](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-resource-update-commit)
+      - [Network Fabric read-only commands](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-read-only-commands)
+      - [Network Fabric read write commands](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-read-write-commands)
+      - [Disable Border Gateway Protocol neighbors](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-disable-border-gateway-protocol-neighbors)
+      - [Network Packet Broker](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-network-packet-broker)
+      - Route Policy
+        - [Route Policy Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-route-policies-overview)
+        - [IP Prefixes Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-ip-prefix)
+      - Isolation Domains
+        - [Isolation Domains overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-isolation-domain)
+        - [Isolation Domain configuration](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-isolation-domain-configuration)
+        - [Technical requirements for Isolation Domains](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-isolation-domain-technical-requirements)
+      - [Access Control Lists](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-access-control-lists)
+    - Nexus Kubernetes Cluster
+      - [Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-kubernetes-cluster)
+      - [Resource Placement](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-kubernetes-placement)
+      - [Networking](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-networking)
+      - [Workload Network Types](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-workload-network-types)
+    - Observability
+      - [Observability](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-observability)
+      - [Metrics](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-operator-nexus-observability-metrics)
+      - [Azure Operator Nexus Network Fabric Configuration Monitoring](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-configuration-monitoring)
+      - [Azure Operator Nexus Network Fabric Internal Network BGP Metrics](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-internal-network-bgp-metrics)
+    - [Security](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-security)
+    - [Control Plane Resiliency](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-rack-resiliency)
+    - [Access and Identity](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-security-access-identity)
+    - [Availability](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-availability)
+  - Quickstarts
+    - [Before you start workload deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-tenant-workload-prerequisites)
+    - Deploy Nexus Kubernetes cluster
+      - [Use the Azure CLI](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-kubernetes-cluster-deployment-cli)
+      - [Use ARM template](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-kubernetes-cluster-deployment-arm)
+      - [Use Bicep file](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-kubernetes-cluster-deployment-bicep)
+      - [Use Azure PowerShell](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-kubernetes-cluster-deployment-powershell)
+    - Deploy Nexus Virtual Machine
+      - [Use the Azure CLI](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-virtual-machine-deployment-cli)
+      - [Use ARM template](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-virtual-machine-deployment-arm)
+      - [Use Bicep file](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-virtual-machine-deployment-bicep)
+      - [Use Azure PowerShell](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-virtual-machine-deployment-ps)
+  - How-To Guides
+    - Operator Nexus Instance Deployment and Upgrade
+      - Management Plane
+        - [Before you start deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-azure-operator-nexus-prerequisites)
+        - [Network Fabric Controller](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-network-fabric-controller)
+        - [Cluster Manager](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-manager)
+        - [Cluster Manager Template JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/clustermanager-jsonc-example)
+        - [Cluster Manager Parameters JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/clustermanager-parameters-jsonc-example)
+      - On-Premises Operator Nexus Instance
+        - Operator Nexus Instance Lifecycle Management
+          - [Before you start Operator Nexus platform deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-platform-prerequisites)
+          - [Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-network-fabric)
+          - [Cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-cluster)
+          - [Cluster Template JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/cluster-jsonc-example)
+          - [Cluster Parameters JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/cluster-parameters-jsonc-example)
+          - [Instance Readiness Testing](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-run-instance-readiness-testing)
+          - [Cluster Upgrades](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade)
+          - [Cluster Upgrades With PauseRack Startegy](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade-with-pauserack-strategy)
+          - [Credential Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-credential-rotation)
+          - [Credential Manager Key Vault](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-credential-manager-key-vault)
+    - Network Fabric
+      - [Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-isolation-domain)
+      - [Isolation Domain Configuration Examples](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-isolation-domain-configuration-examples)
+      - [Network Fabric Route Policy](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-route-policy)
+      - [IP Prefixes](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-ip-prefixes)
+      - [Network Packet Broker](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-network-packet-broker)
+      - [Validate cables for Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-validate-cables)
+      - [Creating Access Control Lists ACLs](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-create-access-control-list-for-network-to-network-interconnects)
+      - [Apply ACLs to Network-to-Network Interconnects NNI](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-apply-access-control-list-to-network-to-network-interconnects)
+      - [Updating ACL on Network-for-Network Interconnects NNI](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-update-access-control-list-for-network-to-network-interconnects)
+      - [Delete ACLs associated with Network-to-Network Interconnects NNI](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-delete-access-control-list-network-to-network-interconnect)
+      - [How to Configure Diagnostic Settings and Monitor Configuration Differences in Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-diagnostic-settings-monitor-configuration-differences)
+      - [How to Delete L3 Isolation Domains in Azure Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-delete-layer-3-isolation-domains)
+      - [How to monitor interface In and Out packet rate for network fabric devices](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-monitor-interface-packet-rate)
+      - [How to Delete L3 Isolation Domains in Azure Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-delete-layer-3-isolation-domains)
+      - [Cross-subscription deployments and required RBAC for Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cross-subscription-deployments-required-rbac-for-network-fabric)
+      - [How to replace network devices in Azure Operator Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-replace-network-devices)
+      - [How to put a device into maintenance mode](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-put-device-in-maintenance-mode)
+      - [How to upgrade Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric)
+    - Nexus Kubernetes cluster
+      - [Create dual-stack cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-dual-stack)
+      - [Understand agent pools](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-agent-pools)
+      - [Connect to the cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-connect)
+      - [Configure role-based access control](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-aad-rbac)
+      - [Upgrade Nexus Kubernetes cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-upgrade)
+      - [Configure huge-pages for cluster virtual machines](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-huge-pages)
+      - [Configure service load balancer](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-service-load-balancer)
+      - [Disable cgroupsv2 in Nexus Kubernetes 1.27+](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-disable-cgroupsv2)
+      - [Restart cluster node](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-action-restart)
+      - [Customize cluster DNS](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-customize-kubernetes-cluster-dns)
+      - [Customize worker nodes](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-customize-workers)
+      - [Collect debug logs for support ticket](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-log-collector-script)
+      - [Manage SSH keys](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-manage-ssh-key)
+      - [Install Microsoft Defender for Containers on a Nexus Kubernetes Cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-install-microsoft-defender)
+      - [Kubernetes cluster features](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-features)
+    - Nexus Virtual Machine
+      - [Create virtual machine image](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-virtual-machine-image)
+      - [Virtual machine console service](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-vm-console-service)
+      - [Virtual machine placement hints](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-virtual-machine-placement-hints)
+    - Observability
+      - [Monitor Nexus Kubernetes cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-monitor-naks-cluster)
+      - [Monitor VMs for VNF](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-monitor-virtualized-network-functions-virtual-machines)
+      - [Cluster metrics configuration management](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-metrics-configuration-management)
+      - [Tracking asynchronous operations](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-track-async-operations-cli)
+    - Security
+      - [Set up Defender for Cloud security](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-set-up-defender-for-cloud-security)
+      - [Use Azure Policy with Operator Nexus resources](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-azure-policy)
+      - [MDE Runtime Protection](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-mde-runtime-protection)
+      - [Configure Network Access Control Lists for SSH Access on Management VPN](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-acls-for-ssh-management-on-access-vpn)
+      - [Service Principal Best Practices](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-service-principal)
+        - [Service Principal Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-service-principal-rotation)
+    - [Install CLI Extension](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-install-cli-extensions)
+  - Troubleshooting
+    - Network Fabric
+      - [Troubleshoot Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-isolation-domain)
+    - Cluster or BMM
+      - [Troubleshoot Bare Metal Machine](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-reboot-reimage-replace)
+      - [Troubleshoot Bare Metal Machine Provisioning](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-bare-metal-machine-provisioning)
+      - [Troubleshoot Hardware Validation Failure](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-hardware-validation-failure)
+      - [Troubleshoot Control Plane Quorum](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-control-plane-quorum)
+      - [Troubleshoot Accepted Cluster Resource](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-accepted-cluster-hydration)
+      - [Troubleshoot Out of Memory Pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-memory-limits)
+      - BareMetal Actions
+        - [BareMetal BMM Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmm-ssh)
+        - [BareMetal BMC Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmc-ssh)
+        - [BareMetal Functions](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-functions)
+        - [BareMetal Run-Read Execution](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-run-read)
+        - [BareMetal Run-Data-Extract Execution](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-run-data-extract)
+        - [Running BareMetal actions directly with nexusctl](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-nexusctl)
+    - Storage Array
+    - Tenant Workload
+      - [Troubleshoot Nexus Kubernetes Cluster pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-nexus-kubernetes-cluster-pods)
+      - [Troubleshoot Resolve CSN storage pod stuck in ContainerCreating](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-csn-storage-pod-container-stuck-in-creating)
+      - [Troubleshoot Internet host virtual machine](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-internet-host-virtual-machine)
+      - [Troubleshoot VM errors after BMM restart](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-vm-error-after-reboot)
+      - [Troubleshooting dual-stack configuration issues for Nexus Kubernetes cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-dual-stack-configuration)
+  - [FAQ](https://learn.microsoft.com/en-us/azure/operator-nexus/azure-operator-nexus-faq)
+  - Reference
+    - Nexus Kubernetes service
+      - [Supported VM sizes](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-nexus-kubernetes-cluster-sku)
+      - [Supported Kubernetes versions](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-nexus-kubernetes-cluster-supported-versions)
+    - [Platform Cluster runtime versioning](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-nexus-platform-runtime-upgrades)
+    - [Supported Software Versions](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-supported-software-versions)
+    - [Instance to on-premises WAN Connectivity](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-customer-edge-provider-edge-connectivity)
+    - [List of metrics collected](https://learn.microsoft.com/en-us/azure/operator-nexus/List-of-metrics-collected)
+    - [List of logs available for streaming](https://learn.microsoft.com/en-us/azure/operator-nexus/list-logs-available)
+    - [Near-edge Compute](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-near-edge-compute)
+    - [BareMetal Machine roles](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-near-edge-baremetal-machine-roles)
+    - Nexus Storage Solution
+      - [Near-edge storage](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-near-edge-storage)
+      - [Supported Storage Appliance Versions](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-near-edge-storage-supported-versions)
+    - [Limits & quotas](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-limits-and-quotas)
+    - [Neighbor Group Configuration Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-neighbor-group-configuration)
+    - Route Policy
+      - [Route Policy configuration](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-route-policy-configuration)
+      - [Route Policy Configuration Examples](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-nexus-route-policy-config-examples)
+      - [Route Policy operations](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-nexus-route-policy-operations)
+    - Access Control Lists
+      - [Access Control List configuration](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-acl-configuration)
+      - [Access Control List configuration examples](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-acl-examples)
+    - [Operator Nexus SKUs](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-operator-nexus-skus)
+  - Release Notes
+    - 2024
+      - [2404.2](https://learn.microsoft.com/en-us/azure/operator-nexus/release-notes-2404.2)

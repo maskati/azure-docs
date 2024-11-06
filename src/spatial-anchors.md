@@ -1,0 +1,69 @@
+# Azure Spatial Anchors documentation
+> Spatial Anchors is a cross-platform developer service that allows you to create mixed reality experiences using objects that persist their location across devices over time.
+  - [Spatial Anchors Documentation](https://learn.microsoft.com/en-us/azure/spatial-anchors/)
+  - Overview
+    - [About Spatial Anchors](https://learn.microsoft.com/en-us/azure/spatial-anchors/overview)
+  - Quickstarts
+    - Run sample app
+      - Unity
+        - [HoloLens - Unity](https://learn.microsoft.com/en-us/azure/spatial-anchors/quickstarts/get-started-unity-hololens)
+        - [Android - Unity](https://learn.microsoft.com/en-us/azure/spatial-anchors/quickstarts/get-started-unity-android)
+        - [iOS - Unity](https://learn.microsoft.com/en-us/azure/spatial-anchors/quickstarts/get-started-unity-ios)
+      - [HoloLens - Visual Studio Native](https://learn.microsoft.com/en-us/azure/spatial-anchors/quickstarts/get-started-hololens)
+      - [Android - Android Studio](https://learn.microsoft.com/en-us/azure/spatial-anchors/quickstarts/get-started-android)
+      - [iOS - Xcode](https://learn.microsoft.com/en-us/azure/spatial-anchors/quickstarts/get-started-ios)
+      - Xamarin
+        - [Android - Xamarin](https://learn.microsoft.com/en-us/azure/spatial-anchors/quickstarts/get-started-xamarin-android)
+        - [iOS - Xamarin](https://learn.microsoft.com/en-us/azure/spatial-anchors/quickstarts/get-started-xamarin-ios)
+  - Tutorials
+    - [Create your own HoloLens app - Unity](https://learn.microsoft.com/en-us/azure/spatial-anchors/tutorials/tutorial-new-unity-hololens-app)
+    - [Create your own Android app - Android Studio](https://learn.microsoft.com/en-us/azure/spatial-anchors/tutorials/tutorial-new-android-app)
+    - [Sharing across sessions and devices](https://learn.microsoft.com/en-us/azure/spatial-anchors/tutorials/tutorial-share-anchors-across-devices)
+      - [Persistent sharing with Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/spatial-anchors/tutorials/tutorial-use-cosmos-db-to-store-anchors)
+  - How-to
+    - [Create an Azure Spatial Anchors account](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/create-asa-account)
+    - [Create and locate anchors](https://learn.microsoft.com/en-us/azure/spatial-anchors/create-locate-anchors-overview)
+      - [In Unity](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/create-locate-anchors-unity)
+      - [In Objective-C](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/create-locate-anchors-objc)
+      - [In Swift](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/create-locate-anchors-swift)
+      - [In Java](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/create-locate-anchors-java)
+      - [In C++/NDK](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/create-locate-anchors-cpp-ndk)
+      - [In C++/WinRT](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/create-locate-anchors-cpp-winrt)
+    - Use coarse relocalization to discover nearby anchors
+      - [In C#/Unity](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/set-up-coarse-reloc-unity)
+      - [In Objective-C](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/set-up-coarse-reloc-objc)
+      - [In Swift](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/set-up-coarse-reloc-swift)
+      - [In Java](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/set-up-coarse-reloc-java)
+      - [In C++/NDK](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/set-up-coarse-reloc-cpp-ndk)
+      - [In C++/WinRT](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/set-up-coarse-reloc-cpp-winrt)
+    - [Use coarse relocalization without an anchor session](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/use-coarse-relocalization-without-anchor-session)
+    - Project setup
+      - [Unity](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/setup-unity-project)
+      - [C++/WinRT](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/setup-cpp-winrt-project)
+    - [Move a Spatial Anchors account between regions](https://learn.microsoft.com/en-us/azure/spatial-anchors/how-tos/move-azure-spatial-anchors-account)
+  - Samples
+    - [Azure Spatial Anchors samples GitHub](https://github.com/Azure/azure-spatial-anchors-samples)
+    - [MROpenXR Azure Spatial Anchors sample GitHub](https://github.com/microsoft/OpenXR-Unity-MixedReality-Samples)
+  - Concepts
+    - [Authentication](https://learn.microsoft.com/en-us/azure/spatial-anchors/concepts/authentication)
+    - [Anchor relationships](https://learn.microsoft.com/en-us/azure/spatial-anchors/concepts/anchor-relationships-way-finding)
+    - [Experience guidelines](https://learn.microsoft.com/en-us/azure/spatial-anchors/concepts/guidelines-effective-anchor-experiences)
+    - [Logging and diagnostics](https://learn.microsoft.com/en-us/azure/spatial-anchors/concepts/logging-diagnostics)
+    - [Coarse relocalization](https://learn.microsoft.com/en-us/azure/spatial-anchors/concepts/coarse-reloc)
+    - [Anchor locate strategy](https://learn.microsoft.com/en-us/azure/spatial-anchors/concepts/anchor-locate-strategy)
+    - [Reliability in Spatial Anchors](https://learn.microsoft.com/en-us/azure/spatial-anchors/concepts/reliability-spatial-anchors)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-spatial-anchors-security-baseline?toc=/azure/spatial-anchors/toc.json)
+  - References
+    - [SDK for Unity](https://learn.microsoft.com/dotnet/api/Microsoft.Azure.SpatialAnchors/)
+    - [SDK for iOS Objective-C](https://learn.microsoft.com/objectivec/api/spatial-anchors/)
+    - [SDK for Android Java](https://learn.microsoft.com/java/api/com.microsoft.azure.spatialanchors/)
+    - [SDK for Android NDK](https://learn.microsoft.com/cpp/api/spatial-anchors/ndk/)
+    - [SDK for HoloLens C++/WinRT](https://learn.microsoft.com/cpp/api/spatial-anchors/winrt/)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/spatial-anchors-account)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.mixedreality)
+  - Resources
+    - [Release Notes](https://github.com/Azure/azure-spatial-anchors-samples/releases)
+    - [Azure Mixed Reality Resource Management REST API](https://learn.microsoft.com/rest/api/mixedreality/)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/spatial-anchors/spatial-anchor-faq.yml)
+    - [Support & Feedback](https://learn.microsoft.com/en-us/azure/spatial-anchors/spatial-anchor-support)

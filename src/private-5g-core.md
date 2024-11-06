@@ -1,0 +1,114 @@
+# Azure Private 5G Core documentation
+> Learn how to securely deploy and manage private mobile networks for 5G Internet of Things (IoT) devices using Azure Private 5G Core.
+  - [Azure Private 5G Core documentation](https://learn.microsoft.com/en-us/azure/private-5g-core/)
+  - Overview
+    - [What is Azure Private 5G Core?](https://learn.microsoft.com/en-us/azure/private-5g-core/private-5g-core-overview)
+    - [What's new?](https://learn.microsoft.com/en-us/azure/private-5g-core/whats-new)
+    - Packet core release notes
+      - [2404 - Current](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2404)
+      - [2403](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2403)
+      - [2310](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2310)
+      - [2308](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2308)
+      - [2307](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2307)
+      - [2306](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2306)
+      - [2305](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2305)
+      - [2303](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2303)
+      - [2302](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2302)
+      - [2301](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2301)
+      - [2211](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2211)
+      - [2210](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2210)
+      - [2209](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2209)
+      - [2208](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-private-5g-core-release-notes-2208)
+    - [Packet core and Azure Stack Edge compatibility](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-stack-edge-packet-core-compatibility)
+  - Quickstarts
+    - [Deploy a private mobile network and site - ARM template](https://learn.microsoft.com/en-us/azure/private-5g-core/deploy-private-mobile-network-with-site-arm-template)
+    - [Deploy a private mobile network and site - command line](https://learn.microsoft.com/en-us/azure/private-5g-core/deploy-private-mobile-network-with-site-command-line)
+    - [Deploy a private mobile network and site - PowerShell](https://learn.microsoft.com/en-us/azure/private-5g-core/deploy-private-mobile-network-with-site-powershell)
+  - Tutorials
+    - [Create an example policy control configuration set](https://learn.microsoft.com/en-us/azure/private-5g-core/tutorial-create-example-set-of-policy-control-configuration)
+  - Concepts
+    - [Key components of a private mobile network](https://learn.microsoft.com/en-us/azure/private-5g-core/key-components-of-a-private-mobile-network)
+    - [Private mobile network design requirements](https://learn.microsoft.com/en-us/azure/private-5g-core/private-mobile-network-design-requirements)
+    - [Statement of compliance](https://learn.microsoft.com/en-us/azure/private-5g-core/statement-of-compliance)
+    - [Policy control](https://learn.microsoft.com/en-us/azure/private-5g-core/policy-control)
+    - [Default service and allow-all SIM policy](https://learn.microsoft.com/en-us/azure/private-5g-core/default-service-sim-policy)
+    - [Radio access network insights](https://learn.microsoft.com/en-us/azure/private-5g-core/ran-insights-concepts)
+    - Monitor Azure Private 5G Core
+      - [Cloud monitoring with Azure Monitor platform metrics](https://learn.microsoft.com/en-us/azure/private-5g-core/monitor-private-5g-core-with-platform-metrics)
+      - [Cloud monitoring with Azure Monitor Workbooks](https://learn.microsoft.com/en-us/azure/private-5g-core/monitor-private-5g-core-workbooks)
+      - [Cloud monitoring of UE usage with Event Hubs](https://learn.microsoft.com/en-us/azure/private-5g-core/ue-usage-event-hub)
+      - [Cloud monitoring with RAN insights metrics](https://learn.microsoft.com/en-us/azure/private-5g-core/ran-insights-monitor-with-ran-metrics-concepts)
+      - [Cloud monitoring with RAN insights geo maps](https://learn.microsoft.com/en-us/azure/private-5g-core/ran-insights-monitor-with-geo-maps-concepts)
+      - [Cloud monitoring with correlated metrics](https://learn.microsoft.com/en-us/azure/private-5g-core/ran-insights-monitor-with-correlated-metrics-concepts)
+      - [Local monitoring with packet core dashboards](https://learn.microsoft.com/en-us/azure/private-5g-core/packet-core-dashboards)
+      - [Local monitoring with distributed tracing](https://learn.microsoft.com/en-us/azure/private-5g-core/distributed-tracing)
+    - [Reliability](https://learn.microsoft.com/en-us/azure/private-5g-core/reliability-private-5g-core)
+    - [Security](https://learn.microsoft.com/en-us/azure/private-5g-core/security)
+    - [Azure Stack Edge disconnects](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-stack-edge-disconnects)
+  - How-to guides
+    - Initial setup
+      - [Complete the prerequisite tasks for deploying a private mobile network](https://learn.microsoft.com/en-us/azure/private-5g-core/complete-private-mobile-network-prerequisites)
+      - [Commission the AKS cluster](https://learn.microsoft.com/en-us/azure/private-5g-core/commission-cluster)
+      - [Configure routers for a Highly Available HA deployment](https://learn.microsoft.com/en-us/azure/private-5g-core/configure-routers-high-availability)
+    - Request support
+      - [How to open a support request](https://learn.microsoft.com/en-us/azure/private-5g-core/open-support-request)
+    - Kubectl access
+      - [Set up kubectl access](https://learn.microsoft.com/en-us/azure/private-5g-core/set-up-kubectl-access)
+    - Private mobile networks
+      - [Collect the required information to deploy a private mobile network](https://learn.microsoft.com/en-us/azure/private-5g-core/collect-required-information-for-private-mobile-network)
+      - [Deploy a private mobile network - Azure portal](https://learn.microsoft.com/en-us/azure/private-5g-core/how-to-guide-deploy-a-private-mobile-network-azure-portal)
+      - [Configure Azure Private 5G Core network for accessing UE IP addresses](https://learn.microsoft.com/en-us/azure/private-5g-core/configure-access-for-user-equipment-ip-addresses)
+      - [Enable SUPI concealment](https://learn.microsoft.com/en-us/azure/private-5g-core/supi-concealment)
+    - Slices
+      - [Create and manage network slices - Azure portal](https://learn.microsoft.com/en-us/azure/private-5g-core/create-manage-network-slices)
+      - [Create a network slice - ARM template](https://learn.microsoft.com/en-us/azure/private-5g-core/create-slice-arm-template)
+    - Sites
+      - [Collect the required information for a site](https://learn.microsoft.com/en-us/azure/private-5g-core/collect-required-information-for-a-site)
+      - [Create a site - Azure portal](https://learn.microsoft.com/en-us/azure/private-5g-core/create-a-site)
+      - [Create a site - ARM template](https://learn.microsoft.com/en-us/azure/private-5g-core/create-site-arm-template)
+      - [Create additional Packet Core instances for a site - Azure portal](https://learn.microsoft.com/en-us/azure/private-5g-core/create-additional-packet-core)
+      - [Modify a service plan](https://learn.microsoft.com/en-us/azure/private-5g-core/modify-service-plan)
+      - [Delete a site](https://learn.microsoft.com/en-us/azure/private-5g-core/delete-a-site)
+    - Packet core
+      - [Modify a packet core instance](https://learn.microsoft.com/en-us/azure/private-5g-core/modify-packet-core)
+      - [Upgrade a packet core instance - Azure portal](https://learn.microsoft.com/en-us/azure/private-5g-core/upgrade-packet-core-azure-portal)
+      - [Upgrade a packet core instance - ARM template](https://learn.microsoft.com/en-us/azure/private-5g-core/upgrade-packet-core-arm-template)
+      - [Reinstall a packet core instance](https://learn.microsoft.com/en-us/azure/private-5g-core/reinstall-packet-core)
+      - [Create custom alerts](https://learn.microsoft.com/en-us/azure/private-5g-core/monitor-private-5g-core-alerts)
+    - Policy control
+      - [Collect the required information for a service](https://learn.microsoft.com/en-us/azure/private-5g-core/collect-required-information-for-service)
+      - [Configure a service - Azure portal](https://learn.microsoft.com/en-us/azure/private-5g-core/configure-service-azure-portal)
+      - [Collect the required information for a SIM policy](https://learn.microsoft.com/en-us/azure/private-5g-core/collect-required-information-for-sim-policy)
+      - [Configure a SIM policy - Azure portal](https://learn.microsoft.com/en-us/azure/private-5g-core/configure-sim-policy-azure-portal)
+      - [Configure a service and SIM policy - ARM template](https://learn.microsoft.com/en-us/azure/private-5g-core/configure-service-sim-policy-arm-template)
+      - [Configure UE to UE internal forwarding - Azure portal](https://learn.microsoft.com/en-us/azure/private-5g-core/configure-internal-forwarding)
+    - Radio access network insights
+      - [Create a RAN insights resource - Azure Portal](https://learn.microsoft.com/en-us/azure/private-5g-core/ran-insights-create-resource)
+    - SIMs
+      - [Provision new SIMs - Azure portal](https://learn.microsoft.com/en-us/azure/private-5g-core/provision-sims-azure-portal)
+      - [Provision new SIMs - ARM template](https://learn.microsoft.com/en-us/azure/private-5g-core/provision-sims-arm-template)
+      - [Manage existing SIMs](https://learn.microsoft.com/en-us/azure/private-5g-core/manage-existing-sims)
+      - [Manage SIM groups](https://learn.microsoft.com/en-us/azure/private-5g-core/manage-sim-groups)
+    - Local monitoring tools
+      - [Enable Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/private-5g-core/enable-azure-active-directory)
+      - [Export, upload and share traces](https://learn.microsoft.com/en-us/azure/private-5g-core/distributed-tracing-share-traces)
+      - [Modify a packet core instance's local access configuration](https://learn.microsoft.com/en-us/azure/private-5g-core/modify-local-access-configuration)
+    - Network diagnostic tools
+      - [Perform packet capture on a packet core instance](https://learn.microsoft.com/en-us/azure/private-5g-core/data-plane-packet-capture)
+      - [Use ping and traceroute on a packet core instance](https://learn.microsoft.com/en-us/azure/private-5g-core/ping-traceroute)
+    - [Gather diagnostics](https://learn.microsoft.com/en-us/azure/private-5g-core/gather-diagnostics)
+    - Manage resources
+      - [Move private mobile network resources](https://learn.microsoft.com/en-us/azure/private-5g-core/region-move-private-mobile-network-resources)
+      - [Delete resources](https://learn.microsoft.com/en-us/azure/private-5g-core/delete-resources)
+  - Reference
+    - [REST API](https://learn.microsoft.com/rest/api/mobilenetwork)
+    - [Region code names](https://learn.microsoft.com/en-us/azure/private-5g-core/region-code-names)
+    - [Service limits and resource usage](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-stack-edge-virtual-machine-sizing)
+    - [5QI to DSCP mapping](https://learn.microsoft.com/en-us/azure/private-5g-core/differentiated-services-codepoint-5qi-mapping)
+    - [Support lifetime](https://learn.microsoft.com/en-us/azure/private-5g-core/support-lifetime)
+    - [Azure Policy definitions](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-policy-reference)
+  - Resources
+    - [Azure Private 5G Core product page](https://azure.microsoft.com/services/private-5g-core/)
+    - [Azure private MEC documentation](https://learn.microsoft.com/en-us/azure/private-multi-access-edge-compute-mec/)
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Blog](https://azure.microsoft.com/blog/topics/networking)

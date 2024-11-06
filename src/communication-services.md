@@ -1,0 +1,750 @@
+# Azure Communication Services documentation
+> Build powerful, cloud-based communication and customer engagement experiences by adding voice, video, chat, sms, email, teams interoperability, call automation, and telephony to your apps.
+  - [Azure Communication Services documentation](https://learn.microsoft.com/en-us/azure/communication-services/)
+  - Overview
+    - [What's new](https://learn.microsoft.com/en-us/azure/communication-services/whats-new)
+    - Fundamentals
+      - [What is Azure Communication Services?](https://learn.microsoft.com/en-us/azure/communication-services/overview)
+      - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
+      - [Create a Communication Services resource](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/create-communication-resource)
+      - [Create an email resource](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/create-email-communication-resource)
+      - [Create an access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
+      - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)
+      - [Subscribe to events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/events/subscribe-to-events)
+      - [SDKs and APIs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sdk-options)
+      - [Designing your architecture](https://learn.microsoft.com/en-us/azure/communication-services/concepts/client-and-server-architecture)
+    - Services
+      - [SMS](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/concepts)
+      - [Voice and Video](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/calling-sdk-features)
+      - [Phone calling](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/telephony-concept)
+      - [Chat](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
+      - [Email](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/prepare-email-communication-resource)
+      - Advanced Messaging
+        - [WhatsApp](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-overview)
+      - [Job Router](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/concepts)
+    - Common scenarios
+      - [Virtual visit](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/virtual-visits)
+      - [Virtual event](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/events-playbook)
+      - [Contact center](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/contact-center)
+      - [Embed chat in Teams custom app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/chat-app-teams-embed)
+    - Privacy and compliance
+      - [Data residency and user privacy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/privacy)
+      - [European Union Data Boundary](https://learn.microsoft.com/en-us/azure/communication-services/concepts/european-union-data-boundary)
+      - [Azure Government](https://learn.microsoft.com/en-us/azure/communication-services/concepts/government)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-communication-services-security-baseline?toc=/azure/communication-services/toc.json)
+    - [Artificial intelligence AI](https://learn.microsoft.com/en-us/azure/communication-services/concepts/ai)
+    - [Service limits](https://learn.microsoft.com/en-us/azure/communication-services/concepts/service-limits)
+    - [Troubleshooting](https://learn.microsoft.com/en-us/azure/communication-services/concepts/troubleshooting-info)
+    - [Help and support options](https://learn.microsoft.com/en-us/azure/communication-services/support)
+  - Quickstart
+    - SMS
+      - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)
+      - [Send an SMS message](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/send)
+      - [Receive and reply to SMS](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/receive-sms)
+    - Voice, Video and Chat
+      - [Calling with chat](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/ui-library/get-started-calling-with-chat)
+    - Voice and Video
+      - Connect to a call
+        - [Create an access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
+        - [Add voice calling to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/getting-started-with-calling)
+        - [Add video calling to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-with-video-calling)
+      - Connect to a Teams call
+        - Use an external identity
+          - [Create an access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
+          - [Add Teams meeting calling to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-teams-interop)
+          - [Connect Teams users to Azure calls](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-teams-interop-group-calls)
+        - Use a Teams identity
+          - [Generate an access token for a Teams User](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/manage-teams-identity)
+          - [Add Teams video calling to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-with-voice-video-calling-custom-teams-client)
+      - Connect to a Teams calling application
+        - [Connect to Call Queue](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-teams-call-queue)
+        - [Connect to Auto Attendant](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-teams-auto-attendant)
+      - Connect to a Room call
+        - [Create a room](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/rooms/get-started-rooms)
+        - [Join a room call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/rooms/join-rooms-call)
+        - [Manage a room call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/rooms/manage-rooms-call)
+      - [Use UI components for voice and video](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/ui-library/get-started-composites)
+      - [Add data channel messaging to your calling app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-data-channel)
+      - [Set video constraints in your calling app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-video-constraints)
+    - Chat
+      - Connect to a chat
+        - [Create an access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
+        - [Add chat to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/get-started)
+      - Connect to Teams
+        - Use an external identity
+          - [Create an access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
+          - [Add Teams meeting chat to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/meeting-interop)
+      - [Use UI components for chat](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/ui-library/get-started-chat-ui-library)
+    - Phone calling
+      - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)
+      - [Get a trial phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-trial-phone-number)
+      - [Lookup number type and carrier details](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/number-lookup)
+      - [Make an outbound call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/call-automation/quickstart-make-an-outbound-call)
+      - [Add a Microsoft Teams user to an existing call](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/teams-interop-call-automation)
+      - [Add outbound phone calling to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/pstn-call)
+      - [Configure direct routing](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/voice-routing-sdk-config)
+    - Email
+      - [Create an email resource](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/create-email-communication-resource)
+      - [Get a free Azure managed domain](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-azure-managed-domains)
+      - [Add a custom domain](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-custom-verified-domains)
+      - [Connect domain to send email](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/connect-email-communication-resource)
+      - [Send an email](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email)
+      - Advanced email sending
+        - [Send email to multiple recipients](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/send-email-to-multiple-recipients)
+        - [Send email with attachments](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/send-email-with-attachments)
+        - [Send email with inline attachments](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/send-email-with-inline-attachments)
+        - [Manually poll for email status](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/manually-poll-for-email-status)
+        - [Throw an exception when sending tier limit is reached](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/throw-exception-when-tier-limit-reached)
+        - [Use email object model for payload](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/use-email-object-model-for-payload)
+      - [Add multiple sender addresses](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-multiple-senders)
+      - [Add multiple sender addresses with Azure Communication Services Management SDKs](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-multiple-senders-mgmt-sdks)
+      - [Manage domain suppression lists with Azure Communication Services Management SDKs](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/manage-suppression-list-management-sdks)
+      - [Manage domain suppression lists in the Azure portal](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/manage-suppression-lists)
+      - Sending emails using SMTP
+        - [Setting up SMTP Authentication](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-smtp/smtp-authentication)
+        - [Smtp Send Mail Examples](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-smtp/send-email-smtp)
+    - Job Router
+      - [Submit a job for queuing and routing](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/router/get-started-router)
+      - [Integrate Azure OpenAI with Job Router](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/router/job-router-azure-openai-integration)
+    - Advanced Messaging
+      - WhatsApp
+        - [Register WhatsApp Business Account](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/connect-whatsapp-business-account)
+        - [WhatsApp Business Account FAQ](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-business-account-faq)
+        - [Send WhatsApp Messages](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/get-started)
+        - [Handle Advanced Messaging Events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/handle-advanced-messaging-events)
+        - [Download Media Payload](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/download-media)
+        - [Try Advanced Messaging Sandbox](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-sandbox-quickstart)
+      - Message Analysis
+        - [Enable Message Analysis With Azure OpenAI](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/message-analysis/message-analysis-with-azure-openai-quickstart)
+    - Managed Identity
+      - [Enable Managed Identity on Azure Communication Services resources](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/managed-identity)
+    - Events and notifications
+      - [Subscribe to events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/events/subscribe-to-events)
+      - [Validate events](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/event-grid/view-events-request-bin)
+      - [Test events locally](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/event-grid/local-testing-event-grid)
+      - [Deliver push notifications](https://learn.microsoft.com/en-us/azure/communication-services/concepts/notifications)
+  - Tutorials
+    - SMS
+      - [Authenticate with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/service-principal)
+      - [Use Postman to send SMS messages](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/postman-tutorial)
+      - [Send short URL](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/sms-url-shortener)
+      - [Migrate to Android push notifications FCM v1](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-chat-migrate-android-push-fcm-v1)
+      - [Register for Android push notifications FCM v1](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-chat-register-android-push-fcm-v1)
+      - Phone numbers
+        - [Port a phone number into Azure](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/port-phone-number)
+        - [Apply for a short code](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-short-code)
+        - [Apply for toll-free verification](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-toll-free-verification)
+        - [Enable alphanumeric sender ID](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/enable-alphanumeric-sender-id)
+        - [Look up a recipient phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/number-lookup)
+      - Events
+        - [View SMS events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/handle-sms-events)
+      - Analytics
+        - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
+        - [SMS insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/sms-insights)
+        - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
+    - Voice and Video
+      - [Setup for Node.JS app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/building-app-start)
+      - [Build an authentication service using Azure Functions](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/trusted-service-tutorial)
+      - [Add Calling and Chat SDK in an Android application](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-android-calling-chat-sdk)
+      - Adding audio quality enhancements
+        - [Enabling audio effects](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/audio-quality-enhancements/add-noise-supression)
+      - Virtual appointments
+        - [Sample builder](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/virtual-visits/sample-builder)
+        - Extend Teams
+          - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/virtual-visits/extend-teams/overview)
+          - [Scheduling](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/virtual-visits/extend-teams/schedule)
+          - [Before and after appointment](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/virtual-visits/extend-teams/before-and-after-appointment)
+          - [Precall](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/virtual-visits/extend-teams/precall)
+          - [Call](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/virtual-visits/extend-teams/call)
+      - Calling widget
+        - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/calling-widget/calling-widget-overview)
+        - [Create Calling widget for Teams Voice Apps using React](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/calling-widget/calling-widget-tutorial)
+        - [Create Calling widget for Teams Voice Apps using JavaScript Bundles](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/calling-widget/calling-widget-js-tutorial)
+      - Call management
+        - [Manage calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/manage-calls)
+        - [Manage video](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/manage-video)
+        - [Manage Teams calling](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/cte-calling-sdk/manage-calls)
+        - [Manage Teams meeting Lobby](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/lobby)
+        - [PowerPoint Live](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/powerpoint-live)
+        - [Record calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/record-calls)
+        - [Raise Hand](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/raise-hand)
+        - [Reactions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/reactions)
+        - [Spotlight](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/spotlight)
+        - [Show transcription state](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/call-transcription)
+        - [Manage role assignment](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/manage-role-assignment)
+        - [Show active speakers](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/dominant-speaker)
+        - [Transfer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/transfer-calls)
+        - [Subscribe to SDK events](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/events)
+        - [Enable Closed captions](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-with-closed-captions)
+        - [Enable Closed captions for Teams Interoperability](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/closed-captions-teams-interop-how-to)
+        - [Get local capabilities](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/capabilities)
+        - [Pass User-to-User Information UUI data in a header](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/call-context)
+      - Call recording
+        - [Record a call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-call-recording)
+        - [Record every call in the resource](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/record-every-call)
+      - Editing audio and video media from the client
+        - [Access raw audio and video](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-raw-media-access)
+        - [Add video background effects](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-video-effects)
+        - [Add Augmented Reality filters to your video calls](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/add-video-augmented-reality-tutorial)
+      - Diagnostics
+        - [Diagnose your network](https://learn.microsoft.com/en-us/azure/communication-services/concepts/developer-tools/network-diagnostic)
+        - [Diagnose client issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/user-facing-diagnostics)
+        - [Diagnose media quality issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/media-quality-sdk)
+        - [Ensure precall readiness](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/pre-call-diagnostics)
+        - [Check if user is running supported browser](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/browser-support)
+        - [Verify if an application is active in multiple tabs of a browser](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/is-sdk-active-in-multiple-tabs)
+        - [Collect and Share Log Files](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/log-file-retrieval-tutorial)
+        - Get users ready for their call with UI Library
+          - [Call readiness overview](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-readiness/call-readiness-overview)
+          - [1. Ensure user is on a supported browser](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-readiness/call-readiness-tutorial-part-1-browser-support)
+          - [2. Request camera and microphone permissions](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-readiness/call-readiness-tutorial-part-2-requesting-device-access)
+          - [3. Microphone and camera setup before a call](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-readiness/call-readiness-tutorial-part-3-camera-microphone-setup)
+      - Add end of call survey
+        - [Using the survey users API](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/end-of-call-survey-tutorial)
+        - [Collecting user feedback with the mobile UI Library](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/collecting-user-feedback/collecting-user-feedback)
+      - Migrating to Azure Communication Services
+        - [Migrate from Twilio Video to Azure Communication Services](https://learn.microsoft.com/en-us/azure/communication-services/concepts/migrate-to-azure-communication-services)
+        - [How to migrate from Twilio Video to Azure Communication Services](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/migrating-to-azure-communication-services-calling)
+        - [How to migrate from Twilio Conversations Chat to Azure Communication Services](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/migrating-to-azure-communication-services-chat)
+      - Mobile integrations
+        - [Integrate with CallKit in iOS](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/callkit-integration)
+        - [Integrate with TelecomManager on Android](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/telecommanager-integration)
+        - [Enable push notifications](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/push-notifications)
+        - Using the mobile UI Library for voice and video
+          - [Configure default orientation](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/orientation)
+          - [Configure closed captions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/closed-captions)
+          - [Configure theming](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/theming)
+          - [Customize the button bar](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/button-injection)
+          - [Customize the title and subtitle](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/setup-title-subtitle)
+          - [Disable end call confirmation](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/leave-call-confirmation)
+          - [Enable audio only mode](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/audio-only-mode)
+          - [Enable picture-in-picture](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/picture-in-picture)
+          - [Enable skip the setup screen](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/skip-setup-screen)
+          - [Events](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/events)
+          - [Inject participant view data](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/data-model)
+          - [Integrate CallKit](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/callkit)
+          - [Integrate TelecomManager](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/telecommanager)
+          - [Set up localization](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/localization)
+          - [Set up one-to-one calling and push notifications](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/one-to-one-calling)
+          - [Troubleshooting](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/troubleshooting)
+      - Events
+        - [Using Event Grid to send calling push notifications](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/add-voip-push-notifications-event-grid)
+        - [View calling events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/handle-calling-events)
+      - Analytics
+        - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
+        - [Voice and Video insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/voice-and-video-insights)
+        - [Call Recording insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/call-recording-insights)
+        - [Query call logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/query-call-logs)
+        - [Add Diagnostic options tag to your calling logs](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/voice-video-calling/diagnostic-options-tag)
+        - [Rooms Insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/rooms-insights)
+        - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
+      - Teams interoperability
+        - [Audio Conferencing](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/audio-conferencing)
+        - [Breakout rooms](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/breakoutrooms)
+        - [Together Mode](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/together-mode)
+      - Configuring to proxy traffic
+        - [Proxy your calling traffic](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/proxy-calling-support-tutorial)
+      - Build a Webview based client
+        - [Add audio and video calling to your WebView application](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-webview)
+    - Chat
+      - [Build an authentication service using Azure Functions](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/trusted-service-tutorial)
+      - [Add a bot to your chat app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/quickstart-botframework-integration)
+      - [Add file sharing with UI Library in Azure Communication Service Chat](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/file-sharing-tutorial-acs-chat)
+      - [Add file sharing with UI Library in Teams Interoperability Chat](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/file-sharing-tutorial-interop-chat)
+      - [Add inline image support with UI Library in Teams Interoperability Chat](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/inline-image-tutorial-interop-chat)
+      - [Integrate with data loss prevention policies](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/chat-sdk/data-loss-prevention)
+      - Connect to Teams
+        - [Enable inline image interoperability in your chat app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/chat-interop/meeting-interop-features-inline-image)
+        - [Enable file attachment interoperability in your chat app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/chat-interop/meeting-interop-features-file-attachment)
+      - Mobile integrations
+        - [Enable push notifications in your chat app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/add-chat-push-notifications)
+        - [Using chat SDK with React Native](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/react-native)
+      - Analytics
+        - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
+        - [Chat insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/chat-insights)
+        - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
+    - Phone calling
+      - [Add emergency calling to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/emergency-calling)
+      - [Validate a domain for direct routing](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/telephony/domain-validation)
+      - Phone numbers
+        - [Port a phone number into Azure](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/port-phone-number)
+      - Call Automation
+        - [Control and steer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/actions-for-call-control)
+        - [Control mid call media actions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/control-mid-call-media-actions)
+        - [Customize voice prompts to users with play action](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/play-action)
+        - [Gather user input with recognize action](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/recognize-action)
+        - [Get Real-time Transcription of call audio](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/real-time-transcription-tutorial)
+        - [How to secure webhook endpoint](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/secure-webhook-endpoint)
+        - [Handling Call Automation Events with EventProcessor](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/handle-events-with-event-processor)
+        - [How to pass call contextual data in Call Automation](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/custom-context)
+        - [How to use Audio Streaming](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/audio-streaming-quickstart)
+      - Call recording
+        - [Record a call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-call-recording)
+        - [Record every call in the resource](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/record-every-call)
+      - Analytics
+        - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
+        - [Call Automation insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/call-automation-insights)
+        - [Call Recording insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/call-recording-insights)
+        - [Query call logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/log-analytics)
+        - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
+    - Email
+      - Events
+        - [View email events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/handle-email-events)
+      - Analytics
+        - [Enable User Engagement Tracking](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/enable-user-engagement-tracking)
+        - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
+        - [Email insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/email-insights)
+        - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
+    - Job Router
+      - [Manage queues](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/manage-queue)
+      - [Classify a job](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/job-classification)
+      - [Accept or decline a job](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/accept-decline-offer)
+      - [Get wait time and job position](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/estimated-wait-time)
+      - [Escalate a job](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/escalate-job)
+      - [Target a Preferred Worker](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/preferred-worker)
+      - [Scheduling a job](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/scheduled-jobs)
+      - [Azure function rule engine](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/azure-function)
+      - [Customize how worker ranking for best worker mode](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/customize-worker-scoring)
+      - Events
+        - [Subscribe to Job Router Events](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/router-sdk/subscribe-events)
+  - Samples
+    - Voice and Video
+      - [Calling hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/calling-hero-sample)
+      - [Xamarin calling sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/ui-library-cross-platform?pivots=platform-xamarin)
+      - [React Native calling sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/ui-library-cross-platform?pivots=platform-react)
+      - [MAUI calling sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/ui-library-cross-platform?pivots=platform-maui)
+      - [Web calling sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/web-calling-sample)
+      - [Web calling - Push notifications sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/web-calling-push-notifications-sample)
+      - [Authentication service hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/trusted-auth-sample)
+    - Chat
+      - [Chat hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/chat-hero-sample)
+      - [Authentication service hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/trusted-auth-sample)
+    - Call Automation
+      - [Call Automation AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-ai)
+  - Concepts
+    - Identity
+      - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/identity-model)
+      - [Authenticating services](https://learn.microsoft.com/en-us/azure/communication-services/concepts/authentication)
+      - [Understand identifiers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/identifiers)
+      - [Credentials best practices](https://learn.microsoft.com/en-us/azure/communication-services/concepts/credentials-best-practices)
+      - [Use cases for string identifiers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/raw-id-use-cases)
+      - Events
+        - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+        - [Presence events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-presence-events)
+    - SMS
+      - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/concepts)
+      - [SDK features](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/sdk-features)
+      - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms-pricing)
+      - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
+      - Phone numbers
+        - [Phone number types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-types)
+        - [Short code program brief filling guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/program-brief-guidelines)
+        - [Toll-free verification guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/toll-free-verification-guidelines)
+      - Events
+        - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+        - [SMS events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-telephony-sms-events)
+      - Analytics
+        - [SMS logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/sms-logs)
+        - [SMS metrics overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/sms-metrics)
+      - [SMS FAQ](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/sms-faq)
+    - Voice and Video Calling
+      - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/calling-sdk-features)
+      - [Voice and video terminology](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/about-call-types)
+      - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
+      - Migrate to Azure Communication Services
+        - [Migrate from Twilio Video to Azure Communication Services](https://learn.microsoft.com/en-us/azure/communication-services/concepts/migrate-to-azure-communication-services)
+        - [How to migrate from Twilio Video to Azure Communication Services](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/migrating-to-azure-communication-services-calling)
+      - [Web UI library](https://aka.ms/acsstorybook)
+      - Call Automation
+        - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation)
+        - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
+        - [Answer a call](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/incoming-call-notification)
+        - [Connect to Azure AI](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/azure-communication-services-azure-cognitive-services-integration)
+        - [Play audio](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/play-action)
+        - [Gather user input](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/recognize-action)
+        - [Ring Microsoft Teams users](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation-teams-interop)
+      - Teams interoperability
+        - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/teams-interop)
+        - Communication as external user
+          - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/overview)
+          - [Meeting capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/capabilities)
+          - [Teams client experience](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/teams-client-experience)
+          - [Teams controls](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/teams-administration)
+          - [Logs & metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/monitor-logs-metrics)
+          - [User privacy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/privacy)
+          - [Government clouds](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/government-cloud)
+          - [Security](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/security)
+          - [Known issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/limitations)
+        - Communication as Teams user
+          - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/teams-endpoint)
+          - [Use cases](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/custom-teams-endpoint-use-cases)
+          - [Authentication overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/custom-teams-endpoint-authentication-overview)
+          - [Calling capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user-calling)
+          - [Phone capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/phone-capabilities)
+          - [Meeting capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/meeting-capabilities)
+          - [Teams client experience](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/teams-client-experience)
+          - [Teams license requirements](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/eligible-teams-licenses)
+          - [Microsoft Entra API permissions](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/azure-ad-api-permissions)
+          - [Firewall configuration](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/custom-teams-endpoint-firewall-configuration)
+          - [Government clouds](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/government-cloud)
+          - [Teams users in Azure Communication Services calls](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-interop-group-calls)
+        - Virtual visits
+          - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/virtual-visits/overview)
+          - [Plan user experience](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/virtual-visits/plan-user-experience)
+          - [Govern meeting experience](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/virtual-visits/govern-meeting-experience)
+          - [Teams controls](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/teams-administration)
+        - [Closed captions](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/closed-captions)
+        - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/pricing/teams-interop-pricing)
+        - [Enable interoperability with Teams](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/enable-interoperability-teams)
+      - Advanced audio and video
+        - [Rooms API for structured meetings](https://learn.microsoft.com/en-us/azure/communication-services/concepts/rooms/room-concept)
+        - [Recording](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/call-recording)
+        - [Music mode](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/music-mode)
+        - [Media access](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/media-access)
+        - [Simulcast](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/simulcast)
+      - Quality and Diagnostics
+        - [Optimizing call quality](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/manage-call-quality)
+        - [Call Diagnostics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/call-diagnostics)
+        - [End of Call Survey](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/end-of-call-survey-concept)
+        - [Troubleshooting PSTN call failures](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/troubleshooting-pstn-call-failures)
+        - [Troubleshooting VoIP call quality](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/troubleshoot-web-voip-quality)
+        - [Tuning video quality](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/video-constraints)
+        - [SDK best practices](https://learn.microsoft.com/en-us/azure/communication-services/concepts/best-practices)
+      - Networking and Data
+        - [Network recommendations](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/network-requirements)
+        - [Call networking internals](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-flows)
+        - [Call flow topologies](https://learn.microsoft.com/en-us/azure/communication-services/concepts/detailed-call-flows)
+        - [Data channel](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/data-channel)
+      - Logging via Azure Monitor
+        - [Call client logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/call-logs-azure-monitor)
+        - [Call Diagnostics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/call-diagnostics)
+        - [Recording logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/recording-logs)
+        - [End of call survey logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/end-of-call-survey-logs)
+        - [Call automation metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/call-automation-metrics)
+        - [Rooms logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/rooms-logs)
+        - [Rooms metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/rooms-metrics)
+        - [Closed captions logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/closed-captions-logs)
+      - Service events via EventGrid
+        - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+        - [Voice and Video events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-voice-video-events)
+      - Closed captions
+        - [Closed captions overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/enable-closed-captions)
+      - UI Library
+        - [UI Library overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/ui-library/ui-library-overview)
+        - [UI Library use cases](https://learn.microsoft.com/en-us/azure/communication-services/concepts/ui-library/ui-library-use-cases)
+        - [Design with UI Library Design Kit](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/ui-library/get-started-ui-kit)
+      - User support and experience
+        - [User support](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/retrieve-support-files)
+        - [User experience](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/user-experience)
+      - Known Issues
+        - [WebJS calling SDK](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/known-issues-webjs)
+        - [Native calling SDK](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/known-issues-native)
+        - [Call Automation](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/known-issues-call-automation)
+    - Chat
+      - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
+      - [SDK features](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/sdk-features)
+      - [Archiving Chats](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/chat-sdk/archive-chat-threads)
+      - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
+      - [Government clouds](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/government-cloud)
+      - [Translating chats](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/chat-sdk/translating-chats)
+      - Events
+        - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+        - [Chat events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-chat-events)
+      - Analytics
+        - [Chat logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/chat-logs)
+        - [Chat metrics overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/chat-metrics)
+    - Phone calling
+      - Telephony
+        - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/telephony-concept)
+        - [Trial phone numbers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/trial-phone-numbers-faq)
+        - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/pstn-pricing)
+        - [Phone number types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-types)
+        - [Number Lookup Concept](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-lookup-concept)
+        - [Number Lookup SDK](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-lookup-sdk)
+        - [Country availability](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/sub-eligibility-number-capability)
+        - [Emergency calling](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/emergency-calling-concept)
+        - [Direct routing infrastructure requirements](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/direct-routing-infrastructure)
+        - [Connect to existing telephony](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/direct-routing-provisioning)
+        - [Try Phone Calling](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/try-phone-calling)
+        - [Certified Session Border Controllers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/certified-session-border-controllers)
+        - [Inbound telephony calling capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/inbound-calling-capabilities)
+        - [Calling with toll-free numbers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/toll-free-calling)
+        - [Known limitations](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/known-limitations-acs-telephony)
+        - Troubleshooting
+          - [Monitor direct routing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/monitoring-troubleshooting-telephony/monitor-direct-routing)
+          - [Troubleshoot TLS connectivity](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/monitoring-troubleshooting-telephony/troubleshoot-tls-certificate-sip-options)
+          - [Troubleshoot outbound calls](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/monitoring-troubleshooting-telephony/troubleshoot-outbound-calls)
+          - [SIP protocol details for direct routing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/direct-routing-sip-specification)
+      - Call Automation
+        - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation)
+        - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
+        - [Answer a call](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/incoming-call-notification)
+        - [Connect to Azure AI](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/azure-communication-services-azure-cognitive-services-integration)
+        - [Play audio](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/play-action)
+        - [Gather user input](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/recognize-action)
+        - [Get Real-Time Audio Insights using Transcriptions](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/real-time-transcription)
+        - [Ring Microsoft Teams users](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation-teams-interop)
+        - [Get Audio Streams from a call](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/audio-streaming-concept)
+      - [Call recording](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/call-recording)
+      - Events
+        - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+        - [Voice and video events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-voice-video-events)
+      - Analytics
+        - [Call logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/voice-and-video-logs)
+        - [Call Automation logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/call-automation-logs)
+        - [End of call survey logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/end-of-call-survey-logs)
+        - [Recording logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/recording-logs)
+        - [Call automation metrics overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/call-automation-metrics)
+        - [Rooms metrics overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/rooms-metrics)
+    - Email
+      - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/prepare-email-communication-resource)
+      - [Concepts](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-overview)
+      - [SDK features](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/sdk-features)
+      - [SMTP](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-smtp-overview)
+      - [Allowed attachment types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-attachment-allowed-mime-types)
+      - [Inline attachments](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-attachment-inline)
+      - [Managing Opt-outs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-optout-management)
+      - [Understanding sender reputation](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/sender-reputation-managed-suppression-list)
+      - [Quota increase for email domains](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-quota-increase)
+      - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
+      - Domains
+        - [Email domains and sender authentication](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-domain-and-sender-authentication)
+        - [Best practices for sender authentication support](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-authentication-best-practice)
+        - [Troubleshooting Domain Configuration issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-domain-configuration-troubleshooting)
+      - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
+      - Events
+        - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+        - [Email events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-email-events)
+      - Analytics
+        - [Email logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/email-logs)
+        - [Email metrics overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email-metrics)
+    - Job Router
+      - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/concepts)
+      - [How jobs are matched to workers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/matching-concepts)
+      - [How worker capacity is configured](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/worker-capacity-concepts)
+      - [Distribution modes](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/distribution-concepts)
+      - [Exception Policies](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/exception-policy)
+      - [Classification concepts](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/classification-concepts)
+      - [Router Rule concepts](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/router-rule-concepts)
+      - Events
+        - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+        - [Job Router events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-router-events)
+      - Analytics
+        - [Job Router logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/router-logs)
+        - [Job Router metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/metrics)
+    - Advanced Messaging
+      - WhatsApp
+        - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-overview)
+        - [WhatsApp Terms of Service](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-terms-of-service)
+        - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
+        - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/pricing)
+        - Analytics
+          - [Metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/metrics)
+          - [Logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/logs)
+        - Events
+          - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+          - [Advanced Messaging events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-advanced-messaging-events)
+        - [Templates](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/template-messages)
+      - Message Analysis
+        - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/message-analysis/message-analysis)
+        - [Message Analysis Transparency FAQ](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/message-analysis/message-analysis-transparency-faq)
+    - Azure Advisor
+      - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advisor-overview)
+      - [Metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/metrics)
+  - Resources
+    - [Release notes](https://github.com/Azure/Communication/blob/master/releasenotes)
+    - [Learn modules](https://learn.microsoft.com/en-us/azure/communication-services/resources/learn-modules)
+    - Troubleshooting Guides
+      - [Troubleshooting in Azure Communication Services](https://learn.microsoft.com/en-us/azure/communication-services/concepts/troubleshooting-info)
+      - [Troubleshooting response codes](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/troubleshooting-codes)
+      - Voice and Video
+        - General troubleshooting strategies
+          - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/general-troubleshooting-strategies/overview)
+          - [Understanding error messages and codes](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/general-troubleshooting-strategies/understanding-error-codes)
+          - [Reporting an issue](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/general-troubleshooting-strategies/report-issue)
+        - Calling JavaScript
+          - Call setup issues
+            - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/call-setup-issues/overview)
+            - [Invalid or expired tokens](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/call-setup-issues/invalid-or-expired-tokens)
+            - [Failed to create callAgent](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/call-setup-issues/failed-to-create-call-agent)
+            - [The user doesn't receive incoming call notifications](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/call-setup-issues/no-incoming-call-notifications)
+            - [The call setup takes too long](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/call-setup-issues/call-setup-takes-too-long)
+            - [The call ends with 410/3112](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/call-setup-issues/call-ends-with-410-3112)
+          - Device and permission issues
+            - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/device-issues/overview)
+            - [The getMicrophones API doesn't return detailed microphone list](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/device-issues/no-enumerated-microphone-list)
+            - [The getSpeakers API doesn't return detailed speaker list](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/device-issues/no-enumerated-speaker-list)
+            - [No permission prompt shows when calling askDevicePermission](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/device-issues/no-permission-prompt)
+            - [The askDevicePermission API takes too long](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/device-issues/ask-device-permission-api-takes-too-long)
+          - Audio issues
+            - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/audio-issues/overview)
+            - The user cannot hear sound during the call
+              - [The speaking participant doesn't grant the microphone permission](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/audio-issues/microphone-permission)
+              - [The speaking participant's microphone has a problem](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/audio-issues/microphone-issue)
+              - [The user's speaker has a problem](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/audio-issues/speaker-issue)
+              - [There is a network issue in the call](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/audio-issues/network-issue)
+            - [The user experiences poor audio quality](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/audio-issues/poor-quality)
+            - [The user experiences delays during the call](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/audio-issues/delay-issue)
+            - [The user experiences echo during the call](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/audio-issues/echo-issue)
+            - [The volume of the incoming audio is low](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/audio-issues/incoming-audio-low-volume)
+          - Video issues
+            - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/video-issues/overview)
+            - The user cannot see video from the remote participant
+              - [Subscribing to a video that is unavailable](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/video-issues/subscribing-video-not-available)
+              - [The remote video becomes unavailable while subscribing the video](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/video-issues/remote-video-becomes-unavailable)
+              - [The application disposes the video renderer while subscribing the video](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/video-issues/application-disposes-video-renderer)
+              - [The maximum number of active video subscriptions has been reached](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/video-issues/reaching-max-number-of-active-video-subscriptions)
+              - [CreateView timeout](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/video-issues/create-view-timeout)
+            - The user experiences poor video quality
+              - [The network is poor during the call](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/video-issues/network-poor)
+              - [The video sender has high CPU load](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/video-issues/video-sender-has-high-cpu-load)
+              - [The sender's video is frozen](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/video-issues/video-is-frozen)
+          - References
+            - [How to collect call info](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/how-to-collect-call-info)
+            - [How to collect client logs](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/how-to-collect-client-logs)
+            - [How to collect diagnostic audio recordings from the browser](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/how-to-collect-diagnostic-audio-recordings)
+            - [How to collect verbose log from browsers](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/how-to-collect-browser-verbose-log)
+            - [How to collect Windows audio event log](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/how-to-collect-windows-audio-event-log)
+            - User Facing Diagnostics
+              - Network
+                - [noNetwork](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/no-network)
+                - [networkRelaysNotReachable](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/network-relays-not-reachable)
+                - [networkReconnect](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/network-reconnect)
+                - [networkReceiveQuality](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/network-receive-quality)
+                - [networkSendQuality](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/network-send-quality)
+              - Audio
+                - [noSpeakerDevicesEnumerated](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/no-speaker-devices-enumerated)
+                - [speakingWhileMicrophoneIsMuted](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/speaking-while-microphone-is-muted)
+                - [noMicrophoneDevicesEnumerated](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/no-microphone-devices-enumerated)
+                - [microphoneNotFunctioning](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/microphone-not-functioning)
+                - [microphoneMuteUnexpectedly](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/microphone-mute-unexpectedly)
+                - [microphonePermissionDenied](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/microphone-permission-denied)
+              - Video
+                - [cameraFreeze](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/camera-freeze)
+                - [cameraStartFailed](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/camera-start-failed)
+                - [cameraStartTimedOut](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/camera-start-timed-out)
+                - [cameraPermissionDenied](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/camera-permission-denied)
+                - [cameraStoppedUnexpectedly](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/camera-stopped-unexpectedly)
+              - Screensharing
+                - [screenshareRecordingDisabled](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/screenshare-recording-disabled)
+                - [capturerStartFailed](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/capturer-start-failed)
+                - [capturerStoppedUnexpectedly](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/references/ufd/capturer-stopped-unexpectedly)
+  - References
+    - [Reference documentation overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/reference)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/communication)
+    - [REST API documentation](https://learn.microsoft.com/rest/api/communication/)
+    - Azure Resource Manager
+      - [Azure Resource Manager JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/arm-communication-readme)
+      - [Azure Resource Manager .NET](https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.communication-readme)
+      - [Azure Resource Manager Java](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-communication-readme)
+      - [Azure Resource Manager Python](https://learn.microsoft.com/python/api/overview/azure/mgmt-communication-readme)
+    - Advanced Messaging
+      - [Messages Java](https://learn.microsoft.com/java/api/overview/azure/communication-messages-readme)
+      - [Messages JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-messages-rest-readme)
+      - [Messages .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.messages-readme)
+      - [Messages Python](https://learn.microsoft.com/python/api/overview/azure/communication-messages-readme)
+      - [Advanced Messaging REST](https://learn.microsoft.com/rest/api/communication/advancedmessaging/operation-groups)
+    - Calling
+      - [Calling JavaScript](https://learn.microsoft.com/javascript/api/azure-communication-services/@azure/communication-calling/)
+      - [Calling Android/Java](https://azure.github.io/azure-sdk-for-android/azure-communication-calling/index.html)
+      - [Calling iOS](https://learn.microsoft.com/objectivec/communication-services/calling/)
+    - Call Automation
+      - [Call Automation JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-call-automation-readme)
+      - [Call Automation .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.callautomation-readme)
+      - [Call Automation Java](https://learn.microsoft.com/java/api/overview/azure/communication-callautomation-readme)
+      - [Call Automation Python](https://learn.microsoft.com/python/api/overview/azure/communication-callautomation-readme)
+    - Chat
+      - [Chat JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-chat-readme)
+      - [Chat .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.chat-readme)
+      - [Chat Android/Java](https://learn.microsoft.com/java/api/overview/azure/communication-chat-readme)
+      - [Chat Python](https://learn.microsoft.com/python/api/overview/azure/communication-chat-readme)
+      - [Chat iOS](https://azure.github.io/azure-sdk-for-ios/AzureCommunicationChat/index.html)
+    - Email
+      - [Email JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-email-readme)
+      - [Email .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.email-readme)
+      - [Email Java](https://learn.microsoft.com/java/api/overview/azure/communication-email-readme)
+      - [Email Python](https://learn.microsoft.com/python/api/overview/azure/communication-email-readme)
+    - Identity
+      - [Identity JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-identity-readme)
+      - [Identity .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.identity-readme)
+      - [Identity Java](https://learn.microsoft.com/java/api/overview/azure/communication-identity-readme)
+      - [Identity Python](https://learn.microsoft.com/python/api/overview/azure/communication-identity-readme)
+    - Job Router
+      - [Job Router JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-job-router-rest-readme)
+      - [Job Router .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.jobrouter-readme)
+      - [Job Router Java](https://learn.microsoft.com/java/api/overview/azure/communication-jobrouter-readme)
+      - [Job Router Python](https://learn.microsoft.com/python/api/overview/azure/communication-jobrouter-readme)
+    - Phone Numbers
+      - [Phone Numbers JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-phone-numbers-readme)
+      - [Phone Numbers .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.phonenumbers-readme)
+      - [Phone Numbers Java](https://learn.microsoft.com/java/api/overview/azure/communication-phonenumbers-readme)
+      - [Phone Numbers Python](https://learn.microsoft.com/python/api/overview/azure/communication-phonenumbers-readme)
+    - Rooms
+      - [Rooms JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-rooms-readme)
+      - [Rooms .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.rooms-readme)
+      - [Rooms Java](https://learn.microsoft.com/java/api/overview/azure/communication-rooms-readme)
+      - [Rooms Python](https://learn.microsoft.com/python/api/overview/azure/communication-rooms-readme)
+    - SMS
+      - [SMS JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-sms-readme)
+      - [SMS .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.sms-readme)
+      - [SMS Java](https://learn.microsoft.com/java/api/overview/azure/communication-sms-readme)
+      - [SMS Python](https://learn.microsoft.com/python/api/overview/azure/communication-sms-readme)
+    - UI Library
+      - [UI Library JavaScript](https://learn.microsoft.com/javascript/api/@azure/communication-react/)
+      - [UI Library for Calling iOS](https://azure.github.io/azure-sdk-for-ios/AzureCommunicationUICalling/index.html)
+      - [UI Library for Calling Android](https://azure.github.io/azure-sdk-for-android/azure-communication-ui-calling/index.html)
+      - [UI Library for Chat iOS](https://azure.github.io/azure-sdk-for-ios/AzureCommunicationUIChat)
+      - [UI Library for Chat Android](https://azure.github.io/azure-sdk-for-android/azure-communication-ui-chat/index.html)
+    - Common
+      - [Common JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-common-readme)
+      - [Common .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.common-readme)
+      - [Common Android/Java](https://learn.microsoft.com/java/api/overview/azure/communication-common-readme)
+      - [Common iOS](https://azure.github.io/azure-sdk-for-ios/AzureCommunicationCommon/index.html)
+    - Country phone number management
+      - [Phone number management for Argentina](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-argentina)
+      - [Phone number management for Australia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-australia)
+      - [Phone number management for Austria](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-austria)
+      - [Phone number management for Belgium](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-belgium)
+      - [Phone number management for Brazil](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-brazil)
+      - [Phone number management for Canada](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-canada)
+      - [Phone number management for Chile](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-chile)
+      - [Phone number management for China](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-china)
+      - [Phone number management for Colombia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-colombia)
+      - [Phone number management for Czech Republic](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-czech-republic)
+      - [Phone number management for Denmark](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-denmark)
+      - [Phone number management for Estonia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-estonia)
+      - [Phone number management for Finland](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-finland)
+      - [Phone number management for France](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-france)
+      - [Phone number management for Germany](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-germany)
+      - [Phone number management for Hong Kong SAR](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-hong-kong)
+      - [Phone number management for Indonesia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-indonesia)
+      - [Phone number management for Ireland](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-ireland)
+      - [Phone number management for Israel](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-israel)
+      - [Phone number management for Italy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-italy)
+      - [Phone number management for Japan](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-japan)
+      - [Phone number management for Latvia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-latvia)
+      - [Phone number management for Lithuania](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-lithuania)
+      - [Phone number management for Luxembourg](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-luxembourg)
+      - [Phone number management for Malaysia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-malaysia)
+      - [Phone number management for Mexico](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-mexico)
+      - [Phone number management for Netherlands](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-netherlands)
+      - [Phone number management for New Zealand](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-new-zealand)
+      - [Phone number management for Norway](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-norway)
+      - [Phone number management for Philippines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-philippines)
+      - [Phone number management for Poland](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-poland)
+      - [Phone number management for Portugal](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-portugal)
+      - [Phone number management for Saudi Arabia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-saudi-arabia)
+      - [Phone number management for Singapore](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-singapore)
+      - [Phone number management for Slovakia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-slovakia)
+      - [Phone number management for Slovenia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-slovenia)
+      - [Phone number management for South Africa](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-south-africa)
+      - [Phone number management for South Korea](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-south-korea)
+      - [Phone number management for Spain](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-spain)
+      - [Phone number management for Sweden](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-sweden)
+      - [Phone number management for Switzerland](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-switzerland)
+      - [Phone number management for Taiwan](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-taiwan)
+      - [Phone number management for Thailand](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-thailand)
+      - [Phone number management for United Arab Emirates](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-united-arab-emirates)
+      - [Phone number management for United Kingdom](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-united-kingdom)
+      - [Phone number management for United States](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-united-states)

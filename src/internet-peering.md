@@ -1,0 +1,53 @@
+# Internet Peering documentation
+> Learn about Internet peering with Microsoft global network.
+  - [Internet peering documentation](https://learn.microsoft.com/en-us/azure/internet-peering/)
+  - Overview
+    - [About Internet peering](https://learn.microsoft.com/en-us/azure/internet-peering/overview)
+    - [Internet peering vs. Peering Service](https://learn.microsoft.com/en-us/azure/internet-peering/overview-peering-service)
+  - Concepts
+    - [Peering policy](https://learn.microsoft.com/en-us/azure/internet-peering/policy)
+    - [Prerequisites to set up peering with Microsoft](https://learn.microsoft.com/en-us/azure/internet-peering/prerequisites)
+    - [Azure Peering Service partner overview](https://learn.microsoft.com/en-us/azure/internet-peering/peering-service-partner-overview)
+    - [Peering registered prefix requirements](https://learn.microsoft.com/en-us/azure/internet-peering/peering-registered-prefix-requirements)
+    - [Internet peering FAQ](https://learn.microsoft.com/en-us/azure/internet-peering/faqs)
+  - How-to guides
+    - [Direct peering walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-direct-all)
+    - [Exchange peering walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-exchange-all)
+    - [Internet peering for Peering Service partner walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-peering-service-all)
+    - [Internet peering for Peering Service voice partner walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-communications-services-partner)
+    - [Internet peering for Peering Service Exchange with Route Server partner walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-exchange-route-server-partner)
+    - [Peering maintenance notification walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-device-maintenance-notification)
+    - [Peering Service monitoring and telemetry walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-monitoring-telemetry)
+    - [Direct peering type conversion request walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-direct-peering-type-conversions)
+    - Associate peer ASN to Azure subscription
+      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-subscription-association-portal)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-subscription-association-powershell)
+    - Enable Peering Service on a Direct peering
+      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-peering-service-portal)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-peering-service-powershell)
+    - [Enable Peering Service Voice on a Direct peering](https://learn.microsoft.com/en-us/azure/internet-peering/howto-peering-service-voice-portal)
+    - Create or modify a Direct peering
+      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-direct-portal)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-direct-powershell)
+    - Convert a legacy Direct peering to Azure resource
+      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-direct-portal)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-direct-powershell)
+    - Create or modify an Exchange peering
+      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-exchange-portal)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-exchange-powershell)
+    - Convert a legacy Exchange peering to Azure resource
+      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-exchange-portal)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-exchange-powershell)
+    - [Create or modify an Exchange peering with route server](https://learn.microsoft.com/en-us/azure/internet-peering/how-to-exchange-route-server-portal)
+  - Reference
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/network)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
+    - [Java](https://learn.microsoft.com/java/api/)
+    - [Node.js](https://learn.microsoft.com/javascript/azure)
+    - [Python](https://azure.microsoft.com/develop/python/)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/allversions)
+  - Resources
+    - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
+    - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)

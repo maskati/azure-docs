@@ -1,0 +1,61 @@
+# Azure Operator Service Manager documentation
+> Azure Operator Service Manager aids telecom operators in managing network services across hybrid cloud sites, including Azure regions and Arc-connected areas. Simplify complex, multi-vendor app management.
+  - [Azure Operator Service Manager documentation](https://learn.microsoft.com/en-us/azure/operator-service-manager/)
+  - Overview
+    - [What is Azure Operator Service Manager?](https://learn.microsoft.com/en-us/azure/operator-service-manager/azure-operator-service-manager-overview)
+    - [Azure Operator Service Manager Release Notes](https://learn.microsoft.com/en-us/azure/operator-service-manager/release-notes)
+  - Concepts
+    - Best Practices
+      - [Onboard and deploy a Network Function](https://learn.microsoft.com/en-us/azure/operator-service-manager/best-practices-onboard-deploy)
+      - [Roles and Interfaces](https://learn.microsoft.com/en-us/azure/operator-service-manager/roles-interfaces)
+      - [Helm Package Requirements](https://learn.microsoft.com/en-us/azure/operator-service-manager/helm-requirements)
+      - [Publisher Tenants, subscriptions, regions and preview management](https://learn.microsoft.com/en-us/azure/operator-service-manager/publisher-resource-preview-management)
+    - Azure Operator Service Manager CLI Extension
+      - [About the Azure Operator Service Manager CLI extension](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-about-azure-operator-service-manager-cli)
+      - [CLI container image onboarding](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-cli-containerized-network-function-image-upload)
+      - [Exposing parameters in a configuration group schema](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-expose-parameters-configuration-group-schema)
+    - Safe Upgrade Practices
+      - [Get Started with Safe Upgrade Practices](https://learn.microsoft.com/en-us/azure/operator-service-manager/safe-upgrade-practices)
+      - [Control Upgrade Failure Behavior](https://learn.microsoft.com/en-us/azure/operator-service-manager/safe-upgrades-nf-level-rollback)
+    - Edge Registry and Private Link
+      - [Get Started with Cluster Registry](https://learn.microsoft.com/en-us/azure/operator-service-manager/get-started-with-cluster-registry)
+      - [Get Started with Private Link](https://learn.microsoft.com/en-us/azure/operator-service-manager/get-started-with-private-link)
+  - Quickstarts
+    - Containerized Network Function CNF
+      - [Prerequisites for using Azure Operator Service Manager](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-containerized-network-function-prerequisites)
+      - [Publish a Network Function Definition](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-publish-containerized-network-function-definition)
+      - [Design a Network Service Design](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-containerized-network-function-network-design)
+      - [Prerequisites for Operator](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-containerized-network-function-operator)
+      - [Create a site](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-containerized-network-function-create-site)
+      - [Create a Site Network Service](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-containerized-network-function-create-site-network-service)
+    - Virtualized Network Function VNF
+      - [Prerequisites for using Azure Operator Service Manager](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-virtualized-network-function-prerequisites)
+      - [Publish a Network Function Definition](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-publish-virtualized-network-function-definition)
+      - [Design a Network Service Design](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-virtualized-network-function-network-design)
+      - [Prerequisites for Operator](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-virtualized-network-function-operator)
+      - [Create a site](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-virtualized-network-function-create-site)
+      - [Create a Site Network Service](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-virtualized-network-function-create-site-network-service)
+  - How-to guides
+    - [Manage the network function operator extension](https://learn.microsoft.com/en-us/azure/operator-service-manager/manage-network-function-operator)
+    - Create required subscription, roles and identities
+      - [Onboard Subscription to Azure Operator Service Manager](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-onboard-subscription-azure-operator-service-manager)
+      - [Create a custom role](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-create-custom-role)
+      - [Assign a custom role](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-assign-custom-role)
+      - [Create a user assigned managed identity](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-create-user-assigned-managed-identity)
+    - Onboard network functions and Azure resources
+      - [Onboard a containerized network function CNF - CLI](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-onboard-containerized-network-function-cli)
+      - [Onboard a virtualized network function VNF - CLI](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-onboard-virtualized-network-function-cli)
+      - [Use Helm option parameters to prevent containerized network function CNF deletion on install failure](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-use-helm-option-parameters)
+      - [Onboard generic Azure resources - CLI](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-onboard-azure-resource-manager-resources-cli)
+      - [Push and pull artifacts for network functions on Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-manage-artifacts-nexus)
+      - [Push and pull artifacts for virtualized network functions VNF on Azure](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-manage-artifacts-virtualized-network-function-cloud)
+    - Operate network functions and Azure resources
+      - [Create a site](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-create-site)
+      - [Create site network service](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-create-site-network-service)
+      - [Delete operator resources](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-delete-operator-resources)
+  - Troubleshooting
+    - [CLI extension common issues](https://learn.microsoft.com/en-us/azure/operator-service-manager/troubleshoot-cli-common-issues)
+    - [Helm install failures](https://learn.microsoft.com/en-us/azure/operator-service-manager/troubleshoot-helm-install-failures)
+  - Resources
+    - [Glossary](https://learn.microsoft.com/en-us/azure/operator-service-manager/glossary)
+    - [REST API](https://learn.microsoft.com/rest/api/hybridnetwork)

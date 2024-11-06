@@ -1,0 +1,157 @@
+# Azure Web PubSub service documentation
+> Azure Web PubSub service is an Azure-managed service that helps developers easily build web applications with real-time features and publish-subscribe pattern.
+  - [Web PubSub documentation](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/)
+  - Overview
+    - [About Web PubSub](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview)
+    - [About hubs, groups, and connections](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/key-concepts)
+    - [Pricing](https://azure.microsoft.com/pricing/details/web-pubsub/)
+    - [Region availability](https://azure.microsoft.com/global-infrastructure/services/?products=web-pubsub)
+    - [What's new](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/whats-new)
+  - Quickstarts
+    - [Create a resource](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-create-instance)
+    - [PubSub among clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/quickstarts-pubsub-among-clients)
+    - [Push message from server](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/quickstarts-push-messages-from-server)
+    - [Event notifications from clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/quickstarts-event-notifications-from-clients)
+  - Tutorials
+    - [Publish and subscribe messages](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-pub-sub-messages)
+    - [Build a chat app](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-build-chat)
+    - [Develop with Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-develop-with-visual-studio-code)
+    - [Client streaming with a service-supported subprotocol](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-subprotocol)
+    - [Authentication and permissions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-permission)
+    - [Build a serverless chat app with Azure Functions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/quickstart-serverless)
+    - [Authenticate and authorize MQTT client](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-upstream-auth-mqtt-client)
+  - How-to guides
+    - Develop
+      - [Create WebSocket clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-websocket-connect)
+      - [Create reliable Websocket clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-reliable-clients)
+      - [How to connect MQTT WebSocket clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-connect-mqtt-websocket-client)
+      - [Generate client access URL](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-generate-client-access-url)
+      - [Configure event handler](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-eventhandler)
+      - [Develop with local tunnel tool](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-web-pubsub-tunnel-tool)
+      - [Send client events to Event Hubs](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-event-listener)
+      - Use server SDK with Azure Identity
+        - [Use server SDK with Azure Identity and .NET](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-create-serviceclient-with-net-and-azure-identity)
+        - [Use server SDK with Azure Identity and Java](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-create-serviceclient-with-java-and-azure-identity)
+        - [Use server SDK with Azure Identity and JavaScript](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-create-serviceclient-with-javascript-and-azure-identity)
+        - [Use server SDK with Azure Identity and Python](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-create-serviceclient-with-python-and-azure-identity)
+    - Monitor
+      - [Audit compliance using Azure Policy](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-monitor-azure-policy)
+      - [Monitor Azure Web PubSub](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-azure-monitor)
+      - [Monitor Azure Web PubSub data reference](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-monitor-data-reference)
+    - Secure
+      - [Rotate access keys](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-rotate-access-key)
+      - [Set up an application firewall](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-configure-application-firewall)
+      - [Use service tags to control access](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-service-tags)
+      - [Use secure private endpoints](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-private-endpoints)
+      - [Manage network access control](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-network-access-control)
+      - [Secure outbound traffic through shared private endpoints](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-shared-private-endpoints)
+      - [Access a key vault through shared private endpoints](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-shared-private-endpoints-key-vault)
+      - [Use a managed identity](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-use-managed-identity)
+      - Configure Microsoft Entra authorizations
+        - [Authorize from an Azure application](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-authorize-from-application)
+        - [Authorize from a managed identity](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-authorize-from-managed-identity)
+        - [Disable local authentication](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-disable-local-auth)
+      - [Configure client certificate authentication](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-client-certificate)
+      - [Add a custom domain](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-custom-domain)
+    - Scale and geo-replicate
+      - [Manual scale](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-scale-manual-scale)
+      - [Autoscale](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-scale-autoscale)
+      - [Geo-replication](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-enable-geo-replication)
+    - Integrate
+      - [App Service](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-integrate-app-service)
+      - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-serverless-notification)
+      - [Static Web Apps](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-serverless-static-web-app)
+      - [Azure IoT Hub](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-serverless-iot)
+      - [Azure Application Gateway](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-integrate-app-gateway)
+    - Troubleshoot
+      - [Debug event handlers](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-local-debug-event-handler)
+      - [Collect network trace](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-troubleshoot-network-trace)
+      - [Capture resource logs](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-troubleshoot-resource-logs)
+      - [Common issues](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-troubleshoot-common-issues)
+    - [Move across regions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-move-across-regions)
+  - MQTT Preview
+    - [Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview-mqtt)
+    - [Quickstart for MQTT users](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-mqtt-pubsub-among-mqtt-clients)
+    - Tutorials
+      - [Authenticate and authorize MQTT client](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-upstream-auth-mqtt-client)
+    - How-to guides
+      - [Connect MQTT WebSocket clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-connect-mqtt-websocket-client)
+      - [PubSub among MQTT clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-mqtt-pubsub-among-mqtt-clients)
+    - Reference
+      - [MQTT event handler protocol](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-mqtt-cloud-events)
+      - [REST API for MQTT](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-rest-api-mqtt)
+      - [Cross-protocol communication](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-mqtt-cross-protocol-communication)
+  - Socket.IO
+    - [Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-overview)
+    - [Serverless Mode Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-serverless-overview)
+    - Quickstart
+      - [Quickstart for Socket.IO users](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-quickstart)
+      - [Quickstart for Socket.IO Serverless with Azure Function](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-serverless-quickstart)
+    - Tutorials
+      - [Build real time code streaming app](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-build-realtime-code-streaming-app)
+      - [Build an app to publish data to Socket.IO clients with Python in Serverless Mode](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-serverless-tutorial-python)
+      - [Build chat app with Azure Function in Serverless Mode](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-serverless-tutorial)
+    - How-to guides
+      - [Easily migrate a self-hosted Socket.IO app](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-migrate-from-self-hosted)
+      - [Integrate with Azure App Service](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-howto-integrate-web-app)
+      - [Integrate with API Management](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-howto-integrate-apim)
+      - [Authentication](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-authentication)
+      - Troubleshoot
+        - [Common issues](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-troubleshoot-common-issues)
+        - [Collect logs](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-troubleshoot-logging)
+        - [Admin UI](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-troubleshoot-admin-ui)
+    - Concepts
+      - [How does Web PubSub support Socket.IO library](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-service-internal)
+      - [Azure Function Bindings for Socket.IO](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-serverless-function-binding)
+      - [Unsupported Socket.IO server APIs](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-supported-server-apis)
+    - Reference
+      - [Socket.IO Serverless Mode Specification](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-serverless-protocol)
+  - Samples
+    - [Authenticate and connect](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/samples-authenticate-and-connect)
+    - [App scenarios](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/samples-app-scenarios)
+    - [Platform and frameworks](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/samples-platforms-and-frameworks)
+  - Concepts
+    - [Service internals](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-service-internals)
+    - [Client protocol overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-client-protocols)
+    - High availability
+      - [Resiliency and disaster recovery](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-disaster-recovery)
+      - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-availability-zones)
+    - [Performance considerations](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-performance)
+    - [Billing model](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-billing-model)
+    - [Microsoft Entra Authorization](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-azure-ad-authorization)
+    - [Metrics](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-metrics)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-web-pubsub-security-baseline?toc=/azure/azure-web-pubsub/toc.json)
+  - Reference
+    - Client-side API
+      - [Client SDK - JavaScript](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-client-sdk-javascript)
+      - [Client SDK - C#](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-client-sdk-csharp)
+      - [Client SDK - Python](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-client-sdk-python)
+      - [Client SDK - Java](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-client-sdk-java)
+    - Server-side API
+      - [REST API](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-rest-api-data-plane)
+      - [REST API for MQTT](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-rest-api-mqtt)
+      - [Server SDK - C#](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-server-sdk-csharp)
+      - [Server SDK - Java](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-server-sdk-java)
+      - [Server SDK - JavaScript](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-server-sdk-js)
+      - [Server SDK - Python](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-server-sdk-python)
+      - [OData filter syntax reference](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-odata-filter)
+    - [API for resource management](https://learn.microsoft.com/rest/api/webpubsub/)
+    - [Azure CLI webpubsub extension](https://learn.microsoft.com/cli/azure/webpubsub)
+    - WebSocket subprotocols
+      - [JSON WebSocket subprotocol](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-json-webpubsub-subprotocol)
+      - [Protobuf WebSocket subprotocol](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-protobuf-webpubsub-subprotocol)
+      - [Reliable JSON WebSocket subprotocol](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-json-reliable-webpubsub-subprotocol)
+      - [Reliable Protobuf WebSocket subprotocol](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-protobuf-reliable-webpubsub-subprotocol)
+    - [CloudEvents HTTP extension for event handler](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-cloud-events)
+    - [CloudEvents HTTP extension for MQTT event handler](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-mqtt-cloud-events)
+    - [CloudEvents AMQP extension for Event Hubs listener](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-cloud-events-amqp)
+    - [Functions trigger and bindings](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-functions-bindings)
+    - [Azure policy definitions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/policy-definitions)
+    - [Web PubSub client specification](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-client-specification)
+  - Resources
+    - [Samples](https://aka.ms/awps/samples)
+    - [Solutions](https://learn.microsoft.com/azure/architecture/)
+    - [FAQs](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/resource-faq)
+    - [Microsoft Q&A](https://learn.microsoft.com/answers/topics/azure-web-pubsub.html)
+    - [StackOverflow](https://stackoverflow.com/questions/tagged/azure-web-pubsub)

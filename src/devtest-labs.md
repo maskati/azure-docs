@@ -1,0 +1,136 @@
+# Azure DevTest Labs documentation
+> Quickly set up a development, test, hackathon, or a classroom lab for your team or students in the cloud with Azure DevTest Labs.
+  - [Azure DevTest Labs documentation](https://learn.microsoft.com/en-us/azure/devtest-labs/)
+  - Overview
+    - [What is DevTest Labs?](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-overview)
+    - [Roadmap for Azure DevTest Labs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-labs-roadmap)
+  - Quickstart
+    - [Create a lab - Portal](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-create-lab)
+    - [Create a lab - Bicep](https://learn.microsoft.com/en-us/azure/devtest-labs/create-lab-windows-vm-bicep)
+    - [Create a lab - ARM template](https://learn.microsoft.com/en-us/azure/devtest-labs/create-lab-windows-vm-template)
+    - [Create a lab - Terraform](https://learn.microsoft.com/en-us/azure/devtest-labs/quickstarts/create-lab-windows-vm-terraform)
+    - [Create a lab - PowerShell with REST API](https://learn.microsoft.com/en-us/azure/devtest-labs/quickstarts/create-lab-rest)
+  - Tutorials
+    - [Set up a lab admins](https://learn.microsoft.com/en-us/azure/devtest-labs/tutorial-create-custom-lab)
+    - [Access a lab students](https://learn.microsoft.com/en-us/azure/devtest-labs/tutorial-use-custom-lab)
+  - Samples
+    - [ARM quickstart templates](https://github.com/Azure/azure-devtestlab/tree/master/samples/DevTestLabs/QuickStartTemplates)
+    - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/devtest-labs/samples-powershell)
+    - [Azure PowerShell - Az.DevTestLabs2 module](https://github.com/Azure/azure-devtestlab/tree/master/samples/DevTestLabs/Modules/Library)
+    - [Azure CLI](https://learn.microsoft.com/en-us/azure/devtest-labs/samples-cli)
+  - Concepts
+    - [Key concepts](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-concepts)
+    - [Best practices](https://learn.microsoft.com/en-us/azure/devtest-labs/best-practices-distributive-collaborative-development-environment)
+    - [Integration with Azure DevOps](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-dev-ops)
+    - [Popular scenarios](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-guidance-get-started)
+    - [Claimable VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-use-claim-capabilities)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/devtest-labs-security-baseline?toc=/azure/devtest-labs/TOC.json)
+  - How-to guides
+    - Configure a lab
+      - [Create a network isolated lab](https://learn.microsoft.com/en-us/azure/devtest-labs/network-isolation)
+      - [Create and manage labs by using ARM templates](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-use-arm-and-powershell-for-lab-resources)
+      - [Specify resource group for lab virtual machines](https://learn.microsoft.com/en-us/azure/devtest-labs/resource-group-control)
+      - [Add support info to a lab](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-internal-support-message)
+      - [Configure lab identity ](https://learn.microsoft.com/en-us/azure/devtest-labs/configure-lab-identity)
+      - [Configure a lab to use a remote desktop gateway](https://learn.microsoft.com/en-us/azure/devtest-labs/configure-lab-remote-desktop-gateway)
+      - [Post announcement in a lab](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-announcements)
+      - [Connect via browser on VMs with Bastion](https://learn.microsoft.com/en-us/azure/devtest-labs/enable-browser-connection-lab-virtual-machines)
+      - [Configure cost management](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-configure-cost-management)
+      - [Set lab policies and schedules](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-set-lab-policy)
+      - [Configure auto-shutdown of lab VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-auto-shutdown)
+      - [Set auto startup for lab VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-auto-startup-vm.yml)
+      - [Manage lab storage account](https://learn.microsoft.com/en-us/azure/devtest-labs/encrypt-storage)
+      - [Scale your lab](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-scale-lab)
+      - Manage virtual machine bases
+        - [Configure Azure Marketplace images](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-configure-marketplace-images)
+        - [Enable a licensed image](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-enable-licensed-images)
+        - [Configure a shared image gallery](https://learn.microsoft.com/en-us/azure/devtest-labs/configure-shared-image-gallery)
+      - [Configure tags](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-add-tag)
+      - Configure access control
+        - [Add lab owners and users](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-add-devtest-user)
+        - [Customize permissions with custom roles](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-grant-user-permissions-to-specific-lab-policies)
+        - [Automate adding a lab user](https://learn.microsoft.com/en-us/azure/devtest-labs/automate-add-lab-user)
+      - Manage virtual networks
+        - [Configure virtual networks](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-configure-vnet)
+        - [Select IP configuration option](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-shared-ip)
+      - [Delete a lab or VM in a lab](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-delete-lab-vm)
+      - [Export or delete personal data](https://learn.microsoft.com/en-us/azure/devtest-labs/personal-data-delete-export)
+    - Use VMs in a lab
+      - Create a VM
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-add-vm)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-vm-powershell)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-vmcli)
+        - [ARM template](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-use-resource-manager-template)
+        - [Create a VM using an image from shared image gallery](https://learn.microsoft.com/en-us/azure/devtest-labs/add-vm-use-shared-image)
+      - Connect to a VM
+        - [Connect to a Windows VM](https://learn.microsoft.com/en-us/azure/devtest-labs/connect-windows-virtual-machine)
+        - [Connect to a Linux VM](https://learn.microsoft.com/en-us/azure/devtest-labs/connect-linux-virtual-machine)
+        - [Connect to your VM through a browser](https://learn.microsoft.com/en-us/azure/devtest-labs/connect-virtual-machine-through-browser)
+      - [Start or stop a VM using PowerShell or CLI](https://learn.microsoft.com/en-us/azure/devtest-labs/use-command-line-start-stop-virtual-machines)
+      - [Restart a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-restart-vm)
+      - [Resize a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-resize-vm)
+      - [Redeploy a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-redeploy-vm)
+      - [Create and manage claimable VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-add-claimable-vm)
+      - [Configure secrets](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-store-secrets-in-key-vault)
+      - [Attach and detach data disks](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-attach-detach-data-disk)
+      - [Define start order for lab VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/start-machines-use-automation-runbooks)
+      - [Import virtual machines from another lab](https://learn.microsoft.com/en-us/azure/devtest-labs/import-virtual-machines-from-another-lab)
+      - [Enable managed identities for lab VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/enable-managed-identities-lab-vms)
+    - Use environments in a lab
+      - [Create environments from ARM templates](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-create-environment-from-arm)
+      - [Use Platform-as-a-Service PaaS services](https://learn.microsoft.com/en-us/azure/devtest-labs/use-paas-services)
+      - [Create a Service Fabric cluster environment](https://learn.microsoft.com/en-us/azure/devtest-labs/create-environment-service-fabric-cluster)
+      - [Connect an environment to your lab's virtual network](https://learn.microsoft.com/en-us/azure/devtest-labs/connect-environment-lab-virtual-network)
+      - [Configure test environments with nested templates](https://learn.microsoft.com/en-us/azure/devtest-labs/deploy-nested-template-environments)
+      - [Use Azure managed identities to deploy environments](https://learn.microsoft.com/en-us/azure/devtest-labs/use-managed-identities-environments)
+      - [Security alerts for environments](https://learn.microsoft.com/en-us/azure/devtest-labs/environment-security-alerts)
+    - Manage reusable templates
+      - [Custom images vs. formulas](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-comparing-vm-base-image-types)
+      - Manage custom images
+        - [Create custom image from a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-create-custom-image-from-vm-using-portal)
+        - [Create custom image from a VHD - Azure portal](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-create-template)
+        - [Create custom image from a VHD - PowerShell](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-create-custom-image-from-vhd-using-powershell)
+        - [Upload VHD file using AzCopy](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-upload-vhd-using-azcopy)
+        - [Upload VHD file using PowerShell](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-upload-vhd-using-powershell)
+        - [Upload VHD file using Storage Explorer](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-upload-vhd-using-storage-explorer)
+      - [Manage formulas](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-manage-formulas)
+      - [Create an image factory](https://learn.microsoft.com/en-us/azure/devtest-labs/image-factory-create)
+        - [Run an image factory from Azure DevOps](https://learn.microsoft.com/en-us/azure/devtest-labs/image-factory-set-up-devops-lab)
+        - [Save custom images and distribute to multiple labs](https://learn.microsoft.com/en-us/azure/devtest-labs/image-factory-save-distribute-custom-images)
+        - [Set retention policy and run cleanup scripts](https://learn.microsoft.com/en-us/azure/devtest-labs/image-factory-set-retention-policy-cleanup)
+    - Manage artifacts
+      - [Add artifacts to a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/add-artifact-vm)
+      - [Create custom artifacts](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-artifact-author)
+      - [Add an artifact repository to a lab](https://learn.microsoft.com/en-us/azure/devtest-labs/add-artifact-repository)
+      - [Specify mandatory artifacts](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-mandatory-artifacts)
+      - [Troubleshoot issues with applying artifacts](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-troubleshoot-apply-artifacts)
+    - [Encrypt OS disks using customer-managed keys](https://learn.microsoft.com/en-us/azure/devtest-labs/encrypt-disks-customer-managed-keys)
+    - Integrate with CI/CD
+      - [Use DevTest Labs in Azure Pipelines build and release pipelines](https://learn.microsoft.com/en-us/azure/devtest-labs/use-devtest-labs-build-release-pipelines)
+    - Extend DevTest Labs
+      - [Use Azure Functions to extend DevTest Labs](https://learn.microsoft.com/en-us/azure/devtest-labs/extend-devtest-labs-azure-functions)
+    - [Report usage of labs](https://learn.microsoft.com/en-us/azure/devtest-labs/report-usage-across-multiple-labs-subscriptions)
+    - DevTest Labs in the enterprise
+      - [Reference architecture](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-reference-architecture)
+      - [Deliver proof of concept](https://learn.microsoft.com/en-us/azure/devtest-labs/deliver-proof-concept)
+      - [Scale up your DevTest Labs deployment](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-guidance-scale)
+      - [Governance of DevTest Labs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-guidance-governance-resources)
+    - [Publish an app for testing](https://learn.microsoft.com/en-us/azure/devtest-labs/test-app-azure)
+    - Troubleshoot
+      - [Troubleshoot VM and environment creation failures](https://learn.microsoft.com/en-us/azure/devtest-labs/troubleshoot-vm-environment-creation-failures)
+      - [Troubleshoot issues when applying artifacts](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-troubleshoot-apply-artifacts)
+      - [Troubleshoot VM deployment failures](https://learn.microsoft.com/en-us/azure/devtest-labs/troubleshoot-vm-deployment-failures)
+    - Monitor
+      - [View activity logs](https://learn.microsoft.com/en-us/azure/devtest-labs/activity-logs)
+      - [Create activity log alerts](https://learn.microsoft.com/en-us/azure/devtest-labs/create-alerts)
+    - [Move to new region](https://learn.microsoft.com/en-us/azure/devtest-labs/how-to-move-labs)
+  - Reference
+    - [CLI](https://learn.microsoft.com/cli/azure/lab)
+    - [PowerShell](https://learn.microsoft.com/powershell/module/az.devtestlabs)
+    - [PowerShell - sample Az.DevTestLabs2 module](https://github.com/Azure/azure-devtestlab/tree/master/samples/DevTestLabs/Modules/Library)
+    - [REST API](https://learn.microsoft.com/rest/api/dtl/)
+    - [ARM templates](https://learn.microsoft.com/azure/templates/microsoft.devtestlab/allversions)
+  - Resources
+    - [Azure updates](https://azure.microsoft.com/updates/?product=devtest-lab)
+    - [Pricing](https://azure.microsoft.com/pricing/details/devtest-lab/)
+    - [DevTest Labs Developer Community](https://aka.ms/dtl/communityforum)

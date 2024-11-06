@@ -1,0 +1,53 @@
+# Azure Firewall Manager documentation
+> Learn how to deploy Azure Firewall Manager, a globally distributed security management service.
+  - [Azure Firewall Manager documentation](https://learn.microsoft.com/en-us/azure/firewall-manager/)
+  - Overview
+    - [What is Azure Firewall Manager?](https://learn.microsoft.com/en-us/azure/firewall-manager/overview)
+  - Quickstarts
+    - [Secure virtual hub - Bicep](https://learn.microsoft.com/en-us/azure/firewall-manager/quick-secure-virtual-hub-bicep)
+    - [Secure virtual hub - Terraform](https://learn.microsoft.com/en-us/azure/firewall-manager/quick-secure-virtual-hub-terraform)
+    - [Secure virtual hub - ARM template](https://learn.microsoft.com/en-us/azure/firewall-manager/quick-secure-virtual-hub)
+    - [Deploy firewall with policy - Bicep](https://learn.microsoft.com/en-us/azure/firewall-manager/quick-firewall-policy-bicep)
+    - [Deploy firewall with policy - Terraform](https://learn.microsoft.com/en-us/azure/firewall-manager/quick-firewall-policy-terraform)
+    - [Deploy firewall with policy - ARM template](https://learn.microsoft.com/en-us/azure/firewall-manager/quick-firewall-policy)
+    - [Create and update policy](https://learn.microsoft.com/en-us/azure/firewall-manager/create-policy-powershell)
+  - Tutorials
+    - [Secure your virtual hub - portal](https://learn.microsoft.com/en-us/azure/firewall-manager/secure-cloud-network)
+    - [Secure your virtual hub - PowerShell](https://learn.microsoft.com/en-us/azure/firewall-manager/secure-cloud-network-powershell)
+    - [Secure your hub virtual network - portal](https://learn.microsoft.com/en-us/azure/firewall-manager/secure-hybrid-network)
+  - Concepts
+    - [Policy overview](https://learn.microsoft.com/en-us/azure/firewall-manager/policy-overview)
+    - [What is a secured virtual hub?](https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub)
+    - [General deployment process](https://learn.microsoft.com/en-us/azure/firewall-manager/deployment-overview)
+    - [Security partner providers](https://learn.microsoft.com/en-us/azure/firewall-manager/trusted-security-partners)
+    - [Secure hubs using Check Point Cloudguard Connect](https://learn.microsoft.com/en-us/azure/firewall-manager/check-point-overview)
+    - [IP Groups](https://learn.microsoft.com/en-us/azure/firewall-manager/ip-groups)
+    - [Rule processing logic](https://learn.microsoft.com/en-us/azure/firewall-manager/rule-processing)
+    - [Architecture options](https://learn.microsoft.com/en-us/azure/firewall-manager/vhubs-and-vnets)
+    - [Threat intelligence settings](https://learn.microsoft.com/en-us/azure/firewall-manager/threat-intelligence-settings)
+    - [FQDN in network rules](https://learn.microsoft.com/en-us/azure/firewall-manager/fqdn-filtering-network-rules)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-firewall-manager-security-baseline?toc=/azure/firewall-manager/toc.json)
+  - How-to guides
+    - [Deploy security partner providers](https://learn.microsoft.com/en-us/azure/firewall-manager/deploy-trusted-security-partner)
+    - [Secure private endpoints](https://learn.microsoft.com/en-us/azure/firewall-manager/private-link-inspection-secure-virtual-hub)
+    - [Migrate to Firewall policy - PowerShell](https://learn.microsoft.com/en-us/azure/firewall-manager/migrate-to-policy)
+    - [DNS settings](https://learn.microsoft.com/en-us/azure/firewall-manager/dns-settings)
+    - [Define a rule hierarchy](https://learn.microsoft.com/en-us/azure/firewall-manager/rule-hierarchy)
+    - [Configure DDoS Protection Plan](https://learn.microsoft.com/en-us/azure/firewall-manager/configure-ddos)
+    - [Manage WAF policies](https://learn.microsoft.com/en-us/azure/firewall-manager/manage-web-application-firewall-policies)
+  - Reference
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/network/firewall/policy)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/new-azfirewallpolicy)
+    - [.NET](https://learn.microsoft.com/dotnet/api)
+    - [Java](https://learn.microsoft.com/java/api)
+    - [Node.js](https://azure.microsoft.com/develop/nodejs/)
+    - [Python](https://azure.microsoft.com/develop/python/)
+    - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/firewallpolicies)
+    - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+  - Resources
+    - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Community templates](https://azure.microsoft.com/documentation/templates)
+    - [Pricing](https://azure.microsoft.com/pricing/details/firewall-manager/)
+    - [Regional availability](https://azure.microsoft.com/regions/services/)

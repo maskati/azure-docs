@@ -1,0 +1,36 @@
+# Azure Object Anchors documentation
+> Object Anchors can be used to detect an object in the physical world and estimate its 6-DoF pose given a 3D model of that object.
+  - [Object Anchors documentation](https://learn.microsoft.com/en-us/azure/object-anchors/)
+  - Overview
+    - [About Object Anchors](https://learn.microsoft.com/en-us/azure/object-anchors/overview)
+    - [Best Practices](https://learn.microsoft.com/en-us/azure/object-anchors/best-practices)
+  - Concepts
+    - [Runtime SDK Overview](https://learn.microsoft.com/en-us/azure/object-anchors/concepts/sdk-overview)
+  - Quickstarts
+    - [Create a model](https://learn.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-model-conversion)
+    - Create Unity app
+      - [HoloLens](https://learn.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-unity-hololens)
+      - [HoloLens with MRTK](https://learn.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-unity-hololens-mrtk)
+      - [In-depth MRTK walkthrough](https://learn.microsoft.com/en-us/azure/object-anchors/quickstarts/in-depth-mrtk-walkthrough)
+      - [Upgrade to Unity 2020](https://learn.microsoft.com/en-us/azure/object-anchors/quickstarts/upgrade-unity-quickstart-to-2020)
+      - [Starting a new Unity HoloLens app](https://learn.microsoft.com/en-us/azure/object-anchors/quickstarts/new-unity-hololens-app)
+      - [Unity remoting support](https://learn.microsoft.com/en-us/azure/object-anchors/quickstarts/unity-remoting)
+    - [Create HoloLens DirectX app](https://learn.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-hololens-directx)
+  - How-to
+    - [Move an Object Anchors account between regions](https://learn.microsoft.com/en-us/azure/object-anchors/how-tos/move-azure-object-anchors-account)
+  - Samples
+    - [Azure Object Anchors samples GitHub](https://github.com/Azure/azure-object-anchors)
+  - References
+    - [Conversion SDK for .NET](https://learn.microsoft.com/dotnet/api/overview/azure/mixedreality.objectanchors.conversion-readme)
+    - [Runtime SDK for Unity](https://learn.microsoft.com/dotnet/api/Microsoft.Azure.ObjectAnchors/)
+    - [Runtime SDK for HoloLens C++/WinRT](https://learn.microsoft.com/cpp/api/object-anchors/winrt/)
+  - Resources
+    - [Azure Mixed Reality Resource Management REST API](https://learn.microsoft.com/rest/api/mixedreality/)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/object-anchors/faq)
+    - [Model conversion error codes](https://learn.microsoft.com/en-us/azure/object-anchors/model-conversion-error-codes)
+    - [Release notes](https://github.com/Azure/azure-object-anchors/releases)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-object-anchors)
+    - [Visualize a converted model](https://learn.microsoft.com/en-us/azure/object-anchors/visualize-converted-model)
+  - Troubleshooting
+    - [Detect a difficult object](https://learn.microsoft.com/en-us/azure/object-anchors/detect-difficult-object)
+    - [Troubleshooting object detection](https://learn.microsoft.com/en-us/azure/object-anchors/troubleshoot/object-detection)

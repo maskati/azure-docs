@@ -1,0 +1,177 @@
+# Azure IoT Edge documentation
+> Azure IoT Edge extends IoT Hub. Analyze device data locally instead of in the cloud to send less data to the cloud, react to events quickly, and operate offline.
+  - [Azure IoT Edge documentation](https://learn.microsoft.com/en-us/azure/iot-edge/)
+  - Overview
+    - [About Azure IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge)
+    - [Version / release notes](https://learn.microsoft.com/en-us/azure/iot-edge/version-history)
+    - [Supported platforms](https://learn.microsoft.com/en-us/azure/iot-edge/support)
+  - Quickstarts
+    - [Deploy code to a Linux device](https://learn.microsoft.com/en-us/azure/iot-edge/quickstart-linux)
+  - Tutorials
+    - Develop modules
+      - [Develop modules using VS Code](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-develop-for-linux)
+      - [Develop modules with Visual Studio](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-visual-studio-develop-module)
+    - Deploy Azure services as modules
+      - [Filter data with Azure Functions](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function)
+      - [Deploy a Stream Analytics module](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics)
+      - [Classify images with Custom Vision](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-custom-vision)
+      - [Store data locally with SQL](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-store-data-sql-server)
+    - [Create hierarchies of IoT Edge devices](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-nested-iot-edge)
+    - [Configure EST server](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-configure-est-server)
+    - [Configure, connect, and verify a GPU](https://learn.microsoft.com/en-us/azure/iot-edge/configure-connect-verify-gpu)
+    - [Monitor devices and modules](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-monitor-with-workbooks)
+  - Concepts
+    - [IoT Edge runtime](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime)
+    - [IoT Edge agent and hub properties](https://learn.microsoft.com/en-us/azure/iot-edge/module-edgeagent-edgehub)
+    - [Understand Azure IoT Edge modules](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-modules)
+    - [IoT Edge device as a gateway](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway)
+    - [Production checklist](https://learn.microsoft.com/en-us/azure/iot-edge/production-checklist)
+    - Development
+      - [Develop modules](https://learn.microsoft.com/en-us/azure/iot-edge/module-development)
+      - [Development environment](https://learn.microsoft.com/en-us/azure/iot-edge/development-environment)
+    - Deployment
+      - [Deployment manifest](https://learn.microsoft.com/en-us/azure/iot-edge/module-composition)
+      - [Automatic deployments](https://learn.microsoft.com/en-us/azure/iot-edge/module-deployment-monitoring)
+    - Security
+      - [Securing Azure IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/security)
+      - [IoT Edge security manager](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-security-manager)
+      - [IoT Edge certificates](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-certs)
+      - [Using Private Link with IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/using-private-link)
+      - [Confidential computing](https://learn.microsoft.com/en-us/azure/iot-edge/deploy-confidential-applications)
+    - [Offline capabilities](https://learn.microsoft.com/en-us/azure/iot-edge/offline-capabilities)
+    - [Limits and restrictions](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-limits-and-restrictions)
+  - How-to guides
+    - Install and provision IoT Edge
+      - [Create an IoT Edge device](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-create-iot-edge-device)
+      - [Configure device settings](https://learn.microsoft.com/en-us/azure/iot-edge/configure-device)
+      - [Configure proxy support](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-configure-proxy-support)
+      - Linux containers on Linux hosts
+        - Provision a single device
+          - [X.509 certificate attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-single-device-linux-x509)
+          - [Symmetric key attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-single-device-linux-symmetric)
+        - Provision devices at scale
+          - [X.509 certificate attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-linux-x509)
+          - [TPM attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-linux-tpm)
+          - [Symmetric key attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-linux-symmetric)
+      - [Update IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-update-iot-edge)
+      - [Manage device certificates](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-manage-device-certificates)
+      - [Run IoT Edge on Kubernetes](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-kubernetes)
+      - [Deploy IoT Edge VM using a Bicep file](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-ubuntuvm-bicep)
+      - [Deploy IoT Edge VM using an ARM template](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-ubuntuvm)
+    - Develop custom modules
+      - [Configure module build options](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-configure-module-build-options)
+      - Configure module createOptions
+        - [Understand and use createOptions](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options)
+        - [Give modules access to a device's local storage](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-access-host-storage-from-module)
+      - [Debug modules with VS Code](https://learn.microsoft.com/en-us/azure/iot-edge/debug-module-vs-code)
+    - Deploy modules
+      - Deploy to individual devices
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-deploy-modules-portal)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-deploy-modules-cli)
+      - Deploy at scale
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-deploy-at-scale)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-deploy-cli-at-scale)
+    - Monitor and diagnose
+      - [Monitor IoT Edge deployments](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-monitor-iot-edge-deployments)
+      - [Monitor module twins](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-monitor-module-twins)
+      - [End-to-end observability for IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-observability)
+      - [Use edgeAgent direct methods](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-edgeagent-direct-method)
+      - [Retrieve logs with direct methods](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-retrieve-iot-edge-logs)
+      - [Access built-in metrics](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-access-built-in-metrics)
+      - Azure Monitor integration
+        - [Collect and transport metrics](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-collect-and-transport-metrics)
+        - [Explore curated visualizations](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-explore-curated-visualizations)
+        - [Create alert rules](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-create-alerts)
+        - [Add custom metrics](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-add-custom-metrics)
+        - [FAQ and troubleshooting](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-troubleshoot-monitoring-and-faq)
+    - Use IoT Edge devices as gateways
+      - Gateways for IoT devices
+        - [Configure a transparent gateway](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-create-transparent-gateway)
+        - [Authenticate a downstream device](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-authenticate-downstream-device)
+        - [Connect a downstream device](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-connect-downstream-device)
+      - Gateways for IoT Edge devices
+        - [Configure gateways for IoT Edge devices](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-connect-downstream-iot-edge-device)
+        - [Configure the API proxy module](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-configure-api-proxy-module)
+    - Azure Blob Storage on IoT Edge
+      - [Understand blob storage at the edge](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-store-data-blob)
+      - [Deploy blob storage modules](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-deploy-blob)
+    - Azure SQL Edge on IoT Edge
+      - [Understand Azure SQL at the edge](https://learn.microsoft.com/en-us/azure/azure-sql-edge/overview?toc=/azure/iot-edge/toc.json&bc=/azure/iot-edge/breadcrumb/toc.json)
+      - [Deploy Azure SQL Edge modules](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-portal?toc=/azure/iot-edge/toc.json&bc=/azure/iot-edge/breadcrumb/toc.json)
+    - [Manage with DevOps tools](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-continuous-integration-continuous-deployment)
+    - Troubleshoot
+      - [Diagnose IoT Edge devices](https://learn.microsoft.com/en-us/azure/iot-edge/troubleshoot)
+      - [Troubleshoot in the Azure portal](https://learn.microsoft.com/en-us/azure/iot-edge/troubleshoot-in-portal)
+      - [Resolve common errors](https://learn.microsoft.com/en-us/azure/iot-edge/troubleshoot-common-errors)
+  - Azure IoT Edge for Linux on Windows EFLOW
+    - [About EFLOW](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-for-linux-on-windows)
+    - [Deploy to a Windows device](https://learn.microsoft.com/en-us/azure/iot-edge/quickstart)
+    - Concepts
+      - [Benefits](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-for-linux-on-windows-benefits)
+      - [Updates](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-for-linux-on-windows-updates)
+      - [Security](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-for-linux-on-windows-security)
+      - [Networking](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-for-linux-on-windows-networking)
+      - [Supported platforms](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-for-linux-on-windows-support)
+    - Install and provision
+      - Single device
+        - [X.509 certificate attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-single-device-linux-on-windows-x509)
+        - [Symmetric key attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-single-device-linux-on-windows-symmetric)
+      - Provision at scale
+        - [X.509 certificate attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-linux-on-windows-x509)
+        - [TPM attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-linux-on-windows-tpm)
+        - [Symmetric key attestation](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-linux-on-windows-symmetric)
+    - Configure
+      - [Access TPM secrets](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-access-dtpm)
+      - [Configure nested virtualization for Windows VMs](https://learn.microsoft.com/en-us/azure/iot-edge/nested-virtualization)
+      - [Connect a USB device](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-connect-usb-devices)
+      - [GPU acceleration](https://learn.microsoft.com/en-us/azure/iot-edge/gpu-acceleration)
+      - Networking
+        - [Understand VM networking](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-configure-iot-edge-for-linux-on-windows-networking)
+        - [Virtual switch](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-create-virtual-switch)
+        - [Multiple NICs](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-configure-multiple-nics)
+        - [VM on a DMZ](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-configure-iot-edge-for-linux-on-windows-iiot-dmz)
+      - [Shared folders](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-share-windows-folder-to-vm)
+    - [Develop and debugging](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-develop-for-linux-on-windows)
+    - [Create a hierarchy of IoT Edge devices](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-nested-iot-edge-for-linux-on-windows)
+    - Troubleshoot
+      - [Diagnose virtual machine](https://learn.microsoft.com/en-us/azure/iot-edge/troubleshoot-iot-edge-for-linux-on-windows)
+      - [Diagnose virtual machine networking](https://learn.microsoft.com/en-us/azure/iot-edge/troubleshoot-iot-edge-for-linux-on-windows-networking)
+      - [Resolve common errors](https://learn.microsoft.com/en-us/azure/iot-edge/troubleshoot-iot-edge-for-linux-on-windows-common-errors)
+    - Reference
+      - [PowerShell functions](https://learn.microsoft.com/en-us/azure/iot-edge/reference-iot-edge-for-linux-on-windows-functions)
+  - Reference
+    - [Azure IoT Edge 1.1 archive](https://learn.microsoft.com/previous-versions/azure/iot-edge)
+    - [Runtime modules environment variables](https://github.com/Azure/iotedge/blob/main/doc/EnvironmentVariables)
+    - [Create test certificates](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-create-test-certificates)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/azure-cli-reference-for-IoT)
+  - Resources
+    - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help?toc=/azure/iot-edge/toc.json&bc=/azure/iot-edge/breadcrumb/toc.json)
+    - [IoT Glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary?toc=/azure/iot-edge/toc.json&bc=/azure/iot-edge/breadcrumb/toc.json)
+    - Azure IoT services
+      - [IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/)
+      - [IoT Hub Device Provisioning Service](https://learn.microsoft.com/en-us/azure/iot-dps/)
+      - [IoT Central](https://learn.microsoft.com/en-us/azure/iot-central/)
+      - [IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/)
+      - [Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/)
+      - [Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/)
+    - Azure IoT SDKs
+      - [IoT Service SDKs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
+      - [IoT Device SDKs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
+    - Azure IoT samples
+      - [C# .NET](https://github.com/Azure/azure-iot-sdk-csharp/tree/main/iothub/device/samples)
+      - [C](https://github.com/Azure/azure-iot-sdk-c/tree/main/iothub_client/samples)
+      - [Node.js](https://github.com/Azure/azure-iot-sdk-node/tree/main/device/samples)
+      - [Java](https://github.com/Azure/azure-iot-sdk-java/tree/main/iothub/device/iot-device-samples)
+      - [Python](https://github.com/Azure/azure-iot-sdk-python/tree/main/samples)
+      - [iOS Platform](https://github.com/azure-samples/azure-iot-samples-ios/tree/master/)
+    - [Azure IoT Developer Center](https://azure.microsoft.com/develop/iot/)
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=iot)
+    - [Azure IoT Edge for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge)
+    - [Azure IoT Hub extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
+    - [Azure IoT Explorer tool](https://github.com/Azure/azure-iot-explorer)
+    - [iothub-diagnostics tool](https://github.com/Azure/iothub-diagnostics)
+    - [Pricing](https://azure.microsoft.com/pricing/details/iot-edge/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Service updates](https://azure.microsoft.com/updates/?product=iot-edge)
+    - [Technical case studies](https://microsoft.github.io/generative-ai-for-beginners/)
+    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=iot-edge)

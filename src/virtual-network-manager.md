@@ -1,0 +1,82 @@
+# Azure Virtual Network Manager documentation
+> Learn how to use Azure Virtual Network Manager to manage virtual network connectivity and enforce security rules across your Azure subscriptions.
+  - [Virtual Network Manager documentation](https://learn.microsoft.com/en-us/azure/virtual-network-manager/)
+  - Overview
+    - [What is Azure Virtual Network Manager?](https://learn.microsoft.com/en-us/azure/virtual-network-manager/overview)
+    - [Common use cases for Azure Virtual Network Manager](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-use-cases)
+  - Quickstarts
+    - [Create Virtual Network Manager - Portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-portal)
+    - [Create Virtual Network Manager - PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-powershell)
+    - [Create Virtual Network Manager - CLI](https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-cli)
+    - [Create Virtual Network Manager - Terraform](https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-terraform)
+    - [Create Virtual Network Manager - ARM](https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-template)
+    - [Create Virtual Network Manager - Bicep](https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-bicep)
+  - Tutorials
+    - [Create a secured hub and spoke](https://learn.microsoft.com/en-us/azure/virtual-network-manager/tutorial-create-secured-hub-and-spoke)
+  - Concepts
+    - [FAQ](https://learn.microsoft.com/en-us/azure/virtual-network-manager/faq)
+    - [Use cases](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-use-cases)
+    - [limitations](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-limitations)
+    - [IP address management](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-ip-address-management)
+    - [Scope](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-manager-scope)
+    - Network groups
+      - [Network groups overview](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-groups)
+      - [Azure Policy integration with network groups](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-azure-policy-integration)
+      - [Cross-tenant connection support](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-cross-tenant)
+    - Configuration types
+      - [Connectivity](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-connectivity-configuration)
+      - Security admin rules
+        - [Security admin rule concepts](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admins)
+        - [Security admin rule enforcement](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-enforcement)
+        - [Network groups as source and destination](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admin-rules-network-group)
+      - [User-defined routes UDRs management](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-user-defined-route)
+    - [Deployments](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-deployments)
+    - [Remove or update components](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-remove-components-checklist)
+    - Monitoring
+      - [Event Log Options for Azure Virtual Network Manager](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-event-logs)
+      - [Monitoring security admin rules with Virtual Network Flow Logs](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-virtual-network-flow-logs)
+      - [Query Azure Virtual Network Manager using Azure Resource Graph ARG](https://learn.microsoft.com/en-us/azure/virtual-network-manager/query-azure-resource-graph)
+      - [Verify resource reachability with Virtual Network Verifier](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-virtual-network-verifier)
+  - Samples
+    - [Resource Manager Templates](https://learn.microsoft.com/en-us/azure/virtual-network-manager/resource-manager-template-samples)
+  - How-to guides
+    - Secure network traffic with security admin rules
+      - [Using network groups as source and destination](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-security-admin-rule-network-group)
+      - [Block network traffic - Portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-network-traffic-portal)
+      - [Block network traffic -PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-network-traffic-powershell)
+      - [Protect high-risk network ports with security admin rules and exceptions](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-high-risk-ports)
+    - [Create user-defined routes UDRs](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route)
+    - Create a network topology
+      - Hub-and-spoke
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke-powershell)
+      - Mesh
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network-powershell)
+    - Cross-tenant connection support
+      - [Configure cross-tenant connection - Portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-portal)
+      - [Configure cross-tenant connection - CLI](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-cli)
+    - [Manage IP addresses](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-manage-ip-addresses-network-manager)
+    - Monitoring
+      - [Configure Event Logs for Azure Virtual Network Manager](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-event-logs)
+      - [Monitor security admin rules with Virtual Network Flow Logs](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-virtual-network-flow-logs)
+      - [View applied configurations](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-view-applied-configurations)
+      - [Define dynamic network group membership with Azure Policy](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-define-network-group-membership-azure-policy)
+      - [Verify resource reachability](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-verify-reachability-with-virtual-network-verifier)
+    - User-defined routes UDRs management
+      - [Create user-defined routes UDRs](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route)
+      - [Deploy hub and spoke topology with Azure Firewall](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-deploy-hub-spoke-topology-with-azure-firewall)
+      - [Manage User-defined Routes UDRs across multiple hub-and-spoke topologies](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-manage-user-defined-routes-multiple-hub-spoke-topologies)
+    - [Common issues](https://learn.microsoft.com/en-us/azure/virtual-network-manager/common-issues)
+  - Reference
+    - [Code samples](https://azure.microsoft.com/resources/samples/?service=virtual-network-manager)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/network/manager)
+    - [Terraform](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_manager)
+    - [REST](https://learn.microsoft.com/rest/api/networkmanager/)
+    - [.NET SDK](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.network)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/networkmanagers)
+  - Resources
+    - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Networking blog](https://azure.microsoft.com/blog/topics/networking/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)

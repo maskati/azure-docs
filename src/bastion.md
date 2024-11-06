@@ -1,0 +1,75 @@
+# Azure Bastion documentation
+> Learn how to use Azure Bastion to connect to a virtual machine. Configure secure and seamless RDP/SSH connectivity to your virtual machines directly in the Azure portal over SSL. When you connect via Azure Bastion, your virtual machines don't need a public IP address.
+  - [Bastion documentation](https://learn.microsoft.com/en-us/azure/bastion/)
+  - Overview
+    - [What is Azure Bastion?](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
+  - Quickstarts
+    - [Deploy Bastion automatically - Basic SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
+    - [Deploy Bastion automatically - Developer SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer-sku)
+    - [Deploy Bastion - ARM template](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-arm-template)
+  - Tutorials
+    - [Deploy Bastion using manually specified settings](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
+  - Concepts
+    - [What's new in Bastion?](https://learn.microsoft.com/en-us/azure/bastion/whats-new)
+    - Work remotely
+      - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fbastion%2ftoc.json)
+      - [Leverage Bastion for remote working](https://learn.microsoft.com/en-us/azure/bastion/work-remotely-support)
+    - [Bastion FAQ](https://learn.microsoft.com/en-us/azure/bastion/bastion-faq)
+    - [Design architecture](https://learn.microsoft.com/en-us/azure/bastion/design-architecture)
+    - [Bastion configuration settings](https://learn.microsoft.com/en-us/azure/bastion/configuration-settings)
+    - [VM connections and features](https://learn.microsoft.com/en-us/azure/bastion/vm-about)
+    - [Bastion and VNet peering](https://learn.microsoft.com/en-us/azure/bastion/vnet-peering)
+    - [Work with NSGs](https://learn.microsoft.com/en-us/azure/bastion/bastion-nsg)
+    - Reliability
+      - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/bastion-security-baseline?toc=/azure/bastion/TOC.json)
+  - How-to guides
+    - Deploy Bastion
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
+      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/bastion-create-host-powershell)
+      - [Azure CLI](https://learn.microsoft.com/en-us/azure/bastion/create-host-cli)
+      - [Developer SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer-sku)
+    - [Deploy private-only Bastion](https://learn.microsoft.com/en-us/azure/bastion/private-only-deployment)
+    - Configure Bastion settings
+      - [View or upgrade SKU](https://learn.microsoft.com/en-us/azure/bastion/upgrade-sku)
+      - [Configure native client support](https://learn.microsoft.com/en-us/azure/bastion/native-client)
+      - Configure host scaling
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling-powershell)
+      - [Configure a shareable link](https://learn.microsoft.com/en-us/azure/bastion/shareable-link)
+      - [Configure Kerberos authentication](https://learn.microsoft.com/en-us/azure/bastion/kerberos-authentication-portal)
+      - [Configure session recording](https://learn.microsoft.com/en-us/azure/bastion/session-recording)
+    - Connect to a virtual machine
+      - Windows VM
+        - [RDP connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-rdp-windows)
+        - [SSH connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-ssh-windows)
+      - Linux VM
+        - [SSH connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-ssh-linux)
+        - [RDP connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-linux-rdp)
+    - Connect to a VM - native client
+      - [Connect from Windows client](https://learn.microsoft.com/en-us/azure/bastion/connect-vm-native-client-windows)
+      - [Connect from Linux client](https://learn.microsoft.com/en-us/azure/bastion/connect-vm-native-client-linux)
+    - [Connect to a VM - IP address](https://learn.microsoft.com/en-us/azure/bastion/connect-ip-address)
+    - [Connect to a VM scale set](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-scale-set)
+    - [Connect to DevTest Labs VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/enable-browser-connection-lab-virtual-machines?toc=%2fazure%2fbastion%2ftoc.json)
+    - Work with a VM session
+      - [Copy and paste](https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-copy-paste)
+      - [Full screen view](https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-full-screen)
+      - [Transfer files - native client](https://learn.microsoft.com/en-us/azure/bastion/vm-upload-download-native)
+    - Monitoring
+      - [Monitoring Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/howto-metrics-monitor-alert)
+      - [Configure and access diagnostic logs](https://learn.microsoft.com/en-us/azure/bastion/diagnostic-logs)
+      - [Monitor and manage sessions](https://learn.microsoft.com/en-us/azure/bastion/session-monitoring)
+    - [Troubleshoot](https://learn.microsoft.com/en-us/azure/bastion/troubleshoot)
+  - Reference
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/)
+    - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/bastion-hosts)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/network/bastion)
+  - Resources
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Blog](https://azure.microsoft.com/blog/topics/networking/)
+    - [Pricing](https://azure.microsoft.com/pricing/details/azure-bastion/)
+    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
+    - [Preview SLA](https://azure.microsoft.com/support/legal/preview-supplemental-terms)
+    - [SLA](https://azure.microsoft.com/support/legal/sla)

@@ -1,0 +1,103 @@
+# Azure confidential computing
+> Azure confidential computing offers solutions to isolate your sensitive data while it's being processed. Learn how to deploy any application on confidential computing infrastructure by reading concepts, completing tutorials, and working with code samples.
+  - [Azure confidential computing](https://learn.microsoft.com/en-us/azure/confidential-computing/)
+  - What is confidential computing?
+    - [Real-time protection of data whilst in-use](https://learn.microsoft.com/en-us/azure/confidential-computing/overview)
+    - [Use-cases and scenarios](https://learn.microsoft.com/en-us/azure/confidential-computing/use-cases-scenarios)
+    - [Confidential computing on Azure](https://learn.microsoft.com/en-us/azure/confidential-computing/overview-azure-products)
+    - [Trusted Execution Environment TEE](https://learn.microsoft.com/en-us/azure/confidential-computing/trusted-execution-environment)
+    - [Trusted Compute Base TCB](https://learn.microsoft.com/en-us/azure/confidential-computing/trusted-compute-base)
+    - [Secret & Key Management](https://learn.microsoft.com/en-us/azure/confidential-computing/secret-key-management)
+    - [Attestation](https://learn.microsoft.com/en-us/azure/confidential-computing/attestation-solutions)
+    - Confidential computing solutions
+      - [Building confidential computing solutions](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-computing-solutions)
+      - [Deploying solutions on confidential computing](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-computing-deployment-models)
+  - Why might I need it?
+    - [Multi-party and cleanroom collaboration](https://learn.microsoft.com/en-us/azure/confidential-computing/multi-party-data)
+    - [It's the future](https://azure.microsoft.com/blog/key-foundations-for-protecting-your-data-with-azure-confidential-computing/)
+    - [Confidential AI](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-ai)
+  - How do I get it?
+    - Confidential virtual machines
+      - [About Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-vm-overview)
+      - [Azure confidential VM options](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-options)
+      - [FAQ for confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-vm-faq.yml)
+      - [Guest attestation for confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/guest-attestation-confidential-vms)
+      - [About Azure confidential GPUs](https://learn.microsoft.com/en-us/azure/confidential-computing/gpu-options)
+      - [Microsoft Defender for Cloud integration](https://learn.microsoft.com/en-us/azure/confidential-computing/guest-attestation-defender-for-cloud)
+      - [Virtual TPMs in Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-tpms-in-azure-confidential-vm)
+      - [Key rotation for Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/key-rotation-offline)
+      - [Use sample app with guest attestation](https://learn.microsoft.com/en-us/azure/confidential-computing/guest-attestation-example)
+      - [Leverage virtual TPMs in Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-leverage-virtual-tpms-in-azure-confidential-vms)
+      - [Create a custom image for a confidential VM](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-create-custom-image-confidential-vm)
+      - Quickly create confidential VMs
+        - [Create VM through the Azure portal](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-portal)
+        - [Create VM through the Azure Marketplace](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-marketplace)
+        - [Create Hardened VMSS via Azure CLI](https://learn.microsoft.com/en-us/azure/confidential-computing/vmss-deployment-from-hardened-linux-image)
+      - Image hardening techniques for deployment
+        - [Harden a Linux image to remove sudo users](https://learn.microsoft.com/en-us/azure/confidential-computing/harden-the-linux-image-to-remove-sudo-users)
+        - [Harden a Linux image to remove Azure guest agent](https://learn.microsoft.com/en-us/azure/confidential-computing/harden-a-linux-image-to-remove-azure-guest-agent)
+      - Secure Key Release SKR with Azure Key Vault
+        - [SKR with Azure Confidential Computing Concept](https://learn.microsoft.com/en-us/azure/confidential-computing/concept-skr-attestation)
+        - [SKR with AMD SEV-SNP based Confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/skr-flow-confidential-vm-sev-snp)
+        - [SKR with Confidential containers on Azure Container Instance](https://learn.microsoft.com/en-us/azure/confidential-computing/skr-flow-confidential-containers-azure-container-instance)
+        - [SKR Policy Examples](https://learn.microsoft.com/en-us/azure/confidential-computing/skr-policy-examples)
+    - Virtual Machines with App Enclaves
+      - [App enclaves overview](https://learn.microsoft.com/en-us/azure/confidential-computing/application-development)
+      - Developing enclave applications
+        - [Enclave development overview](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-computing-enclaves)
+        - [Attesting application enclaves](https://learn.microsoft.com/en-us/azure/confidential-computing/attestation)
+        - [Open-source projects for development](https://learn.microsoft.com/en-us/azure/confidential-computing/enclave-development-oss)
+        - [Deploying Intel SGX virtual machines](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-solutions-sgx)
+        - [Application enclave VM FAQ](https://learn.microsoft.com/en-us/azure/confidential-computing/faq-application-enclaves.yml)
+    - Container compute
+      - [Container solutions overview](https://learn.microsoft.com/en-us/azure/confidential-computing/choose-confidential-containers-offerings)
+      - Application enclave nodes on AKS
+        - [Application enclave with Intel SGX DCSv2/DCsv3 nodes](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-nodes-aks-overview)
+        - [Deploy application enclave nodes on AKS](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-enclave-nodes-aks-get-started)
+        - [Enclave-aware containers](https://learn.microsoft.com/en-us/azure/confidential-computing/enclave-aware-containers)
+        - [AKS Add-on](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-nodes-aks-addon)
+        - [Confidential enclave nodes FAQ](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-nodes-aks-faq.yml)
+      - Confidential containers
+        - [Confidential containers overview](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers)
+        - [Confidential containers on AKS](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers-on-aks-preview)
+        - [Confidential containers AKS security policy](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers-aks-security-policy)
+        - [Confidential containers with Azure Container Instances ACI](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers)
+        - [Confidential containers with Intel SGX enclaves](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers-enclaves)
+      - Confidential node pools on AKS
+        - [Confidential VM node pools in AKS](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-node-pool-aks)
+      - References
+        - [DCasv5 and DCadsv5-series](https://learn.microsoft.com/azure/virtual-machines/dcasv5-dcadsv5-series)
+        - [ECasv5 and ECadsv5-series](https://learn.microsoft.com/azure/virtual-machines/ecasv5-ecadsv5-series)
+        - [DCesv5 and DCedsv5-series](https://learn.microsoft.com/azure/virtual-machines/dcesv5-dcedsv5-series)
+        - [ECesv5 and ECedsv5-series](https://learn.microsoft.com/azure/virtual-machines/ecesv5-ecedsv5-series)
+        - [Pricing](https://azure.microsoft.com/pricing/details/virtual-machines/linux/)
+        - [Regions](https://azure.microsoft.com/global-infrastructure/services/?products=virtual-machine)
+    - Confidential services
+      - [SQL Always Encrypted with Secure Enclaves](https://learn.microsoft.com/sql/relational-databases/security/encryption/configure-always-encrypted-enclaves)
+      - [SQL on Confidential Virtual Machines](https://learn.microsoft.com/azure/azure-sql/virtual-machines/windows/sql-vm-create-confidential-vm-how-to)
+      - [Confidential Databricks](https://techcommunity.microsoft.com/t5/azure-confidential-computing/confidential-vm-option-for-azure-databricks-preview/ba-p/3827982)
+      - [Confidential Azure Data Explorer PREVIEW](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/confidential-vm-option-for-azure-data-explorer-public-preview/ba-p/3827343)
+      - [Azure Virtual Desktop AVD Confidential Desktop](https://learn.microsoft.com/azure/virtual-desktop/whats-new)
+      - [Azure Confidential Ledger](https://learn.microsoft.com/azure/confidential-ledger/overview)
+    - Partner Solutions
+      - [Overview](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/partner-pages-index)
+      - [Anjuna](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/anjuna)
+      - [BeeKeeperAI](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/beekeeperai)
+      - [Decentriq](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/decentriq)
+      - [Edgeless](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/edgeless)
+      - [Enclaive](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/enclaive)
+      - Fortanix
+        - [About Fortanix](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/fortanix)
+        - [Fortanix Confidential Computing Manager](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-fortanix-confidential-computing-manager)
+        - [Fortanix Confidential Computing Manager Node Agent](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-fortanix-confidential-computing-manager-node-agent)
+      - [Habu](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/habu)
+      - [Mithril Security](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/mithril)
+      - [Opaque](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/opaque)
+      - [Scone](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/scone)
+  - Resources
+    - [Join our Tech Community](https://techcommunity.microsoft.com/t5/azure-confidential-computing/bg-p/AzureConfidentialComputingBlog)
+    - [Confidential Computing Consortium](https://confidentialcomputing.io/)
+    - [Confidential computing feedback](https://feedback.azure.com/d365community/)
+    - [StackOverflow](https://stackoverflow.com/questions/tagged/azure-confidential-computing)
+    - [Virtual Machines on Azure](https://learn.microsoft.com/azure/virtual-machines/)
+    - [Security patch status](https://microsoft-my.sharepoint.com/:w:/p/irakaul/EbZErJv7pXpJv-DJn6oZtwgBPLeTa12q3sbTZFAGU8BfvQ?e=Rs2RxX)

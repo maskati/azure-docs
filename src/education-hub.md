@@ -1,0 +1,39 @@
+# Azure Education Hub documentation
+> Use the Education Hub to provide students with all the software, learning materials, and Azure services that they need to become cloud proficient.
+  - [Azure Education Hub documentation](https://learn.microsoft.com/en-us/azure/education-hub/)
+  - Overview
+    - Azure for Students
+      - [What is Azure for Students?](https://learn.microsoft.com/en-us/azure/education-hub/about-azure-for-students)
+    - Azure for Students Starter
+      - [What is Azure for Students Starter?](https://learn.microsoft.com/en-us/azure/education-hub/about-azure-for-students-starter)
+    - Azure Classroom
+      - [What is Azure Classroom?](https://learn.microsoft.com/en-us/azure/education-hub/about-education-hub)
+    - Azure Dev Tools for Teaching
+      - [What is Azure Dev Tools for Teaching?](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/about-program)
+  - Quickstarts
+    - Azure Classroom
+      - [Access the Education Hub](https://learn.microsoft.com/en-us/azure/education-hub/access-education-hub)
+      - [Get started with Azure Classroom](https://learn.microsoft.com/en-us/azure/education-hub/get-started-education-hub)
+      - [Set up a lab](https://learn.microsoft.com/en-us/azure/education-hub/set-up-lab)
+    - Azure Dev Tools for Teaching
+      - [Enroll or renew a subscription](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/enroll-renew-subscription)
+      - [Set up access](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/set-up-access)
+  - How-to guides
+    - Azure Classroom
+      - [Manage your academic sponsorship](https://learn.microsoft.com/en-us/azure/education-hub/hub-overview-page)
+      - [Create a lab and allocate credit](https://learn.microsoft.com/en-us/azure/education-hub/create-assignment-allocate-credit)
+      - [Get support](https://learn.microsoft.com/en-us/azure/education-hub/educator-service-desk)
+      - [Use a script to automate lab functionality](https://learn.microsoft.com/en-us/azure/education-hub/full-api-script)
+      - [Create a lab with REST APIs](https://learn.microsoft.com/en-us/azure/education-hub/create-lab-education-hub)
+      - [Add students to a lab with REST APIs](https://learn.microsoft.com/en-us/azure/education-hub/add-student-api)
+      - [Delete a lab with REST APIs](https://learn.microsoft.com/en-us/azure/education-hub/delete-lab-education-hub-apis)
+      - [Find IDs for calling Azure Education Hub APIs](https://learn.microsoft.com/en-us/azure/education-hub/find-ids)
+    - Azure Dev Tools for Teaching
+      - [Download software](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/download-software)
+      - [Manage students](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/manage-students)
+    - Azure for Students
+      - [Track usage and create budgets](https://learn.microsoft.com/en-us/azure/education-hub/navigate-costs)
+      - [Deploy resources](https://learn.microsoft.com/en-us/azure/education-hub/deploy-resources-azure-for-students)
+  - Troubleshooting
+    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/education-hub/faq)
+    - [Sign-in errors](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/troubleshoot-login)

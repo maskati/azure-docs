@@ -1,0 +1,51 @@
+# Azure Data Share documentation
+> Azure Data Share is a safe and secure service for sharing data with third-party organizations.
+  - [Azure Data Share documentation](https://learn.microsoft.com/en-us/azure/data-share/)
+  - Overview
+    - [What is Azure Data Share?](https://learn.microsoft.com/en-us/azure/data-share/overview)
+    - [Supported data stores](https://learn.microsoft.com/en-us/azure/data-share/supported-data-stores)
+  - Quickstarts
+    - [Share data - Azure portal](https://learn.microsoft.com/en-us/azure/data-share/share-your-data-portal)
+    - [Share data - Bicep](https://learn.microsoft.com/en-us/azure/data-share/share-your-data-bicep)
+    - [Share data - ARM template](https://learn.microsoft.com/en-us/azure/data-share/share-your-data-arm)
+  - Tutorials
+    - [Share data](https://learn.microsoft.com/en-us/azure/data-share/share-your-data)
+    - [Accept and receive data](https://learn.microsoft.com/en-us/azure/data-share/subscribe-to-data-share)
+  - Concepts
+    - Security
+      - [Security overview](https://learn.microsoft.com/en-us/azure/data-share/security)
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-data-share-security-baseline?toc=/azure/data-share/TOC.json)
+    - [Azure Data Share terminology](https://learn.microsoft.com/en-us/azure/data-share/terminology)
+    - [Roles and requirements](https://learn.microsoft.com/en-us/azure/data-share/concepts-roles-permissions)
+    - [Understand pricing](https://learn.microsoft.com/en-us/azure/data-share/concepts-pricing)
+  - Samples
+    - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/data-share/samples-powershell)
+  - How-to guides
+    - Share and receive data by source
+      - [Share from Azure Storage](https://learn.microsoft.com/en-us/azure/data-share/how-to-share-from-storage)
+      - [Share from Azure SQL Database or Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/data-share/how-to-share-from-sql)
+      - [Share from Azure Data Explorer](https://learn.microsoft.com/azure/data-explorer/data-share)
+    - [Add datasets](https://learn.microsoft.com/en-us/azure/data-share/how-to-add-datasets)
+    - [Configure dataset mappings](https://learn.microsoft.com/en-us/azure/data-share/how-to-configure-mapping)
+    - [Add recipients](https://learn.microsoft.com/en-us/azure/data-share/how-to-add-recipients)
+    - [Delete an invitation](https://learn.microsoft.com/en-us/azure/data-share/how-to-delete-invitation)
+    - [Revoke a share subscription](https://learn.microsoft.com/en-us/azure/data-share/how-to-revoke-share-subscription)
+    - [Monitor Data Share](https://learn.microsoft.com/en-us/azure/data-share/monitor-data-share)
+    - [Monitor share status and history](https://learn.microsoft.com/en-us/azure/data-share/how-to-monitor)
+    - [Disaster recovery](https://learn.microsoft.com/en-us/azure/data-share/disaster-recovery)
+    - [Troubleshoot](https://learn.microsoft.com/en-us/azure/data-share/data-share-troubleshoot)
+    - [Move Data Share account to new region](https://learn.microsoft.com/en-us/azure/data-share/move-to-new-region)
+  - Reference
+    - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/datashare)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.datashare/)
+    - [REST API](https://learn.microsoft.com/rest/api/datashare)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/azure-cli-reference-for-data-share)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/data-share/monitor-data-share-reference)
+  - Resources
+    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-data-share.html)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-data-share)
+    - [Blog](https://techcommunity.microsoft.com/t5/Azure-Data-Share/bg-p/AzureDataShareBlog)
+    - [Microsoft Tech Community](https://techcommunity.microsoft.com/)
+    - [Product feedback](https://feedback.azure.com/d365community/forum/4444c9d4-ed24-ec11-b6e6-000d3a4f0da0)
+    - [Pricing](https://azure.microsoft.com/pricing/details/data-share/)
+    - [Service updates](https://azure.microsoft.com/updates/?product=data-share)

@@ -1,0 +1,73 @@
+# Azure Cloud Services (extended support) documentation
+> Learn how to use Cloud Services to host and run highly available, scalable cloud applications and APIs. Shows how to manage virtual machine hosts and configure, patch, and install software.
+  - [Azure Cloud Services extended support documentation](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/)
+  - Overview
+    - [About Cloud Services extended support](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/overview)
+    - [Prerequisites for deployment](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/deploy-prerequisite)
+    - [Config files and packaging](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/cloud-services-model-and-package)
+    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/faq.yml)
+  - Quickstarts
+    - [Deploy the cloud service - Portal](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/deploy-portal)
+    - [Deploy the cloud service - PowerShell](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/deploy-powershell)
+    - [Deploy the cloud service - ARM template](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/deploy-template)
+    - [Deploy the cloud service - SDK](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/deploy-sdk)
+    - [Deploy the cloud service - Visual Studio](https://learn.microsoft.com/visualstudio/azure/cloud-services-extended-support?context=%2fazure%2fcloud-services-extended-support%2fcontext%2fcontext)
+  - Concepts
+    - [Extensions](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/extensions)
+    - [Available VM sizes](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/available-sizes)
+    - [Power and Provisioning States](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/states)
+    - [Guest OS patches](https://learn.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-msrc-releases?context=/azure/cloud-services-extended-support/context/context)
+    - [Guest OS retirement](https://learn.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-retirement-policy?context=/azure/cloud-services-extended-support/context/context)
+    - [Guest OS release news](https://learn.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix?context=/azure/cloud-services-extended-support/context/context)
+    - XML schema
+      - [Csdef XML schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-csdef-file)
+      - [LoadBalancerProbe schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-csdef-loadbalancerprobe)
+      - [WebRole schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-csdef-webrole)
+      - [WorkerRole schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-csdef-workerrole)
+      - [NetworkTrafficRules schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-csdef-networktrafficrules)
+      - [Cscfg XML schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-cscfg-file)
+      - [Role schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-cscfg-role)
+      - [NetworkConfiguration schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-cscfg-networkconfiguration)
+  - Migration
+    - Migrate to Azure Cloud Services extended support
+      - [Migration overview](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/in-place-migration-overview)
+      - [Migration technical details](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/in-place-migration-technical-details)
+      - [Migrate using the Azure portal](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/in-place-migration-portal)
+      - [Migrate using PowerShell](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/in-place-migration-powershell)
+      - [Migrate non-vnet installation to a virtual network](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/non-vnet-migration)
+      - [Post migration changes](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/post-migration-changes)
+      - [Common errors and known issues](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/in-place-migration-common-errors)
+    - [Feature Support for CSES](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/feature-support-analysis)
+  - How To
+    - Apply extensions
+      - [Apply Remote Desktop extension](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/enable-rdp)
+      - [Apply WAD extension](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/enable-wad)
+      - [Apply the Key Vault extension](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/enable-key-vault-virtual-machine)
+    - [Enable alerts](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/enable-alerts)
+    - [Configure scaling](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/configure-scaling)
+    - [Certificates](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/certificates-and-key-vault)
+    - [Generate ARM template using the portal](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/generate-template-portal)
+    - [Swap cloud service deployments](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/swap-cloud-service)
+    - [Override SKU details](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/override-sku)
+  - Samples
+    - [Sample templates](https://github.com/Azure-Samples/cloud-services-extended-support)
+    - [Create a new cloud service](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/sample-create-cloud-service)
+    - [Get cloud service details](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/sample-get-cloud-service)
+    - [Reset a cloud service](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/sample-reset-cloud-service)
+  - Reference
+    - [Sample deployment files](https://github.com/Azure-Samples/cloud-services-extended-support)
+    - [Az.CloudService module](https://www.powershellgallery.com/packages/Az.CloudService/0.5.0)
+    - [PowerShell cmdlets](https://learn.microsoft.com/powershell/module/az.cloudservice/)
+    - [ARM template reference](https://learn.microsoft.com/azure/templates/microsoft.compute/cloudservices)
+    - [REST](https://learn.microsoft.com/rest/api/compute/cloud-services)
+    - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines)
+    - [SDK](https://www.nuget.org/packages/Microsoft.Azure.Management.Compute/43.0.0-preview)
+    - [CLI](https://learn.microsoft.com/cli/azure/cloud-service)
+  - Resources
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=compute)
+    - [Learning path](https://learn.microsoft.com/training/paths/az-900-describe-cloud-concepts/)
+    - [Microsoft Q&A](https://learn.microsoft.com/answers/topics/azure-cloud-services.html)
+    - [Pricing](https://azure.microsoft.com/pricing/details/cloud-services/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Service updates](https://azure.microsoft.com/updates/?product=cloud-services&updatetype=&platform=)
+  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/support-help)

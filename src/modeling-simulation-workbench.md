@@ -1,0 +1,51 @@
+# Azure Modeling and Simulation Workbench (preview) documentation
+> Documentation for creating and managing Azure Modeling and Simulation Workbench (preview).
+  - [Azure Modeling and Simulation Workbench preview documentation](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/)
+  - Overview
+    - [What is Azure Modeling and Simulation Workbench?](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/modeling-simulation-workbench-overview)
+    - [Get started with Azure Modeling and Simulation Workbench](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/get-started-modeling-simulation-workbench)
+  - Quickstarts
+    - [Add users](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/quickstart-add-users)
+    - [Connect to desktop](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/quickstart-connect-desktop)
+    - [Import data](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/quickstart-import-data)
+  - Concepts
+    - [Workbench](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-workbench)
+    - [Chamber](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-chamber)
+    - [Connector](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-connector)
+    - [User personas](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-user-personas)
+    - [Data pipeline](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-data-pipeline)
+    - [License service](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-license-service)
+    - [VM offerings](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-vm-offerings)
+    - [Storage](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-storage)
+  - Tutorials
+    - [Create a Slurm cluster](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/tutorial-install-slurm)
+  - Networking
+    - [Networking overview](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-network)
+    - [Connectors](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/concept-connector)
+    - [Create a private network connector for VPN](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-private-network)
+    - [Create a public network connector](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-public-network)
+    - [Manage Red Hat firewalls](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-configure-firewall-red-hat)
+  - How-to guides
+    - [Manage users](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-manage-users)
+    - [Manage license service](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-licenses)
+    - [Import data](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-upload-data)
+    - [Export data](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-download-data)
+    - [Manage chamber storage](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-manage-chamber-storage)
+    - [Manage shared storage](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-manage-shared-storage)
+    - [Start and stop chambers, connectors, and VMs](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-start-stop-restart)
+    - [Enable copy/paste](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-enable-copy-paste)
+    - [Place a chamber into idle mode](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-chamber-idle)
+    - [Manage VMs](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-chamber-vm)
+    - [Create a chamber](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-chamber)
+    - Management and configuration
+      - [Refresh remote connection keys](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/refresh-remote-connection-keys)
+      - [Register a resource provider](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-register-resource-provider)
+      - [Add redirect URIs](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/how-to-guide-add-redirect-uris)
+  - Resources
+    - [Troubleshooting](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/resources-troubleshoot)
+    - [Known issues](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/troubleshoot-known-issues)
+    - [Best practices](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/best-practices)
+    - [Limits and quotas](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/limits-quotas)
+    - [Business continuity and disaster recovery](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/disaster-recovery)
+    - [Get support](https://learn.microsoft.com/en-us/azure/modeling-simulation-workbench/resources-get-support)
+    - [AzCopy](https://learn.microsoft.com/azure/storage/common/storage-use-azcopy-v10?tabs=dnf)

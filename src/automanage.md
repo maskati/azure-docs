@@ -1,0 +1,37 @@
+# Azure Automanage
+> Azure Automanage Machine Best Practices
+  - [Azure Automanage](https://learn.microsoft.com/en-us/azure/automanage/)
+  - Overview
+    - [About Azure Automanage](https://learn.microsoft.com/en-us/azure/automanage/overview-about)
+    - [Configuration profiles](https://learn.microsoft.com/en-us/azure/automanage/overview-configuration-profiles)
+    - [Check VM status](https://learn.microsoft.com/en-us/azure/automanage/overview-vm-status)
+    - [Azure disk encryption](https://learn.microsoft.com/en-us/azure/automanage/overview-azure-disk-encryption)
+  - Quickstarts
+    - [Enable on VMs in the Azure portal](https://learn.microsoft.com/en-us/azure/automanage/quick-create-virtual-machines-portal)
+    - [GO](https://learn.microsoft.com/en-us/azure/automanage/quick-go-sdk)
+    - [Python](https://learn.microsoft.com/en-us/azure/automanage/quick-python-sdk)
+    - [Java](https://learn.microsoft.com/en-us/azure/automanage/quick-java-sdk)
+    - [JavaScript](https://learn.microsoft.com/en-us/azure/automanage/quick-javascript-sdk)
+  - Tutorials
+    - [Create assignment with Python](https://learn.microsoft.com/en-us/azure/automanage/tutorial-create-assignment-python)
+  - Concepts
+    - [Automanage for Linux](https://learn.microsoft.com/en-us/azure/automanage/automanage-linux)
+    - [Automanage for Windows Server](https://learn.microsoft.com/en-us/azure/automanage/automanage-windows-server)
+      - [SMB over QUIC](https://learn.microsoft.com/en-us/azure/automanage/automanage-smb-over-quic)
+    - [Automanage for Azure Arc-enabled servers](https://learn.microsoft.com/en-us/azure/automanage/automanage-arc)
+  - How to
+    - [Create custom profile](https://learn.microsoft.com/en-us/azure/automanage/virtual-machines-custom-profile)
+    - [Disable Azure Automanage](https://learn.microsoft.com/en-us/azure/automanage/how-to-disable-automanage)
+    - [Enable on VMs through Azure Policy](https://learn.microsoft.com/en-us/azure/automanage/virtual-machines-policy-enable)
+    - [Enable on VMs through an ARM template](https://learn.microsoft.com/en-us/azure/automanage/arm-deploy)
+    - [Enable on Arc servers through an ARM template](https://learn.microsoft.com/en-us/azure/automanage/arm-deploy-arc.yml)
+    - [Upgrade machines to latest Automanage Version](https://learn.microsoft.com/en-us/azure/automanage/automanage-upgrade)
+    - [Troubleshoot onboarding errors](https://learn.microsoft.com/en-us/azure/automanage/common-errors)
+    - [Repair a broken Automanage account](https://learn.microsoft.com/en-us/azure/automanage/repair-automanage-account)
+    - [Move an Automanaged virtual machine across regions](https://learn.microsoft.com/en-us/azure/automanage/move-automanaged-vms)
+    - [Move an Automanaged configuration profile across regions](https://learn.microsoft.com/en-us/azure/automanage/move-automanaged-configuration-profile)
+  - References
+    - [SDKs](https://learn.microsoft.com/en-us/azure/automanage/reference-sdk)
+  - Resources
+    - [FAQ](https://learn.microsoft.com/en-us/azure/automanage/faq.yml)
+    - [Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/manage/azure-server-management/)

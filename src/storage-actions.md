@@ -1,0 +1,25 @@
+# storage-actions
+  - [Azure Storage Actions documentation](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/)
+  - Overview
+    - [What is Azure Storage Actions?](https://learn.microsoft.com/en-us/azure/storage-actions/overview)
+  - Quickstarts
+    - [Create, assign, and run a storage task](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-quickstart-portal)
+  - Concepts
+    - [Storage task conditions](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-conditions)
+    - [Storage task operations](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-operations)
+    - [Storage task authorization](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-authorization-roles)
+    - [Reliability in Azure Storage Actions](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions?toc=/azure/storage-actions/toc.json)
+  - How-to
+    - [Create a storage task](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-create)
+    - [Define conditions & operations](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-conditions-operations-edit)
+    - [Create and manage an assignment](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-assignment-create)
+    - [Monitor storage tasks](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/monitor-storage-tasks)
+    - [Analyze storage task runs](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-runs)
+  - Reference
+    - [Azure Storage Actions REST API](https://learn.microsoft.com/rest/api/storageactions/operation-groups)
+    - [Azure Storage Actions cmdlets PowerShell](https://learn.microsoft.com/powershell/module/az.storageaction)
+    - [Azure Storage Actions extension Azure CLI](https://learn.microsoft.com/cli/azure/storage-actions)
+    - [Monitoring data Reference](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-tasks-monitor-data-reference)
+    - [Storage Tasks events](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-storage-actions?toc=/azure/storage-actions/toc.json)
+  - Resources
+    - [Known issues and limitations](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-known-issues)

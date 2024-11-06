@@ -1,0 +1,24 @@
+# Azure Business Continuity Center documentation (preview)
+> The Azure Business Continuity Center (preview) is an easy-to-use web-based user interface for managing your backup and disaster recovery at scale from single place across various environment and solutions.  Use it for configuring backups and replication, defining protection policies, monitoring operations, review configurations and much more.
+  - [Azure Business Continuity Center documentation preview](https://learn.microsoft.com/en-us/azure/business-continuity-center/)
+  - [Overview](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-overview)
+  - Tutorials
+    - [View protectable resources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protectable-resources)
+    - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-configure-protection-datasource)
+    - [Recover item](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-recover-deleted-item)
+    - [View protected items and perform actions](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protected-items-and-perform-actions)
+    - [Review security posture](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-review-security-posture)
+    - [Monitor jobs](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-operate)
+    - [Monitor alerts and metrics](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-alerts-metrics)
+    - [Monitoring protection summary](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-protection-summary)
+    - [Govern and view compliance](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-govern-monitor-compliance)
+  - Concepts
+    - [Support matrices](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-support-matrix)
+    - [Security levels](https://learn.microsoft.com/en-us/azure/business-continuity-center/security-levels-concept)
+  - How-to guides
+    - Vaults
+      - [Create](https://learn.microsoft.com/en-us/azure/business-continuity-center/backup-vaults)
+      - [Manage](https://learn.microsoft.com/en-us/azure/business-continuity-center/manage-vault)
+    - Protection policy
+      - [Create](https://learn.microsoft.com/en-us/azure/business-continuity-center/backup-protection-policy)
+      - [Manage](https://learn.microsoft.com/en-us/azure/business-continuity-center/manage-protection-policy)

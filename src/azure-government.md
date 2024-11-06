@@ -1,0 +1,67 @@
+# Azure Government documentation
+> Azure Government is a cloud services platform built upon the foundational principles of security, privacy, and compliance. Customers eligible for Azure Government benefit from a physically isolated instance of Azure.
+  - [Azure Government Documentation](https://learn.microsoft.com/en-us/azure/azure-government/)
+  - Overview
+    - [What is Azure Government?](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-welcome)
+    - [Compare Azure Government and global Azure](https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure)
+  - Quickstarts
+    - [Azure Government portal](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-get-started-connect-with-portal)
+    - [Azure CLI](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-get-started-connect-with-cli)
+    - DoD DISA STIGs
+      - [Deploy Linux VM](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-stig-linux-vm)
+      - [Deploy Windows VM](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-stig-windows-vm)
+    - [PowerShell](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-get-started-connect-with-ps)
+    - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-connect-vs)
+  - Tutorials
+    - [Deploy App Service](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-howto-deploy-webandmobile)
+    - [Create Virtual Machines](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-quickstarts-vm)
+  - Concepts
+    - [Considerations for naming Azure resources](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-concept-naming-resources)
+    - Plan
+      - [Security](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-plan-security)
+      - [Compliance](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-plan-compliance)
+      - [Identity](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-plan-identity)
+    - Industry segments
+      - [Department of Defense](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-overview-dod)
+      - [Export controls](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-overview-itar)
+      - [Power and utilities](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-overview-nerc)
+      - [Public safety and justice](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-overview-jps)
+      - [Worldwide public sector](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-overview-wwps)
+  - How-to guides
+    - Develop
+      - [Guidance for developers](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-developer-guide)
+      - [Azure Storage](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-get-started-connect-to-storage)
+      - [Azure AI services](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-cognitiveservices)
+      - [Integrate Microsoft Entra authentication](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-aad-auth-qs)
+      - [SQL Server Management Studio](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-connect-ssms)
+    - Secure
+      - [Impact Level 5 isolation guidance](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-impact-level-5)
+      - [Azure secure isolation guidance](https://learn.microsoft.com/en-us/azure/azure-government/azure-secure-isolation-guidance)
+      - [Secure Azure computing architecture](https://learn.microsoft.com/en-us/azure/azure-government/compliance/secure-azure-computing-architecture)
+    - Deploy
+      - [Deploy with Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-government/connect-with-azure-pipelines)
+      - [Use DISA CAP](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-ase-disa-cap)
+    - Manage
+      - [Azure Monitor logs](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-manage-oms)
+      - [Marketplace](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-manage-marketplace)
+      - [Access EA billing account](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-how-to-access-enterprise-agreement-billing-account)
+  - Compliance
+    - [Trusted Internet Connections with Azure](https://learn.microsoft.com/en-us/azure/azure-government/compliance/compliance-tic)
+    - [Cloud services by audit scope](https://learn.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope)
+    - [Accelerate your path to ATO with Azure](https://learn.microsoft.com/en-us/azure/azure-government/compliance/documentation-accelerate-compliance)
+  - Reference
+    - Marketplace
+      - [Images](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-image-gallery)
+      - [Extensions](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-extension)
+      - [Marketplace for partners](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-manage-marketplace-partners)
+    - Cloud Solution Providers
+      - [CSP application process](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-csp-application)
+      - [Authorized reseller list](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-csp-list)
+  - Resources
+    - [Azure Government Website](https://azure.microsoft.com/global-infrastructure/government/)
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Videos](https://azure.microsoft.com/resources/videos/index/?tag=azure-government)
+    - [Blog](https://devblogs.microsoft.com/azuregov/)
+    - [Pricing](https://azure.microsoft.com/pricing/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Trial](https://azure.microsoft.com/global-infrastructure/government/request/)

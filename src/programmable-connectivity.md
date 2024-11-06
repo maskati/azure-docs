@@ -1,0 +1,21 @@
+# Azure Programmable Connectivity documentation
+> Learn how to use Azure Programmable Connectivity.
+  - [Azure Programmable Connectivity documentation](https://learn.microsoft.com/en-us/azure/programmable-connectivity/)
+  - Overview
+    - [What is Azure Programmable Connectivity?](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-overview)
+    - [Security overview for Azure Programmable Connectivity](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-security-overview)
+    - Features
+      - [Aggregation](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-aggregation)
+      - [Abstraction](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-abstraction)
+      - [Consolidated billing](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-billing)
+  - Concepts
+    - [Network APIs](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-network-apis)
+    - [Locations and partners](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-locations-partners)
+    - [Availability and redundancy](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-availability)
+  - Quickstarts
+    - [Create an APC Gateway](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-create-gateway)
+    - [Using network APIs](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-using-network-apis)
+  - Resources
+    - [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/)
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Blog](https://techcommunity.microsoft.com/t5/azure-for-operators-blog/azure-programmable-connectivity-empowering-the-next-generation/ba-p/4063967)

@@ -1,0 +1,138 @@
+# Azure DNS documentation
+> Learn how to use Azure DNS. Quickstarts, tutorials, samples, and more, show you how to set up and manage DNS zones and records for domain names.
+  - [DNS documentation](https://learn.microsoft.com/en-us/azure/dns/)
+  - Overview
+    - [Azure DNS overview](https://learn.microsoft.com/en-us/azure/dns/dns-overview)
+    - [What is Azure Public DNS?](https://learn.microsoft.com/en-us/azure/dns/public-dns-overview)
+    - [What is Azure Private DNS?](https://learn.microsoft.com/en-us/azure/dns/private-dns-overview)
+    - [What is Azure DNS Private Resolver?](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-overview)
+    - [What is Azure Traffic Manager?](https://learn.microsoft.com/azure/traffic-manager/traffic-manager-overview)
+  - Quickstarts
+    - Public DNS
+      - [Create a public zone - portal](https://learn.microsoft.com/en-us/azure/dns/dns-getstarted-portal)
+      - [Create a public zone - PowerShell](https://learn.microsoft.com/en-us/azure/dns/dns-getstarted-powershell)
+      - [Create a public zone - CLI](https://learn.microsoft.com/en-us/azure/dns/dns-getstarted-cli)
+      - [Create a public zone - Bicep](https://learn.microsoft.com/en-us/azure/dns/dns-get-started-bicep)
+      - [Create a public zone - ARM Template](https://learn.microsoft.com/en-us/azure/dns/dns-get-started-template)
+      - [Create a public zone - Terraform](https://learn.microsoft.com/en-us/azure/dns/dns-get-started-terraform)
+    - Private DNS
+      - [Create a private zone - portal](https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal)
+      - [Create a private zone - CLI](https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-cli)
+      - [Create a private zone - PowerShell](https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-powershell)
+    - Private resolver
+      - [Create a private resolver - portal](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-portal)
+      - [Create a private resolver - PowerShell](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-powershell)
+      - [Create a private resolver - Bicep](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-bicep)
+      - [Create a private resolver - ARM Template](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-template)
+  - Tutorials
+    - Public DNS
+      - [Host your domain in Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-delegate-domain-azure-dns)
+      - [Create child DNS zones](https://learn.microsoft.com/en-us/azure/dns/tutorial-public-dns-zones-child)
+      - [Create custom DNS records for a web app](https://learn.microsoft.com/en-us/azure/dns/dns-web-sites-custom-domain)
+      - [Create alias records for zone records](https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-rr)
+      - [Create alias records for public IP addresses](https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-pip)
+      - [Create alias records for Traffic Manager](https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-tm)
+    - Private Resolver
+      - [Set up DNS failover using private resolvers](https://learn.microsoft.com/en-us/azure/dns/tutorial-dns-private-resolver-failover)
+  - Concepts
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-dns-security-baseline?toc=/azure/dns/TOC.json)
+    - Public DNS
+      - [Zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-zones-records)
+      - [Alias records](https://learn.microsoft.com/en-us/azure/dns/dns-alias)
+      - [Delegation with Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-domain-delegation)
+      - [DNSSEC](https://learn.microsoft.com/en-us/azure/dns/dnssec)
+      - [FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq.yml)
+      - [DNS metrics and alerts](https://learn.microsoft.com/en-us/azure/dns/dns-alerts-metrics)
+      - [Reverse DNS](https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-overview)
+    - Private DNS
+      - [What is an Azure Private DNS zone?](https://learn.microsoft.com/en-us/azure/dns/private-dns-privatednszone)
+      - [Private DNS records](https://learn.microsoft.com/en-us/azure/dns/dns-private-records)
+      - [Virtual network links](https://learn.microsoft.com/en-us/azure/dns/private-dns-virtual-network-links)
+      - [Autoregistration](https://learn.microsoft.com/en-us/azure/dns/private-dns-autoregistration)
+      - [Private DNS scenarios](https://learn.microsoft.com/en-us/azure/dns/private-dns-scenarios)
+      - [DNS resolution in virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances?toc=%2fazure%2fdns%2ftoc.json)
+      - [Private DNS resiliency](https://learn.microsoft.com/en-us/azure/dns/private-dns-resiliency)
+      - [FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq-private.yml)
+    - Private Resolver
+      - [Endpoints and rulesets](https://learn.microsoft.com/en-us/azure/dns/private-resolver-endpoints-rulesets)
+      - [Private resolver architecture](https://learn.microsoft.com/en-us/azure/dns/private-resolver-architecture)
+      - [Resiliency in Azure DNS Private Resolver](https://learn.microsoft.com/en-us/azure/dns/private-resolver-reliability)
+  - How-to guides
+    - Public DNS
+      - [Alias records for load balanced web apps](https://learn.microsoft.com/en-us/azure/dns/dns-alias-appservice)
+      - Manage DNSSEC
+        - [Sign a DNS zone](https://learn.microsoft.com/en-us/azure/dns/dnssec-how-to)
+        - [Unsign a DNS zone](https://learn.microsoft.com/en-us/azure/dns/dnssec-unsign)
+      - Manage DNS zones
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/dns/dns-operations-dnszones-portal)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/dns/dns-operations-dnszones)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/dns/dns-operations-dnszones-cli)
+      - Manage DNS records
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/dns/dns-operations-recordsets-portal)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/dns/dns-operations-recordsets)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/dns/dns-operations-recordsets-cli)
+      - Manage reverse DNS
+        - [Host reverse lookup zones in Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-hosting)
+        - [Manage reverse DNS records for Azure services](https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-for-azure-services)
+      - Import and export a DNS zone file
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/dns/dns-import-export-portal)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/dns/dns-import-export)
+      - Delegate a subdomain
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/dns/delegate-subdomain)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/dns/delegate-subdomain-ps)
+      - [Integrate with other Azure services](https://learn.microsoft.com/en-us/azure/dns/dns-for-azure-services)
+      - [Protect DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-zones-recordsets)
+      - [Automate DNS operations with the .NET SDK](https://learn.microsoft.com/en-us/azure/dns/dns-sdk)
+      - [Custom domains for Azure resources](https://learn.microsoft.com/en-us/azure/dns/dns-custom-domain)
+    - Private DNS
+      - [Protect private DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-private-zones-recordsets)
+      - Import and export a DNS zone file
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/dns/private-dns-import-export-portal)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/dns/private-dns-import-export)
+      - [Create and manage reverse DNS zones](https://learn.microsoft.com/en-us/azure/dns/private-reverse-dns)
+      - [Use Azure Resource Graph Explorer](https://learn.microsoft.com/en-us/azure/dns/private-dns-arg)
+    - Private Resolver
+      - [Resolve Azure and on-premises domains](https://learn.microsoft.com/en-us/azure/dns/private-resolver-hybrid-dns)
+    - Troubleshoot
+      - [Troubleshooting guide](https://learn.microsoft.com/en-us/azure/dns/dns-troubleshoot)
+  - Reference
+    - Public DNS
+      - [Code samples](https://azure.microsoft.com/resources/samples/?service=dns)
+      - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.dns)
+      - [Azure CLI](https://learn.microsoft.com/cli/azure/network/dns)
+      - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.dns.models)
+      - [Java](https://learn.microsoft.com/java/api/com.microsoft.azure.management.dns)
+      - [Ruby](https://www.rubydoc.info/gems/azure_mgmt_dns/0.8.0)
+      - [Python](https://azure.github.io/azure-sdk-for-python/dns.html)
+      - [REST](https://learn.microsoft.com/rest/api/dns/)
+      - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/dns-allversions)
+    - Private DNS
+      - [Azure CLI](https://learn.microsoft.com/cli/azure/network/private-dns)
+      - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.PrivateDns)
+      - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.privatedns-readme)
+      - [REST](https://learn.microsoft.com/rest/api/dns/privatedns/privatezones)
+    - Private resolver
+      - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.dnsresolver)
+      - [Azure CLI](https://learn.microsoft.com/cli/azure/dns-resolver)
+      - [.NET](https://learn.microsoft.com/dotnet/api/azure.resourcemanager.dnsresolver)
+      - [Java](https://learn.microsoft.com/java/api/com.azure.resourcemanager.dnsresolver)
+      - [Python](https://pypi.org/project/azure-mgmt-dnsresolver)
+      - [REST](https://learn.microsoft.com/rest/api/dns/dnsresolver/dns-resolvers)
+      - [Typescript/Javascript](https://www.npmjs.com/package/@azure/arm-dnsresolver)
+      - [Go](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/resourcemanager/dnsresolver/armdnsresolver)
+      - [Resource Manager template](https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.network/azure-dns-private-resolver)
+      - Terraform
+        - [Manages a private DNS resolver](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/private_dns_resolver)
+        - [Manages a private DNS resolver inbound endpoint](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/private_dns_resolver_inbound_endpoint)
+        - [Manages a private DNS resolver outbound endpoint](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/private_dns_resolver_outbound_endpoint)
+        - [Manages a private DNS resolver DNS forwarding ruleset](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/private_dns_resolver_dns_forwarding_ruleset)
+  - Resources
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Feature requests](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789?c429912-8326-ec11-b6e6-000d3a4f0789)
+    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/143/azure-virtual-network)
+    - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Pricing](https://azure.microsoft.com/pricing/details/dns/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Service updates](https://azure.microsoft.com/updates/?product=dns)
+    - [Private DNS zone migration guide](https://learn.microsoft.com/en-us/azure/dns/private-dns-migration-guide)

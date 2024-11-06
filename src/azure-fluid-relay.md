@@ -1,0 +1,36 @@
+# Azure Fluid Relay documentation
+> Azure Fluid Relay is a managed cloud service that supports Fluid Framework Clients
+  - [Azure Fluid Relay documentation](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/)
+  - Overview
+    - [Azure Fluid Relay overview](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/overview/overview)
+  - Quickstarts
+    - [Quickstart: Dice Roller](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/quickstarts/quickstart-dice-roll)
+  - Concepts
+    - [Architecture](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/concepts/architecture)
+    - [Container management](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/concepts/container-management)
+    - [Distributed data structures](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/concepts/data-structures)
+    - [Data storage in Azure Fluid Relay](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/concepts/data-storage)
+    - [Data encryption in Azure Fluid Relay](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/concepts/data-encryption)
+    - [Customer-managed keys for Azure Fluid Relay encryption](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/concepts/customer-managed-keys)
+    - [Authentication and authorization in your app](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/concepts/authentication-authorization)
+    - [Version compatibility](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/concepts/version-compatibility)
+  - How-to guides
+    - [How to: Provision an Azure Fluid Relay service](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/provision-fluid-azure-portal)
+    - [How to: Connect to an Azure Fluid Relay service](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/connect-fluid-azure-service)
+    - [How to: Use AzureClient for local testing](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/local-mode-with-azure-client)
+    - [How to: Write a TokenProvider with an Azure Function](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/azure-function-token-provider)
+    - [How to: Deploy Fluid applications using Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/deploy-fluid-static-web-apps)
+    - [How to: Use JWT tokens](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/fluid-json-web-token)
+    - [How to: Use test automation with Azure Fluid Relay](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/test-automation)
+    - [How to: Delete a Fluid container](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/container-deletion)
+    - [How to: Validate a User Created a Document](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/validate-document-creator)
+    - [How to: Recover Container data](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/container-recovery)
+    - [How to: Use audience features in the Fluid Framework](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/use-audience-in-fluid)
+    - [How to: Rotate Azure Fluid Relay access keys](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/how-tos/rotate-fluid-relay-access-keys)
+  - Reference
+    - [Service limits](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/reference/service-limits)
+    - [API documentation](https://fluidframework.com/docs/apis/)
+  - Resources
+    - [Fluid Framework home page](https://fluidframework.com/)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/resources/faq)
+    - [Support](https://learn.microsoft.com/en-us/azure/azure-fluid-relay/resources/support)

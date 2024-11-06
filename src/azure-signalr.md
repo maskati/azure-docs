@@ -1,0 +1,115 @@
+# Azure SignalR Service documentation
+> Azure SignalR Service is an Azure-managed service that helps developers easily build web applications with real-time features.
+  - [Azure SignalR Service documentation](https://learn.microsoft.com/en-us/azure/azure-signalr/)
+  - Overview
+    - [About Azure SignalR Service](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-overview)
+  - Quickstarts
+    - [ASP.NET Core - C#](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-dotnet-core)
+    - [ASP.NET - C#](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-dotnet)
+    - [Azure Functions - JavaScript](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-javascript)
+    - [Azure Functions - C#](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-csharp)
+    - [Azure Functions - Java](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-java)
+    - [Azure Functions - Python](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-python)
+    - [Azure SignalR Service deployment - Bicep](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-signalr-service-bicep)
+    - [Azure SignalR Service deployment - ARM template](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-signalr-service-arm-template)
+    - [REST API](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-rest-api)
+  - Tutorials
+    - [Build a group chat app with OpenAI](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-tutorial-group-chat-with-openai)
+    - [Build a serverless real-time app with authentication](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-tutorial-authenticate-azure-functions)
+    - [Build a Blazor Server chat app](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-tutorial-build-blazor-server-chat-app)
+  - Samples
+    - [Code samples](https://github.com/aspnet/AzureSignalR-samples)
+    - Azure CLI
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-reference-cli)
+      - [Create SignalR Service](https://learn.microsoft.com/en-us/azure/azure-signalr/scripts/signalr-cli-create-service)
+      - [Create SignalR Service and Web App](https://learn.microsoft.com/en-us/azure/azure-signalr/scripts/signalr-cli-create-with-app-service)
+      - [Create SignalR Service and Web App with GitHub OAuth](https://learn.microsoft.com/en-us/azure/azure-signalr/scripts/signalr-cli-create-with-app-service-github-oauth)
+  - Concepts
+    - [Azure SignalR Service internals](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-internals)
+    - [Service mode](https://learn.microsoft.com/en-us/azure/azure-signalr/concept-service-mode)
+    - [Connection string](https://learn.microsoft.com/en-us/azure/azure-signalr/concept-connection-string)
+    - [Client negotiation](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-client-negotiation)
+    - [Scale ASP.NET Core SignalR](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-scale-aspnet-core)
+    - Serverless
+      - [Real-time apps with Azure Functions](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-azure-functions)
+      - [Develop and configure SignalR Service apps](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-serverless-development-config)
+      - [SignalR Service bindings for Azure Functions reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service)
+      - [Configure upstream endpoints](https://learn.microsoft.com/en-us/azure/azure-signalr/concept-upstream)
+    - High availability
+      - [Gracefully shut down your app server](https://learn.microsoft.com/en-us/azure/azure-signalr/server-graceful-shutdown)
+      - [Resiliency and disaster recovery](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery)
+      - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-signalr/availability-zones)
+    - [Messages and connections](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-messages-and-connections)
+    - [Performance considerations](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-performance)
+    - [Authentication](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-authenticate-oauth)
+    - Authorization with Microsoft Entra ID
+      - [Overview of Microsoft Entra ID for Azure SignalR Service](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-authorize-azure-active-directory)
+    - [Event handling](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-event-grid-integration)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/signalr-security-baseline?toc=/azure/azure-signalr/TOC.json)
+      - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/azure-signalr/security-controls-policy)
+  - How-to guides
+    - Develop
+      - [Use the Azure SignalR SDK](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-use)
+      - [Use the Management SDK](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-use-management-sdk)
+      - [Local emulator for serverless development](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-emulator)
+    - Scale and geo-replicate
+      - [Single instance](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-scale-signalr)
+      - [Multiple instances](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-scale-multi-instances)
+      - [Autoscale](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-scale-autoscale)
+      - [Geo-replication](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-enable-geo-replication)
+    - Secure
+      - [Access key rotation](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-key-rotation)
+      - [Application firewall](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-configure-application-firewall)
+      - [Use Azure Service Tags](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-service-tags)
+      - [Use Azure Private Endpoints](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-private-endpoints)
+      - [Manage network access control](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-network-access-control)
+      - [Secure outbound traffic through Shared Private Endpoints](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-shared-private-endpoints)
+      - [Access Key Vault in private network through Shared Private Endpoints](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-shared-private-endpoints-key-vault)
+      - [Use managed identity](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-use-managed-identity)
+      - [Authorize from Azure application](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-authorize-application)
+      - [Authorize from managed identity](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-authorize-managed-identity)
+      - [Disable local authentication.](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-disable-local-auth)
+      - [Custom domain](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-custom-domain)
+    - Integrate
+      - [Azure Functions bindings](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-azure-functions)
+      - [Event Grid integration](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-event-grid-integration)
+      - Integrate with reverse proxies
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-reverse-proxy-overview)
+        - [Use SignalR Service with Application Gateway](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-work-with-app-gateway)
+        - [Use SignalR Service with API Management](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-work-with-apim)
+    - Monitor
+      - [Monitor SignalR Service](https://learn.microsoft.com/en-us/azure/azure-signalr/monitor-signalr)
+      - [Use resource logs to monitor SignalR Service](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-diagnostic-logs)
+      - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/azure-signalr/monitor-signalr-reference)
+      - [Audit compliance using Azure Policy](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-azure-policy)
+    - Troubleshooting
+      - [Troubleshooting guides](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-troubleshoot-guide)
+      - [Troubleshooting methods](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-troubleshoot-method)
+      - [Troubleshooting with live trace tool](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-troubleshoot-live-trace)
+    - [Move across regions](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-move-across-regions)
+  - References
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/signalr)
+    - REST API
+      - [Control plane](https://learn.microsoft.com/rest/api/signalr)
+      - [Data plane](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-reference-data-plane-rest-api)
+        - Versions
+          - [v20220601](https://learn.microsoft.com/en-us/azure/azure-signalr/swagger/signalr-data-plane-rest-v20220601)
+          - [v1](https://learn.microsoft.com/en-us/azure/azure-signalr/swagger/signalr-data-plane-rest-v1)
+          - [v1-preview](https://learn.microsoft.com/en-us/azure/azure-signalr/swagger/signalr-data-plane-rest-v1-preview)
+    - [ASP.NET Core SignalR](https://learn.microsoft.com/aspnet/core/signalr/introduction)
+    - [Azure SignalR Service Protocol](https://github.com/Azure/azure-signalr/blob/dev/specs/ServiceProtocol)
+    - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/azure-signalr/policy-reference)
+  - Resources
+    - [Solutions](https://learn.microsoft.com/azure/architecture/)
+    - [Customer stories](https://customers.microsoft.com/en-us/search?sq=signalr)
+    - [SignalR roadmap](https://github.com/dotnet/aspnetcore/wiki/)
+    - [Service updates](https://azure.microsoft.com/updates/)
+    - [Region availability](https://azure.microsoft.com/global-infrastructure/services/?products=signalr-service)
+    - [FAQs](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-resource-faq.yml)
+    - [SignalR Service subscription level limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
+    - [Pricing](https://azure.microsoft.com/pricing/details/signalr-service/)
+    - [Videos](https://www.youtube.com/results?search_query=Azure+SignalR+Core)
+    - [StackOverflow](https://stackoverflow.com/search?q=signalr+service)
+    - [X](https://x.com/SignalR)
+    - [ASP.NET forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=aspsignalr)

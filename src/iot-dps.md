@@ -1,0 +1,123 @@
+# Azure IoT Hub Device Provisioning Service Documentation
+> The IoT Hub Device Provisioning Service (DPS) is a helper service for IoT Hub that enables zero-touch, just-in-time provisioning to the right IoT hub without requiring human intervention, allowing customers to provision millions of devices in a secure and scalable manner. Learn how to provision devices to your IoT hubs with our quickstarts, tutorials, and samples.
+  - [Azure IoT Hub Device Provisioning Service documentation](https://learn.microsoft.com/en-us/azure/iot-dps/)
+  - Overview
+    - [What is IoT Hub Device Provisioning Service?](https://learn.microsoft.com/en-us/azure/iot-dps/about-iot-dps)
+  - Quickstarts
+    - Set up DPS
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/iot-dps/quick-setup-auto-provision)
+      - [Azure CLI](https://learn.microsoft.com/en-us/azure/iot-dps/quick-setup-auto-provision-cli)
+      - [Bicep](https://learn.microsoft.com/en-us/azure/iot-dps/quick-setup-auto-provision-bicep)
+      - [Terraform](https://learn.microsoft.com/en-us/azure/iot-dps/quick-setup-auto-provision-terraform)
+      - [ARM template](https://learn.microsoft.com/en-us/azure/iot-dps/quick-setup-auto-provision-rm)
+    - Provision a simulated device
+      - [Symmetric key sample](https://learn.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-symm-key)
+      - [X.509 certificate sample](https://learn.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-x509)
+      - [TPM device sample](https://learn.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-tpm)
+  - Tutorials
+    - Provision sets of devices with enrollment groups
+      - [Provision devices with X.509](https://learn.microsoft.com/en-us/azure/iot-dps/tutorial-custom-hsm-enrollment-group-x509)
+      - [Provision devices with symmetric keys](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-legacy-device-symm-key)
+    - Provision devices to multiple hubs
+      - [Use custom allocation policies](https://learn.microsoft.com/en-us/azure/iot-dps/tutorial-custom-allocation-policies)
+      - [Provision for geolatency](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-provision-multitenant)
+    - [Automate provisioning with GitHub Actions](https://learn.microsoft.com/en-us/azure/iot-dps/tutorial-automation-github-actions)
+  - Concepts
+    - [DPS terminology](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-service)
+    - [Symmetric key attestation](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-symmetric-key-attestation)
+    - [X.509 certificate attestation](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-x509-attestation)
+    - [TPM attestation](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-tpm-attestation)
+    - [Custom allocation policies](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-custom-allocation)
+    - Control access to DPS
+      - [Overview](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-control-access-dps)
+      - [Control access to DPS with SAS](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-control-access)
+      - [Control access to DPS with Microsoft Entra ID preview](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-control-access-dps-azure-ad)
+    - [Roles and operations](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-roles-operations)
+    - [Virtual networks support](https://learn.microsoft.com/en-us/azure/iot-dps/virtual-network-support)
+    - [Reprovisioning](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-device-reprovision)
+    - [Best practices for large-scale IoT device deployments](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-deploy-at-scale)
+    - [High availability and disaster recovery](https://learn.microsoft.com/en-us/azure/iot-dps/iot-dps-ha-dr)
+    - [Understanding DPS IP addresses](https://learn.microsoft.com/en-us/azure/iot-dps/iot-dps-understand-ip-address)
+    - Protocols
+      - [MQTT support](https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-connect-to-iot-dps?toc=/azure/iot-dps/toc.json&bc=/azure/iot-dps/breadcrumb/toc.json)
+      - [TLS support](https://learn.microsoft.com/en-us/azure/iot-dps/tls-support)
+    - [Security practices for device manufacturers](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-device-oem-security-practices)
+  - How-to guides
+    - Develop
+      - [How to send additional data from devices](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-send-additional-data)
+      - [Create an X.509 enrollment group with DPS service SDK](https://learn.microsoft.com/en-us/azure/iot-dps/quick-enroll-device-x509)
+      - [Create a TPM individual enrollment with DPS service SDK](https://learn.microsoft.com/en-us/azure/iot-dps/quick-enroll-device-tpm)
+      - Provision devices using HTTPS protocol
+        - [Use HTTPS protocol with symmetric keys](https://learn.microsoft.com/en-us/azure/iot-dps/iot-dps-https-sym-key-support)
+        - [Use HTTPS protocol with X.509 certificates](https://learn.microsoft.com/en-us/azure/iot-dps/iot-dps-https-x509-support)
+    - Manage
+      - [Manage enrollments](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-manage-enrollments)
+      - [Manage linked IoT hubs](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-manage-linked-iot-hubs)
+      - [Manage allocation policies](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-use-allocation-policies)
+      - [Configure verified CA certificates](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-verify-certificates)
+      - [Roll device certificates](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-roll-certificates)
+      - [Reprovision devices](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-reprovision)
+      - [Manage disenrollment](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-revoke-device-access-portal)
+      - [Manage deprovisioning](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-unprovision-devices)
+      - [Configure IP filtering](https://learn.microsoft.com/en-us/azure/iot-dps/iot-dps-ip-filtering)
+      - [Managing public network access](https://learn.microsoft.com/en-us/azure/iot-dps/public-network-access)
+    - [Monitor Device Provisioning Service](https://learn.microsoft.com/en-us/azure/iot-dps/monitor-iot-dps)
+    - Provision IoT Edge devices
+      - [Linux](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-linux-tpm)
+      - [Windows](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-windows-tpm)
+    - Troubleshooting and FAQ
+      - [Troubleshooting DPS](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-troubleshoot-dps)
+      - [DPS FAQ](https://learn.microsoft.com/en-us/azure/iot-dps/dps-faq.yml)
+  - Reference
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/iot-dps/monitor-iot-dps-reference)
+    - [Libraries and SDKs](https://learn.microsoft.com/en-us/azure/iot-dps/libraries-sdks)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/azure-cli-reference-for-IoT)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.deviceprovisioningservices)
+    - .NET SDKs
+      - [Device](https://learn.microsoft.com/dotnet/api/microsoft.azure.devices.provisioning.client)
+      - [Service](https://learn.microsoft.com/dotnet/api/microsoft.azure.devices.provisioning.service)
+      - [Management](https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.deviceprovisioningservices-readme)
+    - Python SDKs
+      - [Device](https://learn.microsoft.com/python/api/azure-iot-device/azure.iot.device.aio.provisioningdeviceclient)
+      - [Management](https://learn.microsoft.com/python/api/azure-mgmt-iothubprovisioningservices)
+    - Node.js SDKs
+      - [Device](https://learn.microsoft.com/javascript/api/azure-iot-provisioning-device)
+      - [Service](https://learn.microsoft.com/javascript/api/azure-iot-provisioning-service)
+      - [Management](https://learn.microsoft.com/javascript/api/overview/azure/arm-deviceprovisioningservices-readme)
+    - Java SDKs
+      - [Device](https://learn.microsoft.com/java/api/com.microsoft.azure.sdk.iot.provisioning.device)
+      - [Service](https://learn.microsoft.com/java/api/com.microsoft.azure.sdk.iot.provisioning.service)
+    - [C SDKs and libraries](https://github.com/Azure/azure-iot-sdk-c/blob/main/readme)
+    - [REST APIs](https://learn.microsoft.com/rest/api/iot-dps/)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.devices/deviceprovisioning-allversions)
+  - Resources
+    - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help?toc=/azure/iot-dps/toc.json&bc=/azure/iot-dps/breadcrumb/toc.json)
+    - [IoT Glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary?toc=/azure/iot-dps/toc.json&bc=/azure/iot-dps/breadcrumb/toc.json)
+    - Azure IoT services
+      - [IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/)
+      - [IoT Hub Device Provisioning Service](https://learn.microsoft.com/en-us/azure/iot-dps/)
+      - [IoT Central](https://learn.microsoft.com/en-us/azure/iot-central/)
+      - [IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/)
+      - [Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/)
+      - [Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/)
+    - Azure IoT samples
+      - [C# .NET](https://github.com/Azure/azure-iot-sdk-csharp)
+      - [Node.js](https://github.com/Azure/azure-iot-sdk-node/tree/main/provisioning/device/samples)
+      - [Java](https://github.com/Azure/azure-iot-sdk-java)
+      - [Python](https://github.com/Azure/azure-iot-sdk-python/tree/v2/samples)
+      - [iOS Platform](https://azure.microsoft.com/resources/samples/azure-iot-samples-ios/)
+    - Terraform modules
+      - [DPS instance resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/iothub_dps)
+      - [DPS instance data source](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/iothub_dps)
+      - [DPS certificate resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/iothub_dps_certificate)
+      - [DPS shared access policy resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/iothub_dps_shared_access_policy)
+      - [DPS shared access policy data source](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/iothub_dps_shared_access_policy)
+    - [Azure IoT Developer Center](https://azure.microsoft.com/develop/iot/)
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=iot)
+    - [Azure IoT Explorer tool](https://github.com/Azure/azure-iot-explorer)
+    - [iothub-diagnostics tool](https://github.com/Azure/iothub-diagnostics)
+    - [Pricing](https://azure.microsoft.com/pricing/details/iot-hub/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Service updates](https://azure.microsoft.com/updates/?product=iot-hub)
+    - [Technical case studies](https://microsoft.github.io/generative-ai-for-beginners/)
+    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=iot-hub)

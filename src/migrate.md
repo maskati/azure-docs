@@ -1,0 +1,190 @@
+# Azure Migrate documentation
+> Find articles to help you discover, assess, and migrate your on-premises environment using tools in the Azure Migrate hub.
+  - [Azure Migrate Documentation](https://learn.microsoft.com/en-us/azure/migrate/)
+  - Overview
+    - [About Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
+    - [What's new](https://learn.microsoft.com/en-us/azure/migrate/whats-new)
+    - Common questions
+      - [General](https://learn.microsoft.com/en-us/azure/migrate/resources-faq)
+      - [RVTools XLSX import](https://learn.microsoft.com/en-us/azure/migrate/common-questions-import)
+      - [Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/common-questions-appliance)
+      - [Discovery and dependency analysis](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-dependency-analysis)
+      - [Assessment](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-assessment)
+      - [Business case](https://learn.microsoft.com/en-us/azure/migrate/common-questions-business-case)
+      - [Migration and modernization tool](https://learn.microsoft.com/en-us/azure/migrate/common-questions-server-migration)
+  - Quickstarts
+    - [Create a project - ARM template](https://learn.microsoft.com/en-us/azure/migrate/quickstart-create-migrate-project)
+  - Tutorials
+    - Discover
+      - VMware environment
+        - [Discover servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
+        - [Import servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-import-vmware-using-rvtools-xlsx)
+      - [Discover servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
+      - [Discover physical servers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
+      - [Discover AWS instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-aws)
+      - [Discover GCP instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-gcp)
+      - [Discover Spring Boot apps](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-spring-boot)
+      - [Discover SAP systems preview](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-sap-systems)
+    - Decide
+      - [Build a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
+    - Assess
+      - Assess servers in VMware environment
+        - [Assess servers for migration to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vm)
+        - [Assess SQL instances for migration to Azure SQL](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)
+        - [Assess servers for migration to AVS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
+      - Assess servers in Hyper-V environment
+        - [Assess servers for migration to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-hyper-v)
+        - [Assess SQL instances for migration to Azure SQL](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)
+      - Assess physical servers
+        - [Assess servers for migration to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-physical)
+        - [Assess SQL instances for migration to Azure SQL](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)
+      - [Assess AWS instances for migration to Azure](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-aws)
+      - [Assess GCP instances for migration to Azure](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-gcp)
+      - [Assess web apps for migration to Azure Kubernetes Service AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-aspnet-aks)
+      - [Assess web apps for migration to Azure App Service](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-webapps)
+      - [Assess Spring Boot web apps for migration](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-spring-boot)
+      - [Build business case or assess imported servers for migration to Azure](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import)
+      - [Assess SAP systems for migration preview](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sap-systems)
+    - Migrate
+      - Migrate servers in VMware environment
+        - [Migration options for servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
+        - [Migrate with agentless migration portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
+        - [Migrate with agent-based migration](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
+        - [Migrate with agentless migration PowerShell](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-powershell)
+      - [Migrate servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v)
+      - [Migrate physical servers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines)
+      - [Migrate AWS instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-aws-virtual-machines)
+      - [Migrate GCP instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-gcp-virtual-machines)
+    - Modernize
+      - [Containerize ASP.NET apps and migrate to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-kubernetes)
+      - [Containerize Java web apps and migrate to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-kubernetes)
+      - [Containerize ASP.NET apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service)
+      - [Containerize Java web apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-app-service)
+      - [Modernize ASP.NET web apps to App Service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-appservice-code)
+      - [Modernize ASP.NET web apps to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-aks)
+      - [CI/CD for Day 2 operations](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-azure-pipeline)
+  - Concepts
+    - General
+      - [Azure Migrate support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-migrate-security-baseline?context=/azure/migrate/context/migrate-context)
+    - Discover
+      - [VMware discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware)
+      - [Hyper-V discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v)
+      - [Physical server discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical)
+      - [Azure Migrate appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
+      - [Discovery of metadata by Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/discovered-metadata)
+      - [Dependency analysis overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-dependency-visualization)
+    - Decide
+      - [Business case overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-business-case-calculation)
+    - Assess
+      - [Assessments overview migrate to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/concepts-assessment-calculation)
+      - [Assessments overview migrate to Azure SQL](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-sql-assessment-calculation)
+      - [Assessments overview migrate to App Service](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-webapps-assessment-calculation)
+      - [Assessments overview migrate to Azure Spring Apps](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-spring-apps-assessment-calculation)
+      - [Assessments overview migrate to AVS](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-vmware-solution-assessment-calculation)
+      - [Assessment best practices](https://learn.microsoft.com/en-us/azure/migrate/best-practices-assessment)
+      - [Assessment overview discover and assess SAP Systems preview](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-sap-systems-assessment)
+    - Migrate
+      - [Build a migration plan](https://learn.microsoft.com/en-us/azure/migrate/concepts-migration-planning)
+      - [VMware migration support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration)
+      - [Hyper-V migration support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v-migration)
+      - [Physical server migration support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical-migration)
+      - [Replication appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-replication-appliance)
+      - [VMware agentless migration architecture](https://learn.microsoft.com/en-us/azure/migrate/concepts-vmware-agentless-migration)
+        - [Prepare for VMware agentless migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-agentless-migration)
+      - [Hyper-V migration architecture](https://learn.microsoft.com/en-us/azure/migrate/hyper-v-migration-architecture)
+      - [VMware/Physical agent-based migration architecture](https://learn.microsoft.com/en-us/azure/migrate/agent-based-migration-architecture)
+      - [Web apps migration support](https://learn.microsoft.com/en-us/azure/migrate/concepts-migration-webapps)
+  - How-to guides
+    - [Create and manage Azure Migrate projects](https://learn.microsoft.com/en-us/azure/migrate/create-manage-projects)
+    - Use Azure Migrate with private endpoints
+      - [Support requirements and considerations](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
+      - [Discover and assess using Azure Private Link](https://learn.microsoft.com/en-us/azure/migrate/discover-and-assess-using-private-endpoints)
+      - [Migrate servers to Azure using Private Link](https://learn.microsoft.com/en-us/azure/migrate/migrate-servers-to-azure-using-private-link)
+      - [Troubleshoot network connectivity](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-network-connectivity)
+    - Discover
+      - Deploy the Azure Migrate appliance
+        - [Deploy appliance with template VMware](https://learn.microsoft.com/en-us/azure/migrate/how-to-set-up-appliance-vmware)
+        - [Deploy appliance with template Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/how-to-set-up-appliance-hyper-v)
+        - [Deploy appliance with script VMware/Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/deploy-appliance-script)
+        - [Deploy appliance for physical servers](https://learn.microsoft.com/en-us/azure/migrate/how-to-set-up-appliance-physical)
+        - [Deploy appliance in Azure Government](https://learn.microsoft.com/en-us/azure/migrate/deploy-appliance-script-government)
+      - [Limit discovery scope for servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
+      - [Create least privilege credentials for SQL Server discovery](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
+      - [Enable Arc on discovered items](https://learn.microsoft.com/en-us/azure/migrate/how-to-arc-enable-inventory)
+      - [How to add server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
+      - [Discover applications/roles/features](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
+      - [Discover SQL instances and web apps in an existing project](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-sql-existing-project)
+      - [Migrate to Azure Monitor agent](https://learn.microsoft.com/en-us/azure/migrate/azure-monitor-agent-migration)
+      - [Analyze machine dependencies agent-based](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies)
+      - [Analyze machine dependencies agentless](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies-agentless)
+    - Decide
+      - [Build a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
+      - [Review a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-view-a-business-case)
+    - Assess
+      - [Azure Migrate application and code assessment](https://learn.microsoft.com/en-us/azure/migrate/appcat/)
+      - [Group machines for assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-a-group)
+      - [Create an Azure VM assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-assessment)
+      - [Create an Azure SQL assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-azure-sql-assessment)
+      - [Create an Azure App Service assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-azure-app-service-assessment)
+      - [Create an Azure Spring Apps assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-azure-spring-apps-assessment)
+      - [Create an AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment)
+      - [Assess a SQL Server database](https://learn.microsoft.com/sql/dma/dma-assess-sql-data-estate-to-sqldb)
+      - [Customize an assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-modify-assessment)
+      - Scale assessment
+        - [Assess large number of servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/scale-vmware-assessment)
+        - [Assess large number of servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/scale-hyper-v-assessment)
+        - [Assess large numbers of physical servers](https://learn.microsoft.com/en-us/azure/migrate/scale-physical-assessment)
+    - Migrate
+      - [Add migration tools](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate)
+      - [Replicate using ExpressRoute](https://learn.microsoft.com/en-us/azure/migrate/replicate-using-expressroute)
+      - [Prepare machines for migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-migration)
+      - [Prepare Windows 2003 servers for migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-windows-server-2003-migration)
+      - Migrate VMware VMs
+        - [Migrate VMware VMs to encrypted Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate-vmware-vms-with-cmk-disks)
+      - [Test migration](https://learn.microsoft.com/en-us/azure/migrate/how-to-test-replicating-virtual-machines)
+      - [Upgrade Windows OS](https://learn.microsoft.com/en-us/azure/migrate/how-to-upgrade-windows)
+      - Scale migration
+        - [How to migrate VMware VMs at scale using the agentless replication method](https://learn.microsoft.com/en-us/azure/migrate/how-to-scale-out-for-migration)
+        - [Automate migration of large number of VMs](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate-at-scale)
+        - [How to automate VMware migration](https://learn.microsoft.com/en-us/azure/migrate/how-to-automate-migration)
+    - Manage
+      - [Delete an Azure Migrate project](https://learn.microsoft.com/en-us/azure/migrate/how-to-delete-project)
+      - [Onboard on-premises servers in VMware virtual environment to Azure Arc](https://learn.microsoft.com/en-us/azure/migrate/onboard-to-azure-arc-with-azure-migrate)
+      - [Manage migration projects with Azure Lighthouse](https://learn.microsoft.com/azure/lighthouse/how-to/migration-at-scale?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
+  - Troubleshoot
+    - General
+      - [Troubleshoot Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-general)
+      - [Troubleshoot Azure Migrate projects](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-project)
+    - Discover
+      - [Troubleshoot Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance)
+      - [Troubleshoot with appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
+      - [Troubleshoot Spring Boot discovery and assessment](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-spring-boot-discovery)
+      - [Troubleshoot discovery](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-discovery)
+      - [Troubleshoot dependency visualization](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-dependencies)
+    - Assess
+      - Troubleshoot assessment
+        - [Common Issues](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment)
+        - [Supported Scenarios](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment-supported-scenarios)
+        - [FAQ](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment-faq)
+    - Migrate
+      - [Troubleshoot replication issues in agentless VMware migration](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-changed-block-tracking-replication)
+      - [Troubleshoot stuck replication and slow migration issues in agentless VMware](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-replication-vmware)
+      - [Troubleshoot web app migration issues](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-webapps-migration)
+      - [Troubleshoot Windows OS upgrade issues](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-upgrade)
+  - Reference
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/offazure)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.migrate/)
+    - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/migrate/policy-reference)
+  - Resources
+    - [Migration in the Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/)
+    - [Contoso migration examples](https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-overview)
+    - [REST API](https://learn.microsoft.com/rest/api/migrate/)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.migrate/allversions)
+    - [Pricing](https://azure.microsoft.com/pricing/details/azure-migrate/)
+    - [UserVoice](https://aka.ms/AzureMigrateUservoice)
+    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-migrate.html)
+    - [Blog](https://azure.microsoft.com/blog/tag/azure-migrate/)
+    - [Azure Migrate](https://azure.microsoft.com/migrate)
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)

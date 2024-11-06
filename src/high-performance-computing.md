@@ -1,0 +1,31 @@
+# Azure HPC documentation
+> Azure high-performance computing (HPC) is a collection of Microsoft-managed workload orchestration services that integrate with compute, network, and storage resources. HPC offers purpose-built infrastructure and solutions for a wide variety of applications and parallelized workloads.
+  - [High-Performance Computing on-premises to cloud lift and shift](https://learn.microsoft.com/en-us/azure/high-performance-computing/)
+  - Get started
+    - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-overview)
+  - Migration guide
+    - [Proof-of-concept migration guide](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-proof-of-concept)
+    - Production-level environment migration guide
+      - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-production-level-overview)
+      - Deployment step 1 - Basic infrastructure
+        - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-overview)
+        - [Resource group](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-resource-group)
+        - [Network access](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-networking)
+        - [Storage](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-storage)
+      - Deployment step 2 - Base services
+        - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-overview)
+        - [Job scheduler](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-job-scheduler)
+        - [Resource orchestrator](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-resource-orchestrator)
+        - [Identity management](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-identity)
+        - [Accounting](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-accounting)
+        - [Monitoring](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-monitor)
+      - Deployment step 3 - Storage
+        - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-3-overview)
+        - [Storage](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-3-storage)
+        - [Data migration](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-3-data-migration)
+      - Deployment step 4 - Compute nodes
+        - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-4-overview)
+        - [VM images](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-4-vm-images)
+      - Deployment step 5 - End user entry point
+        - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-5-overview)
+        - [End-user entry point](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-5-end-user-entry-point)

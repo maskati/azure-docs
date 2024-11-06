@@ -1,0 +1,126 @@
+# Azure Static Web Apps documentation
+> Azure Static Web Apps allows you to build modern web applications that automatically publish to the web as your code changes.
+  - [Azure Static Web Apps Documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/)
+  - Get started
+    - [About Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/overview)
+    - [Hosting plans](https://learn.microsoft.com/en-us/azure/static-web-apps/plans)
+    - Quickstarts
+      - Build your first static web app
+        - [Web frameworks](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-web-framework)
+        - Developer tools
+          - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started)
+          - [Azure portal](https://learn.microsoft.com/en-us/azure/static-web-apps/get-started-portal)
+          - [Azure CLI](https://learn.microsoft.com/en-us/azure/static-web-apps/get-started-cli)
+  - Scenarios
+    - Build a site with a web framework
+      - [1 - Pick a web framework](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-web-framework)
+      - [2 - Add authentication](https://learn.microsoft.com/en-us/azure/static-web-apps/add-authentication)
+  - Frameworks & libraries
+    - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/front-end-frameworks)
+    - Tutorials
+      - [Angular](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-angular)
+      - [Blazor](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-blazor)
+      - [Gatsby](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-gatsby)
+      - [Hugo](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo)
+      - [Jekyll](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-jekyll)
+      - [React](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-react)
+      - [Next.js](https://learn.microsoft.com/en-us/azure/static-web-apps/nextjs)
+        - [Hybrid Next.js application preview](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-nextjs-hybrid)
+        - [Statically generated Next.js](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-nextjs-static-export)
+      - [Nuxt.js](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-nuxtjs)
+      - [Vue](https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-vue)
+      - [VuePress](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-vuepress)
+  - Configuration
+    - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/configuration-overview)
+    - [Application configuration](https://learn.microsoft.com/en-us/azure/static-web-apps/configuration)
+    - [Build configuration](https://learn.microsoft.com/en-us/azure/static-web-apps/build-configuration)
+    - [App settings](https://learn.microsoft.com/en-us/azure/static-web-apps/application-settings.yml)
+    - [Inject custom code at runtime](https://learn.microsoft.com/en-us/azure/static-web-apps/snippets)
+  - Custom domains
+    - [About custom domains](https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain)
+    - Use Azure DNS
+      - [Delegate your domain to Azure DNS](https://learn.microsoft.com/azure/dns/dns-delegate-domain-azure-dns)
+      - [Set up a custom domain](https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain-azure-dns)
+      - [Set up the apex domain](https://learn.microsoft.com/en-us/azure/static-web-apps/apex-domain-azure-dns)
+    - Use an external provider
+      - [Set up a custom domain](https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain-external)
+      - [Set up the apex domain](https://learn.microsoft.com/en-us/azure/static-web-apps/apex-domain-external)
+    - [Manage the default domain](https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain-default)
+  - API backends
+    - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-overview)
+    - Azure Functions
+      - [Integration options](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-functions)
+      - [Distributed functions](https://learn.microsoft.com/en-us/azure/static-web-apps/distributed-functions)
+      - Tutorials
+        - [Add an API](https://learn.microsoft.com/en-us/azure/static-web-apps/add-api)
+        - [Bring your own functions](https://learn.microsoft.com/en-us/azure/static-web-apps/functions-bring-your-own)
+    - [Azure API Management](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-api-management)
+    - [Azure App Service](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-app-service)
+    - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-container-apps)
+  - Database connections
+    - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/database-overview)
+    - [Configuration](https://learn.microsoft.com/en-us/azure/static-web-apps/database-configuration)
+    - Tutorials
+      - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/static-web-apps/database-azure-cosmos-db)
+      - [Azure SQL](https://learn.microsoft.com/en-us/azure/static-web-apps/database-azure-sql)
+      - [Azure Database for MySQL](https://learn.microsoft.com/en-us/azure/static-web-apps/database-mysql)
+      - [Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/azure/static-web-apps/database-postgresql)
+      - [Mongoose.js and Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/static-web-apps/add-mongoose)
+  - Security
+    - [Authentication and authorization](https://learn.microsoft.com/en-us/azure/static-web-apps/authentication-authorization.yml)
+    - [Access user information](https://learn.microsoft.com/en-us/azure/static-web-apps/user-information)
+    - [Custom authentication](https://learn.microsoft.com/en-us/azure/static-web-apps/authentication-custom)
+    - [Set up a private endpoint](https://learn.microsoft.com/en-us/azure/static-web-apps/private-endpoint)
+    - [Secure authentication secrets](https://learn.microsoft.com/en-us/azure/static-web-apps/key-vault-secrets)
+    - [Set up password protection](https://learn.microsoft.com/en-us/azure/static-web-apps/password-protection)
+    - Tutorials
+      - [Set user roles programmatically](https://learn.microsoft.com/en-us/azure/static-web-apps/assign-roles-microsoft-graph)
+  - Local development
+    - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/local-development)
+  - Relocation
+    - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-static-web-apps?toc=/azure/static-web-apps/toc.json)
+  - Traffic management
+    - [Split traffic](https://learn.microsoft.com/en-us/azure/static-web-apps/traffic-splitting)
+    - [Enterprise-grade edge](https://learn.microsoft.com/en-us/azure/static-web-apps/enterprise-edge)
+    - Tutorials
+      - [Add a CDN](https://learn.microsoft.com/en-us/azure/static-web-apps/front-door-manual)
+  - Hosting & development
+    - [Use external providers](https://learn.microsoft.com/en-us/azure/static-web-apps/external-providers)
+    - [Reset deployment tokens](https://learn.microsoft.com/en-us/azure/static-web-apps/deployment-token-management)
+    - [Publish with an ARM template](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-azure-resource-manager)
+    - [Publish with a Bicep template](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-bicep)
+    - [Deploy with external source control providers](https://learn.microsoft.com/en-us/azure/static-web-apps/external-providers)
+    - Tutorials
+      - [Bitbucket](https://learn.microsoft.com/en-us/azure/static-web-apps/bitbucket)
+      - [GitLab](https://learn.microsoft.com/en-us/azure/static-web-apps/gitlab)
+  - Preview environments
+    - [About preview environments](https://learn.microsoft.com/en-us/azure/static-web-apps/preview-environments)
+    - [Pull request environments](https://learn.microsoft.com/en-us/azure/static-web-apps/review-publish-pull-requests)
+    - [Branch environments](https://learn.microsoft.com/en-us/azure/static-web-apps/branch-environments)
+    - [Named environments](https://learn.microsoft.com/en-us/azure/static-web-apps/named-environments)
+  - Monitoring
+    - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/monitor)
+  - Resources
+    - [Supported languages and runtimes](https://learn.microsoft.com/en-us/azure/static-web-apps/languages-runtimes)
+    - Guided tutorials
+      - [Publish an Angular, React, Svelte, or Vue JavaScript app](https://learn.microsoft.com/training/modules/publish-app-service-static-web-app-api)
+      - [Publish an API](https://learn.microsoft.com/training/modules/publish-static-web-app-api-preview-url)
+      - [Create and publish a static web app with Gatsby](https://learn.microsoft.com/training/modules/create-deploy-static-webapp-gatsby-app-service)
+      - [Create and publish a static web app with Blazor](https://learn.microsoft.com/training/modules/publish-app-service-static-web-app-api-dotnet)
+    - [Troubleshoot errors](https://learn.microsoft.com/en-us/azure/static-web-apps/troubleshooting)
+    - [Pricing](https://azure.microsoft.com/pricing/details/app-service/static/)
+    - [Quotas](https://learn.microsoft.com/en-us/azure/static-web-apps/quotas)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/staticwebapp)
+    - [REST API](https://learn.microsoft.com/rest/api/appservice/static-sites)
+    - SWA CLI
+      - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-overview)
+      - [Install](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-install)
+      - [Start the emulator](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-emulator)
+      - [Start the API server](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-api-server)
+      - [Deploy to Azure](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-deploy)
+      - [Configure SWA CLI](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-configuration)
+      - [API Reference](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli.yml)
+  - Samples & FAQs
+    - [Samples](https://learn.microsoft.com/samples/browse/?terms=static web apps)
+    - Reference
+    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/static-web-apps/faq.yml)

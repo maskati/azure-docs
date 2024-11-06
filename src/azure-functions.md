@@ -1,0 +1,492 @@
+# Azure Functions documentation
+> Azure Functions is a cloud service available on-demand that provides all the continually updated infrastructure and resources needed to run your applications. You focus on the code that matters most to you, in the most productive language for you, and Functions handles the rest. Functions provides serverless compute for Azure. You can use Functions to build web APIs, respond to database changes, process IoT streams, manage message queues, and more.
+  - [Functions Documentation](https://learn.microsoft.com/en-us/azure/azure-functions/)
+  - Overview
+    - [Functions overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
+    - [Scenarios](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenarios)
+    - [Getting started](https://learn.microsoft.com/en-us/azure/azure-functions/functions-get-started)
+    - [Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview)
+    - [Serverless comparison](https://learn.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs)
+    - [Hosting plan options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale)
+  - Quickstarts
+    - Create your first function
+      - C#
+        - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-csharp)
+        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-csharp)
+      - Java
+        - [Eclipse](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-eclipse)
+        - [Gradle](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-gradle)
+        - [IntelliJ IDEA](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij)
+        - [Maven](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-java)
+        - [Quarkus](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-quarkus)
+        - [Spring Cloud](https://learn.microsoft.com/azure/developer/java/spring-framework/getting-started-with-spring-cloud-function-in-azure?toc=/azure/azure-functions/toc.json)
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-java)
+        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-java)
+      - JavaScript
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-node)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-node)
+        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-javascript)
+      - PowerShell
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-powershell)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-powershell)
+        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-powershell)
+      - Python
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python)
+        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-python)
+      - TypeScript
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-typescript)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-typescript)
+        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-typescript)
+      - [Other Go/Rust](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-other)
+      - Resource Manager
+        - [Bicep](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-bicep)
+        - [ARM template](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-resource-manager)
+      - Azure Arc preview
+        - [Code-only publishing](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-arc-cli)
+        - [Custom container](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-arc-custom-container)
+      - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container-apps)
+    - Connect to storage
+      - C#
+        - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs)
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-csharp)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-csharp)
+      - Java
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-java)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-java)
+      - JavaScript
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-javascript)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-javascript)
+      - PowerShell
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-powershell)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-powershell)
+      - Python
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-python)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-python)
+      - TypeScript
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-typescript)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-typescript)
+    - Connect to a database
+      - C#
+        - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-csharp)
+        - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-csharp)
+      - JavaScript
+        - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-javascript)
+        - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-javascript)
+      - Python
+        - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-python)
+        - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-python)
+    - Connect to OpenAI
+      - [C#](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-csharp)
+      - [Java](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-java)
+      - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-javascript)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-powershell)
+      - [Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-python)
+      - [TypeScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-typescript)
+  - Tutorials
+    - [Functions with Logic Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-twitter-email)
+    - [Develop Python functions with VS Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
+    - [Create serverless APIs using Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio)
+    - Networking
+      - [Connect to a Virtual Network](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet)
+      - [Establish private site access](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-private-site-access)
+      - [Use an outbound NAT gateway](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-nat-gateway)
+    - Identity-based connections
+      - [Use identity for host connections](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial)
+      - [Use identity for triggers and bindings](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial-2)
+      - [Access Azure SQL with managed identity](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity)
+    - [Low-latency Blob trigger using Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-grid-blob-trigger)
+    - [Image resize with Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=/azure/azure-functions/toc.json)
+    - [Create a serverless web app](https://learn.microsoft.com/training/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/)
+    - Data + AI
+      - [Azure OpenAI for text completion](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion)
+      - [Machine learning with TensorFlow](https://learn.microsoft.com/en-us/azure/azure-functions/functions-machine-learning-tensorflow)
+      - [Image classification with PyTorch](https://learn.microsoft.com/en-us/azure/azure-functions/machine-learning-pytorch)
+    - [Functions on IoT Edge device](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function?toc=/azure/azure-functions/toc.json)
+    - [Java with Azure Cosmos DB and Event Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-hub-cosmos-db)
+  - Samples
+    - [Azure Serverless Community Library](https://www.serverlesslibrary.net/)
+    - Azure Samples
+      - [C#](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=csharp)
+      - [Java](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=java)
+      - [JavaScript](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=javascript)
+      - [PowerShell](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=azurepowershell)
+      - [Python](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=python)
+      - [TypeScript](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=typescript)
+    - Azure CLI
+      - [CLI sample index](https://learn.microsoft.com/en-us/azure/azure-functions/functions-cli-samples)
+      - Create function app
+        - [Serverless function app](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-serverless)
+        - [Serverless Python app](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-serverless-python)
+        - [Scalable Premium plan app](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-premium-plan)
+        - [Dedicated App Service plan app](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-app-service-plan)
+      - Integrate services
+        - [Connect Azure Storage](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-connect-to-storage-account)
+        - [Connect Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-connect-to-cosmos-db)
+        - [Python mount Files share](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-mount-files-storage-linux)
+      - Continuous deployment
+        - [GitHub deployment](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-github-continuous)
+    - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/azure-functions/create-resources-azure-powershell)
+  - Concepts
+    - Best practices
+      - [General best practices](https://learn.microsoft.com/en-us/azure/azure-functions/functions-best-practices)
+      - [Performance and reliability](https://learn.microsoft.com/en-us/azure/azure-functions/performance-reliability)
+      - [Manage connections](https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections)
+      - [Storage considerations](https://learn.microsoft.com/en-us/azure/azure-functions/storage-considerations)
+      - [Error handling and function retries](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages)
+      - [Security](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
+    - [Compare runtime versions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions)
+    - Hosting and scale
+      - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
+      - [Flex Consumption plan preview](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan)
+      - [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/functions-premium-plan)
+      - [Dedicated plan](https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan)
+      - Container hosting
+        - [Containerized functions](https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts)
+        - [Azure Container Apps hosting](https://learn.microsoft.com/en-us/azure/azure-functions/functions-container-apps-hosting)
+    - [Deployment options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies)
+    - Events and messaging
+      - [Connect to services](https://learn.microsoft.com/en-us/azure/azure-functions/event-messaging-bindings)
+      - [Event-driven scaling](https://learn.microsoft.com/en-us/azure/azure-functions/event-driven-scaling)
+      - [Target-based scaling](https://learn.microsoft.com/en-us/azure/azure-functions/functions-target-based-scaling)
+      - [Reliable event processing](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reliable-event-processing)
+      - [Concurrency](https://learn.microsoft.com/en-us/azure/azure-functions/functions-concurrency)
+      - [Designing for identical input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-idempotent)
+    - Triggers and bindings
+      - [About triggers and bindings](https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings)
+      - [Register binding extensions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-register)
+      - [Binding expression patterns](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-expressions-patterns)
+      - [Handle binding errors](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-errors)
+    - Frameworks
+      - [Express.js](https://learn.microsoft.com/en-us/azure/azure-functions/shift-expressjs)
+    - Security
+      - [Security overview](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/functions-security-baseline?toc=/azure/azure-functions/TOC.json)
+    - Reliability
+      - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-functions?toc=/azure/azure-functions/TOC.json)
+      - [Migrate to a zone-redundant plan](https://learn.microsoft.com/en-us/azure/reliability/migrate-functions?toc=%2fazure%2fazure-functions%2ftoc.json)
+    - [Diagnostics](https://learn.microsoft.com/en-us/azure/azure-functions/functions-diagnostics)
+    - [Consumption plan costs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-consumption-costs)
+    - [Serverless REST APIs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-proxies)
+    - [Networking options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-options)
+    - [IP addresses](https://learn.microsoft.com/en-us/azure/azure-functions/ip-addresses)
+    - [Custom handlers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-custom-handlers)
+  - Languages
+    - [Supported languages](https://learn.microsoft.com/en-us/azure/azure-functions/supported-languages)
+    - C#
+      - [Isolated worker model](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide)
+      - [In-process model](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library)
+      - [Script .csx](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-csharp)
+      - [Execution mode comparison](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-in-process-differences)
+    - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=javascript)
+    - [TypeScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=typescript)
+    - [Java](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-java)
+    - [PowerShell](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
+    - Python
+      - [Developer reference guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python)
+      - [Programming models](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python)
+      - [Binding definitions for Python v2](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python)
+      - [Python worker extensions](https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions)
+      - [Scale and performance recommendations](https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference)
+      - Troubleshooting
+        - [General troubleshooting](https://learn.microsoft.com/en-us/azure/azure-functions/recover-python-functions)
+        - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
+      - [Python library API reference for Functions](https://learn.microsoft.com/python/api/azure-functions/azure.functions)
+      - [Samples](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=python)
+  - How-to guides
+    - Develop
+      - [Developer guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference)
+      - Local development
+        - [Develop and debug locally](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-local)
+        - [Visual Studio Code development](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code)
+        - [Visual Studio development](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs)
+        - [Core Tools development](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local)
+      - Create functions
+        - HTTP trigger
+          - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal)
+          - [Kotlin using IntelliJ](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-kotlin-intellij)
+          - [Linux App Service plan](https://learn.microsoft.com/en-us/azure/azure-functions/create-function-app-linux-app-service-plan)
+          - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-app-service-plan)
+          - [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-premium-plan)
+          - [Linux container Premium](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container)
+        - [Azure Cosmos DB trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function)
+        - [Blob storage trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
+        - [Queue storage trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-queue-triggered-function)
+        - [Timer trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function)
+      - Connect to services
+        - [How to connect to services](https://learn.microsoft.com/en-us/azure/azure-functions/add-bindings-existing-function)
+        - [Azure Cosmos DB - portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb)
+        - Storage
+          - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-storage-queue-output-binding)
+          - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code)
+          - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs)
+          - [Java](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-java)
+          - [Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-python)
+      - Debug
+        - [Debug local PowerShell functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-powershell-local)
+        - [Debug Event Grid trigger locally](https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-event-grid-trigger-local)
+      - [Load testing](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-load-test-function-app?toc=/azure/azure-functions/toc.json)
+      - [Dependency injection](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection)
+      - [Manage connections](https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections)
+      - [Error handling and retries](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages)
+      - [Manually run a non HTTP-triggered function](https://learn.microsoft.com/en-us/azure/azure-functions/functions-manually-run-non-http)
+      - [Bring dependencies to function apps](https://learn.microsoft.com/en-us/azure/azure-functions/bring-dependency-to-functions)
+      - [Develop Python worker extensions](https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions)
+    - Deploy
+      - [Continuous deployment](https://learn.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment)
+      - [Deployment slots](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots)
+      - Containers
+        - [Work with containers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-custom-container)
+        - [Create functions in containers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-container-registry)
+        - [Functions in Kubernetes](https://learn.microsoft.com/en-us/azure/azure-functions/functions-kubernetes-keda)
+      - [Build and deploy using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops)
+      - [Build and deploy using GitHub Actions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions)
+      - [Zip deployment](https://learn.microsoft.com/en-us/azure/azure-functions/deployment-zip-push)
+      - [Run from package](https://learn.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package)
+      - [Automate resource deployment](https://learn.microsoft.com/en-us/azure/azure-functions/functions-infrastructure-as-code)
+      - [Deploy using the Jenkins plugin](https://learn.microsoft.com/azure/developer/jenkins/deploy-to-azure-functions?toc=/azure/azure-functions/toc.json)
+    - Configure
+      - [Manage a function app](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings)
+      - [Work with Flex Consumption apps](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-how-to)
+      - [App Configuration references](https://learn.microsoft.com/en-us/azure/app-service/app-service-configuration-references?toc=%2fazure%2fazure-functions%2ftoc.json)
+      - [Set the runtime version](https://learn.microsoft.com/en-us/azure/azure-functions/set-runtime-version)
+      - [Disable a function](https://learn.microsoft.com/en-us/azure/azure-functions/disable-function)
+      - [Networking](https://learn.microsoft.com/en-us/azure/azure-functions/configure-networking-how-to)
+      - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-functions?toc=/azure/azure-functions/toc.json)
+      - [Work with legacy Functions Proxies](https://learn.microsoft.com/en-us/azure/azure-functions/legacy-proxies)
+    - Migrate
+      - [Migrate .NET apps to the isolated model](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-dotnet-to-isolated-model)
+      - [Migrate v3.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-3-version-4)
+      - [Migrate v1.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-1-version-4)
+      - Node.js
+        - [Migrate to model v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-upgrade-v4)
+      - [Update language versions](https://learn.microsoft.com/en-us/azure/azure-functions/update-language-versions)
+    - Monitor
+      - [Monitor Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions)
+      - [Monitor function executions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-monitoring)
+      - [Configure monitoring](https://learn.microsoft.com/en-us/azure/azure-functions/configure-monitoring)
+      - [Analyze telemetry data](https://learn.microsoft.com/en-us/azure/azure-functions/analyze-telemetry-data)
+      - [Stream execution logs](https://learn.microsoft.com/en-us/azure/azure-functions/streaming-logs)
+      - [Work with OpenTelemetry](https://learn.microsoft.com/en-us/azure/azure-functions/opentelemetry-howto)
+    - Authenticate
+      - Configure auth providers
+        - [Authenticate with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad?toc=/azure/azure-functions/toc.json)
+        - [Authenticate with Facebook](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-facebook?toc=/azure/azure-functions/toc.json)
+        - [Authenticate with GitHub](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-github?toc=/azure/azure-functions/toc.json)
+        - [Authenticate with Google](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-google?toc=/azure/azure-functions/toc.json)
+        - [Authenticate with X](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-twitter?toc=/azure/azure-functions/toc.json)
+        - [Authenticate with an OpenID Connect provider](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-openid-connect?toc=/azure/azure-functions/toc.json)
+        - [Authenticate using Sign in with Apple Preview](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-apple?toc=/azure/azure-functions/toc.json)
+      - [Customize sign-ins/outs](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-customize-sign-in-out?toc=/azure/azure-functions/toc.json)
+      - [Access user identities](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-user-identities?toc=/azure/azure-functions/toc.json)
+      - [Work with tokens](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-oauth-tokens?toc=/azure/azure-functions/toc.json)
+      - [Manage API versions](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-api-version?toc=/azure/azure-functions/toc.json)
+      - [File-based configuration](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-file-based?toc=/azure/azure-functions/toc.json)
+    - Secure
+      - [Work with access keys](https://learn.microsoft.com/en-us/azure/azure-functions/function-keys-how-to)
+      - [Add SSL cert](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?toc=/azure/azure-functions/toc.json)
+      - [Restrict IPs](https://learn.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions?toc=/azure/azure-functions/toc.json)
+      - [Use a managed identity](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json)
+      - [Reference secrets from Key Vault](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?toc=/azure/azure-functions/toc.json)
+      - [Encrypt site data](https://learn.microsoft.com/en-us/azure/azure-functions/configure-encrypt-at-rest-using-cmk)
+    - Integrate
+      - Connect to services
+        - [Azure Cosmos DB - portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb)
+        - Azure Cache for Redis
+          - [Get started with VS Code](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-tutorial-functions-getting-started?toc=%2fazure%2fazure-functions%2ftoc.json)
+          - [Create a write-behind cache](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-tutorial-write-behind?toc=%2fazure%2fazure-functions%2ftoc.json)
+        - Storage
+          - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-storage-queue-output-binding)
+          - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code)
+          - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs)
+          - [Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-python)
+        - SignalR
+          - [C#](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-csharp?toc=/azure/azure-functions/toc.json)
+          - [Java](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-java?toc=/azure/azure-functions/toc.json)
+          - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-javascript?toc=/azure/azure-functions/toc.json)
+          - [Python](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-python?toc=/azure/azure-functions/toc.json)
+        - [Web PubSub](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-serverless-notification?toc=/azure/azure-functions/toc.json)
+        - [Work with Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/event-grid-how-tos)
+      - Start/Stop VMs
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/overview)
+        - [Deploy and configure](https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/deploy)
+        - [Manage and monitor](https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/manage)
+        - [Remove Start/Stop VMs](https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/remove)
+        - [Define pre-actions](https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/pre-actions)
+        - [Troubleshoot](https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/troubleshoot)
+      - [Connect to SQL Database](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenario-database-table-cleanup)
+      - [Connect to a virtual Network](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet)
+      - Create OpenAPI definitions
+        - [API Management integration portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition)
+        - [Visual Studio with API Management C#](https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio)
+      - [Use a managed identity](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json)
+      - [Customize endpoints with legacy proxies](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api)
+      - [Manage on-premises resources](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell)
+    - Troubleshoot
+      - [Storage connections](https://learn.microsoft.com/en-us/azure/azure-functions/functions-recover-storage-account)
+      - [Azure Cosmos DB bindings](https://learn.microsoft.com/azure/cosmos-db/troubleshoot-changefeed-functions?toc=/azure/azure-functions/toc.json)
+      - [Node.js](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-troubleshoot)
+      - Python
+        - [General troubleshooting](https://learn.microsoft.com/en-us/azure/azure-functions/recover-python-functions)
+        - [Scale and performance](https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference)
+        - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
+  - Reference
+    - API references
+      - [ARM template](https://learn.microsoft.com/azure/templates/microsoft.web/2022-03-01/sites/functions)
+      - [Azure CLI](https://learn.microsoft.com/cli/azure/functionapp)
+      - [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-core-tools-reference)
+      - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.functions/)
+      - [Java](https://learn.microsoft.com/java/api/overview/azure/functions/runtime)
+      - [Python](https://learn.microsoft.com/python/api/azure-functions/azure.functions)
+    - [App settings reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-app-settings)
+    - Triggers and bindings
+      - Azure Cache for Redis
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache)
+        - Trigger
+          - [Pub Sub](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-trigger-redispubsub)
+          - [List](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-trigger-redislist)
+          - [Stream](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-trigger-redisstream)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-output)
+      - Azure Cosmos DB
+        - [Functions 1.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb)
+        - Functions 2.x and higher
+          - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2)
+          - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-trigger)
+          - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-input)
+          - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-output)
+        - [Migrate version 3.x to 4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-cosmos-db-version-3-version-4)
+      - Azure Data Explorer
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer-output)
+      - Azure OpenAI
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai)
+        - Assistants
+          - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistant-trigger)
+          - [Query input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantquery-input)
+          - [Create output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantcreate-output)
+          - [Post input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantpost-input)
+        - Embeddings
+          - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddings-input)
+          - [Store output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddingsstore-output)
+        - [Semantic search input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-semanticsearch-input)
+        - [Text Completion input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-textcompletion-input)
+      - Azure SQL
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-trigger)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-output)
+      - Blob storage
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob-trigger)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob-output)
+      - Dapr
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr)
+        - Trigger
+          - [Binding](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-trigger)
+          - [Service Invocation](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-trigger-svc-invoke)
+          - [Topic](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-trigger-topic)
+        - Input
+          - [State](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-input-state)
+          - [Secret](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-input-secret)
+        - Output
+          - [State](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-output-state)
+          - [Invoke](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-output-invoke)
+          - [Publish](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-output-publish)
+          - [Binding](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-output)
+      - Event Grid
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid-trigger)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid-output)
+      - Event Hubs
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs-trigger)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs-output)
+      - HTTP and webhooks
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook-trigger)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook-output)
+      - IoT Hub
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot-trigger)
+      - Kafka
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-trigger)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-output)
+      - [Mobile Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mobile-apps)
+      - [Notification Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-notification-hubs)
+      - Queue storage
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-queue)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-queue-trigger)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-queue-output)
+      - RabbitMQ
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-rabbitmq)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-rabbitmq-trigger)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-rabbitmq-output)
+      - [SendGrid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-sendgrid)
+      - Service Bus
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus-trigger)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus-output)
+        - [Migrate version 4.x to 5.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-service-bus-version-4-version-5)
+      - SignalR Service
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service-trigger)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service-output)
+      - Table storage
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-table)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-table-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-table-output)
+      - [Timer](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer)
+      - [Twilio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio)
+      - [Warmup](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-warmup)
+      - Web PubSub
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-web-pubsub)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-web-pubsub-trigger)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-web-pubsub-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-web-pubsub-output)
+    - Errors and diagnostics
+      - .NET worker rules
+        - [AZFW0001](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/net-worker-rules/azfw0001)
+      - SDK rules
+        - [AZF0001](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/sdk-rules/azf0001)
+        - [AZF0002](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/sdk-rules/azf0002)
+      - Diagnostic events
+        - [AZFD0001](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0001)
+        - [AZFD0002](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0002)
+        - [AZFD0003](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0003)
+        - [AZFD0004](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0004)
+        - [AZFD0005](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0005)
+        - [AZFD0006](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0006)
+        - [AZFD0007](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0007)
+        - [AZFD0008](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0008)
+        - [AZFD0009](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0009)
+        - [AZFD0010](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0010)
+        - [AZFD0011](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0011)
+        - [AZFD0012](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0012)
+        - [AZFD0013](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0013)
+    - [host.json 2.x reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-host-json)
+    - [host.json 1.x reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-host-json-v1)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions-reference)
+    - [Networking FAQ](https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-faq.yml)
+  - Resources
+    - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/?products=azure-functions)
+    - [Architecture guidance](https://learn.microsoft.com/azure/architecture/serverless-quest/serverless-overview)
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=compute)
+    - [Pricing details](https://azure.microsoft.com/pricing/details/functions/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Language support policy](https://learn.microsoft.com/en-us/azure/azure-functions/language-support-policy)
+    - [Quota information](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale)
+    - [Regional availability](https://azure.microsoft.com/global-infrastructure/services/)
+    - [Videos](https://www.youtube.com/@AzureDevelopers/search?query=functions)
+    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-functions.html)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-functions)
+    - [X](https://x.com/azurefunctions)
+    - [Provide product feedback](https://feedback.azure.com/d365community/forum/9df02822-f224-ec11-b6e6-000d3a4f0da0)
+    - [Azure Functions GitHub repository](https://github.com/Azure/Azure-Functions/)
+    - [Azure updates](https://azure.microsoft.com/updates/?product=functions&updatetype=&platform=)

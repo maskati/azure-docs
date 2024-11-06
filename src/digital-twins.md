@@ -1,0 +1,166 @@
+# Azure Digital Twins Documentation
+> Learn how to use Azure Digital Twins by creating a digital twin architecture that acts as a representation of your assets, environments and business systems, to build next generation IoT solutions that model the real world.
+  - [Azure Digital Twins documentation](https://learn.microsoft.com/en-us/azure/digital-twins/)
+  - Overview
+    - [About Azure Digital Twins](https://learn.microsoft.com/en-us/azure/digital-twins/overview)
+  - Quickstarts
+    - [Get started with Azure Digital Twins Explorer](https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer)
+    - [Get started with 3D Scenes Studio](https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-3d-scenes-studio)
+  - Tutorials
+    - [Code a client app](https://learn.microsoft.com/en-us/azure/digital-twins/tutorial-code)
+    - Create a graph
+      - [Use a sample client app](https://learn.microsoft.com/en-us/azure/digital-twins/tutorial-command-line-app)
+      - [Use the Azure CLI commands](https://learn.microsoft.com/en-us/azure/digital-twins/tutorial-command-line-cli)
+    - [Connect an end-to-end solution](https://learn.microsoft.com/en-us/azure/digital-twins/tutorial-end-to-end)
+  - Concepts
+    - [DTDL models](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-models)
+    - Industry ontologies
+      - [What is an ontology?](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-ontologies)
+      - [Adopting DTDL-based industry ontologies](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-ontologies-adopt)
+      - [Converting ontologies](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-ontologies-convert)
+      - [Extending ontologies](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-ontologies-extend)
+    - [Digital twins and the twin graph](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-twins-graph)
+    - [Query language](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-query-language)
+    - [Query Units](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-query-units)
+    - [Data history with Azure Data Explorer](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-data-history)
+    - [Querying with the Azure Data Explorer plugin](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-data-explorer-plugin)
+    - Developer interfaces
+      - [Azure Digital Twins Explorer](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-azure-digital-twins-explorer)
+      - [APIs and SDKs](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-apis-sdks)
+      - [CLI command set](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-cli)
+    - [Data ingress and egress](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-data-ingress-egress)
+    - [Event notifications](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-event-notifications)
+    - [Endpoints and event routes](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-route-events)
+    - [3D Scenes Studio](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-3d-scenes-studio)
+    - [Security for Azure Digital Twins solutions](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-security)
+    - [High availability and disaster recovery](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-high-availability-disaster-recovery)
+  - How-to guides
+    - Deploy
+      - Set up an instance and authentication
+        - [Portal](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-set-up-instance-portal)
+        - [CLI](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-set-up-instance-cli)
+      - [Enable private access with Private Link](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-enable-private-link)
+      - [Move instance to a different region](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-move-regions)
+    - Design models
+      - [Manage DTDL models](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-manage-model)
+      - [Parse and validate models](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-parse-models)
+      - [Add tags](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-use-tags)
+    - Use live execution environment
+      - [Use Azure Digital Twins Explorer](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-use-azure-digital-twins-explorer)
+      - [Manage digital twins](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-manage-twin)
+      - [Manage the twin graph and relationships](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-manage-graph)
+      - [Set up twin-to-twin event handling](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-send-twin-to-twin-events)
+      - [Query the twin graph](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-query-graph)
+    - Develop client apps
+      - [Call Azure Digital Twins APIs](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-use-apis)
+      - [Use 3D Scenes Studio](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-use-3d-scenes-studio)
+      - [Write app authentication code](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-authenticate-client)
+      - [Create an app registration with Azure Digital Twins access](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-create-app-registration)
+    - Connect input
+      - [Ingest telemetry from IoT Hub](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-ingest-iot-hub-data)
+      - [Integrate with Power Platform and Logic Apps](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-use-power-platform-logic-apps-connector)
+    - Connect output
+      - [Create endpoints](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-create-endpoints)
+      - [Create routes and filters](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-create-routes)
+      - [Create a data history connection](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-create-data-history-connection)
+    - Monitor and troubleshoot
+      - [Monitor your instance](https://learn.microsoft.com/en-us/azure/digital-twins/how-to-monitor)
+      - [Troubleshoot resource health](https://learn.microsoft.com/en-us/azure/digital-twins/troubleshoot-resource-health)
+      - [Troubleshoot performance](https://learn.microsoft.com/en-us/azure/digital-twins/troubleshoot-performance)
+      - [Known issues](https://learn.microsoft.com/en-us/azure/digital-twins/troubleshoot-known-issues)
+      - Problem resolution in Azure Digital Twins
+        - [Error 403 Forbidden](https://learn.microsoft.com/en-us/azure/digital-twins/troubleshoot-error-403-digital-twins)
+        - [Error 404 Sub-Domain not found](https://learn.microsoft.com/en-us/azure/digital-twins/troubleshoot-error-404-digital-twins)
+        - [Azure Digital Twins Explorer authentication error](https://learn.microsoft.com/en-us/azure/digital-twins/troubleshoot-error-azure-digital-twins-explorer-authentication)
+        - [CLI parsing failures](https://learn.microsoft.com/en-us/azure/digital-twins/troubleshoot-error-cli-parse)
+  - Reference
+    - [REST API reference](https://learn.microsoft.com/rest/api/azure-digitaltwins/)
+    - SDKs
+      - Control plane
+        - [.NET C# SDK](https://learn.microsoft.com/dotnet/api/overview/azure/digitaltwins)
+        - [Java SDK](https://learn.microsoft.com/java/api/com.azure.resourcemanager.digitaltwins)
+      - Data plane
+        - [.NET C# SDK](https://learn.microsoft.com/dotnet/api/overview/azure/digitaltwins.core-readme)
+        - [Java SDK](https://learn.microsoft.com/java/api/overview/azure/digital-twins)
+        - [JavaScript SDK](https://learn.microsoft.com/javascript/api/@azure/digital-twins-core/?view=azure-node-latest&preserve-view=true)
+        - [Python SDK](https://learn.microsoft.com/python/api/azure-digitaltwins-core/azure.digitaltwins.core?view=azure-python&preserve-view=true)
+    - [Digital Twins CLI](https://learn.microsoft.com/cli/azure/dt)
+    - [DTDL v3 Language Description](https://github.com/Azure/opendigitaltwins-dtdl/blob/master/DTDL/v3/DTDL.v3)
+    - [DTDL v2 Language Description](https://github.com/Azure/opendigitaltwins-dtdl/blob/master/DTDL/v2/DTDL.v2)
+    - Query language reference
+      - Clauses
+        - [SELECT](https://learn.microsoft.com/en-us/azure/digital-twins/reference-query-clause-select)
+        - [FROM](https://learn.microsoft.com/en-us/azure/digital-twins/reference-query-clause-from)
+        - [MATCH](https://learn.microsoft.com/en-us/azure/digital-twins/reference-query-clause-match)
+        - [JOIN](https://learn.microsoft.com/en-us/azure/digital-twins/reference-query-clause-join)
+        - [WHERE](https://learn.microsoft.com/en-us/azure/digital-twins/reference-query-clause-where)
+      - [Functions](https://learn.microsoft.com/en-us/azure/digital-twins/reference-query-functions)
+      - [Operators](https://learn.microsoft.com/en-us/azure/digital-twins/reference-query-operators)
+      - [Reserved keywords](https://learn.microsoft.com/en-us/azure/digital-twins/reference-query-reserved)
+    - [Azure Digital Twins Power Platform and Logic Apps connector](https://learn.microsoft.com/connectors/azuredigitaltwins/)
+  - Resources
+    - [Digital Twins service limits](https://learn.microsoft.com/en-us/azure/digital-twins/reference-service-limits)
+    - Pricing and availability
+      - [Pricing](https://azure.microsoft.com/pricing/details/digital-twins)
+      - [SLA](https://azure.microsoft.com/support/legal/sla/digital-twins)
+      - [Regions and availability](https://azure.microsoft.com/global-infrastructure/services/?products=digital-twins)
+    - [Customer data requests](https://learn.microsoft.com/en-us/azure/digital-twins/resources-customer-data-requests)
+    - APIs and SDKs
+      - Control plane
+        - [Control plane Swagger](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/digitaltwins/resource-manager/Microsoft.DigitalTwins/stable)
+        - [.NET C# SDK - NuGet](https://www.nuget.org/packages/Azure.ResourceManager.DigitalTwins)
+        - [.NET C# SDK - Source code](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/digitaltwins/Azure.ResourceManager.DigitalTwins)
+        - [Java SDK - Maven](https://search.maven.org/search?q=a:azure-mgmt-digitaltwins)
+        - [Java SDK - Source code](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/digitaltwins)
+        - [JavaScript SDK - NPM](https://www.npmjs.com/package/@azure/arm-digitaltwins)
+        - [JavaScript SDK - Source code](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/digitaltwins/arm-digitaltwins)
+        - [Python SDK - PyPi](https://pypi.org/project/azure-mgmt-digitaltwins/)
+        - [Python SDK - Source code](https://github.com/Azure/azure-sdk-for-python/tree/release/v3/sdk/digitaltwins/azure-mgmt-digitaltwins)
+        - [Go SDK - GoDoc](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/services/digitaltwins/mgmt)
+        - [Go - Source code](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/resourcemanager/digitaltwins)
+      - Data plane
+        - [Data plane Swagger](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/digitaltwins/data-plane/Microsoft.DigitalTwins)
+        - [.NET C# SDK - NuGet](https://www.nuget.org/packages/Azure.DigitalTwins.Core)
+        - [.NET C# SDK - Source code](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/digitaltwins/Azure.DigitalTwins.Core)
+        - [Java SDK - Maven](https://search.maven.org/artifact/com.azure/azure-digitaltwins-core/1.0.0/jar)
+        - [Java SDK - Source code](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/digitaltwins/azure-digitaltwins-core)
+        - [JavaScript SDK - NPM](https://www.npmjs.com/package/@azure/digital-twins-core)
+        - [JavaScript SDK - Source code](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/digitaltwins/digital-twins-core)
+        - [Python SDK - PyPi](https://pypi.org/project/azure-digitaltwins-core/)
+        - [Python SDK - Source code](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/digitaltwins/azure-digitaltwins-core)
+    - [Migrate from preview control plane APIs](https://learn.microsoft.com/en-us/azure/digital-twins/resources-migrate-from-preview-apis)
+    - [Digital Twins CLI package](https://github.com/Azure/azure-iot-cli-extension/releases)
+    - Terraform modules
+      - [Digital Twins instance resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/digital_twins_instance)
+      - [Digital Twins instance data source](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/digital_twins_instance)
+      - [Event Hubs endpoint resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/digital_twins_endpoint_eventhub)
+      - [Event Grid endpoint resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/digital_twins_endpoint_eventgrid)
+      - [Service Bus endpoint resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/digital_twins_endpoint_servicebus)
+    - Tools and sample projects
+      - [Azure Digital Twins Explorer](https://explorer.digitaltwins.azure.net/)
+      - [3D Scenes Studio](https://explorer.digitaltwins.azure.net/3dscenes)
+      - [Sample for ingesting OPC UA data into Azure Digital Twins](https://github.com/digitaltwinconsortium/ManufacturingOntologies)
+      - [DTDL parser sample](https://github.com/digitaltwinconsortium/DTDLParser/tree/main/samples/DTDLParserResolveSample)
+      - [Model Uploader sample](https://github.com/Azure/opendigitaltwins-tools/tree/main/ADTTools/UploadModels)
+      - [Model Deleter sample](https://github.com/Azure/opendigitaltwins-tools/tree/main/ADTTools/DeleteModels)
+      - [OWL2DTDL Converter](https://github.com/Azure/opendigitaltwins-tools/tree/main/OWL2DTDL)
+      - [SignalR integration sample](https://learn.microsoft.com/samples/azure-samples/digitaltwins-signalr-webapp-sample/digital-twins-samples/)
+      - [Multivariate Anomaly Detection Toolkit](https://learn.microsoft.com/samples/azure-samples/digital-twins-mvad-integration/adt-mvad-integration/)
+    - Ontologies
+      - [Smart buildings](https://github.com/Azure/opendigitaltwins-building)
+      - [Smart cities](https://github.com/Azure/opendigitaltwins-smartcities)
+      - [Energy grids](https://github.com/Azure/opendigitaltwins-energygrid/)
+      - [Manufacturing](https://github.com/digitaltwinconsortium/ManufacturingOntologies)
+    - DTDL
+      - [DTDL extension for VS Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-dtdl)
+      - [DTDLParser on NuGet](https://www.nuget.org/packages/DTDLParser)
+      - [DTDL parser sample](https://github.com/digitaltwinconsortium/DTDLParser/tree/main/samples/DTDLParserResolveSample)
+    - Learning paths
+      - [Extend IoT solutions by using Azure Digital Twins](https://learn.microsoft.com/training/paths/extend-iot-solutions-by-using-azure-digital-twins/)
+      - [Set up a mixed reality project for Azure Digital Twins in Unity](https://learn.microsoft.com/training/modules/set-up-mixed-reality-azure-digital-twins-unity/)
+    - [Customer stories](https://customers.microsoft.com/en-us/search?sq="Azure Digital Twins"&ff=&p=0&so=story_publish_date desc)
+    - Azure tools
+      - [Azure Cloud Shell](https://shell.azure.com/)
+      - [Azure portal](https://portal.azure.com/)
+    - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help?toc=/azure/digital-twins/toc.json&bc=/azure/digital-twins/breadcrumb/toc.json)
+    - [IoT Glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary?toc=/azure/digital-twins/toc.json&bc=/azure/digital-twins/breadcrumb/toc.json)

@@ -1,0 +1,53 @@
+# Azure API Center documentation
+> Azure API Center helps you develop and maintain a structured inventory of your organization's APIs. Azure API Center enables API discovery, reuse, and governance at scale.
+  - [Azure API Center Documentation](https://learn.microsoft.com/en-us/azure/api-center/)
+  - Get started
+    - Overview
+      - [What is Azure API Center?](https://learn.microsoft.com/en-us/azure/api-center/overview)
+      - [Key concepts](https://learn.microsoft.com/en-us/azure/api-center/key-concepts)
+      - [Service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
+      - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/api-center/frequently-asked-questions.yml)
+    - Quickstarts
+      - [Create an API center - portal](https://learn.microsoft.com/en-us/azure/api-center/set-up-api-center)
+      - [Create an API center - CLI](https://learn.microsoft.com/en-us/azure/api-center/set-up-api-center-azure-cli)
+      - [Create an API center - Bicep](https://learn.microsoft.com/en-us/azure/api-center/set-up-api-center-bicep)
+      - [Create an API center - ARM template](https://learn.microsoft.com/en-us/azure/api-center/set-up-api-center-arm-template)
+    - Tutorials
+      - [1 - Define custom metadata](https://learn.microsoft.com/en-us/azure/api-center/add-metadata-properties)
+      - [2 - Add APIs to the inventory](https://learn.microsoft.com/en-us/azure/api-center/register-apis)
+      - [3 - Add environments and deployments](https://learn.microsoft.com/en-us/azure/api-center/configure-environments-deployments)
+  - API inventory
+    - [Manage inventory - Azure CLI](https://learn.microsoft.com/en-us/azure/api-center/manage-apis-azure-cli)
+    - [Import APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/import-api-management-apis)
+    - [Synchronize APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/synchronize-api-management-apis)
+    - [Build and register APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/build-register-apis-vscode-extension)
+    - [Register APIs - GitHub Actions](https://learn.microsoft.com/en-us/azure/api-center/register-apis-github-actions)
+  - API governance
+    - [Use metadata for governance](https://learn.microsoft.com/en-us/azure/api-center/metadata)
+    - [Govern APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/govern-apis-vscode-extension)
+    - [API analysis - Microsoft managed](https://learn.microsoft.com/en-us/azure/api-center/enable-managed-api-analysis-linting)
+    - [API analysis - self-managed](https://learn.microsoft.com/en-us/azure/api-center/enable-api-analysis-linting)
+    - [Discover shadow APIs with Dev Proxy](https://learn.microsoft.com/en-us/azure/api-center/discover-shadow-apis-dev-proxy)
+    - [Find nonproduction API requests with Dev Proxy](https://learn.microsoft.com/en-us/azure/api-center/find-nonproduction-api-requests-dev-proxy)
+    - [Workflow automation to set API status](https://learn.microsoft.com/en-us/azure/api-center/set-up-notification-workflow)
+  - API discovery and consumption
+    - [Discover and consume APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/discover-apis-vscode-extension)
+    - [Enable platform API catalog - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/enable-platform-api-catalog-vscode-extension)
+    - [Self-host Azure API Center portal](https://learn.microsoft.com/en-us/azure/api-center/enable-api-center-portal)
+    - [Check API calls use minimal permissions with Dev Proxy](https://learn.microsoft.com/en-us/azure/api-center/check-minimal-api-permissions-dev-proxy)
+  - API center management and operations
+    - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
+  - Reference
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/apic)
+    - [REST API](https://learn.microsoft.com/rest/api/apicenter/)
+    - REST API SDKs
+      - [JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/apicenter)
+      - [Java](https://learn.microsoft.com/java/api/overview/azure/apicenter)
+      - [Python](https://pypi.org/project/azure-mgmt-apicenter)
+    - [Event Grid schema](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.apicenter/allversions)
+    - [Azure built-in roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
+  - Resources
+    - [Samples and labs](https://learn.microsoft.com/en-us/azure/api-center/resources)
+    - [Building an API security strategy](https://aka.ms/API-Security-EBook)
+    - [Azure updates](https://aka.ms/apic/updates)

@@ -1,0 +1,78 @@
+# Traffic Manager documentation
+> Learn how to use Azure Traffic Manager. Quickstarts, tutorials, samples, and more, show you how to manage incoming traffic for optimal application performance, and how to distribute traffic to Azure or external service endpoints.
+  - [Traffic Manager documentation](https://learn.microsoft.com/en-us/azure/traffic-manager/)
+  - Overview
+    - [What is Traffic Manager?](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview)
+  - Quickstarts
+    - [Create a Traffic Manager profile - Portal](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile)
+    - [Create a Traffic Manager profile - PowerShell](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile-powershell)
+    - [Create a Traffic Manager profile - Azure CLI](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile-cli)
+    - [Create a Traffic Manager profile - Bicep](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile-bicep)
+    - [Create a Traffic Manager profile - ARM Template](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile-template)
+    - [Create a Traffic Manager profile - Terraform](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile-terraform)
+  - Tutorials
+    - [Route traffic for low latency](https://learn.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-improve-website-response)
+    - [Route traffic based on geographic location of endpoint](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-geographic-routing-method)
+    - [Distribute traffic to a set of endpoints](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-weighted-routing-method)
+    - [Route traffic to a priority endpoint](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-priority-routing-method)
+    - [Control traffic with weighted endpoints](https://learn.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-weighted-endpoint-routing)
+    - [Route traffic based on user's subnet](https://learn.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-subnet-routing)
+    - [Alias records for Traffic Manager](https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-tm?toc=%2fazure%2ftraffic-manager%2ftoc.json)
+  - Concepts
+    - [Routing methods](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods)
+      - [Country/Region hierarchy used by Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-geographic-regions)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/traffic-manager-security-baseline?toc=/azure/traffic-manager/toc.json)
+    - [Nested Traffic Manager profiles](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-nested-profiles)
+    - [Endpoint types](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-endpoint-types)
+    - [Endpoint monitoring](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-monitoring)
+    - [Real User Measurements](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-rum-overview)
+    - [Traffic View](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-traffic-view-overview)
+    - [Metrics and alerts](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-metrics-alerts)
+    - [Reliability and disaster recovery](https://learn.microsoft.com/en-us/azure/networking/disaster-recovery-dns-traffic-manager)
+    - [How Traffic Manager works](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works)
+    - [FAQs](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-FAQs)
+  - How-to guides
+    - [Use Azure App Gateway with Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-use-with-application-gateway)
+    - [Use Azure App Service with Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-use-azure-app-service)
+    - [Configure performance routing in Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-performance-routing-method)
+    - Configure multivalue routing in Traffic Manager
+      - [Portal](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-multivalue-routing-method)
+      - [ARM template](https://learn.microsoft.com/en-us/azure/traffic-manager/configure-multivalue-routing-method-template)
+    - [Configure subnet routing in Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-subnet-routing-method)
+    - Send Real User Measurements to Traffic Manager
+      - [Using Visual Studio SDK](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-create-rum-visual-studio)
+      - [Using web pages](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-create-rum-web-pages)
+    - [Add an endpoint to an existing profile - ARM Template](https://learn.microsoft.com/en-us/azure/traffic-manager/how-to-add-endpoint-existing-profile-template)
+    - [Manage endpoints](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-manage-endpoints)
+    - [Manage profiles](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-manage-profiles)
+    - [Verify Traffic Manager settings](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-testing-settings)
+    - [Combine load balancing services](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-load-balancing-azure)
+    - [Measure Traffic Manager performance](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-performance-considerations)
+    - [Enable resource logs](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-diagnostic-logs)
+    - [Use Azure PowerShell to manage Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-powershell-arm)
+    - [Point your Internet domain to Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-point-internet-domain)
+    - Subnet override
+      - [Configure subnet override - Azure CLI](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-subnet-override-cli)
+      - [Configure subnet override - PowerShell](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-subnet-override-powershell)
+    - Troubleshoot
+      - [Troubleshoot degraded state on Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-troubleshooting-degraded)
+  - Reference
+    - [Code samples](https://azure.microsoft.com/resources/samples/?service=traffic-manager)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.trafficmanager)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/network/traffic-manager)
+    - [Java](https://learn.microsoft.com/java/api/com.microsoft.azure.management.trafficmanager)
+    - [Ruby](https://www.rubydoc.info/gems/azure_mgmt_traffic_manager)
+    - [Python](https://azure.github.io/azure-sdk-for-python/trafficmanager.html)
+    - [REST](https://learn.microsoft.com/rest/api/trafficmanager/)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/trafficmanagerprofiles)
+  - Resources
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Blog](https://azure.microsoft.com/blog/topics/networking/)
+    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
+    - [Pricing](https://azure.microsoft.com/pricing/details/traffic-manager/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Service Limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
+    - [Service updates](https://azure.microsoft.com/updates/?product=traffic-manager)
+    - [SLA](https://azure.microsoft.com/support/legal/sla/traffic-manager/)
+    - [Videos](https://azure.microsoft.com/resources/videos/index/?services=traffic-manager)

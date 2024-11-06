@@ -1,0 +1,33 @@
+# Azure Managed Confidential Consortium Framework
+> Learn how to use Azure Managed Confidential Consortium Framework
+  - [Azure Managed Confidential Consortium Framework](https://learn.microsoft.com/en-us/azure/managed-ccf/)
+  - Overview
+    - [About Azure Managed Confidential Consortium Framework](https://learn.microsoft.com/en-us/azure/managed-ccf/overview)
+    - [About Confidential Consortium Framework](https://learn.microsoft.com/en-us/azure/managed-ccf/confidential-consortium-framework-overview)
+    - [Get started](https://learn.microsoft.com/en-us/azure/managed-ccf/get-started)
+  - Quickstarts
+    - [Portal](https://learn.microsoft.com/en-us/azure/managed-ccf/quickstart-portal)
+    - [CLI](https://learn.microsoft.com/en-us/azure/managed-ccf/quickstart-cli)
+    - [Python](https://learn.microsoft.com/en-us/azure/managed-ccf/quickstart-python)
+    - [Java](https://learn.microsoft.com/en-us/azure/managed-ccf/quickstart-java)
+    - [.NET](https://learn.microsoft.com/en-us/azure/managed-ccf/quickstart-net)
+    - [Go](https://learn.microsoft.com/en-us/azure/managed-ccf/quickstart-go)
+    - [TypeScript](https://learn.microsoft.com/en-us/azure/managed-ccf/quickstart-typescript)
+  - Concepts
+    - [Application scenarios](https://learn.microsoft.com/en-us/azure/managed-ccf/application-scenarios)
+  - How to guides
+    - [FAQ](https://learn.microsoft.com/en-us/azure/managed-ccf/faq.yml)
+    - [Manage members](https://learn.microsoft.com/en-us/azure/managed-ccf/how-to-manage-members)
+    - [Set application runtime options](https://learn.microsoft.com/en-us/azure/managed-ccf/how-to-update-javascript-runtime-options)
+    - [Update an application](https://learn.microsoft.com/en-us/azure/managed-ccf/how-to-update-application)
+    - [Backup and restore a Managed CCF resource](https://learn.microsoft.com/en-us/azure/managed-ccf/how-to-backup-restore-resource)
+    - [View application logs in Azure Monitor](https://learn.microsoft.com/en-us/azure/managed-ccf/how-to-enable-azure-monitor)
+    - [View the members](https://learn.microsoft.com/en-us/azure/managed-ccf/how-to-view-members)
+    - [Azure Managed CCF REST API reference](https://learn.microsoft.com/rest/api/resource-manager/confidentialledger/managed-ccf)
+  - Resources
+    - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
+    - [Pricing](https://azure.microsoft.com/pricing)
+    - [Region availability](https://azure.microsoft.com/global-infrastructure/services/)
+    - [Service Level Agreement SLA](https://azure.microsoft.com/support/legal/sla/)
+    - [Service status](https://azure.microsoft.com/status/)
+    - [Service updates](https://azure.microsoft.com/updates/)

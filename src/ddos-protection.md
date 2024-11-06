@@ -1,0 +1,66 @@
+# Azure DDoS Protection documentation
+> Learn how the Azure DDoS Protection, when combined with application design best practices, provides defense against DDoS attacks.
+  - [Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
+  - Overview
+    - [What is Azure DDoS Protection?](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
+    - [Tier comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-sku-comparison)
+  - Quickstarts
+    - DDoS Network Protection
+      - [Portal](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-powershell)
+      - [CLI](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-cli)
+      - [Bicep](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-bicep)
+      - [ARM template](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-template)
+      - [Terraform](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-terraform)
+    - DDoS IP Protection
+      - [Portal](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-ip-protection-portal)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-powershell-ip)
+      - [CLI](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-ip-protection-cli)
+      - [ARM template](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-ip-protection-template)
+  - Tutorials
+    - [View and configure DDoS telemetry](https://learn.microsoft.com/en-us/azure/ddos-protection/telemetry)
+    - Configure Monitoring and Logging
+      - [Configure Log Analytics workspace](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-configure-log-analytics-workspace)
+      - [Configure metric alerts through portal](https://learn.microsoft.com/en-us/azure/ddos-protection/alerts)
+      - [Configure diagnostic logging](https://learn.microsoft.com/en-us/azure/ddos-protection/diagnostic-logging)
+      - [Configure diagnostic logging alerts](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-diagnostic-alert-templates)
+    - [Test with simulation partners](https://learn.microsoft.com/en-us/azure/ddos-protection/test-through-simulations)
+    - View Monitoring and Logging
+      - [View alerts in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-view-alerts-defender-for-cloud)
+      - [View diagnostic logs in Log Analytics workspace](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-view-diagnostic-logs)
+    - [Deploy Route Server with DDoS Protection](https://learn.microsoft.com/en-us/azure/route-server/tutorial-protect-route-server-ddos?toc=/azure/ddos-protection/TOC.json)
+    - [Deploy Firewall with DDoS Protection](https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall-ddos?toc=/azure/ddos-protection/TOC.json)
+    - [Deploy Application Gateway with DDoS Protection](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway-ddos?toc=/azure/ddos-protection/TOC.json)
+    - [Deploy Load Balancer with DDoS Protection](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer-ddos?toc=/azure/ddos-protection/TOC.json)
+  - Concepts
+    - [Azure DDoS Protection features](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-features)
+    - [Price comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-pricing-guide)
+    - [Reference architectures](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-reference-architectures)
+    - [Monitoring Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/ddos-protection/monitor-ddos-protection-reference)
+    - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-ddos?toc=/azure/ddos-protection/TOC.json)
+    - [Fundamental best practices](https://learn.microsoft.com/en-us/azure/ddos-protection/fundamental-best-practices)
+    - [Components of a DDoS response strategy](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-response-strategy)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-ddos-protection-security-baseline?toc=%2fazure%2fddos-protection%2ftoc.json?toc=/azure/ddos-protection/TOC.json)
+    - [Types of attacks](https://learn.microsoft.com/en-us/azure/ddos-protection/types-of-attacks)
+    - [Inline L7 DDoS protection with Gateway Load Balancer and partner NVAs](https://learn.microsoft.com/en-us/azure/ddos-protection/inline-protection-glb)
+    - [Onboard partners](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-partner-onboarding)
+    - [Manage permissions and restrictions](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-permissions)
+    - [DDoS Protection on Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos?toc=/azure/ddos-protection/TOC.json)
+  - How-to guides
+    - [Switch tiers](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-switch-ddos-protection-tier)
+    - [Engage DDoS Rapid Response DRR](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-rapid-response)
+    - [Defend against API Management DDoS attacks](https://learn.microsoft.com/en-us/azure/api-management/protect-with-ddos-protection?toc=/azure/ddos-protection/TOC.json)
+  - Reference
+    - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/ddos-protection/policy-reference)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/network/ddos-protection)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/Az.Network/New-AzDdosProtectionPlan)
+    - [.NET](https://learn.microsoft.com/dotnet/api/)
+    - [Java](https://learn.microsoft.com/java/api/)
+    - [Node.js](https://azure.microsoft.com/develop/nodejs/)
+    - [Python](https://azure.microsoft.com/develop/python/)
+    - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/ddosprotectionplans)
+    - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+  - Resources
+    - [FAQ](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-faq.yml)
+    - [Pricing](https://azure.microsoft.com/pricing/details/ddos-protection/)
+    - [Regional availability](https://azure.microsoft.com/global-infrastructure/services/?products=ddos-protection)

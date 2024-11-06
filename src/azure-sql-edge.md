@@ -1,0 +1,78 @@
+# Azure SQL Edge documentation
+> Azure SQL Edge is an optimized relational database engine geared for IoT and edge deployments.
+  - [SQL Edge Documentation](https://learn.microsoft.com/en-us/azure/azure-sql-edge/)
+  - Overview
+    - [What is SQL Edge?](https://learn.microsoft.com/en-us/azure/azure-sql-edge/overview)
+    - [Supported editions and features](https://learn.microsoft.com/en-us/azure/azure-sql-edge/features)
+    - [Release notes](https://learn.microsoft.com/en-us/azure/azure-sql-edge/release-notes)
+    - [Usage and diagnostics data collection](https://learn.microsoft.com/en-us/azure/azure-sql-edge/usage-and-diagnostics-data-configuration)
+  - Quickstarts
+    - [Deploy SQL Edge](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-portal)
+    - [Deploy with Docker](https://learn.microsoft.com/en-us/azure/azure-sql-edge/disconnected-deployment)
+    - [Deploy ONNX Models on SQL Edge](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-onnx)
+  - Tutorials
+    - [Deploy in Kubernetes](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-kubernetes)
+    - [Sync data with Azure Data Factory](https://learn.microsoft.com/en-us/azure/azure-sql-edge/tutorial-sync-data-factory)
+    - [Sync data with SQL Data Sync](https://learn.microsoft.com/en-us/azure/azure-sql-edge/tutorial-sync-data-sync)
+  - Concepts
+    - Deploy
+      - [Deploy using the Azure portal](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-portal)
+      - [Deploy with Docker](https://learn.microsoft.com/en-us/azure/azure-sql-edge/disconnected-deployment)
+      - [Deploy in Kubernetes](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-kubernetes)
+      - [Deploy with Azure Data Studio](https://learn.microsoft.com/azure-data-studio/deploy-azure-sql-edge?toc=/azure/azure-sql-edge/toc.json)
+    - Machine learning
+      - [Machine learning and AI with ONNX](https://learn.microsoft.com/en-us/azure/azure-sql-edge/onnx-overview)
+      - [Deploy ONNX models](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-onnx)
+    - Performance
+      - [Performance guidelines](https://learn.microsoft.com/en-us/azure/azure-sql-edge/performance-best-practices)
+    - Configure business continuity
+      - [Backup and restore](https://learn.microsoft.com/en-us/azure/azure-sql-edge/backup-restore)
+      - [High availability for containers](https://learn.microsoft.com/en-us/azure/azure-sql-edge/high-availability-sql-edge-containers)
+    - Data Streaming
+      - [Stream data](https://learn.microsoft.com/en-us/azure/azure-sql-edge/stream-data)
+      - [Create and manage streaming jobs](https://learn.microsoft.com/en-us/azure/azure-sql-edge/create-stream-analytics-job)
+      - [Create External Stream Transact-SQL](https://learn.microsoft.com/en-us/azure/azure-sql-edge/create-external-stream-transact-sql)
+      - [Drop External Stream Transact-SQL](https://learn.microsoft.com/en-us/azure/azure-sql-edge/drop-external-stream-transact-sql)
+      - Streaming views and DMVs
+        - [Streaming views and DMVs](https://learn.microsoft.com/en-us/azure/azure-sql-edge/streaming-catalog-views)
+        - [sys.external_job_streams Transact-SQL](https://learn.microsoft.com/en-us/azure/azure-sql-edge/sys-external-job-streams)
+        - [sys.external_streaming_jobs Transact-SQL](https://learn.microsoft.com/en-us/azure/azure-sql-edge/sys-external-streaming-jobs)
+        - [sys.external_streams Transact-SQL](https://learn.microsoft.com/en-us/azure/azure-sql-edge/sys-external-streams)
+    - Processing time series data
+      - [Time gaps and missing values](https://learn.microsoft.com/en-us/azure/azure-sql-edge/imputing-missing-values)
+      - [DATE_BUCKET Transact-SQL](https://learn.microsoft.com/en-us/azure/azure-sql-edge/date-bucket-tsql)
+      - [FIRST_VALUE Transact-SQL](https://learn.microsoft.com/sql/t-sql/functions/first-value-transact-sql?toc=/azure/azure-sql-edge/toc.json)
+      - [LAST_VALUE Transact-SQL](https://learn.microsoft.com/sql/t-sql/functions/last-value-transact-sql?toc=/azure/azure-sql-edge/toc.json)
+      - Data retention and cleanup
+        - [Data retention overview](https://learn.microsoft.com/en-us/azure/azure-sql-edge/data-retention-overview)
+        - [Enable or disable data retention](https://learn.microsoft.com/en-us/azure/azure-sql-edge/data-retention-enable-disable)
+        - [Data retention cleanup](https://learn.microsoft.com/en-us/azure/azure-sql-edge/data-retention-cleanup)
+        - [sys.sp_cleanup_data_retention Transact-SQL](https://learn.microsoft.com/en-us/azure/azure-sql-edge/sys-sp-cleanup-data-retention)
+    - Security
+      - [Security overview](https://learn.microsoft.com/en-us/azure/azure-sql-edge/security-overview)
+      - [Security features](https://learn.microsoft.com/sql/linux/sql-server-linux-security-get-started?toc=/azure/azure-sql-edge/toc.json)
+      - [Encrypting connections](https://learn.microsoft.com/sql/linux/sql-server-linux-encrypted-connections?toc=/azure/azure-sql-edge/toc.json)
+      - [Microsoft Defender for IoT](https://learn.microsoft.com/en-us/azure/defender-for-iot/overview?bc=/azure/azure-sql-edge/breadcrumb/toc.json&toc=/azure/azure-sql-edge/toc.json)
+  - How to
+    - Configure SQL Edge
+      - [Configure using environment variables](https://learn.microsoft.com/en-us/azure/azure-sql-edge/configure)
+      - [Configure using mssql.conf file](https://learn.microsoft.com/en-us/azure/azure-sql-edge/configure)
+      - [Run as non-root user](https://learn.microsoft.com/en-us/azure/azure-sql-edge/configure)
+      - [Persist data](https://learn.microsoft.com/en-us/azure/azure-sql-edge/configure)
+      - [Configure replication](https://learn.microsoft.com/en-us/azure/azure-sql-edge/configure-replication)
+    - [Connect to SQL Edge](https://learn.microsoft.com/en-us/azure/azure-sql-edge/connect)
+    - [Deploy DAC package](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-dacpac)
+    - [Track data changes](https://learn.microsoft.com/en-us/azure/azure-sql-edge/track-data-changes)
+    - [Manage T-SQL streaming jobs](https://learn.microsoft.com/en-us/azure/azure-sql-edge/create-stream-analytics-job)
+    - [Troubleshoot deployment issues](https://learn.microsoft.com/en-us/azure/azure-sql-edge/troubleshoot)
+  - Samples
+    - Iron Ore Silica prediction
+      - [Set up Azure resources](https://learn.microsoft.com/en-us/azure/azure-sql-edge/tutorial-deploy-azure-resources)
+      - [Set up IoT Edge Modules](https://learn.microsoft.com/en-us/azure/azure-sql-edge/tutorial-set-up-iot-edge-modules)
+      - [Deploy model to SQL Edge](https://learn.microsoft.com/en-us/azure/azure-sql-edge/tutorial-run-ml-model-on-sql-edge)
+    - [Renewable energy - wind turbine analytics](https://learn.microsoft.com/en-us/azure/azure-sql-edge/tutorial-renewable-energy-demo)
+  - Reference
+    - [Transact-SQL T-SQL Reference](https://learn.microsoft.com/sql/t-sql/language-reference)
+  - Resources
+    - Partners
+      - [Security](https://learn.microsoft.com/en-us/azure/azure-sql-edge/resources-partners-security)

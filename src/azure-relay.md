@@ -1,0 +1,59 @@
+# Azure Relay documentation
+> Learn how Azure Relay service allows you to securely expose services that run in your corporate network to the public cloud.
+  - [Azure Relay Documentation](https://learn.microsoft.com/en-us/azure/azure-relay/)
+  - Overview
+    - [What is Relay?](https://learn.microsoft.com/en-us/azure/azure-relay/relay-what-is-it)
+  - Tutorials
+    - Hybrid Connections
+      - [Send and receive messages - .NET WebSockets](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-dotnet-get-started)
+      - [Send and receive messages - .NET HTTP](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-http-requests-dotnet-get-started)
+      - [Send and receive messages - Node WebSockets](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-node-get-started)
+      - [Send and receive messages - Node HTTP](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-http-requests-node-get-started)
+      - [Send and receive messages - Java HTTP](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-java-get-started)
+      - [Send and receive messages - Python WebSockets](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-python-get-started)
+    - Windows Communication Foundation WCF
+      - [Expose an on-premises WCF service to a web application in the cloud](https://learn.microsoft.com/en-us/azure/azure-relay/service-bus-dotnet-hybrid-app-using-service-bus-relay)
+      - [Expose an on-premises WCF service to a WCF client outside your network](https://learn.microsoft.com/en-us/azure/azure-relay/service-bus-relay-tutorial)
+      - [Expose an on-premises WCF REST service to a client outside your network](https://learn.microsoft.com/en-us/azure/azure-relay/service-bus-relay-rest-tutorial)
+  - Samples
+    - [Hybrid Connections](https://github.com/Azure/azure-relay/tree/master/samples/hybrid-connections)
+    - [WCF Relay](https://github.com/Azure/azure-relay/tree/master/samples/wcf-relay)
+  - Concepts
+    - Security
+      - Authentication and authorization
+        - [Overview authentication and authorization](https://learn.microsoft.com/en-us/azure/azure-relay/relay-authentication-and-authorization)
+        - Use Microsoft Entra ID
+          - [Authenticate with managed identities](https://learn.microsoft.com/en-us/azure/azure-relay/authenticate-managed-identity)
+          - [Authenticate from an application](https://learn.microsoft.com/en-us/azure/azure-relay/authenticate-application)
+      - [Network security](https://learn.microsoft.com/en-us/azure/azure-relay/network-security)
+    - [Hybrid Connections protocol](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-protocol)
+  - How To
+    - [Move across regions](https://learn.microsoft.com/en-us/azure/azure-relay/move-across-regions)
+    - [Migrate from Azure Service Manager classic APIs to Resource Manager APIs](https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=%2fazure%2fservice-bus-relay%2ftoc.json)
+    - Develop
+      - [Create a namespace](https://learn.microsoft.com/en-us/azure/azure-relay/relay-create-namespace-portal)
+      - [Available APIs](https://learn.microsoft.com/en-us/azure/azure-relay/relay-api-overview)
+        - [.NET](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-dotnet-api-overview)
+        - [Node](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-node-ws-api-overview)
+    - Secure
+      - [Configure IP firewall](https://learn.microsoft.com/en-us/azure/azure-relay/ip-firewall-virtual-networks)
+      - [Configure private endpoints](https://learn.microsoft.com/en-us/azure/azure-relay/private-link-service)
+    - Manage and monitor
+      - [Monitor Azure Relay with Azure Monitoring](https://learn.microsoft.com/en-us/azure/azure-relay/relay-metrics-azure-monitor)
+      - [Set up diagnostic logs](https://learn.microsoft.com/en-us/azure/azure-relay/diagnostic-logs)
+  - Reference
+    - [REST](https://learn.microsoft.com/rest/api/relay/)
+    - .NET
+      - [Microsoft.Azure.Relay](https://learn.microsoft.com/dotnet/api/microsoft.azure.relay)
+      - [Microsoft.ServiceBus](https://learn.microsoft.com/dotnet/api/Microsoft.ServiceBus)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/relay)
+    - [Exceptions](https://learn.microsoft.com/en-us/azure/azure-relay/relay-exceptions)
+    - [Port settings](https://learn.microsoft.com/en-us/azure/azure-relay/relay-port-settings)
+  - Resources
+    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=enterprise-integration)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/azure-relay/relay-faq.yml)
+    - [Blog](https://learn.microsoft.com/archive/blogs/servicebus/)
+    - [Pricing](https://azure.microsoft.com/pricing/details/service-bus/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Samples](https://github.com/azure/azure-relay/tree/master/samples)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-servicebusrelay)

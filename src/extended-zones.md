@@ -1,0 +1,25 @@
+# Azure Extended Zones documentation
+> Azure Extended Zones are small-footprint extensions of Azure to serve low latency or data residency workloads.
+  - [Azure Extended Zones documentation](https://learn.microsoft.com/en-us/azure/extended-zones/)
+  - Overview
+    - [What is Azure Extended Zones?](https://learn.microsoft.com/en-us/azure/extended-zones/overview)
+  - Quickstarts
+    - [Deploy a VM in an Extended Zone - Portal](https://learn.microsoft.com/en-us/azure/extended-zones/deploy-vm-portal)
+    - [Deploy a VM in an Extended Zone - ARM template](https://learn.microsoft.com/en-us/azure/extended-zones/deploy-vm-arm-template)
+  - Tutorials
+    - [Back up a virtual machine](https://learn.microsoft.com/en-us/azure/extended-zones/backup-virtual-machine)
+  - Concepts
+    - [Extended Zones FAQ](https://learn.microsoft.com/en-us/azure/extended-zones/faq)
+  - How-to guides
+    - [Request access to an Extended Zone](https://learn.microsoft.com/en-us/azure/extended-zones/request-access)
+    - [Deploy an AKS cluster in an Extended Zone](https://learn.microsoft.com/en-us/azure/extended-zones/deploy-aks-cluster)
+    - [Deploy a storage account in an Extended Zone](https://learn.microsoft.com/en-us/azure/extended-zones/create-storage-account)
+    - [Request quota increase](https://learn.microsoft.com/en-us/azure/extended-zones/request-quota-increase)
+  - Reference
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/edge-zones)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.edgezones)
+  - Resources
+    - [Microsoft Q&A](https://learn.microsoft.com/answers/tags/133/azure)
+    - [Azure support](https://azure.microsoft.com/support/)
+    - [Service updates](https://azure.microsoft.com/updates)
+    - [SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)

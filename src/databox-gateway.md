@@ -1,0 +1,40 @@
+# Azure Data Box Gateway documentation - Online transfer
+> Use Azure Data Box Gateway devices for over-the-network data transfers for cloud archival purposes, disaster recovery, or to process data at cloud scale.
+  - [Azure Data Box Gateway Documentation](https://learn.microsoft.com/en-us/azure/databox-gateway/)
+  - Overview
+    - [What is Data Box Gateway?](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-overview)
+  - Tutorials
+    - [1 - Prepare](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-deploy-prep)
+    - [2A - Provision in Hyper-V](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-deploy-provision-hyperv)
+    - [2B - Provision in VMware](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-deploy-provision-vmware)
+    - [3 - Connect, set up, activate](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-deploy-connect-setup-activate)
+    - [4 - Add, connect to share](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-deploy-add-shares)
+  - Concepts
+    - [Review requirements](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-system-requirements)
+    - [Understand limits](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-limits)
+    - [Security overview](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-security)
+    - [View use cases](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-use-cases)
+  - How to
+    - [Update](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-apply-updates)
+    - Manage
+      - [Shares](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-manage-shares)
+      - [Users](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-manage-users)
+      - [Bandwidth schedules](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-manage-bandwidth-schedules)
+      - [Access, power, connectivity](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-manage-access-power-connectivity-mode)
+      - [Via PowerShell](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-connect-powershell-interface)
+    - [Monitor](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-monitor)
+    - Troubleshoot
+      - [Troubleshoot](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-troubleshoot)
+      - [Contact Microsoft Support](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-contact-microsoft-support)
+    - Release notes
+      - [2409 - Current](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2409-release-notes)
+      - [2301](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2301-release-notes)
+      - [2105](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2105-release-notes)
+      - [2101](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2101-release-notes)
+      - [2007](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2007-release-notes)
+      - [1911](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-1911-release-notes)
+      - [1906](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-1906-release-notes)
+      - [1905](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-1905-release-notes)
+      - [General availability GA](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-release-notes)
+  - Resources
+    - [Pricing](https://azure.microsoft.com/pricing/details/databox/gateway/)

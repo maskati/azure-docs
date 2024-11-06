@@ -1,0 +1,23 @@
+# Trusted Signing
+> Trusted Signing is a Microsoft fully managed, end-to-end signing solution for partner developers.
+  - [Trusted Signing documentation](https://learn.microsoft.com/en-us/azure/trusted-signing/)
+    - Overview
+      - [What is the Trusted Signing service?](https://learn.microsoft.com/en-us/azure/trusted-signing/overview)
+    - Quickstarts
+      - [Set up Trusted Signing](https://learn.microsoft.com/en-us/azure/trusted-signing/quickstart)
+    - How-to guides
+      - [Set up signing integrations to use Trusted Signing](https://learn.microsoft.com/en-us/azure/trusted-signing/how-to-signing-integrations)
+      - [Sign a CI policy by using Trusted Signing](https://learn.microsoft.com/en-us/azure/trusted-signing/how-to-sign-ci-policy)
+      - [Access signed transactions in Trusted Signing](https://learn.microsoft.com/en-us/azure/trusted-signing/how-to-sign-history)
+      - [Revoke a certificate profile in Trusted Signing](https://learn.microsoft.com/en-us/azure/trusted-signing/how-to-cert-revocation)
+      - [Renew or delete Trusted Signing identity validation](https://learn.microsoft.com/en-us/azure/trusted-signing/how-to-renew-identity-validation)
+      - [Change the account SKU pricing tier](https://learn.microsoft.com/en-us/azure/trusted-signing/how-to-change-sku)
+      - [Device Guard Signing Service Migration](https://learn.microsoft.com/en-us/azure/trusted-signing/how-to-device-guard-signing-service-migration)
+    - Tutorials
+      - [Assign roles in Trusted Signing](https://learn.microsoft.com/en-us/azure/trusted-signing/tutorial-assign-roles)
+    - Concepts
+      - [Trusted Signing trust models](https://learn.microsoft.com/en-us/azure/trusted-signing/concept-trusted-signing-trust-models)
+      - [Trusted Signing resources and roles](https://learn.microsoft.com/en-us/azure/trusted-signing/concept-trusted-signing-resources-roles)
+      - [Trusted Signing certificate management](https://learn.microsoft.com/en-us/azure/trusted-signing/concept-trusted-signing-cert-management)
+    - FAQ
+      - [Frequently asked questions about Trusted Signing](https://learn.microsoft.com/en-us/azure/trusted-signing/faq.yml)

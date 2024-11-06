@@ -1,0 +1,27 @@
+# Azure Peering Service documentation
+> Learn about Azure Peering Service
+  - [Peering Service Documentation](https://learn.microsoft.com/en-us/azure/peering-service/)
+  - Overview
+    - [About Peering Service](https://learn.microsoft.com/en-us/azure/peering-service/about)
+  - Concepts
+    - [Peering Service FAQ](https://learn.microsoft.com/en-us/azure/peering-service/faq.yml)
+    - [Locations and partners](https://learn.microsoft.com/en-us/azure/peering-service/location-partners)
+    - [Peering Service connection](https://learn.microsoft.com/en-us/azure/peering-service/connection)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/microsoft-azure-peering-service-security-baseline?toc=/azure/peering-service/TOC.json)
+    - [Peering service prefix requirements](https://learn.microsoft.com/en-us/azure/peering-service/peering-service-prefix-requirements)
+  - How-to-guides
+    - Manage Peering Service
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/peering-service/azure-portal)
+      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/peering-service/powershell)
+      - [Azure CLI](https://learn.microsoft.com/en-us/azure/peering-service/cli)
+    - [Access connection telemetry](https://learn.microsoft.com/en-us/azure/peering-service/connection-telemetry)
+    - [Azure Peering Service customer walkthrough](https://learn.microsoft.com/en-us/azure/peering-service/customer-walkthrough)
+  - References
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.peering)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/peering)
+  - Resources
+    - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Microsoft Q&A question page for Networking](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
+    - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)

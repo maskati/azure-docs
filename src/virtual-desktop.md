@@ -1,0 +1,282 @@
+# Azure Virtual Desktop documentation
+> Securely deliver virtual desktops and applications remotely with maximum control to any device from a flexible cloud virtual desktop infrastructure (VDI) platform. Bring together Microsoft 365 and Azure to provide users with the only multi-session Windows 11 and Windows 10 experience, with exceptional scale and reduced IT costs.
+  - [Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
+  - Overview
+    - [What is Azure Virtual Desktop?](https://learn.microsoft.com/en-us/azure/virtual-desktop/overview)
+    - [Terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
+    - [Service architecture and resilience](https://learn.microsoft.com/en-us/azure/virtual-desktop/service-architecture-resilience)
+    - What's new?
+      - [Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new)
+      - Azure Virtual Desktop Agent
+        - [Agent](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-agent)
+        - [SxS Network Stack](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-sxs)
+      - [Documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-documentation)
+      - [FSLogix](https://learn.microsoft.com/fslogix/whats-new?context=/azure/virtual-desktop/context/context)
+      - [Insights](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-insights)
+      - [MSIXMGR tool](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-msixmgr)
+      - [Multimedia redirection](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-multimedia-redirection)
+      - Remote Desktop app
+        - [Windows](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-windows)
+        - [macOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-macos)
+        - [iOS/iPadOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-ios-ipados)
+        - [Android/Chrome OS](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-android-chrome-os)
+      - [WebRTC Redirector Service](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-webrtc)
+      - [Windows App](https://learn.microsoft.com/windows-app/whats-new?context=/azure/virtual-desktop/context/context)
+  - Tutorials
+    - [Deploy a sample Windows 11 desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/tutorial-try-deploy-windows-11-desktop)
+  - Plan
+    - [Internal and external commercial purposes](https://learn.microsoft.com/en-us/azure/virtual-desktop/organization-internal-external-commercial-purposes-recommendations)
+    - Licensing and costs
+      - [Understand and estimate costs](https://learn.microsoft.com/en-us/azure/virtual-desktop/understand-estimate-costs)
+      - [Licensing](https://learn.microsoft.com/en-us/azure/virtual-desktop/licensing)
+    - [Identities and authentication](https://learn.microsoft.com/en-us/azure/virtual-desktop/authentication)
+    - Infrastructure
+      - [Virtual machine sizing guidance](https://learn.microsoft.com/windows-server/remote/remote-desktop-services/virtual-machine-recs?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+      - [Understanding network connectivity](https://learn.microsoft.com/en-us/azure/virtual-desktop/network-connectivity)
+      - [Bandwidth considerations](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth)
+      - [Azure Stack HCI](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-stack-hci-overview)
+      - [Azure Extended Zones](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-extended-zones)
+    - [Security recommendations](https://learn.microsoft.com/en-us/azure/virtual-desktop/security-recommendations)
+    - [Data locations](https://learn.microsoft.com/en-us/azure/virtual-desktop/data-locations)
+    - [Prerequisites](https://learn.microsoft.com/en-us/azure/virtual-desktop/prerequisites)
+  - Deploy
+    - [Host pool management approaches](https://learn.microsoft.com/en-us/azure/virtual-desktop/host-pool-management-approaches)
+    - [Deploy Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/deploy-azure-virtual-desktop)
+    - [Quickstart](https://learn.microsoft.com/en-us/azure/virtual-desktop/quickstart)
+    - Identity and access management
+      - Azure RBAC
+        - [Available RBAC roles for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/rbac)
+        - [Assign RBAC roles to the service principals](https://learn.microsoft.com/en-us/azure/virtual-desktop/service-principal-assign-roles)
+      - Single sign-on
+        - [Configure single sign-on using Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-single-sign-on)
+        - Active Directory Federation Services
+          - [Configure single sign-on using AD FS](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-adfs-sso)
+          - [Use a KDC proxy](https://learn.microsoft.com/en-us/azure/virtual-desktop/key-distribution-center-proxy)
+      - [Enforce Microsoft Entra multifactor authentication](https://learn.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa)
+      - [Delegated access](https://learn.microsoft.com/en-us/azure/virtual-desktop/delegated-access-virtual-desktop)
+    - Network connectivity
+      - FQDNs and endpoints
+        - [Required FQDNs and endpoints](https://learn.microsoft.com/en-us/azure/virtual-desktop/required-fqdn-endpoint)
+        - [Check access to required FQDNs and endpoints](https://learn.microsoft.com/en-us/azure/virtual-desktop/check-access-validate-required-fqdn-endpoint)
+      - RDP Shortpath
+        - [RDP Shortpath overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-shortpath)
+        - [Configure RDP Shortpath](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-rdp-shortpath)
+        - [Implement Quality of Service for RDP Shortpath](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-quality-of-service-qos)
+      - Private Link
+        - [Private Link with Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-overview)
+        - [Configure Private Link with Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-setup)
+      - [Proxy support guidelines](https://learn.microsoft.com/en-us/azure/virtual-desktop/proxy-server-support)
+      - [Use Azure Firewall to protect Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/firewall/protect-azure-virtual-desktop?context=%2fazure%2fvirtual-desktop%2fcontext%2fcontext)
+    - Session hosts
+      - [Azure Virtual Desktop Agent](https://learn.microsoft.com/en-us/azure/virtual-desktop/agent-overview)
+      - [Microsoft Entra joined session hosts](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-ad-joined-session-hosts)
+      - Customize session host images
+        - Custom image templates
+          - [Custom image templates overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/custom-image-templates)
+          - [Create custom images with Custom image templates](https://learn.microsoft.com/en-us/azure/virtual-desktop/create-custom-image-templates)
+        - Manual image creation
+          - [Create a session host image with Azure](https://learn.microsoft.com/en-us/azure/virtual-desktop/set-up-golden-image)
+          - [Create a session host image with Hyper-V](https://learn.microsoft.com/en-us/azure/virtual-desktop/set-up-customize-master-image)
+          - [Install Office on a VHD image](https://learn.microsoft.com/en-us/azure/virtual-desktop/install-office-on-wvd-master-image)
+          - Add languages
+            - [Windows 10 multi-session images](https://learn.microsoft.com/en-us/azure/virtual-desktop/language-packs)
+            - [Windows 11 Enterprise images](https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-11-language-packs)
+      - [Add session hosts to a host pool](https://learn.microsoft.com/en-us/azure/virtual-desktop/add-session-hosts-host-pool)
+      - Multimedia redirection
+        - [Redirect video playback and calls](https://learn.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection-video-playback-calls)
+        - [Developer integration for WebRTC call apps](https://learn.microsoft.com/en-us/azure/virtual-desktop/multimedia-redirection-developer-integration)
+      - Graphics encoding
+        - [Graphics encoding overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/graphics-encoding)
+        - [Enable GPU acceleration](https://learn.microsoft.com/en-us/azure/virtual-desktop/graphics-enable-gpu-acceleration)
+        - [Increase chroma value to 4:4:4](https://learn.microsoft.com/en-us/azure/virtual-desktop/graphics-chroma-value-increase-4-4-4)
+      - [Windows Enterprise multi-session FAQ](https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-multisession-faq.yml)
+      - [Fair Share technologies](https://learn.microsoft.com/windows-server/remote/remote-desktop-services/fair-share-enabled-by-default-rds?toc=/azure/virtual-desktop/toc.json&bc=/azure/virtual-desktop/breadcrumb/toc.json)
+    - User profile management
+      - [FSLogix profile container overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/fslogix-profile-containers)
+      - [Storage options for FSLogix profile container](https://learn.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile)
+      - FSLogix profile container storage guides
+        - [Use a VM-based file share](https://learn.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-user-profile)
+        - [Use Azure NetApp Files](https://learn.microsoft.com/en-us/azure/virtual-desktop/create-fslogix-profile-container)
+        - [Use Azure Files and Active Directory](https://learn.microsoft.com/en-us/azure/virtual-desktop/fslogix-profile-container-configure-azure-files-active-directory)
+        - [Use Azure Files and Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/virtual-desktop/create-profile-container-azure-ad.yml)
+    - Applications
+      - [Publish applications with RemoteApp](https://learn.microsoft.com/en-us/azure/virtual-desktop/publish-applications-stream-remoteapp)
+      - [Microsoft Teams supported features](https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-supported-features)
+      - Preferred application group type
+        - [Preferred application group type overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/preferred-application-group-type)
+        - [Set preferred application group type](https://learn.microsoft.com/en-us/azure/virtual-desktop/set-preferred-application-group-type)
+      - App attach
+        - [App attach overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-overview)
+        - [Create an MSIX image](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-create-msix-image)
+        - [Add and manage app attach applications](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-setup)
+        - [Test MSIX packages](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-test-msix-packages)
+        - [Migrate from MSIX app attach to app attach](https://learn.microsoft.com/en-us/azure/virtual-desktop/msix-app-attach-migration)
+        - [Partner solutions with app attach](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-partner-solutions)
+        - [MSIXMGR tool parameters](https://learn.microsoft.com/en-us/azure/virtual-desktop/msixmgr-tool-syntax-description)
+      - Specific applications
+        - [Use Microsoft Teams](https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
+        - [Use OneDrive with RemoteApp](https://learn.microsoft.com/en-us/azure/virtual-desktop/onedrive-remoteapp)
+    - Migrate from classic
+      - [Migrate automatically](https://learn.microsoft.com/en-us/azure/virtual-desktop/automatic-migration)
+      - [Migrate manually](https://learn.microsoft.com/en-us/azure/virtual-desktop/manual-migration)
+    - [Azure Virtual Desktop FAQ](https://learn.microsoft.com/en-us/azure/virtual-desktop/faq.yml)
+  - Manage
+    - Host pools
+      - [Set custom RDP properties](https://learn.microsoft.com/en-us/azure/virtual-desktop/customize-rdp-properties)
+      - [Configure load balancing method](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-host-pool-load-balancing)
+      - [Configure personal desktop assignment](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-host-pool-personal-desktop-assignment-type)
+      - [Configure a validation environment](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-validation-environment)
+      - [Schedule Agent updates](https://learn.microsoft.com/en-us/azure/virtual-desktop/scheduled-agent-updates)
+      - [Customize resource display names](https://learn.microsoft.com/en-us/azure/virtual-desktop/customize-feed-for-virtual-desktop-users)
+      - [Delete a host pool](https://learn.microsoft.com/en-us/azure/virtual-desktop/delete-host-pool)
+    - Session hosts
+      - Manage session hosts
+        - [Management overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/management)
+        - Manage with Intune
+          - [Manage Windows single-session](https://learn.microsoft.com/mem/intune/fundamentals/azure-virtual-desktop?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+          - [Manage Windows multi-session](https://learn.microsoft.com/mem/intune/fundamentals/azure-virtual-desktop-multi-session?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+        - [Deploy updates with Configuration Manager](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-automatic-updates)
+      - [Drain session hosts](https://learn.microsoft.com/en-us/azure/virtual-desktop/drain-mode)
+      - Update session hosts
+        - [Session host update overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/session-host-update)
+        - [Use session host update](https://learn.microsoft.com/en-us/azure/virtual-desktop/session-host-update-configure)
+        - [Session host update diagnostic queries](https://learn.microsoft.com/en-us/azure/virtual-desktop/session-host-update-diagnostics)
+      - Scale session hosts
+        - Autoscale
+          - [How autoscale works](https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-scenarios)
+          - [Autoscale glossary](https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-glossary)
+          - [Autoscale FAQ](https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-faq.yml)
+          - [Create and assign a scaling plan](https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-create-assign-scaling-plan)
+          - [Monitor Autoscale operations](https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-monitor-operations-insights)
+          - [Set up diagnostics for Autoscale](https://learn.microsoft.com/en-us/azure/virtual-desktop/autoscale-diagnostics)
+        - Azure Automation and Azure Logic Apps
+          - [How the scaling tool works](https://learn.microsoft.com/en-us/azure/virtual-desktop/scaling-automation-logic-apps)
+          - [Scale with a runbook and logic app](https://learn.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script)
+      - Power management
+        - [Configure Start VM on Connect](https://learn.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect)
+        - [Start VM on Connect FAQ](https://learn.microsoft.com/en-us/azure/virtual-desktop/start-virtual-machine-connect-faq)
+      - [Administrative template](https://learn.microsoft.com/en-us/azure/virtual-desktop/administrative-template)
+    - Security
+      - [Apply Zero Trust principles](https://learn.microsoft.com/security/zero-trust/azure-infrastructure-avd?context=/azure/virtual-desktop/context/context)
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-desktop-security-baseline?context=/azure/virtual-desktop/context/context)
+      - [Screen capture protection](https://learn.microsoft.com/en-us/azure/virtual-desktop/screen-capture-protection)
+      - [Watermarking](https://learn.microsoft.com/en-us/azure/virtual-desktop/watermarking)
+      - [Onboard to Purview forensic evidence](https://learn.microsoft.com/en-us/azure/virtual-desktop/purview-forensic-evidence)
+    - Licensing and pricing
+      - [Enroll in per-user access pricing](https://learn.microsoft.com/en-us/azure/virtual-desktop/enroll-per-user-access-pricing)
+      - [Use Azure Virtual Desktop license](https://learn.microsoft.com/en-us/azure/virtual-desktop/apply-windows-license)
+    - [Disaster recovery concepts](https://learn.microsoft.com/en-us/azure/virtual-desktop/disaster-recovery-concepts)
+    - [Use Azure CLI and Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-desktop/cli-powershell)
+    - [Move resources between regions](https://learn.microsoft.com/en-us/azure/virtual-desktop/move-resources)
+    - [Set up email discovery](https://learn.microsoft.com/windows-server/remote/remote-desktop-services/rds-email-discovery?context=/azure/virtual-desktop/context/context)
+    - [Tag resources](https://learn.microsoft.com/en-us/azure/virtual-desktop/tag-virtual-desktop-resources)
+  - Connect
+    - Windows App
+      - [What is Windows App?](https://learn.microsoft.com/windows-app/overview)
+      - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?pivots=azure-virtual-desktop)
+      - [Windows App documentation](https://learn.microsoft.com/windows-app/)
+    - Remote Desktop app
+      - [Remote Desktop app overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/remote-desktop-clients-overview?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
+      - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-windows?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+      - Use Remote Desktop app features
+        - [Windows](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-windows?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
+        - [Web browser](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-web?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
+        - [macOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-macos?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
+        - [iOS/iPadOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-ios-ipados?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
+        - [Android/Chrome OS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-android-chrome-os?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
+      - [Compare the Remote Desktop app across platforms](https://learn.microsoft.com/en-us/azure/virtual-desktop/compare-remote-desktop-clients)
+      - [Install the Remote Desktop app for Windows on a per-user basis](https://learn.microsoft.com/en-us/azure/virtual-desktop/install-windows-client-per-user)
+      - [Uniform Resource Identifier schemes](https://learn.microsoft.com/en-us/azure/virtual-desktop/uri-scheme)
+    - Peripheral and resource redirection
+      - [Peripheral and resource redirection overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-remote-desktop-protocol)
+      - Guides
+        - [Audio and video](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-audio-video)
+        - [Cameras, webcams, and video capture](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-camera-webcam-video-capture)
+        - [Clipboard](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-clipboard)
+        - [Clipboard transfer direction and data types](https://learn.microsoft.com/en-us/azure/virtual-desktop/clipboard-transfer-direction-data-types)
+        - [Drives and storage](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-drives-storage)
+        - [Location](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-location)
+        - [MTP and PTP](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-plug-play-mtp-ptp)
+        - [Printers](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-printers)
+        - [Serial/COM ports](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-serial-com-ports)
+        - [Smart cards](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-smart-cards)
+        - [USB](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-usb)
+        - [WebAuthn](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-webauthn)
+      - [Configure client redirection using Intune](https://learn.microsoft.com/en-us/azure/virtual-desktop/client-device-redirection-intune)
+    - [Supported RDP properties](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-properties)
+    - [Print using Universal Print](https://learn.microsoft.com/universal-print/fundamentals/universal-print-avd?toc=/azure/virtual-desktop/toc.json)
+    - [Thin client partners](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-thin-clients?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+  - Monitor
+    - Azure Virtual Desktop Insights
+      - [Estimate Azure Monitor costs](https://learn.microsoft.com/en-us/azure/virtual-desktop/insights-costs)
+      - [Glossary](https://learn.microsoft.com/en-us/azure/virtual-desktop/insights-glossary)
+      - [Use cases for Azure Virtual Desktop Insights](https://learn.microsoft.com/en-us/azure/virtual-desktop/insights-use-cases)
+      - [Enable Insights](https://learn.microsoft.com/en-us/azure/virtual-desktop/insights)
+    - Connection quality
+      - [User connection quality data](https://learn.microsoft.com/en-us/azure/virtual-desktop/connection-latency)
+      - [Collect and query user connection quality data](https://learn.microsoft.com/en-us/azure/virtual-desktop/connection-quality-monitoring)
+    - [Send diagnostic data to Log Analytics](https://learn.microsoft.com/en-us/azure/virtual-desktop/diagnostics-log-analytics)
+    - [Session host status and health checks](https://learn.microsoft.com/en-us/azure/virtual-desktop/session-host-status-health-checks)
+    - [Monitor Agent updates](https://learn.microsoft.com/en-us/azure/virtual-desktop/agent-updates-diagnostics)
+    - [Create Azure Service Health alerts](https://learn.microsoft.com/en-us/azure/virtual-desktop/set-up-service-alerts)
+    - [Resolve Azure Advisor recommendations](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-advisor-recommendations)
+  - Troubleshoot
+    - [Troubleshooting overview, feedback, and support](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-overview)
+    - Host pools and session hosts
+      - [Host pool creation](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-issues)
+      - [Quickstart](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-quickstart)
+      - [Session host update](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-session-host-update)
+      - [Session host virtual machine configuration](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-vm-configuration)
+      - [Session host statuses and health checks](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-statuses-checks)
+    - [Management issues](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-management-issues)
+    - [Azure Virtual Desktop PowerShell](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-powershell)
+    - [Azure Virtual Desktop Agent](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-agent)
+    - [Remote Desktop service connections](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-service-connection)
+    - Remote Desktop app
+      - [Windows Desktop client basic troubleshooting](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-windows-basic-shared)
+      - [Windows Desktop client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-windows)
+      - [Azure Virtual Desktop Store app](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-windows-azure-virtual-desktop-app)
+      - [Web client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-web)
+      - [macOS client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-macos)
+      - [iOS/iPadOS client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-ios-ipados)
+      - [Android/Chrome OS client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-android-chrome-os)
+      - [Remote Desktop app for Windows](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-microsoft-store)
+    - [Diagnosing graphics performance issues](https://learn.microsoft.com/en-us/azure/virtual-desktop/remotefx-graphics-performance-counters)
+    - [Connections to Microsoft Entra joined VMs](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-azure-ad-connections)
+    - [Device redirections](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-device-redirections)
+    - [Azure Virtual Desktop Insights](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-insights)
+    - [Azure Files authorization](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-authorization)
+    - [Connection quality issues](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-connection-quality)
+    - [RDP Shortpath](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-rdp-shortpath)
+    - [Multimedia redirection](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-multimedia-redirection)
+    - [Microsoft Teams](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-teams)
+    - [Custom image templates](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-custom-image-templates)
+    - [App attach](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-app-attach)
+  - Reference
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/desktopvirtualization)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.desktopvirtualization)
+    - [Bicep](https://learn.microsoft.com/azure/templates/microsoft.desktopvirtualization/hostpools?pivots=deployment-language-bicep)
+    - [Azure Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.desktopvirtualization/hostpools?pivots=deployment-language-arm)
+    - [Terraform](https://learn.microsoft.com/azure/templates/microsoft.desktopvirtualization/hostpools?pivots=deployment-language-terraform)
+    - [REST API](https://learn.microsoft.com/rest/api/desktopvirtualization/)
+    - [MSIXMGR tool parameters](https://learn.microsoft.com/en-us/azure/virtual-desktop/msixmgr-tool-syntax-description)
+  - Resources
+    - Pricing
+      - [Azure Virtual Desktop pricing](https://azure.microsoft.com/pricing/details/virtual-desktop/)
+      - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Learning paths](https://learn.microsoft.com/training/browse/?expanded=azure&products=azure-virtual-desktop&resource_type=learning path)
+    - Framework and architectures
+      - [Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/wvd)
+      - [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/browse/?expanded=azure&products=azure-virtual-desktop)
+      - Example architecture scenarios
+        - [Azure Virtual Desktop for the enterprise](https://learn.microsoft.com/azure/architecture/example-scenario/wvd/windows-virtual-desktop?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+        - Multiple identity sources
+          - [AD DS and Microsoft Entra ID](https://learn.microsoft.com/azure/architecture/example-scenario/wvd/multi-forest?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+          - [Microsoft Entra ID, AD DS, and Microsoft Entra Domain Services](https://learn.microsoft.com/azure/architecture/example-scenario/wvd/multi-forest-azure-managed?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+    - [How-to videos](https://support.microsoft.com/help/4563049/how-to-videos-about-windows-virtual-desktop)
+    - [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/bd-p/AzureVirtualDesktopForum)
+    - [Azure Resource Manager templates](https://github.com/Azure/RDS-Templates/tree/master/ARM-wvd-templates)
+    - [Terraform samples](https://learn.microsoft.com/azure/developer/terraform/configure-azure-virtual-desktop)
+    - [App Assure for Azure Virtual Desktop](https://learn.microsoft.com/microsoft-365/fasttrack/windows-and-other-services)
+    - [Azure compliance offerings](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)
+    - [Azure Virtual Desktop classic documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/virtual-desktop-fall-2019/)

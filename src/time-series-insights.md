@@ -1,0 +1,121 @@
+# Azure Time Series Insights Documentation
+> Learn how to run Azure IoT analytics in the cloud with fully managed event processing using quickstarts, tutorials, JavaScript samples, and REST API documentation. Analyze data from applications, sensors, devices, and more in real time.
+  - [Azure Time Series Insights documentation](https://learn.microsoft.com/en-us/azure/time-series-insights/)
+  - Overview
+    - [What is Time Series Insights Gen2](https://learn.microsoft.com/en-us/azure/time-series-insights/overview-what-is-tsi)
+    - [Use cases](https://learn.microsoft.com/en-us/azure/time-series-insights/overview-use-cases)
+  - Quickstarts
+    - [Explore Time Series Insights Gen2](https://learn.microsoft.com/en-us/azure/time-series-insights/quickstart-explore-tsi)
+  - Tutorials
+    - [Set up a Time Series Insights Gen2 environment](https://learn.microsoft.com/en-us/azure/time-series-insights/tutorial-set-up-environment)
+    - [Model synchronization between Azure Digital Twins and Time Series Insights Gen2](https://learn.microsoft.com/en-us/azure/time-series-insights/tutorials-model-sync)
+  - Concepts
+    - Azure Time Series Insights Gen2
+      - Ingress & storage
+        - [Ingestion overview](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-ingestion-overview)
+        - [Supported data types](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-supported-data-types)
+        - [Streaming ingestion event sources](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-streaming-ingestion-event-sources)
+        - [JSON flattening and escaping rules](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-json-flattening-escaping-rules)
+        - [Streaming ingress throughput limits](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-streaming-ingress-throughput-limits)
+        - [Storage](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-storage)
+      - Model
+        - [Model overview](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-model-overview)
+        - [Variables](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-variables)
+      - Query
+        - [Query overview](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-query-overview)
+      - Visualize in Explorer
+        - [UX panels](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-ux-panels)
+      - Breaking Changes
+        - [Adding support for long data type](https://learn.microsoft.com/en-us/azure/time-series-insights/breaking-changes-long-data-type)
+        - [Changes to JSON flattening and storage](https://learn.microsoft.com/en-us/azure/time-series-insights/ingestion-rules-update)
+      - Security
+        - [Private network access](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-private-links)
+    - Azure Time Series Insights Gen1
+      - [About Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-overview)
+      - [Plan your environment](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-environment-planning)
+      - [Visualize data in the explorer](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-explorer)
+      - [Understand data retention](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-concepts-retention)
+    - Develop
+      - [Authenticate and authorize](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-authentication-and-authorization)
+      - [Query data by using C# - Gen2](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-update-query-data-csharp)
+      - [Query data by using C# - Gen1](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-query-data-csharp)
+      - [Manage reference data in C# - Gen1](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-manage-reference-data-csharp)
+      - [Share a custom view](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-parameterized-urls)
+  - How-to guides
+    - [Migrate to Fabric Real-Time Intelligence](https://learn.microsoft.com/en-us/azure/time-series-insights/migration-to-fabric)
+    - [Grant data access](https://learn.microsoft.com/en-us/azure/time-series-insights/concepts-access-policies)
+    - [Connect to Event Hubs](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-ingest-data-event-hub)
+    - [Connect to IoT Hub](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-ingest-data-iot-hub)
+    - [Monitor Azure Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-monitor-tsi)
+    - [Manage resources by using templates](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-manage-resources-using-azure-resource-manager-template)
+    - [Enable private access for TSI](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-private-links)
+    - Azure Time Series Insights Gen2
+      - Best practices
+        - [Plan your environment](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-plan-your-environment)
+      - Management
+        - [How to create an environment using the Azure CLI](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-create-environment-using-cli)
+        - [How to create an environment using the Azure portal](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-create-environment-using-portal)
+        - [How to manage an environment](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-provision-manage)
+        - [How to select a TSID](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-select-tsid)
+        - [How to diagnose & troubleshoot](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-diagnose-troubleshoot)
+      - Model
+        - [How to edit your model](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-edit-your-model)
+      - Connectors
+        - [How to connect to Power BI](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-connect-power-bi)
+      - Migrations
+        - [How to migrate to new API versions](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-api-migration)
+        - [How to migrate to Fabric Real-Time Intelligence](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-tsi-gen2-migration)
+    - Azure Time Series Insights Gen1
+      - [Explore Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-quickstart)
+      - [Create and populate an environment](https://learn.microsoft.com/en-us/azure/time-series-insights/tutorial-create-populate-tsi-environment)
+      - [Create an environment in Azure portal](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-get-started)
+      - [Configure data retention](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-how-to-configure-retention)
+      - [Create a reference data set](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-add-reference-data-set)
+      - [Send events](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-send-events)
+      - [Scale your environment](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-how-to-scale-your-environment)
+      - [Mitigate throttling](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-environment-mitigate-latency)
+      - [Diagnose and troubleshoot](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-diagnose-and-solve-problems)
+      - [How to migrate to Fabric Real-Time Intelligence](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-tsi-gen1-migration)
+  - Reference
+    - Time Series Insights
+      - [REST APIs Overview](https://learn.microsoft.com/rest/api/time-series-insights/)
+      - Data Access Gen2
+        - [Overview](https://learn.microsoft.com/rest/api/time-series-insights/reference-data-access-overview)
+        - [Environments APIs](https://learn.microsoft.com/rest/api/time-series-insights/reference-environments-apis)
+        - [Model APIs](https://learn.microsoft.com/rest/api/time-series-insights/reference-model-apis)
+        - [Query APIs](https://learn.microsoft.com/rest/api/time-series-insights/reference-query-apis)
+        - [Time Series Expression TSX](https://learn.microsoft.com/rest/api/time-series-insights/reference-time-series-expression-syntax)
+        - [API Limits](https://learn.microsoft.com/rest/api/time-series-insights/reference-api-limits)
+      - Data Access Gen1
+        - [Overview](https://learn.microsoft.com/rest/api/time-series-insights/gen1)
+        - Query
+          - [Query](https://learn.microsoft.com/rest/api/time-series-insights/gen1-query)
+          - [API](https://learn.microsoft.com/rest/api/time-series-insights/gen1-query-api)
+          - [Syntax](https://learn.microsoft.com/rest/api/time-series-insights/gen1-query-syntax)
+        - [Reference Data API](https://learn.microsoft.com/rest/api/time-series-insights/gen1-reference-data-api)
+    - Client SDK
+      - [JavaScript Client SDK](https://github.com/microsoft/tsiclient/blob/master/docs/API)
+    - [Monitor data reference](https://learn.microsoft.com/en-us/azure/time-series-insights/how-to-monitor-tsi-reference)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/tsi)
+  - Resources
+    - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help?toc=/azure/time-series-insights/toc.json&bc=/azure/time-series-insights/breadcrumb/toc.json)
+    - [Customer data requests](https://learn.microsoft.com/en-us/azure/time-series-insights/time-series-insights-customer-data-requests)
+    - Developer resources
+      - [Azure Time Series Insights code samples](https://github.com/Azure-Samples/Azure-Time-Series-Insights/)
+      - [JavaScript Client SDK](https://github.com/Microsoft/tsiclient)
+      - [Hosted client samples](https://tsiclientsample.azurewebsites.net/)
+      - [Azure IoT code samples](https://learn.microsoft.com/samples/browse/?term=iot)
+    - Pricing and availability
+      - [Pricing](https://azure.microsoft.com/pricing/details/time-series-insights/)
+      - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+      - [Region availability](https://azure.microsoft.com/regions/services/)
+    - Support and help options
+      - [Azure support options](https://azure.microsoft.com/support/options/)
+      - [Azure IoT support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help)
+      - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-timeseries-insights)
+      - [MSDN forum](https://social.msdn.microsoft.com/Forums/home?forum=AzureTimeSeriesInsights)
+    - Feedback and forums
+      - [MSDN forum](https://social.msdn.microsoft.com/Forums/home?forum=AzureTimeSeriesInsights)
+      - [Product requests and suggestions](https://feedback.azure.com/d365community/forum/873d6d1c-0c25-ec11-b6e6-000d3a4f07b8)
+    - [Azure videos](https://azure.microsoft.com/resources/videos/index/?services=time-series-insights)
+    - [Azure IoT updates](https://azure.microsoft.com/roadmap/?category=iot)

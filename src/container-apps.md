@@ -1,0 +1,210 @@
+# Azure Container Apps documentation
+> Azure Container Apps allows you to run containerized applications without worrying about orchestration or infrastructure.
+  - [Azure Container Apps documentation](https://learn.microsoft.com/en-us/azure/container-apps/)
+  - Get started
+    - [About Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/overview)
+    - [Introduction to containers](https://learn.microsoft.com/en-us/azure/container-apps/start-containers)
+    - [Use serverless containers](https://learn.microsoft.com/en-us/azure/container-apps/start-serverless-containers)
+    - Quickstarts
+      - Deploy from an existing container image
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/container-apps/quickstart-portal)
+        - [Command line](https://learn.microsoft.com/en-us/azure/container-apps/get-started)
+      - Deploy from code
+        - [Local filesystem](https://learn.microsoft.com/en-us/azure/container-apps/quickstart-code-to-cloud)
+        - [Code repository](https://learn.microsoft.com/en-us/azure/container-apps/quickstart-repo-to-cloud)
+        - [Visual Studio](https://learn.microsoft.com/en-us/azure/container-apps/deploy-visual-studio)
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/container-apps/deploy-visual-studio-code)
+      - Deploy from artifact preview
+        - [Command line](https://learn.microsoft.com/en-us/azure/container-apps/deploy-artifact)
+      - Run a job
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-portal)
+        - [Command line](https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-cli)
+  - Key concepts
+    - [Compare container options in Azure](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
+    - [Plans](https://learn.microsoft.com/en-us/azure/container-apps/plans)
+    - [Environment](https://learn.microsoft.com/en-us/azure/container-apps/environment)
+    - [Containers](https://learn.microsoft.com/en-us/azure/container-apps/containers)
+    - [Revisions](https://learn.microsoft.com/en-us/azure/container-apps/revisions)
+    - [Application lifecycle management](https://learn.microsoft.com/en-us/azure/container-apps/application-lifecycle-management)
+    - [Jobs](https://learn.microsoft.com/en-us/azure/container-apps/jobs)
+    - Dynamic sessions
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
+      - [Code interpreter sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
+      - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
+    - [Microservices](https://learn.microsoft.com/en-us/azure/container-apps/microservices)
+    - [Build and deliver apps with Container Apps video](https://www.youtube.com/watch?v=b3dopSTnSRg)
+  - Develop & deploy
+    - [Deployment options](https://learn.microsoft.com/en-us/azure/container-apps/code-to-cloud-options)
+    - [Deploy an app with containerapp up](https://learn.microsoft.com/en-us/azure/container-apps/containerapp-up)
+    - [Create and deploy a container app using the CLI](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-deploy-first-app-cli)
+    - Connect to apps & services
+      - Connect to services
+        - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/services)
+        - Tutorials
+          - [Apache Kafka](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-dev-services-kafka)
+          - [PostgreSQL](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-dev-services-postgresql)
+          - [Qdrant](https://learn.microsoft.com/en-us/azure/container-apps/add-ons-qdrant)
+          - [Redis](https://learn.microsoft.com/en-us/azure/container-apps/connect-services)
+      - [Connect multiple apps](https://learn.microsoft.com/en-us/azure/container-apps/connect-apps)
+      - Connect to a cloud service using Service Connector
+        - [.NET app with Blob Storage](https://learn.microsoft.com/en-us/azure/container-apps/service-connector)
+        - [Java Quarkus app with Postgres DB](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-java-quarkus-connect-managed-identity-postgresql-database)
+    - Build a multiple app scenario
+      - [Deploy a backend microservice app](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-code-to-cloud)
+      - [Deploy a frontend microservice app](https://learn.microsoft.com/en-us/azure/container-apps/communicate-between-microservices)
+    - Continuous deployment
+      - [Azure Pipelines](https://learn.microsoft.com/en-us/azure/container-apps/azure-pipelines)
+      - [GitHub Actions](https://learn.microsoft.com/en-us/azure/container-apps/github-actions)
+      - [GitHub Actions with Azure CLI](https://learn.microsoft.com/en-us/azure/container-apps/github-actions-cli)
+      - [Deploy self-hosted CI/CD runners with jobs](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-ci-cd-runners-jobs)
+    - [Revision management](https://learn.microsoft.com/en-us/azure/container-apps/revisions-manage)
+    - [Environment Variables](https://learn.microsoft.com/en-us/azure/container-apps/environment-variables)
+    - [Use health probes](https://learn.microsoft.com/en-us/azure/container-apps/health-probes)
+    - Storage mounts
+      - [Use storage mounts](https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts)
+      - [Create an Azure Files storage mount](https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts-azure-files)
+    - Use dynamic sessions
+      - Code interpreter sessions
+        - [AutoGen](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen)
+        - [LangChain](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain)
+        - [LlamaIndex](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex)
+        - [Semantic Kernel](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel)
+    - Event-driven processing
+      - [With a job](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs)
+    - [Troubleshooting](https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting)
+    - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
+  - Observability
+    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
+    - [Application logging](https://learn.microsoft.com/en-us/azure/container-apps/logging)
+    - [Real time data](https://learn.microsoft.com/en-us/azure/container-apps/aspire-dashboard)
+    - [Logging options](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
+    - [Log streaming](https://learn.microsoft.com/en-us/azure/container-apps/log-streaming)
+    - [Container console](https://learn.microsoft.com/en-us/azure/container-apps/container-console)
+    - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/metrics)
+    - [Log monitoring](https://learn.microsoft.com/en-us/azure/container-apps/log-monitoring)
+    - [Alerts](https://learn.microsoft.com/en-us/azure/container-apps/alerts)
+    - [OpenTelemetry agents](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents)
+  - Scaling & performance
+    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/scale-app)
+    - [Scale a container app](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-scaling)
+  - Domains & certificates
+    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/certificates-overview)
+    - [Custom domain with a free certificate](https://learn.microsoft.com/en-us/azure/container-apps/custom-domains-managed-certificates)
+    - [Set up custom domain with existing certificate](https://learn.microsoft.com/en-us/azure/container-apps/custom-domains-certificates)
+    - [Set up environment custom DNS suffix](https://learn.microsoft.com/en-us/azure/container-apps/environment-custom-dns-suffix)
+    - [Certificates from Key Vault](https://learn.microsoft.com/en-us/azure/container-apps/key-vault-certificates-manage)
+  - Authentication
+    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/authentication)
+    - Enable authentication
+      - [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/container-apps/authentication-azure-active-directory)
+      - [Facebook](https://learn.microsoft.com/en-us/azure/container-apps/authentication-facebook)
+      - [GitHub](https://learn.microsoft.com/en-us/azure/container-apps/authentication-github)
+      - [Google](https://learn.microsoft.com/en-us/azure/container-apps/authentication-google.yml)
+      - [X](https://learn.microsoft.com/en-us/azure/container-apps/authentication-twitter)
+      - [Custom OpenID Connect](https://learn.microsoft.com/en-us/azure/container-apps/authentication-openid)
+  - Security
+    - [Manage secrets](https://learn.microsoft.com/en-us/azure/container-apps/manage-secrets)
+    - [Token store](https://learn.microsoft.com/en-us/azure/container-apps/token-store)
+    - Managed identities
+      - [Use managed identities](https://learn.microsoft.com/en-us/azure/container-apps/managed-identity)
+      - [Azure Container Registry image pull with managed identity](https://learn.microsoft.com/en-us/azure/container-apps/managed-identity-image-pull)
+  - Resiliency
+    - [Service discovery resiliency](https://learn.microsoft.com/en-us/azure/container-apps/service-discovery-resiliency)
+    - [Dapr component resiliency](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
+  - Reliability
+    - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
+  - Dedicated compute
+    - [Workload profiles](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-overview)
+    - Manage workload profiles
+      - [CLI](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-cli)
+      - [Portal](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-portal)
+  - Microservices
+    - Developing with Dapr
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview)
+      - Get started
+        - [Connect to Azure services via Dapr components](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connection)
+        - [Enable Dapr](https://learn.microsoft.com/en-us/azure/container-apps/enable-dapr)
+      - Configure
+        - [Dapr components](https://learn.microsoft.com/en-us/azure/container-apps/dapr-components)
+        - [Dapr component resiliency](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
+        - [Scale Dapr apps with KEDA using Bicep](https://learn.microsoft.com/en-us/azure/container-apps/dapr-keda-scaling)
+        - [Enable token authentication for Dapr requests](https://learn.microsoft.com/en-us/azure/container-apps/dapr-authentication-token)
+      - Tutorials
+        - [Microservices communication using Dapr Pub/Sub](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-pubsub)
+        - [Event-driven work using Dapr Bindings](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-bindings)
+        - [Microservices communication using Dapr Service Invocation](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-service-invoke)
+        - [Deploy using the Dapr extension for Azure Functions](https://learn.microsoft.com/en-us/azure/container-apps/dapr-functions-extension)
+        - [Deploy using Azure CLI](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr)
+        - [Deploy using ARM or Bicep](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-azure-resource-manager)
+  - Networking, ingress, and network security
+    - [Architecture overview](https://learn.microsoft.com/en-us/azure/container-apps/networking)
+    - Environments
+      - [Deploy with an external environment](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom)
+      - [Deploy with an internal environment](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom-internal)
+    - Ingress
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/ingress-overview)
+      - [Configure ingress](https://learn.microsoft.com/en-us/azure/container-apps/ingress-how-to)
+      - [Configure IP restrictions](https://learn.microsoft.com/en-us/azure/container-apps/ip-restrictions)
+      - [Add client certificates](https://learn.microsoft.com/en-us/azure/container-apps/client-certificate-authorization)
+      - [Configure traffic-splitting](https://learn.microsoft.com/en-us/azure/container-apps/traffic-splitting)
+      - [Blue/Green deployment](https://learn.microsoft.com/en-us/azure/container-apps/blue-green-deployment)
+      - [Session affinity](https://learn.microsoft.com/en-us/azure/container-apps/sticky-sessions)
+      - [CORS](https://learn.microsoft.com/en-us/azure/container-apps/cors)
+    - Security
+      - [Configure WAF Application Gateway](https://learn.microsoft.com/en-us/azure/container-apps/waf-app-gateway)
+      - [Enable User Defined Routes UDR](https://learn.microsoft.com/en-us/azure/container-apps/user-defined-routes)
+      - [Securing a custom VNET with an NSG](https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration)
+    - [Use a custom VNET](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom)
+  - Languages and runtimes
+    - .NET
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/dotnet-overview)
+      - [Deploy a .NET Aspire app](https://learn.microsoft.com/dotnet/aspire/deployment/azure/aca-deployment)
+      - [Deploy and scale an ASP.NET Core app](https://learn.microsoft.com/aspnet/core/host-and-deploy/scaling-aspnet-apps/scaling-aspnet-apps)
+    - Java
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/java-overview)
+      - [Turn on Java features](https://learn.microsoft.com/en-us/azure/container-apps/java-feature-switch)
+      - [Launch your first Java app](https://learn.microsoft.com/en-us/azure/container-apps/java-get-started)
+      - [Get started using IntelliJ](https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/create-container-apps-intellij?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
+      - [Automatic memory fitting preview](https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit)
+      - [Build environment variables preview](https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables)
+      - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics)
+      - [Use Eureka Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-usage)
+      - [Use Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin-for-spring-usage)
+      - [Use Config Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-config-server-usage)
+      - [Set dynamic logger level](https://learn.microsoft.com/en-us/azure/container-apps/java-dynamic-log-level)
+      - Tutorials
+        - [Connect to Eureka Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server)
+        - [Connect to Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin)
+        - [Connect to Config Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-config-server)
+        - [Integrate Eureka Server with Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin-eureka-integration)
+        - [Query managed component logs](https://learn.microsoft.com/en-us/azure/container-apps/java-component-logs)
+        - [Create a highly available Eureka server component cluster](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-highly-available)
+  - Billing & quotas
+    - [Billing](https://learn.microsoft.com/en-us/azure/container-apps/billing)
+    - [Quotas](https://learn.microsoft.com/en-us/azure/container-apps/quotas)
+  - Product updates
+    - [What's new](https://learn.microsoft.com/en-us/azure/container-apps/whats-new)
+  - API docs & reference
+    - [ARM & YAML specifications](https://learn.microsoft.com/en-us/azure/container-apps/azure-resource-manager-api-spec)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/containerapp?view=azure-cli-latest&preserve-view=true)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.app/)
+    - [Azure policy definitions](https://learn.microsoft.com/en-us/azure/container-apps/policy-reference)
+    - [REST API](https://learn.microsoft.com/rest/api/containerapps/)
+    - [Supported regions](https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=container-apps)
+    - Management SDKs
+      - [.NET](https://learn.microsoft.com/dotnet/api/azure.resourcemanager.appcontainers)
+      - [Go](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/appcontainers/armappcontainers)
+      - [Java](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-appcontainers-readme)
+      - [Node.js](https://learn.microsoft.com/javascript/api/overview/azure/arm-appcontainers-readme)
+      - [Python](https://learn.microsoft.com/python/api/azure-mgmt-appcontainers/azure.mgmt.appcontainers)
+  - Azure Arc
+    - [Azure Arc-enabled Kubernetes clusters](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-overview)
+    - [1 - Set up Azure Arc-enabled Kubernetes clusters](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-enable-cluster)
+    - [2 - Create container app](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-create-container-app)
+  - Compliance
+    - [Microsoft Azure Compliance Offerings](https://servicetrust.microsoft.com/DocumentPage/7adf2d9e-d7b5-4e71-bad8-713e6a183cf3)
+    - [Azure, Dynamics 365, Microsoft 365, and Power Platform compliance offerings](https://learn.microsoft.com/azure/compliance/offerings/)
+    - [Azure security baseline for Azure Container Apps](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-container-apps-security-baseline)
+  - Samples & FAQs
+    - [Samples](https://learn.microsoft.com/en-us/azure/container-apps/samples)
+    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/container-apps/faq.yml)

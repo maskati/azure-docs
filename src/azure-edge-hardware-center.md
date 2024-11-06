@@ -1,0 +1,21 @@
+# Azure Edge Hardware Center documentation
+> Use Azure Edge Hardware Center service to order from a variety of Azure Stack Edge devices as per your business need.
+  - [Azure Edge Hardware Center Documentation](https://learn.microsoft.com/en-us/azure/azure-edge-hardware-center/)
+    - Overview
+      - [What is Azure Edge Hardware Center?](https://learn.microsoft.com/en-us/azure/azure-edge-hardware-center/azure-edge-hardware-center-overview)
+    - Tutorials
+      - [Create order](https://learn.microsoft.com/en-us/azure/azure-edge-hardware-center/azure-edge-hardware-center-create-order)
+    - Concepts
+      - [FAQ](https://learn.microsoft.com/en-us/azure/azure-edge-hardware-center/azure-edge-hardware-center-faq.yml)
+    - How to
+      - [Track, cancel, return order](https://learn.microsoft.com/en-us/azure/azure-edge-hardware-center/azure-edge-hardware-center-manage-order)
+      - [Move order resource](https://learn.microsoft.com/en-us/azure/azure-edge-hardware-center/azure-edge-hardware-center-resource-move-subscription-resource-group)
+      - [Troubleshoot orders](https://learn.microsoft.com/en-us/azure/azure-edge-hardware-center/azure-edge-hardware-center-troubleshoot-order)
+      - [Open Support ticket](https://learn.microsoft.com/en-us/azure/azure-edge-hardware-center/azure-edge-hardware-center-contact-microsoft-support)
+    - References
+      - [.NET APIs](https://learn.microsoft.com/dotnet/api/overview/azure/edgeorder)
+      - [REST API](https://learn.microsoft.com/rest/api/edgehardwarecenter/)
+      - [Python SDK](https://pypi.org/project/azure-mgmt-edgeorder/1.0.0/)
+      - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.edgeorder/)
+    - Resources
+      - [Azure Stack Edge product](https://azure.microsoft.com/services/storage/databox/edge/)

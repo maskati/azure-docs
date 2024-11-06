@@ -1,0 +1,67 @@
+# Azure Update Manager documentation
+  - [Azure Update Manager documentation](https://learn.microsoft.com/en-us/azure/update-manager/)
+  - Overview
+    - [About Azure Update Manager](https://learn.microsoft.com/en-us/azure/update-manager/overview)
+    - [How Update Manager works](https://learn.microsoft.com/en-us/azure/update-manager/workflow-update-manager)
+    - [What's New](https://learn.microsoft.com/en-us/azure/update-manager/whats-new)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/update-manager/update-manager-faq)
+  - Getting started
+    - [Prerequisites](https://learn.microsoft.com/en-us/azure/update-manager/prerequisites)
+    - [Roles and Permissions](https://learn.microsoft.com/en-us/azure/update-manager/roles-permissions)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/update-manager/support-matrix)
+  - Quickstarts
+    - [Check and install on-demand updates](https://learn.microsoft.com/en-us/azure/update-manager/quickstart-on-demand)
+  - Tutorials
+    - [Schedule updates and enable periodic assessment at scale using policy](https://learn.microsoft.com/en-us/azure/update-manager/tutorial-assessment-deployment-using-policy)
+    - Dynamic scope
+      - [Schedule updates dynamically and at scale using dynamic scope](https://learn.microsoft.com/en-us/azure/update-manager/tutorial-dynamic-grouping-for-scheduled-patching)
+    - Pre and Post Events
+      - [Create pre and post events using a webhook with Automation Runbooks](https://learn.microsoft.com/en-us/azure/update-manager/tutorial-webhooks-using-runbooks)
+      - [Create pre and post events using Azure Functions](https://learn.microsoft.com/en-us/azure/update-manager/tutorial-using-functions)
+  - Concepts
+    - [Update options and orchestration](https://learn.microsoft.com/en-us/azure/update-manager/updates-maintenance-schedules)
+    - [Assessment options](https://learn.microsoft.com/en-us/azure/update-manager/assessment-options)
+    - [Overview of Pre and Post Events](https://learn.microsoft.com/en-us/azure/update-manager/pre-post-scripts-overview)
+    - [Access Azure Update Manager operations data using Azure Resource Graph](https://learn.microsoft.com/en-us/azure/update-manager/query-logs)
+    - [Manage updates on multiple machines](https://learn.microsoft.com/en-us/azure/update-manager/manage-multiple-machines)
+    - [Workbooks](https://learn.microsoft.com/en-us/azure/update-manager/workbooks)
+    - [Ubuntu Pro support](https://learn.microsoft.com/en-us/azure/update-manager/security-awareness-ubuntu-support)
+  - Samples
+    - [ARG queries to access Azure Update Manager operations data](https://learn.microsoft.com/en-us/azure/update-manager/sample-query-logs)
+  - How-to guides
+    - Deploy
+      - [Configure Windows Update client](https://learn.microsoft.com/en-us/azure/update-manager/configure-wu-agent)
+    - Manage
+      - Migration from Automation Update Management to Azure Update Manager
+        - [Overview](https://learn.microsoft.com/en-us/azure/update-manager/migration-overview)
+        - [Using Azure portal](https://learn.microsoft.com/en-us/azure/update-manager/migration-using-portal)
+        - [Using runbook scripts](https://learn.microsoft.com/en-us/azure/update-manager/migration-using-runbook-scripts)
+        - [Key points to note for automated migration](https://learn.microsoft.com/en-us/azure/update-manager/migration-key-points)
+        - [Troubleshoot automated migration](https://learn.microsoft.com/en-us/azure/update-manager/migration-troubleshoot)
+        - [Using manual migration](https://learn.microsoft.com/en-us/azure/update-manager/migration-manual)
+      - [Check update compliance](https://learn.microsoft.com/en-us/azure/update-manager/view-updates)
+      - [Automate assessment at scale using Policy](https://learn.microsoft.com/en-us/azure/update-manager/periodic-assessment-at-scale)
+      - [Deploy updates and track results](https://learn.microsoft.com/en-us/azure/update-manager/deploy-updates)
+      - [Manage update settings](https://learn.microsoft.com/en-us/azure/update-manager/manage-update-settings)
+      - [Schedule updates](https://learn.microsoft.com/en-us/azure/update-manager/scheduled-patching)
+      - Dynamic scope
+        - [Overview](https://learn.microsoft.com/en-us/azure/update-manager/dynamic-scope-overview)
+        - [Manage dynamic scope](https://learn.microsoft.com/en-us/azure/update-manager/manage-dynamic-scoping)
+        - [Schedule patching configuration on Azure VMs for business continuity](https://learn.microsoft.com/en-us/azure/update-manager/prerequsite-for-schedule-patching)
+      - Pre and Post Events
+        - [Create pre and post events](https://learn.microsoft.com/en-us/azure/update-manager/pre-post-events-schedule-maintenance-configuration)
+        - [Manage pre and post events](https://learn.microsoft.com/en-us/azure/update-manager/manage-pre-post-events)
+      - [Manage Hotpatches on Arc-Enabled Machines preview](https://learn.microsoft.com/en-us/azure/update-manager/manage-hot-patching-arc-machines)
+      - [Manage updates for Azure VMs using REST API](https://learn.microsoft.com/en-us/azure/update-manager/manage-vms-programmatically)
+      - [Manage updates for Arc-enabled servers using REST API](https://learn.microsoft.com/en-us/azure/update-manager/manage-arc-enabled-servers-programmatically)
+      - [Deploy and manage updates using Updates view](https://learn.microsoft.com/en-us/azure/update-manager/deploy-manage-updates-using-updates-view)
+      - [Create alerts preview](https://learn.microsoft.com/en-us/azure/update-manager/manage-alerts)
+      - [Create reports using workbooks](https://learn.microsoft.com/en-us/azure/update-manager/manage-workbooks)
+      - [Manage updates for customized images](https://learn.microsoft.com/en-us/azure/update-manager/manage-updates-customized-images)
+      - SQL Server patching
+        - [Overview](https://learn.microsoft.com/en-us/azure/update-manager/guidance-patching-sql-server-azure-vm)
+        - [Guidance on patching for SQL Server on Azure VMs](https://learn.microsoft.com/azure/azure-sql/virtual-machines/azure-update-manager-sql-vm?toc=/azure/update-manager/toc.json&bc=/azure/update-manager/breadcrumb/toc.json)
+      - [Azure Stack HCI patching](https://learn.microsoft.com/azure-stack/hci/update/azure-update-manager-23h2?toc=/azure/update-manager/toc.json&bc=/azure/update-manager/breadcrumb/toc.json)
+      - [Move Azure VMs from Microsoft Configuration Manager to Azure Update Manager](https://learn.microsoft.com/en-us/azure/update-manager/guidance-migration-azure)
+  - Troubleshoot
+    - [Troubleshoot issues](https://learn.microsoft.com/en-us/azure/update-manager/troubleshoot)

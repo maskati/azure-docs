@@ -1,0 +1,140 @@
+# Azure Data Box documentation - Offline transfer
+> Use the Azure Data Box devices for offline data transfer when you are limited by time, network, or cost. Depending on your data size, choose from Data Box Disk, Data Box, or Data Box Heavy.
+  - [Azure Data Box Documentation - Offline Transfer](https://learn.microsoft.com/en-us/azure/databox/)
+    - Data Box
+      - Overview
+        - [What is Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview)
+      - Quickstarts
+        - Set up - Azure portal
+          - [For import](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal)
+          - [For export](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-export)
+      - Tutorials
+        - Import data to Azure
+          - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-ordered)
+          - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up)
+          - 3 - Connect & copy
+            - [Via SMB](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data)
+            - [Via NFS](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-nfs)
+            - [Via REST](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-rest)
+            - [Via data copy service](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-copy-service)
+            - [To managed disks](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-from-vhds)
+          - [4 - Prepare to ship](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-prepare-to-ship)
+          - [5 - Return, upload, verify](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-picked-up)
+        - Export data from Azure
+          - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-ordered)
+          - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up)
+          - 3 - Connect & copy
+            - [Via SMB](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-copy-data)
+            - [Via NFS](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-copy-data-via-nfs)
+          - [4 - Return](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-picked-up)
+      - Concepts
+        - [Read safety guidelines](https://learn.microsoft.com/en-us/azure/databox/data-box-safety)
+        - Review tracking and logging
+          - [For import orders](https://learn.microsoft.com/en-us/azure/databox/data-box-logs)
+          - [For export orders](https://learn.microsoft.com/en-us/azure/databox/data-box-export-logs)
+        - [View audit logs](https://learn.microsoft.com/en-us/azure/databox/data-box-audit-logs)
+        - Review requirements
+          - [For Data Box](https://learn.microsoft.com/en-us/azure/databox/data-box-system-requirements)
+          - [For Data Box Blob storage](https://learn.microsoft.com/en-us/azure/databox/data-box-system-requirements-rest)
+        - [Understand limits](https://learn.microsoft.com/en-us/azure/databox/data-box-limits)
+        - Security
+          - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/databox-security-baseline?context=/azure/databox/context/context)
+          - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/databox/security-controls-policy)
+          - [Review security](https://learn.microsoft.com/en-us/azure/databox/data-box-security)
+        - [Transfer ACLs and metadata](https://learn.microsoft.com/en-us/azure/databox/data-box-file-acls-preservation)
+        - [FAQ](https://learn.microsoft.com/en-us/azure/databox/data-box-faq.yml)
+      - How to
+        - [Manage via Azure portal](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-admin)
+        - [Manage via local web UI](https://learn.microsoft.com/en-us/azure/databox/data-box-local-web-ui-admin)
+        - [Use self-managed shipping](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-customer-managed-shipping)
+        - [Bring your own certificates](https://learn.microsoft.com/en-us/azure/databox/data-box-bring-your-own-certificates)
+        - [Enable customer managed key](https://learn.microsoft.com/en-us/azure/databox/data-box-customer-managed-encryption-key-portal)
+        - [Use Customer Lockbox](https://learn.microsoft.com/en-us/azure/databox/data-box-customer-lockbox)
+        - [Move data to a blob tier](https://learn.microsoft.com/en-us/azure/databox/data-box-how-to-set-data-tier)
+        - [Cable the device](https://learn.microsoft.com/en-us/azure/databox/data-box-cable-options)
+        - [Contact Support](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-contact-microsoft-support)
+        - Migrate
+          - [Using Storage Mover](https://learn.microsoft.com/en-us/azure/storage-mover/service-overview)
+          - [To SharePoint Online](https://learn.microsoft.com/sharepointmigration/how-to-migrate-file-share-content-to-spo-using-azuredatabox?context=%2fazure%2fdatabox%2fcontext%2fcontext)
+          - [To Azure File Sync](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-migration-server-hybrid-databox?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+          - [From HDFS store](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-migrate-on-premises-hdfs-cluster?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+          - [To Azure backup](https://learn.microsoft.com/en-us/azure/backup/offline-backup-azure-data-box?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+        - Troubleshoot
+          - [Data Box share access](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-share-access)
+          - [Data Box copy issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot)
+          - [Data Box upload issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-data-upload)
+          - [Data Box Blob storage issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-rest)
+          - [Data Box time sync issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-time-sync)
+    - Data Box Disk
+      - Overview
+        - [What is Data Box Disk?](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-overview)
+      - Quickstarts
+        - [Set up - Azure portal](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-quickstart-portal)
+      - Tutorials
+        - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-deploy-ordered)
+        - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-deploy-set-up)
+        - [3 - Copy and validate](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-deploy-copy-data)
+        - [4 - Return](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-deploy-picked-up)
+        - [5 - Verify upload](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-deploy-upload-verify)
+      - Concepts
+        - [Review requirements](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-system-requirements)
+        - [Understand limits](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-limits)
+        - [Review security](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-security)
+        - [Transfer ACLs and metadata](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-file-acls-preservation)
+        - [FAQ](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-faq.yml)
+      - How to
+        - [Migrate Using Storage Mover](https://learn.microsoft.com/en-us/azure/storage-mover/service-overview)
+        - [Manage via Azure portal](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-ui-admin)
+        - [Use self-managed shipping](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-portal-customer-managed-shipping)
+        - Troubleshoot
+          - [Unlock issues](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-troubleshoot-unlock)
+          - [Data copy issues](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-troubleshoot-data-copy)
+          - [Validation issues](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-troubleshoot)
+          - [Data upload issues](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-troubleshoot-data-upload)
+          - [Upload logs](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-troubleshoot-upload)
+        - [Contact Support](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-contact-microsoft-support)
+    - Data Box Heavy
+      - Overview
+        - [What is Data Box Heavy?](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-overview)
+      - Quickstarts
+        - [Set up - Azure portal](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-quickstart-portal)
+      - Tutorials
+        - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-ordered)
+        - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-set-up)
+        - 3 - Connect & copy
+          - [Via SMB](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-copy-data)
+          - [Via NFS](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-copy-data-via-nfs)
+          - [Via REST](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-copy-data-via-rest)
+          - [Via data copy service](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-copy-data-via-copy-service)
+          - [To managed disks](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-copy-data-from-vhds)
+        - [4 - Return, upload, verify](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-picked-up)
+      - Concepts
+        - [Read safety guidelines](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-safety)
+        - [Review tracking and logging](https://learn.microsoft.com/en-us/azure/databox/data-box-logs)
+        - [Review requirements](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-system-requirements)
+        - [Understand limits](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-limits)
+        - [FAQ](https://learn.microsoft.com/en-us/azure/databox/data-box-faq.yml)
+      - How to
+        - [Manage via Azure portal](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-admin)
+        - [Manage via local web UI](https://learn.microsoft.com/en-us/azure/databox/data-box-local-web-ui-admin)
+        - [Enable customer managed key](https://learn.microsoft.com/en-us/azure/databox/data-box-customer-managed-encryption-key-portal)
+        - [Troubleshoot device issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot)
+        - [Move data to a blob tier](https://learn.microsoft.com/en-us/azure/databox/data-box-how-to-set-data-tier)
+        - [Contact Support](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-contact-microsoft-support)
+        - Migrate
+          - [Using Storage Mover](https://learn.microsoft.com/en-us/azure/storage-mover/service-overview)
+          - [To SharePoint Online](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-migrate-spo)
+          - [To Azure File Sync](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-migration-server-hybrid-databox)
+          - [From HDFS store](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-migrate-on-premises-hdfs-cluster?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+    - Reference
+      - [Azure CLI](https://learn.microsoft.com/cli/azure/databox)
+      - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.databox)
+      - [.NET APIs](https://learn.microsoft.com/dotnet/api/overview/azure/databox)
+      - [.NET SDK](https://www.nuget.org/packages/Microsoft.Azure.Management.DataBox/)
+      - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/databox/policy-reference)
+      - [Data Box Event Grid schema](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-data-box)
+    - Resources
+      - [Data Box product](https://azure.microsoft.com/services/storage/databox/data/)
+      - [Data Box pricing](https://azure.microsoft.com/pricing/details/databox/)
+      - [Data Box Disk pricing](https://azure.microsoft.com/pricing/details/databox/disk/)
+      - [Data Box hardware additional terms](https://learn.microsoft.com/en-us/azure/databox/data-box-hardware-additional-terms)

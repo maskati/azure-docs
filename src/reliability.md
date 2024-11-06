@@ -1,0 +1,244 @@
+# Azure reliability documentation
+> Azure reliability documentation for availability zones, cross-regional disaster recovery, availability of services for sovereign clouds, regions, and category.
+  - [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/)
+  - [What is reliability?](https://learn.microsoft.com/en-us/azure/reliability/overview)
+  - Availability zone support
+    - [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
+    - [Services and regions with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support)
+    - Migrate to availability zone support
+      - [Overview](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-migration-overview)
+      - [Azure availability zone migration baseline](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-baseline)
+      - Migration guides by service
+        - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt)
+        - [Azure App Configuration](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration)
+        - [Azure Application Gateway](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2)
+        - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
+        - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/migrate-functions)
+        - [Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis)
+        - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/migrate-search-service)
+        - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
+        - [Azure Batch](https://learn.microsoft.com/en-us/azure/reliability/reliability-batch)
+        - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
+        - [Azure Container instances](https://learn.microsoft.com/en-us/azure/reliability/migrate-container-instances)
+        - [Azure Container Registry](https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability)
+        - [Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/reliability/migrate-cosmos-nosql)
+        - [Azure Database for MySQL - Flexible Server](https://learn.microsoft.com/en-us/azure/reliability/migrate-database-mysql-flex)
+        - [Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal)
+        - [Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san)
+        - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/reliability-functions)
+        - [Azure HDInsight](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight)
+        - [Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability)
+        - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer)
+        - [Log Analytics Dedicated Cluster workspaces](https://learn.microsoft.com/en-us/azure/reliability/migrate-monitor-log-analytics)
+        - [Azure Logic Apps](https://learn.microsoft.com/azure/logic-apps/set-up-zone-redundancy-availability-zones?tabs=standard&toc=/azure/reliability)
+        - [Azure Recovery Services vault](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
+        - [Azure Service Fabric](https://learn.microsoft.com/en-us/azure/reliability/migrate-service-fabric)
+        - [Azure Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-outages-disasters)
+        - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/reliability/migrate-sql-database)
+        - [Azure Storage accounts](https://learn.microsoft.com/en-us/azure/reliability/migrate-storage)
+        - [Azure SQL managed instance](https://learn.microsoft.com/en-us/azure/reliability/migrate-sql-managed-instance)
+        - [Azure Virtual Machines and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/migrate-vm)
+        - [Workload - Azure Kubernetes and MySQL](https://learn.microsoft.com/en-us/azure/reliability/migrate-workload-aks-mysql)
+  - Disaster recovery
+    - [What is disaster recovery?](https://learn.microsoft.com/en-us/azure/reliability/disaster-recovery-overview)
+    - [Business continuity management program](https://learn.microsoft.com/en-us/azure/reliability/business-continuity-management-program)
+    - Cross-region replication
+      - [Cross-region replication overview](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
+      - [Solutions for non-paired regions](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure-no-pair)
+  - Reliability guides by service
+    - [Overview](https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance)
+    - AI and machine learning
+      - [Azure AI Health Insights](https://learn.microsoft.com/en-us/azure/reliability/reliability-health-insights)
+      - [Azure AI Search](https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Bot Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-bot)
+      - [Azure Machine Learning Service](https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+    - Analytics
+      - [Azure HDInsight](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight)
+      - [Azure HDInsight on AKS](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight-on-aks)
+      - [Azure Machine Learning](https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/stream-analytics/geo-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs)
+      - [Azure Data Explorer](https://learn.microsoft.com/azure/data-explorer/business-continuity-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Data Share](https://learn.microsoft.com/en-us/azure/data-share/disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/reliability/reliability-chaos-studio)
+      - [Microsoft Fabric](https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric)
+      - [Microsoft Purview](https://learn.microsoft.com/en-us/azure/reliability/reliability-microsoft-purview)
+    - Compute
+      - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
+      - [Azure Batch](https://learn.microsoft.com/en-us/azure/reliability/reliability-batch)
+      - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
+      - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
+      - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/reliability-functions)
+      - [Azure Kubernetes Service AKS](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure Service Fabric
+        - [Availability zones](https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Spring Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-spring-apps)
+      - [Azure Virtual Machines](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machines)
+      - [Azure Virtual Machine Image Builder](https://learn.microsoft.com/en-us/azure/reliability/reliability-image-builder)
+      - [Azure Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machine-scale-sets)
+      - [Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-disaster-recovery-using-vmware-hcx?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+    - Containers
+      - Azure App Configuration
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-app-configuration/faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-disaster-recovery?tabs=core2x?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
+        - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
+        - Azure Container Registry
+          - [Availability zones](https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+          - [Disaster recovery](https://learn.microsoft.com/azure/container-registry/container-registry-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure Kubernetes Service AKS](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - Azure Service Fabric
+          - [Availability zones](https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+          - [Disaster recovery](https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+    - Databases
+      - Azure SQL
+        - [Availability zones](https://learn.microsoft.com/azure/azure-sql/database/high-availability-sla?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure SQL-Managed Instance](https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell)
+      - [Azure Database for MySQL](https://learn.microsoft.com/azure/mysql/single-server/concepts-business-continuity?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure Database for MySQL - Flexible Server
+        - [Availability zones](https://learn.microsoft.com/azure/mysql/flexible-server/concepts-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/azure/mysql/flexible-server/how-to-restore-server-portal?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Database for PostgreSQL - Flexible Server](https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server)
+      - [Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-db-nosql)
+      - [Azure Cosmos DB for MongoDB vCore](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-mongodb)
+      - Azure Cache for Redis
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+    - Developer tools
+      - [Azure API Center](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-center)
+    - DevOps
+      - [Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/reliability/reliability-deployment-environments?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure DevOps](https://learn.microsoft.com/azure/devops/organizations/security/data-protection?view=azure-devops.md&preserve-view=true)
+      - Azure Monitor - Log Analytics
+        - [Availability zones](https://learn.microsoft.com/azure/azure-monitor/logs/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure Monitor - Log Analytics](https://learn.microsoft.com/azure/azure-monitor/logs/logs-data-export?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=portal)
+    - Hybrid + multicloud
+      - [Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/reliability/reliability-operator-nexus)
+    - Industry solutions
+      - [Microsoft Community Training](https://learn.microsoft.com/en-us/azure/reliability/reliability-community-training)
+    - Integration
+      - [Azure Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure API Management
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/api-management/high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Data Manager for Energy](https://learn.microsoft.com/en-us/azure/reliability/reliability-energy-data-services)
+      - [Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy?bc=%2fazure%2freliability%2fbreadcrumb%2ftoc.json&toc=%2fazure%2freliability%2ftoc.json)
+      - [Azure Event Grid](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid)
+      - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/reliability-functions)
+      - Azure Health Data Services
+        - [Workspace services FHIR, DICOM, MedTech](https://learn.microsoft.com/azure/healthcare-apis/business-continuity-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [De-identification service](https://learn.microsoft.com/en-us/azure/reliability/reliability-health-data-services-deidentification)
+      - Azure Logic Apps
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-zone-redundancy-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/logic-apps/business-continuity-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+    - Internet of Things
+      - [Azure Device Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-device-registry)
+      - [Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-ha-dr?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Notification Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs)
+    - Media
+      - [Azure Media Services](https://learn.microsoft.com/azure/media-services/latest/architecture-high-availability-encoding-concept?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+    - Management and governance
+      - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/reliability-backup)
+      - [Azure Guest Configuration](https://learn.microsoft.com/en-us/azure/governance/machine-configuration/overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure Monitor - Log Analytics
+        - [Availability zones](https://learn.microsoft.com/azure/azure-monitor/logs/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure Monitor - Log Analytics](https://learn.microsoft.com/azure/azure-monitor/logs/logs-data-export?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=portal)
+      - Azure Site Recovery
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+    - Migration
+      - [Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/resources-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure Site Recovery
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+    - Networking
+      - Azure Application Gateway V2
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Application Gateway for Containers](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-gateway-containers)
+      - [Azure Bastion](https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion)
+      - [Azure Communications Gateway](https://learn.microsoft.com/en-us/azure/communications-gateway/reliability-communications-gateway?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure DNS](https://learn.microsoft.com/en-us/azure/reliability/reliability-dns)
+      - [Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/reliability/reliability-ddos)
+      - Azure ExpressRoute
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-high-availability-with-expressroute?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer)
+      - [Azure Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Private Link](https://learn.microsoft.com/en-us/azure/private-link/availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Public IP](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Route Server](https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/reliability/reliability-traffic-manager)
+      - Azure Virtual Network
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure Virtual WAN
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure VPN Gateway
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure Private 5G Core](https://learn.microsoft.com/en-us/azure/private-5g-core/reliability-private-5g-core?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure Web Application Firewall
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure Web Application Firewall](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+    - Security
+      - [Azure Disk Encryption](https://learn.microsoft.com/azure/virtual-machines/disks-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Key Vault](https://learn.microsoft.com/azure/key-vault/general/disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure Web Application Firewall
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure Web Application Firewall](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Microsoft Defender for Cloud DevOps security](https://learn.microsoft.com/en-us/azure/reliability/reliability-defender-devops)
+    - Storage
+      - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/reliability-backup)
+      - Azure Blob Storage
+        - [Availability zones](https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Databox](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san)
+      - [Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-manage-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Storage Actions](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions)
+      - [Azure Storage-Disk Storage](https://learn.microsoft.com/azure/virtual-machines/disks-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Storage Mover](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-storage-mover)
+    - Web
+      - [Azure AI Search](https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure API Management
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/api-management/high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
+      - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
+      - [Azure Notification Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs)
+      - [Azure SignalR Service](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+  - Resources
+    - Azure Service Manager retirement
+      - [Overview](https://learn.microsoft.com/en-us/azure/reliability/asm-retirement)
+      - Migration guides by service
+        - [VM classic](https://learn.microsoft.com/azure/virtual-machines/classic-vm-deprecation?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Microsoft Entra Domain Services](https://learn.microsoft.com/azure/active-directory-domain-services/migrate-from-classic-vnet?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure Batch Cloud Service Pools](https://learn.microsoft.com/azure/batch/batch-pool-cloud-service-to-virtual-machine-configuration?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Cloud Services classic](https://learn.microsoft.com/azure/cloud-services-extended-support/in-place-migration-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [App Service Environment v1/v2](https://learn.microsoft.com/azure/app-service/environment/migrate?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [API Management](https://learn.microsoft.com/azure/api-management/compute-infrastructure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure Redis Cache](https://learn.microsoft.com/azure/azure-cache-for-redis/cache-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Classic Resource Providers](https://learn.microsoft.com/azure/azure-resource-manager/management/deployment-models?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Integration Services Environment](https://learn.microsoft.com/azure/logic-apps/export-from-ise-to-standard-logic-app?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Microsoft HPC Pack](https://learn.microsoft.com/powershell/high-performance-computing/burst-to-cloud-services-retirement-guide?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Virtual WAN](https://learn.microsoft.com/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Classic Storage](https://learn.microsoft.com/azure/storage/common/classic-account-migration-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Classic Virtual Network](https://learn.microsoft.com/azure/virtual-network/migrate-classic-vnet-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Classic Application Gateway](https://learn.microsoft.com/azure/application-gateway/classic-to-resource-manager?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Classic Reserved IP addresses](https://learn.microsoft.com/azure/virtual-network/ip-services/public-ip-upgrade-classic?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Classic ExpressRoute Gateway](https://learn.microsoft.com/azure/expressroute/expressroute-migration-classic-resource-manager?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Classic VPN gateway](https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Service availability
+        - [Service availability by region](https://azure.microsoft.com/global-infrastructure/services/)
+        - [Service availability by category](https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category)
+        - Service availability by sovereign cloud
+          - [US Government](https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+          - [Microsoft Azure operated by 21Vianet](https://learn.microsoft.com/en-us/azure/reliability/sovereign-cloud-china)
+    - [Azure Reliability feature page](https://azure.microsoft.com/explore/reliability/)
+    - [Reliability testing - Chaos engineering](https://learn.microsoft.com/azure/well-architected/resiliency/chaos-engineering)
+    - [Reliability in Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/reliability)

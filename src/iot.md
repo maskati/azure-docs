@@ -1,0 +1,77 @@
+# Azure IoT documentation
+> The Azure Internet of Things (IoT) is a collection of Microsoft-managed cloud and edge services that connect, monitor, and control billions of IoT assets.
+  - [Azure Internet of Things documentation](https://learn.microsoft.com/en-us/azure/iot/)
+  - Overview
+    - [Introduction](https://learn.microsoft.com/en-us/azure/iot/iot-introduction)
+    - IoT solution components
+      - [Device development](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development)
+      - [Device connectivity](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-connectivity)
+      - [Device management and control](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-management)
+      - [Process and route messages](https://learn.microsoft.com/en-us/azure/iot/iot-overview-message-processing)
+      - [Extend your IoT solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-solution-extensibility)
+      - [Analyze and visualize your IoT data](https://learn.microsoft.com/en-us/azure/iot/iot-overview-analyze-visualize)
+      - [Manage your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-solution-management)
+      - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
+      - [Scalability, high availability](https://learn.microsoft.com/en-us/azure/iot/iot-overview-scalability-high-availability)
+    - [Azure IoT services and technologies](https://learn.microsoft.com/en-us/azure/iot/iot-services-and-technologies)
+  - How-to guides
+    - [Use smartphone device app](https://learn.microsoft.com/en-us/azure/iot/iot-phone-app-how-to)
+    - [Use IoT Explorer](https://learn.microsoft.com/en-us/azure/iot/howto-use-iot-explorer)
+    - Use IoT Plug and Play
+      - [Manage digital twins](https://learn.microsoft.com/en-us/azure/iot/howto-manage-digital-twin)
+      - [Convert a device to IoT Plug and Play](https://learn.microsoft.com/en-us/azure/iot/howto-convert-to-pnp)
+    - [Connect an on-premises SAP system to Azure](https://learn.microsoft.com/en-us/azure/iot/howto-connect-on-premises-sap-to-azure)
+  - Tutorials
+    - [Send telemetry to IoT Hub](https://learn.microsoft.com/en-us/azure/iot/tutorial-send-telemetry-iot-hub)
+    - Build a device solution with IoT Hub
+      - [Set up your environment](https://learn.microsoft.com/en-us/azure/iot/set-up-environment)
+      - [Connect a device to IoT Hub](https://learn.microsoft.com/en-us/azure/iot/tutorial-connect-device)
+      - [Interact with a device from your solution](https://learn.microsoft.com/en-us/azure/iot/tutorial-service)
+    - Embedded device development
+      - [Connect an MXCHIP AZ3166 to IoT Hub](https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-mxchip-az3166-iot-hub)
+      - [Connect an STMicroelectronics B-L475E to IoT Hub](https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-stm-b-l475e-iot-hub)
+      - [Connect an ESPRESSIF ESP32 Kit to IoT Hub](https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-espressif-esp32-freertos-iot-hub)
+      - [Troubleshoot embedded device tutorials](https://learn.microsoft.com/en-us/azure/iot/troubleshoot-embedded-device-tutorials)
+    - [Connect a multiple component device](https://learn.microsoft.com/en-us/azure/iot/tutorial-multiple-components)
+    - [Connect a device module](https://learn.microsoft.com/en-us/azure/iot/tutorial-migrate-device-to-module)
+    - [Use MQTT to connect a device](https://learn.microsoft.com/en-us/azure/iot/tutorial-use-mqtt)
+    - [Implement the Industrial IoT reference solution](https://learn.microsoft.com/en-us/azure/iot/tutorial-iot-industrial-solution-architecture)
+  - Concepts
+    - [Security architecture](https://learn.microsoft.com/en-us/azure/iot/iot-security-architecture)
+    - IoT device development
+      - [What is IoT device development](https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-development)
+      - [IoT device types](https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-types)
+      - [C SDK and Embedded C SDK usage scenarios](https://learn.microsoft.com/en-us/azure/iot/concepts-using-c-sdk-and-embedded-c-sdk)
+      - [Manage device reconnections](https://learn.microsoft.com/en-us/azure/iot/concepts-manage-device-reconnections)
+      - [IoT device selection](https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-selection)
+    - IoT Plug and Play
+      - [What is IoT Plug and Play?](https://learn.microsoft.com/en-us/azure/iot/overview-iot-plug-and-play)
+      - [Architecture](https://learn.microsoft.com/en-us/azure/iot/concepts-architecture)
+      - [IoT Plug and Play conventions](https://learn.microsoft.com/en-us/azure/iot/concepts-convention)
+      - [IoT Plug and Play message payloads](https://learn.microsoft.com/en-us/azure/iot/concepts-message-payloads)
+      - [Device developer guide](https://learn.microsoft.com/en-us/azure/iot/concepts-developer-guide-device)
+      - [Service developer guide](https://learn.microsoft.com/en-us/azure/iot/concepts-developer-guide-service)
+      - [Digital twins](https://learn.microsoft.com/en-us/azure/iot/concepts-digital-twin)
+      - Device models
+        - [Modeling guide](https://learn.microsoft.com/en-us/azure/iot/concepts-modeling-guide)
+        - [Use models in a solution](https://learn.microsoft.com/en-us/azure/iot/concepts-model-discovery)
+    - MQTT support
+      - [Use MQTT with IoT Hub](https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-connect-to-iot-hub)
+      - [Use MQTT with DPS](https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-connect-to-iot-dps)
+      - MQTT 5 support preview
+        - [MQTT 5 overview](https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-5-preview)
+        - [MQTT 5 API reference](https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-5-preview-reference)
+  - Resources
+    - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help)
+    - [IoT glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary)
+    - Azure IoT services
+      - [IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/)
+      - [IoT Hub Device Provisioning Service](https://learn.microsoft.com/en-us/azure/iot-dps/)
+      - [IoT Central](https://learn.microsoft.com/en-us/azure/iot-central/)
+      - [IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/)
+      - [Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/)
+      - [Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/)
+    - Azure IoT SDKs
+      - [Device and Service SDKs](https://learn.microsoft.com/en-us/azure/iot/iot-sdks)
+    - [Azure IoT Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
+    - [Azure IoT Explorer tool](https://github.com/Azure/azure-iot-explorer)

@@ -1,0 +1,53 @@
+# BareMetal Infrastructure documentation
+> Learn how to use BareMetal Infrastructure to create, deploy, and manage virtual machines in Microsoft Azure.
+  - [Azure BareMetal Infrastructure](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/)
+  - Overview
+    - [What is BareMetal Infrastructure?](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/concepts-baremetal-infrastructure-overview)
+    - [Know the terms](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/know-baremetal-terms)
+    - [Connect BareMetal instances in Azure](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/connect-baremetal-infrastructure)
+  - Workloads
+    - SAP HANA on Azure Large Instances
+      - [Overview](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-overview-architecture?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - [Certification](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-certification?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - [Available SKUs for HLI](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-available-skus?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - [Sizing](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-sizing?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - [Onboarding requirements](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-onboarding-requirements?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - [SAP HANA data tiering and extension nodes](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-data-tiering-extension-nodes?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - [Operations model and responsibilities](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-operations-model?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - [Compatible Operating Systems](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/os-compatibility-matrix-hana-large-instance?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - [HLI supported scenarios](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-supported-scenario?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - Architecture
+        - [General architecture](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-architecture?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Network architecture](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-network-architecture?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Storage architecture](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-storage-architecture?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - Infrastructure and connectivity
+        - [HLI deployment](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-overview-infrastructure-connectivity?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Connecting Azure VMs to HANA Large Instances](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-connect-azure-vm-large-instances?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Connecting a VNet to HANA Large Instance ExpressRoute](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-connect-vnet-express-route?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Additional network requirements](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-additional-network-requirements?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - Install SAP HANA
+        - [Validate the configuration](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-installation?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Sample HANA Installation](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-example-installation?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - High availability and disaster recovery
+        - [Options and considerations](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-overview-high-availability-disaster-recovery?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Backup and restore](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-backup-restore?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Principles and preparation](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-concept-preparation?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Disaster recovery failover procedure](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-failover-procedure?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - Troubleshoot and monitor
+        - [Monitoring HLI](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/troubleshooting-monitoring?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Monitoring and troubleshooting from HANA side](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-monitor-troubleshoot?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Monitor SAP on Azure](https://learn.microsoft.com/en-us/azure/sap/monitor/about-azure-monitor-sap-solutions?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Azure Monitor for SAP solutions providers](https://learn.microsoft.com/en-us/azure/sap/monitor/providers?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Deploy Azure Monitor for SAP solutions - Azure portal](https://learn.microsoft.com/en-us/azure/sap/monitor/quickstart-portal?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Configure Alerts in Azure Monitor for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/monitor/get-alerts-portal?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Deploy Azure Monitor for SAP solutions - Azure PowerShell](https://learn.microsoft.com/en-us/azure/sap/monitor/quickstart-powershell?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Monitor data reference](https://learn.microsoft.com/en-us/azure/sap/monitor/data-reference?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Azure Monitor for SAP solutions FAQ](https://learn.microsoft.com/en-us/azure/sap/monitor/faq.yml?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+      - How to
+        - [HA Setup with STONITH](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/ha-setup-with-fencing-device?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [OS Backup](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/large-instance-os-backup?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Enable Kdump for HANA Large Instances](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-large-instance-enable-kdump?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [OS Upgrade for HANA Large Instances](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/os-upgrade-hana-large-instance?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Setting up SMT server for SUSE Linux](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-setup-smt?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
+        - [Buy an SAP HANA Large Instances reservation](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-hana-large-instances-reserved-capacity)
+    - [Nutanix Cloud Clusters on Azure](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/workloads/nc2-on-azure/toc.yml)

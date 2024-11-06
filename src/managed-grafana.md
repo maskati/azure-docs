@@ -1,0 +1,63 @@
+# Azure Managed Grafana documentation
+> Learn how to use Azure Managed Grafana. Access quickstarts, how-to guides and tutorials to learn how to create, configure and manage Azure Managed Grafana instances.
+  - [Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/)
+  - Overview
+    - [About Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/overview)
+    - [What's new](https://learn.microsoft.com/en-us/azure/managed-grafana/concept-whats-new)
+  - Quickstarts
+    - [Create an instance - Portal](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-portal)
+    - [Create an instance - Azure CLI](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-cli)
+  - Tutorial
+    - [Connect to self-hosted Prometheus through managed private endpoint](https://learn.microsoft.com/en-us/azure/managed-grafana/tutorial-mpe-oss-prometheus)
+    - [Call Grafana APIs programmatically](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-api-calls)
+  - Concepts
+    - [Service reliability](https://learn.microsoft.com/en-us/azure/managed-grafana/high-availability)
+    - [Encryption](https://learn.microsoft.com/en-us/azure/managed-grafana/encryption)
+    - [Grafana settings](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-settings)
+    - [Azure RBAC](https://learn.microsoft.com/en-us/azure/managed-grafana/concept-role-based-access-control)
+  - How-to guides
+    - Access and sharing
+      - [Configure authentication and permissions](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-authentication-permissions)
+      - [Modify access permissions to Azure Monitor](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-permissions)
+      - [Sync teams with Microsoft Entra groups](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-sync-teams-with-entra-groups)
+      - [Share a workspace](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-share-grafana-workspace)
+    - Data sources
+      - [Configure data sources](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-data-source-plugins-managed-identity)
+      - [Add an Azure Monitor workspace](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-connect-azure-monitor-workspace)
+      - [Add Azure Data Explorer](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-connect-azure-data-explorer)
+      - [Enable Grafana Enterprise](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-grafana-enterprise)
+      - [Manage plugins](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-manage-plugins)
+    - Dashboards
+      - [Create a dashboard](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-create-dashboard)
+      - [Share a dashboard](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-share-dashboard)
+    - Alerts and notifications
+      - [Use Azure Monitor alerts with Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-use-azure-monitor-alerts)
+      - [Configure SMTP settings](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-smtp-settings)
+      - [Use reporting and image rendering](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-use-reporting-and-image-rendering)
+    - Networking
+      - [Set up private access](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-set-up-private-access)
+      - [Use deterministic outbound IPs](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-deterministic-ip)
+      - [Connect to a data source privately](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-connect-to-data-source-privately)
+    - Availability
+      - [Enable zone redundancy](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-enable-zone-redundancy)
+    - Administration and automation
+      - [Use service accounts](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-service-accounts)
+      - [Create and manage API keys Deprecated](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-create-api-keys)
+      - [Monitor Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-monitor-managed-grafana-workspace)
+    - [Migrate to Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-migrate)
+    - [Transition to grafana.azure.com domain](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-transition-domain)
+    - [Upgrade to Grafana 10](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-upgrade-grafana-10)
+    - [Troubleshoot common issues](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-managed-grafana)
+    - [Known limitations](https://learn.microsoft.com/en-us/azure/managed-grafana/known-limitations)
+  - Reference
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/grafana)
+    - [ARM, Bicep and Terraform templates](https://learn.microsoft.com/azure/templates/microsoft.dashboard/2021-09-01-preview/grafana)
+    - [Azure PowerShell](https://www.powershellgallery.com/packages/Az.Dashboard)
+    - [Control plane APIs](https://learn.microsoft.com/rest/api/managed-grafana)
+    - [Data plane APIs](https://aka.ms/managed-grafana/docs/http-api)
+    - [Grafana UI](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-app-ui)
+  - Resources
+    - [FAQ](https://learn.microsoft.com/en-us/azure/managed-grafana/faq)
+    - [Q&A](https://aka.ms/managed-grafana/q-n-a)
+    - [Feature request](https://aka.ms/managed-grafana/feature-request)
+    - [Support](https://learn.microsoft.com/en-us/azure/managed-grafana/find-help-open-support-ticket)

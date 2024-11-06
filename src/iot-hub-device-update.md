@@ -1,0 +1,87 @@
+# Device Update for IoT Hub documentation
+> Device Update for IoT Hub is a service that enables you to deploy over-the-air updates (OTA) to your IoT devices.
+  - [Device Update for IoT Hub documentation](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/)
+  - Overview
+    - [What is Device Update for IoT Hub?](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/understand-device-update)
+    - [Release notes and version history](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-changelog)
+  - Tutorials
+    - [Try Device Update with a simulator](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-simulator)
+    - [Update a device image](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-raspberry-pi)
+    - [Update device packages](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-ubuntu-agent)
+    - [Update device components or connected sensors](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-howto-proxy-updates)
+    - [Device Update for Azure Real Time Operating System](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-azure-real-time-operating-system)
+  - Concepts
+    - Account management
+      - [Device Update account and instance](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-resources)
+      - [User roles and access](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-control-access)
+      - [Device Update limits](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-limits)
+      - [Monitor Device Update for IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/monitor-device-update-iot-hub)
+    - Devices
+      - [Device Update agent](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-agent-overview)
+      - [How Device Update uses Plug and Play](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-plug-and-play)
+      - [Compliance](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-compliance)
+      - [Groups](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-groups)
+      - [Configuration file](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-configuration-file)
+      - [Networking requirements](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-networking)
+      - [Components enumerator](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/components-enumerator)
+    - Updates and deployments
+      - [Import updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/import-concepts)
+      - [Import manifest](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/import-schema)
+      - [Update manifest](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/update-manifest)
+      - [Apt manifest](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-apt-manifest)
+      - [Deployments](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-deployments)
+      - [Proxy updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-proxy-updates)
+      - [Multi-step updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-multi-step-updates)
+      - [Region mapping for scan and failover](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-region-mapping)
+    - [Updates for disconnected devices](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/connected-cache-disconnected-device-update)
+    - [Diagnostic features](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-diagnostics)
+    - [Security](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-security)
+    - [Network security](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/network-security)
+    - [Data encryption for Device Update for IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-data-encryption)
+    - [Data privacy](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-data-privacy)
+    - [Device Update Supported Platforms](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/support)
+  - How-to guides
+    - [Create a Device Update account](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/create-device-update-account)
+    - [Configure access control roles for Device Update resources](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/configure-access-control-device-update)
+    - [Provisioning device update agent](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-agent-provisioning)
+    - [Create an update](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/create-update)
+    - [Import an update](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/import-update)
+    - [Manage device groups](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/create-update-group)
+    - [Deploy an update](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/deploy-update)
+    - [Find missing devices with Agent Check](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-agent-check)
+    - [Create a log collection operation](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-log-collection)
+    - [Use delta updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/delta-updates)
+    - [Use related files](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/related-files)
+    - [Use TLS downloads](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-tls-download)
+    - [Configure private endpoints](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/configure-private-endpoints)
+    - Use Microsoft Connected Cache
+      - [Single gateway](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/connected-cache-single-level)
+      - [Nested gateways](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/connected-cache-nested-level)
+    - [Migrate devices to public preview refresh](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/migration-public-preview-refresh-to-ga)
+    - Troubleshoot
+      - [Troubleshoot device updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/troubleshoot-device-update)
+      - [Troubleshoot proxy updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-proxy-update-troubleshooting)
+      - [Error messages](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-error-codes)
+  - Reference
+    - [REST API](https://learn.microsoft.com/rest/api/deviceupdate/)
+    - Control plane SDK
+      - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.iothub-readme)
+      - [Python](https://learn.microsoft.com/python/api/azure-mgmt-deviceupdate/)
+    - Data plane SDK
+      - [.NET](https://learn.microsoft.com/dotnet/api/azure.iot.deviceupdate?view=azure-dotnet-preview&preserve-view=true)
+      - [JavaScript](https://learn.microsoft.com/javascript/api/@azure/iot-device-update/?view=azure-node-preview&preserve-view=true)
+      - [Java](https://learn.microsoft.com/java/api/com.azure.iot.deviceupdate?view=azure-java-preview&preserve-view=true)
+      - [Python](https://learn.microsoft.com/python/api/azure-mgmt-deviceupdate/azure.mgmt.deviceupdate?view=azure-python-preview&preserve-view=true)
+  - Resources
+    - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help?toc=/azure/iot-hub-device-update/toc.json&bc=/azure/iot-hub-device-update/breadcrumb/toc.json)
+    - Azure IoT services
+      - [IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/)
+      - [IoT Hub Device Provisioning Service](https://learn.microsoft.com/en-us/azure/iot-dps/)
+      - [IoT Central](https://learn.microsoft.com/en-us/azure/iot-central/)
+      - [IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/)
+      - [Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/)
+      - [Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/)
+    - Terraform modules
+      - [Device Update account resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/iothub_device_update_account)
+      - [Device Update instance resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/iothub_device_update_instance)
+    - [Delivery Optimization](https://github.com/microsoft/do-client)

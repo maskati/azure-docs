@@ -1,0 +1,65 @@
+# Microsoft Azure Data Manager for Energy documentation
+> Microsoft Azure Data Manager for Energy is an open, secure, reliable, and fully managed cloud-based data platform solution for the energy industry. It is an enterprise grade data platform that brings together the capabilities of OSDU™ Data Platform, Microsoft's secure and trusted Azure cloud platform, and SLB's extensive domain expertise.
+  - [Microsoft Azure Data Manager for Energy Documentation](https://learn.microsoft.com/en-us/azure/energy-data-services/)
+  - Overview
+    - [About Microsoft Azure Data Manager for Energy](https://learn.microsoft.com/en-us/azure/energy-data-services/overview-microsoft-energy-data-services)
+    - [About Domain Data Management Services DDMS](https://learn.microsoft.com/en-us/azure/energy-data-services/overview-ddms)
+    - What's new
+      - [Release notes](https://learn.microsoft.com/en-us/azure/energy-data-services/release-notes)
+  - Quickstarts
+    - [Create a Microsoft Azure Data Manager for Energy instance](https://learn.microsoft.com/en-us/azure/energy-data-services/quickstart-create-microsoft-energy-data-services-instance)
+  - Tutorials
+    - [Ingest CSV wellbore data](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-csv-ingestion)
+    - [Ingest manifests](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-manifest-ingestion)
+    - [Use Seismic Store DDMS sdutil](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-seismic-ddms-sdutil)
+    - [Use Seismic Store DDMS APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-seismic-ddms)
+    - [Use Wellbore DDMS APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-wellbore-ddms)
+    - [Use Well Delivery DDMS APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-well-delivery-ddms)
+    - [Use Petrel DDMS APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-petrel-ddms)
+  - Concepts
+    - [OSDU® services available on Azure Data Manager for Energy](https://learn.microsoft.com/en-us/azure/energy-data-services/osdu-services-on-adme)
+    - [CSV parser ingestion](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-csv-parser-ingestion)
+    - [Manifest ingestion](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-manifest-ingestion)
+    - [Indexing and search](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-index-and-search)
+    - [Domain Data Management Services DDMS](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-ddms)
+    - [Authentication](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-authentication)
+    - [Entitlements](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-entitlements)
+    - Reliability
+      - [Reliability overview](https://learn.microsoft.com/en-us/azure/reliability/reliability-energy-data-services?toc=/azure/energy-data-services/toc.json&bc=/azure/energy-data-services/breadcrumb/toc.json)
+    - [Tier details](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-tier-details)
+    - [Syncing Reference data values](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-reference-data-values)
+  - How-to guides
+    - Administration
+      - [Manage users](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-users)
+      - [Manage ACLs](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-acls)
+      - [Manage legal tags](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-legal-tags)
+      - [Manage data partitions](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-add-more-data-partitions)
+      - [Deploy Geospatial Consumption Zone GCZ](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-deploy-gcz)
+      - [Deploy OSDU Admin UI](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-deploy-osdu-admin-ui)
+      - [How to enable External Data Sources EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-external-data-sources)
+      - [How to register External Data Sources EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-register-external-data-sources)
+    - Monitoring
+      - [Airflow task logs integration with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-airflow-logs-with-azure-monitor)
+      - [Elastic logs integration with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-elastic-logs-with-azure-monitor)
+      - [Integrate OSDU Service Logs with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-osdu-service-logs-with-azure-monitor)
+    - Security
+      - [Set up Private Links](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-set-up-private-links)
+      - [Set up Customer managed encryption keys CMEK](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-data-security-and-encryption)
+      - [Set up Lockbox](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-create-lockbox)
+      - [Set up Managed Identity](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-use-managed-identity)
+      - [Set up Resource sharing CORS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-cors)
+      - [Set up audit logs](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-audit-logs)
+      - [Publish Microsoft Azure Data Manager for Energy APIs to a secured API gateway](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-secure-apis)
+    - [Load datasets](https://github.com/Azure/osdu-data-load-tno)
+    - [Convert SEG-Y to ZGY](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-convert-segy-to-zgy)
+    - [Convert SEG-Y to oVDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-convert-segy-to-ovds)
+    - [Generate auth token](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-generate-auth-token)
+    - [Upload large files using file service](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-upload-large-files-using-file-service)
+  - References
+    - REST API
+      - [Data plane](https://microsoft.github.io/adme-samples/)
+  - Resources
+    - [FAQ](https://learn.microsoft.com/en-us/azure/energy-data-services/faq-energy-data-services.yml)
+    - [Region availability](https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=energy-data-services&regions=all)
+    - [Partners](https://learn.microsoft.com/en-us/azure/energy-data-services/resources-partner-solutions)
+    - [Pricing](https://azure.microsoft.com/pricing/details/energy-data-services/)

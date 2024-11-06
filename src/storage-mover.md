@@ -1,0 +1,29 @@
+# Azure Storage Mover documentation
+> Azure Storage Mover is a fully managed, hybrid migration service that can help move your on-premises file shares to Azure.
+  - [Azure Storage Mover documentation](https://learn.microsoft.com/en-us/azure/storage-mover/)
+  - Overview
+    - [What is Azure Storage Mover?](https://learn.microsoft.com/en-us/azure/storage-mover/service-overview)
+    - [Cloud migration basics](https://learn.microsoft.com/en-us/azure/storage-mover/migration-basics)
+  - Concepts
+    - [Planning for a deployment](https://learn.microsoft.com/en-us/azure/storage-mover/deployment-planning)
+    - [Resource hierarchy](https://learn.microsoft.com/en-us/azure/storage-mover/resource-hierarchy)
+    - [Migration costs](https://learn.microsoft.com/en-us/azure/storage-mover/billing)
+    - [Performance targets](https://learn.microsoft.com/en-us/azure/storage-mover/performance-targets)
+  - How-To
+    - Deploy
+      - [Create a storage mover resource](https://learn.microsoft.com/en-us/azure/storage-mover/storage-mover-create)
+      - [Deploy a storage mover agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy)
+      - [Register an agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-register)
+      - [Create endpoints](https://learn.microsoft.com/en-us/azure/storage-mover/endpoint-manage)
+      - [Define a migration project](https://learn.microsoft.com/en-us/azure/storage-mover/project-manage)
+      - [Define and start a migration job](https://learn.microsoft.com/en-us/azure/storage-mover/job-definition-create)
+    - Manage
+      - [Configure bandwidth limits](https://learn.microsoft.com/en-us/azure/storage-mover/bandwidth-management)
+    - Decommission
+      - [Unregister an agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy)
+    - Troubleshoot
+      - [Job run error codes](https://learn.microsoft.com/en-us/azure/storage-mover/status-code)
+  - Resources
+    - [Monitor copy and job run logs](https://learn.microsoft.com/en-us/azure/storage-mover/log-monitoring)
+    - [Collect a support bundle](https://learn.microsoft.com/en-us/azure/storage-mover/troubleshooting)
+    - [Release notes](https://learn.microsoft.com/en-us/azure/storage-mover/release-notes)

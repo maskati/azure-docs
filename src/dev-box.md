@@ -1,0 +1,67 @@
+# Microsoft Dev Box documentation
+> Microsoft Dev Box gives you self-service access to high-performance, preconfigured, and ready-to-code cloud-based workstations.
+  - [Microsoft Dev Box documentation](https://learn.microsoft.com/en-us/azure/dev-box/)
+  - Overview
+    - [What is Microsoft Dev Box?](https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box)
+    - [Roadmap for Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-roadmap)
+  - Quickstarts
+    - [Set up Dev Box service Azure portal](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-service)
+    - [Set up Dev Box service ARM template](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-arm-template)
+    - [Spin up a new dev box](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-create-dev-box)
+  - Concepts
+    - [Architecture overview](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-architecture)
+    - [Network requirements](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-network-requirements)
+    - [Key concepts](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-concepts)
+    - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-role-based-access-control)
+  - Plan
+    - [Microsoft Dev Box deployment guide](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-deployment-guide)
+  - Configure resources
+    - [Manage a dev center](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-center)
+    - [Manage network connections](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-network-connections)
+    - [Manage a dev box project](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-box-projects)
+    - [Manage a dev box definition](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-box-definitions)
+    - [Manage a dev box pool](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-box-pools)
+    - [Display names for a project or pool](https://learn.microsoft.com/en-us/azure/dev-box/how-to-add-project-pool-display-name)
+    - [Limit number of dev boxes per project](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-dev-box-limits)
+    - [Configure Visual Studio caches](https://learn.microsoft.com/en-us/azure/dev-box/how-to-generate-visual-studio-caches)
+    - [Monitor Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/monitor-dev-box)
+  - Prepare images
+    - [Configure an Azure compute gallery](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-azure-compute-gallery)
+    - [Provision a Custom Image with Azure Image Builder](https://learn.microsoft.com/en-us/azure/dev-box/how-to-customize-devbox-azure-image-builder)
+  - Customize dev boxes
+    - [Create reusable customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-customize-dev-box-setup-tasks)
+    - [Use Dev Home to manage dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-use-dev-home-customize-dev-box)
+  - Create & connect to dev boxes
+    - [Manage a dev box through developer portal](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
+    - [Connect with Windows App](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?context=/azure/dev-box/context/context&pivots=dev-box)
+    - [Connect with Remote Desktop](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-connect-to-dev-box-with-remote-desktop-app)
+    - [Use multiple monitors](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-configure-multiple-monitors)
+  - Security
+    - [Provide access to project admins](https://learn.microsoft.com/en-us/azure/dev-box/how-to-project-admin)
+    - [Provide access to dev box users](https://learn.microsoft.com/en-us/azure/dev-box/how-to-dev-box-user)
+    - [Configure conditional access policies](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-intune-conditional-access-policies)
+    - [Configure elevated privilege for dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-elevate-privilege-dev-box)
+    - [Enable single sign-on for dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-enable-single-sign-on)
+  - Manage costs
+    - [Request a quota limit increase](https://learn.microsoft.com/en-us/azure/dev-box/how-to-request-quota-increase)
+    - [Configure Dev Box Hibernation](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-dev-box-hibernation)
+    - [Hibernate your Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-hibernate-your-dev-box)
+    - [Configure an auto-stop schedule](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-stop-schedule)
+    - [Configure stop on disconnect](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-stop-on-disconnect)
+    - [Skip or delay an automatic shutdown](https://learn.microsoft.com/en-us/azure/dev-box/how-to-skip-delay-stop)
+  - Troubleshooting
+    - [Troubleshoot dev box connectivity issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-repair-dev-box)
+    - [Troubleshoot Task view issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-dev-box-task-view)
+  - Reference
+    - [Install Azure CLI devcenter extension](https://learn.microsoft.com/en-us/azure/dev-box/how-to-install-dev-box-cli)
+    - [Azure CLI - az devcenter](https://learn.microsoft.com/cli/azure/service-page/microsoft dev box and azure deployment environments)
+    - [Authenticate to REST APIs](https://learn.microsoft.com/en-us/azure/dev-box/how-to-authenticate)
+    - [REST API](https://learn.microsoft.com/rest/api/devcenter/)
+    - [Monitoring Microsoft DevCenter data reference](https://learn.microsoft.com/en-us/azure/dev-box/monitor-dev-box-reference)
+  - Resources
+    - [Azure roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure regions supported by Dev Box](https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=dev-box)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-faq.yml)
+    - [Get support for Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-get-help)
+    - [Report a problem](https://aka.ms/devbox/report)
+    - [Suggest a feature](https://aka.ms/devbox/suggest)

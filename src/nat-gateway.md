@@ -1,0 +1,57 @@
+# Azure NAT Gateway documentation
+> Learn how to use NAT gateway. Quickstarts, tutorials, samples, and more, show you how to deploy a NAT gateway.
+  - [Azure NAT Gateway documentation](https://learn.microsoft.com/en-us/azure/nat-gateway/)
+  - Overview
+    - [What is Azure NAT Gateway?](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview)
+  - Quickstarts
+    - [Portal](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-portal)
+    - [PowerShell](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-powershell)
+    - [CLI](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-cli)
+    - [Bicep](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-bicep)
+    - [ARM template](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-template)
+    - [Terraform](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-terraform)
+  - Tutorials
+    - [Configure dual-stack outbound with a NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-dual-stack-outbound-nat-load-balancer)
+    - [Use a NAT gateway with a hub and spoke network](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-hub-spoke-route-nat)
+    - [Use a NAT gateway with Azure Firewall](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-hub-spoke-nat-firewall)
+    - [Integrate NAT gateway public load balancer](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-nat-gateway-load-balancer-public-portal)
+    - [Integrate NAT gateway internal load balancer](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-nat-gateway-load-balancer-internal-portal)
+    - [Migrate outbound access](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-migrate-outbound-nat)
+    - [Migrate a virtual machine public IP address](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-migrate-ilip-nat)
+  - Concepts
+    - [NAT gateway resource](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-resource)
+    - [Availability zones](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-availability-zones)
+    - Security
+      - [NAT gateway security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-nat-security-baseline)
+    - [SNAT with NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-snat)
+    - [NAT gateway design guidance](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-design)
+  - How-to
+    - [Metrics and alerts](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-metrics)
+    - [Resource health](https://learn.microsoft.com/en-us/azure/nat-gateway/resource-health)
+    - [Manage NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/manage-nat-gateway)
+    - Move across regions
+      - [Create and configure NAT gateway after region move](https://learn.microsoft.com/en-us/azure/nat-gateway/region-move-nat-gateway)
+    - Troubleshoot
+      - [Troubleshoot NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat)
+      - [Troubleshoot NAT gateway connectivity](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat-connectivity)
+      - [Troubleshoot NAT gateway and Azure services](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat-and-azure-services)
+  - Reference
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/azure-cli-reference-for-network)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
+    - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/virtual-network)
+    - [Java](https://learn.microsoft.com/java/api/)
+    - [Node.js](https://learn.microsoft.com/javascript/azure)
+    - [Python](https://azure.microsoft.com/develop/python/)
+    - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/nat-gateways)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/allversions)
+    - [Code samples](https://azure.microsoft.com/resources/samples/?service=virtual-network)
+  - Resources
+    - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/modules/intro-to-azure-virtual-network-nat/)
+    - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Microsoft Q&A question page for Networking](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
+    - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
+    - [Pricing](https://azure.microsoft.com/pricing/details/virtual-network)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-virtual-network)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/nat-gateway/faq.yml)

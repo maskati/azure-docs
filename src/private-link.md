@@ -1,0 +1,69 @@
+# Private Link documentation
+> Azure Private Link enables you to access Azure PaaS Services (for example, Azure Storage and SQL Database) and Azure hosted customer-owned/partner services over a Private Endpoint in your virtual network.  Traffic between your virtual network and the service traverses over the Microsoft backbone network, eliminating exposure from the public Internet. You can also create your own Private Link Service in your virtual network and deliver it privately to your customers.
+  - [Azure Private Link documentation](https://learn.microsoft.com/en-us/azure/private-link/)
+  - Overview
+    - [What is Azure Private Link?](https://learn.microsoft.com/en-us/azure/private-link/private-link-overview)
+  - Quickstarts
+    - [Create a private endpoint - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal)
+    - [Create a private endpoint - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-powershell)
+    - [Create a private endpoint - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-cli)
+    - [Create a private endpoint - Bicep](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-bicep)
+    - [Create a private endpoint - ARM template](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-template)
+    - [Create a private endpoint - Terraform](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-terraform)
+    - [Create a Private Link service - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-portal)
+    - [Create a Private Link service - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-powershell)
+    - [Create a Private Link service - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-cli)
+    - [Create a Private Link service - Bicep](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-bicep)
+    - [Create a Private Link service - ARM template](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-template)
+  - Tutorials
+    - [Inspect private endpoint traffic with Azure Firewall](https://learn.microsoft.com/en-us/azure/private-link/tutorial-inspect-traffic-azure-firewall)
+    - [Deploy a private endpoint with a private resolver](https://learn.microsoft.com/en-us/azure/private-link/tutorial-dns-on-premises-private-resolver)
+    - [Connect to a storage account](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-storage-portal)
+    - [Connect to an Azure Cosmos DB account](https://learn.microsoft.com/azure/cosmos-db/how-to-configure-private-endpoints?toc=/azure/private-link/toc.json)
+    - SQL
+      - [Connect to a SQL server - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-portal)
+      - [Connect to a SQL server - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-powershell)
+      - [Connect to a SQL server - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-cli)
+  - Concepts
+    - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
+    - [What is a private endpoint?](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
+    - [Private Link service](https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview)
+    - DNS
+      - [Private DNS zone values](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
+      - [Private endpoint DNS integration](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns-integration)
+    - [RBAC permissions](https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions)
+    - [Private Link and DNS in Azure Virtual WAN](https://learn.microsoft.com/azure/architecture/guide/networking/private-link-virtual-wan-dns-guide?toc=/azure/private-link/toc.json)
+    - [Azure Firewall traffic inspection](https://learn.microsoft.com/en-us/azure/private-link/inspect-traffic-with-azure-firewall)
+    - Security
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-private-link-security-baseline?toc=/azure/private-link/toc.json)
+  - How-to
+    - [Approve private link connections across subscriptions](https://learn.microsoft.com/en-us/azure/private-link/how-to-approve-private-link-cross-subscription)
+    - [Configure an application security group](https://learn.microsoft.com/en-us/azure/private-link/configure-asg-private-endpoint)
+    - [Export private endpoint DNS records](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-export-dns)
+    - [Manage network policies for private endpoints](https://learn.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy)
+    - [Disable network policies for a Private Link service](https://learn.microsoft.com/en-us/azure/private-link/disable-private-link-service-network-policy)
+    - [Manage private endpoints](https://learn.microsoft.com/en-us/azure/private-link/manage-private-endpoint)
+    - [Relocate Private Link Service to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-private-link?toc=/azure/private-link/toc.json)
+    - Troubleshoot
+      - [Troubleshoot private endpoint connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-endpoint-connectivity)
+      - [Troubleshoot Private Link service connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-link-connectivity)
+  - Reference
+    - [The Azure CLI](https://learn.microsoft.com/cli/azure/network/private-link-service)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
+    - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/virtual-network)
+    - [Java](https://learn.microsoft.com/java/api/)
+    - [Node.js](https://learn.microsoft.com/javascript/azure)
+    - [Python](https://azure.microsoft.com/develop/python/)
+    - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/privateendpoints)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/allversions)
+    - [Code samples](https://azure.microsoft.com/resources/samples/?service=virtual-network)
+  - Resources
+    - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
+    - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Microsoft Q&A question page for Networking](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
+    - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
+    - [Pricing](https://azure.microsoft.com/pricing/details/private-link/)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-virtual-network)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq.yml)

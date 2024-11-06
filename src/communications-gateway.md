@@ -1,0 +1,62 @@
+# Azure Communications Gateway documentation
+> Learn about Azure Communications Gateway for telecommunications operators. Azure Communications Gateway allows you to provide your customers with Operator Connect, Teams Phone Mobile, Microsoft Teams Direct Routing and Zoom Phone Cloud Peering service. Providing Operator Connect, Teams Phone Mobile or Zoom Phone Cloud Peering service also requires separate acceptance into the relevant program.
+  - [Azure Communications Gateway documentation](https://learn.microsoft.com/en-us/azure/communications-gateway/)
+  - Overview
+    - [What is Azure Communications Gateway?](https://learn.microsoft.com/en-us/azure/communications-gateway/overview)
+    - [Get started](https://learn.microsoft.com/en-us/azure/communications-gateway/get-started)
+    - [What's new?](https://learn.microsoft.com/en-us/azure/communications-gateway/whats-new)
+  - Planning
+    - [Your network and Communications Gateway](https://learn.microsoft.com/en-us/azure/communications-gateway/role-in-network)
+    - [Onboarding and Included Benefits](https://learn.microsoft.com/en-us/azure/communications-gateway/onboarding)
+    - [Lab deployments](https://learn.microsoft.com/en-us/azure/communications-gateway/lab)
+    - [Connectivity](https://learn.microsoft.com/en-us/azure/communications-gateway/connectivity)
+    - [Reliability](https://learn.microsoft.com/en-us/azure/communications-gateway/reliability-communications-gateway)
+    - Security
+      - [Overview of security](https://learn.microsoft.com/en-us/azure/communications-gateway/security)
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-communications-gateway-security-baseline?toc=/azure/communications-gateway/toc.json&bc=/azure/communications-gateway/breadcrumb/toc.json)
+    - [Provisioning API and portal](https://learn.microsoft.com/en-us/azure/communications-gateway/provisioning-platform)
+    - [Plan and manage costs](https://learn.microsoft.com/en-us/azure/communications-gateway/plan-and-manage-costs)
+    - [Limits, quotas and restrictions](https://learn.microsoft.com/en-us/azure/communications-gateway/limits)
+  - Deployment
+    - [Prepare for deployment](https://learn.microsoft.com/en-us/azure/communications-gateway/prepare-to-deploy)
+    - [Prepare for VNet injection preview](https://learn.microsoft.com/en-us/azure/communications-gateway/prepare-for-vnet-injection)
+    - [Deploy Azure Communications Gateway](https://learn.microsoft.com/en-us/azure/communications-gateway/deploy)
+    - [Integrate with the Provisioning API](https://learn.microsoft.com/en-us/azure/communications-gateway/integrate-with-provisioning-api)
+  - Integration with Operator Connect and Teams Phone Mobile
+    - [Overview of interoperability](https://learn.microsoft.com/en-us/azure/communications-gateway/interoperability-operator-connect)
+    - Setup
+      - [Connect](https://learn.microsoft.com/en-us/azure/communications-gateway/connect-operator-connect)
+      - [Prepare for live traffic](https://learn.microsoft.com/en-us/azure/communications-gateway/prepare-for-live-traffic-operator-connect)
+    - [Mobile Control Point](https://learn.microsoft.com/en-us/azure/communications-gateway/mobile-control-point)
+    - [Emergency calling](https://learn.microsoft.com/en-us/azure/communications-gateway/emergency-calls-operator-connect)
+    - [Use the Number Management Portal](https://learn.microsoft.com/en-us/azure/communications-gateway/manage-enterprise-operator-connect)
+  - Integration with Microsoft Teams Direct Routing
+    - [Overview of interoperability](https://learn.microsoft.com/en-us/azure/communications-gateway/interoperability-teams-direct-routing)
+    - Setup
+      - [Connect](https://learn.microsoft.com/en-us/azure/communications-gateway/connect-teams-direct-routing)
+      - [Prepare for live traffic](https://learn.microsoft.com/en-us/azure/communications-gateway/prepare-for-live-traffic-teams-direct-routing)
+    - [Emergency calling](https://learn.microsoft.com/en-us/azure/communications-gateway/emergency-calls-teams-direct-routing)
+    - [Manage Direct Routing customers](https://learn.microsoft.com/en-us/azure/communications-gateway/manage-enterprise-teams-direct-routing)
+  - Integration with Zoom Phone Cloud Peering
+    - [Overview of interoperability](https://learn.microsoft.com/en-us/azure/communications-gateway/interoperability-zoom)
+    - Setup
+      - [Connect](https://learn.microsoft.com/en-us/azure/communications-gateway/connect-zoom)
+      - [Prepare for live traffic](https://learn.microsoft.com/en-us/azure/communications-gateway/prepare-for-live-traffic-zoom)
+    - [Emergency calling](https://learn.microsoft.com/en-us/azure/communications-gateway/emergency-calls-zoom)
+    - [Manage Zoom Phone Cloud Peering customers](https://learn.microsoft.com/en-us/azure/communications-gateway/manage-enterprise-zoom)
+  - Integration with Azure Operator Call Protection
+    - [Overview of Operator Call Protection](https://learn.microsoft.com/en-us/azure/operator-call-protection/overview?toc=/azure/communications-gateway/toc.json&bc=/azure/communications-gateway/breadcrumb/toc.json)
+    - [Set up Operator Call Protection](https://learn.microsoft.com/en-us/azure/operator-call-protection/set-up-operator-call-protection?toc=/azure/communications-gateway/toc.json&bc=/azure/communications-gateway/breadcrumb/toc.json)
+  - Maintenance
+    - [Set up user roles](https://learn.microsoft.com/en-us/azure/communications-gateway/provision-user-roles)
+    - [Monitor Communications Gateway](https://learn.microsoft.com/en-us/azure/communications-gateway/monitor-azure-communications-gateway)
+    - [Maintenance notifications](https://learn.microsoft.com/en-us/azure/communications-gateway/maintenance-notifications)
+    - [Get support or request changes](https://learn.microsoft.com/en-us/azure/communications-gateway/request-changes)
+  - Reference
+    - [Provisioning API Reference](https://learn.microsoft.com/rest/api/voiceservices)
+    - [Azure Communications Gateway product page](https://azure.microsoft.com/products/communications-gateway)
+    - [Overview of Operator Connect](https://cloudpartners.transform.microsoft.com/practices/microsoft-365-for-operators/connect)
+    - [Overview of Teams Phone Mobile](https://cloudpartners.transform.microsoft.com/practices/microsoft-365-for-operators/teams-phone-mobile)
+    - [Overview of multitenant Microsoft Teams Direct Routing](https://learn.microsoft.com/microsoftteams/direct-routing-sbc-multiple-tenants)
+    - [Overview of Zoom Phone Cloud Peering](https://partner.zoom.us/partner-type/cloud-peering/)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/communications-gateway/monitoring-azure-communications-gateway-data-reference)
