@@ -59,7 +59,7 @@ jobs:
             }
           }
           "[book]`ntitle = `"Azure Docs Links`"`ndescription = `"Generated from commit: ${{ steps.git.outputs.status }}`"" > "book.toml"
-          remove-item -recurse -force -path "src"
+          remove-item -recurse -force -path "src" -erroraction silentlycontinue
           new-item -itemtype directory -force -path "src"
           get-childitem -file *.toc|% `
             {
