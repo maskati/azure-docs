@@ -320,6 +320,8 @@
     - Chat
       - [Chat hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/chat-hero-sample)
       - [Authentication service hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/trusted-auth-sample)
+    - Email
+      - [Azure AI to detect sensitive data example](https://learn.microsoft.com/en-us/azure/communication-services/samples/email-detect-sensitive-content)
     - Call Automation
       - [Call Automation AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-ai)
   - Concepts

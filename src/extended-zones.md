@@ -22,4 +22,3 @@
     - [Microsoft Q&A](https://learn.microsoft.com/answers/tags/133/azure)
     - [Azure support](https://azure.microsoft.com/support/)
     - [Service updates](https://azure.microsoft.com/updates)
-    - [SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)

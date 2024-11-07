@@ -362,6 +362,10 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer)
         - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer-input)
         - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer-output)
+      - Azure Database for MySQL
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-output)
       - Azure OpenAI
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai)
         - Assistants

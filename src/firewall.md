@@ -48,6 +48,7 @@
     - [Rule processing logic](https://learn.microsoft.com/en-us/azure/firewall/rule-processing)
     - [IP Groups](https://learn.microsoft.com/en-us/azure/firewall/ip-groups)
     - [Forced tunneling](https://learn.microsoft.com/en-us/azure/firewall/forced-tunneling)
+    - [Management NIC](https://learn.microsoft.com/en-us/azure/firewall/management-nic)
     - [Certifications](https://learn.microsoft.com/en-us/azure/firewall/compliance-certifications)
     - [Central management](https://learn.microsoft.com/en-us/azure/firewall/central-management)
     - [Remote work support](https://learn.microsoft.com/en-us/azure/firewall/remote-work-support)

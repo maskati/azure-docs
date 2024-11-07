@@ -138,6 +138,8 @@
         - [Azure portal](https://learn.microsoft.com/en-us/azure/application-gateway/rewrite-url-portal)
       - Parameter based path selection
         - [Azure portal](https://learn.microsoft.com/en-us/azure/application-gateway/parameter-based-path-selection-portal)
+      - HSTS Policy
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/application-gateway/hsts-http-headers-portal)
     - Configure custom probes
       - [Portal](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-create-probe-portal)
       - [Classic PowerShell](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-create-probe-classic-ps)

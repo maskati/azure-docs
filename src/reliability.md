@@ -82,15 +82,15 @@
       - Azure App Configuration
         - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-app-configuration/faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-disaster-recovery?tabs=core2x?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
-        - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
-        - Azure Container Registry
-          - [Availability zones](https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-          - [Disaster recovery](https://learn.microsoft.com/azure/container-registry/container-registry-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Azure Kubernetes Service AKS](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - Azure Service Fabric
-          - [Availability zones](https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-          - [Disaster recovery](https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
+      - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
+      - Azure Container Registry
+        - [Availability zones](https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/azure/container-registry/container-registry-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Kubernetes Service AKS](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure Service Fabric
+        - [Availability zones](https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
     - Databases
       - Azure SQL
         - [Availability zones](https://learn.microsoft.com/azure/azure-sql/database/high-availability-sla?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -213,6 +213,15 @@
       - [Azure Notification Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs)
       - [Azure SignalR Service](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
   - Resources
+    - Service availability
+      - [Service availability by region](https://azure.microsoft.com/global-infrastructure/services/)
+      - [Service availability by category](https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category)
+      - Service availability by sovereign cloud
+        - [US Government](https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Microsoft Azure operated by 21Vianet](https://learn.microsoft.com/en-us/azure/reliability/sovereign-cloud-china)
+    - [Azure Reliability feature page](https://azure.microsoft.com/explore/reliability/)
+    - [Reliability testing - Chaos engineering](https://learn.microsoft.com/azure/well-architected/resiliency/chaos-engineering)
+    - [Reliability in Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/reliability)
     - Azure Service Manager retirement
       - [Overview](https://learn.microsoft.com/en-us/azure/reliability/asm-retirement)
       - Migration guides by service
@@ -233,12 +242,3 @@
         - [Classic Reserved IP addresses](https://learn.microsoft.com/azure/virtual-network/ip-services/public-ip-upgrade-classic?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Classic ExpressRoute Gateway](https://learn.microsoft.com/azure/expressroute/expressroute-migration-classic-resource-manager?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Classic VPN gateway](https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - Service availability
-        - [Service availability by region](https://azure.microsoft.com/global-infrastructure/services/)
-        - [Service availability by category](https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category)
-        - Service availability by sovereign cloud
-          - [US Government](https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-          - [Microsoft Azure operated by 21Vianet](https://learn.microsoft.com/en-us/azure/reliability/sovereign-cloud-china)
-    - [Azure Reliability feature page](https://azure.microsoft.com/explore/reliability/)
-    - [Reliability testing - Chaos engineering](https://learn.microsoft.com/azure/well-architected/resiliency/chaos-engineering)
-    - [Reliability in Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/reliability)

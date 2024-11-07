@@ -225,6 +225,7 @@
       - [Hive](https://learn.microsoft.com/en-us/azure/data-factory/connector-hive)
       - [HTTP](https://learn.microsoft.com/en-us/azure/data-factory/connector-http)
       - [HubSpot](https://learn.microsoft.com/en-us/azure/data-factory/connector-hubspot)
+      - [Iceberg format](https://learn.microsoft.com/en-us/azure/data-factory/format-iceberg)
       - [Impala](https://learn.microsoft.com/en-us/azure/data-factory/connector-impala)
       - [Informix](https://learn.microsoft.com/en-us/azure/data-factory/connector-informix)
       - [Jira](https://learn.microsoft.com/en-us/azure/data-factory/connector-jira)
