@@ -18,6 +18,10 @@
         - [With Azure PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-secondary-region-restore-postgresql-powershell)
     - Configure AKS cluster backup
       - [From the Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-aks)
+      - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-cli)
+      - [With PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-powershell)
+      - [With Azure Resource Manager](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-arm)
+      - [With Bicep](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-bicep)
       - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-terraform)
     - Configure vaulted backup for Azure Blob
       - [From the Azure portal](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-quick)

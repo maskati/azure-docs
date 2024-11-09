@@ -618,9 +618,9 @@
     - [Compute optimized data flows retired](https://learn.microsoft.com/en-us/azure/data-factory/compute-optimized-data-flow-retire)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/data-factory/monitor-data-factory-reference)
   - Resources
-    - Important changes deprecations coming
-      - [Connector upgrade and deprecations](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-plan)
-      - [Connector deprecation FAQ](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-frequently-asked-questions)
+    - Important changes coming
+      - [Connector upgrades](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-plan)
+      - [Connector upgrade FAQ](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-frequently-asked-questions)
     - [Whitepapers](https://learn.microsoft.com/en-us/azure/data-factory/whitepapers)
     - [FAQ](https://learn.microsoft.com/en-us/azure/data-factory/frequently-asked-questions.yml)
     - [Service updates](https://azure.microsoft.com/updates/?product=data-factory)
