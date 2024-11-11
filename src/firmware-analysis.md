@@ -2,6 +2,7 @@
   - Overview
     - [Overview of Firmware analysis](https://learn.microsoft.com/en-us/azure/firmware-analysis/overview-firmware-analysis)
     - [Firmware analysis frequently asked questions](https://learn.microsoft.com/en-us/azure/firmware-analysis/firmware-analysis-faq)
+    - [What's new?](https://learn.microsoft.com/en-us/azure/firmware-analysis/release-notes)
   - Quickstarts
     - [Quickstart to use Firmware analysis with Azure CLI](https://learn.microsoft.com/en-us/azure/firmware-analysis/quickstart-upload-firmware-using-azure-command-line-interface)
     - [Quickstart to use Firmware analysis with Azure PowerShell](https://learn.microsoft.com/en-us/azure/firmware-analysis/quickstart-upload-firmware-using-powershell)

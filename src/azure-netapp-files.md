@@ -54,6 +54,7 @@
     - Performance
       - Best practices and considerations
         - [General performance considerations for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-performance-considerations)
+        - [Understand workload types](https://learn.microsoft.com/en-us/azure/azure-netapp-files/workload-types)
         - [Linux direct I/O best practices](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-linux-direct-io)
         - [Linux filesystem cache best practices](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-linux-filesystem-cache)
         - [Linux NFS mount options best practices](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-linux-mount-options)
@@ -66,6 +67,7 @@
         - [AVS datastore performance considerations for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-azure-vmware-solution-datastore)
       - Performance tests
         - [Performance benchmark test recommendations for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-performance-metrics-volumes)
+        - [Testing methodology](https://learn.microsoft.com/en-us/azure/azure-netapp-files/testing-methodology)
         - [Regular volume performance benchmarks for Linux](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-benchmarks-linux)
         - [Large volume performance benchmarks for Linux](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-large-volumes-linux)
         - [Oracle database performance on Azure NetApp Files single volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-oracle-single-volumes)

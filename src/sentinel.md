@@ -436,6 +436,13 @@
   - Hunt for threats
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/hunting)
     - [Conduct end-to-end hunts](https://learn.microsoft.com/en-us/azure/sentinel/hunts)
+    - Advanced hunting in the Defender portal
+      - [Overview](https://learn.microsoft.com/defender-xdr/advanced-hunting-microsoft-defender?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Generate queries with Security Copilot](https://learn.microsoft.com/defender-xdr/advanced-hunting-security-copilot?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Use functions, saved queries, custom rules](https://learn.microsoft.com/defender-xdr/advanced-hunting-defender-use-custom-rules?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Use shared queries](https://learn.microsoft.com/defender-xdr/advanced-hunting-shared-queries?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Work with query results](https://learn.microsoft.com/defender-xdr/advanced-hunting-query-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Explore results containing Microsoft Sentinel data](https://learn.microsoft.com/defender-xdr/advanced-hunting-defender-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - Hunt with Kusto Query Language
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/kusto-overview)
       - [Query best practices](https://learn.microsoft.com/azure/data-explorer/kusto/query/best-practices?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)

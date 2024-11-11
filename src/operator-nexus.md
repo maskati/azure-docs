@@ -90,6 +90,14 @@
       - [How to replace network devices in Azure Operator Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-replace-network-devices)
       - [How to put a device into maintenance mode](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-put-device-in-maintenance-mode)
       - [How to upgrade Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric)
+    - Cluster
+      - BareMetal Actions
+        - [BareMetal BMM Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmm-ssh)
+        - [BareMetal BMC Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmc-ssh)
+        - [BareMetal Functions](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-functions)
+        - [BareMetal Run-Read Execution](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-run-read)
+        - [BareMetal Run-Data-Extract Execution](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-run-data-extract)
+        - [Running BareMetal actions directly with nexusctl](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-nexusctl)
     - Nexus Kubernetes cluster
       - [Create dual-stack cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-dual-stack)
       - [Understand agent pools](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-kubernetes-cluster-agent-pools)
@@ -133,13 +141,6 @@
       - [Troubleshoot Control Plane Quorum](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-control-plane-quorum)
       - [Troubleshoot Accepted Cluster Resource](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-accepted-cluster-hydration)
       - [Troubleshoot Out of Memory Pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-memory-limits)
-      - BareMetal Actions
-        - [BareMetal BMM Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmm-ssh)
-        - [BareMetal BMC Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmc-ssh)
-        - [BareMetal Functions](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-functions)
-        - [BareMetal Run-Read Execution](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-run-read)
-        - [BareMetal Run-Data-Extract Execution](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-run-data-extract)
-        - [Running BareMetal actions directly with nexusctl](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-nexusctl)
     - Storage Array
     - Tenant Workload
       - [Troubleshoot Nexus Kubernetes Cluster pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-nexus-kubernetes-cluster-pods)
