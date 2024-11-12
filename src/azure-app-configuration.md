@@ -13,7 +13,7 @@
       - [.NET Framework](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-dotnet-app)
       - [Java Spring](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-java-spring-app)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-python-provider)
-      - [JavaScript/Node.js](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-javascript-provider)
+      - [Node.js](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-javascript-provider)
       - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-functions-csharp)
     - Feature management
       - [Manage feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/manage-feature-flags)
@@ -22,7 +22,8 @@
       - [.NET Background Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-dotnet-background-service)
       - [Java Spring](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-spring-boot)
       - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-azure-functions-csharp)
-      - [Python app](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-python)
+      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-python)
+      - [Node.js](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-javascript)
       - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-azure-kubernetes-service)
     - Service integration
       - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-kubernetes-service)
@@ -43,7 +44,7 @@
       - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-functions-csharp)
       - [Spring Boot](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-java-spring-app)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-python)
-      - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-javascript)
+      - [Node.js](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-javascript)
       - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-kubernetes-service)
     - Enable dynamic configuration using push model
       - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-core-push-refresh)
@@ -68,10 +69,12 @@
       - Enable conditional features with feature filters
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters)
         - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-aspnet-core)
+        - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-javascript)
         - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-python)
       - Enable features on a schedule
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter)
         - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-aspnet-core)
+        - [JavaScipt](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-javascript)
       - Roll out features to targeted audience
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter)
         - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-aspnet-core)

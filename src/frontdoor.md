@@ -74,6 +74,7 @@
           - [Server variables](https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables)
           - [URL rewrite](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium)
           - [URL redirect](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-standard-premium)
+        - [WebSocket](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/websocket)
         - [Sensitive data protection](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/sensitive-data-protection)
         - [Understand billing](https://learn.microsoft.com/en-us/azure/frontdoor/billing)
         - [Price comparison between tiers](https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing)
