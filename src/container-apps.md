@@ -178,6 +178,7 @@
         - [Connect to Config Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-config-server)
         - [Integrate Eureka Server with Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin-eureka-integration)
         - [Query managed component logs](https://learn.microsoft.com/en-us/azure/container-apps/java-component-logs)
+        - [Configure Application Performance Management APM Java agent with init-container](https://learn.microsoft.com/en-us/azure/container-apps/java-application-performance-management-config)
         - [Create a highly available Eureka server component cluster](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-highly-available)
   - Billing & quotas
     - [Billing](https://learn.microsoft.com/en-us/azure/container-apps/billing)

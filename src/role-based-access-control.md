@@ -48,7 +48,8 @@
       - [CLI](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-cli)
       - [REST API](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-rest)
       - [ARM template](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-template)
-    - Activate roles
+    - Eligible and time-bound
+      - [Eligible and time-bound](https://learn.microsoft.com/en-us/azure/role-based-access-control/pim-integration)
       - [Activate eligible roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-eligible-activate)
     - Delegate
       - [Subscription administrator with conditions](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal-subscription-admin.yml)

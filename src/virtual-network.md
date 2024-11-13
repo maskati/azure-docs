@@ -12,7 +12,7 @@
     - [Create virtual network - Terraform](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-terraform)
   - Tutorials
     - [Filter network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic)
-    - [Route network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal)
+    - [Route network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table)
     - [Restrict network access to resources](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
     - [Connect virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal)
     - [Service endpoint policies](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies)
@@ -64,9 +64,6 @@
       - [Logs](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-nsg-manage-log)
     - Connectivity
       - Route network traffic
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-powershell)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-cli)
         - [Ansible](https://learn.microsoft.com/azure/developer/ansible/route-table-configure)
         - [Manage route tables](https://learn.microsoft.com/en-us/azure/virtual-network/manage-route-table.yml)
       - [Manage NICs](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface)

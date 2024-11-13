@@ -50,7 +50,6 @@
     - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-overview)
     - Azure Functions
       - [Integration options](https://learn.microsoft.com/en-us/azure/static-web-apps/apis-functions)
-      - [Distributed functions](https://learn.microsoft.com/en-us/azure/static-web-apps/distributed-functions)
       - Tutorials
         - [Add an API](https://learn.microsoft.com/en-us/azure/static-web-apps/add-api)
         - [Bring your own functions](https://learn.microsoft.com/en-us/azure/static-web-apps/functions-bring-your-own)

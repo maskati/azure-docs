@@ -32,6 +32,7 @@
   - Use Azure Developer CLI with ADE
     - [Use Azure Developer CLI azd with ADE](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-azure-developer-cli-with-deployment-environments)
     - [Create environments with Azure Developer CLI azd](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-create-environment-with-azure-developer)
+    - [Configure AZD-compatible templates](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-azure-developer-cli-deployment-environments)
   - Manage costs
     - [Automatically delete an environment](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-schedule-environment-deletion)
     - [Request a quota limit increase](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-request-quota-increase)
