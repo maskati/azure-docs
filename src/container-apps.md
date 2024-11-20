@@ -32,6 +32,7 @@
       - [Code interpreter sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
       - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
     - [Microservices](https://learn.microsoft.com/en-us/azure/container-apps/microservices)
+    - [Planned maintenance](https://learn.microsoft.com/en-us/azure/container-apps/planned-maintenance)
     - [Build and deliver apps with Container Apps video](https://www.youtube.com/watch?v=b3dopSTnSRg)
   - Develop & deploy
     - [Deployment options](https://learn.microsoft.com/en-us/azure/container-apps/code-to-cloud-options)
@@ -69,6 +70,7 @@
         - [LangChain](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain)
         - [LlamaIndex](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex)
         - [Semantic Kernel](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel)
+        - [JavaScript Code Interpreter preview](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs)
     - Event-driven processing
       - [With a job](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs)
     - [Troubleshooting](https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting)
@@ -108,7 +110,7 @@
     - Managed identities
       - [Use managed identities](https://learn.microsoft.com/en-us/azure/container-apps/managed-identity)
       - [Azure Container Registry image pull with managed identity](https://learn.microsoft.com/en-us/azure/container-apps/managed-identity-image-pull)
-  - Resiliency
+  - Resiliency preview
     - [Service discovery resiliency](https://learn.microsoft.com/en-us/azure/container-apps/service-discovery-resiliency)
     - [Dapr component resiliency](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
   - Reliability
@@ -118,6 +120,10 @@
     - Manage workload profiles
       - [CLI](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-cli)
       - [Portal](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-portal)
+  - GPUs
+    - [Serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview)
+    - Tutorials
+      - [Generate images with serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation)
   - Microservices
     - Developing with Dapr
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview)
@@ -126,7 +132,7 @@
         - [Enable Dapr](https://learn.microsoft.com/en-us/azure/container-apps/enable-dapr)
       - Configure
         - [Dapr components](https://learn.microsoft.com/en-us/azure/container-apps/dapr-components)
-        - [Dapr component resiliency](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
+        - [Dapr component resiliency preview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
         - [Scale Dapr apps with KEDA using Bicep](https://learn.microsoft.com/en-us/azure/container-apps/dapr-keda-scaling)
         - [Enable token authentication for Dapr requests](https://learn.microsoft.com/en-us/azure/container-apps/dapr-authentication-token)
       - Tutorials
@@ -154,6 +160,8 @@
       - [Configure WAF Application Gateway](https://learn.microsoft.com/en-us/azure/container-apps/waf-app-gateway)
       - [Enable User Defined Routes UDR](https://learn.microsoft.com/en-us/azure/container-apps/user-defined-routes)
       - [Securing a custom VNET with an NSG](https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration)
+      - [Use a private endpoint](https://learn.microsoft.com/en-us/azure/container-apps/how-to-use-private-endpoint)
+      - [Integrate with Azure Front Door](https://learn.microsoft.com/en-us/azure/container-apps/how-to-integrate-with-azure-front-door)
     - [Use a custom VNET](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom)
   - Languages and runtimes
     - .NET
@@ -168,14 +176,12 @@
       - [Automatic memory fitting preview](https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit)
       - [Build environment variables preview](https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables)
       - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics)
-      - [Use Eureka Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-usage)
-      - [Use Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin-for-spring-usage)
-      - [Use Config Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-config-server-usage)
+      - [Connect to Eureka Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server)
+      - [Connect to Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin)
+      - [Connect to Config Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-config-server)
+      - [Connect to Gateway for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-gateway-for-spring)
       - [Set dynamic logger level](https://learn.microsoft.com/en-us/azure/container-apps/java-dynamic-log-level)
       - Tutorials
-        - [Connect to Eureka Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server)
-        - [Connect to Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin)
-        - [Connect to Config Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-config-server)
         - [Integrate Eureka Server with Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin-eureka-integration)
         - [Query managed component logs](https://learn.microsoft.com/en-us/azure/container-apps/java-component-logs)
         - [Configure Application Performance Management APM Java agent with init-container](https://learn.microsoft.com/en-us/azure/container-apps/java-application-performance-management-config)

@@ -33,6 +33,8 @@
       - [Service levels for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-service-levels)
       - [Guidelines for Azure NetApp Files network planning](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-network-topologies)
       - [Resource limits for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-resource-limits)
+      - [Understand large volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/large-volumes)
+      - [Requirements and considerations for large volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/large-volumes-requirements-considerations)
       - High file counts
         - [Understand maxfiles](https://learn.microsoft.com/en-us/azure/azure-netapp-files/maxfiles-concept)
         - [Understand maximum directory sizes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/directory-sizes-concept)
@@ -49,8 +51,6 @@
       - [Understand volume hard quota](https://learn.microsoft.com/en-us/azure/azure-netapp-files/volume-hard-quota-guidelines)
       - [Regional capacity quota](https://learn.microsoft.com/en-us/azure/azure-netapp-files/regional-capacity-quota)
       - [Understand default and individual user and group quotas](https://learn.microsoft.com/en-us/azure/azure-netapp-files/default-individual-user-group-quotas-introduction)
-      - [Understand large volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/large-volumes)
-      - [Requirements and considerations for large volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/large-volumes-requirements-considerations)
     - Performance
       - Best practices and considerations
         - [General performance considerations for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-performance-considerations)

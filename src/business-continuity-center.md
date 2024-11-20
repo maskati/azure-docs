@@ -1,7 +1,9 @@
-# Azure Business Continuity Center documentation (preview)
-> The Azure Business Continuity Center (preview) is an easy-to-use web-based user interface for managing your backup and disaster recovery at scale from single place across various environment and solutions.  Use it for configuring backups and replication, defining protection policies, monitoring operations, review configurations and much more.
-  - [Azure Business Continuity Center documentation preview](https://learn.microsoft.com/en-us/azure/business-continuity-center/)
+# Azure Business Continuity Center documentation
+> The Azure Business Continuity Center is an easy-to-use web-based user interface for managing your backup and disaster recovery at scale from single place across various environment and solutions. Use it for configuring backups and replication, defining protection policies, monitoring operations, review configurations and much more.
+  - [Azure Business Continuity Center documentation](https://learn.microsoft.com/en-us/azure/business-continuity-center/)
   - [Overview](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-overview)
+  - Quickstart
+    - [Understand the protection estate](https://learn.microsoft.com/en-us/azure/business-continuity-center/quick-understand-protection-estate)
   - Tutorials
     - [View protectable resources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protectable-resources)
     - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-configure-protection-datasource)
@@ -11,7 +13,9 @@
     - [Monitor jobs](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-operate)
     - [Monitor alerts and metrics](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-alerts-metrics)
     - [Monitoring protection summary](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-protection-summary)
+    - [Configure and view reports](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-reporting-for-data-insights)
     - [Govern and view compliance](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-govern-monitor-compliance)
+    - [Manage the Business Continuity and Disaster Recovery estate using Copilot](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-manage-data-using-copilot)
   - Concepts
     - [Support matrices](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-support-matrix)
     - [Security levels](https://learn.microsoft.com/en-us/azure/business-continuity-center/security-levels-concept)

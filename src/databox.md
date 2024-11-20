@@ -4,10 +4,13 @@
     - Data Box
       - Overview
         - [What is Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview)
+        - [What is Data Box V2?](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-overview)
       - Quickstarts
         - Set up - Azure portal
           - [For import](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal)
+          - [For import - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-quickstart-portal)
           - [For export](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-export)
+          - [For export - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-quickstart-export)
       - Tutorials
         - Import data to Azure
           - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-ordered)
@@ -29,6 +32,7 @@
           - [4 - Return](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-picked-up)
       - Concepts
         - [Read safety guidelines](https://learn.microsoft.com/en-us/azure/databox/data-box-safety)
+        - [Read safety guidelines - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-safety)
         - Review tracking and logging
           - [For import orders](https://learn.microsoft.com/en-us/azure/databox/data-box-logs)
           - [For export orders](https://learn.microsoft.com/en-us/azure/databox/data-box-export-logs)
@@ -41,6 +45,7 @@
           - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/databox-security-baseline?context=/azure/databox/context/context)
           - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/databox/security-controls-policy)
           - [Review security](https://learn.microsoft.com/en-us/azure/databox/data-box-security)
+          - [Review security - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-security)
         - [Transfer ACLs and metadata](https://learn.microsoft.com/en-us/azure/databox/data-box-file-acls-preservation)
         - [FAQ](https://learn.microsoft.com/en-us/azure/databox/data-box-faq.yml)
       - How to

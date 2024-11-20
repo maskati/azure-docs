@@ -33,7 +33,6 @@
       - [Proxy updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-proxy-updates)
       - [Multi-step updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-multi-step-updates)
       - [Region mapping for scan and failover](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-region-mapping)
-    - [Updates for disconnected devices](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/connected-cache-disconnected-device-update)
     - [Diagnostic features](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-diagnostics)
     - [Security](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-security)
     - [Network security](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/network-security)
@@ -54,9 +53,6 @@
     - [Use related files](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/related-files)
     - [Use TLS downloads](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-tls-download)
     - [Configure private endpoints](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/configure-private-endpoints)
-    - Use Microsoft Connected Cache
-      - [Single gateway](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/connected-cache-single-level)
-      - [Nested gateways](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/connected-cache-nested-level)
     - [Migrate devices to public preview refresh](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/migration-public-preview-refresh-to-ga)
     - Troubleshoot
       - [Troubleshoot device updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/troubleshoot-device-update)

@@ -36,6 +36,7 @@
       - [Set up DNS failover using private resolvers](https://learn.microsoft.com/en-us/azure/dns/tutorial-dns-private-resolver-failover)
   - Concepts
     - Security
+      - [DNS security policy](https://learn.microsoft.com/en-us/azure/dns/dns-security-policy)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-dns-security-baseline?toc=/azure/dns/TOC.json)
     - Public DNS
       - [Zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-zones-records)
@@ -59,6 +60,8 @@
       - [Private resolver architecture](https://learn.microsoft.com/en-us/azure/dns/private-resolver-architecture)
       - [Resiliency in Azure DNS Private Resolver](https://learn.microsoft.com/en-us/azure/dns/private-resolver-reliability)
   - How-to guides
+    - DNS security policy
+      - [Filter and view DNS traffic](https://learn.microsoft.com/en-us/azure/dns/dns-traffic-log-how-to)
     - Public DNS
       - [Alias records for load balanced web apps](https://learn.microsoft.com/en-us/azure/dns/dns-alias-appservice)
       - Manage DNSSEC
@@ -92,6 +95,7 @@
         - [Azure CLI](https://learn.microsoft.com/en-us/azure/dns/private-dns-import-export)
       - [Create and manage reverse DNS zones](https://learn.microsoft.com/en-us/azure/dns/private-reverse-dns)
       - [Use Azure Resource Graph Explorer](https://learn.microsoft.com/en-us/azure/dns/private-dns-arg)
+      - [Fallback to internet resolution](https://learn.microsoft.com/en-us/azure/dns/private-dns-fallback)
     - Private Resolver
       - [Resolve Azure and on-premises domains](https://learn.microsoft.com/en-us/azure/dns/private-resolver-hybrid-dns)
     - Troubleshoot

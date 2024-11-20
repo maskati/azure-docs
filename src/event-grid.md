@@ -45,6 +45,7 @@
           - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/event-grid/security-controls-policy)
           - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/event-grid/policy-reference)
           - [Network security MQTT](https://learn.microsoft.com/en-us/azure/event-grid/network-security-namespaces)
+          - [Transport Layer Security TLS](https://learn.microsoft.com/en-us/azure/event-grid/transport-layer-security)
         - Use cases
           - [Automotive Messaging](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-automotive-connectivity-and-data-solution)
       - How-to
@@ -107,6 +108,7 @@
         - [Create, view, and manage namespace topics](https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-namespace-topics)
         - [Create, view, and manage event subscriptions](https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-event-subscriptions)
         - [Assign custom domain name to a namespace](https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name)
+        - [Forward events to another namespace topic](https://learn.microsoft.com/en-us/azure/event-grid/forward-events-to-another-namespace-topic)
         - Monitor
           - [Monitor Event Grid namespaces](https://learn.microsoft.com/en-us/azure/event-grid/monitor-namespaces)
           - [Pull delivery data reference](https://learn.microsoft.com/en-us/azure/event-grid/monitor-pull-reference)
@@ -200,6 +202,7 @@
             - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-resource-notifications)
             - [Health Resources](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-health-resources)
             - [Azure Resource Management](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-resources)
+            - [Container Service Event Resources](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-containerservice-resources)
           - [Azure Service Bus](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-service-bus)
           - [Azure SignalR](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-azure-signalr)
           - [Azure Storage Actions](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-storage-actions)
@@ -295,6 +298,7 @@
         - [Handle Health Resources events using Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/event-grid/handle-health-resources-events-using-azure-monitor-alerts)
       - [Subscribe to Azure Resource Notifications - Health Resources events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-resource-notifications-health-resources-events)
       - [Subscribe to Azure Resource Notifications - Resource Management events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-resource-notifications-resources-events)
+      - [Subscribe to Azure Resource Notifications - Container Service events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-resource-notifications-containerservice-events)
       - [Track asynchronous REST operations](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/async-operations?toc=/azure/event-grid/toc.json)
       - Relocate
         - [Relocate system topics across regions](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-grid-system-topics?toc=/azure/event-grid/toc.json)
@@ -307,6 +311,7 @@
           - [Enable managed identity for a system topic](https://learn.microsoft.com/en-us/azure/event-grid/enable-identity-system-topics)
           - [Grant managed identity the access to Event Grid destination](https://learn.microsoft.com/en-us/azure/event-grid/add-identity-roles)
           - [Create an event subscription that uses the managed identity](https://learn.microsoft.com/en-us/azure/event-grid/managed-service-identity)
+          - [Cross-tenant delivery using managed identity](https://learn.microsoft.com/en-us/azure/event-grid/cross-tenant-delivery-using-managed-identity)
         - [Enforce security controls with custom Azure policies](https://learn.microsoft.com/en-us/azure/event-grid/custom-azure-policies-for-security-control)
         - [Deliver events securely over a private link](https://learn.microsoft.com/en-us/azure/event-grid/consume-private-endpoints)
         - [Configure IP firewall](https://learn.microsoft.com/en-us/azure/event-grid/configure-firewall)

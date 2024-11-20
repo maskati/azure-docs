@@ -8,6 +8,7 @@
     - [Set up Dev Box service Azure portal](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-service)
     - [Set up Dev Box service ARM template](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-arm-template)
     - [Spin up a new dev box](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-create-dev-box)
+    - [Use Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-team-customizations)
   - Concepts
     - [Architecture overview](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-architecture)
     - [Network requirements](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-network-requirements)
@@ -29,11 +30,14 @@
     - [Configure an Azure compute gallery](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-azure-compute-gallery)
     - [Provision a Custom Image with Azure Image Builder](https://learn.microsoft.com/en-us/azure/dev-box/how-to-customize-devbox-azure-image-builder)
   - Customize dev boxes
-    - [Create reusable customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-customize-dev-box-setup-tasks)
-    - [Use Dev Home to manage dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-use-dev-home-customize-dev-box)
+    - [What are Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/concept-what-are-team-customizations)
+    - [Write a customization file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-customization-file)
+    - [Configure imaging for Customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-customization-imaging)
+    - [Create customization tasks](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-customization-tasks-catalog)
   - Create & connect to dev boxes
     - [Manage a dev box through developer portal](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
     - [Connect with Windows App](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?context=/azure/dev-box/context/context&pivots=dev-box)
+    - [Use Dev Home to manage dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-use-dev-home-customize-dev-box)
     - [Connect with Remote Desktop](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-connect-to-dev-box-with-remote-desktop-app)
     - [Use multiple monitors](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-configure-multiple-monitors)
   - Security

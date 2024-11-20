@@ -34,7 +34,7 @@
       - [Virtual machine sizing guidance](https://learn.microsoft.com/windows-server/remote/remote-desktop-services/virtual-machine-recs?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
       - [Understanding network connectivity](https://learn.microsoft.com/en-us/azure/virtual-desktop/network-connectivity)
       - [Bandwidth considerations](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth)
-      - [Azure Stack HCI](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-stack-hci-overview)
+      - [Azure Local](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-local-overview)
       - [Azure Extended Zones](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-extended-zones)
     - [Security recommendations](https://learn.microsoft.com/en-us/azure/virtual-desktop/security-recommendations)
     - [Data locations](https://learn.microsoft.com/en-us/azure/virtual-desktop/data-locations)

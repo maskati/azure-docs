@@ -109,6 +109,7 @@
       - Automatic device management at scale
         - [Use Azure portal](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-automatic-device-management)
         - [Use Azure CLI](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-automatic-device-management-cli)
+      - [Regenerate keys](https://learn.microsoft.com/en-us/azure/iot-hub/regenerate-keys)
     - Develop
       - [Send cloud-to-device messages](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-cloud-to-device-messaging)
       - [Upload files from devices](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-file-upload)

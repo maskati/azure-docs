@@ -23,6 +23,13 @@
       - [With Azure Resource Manager](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-arm)
       - [With Bicep](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-bicep)
       - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-terraform)
+    - Configure backup for Azure Database for PostgreSQL  - Flexible Server
+      - [With Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-portal)
+      - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-cli)
+      - [With PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-powershell)
+      - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-terraform)
+      - [With Azure Resource Manager template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-arm)
+      - [With Azure Bicep template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-bicep)
     - Configure vaulted backup for Azure Blob
       - [From the Azure portal](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-quick)
       - [Using PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-blob-vaulted-backup-powershell)
@@ -71,6 +78,7 @@
       - [MARS agent support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix-mars-agent)
       - [SQL Server Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sql-support-matrix)
       - [SAP HANA Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-hana-backup-support-matrix)
+      - [SAP ASE Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-ase-backup-support-matrix)
       - [Azure Database for MySQL - Flexible Server long-term retention support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)
       - [Azure file share backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-support-matrix)
       - [Azure Disk Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/disk-backup-support-matrix)
@@ -102,11 +110,12 @@
     - Azure VM backup
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
       - [Agentless multi-disk crash-consistent VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-agentless-multi-disk-crash-consistent-overview)
-    - SAP HANA database on Azure VM backup
+    - [SAP HANA database on Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-about)
       - [Architecture](https://learn.microsoft.com/en-us/azure/backup/azure-backup-architecture-for-sap-hana-backup)
-    - [Azure Database for MySQL - Flexible Server long-term retention](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
+      - Azure Database for MySQL - Flexible Server long-term retention
     - [Azure Database for PostgreSQL -Flexible server backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-overview)
+    - [SAP ASE database on Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-about)
     - Azure Kubernetes Service backup
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-overview)
       - [Prerequisites](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-concept)
@@ -120,6 +129,7 @@
       - [Enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-about)
       - [Multi-user authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept)
       - [Immutable vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-concept)
+      - [Secure by Default with Azure Backup Preview](https://learn.microsoft.com/en-us/azure/backup/secure-by-default)
       - Private endpoints
         - [V1 experience](https://learn.microsoft.com/en-us/azure/backup/private-endpoints-overview)
         - [V2 experience](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-concept)
@@ -205,6 +215,13 @@
       - From the Azure portal
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-database-postgresql-flex)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-manage)
+      - With Azure CLI
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-database-postgresql-flex-backup-cli)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-restore-cli)
+      - With PowerShell
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-database-postgresql-flex-backup-powershell)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-restore-powershell)
       - With REST API
         - [Create a policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api-create-update-policy)
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api)
@@ -290,6 +307,10 @@
         - [Database and HANA System Replication database](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-restore)
         - [Instance snapshot](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-instances-restore)
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-manage)
+    - SAP ASE database on Azure VM backup
+      - [Backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup)
+      - [Restore](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-restore)
+      - [Manage](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-manage)
     - Azure Backup Server MABS
       - Protection matrices
         - [MABS V4 and later protection matrix](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-protection-matrix)

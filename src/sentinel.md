@@ -443,41 +443,59 @@
       - [Use shared queries](https://learn.microsoft.com/defender-xdr/advanced-hunting-shared-queries?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Work with query results](https://learn.microsoft.com/defender-xdr/advanced-hunting-query-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Explore results containing Microsoft Sentinel data](https://learn.microsoft.com/defender-xdr/advanced-hunting-defender-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-    - Hunt with Kusto Query Language
+    - Kusto Query Language
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/kusto-overview)
-      - [Query best practices](https://learn.microsoft.com/azure/data-explorer/kusto/query/best-practices?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [SQL to KQL cheat sheet](https://learn.microsoft.com/azure/data-explorer/kusto/query/sqlcheatsheet?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Splunk to KQL cheat sheet](https://learn.microsoft.com/azure/data-explorer/kusto/query/splunk-cheat-sheet?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [KQL quick reference](https://learn.microsoft.com/azure/data-explorer/kql-quick-reference?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Query best practices](https://learn.microsoft.com/kusto/query/best-practices?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [SQL to KQL cheat sheet](https://learn.microsoft.com/kusto/query/sqlcheatsheet?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Splunk to KQL cheat sheet](https://learn.microsoft.com/kusto/query/splunk-cheat-sheet?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [KQL quick reference](https://learn.microsoft.com/kusto/query/kql-quick-reference?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Other KQL resources](https://learn.microsoft.com/en-us/azure/sentinel/kusto-resources)
     - [Create custom query](https://learn.microsoft.com/en-us/azure/sentinel/hunts-custom-queries)
-    - [Hunt with bookmarks](https://learn.microsoft.com/en-us/azure/sentinel/bookmarks)
-    - [Hunt with livestream](https://learn.microsoft.com/en-us/azure/sentinel/livestream)
-    - Hunt with notebooks
+    - [Bookmarks](https://learn.microsoft.com/en-us/azure/sentinel/bookmarks)
+    - [Livestream](https://learn.microsoft.com/en-us/azure/sentinel/livestream)
+    - Notebooks
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/notebooks)
       - [Get started with notebooks and MSTICPy](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
       - [Launch Jupyter notebook](https://learn.microsoft.com/en-us/azure/sentinel/notebooks-hunt)
       - [Configure advanced MSTICPy settings](https://learn.microsoft.com/en-us/azure/sentinel/notebooks-msticpy-advanced)
     - [Bring your own machine learning](https://learn.microsoft.com/en-us/azure/sentinel/bring-your-own-ml)
   - Investigate incidents
-    - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-investigation)
-    - [Investigate incidents New](https://learn.microsoft.com/en-us/azure/sentinel/investigate-incidents)
-    - [Investigate incidents Legacy](https://learn.microsoft.com/en-us/azure/sentinel/investigate-cases)
-    - [Investigate incidents in Copilot for Security](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-security-copilot)
-    - [Tutorial - Investigate with UEBA](https://learn.microsoft.com/en-us/azure/sentinel/investigate-with-ueba)
-    - [Relate alerts to incidents](https://learn.microsoft.com/en-us/azure/sentinel/relate-alerts-to-incidents)
-    - [Create incidents manually](https://learn.microsoft.com/en-us/azure/sentinel/create-incident-manually)
-    - [Delete incidents](https://learn.microsoft.com/en-us/azure/sentinel/delete-incident)
-    - [Remediate threats while investigating](https://learn.microsoft.com/en-us/azure/sentinel/respond-threats-during-investigation)
-    - Manage incident workflow with tasks
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-tasks)
-      - [Use tasks to handle incident workflow](https://learn.microsoft.com/en-us/azure/sentinel/work-with-tasks)
-      - [Audit and track changes to incident tasks](https://learn.microsoft.com/en-us/azure/sentinel/audit-track-tasks)
-    - Investigate large datasets
+    - Azure portal
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-investigation)
+      - [Investigate incidents](https://learn.microsoft.com/en-us/azure/sentinel/investigate-incidents)
+      - [Tutorial - Investigate with UEBA](https://learn.microsoft.com/en-us/azure/sentinel/investigate-with-ueba)
+      - [Relate alerts to incidents](https://learn.microsoft.com/en-us/azure/sentinel/relate-alerts-to-incidents)
+      - [Create incidents manually](https://learn.microsoft.com/en-us/azure/sentinel/create-incident-manually)
+      - [Delete incidents](https://learn.microsoft.com/en-us/azure/sentinel/delete-incident)
+      - [Remediate threats while investigating](https://learn.microsoft.com/en-us/azure/sentinel/respond-threats-during-investigation)
+      - Manage incident workflow with tasks
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-tasks)
+        - [Use tasks to handle incident workflow](https://learn.microsoft.com/en-us/azure/sentinel/work-with-tasks)
+        - [Audit and track changes to incident tasks](https://learn.microsoft.com/en-us/azure/sentinel/audit-track-tasks)
+      - [Collaborate in Microsoft Teams](https://learn.microsoft.com/en-us/azure/sentinel/collaborate-in-microsoft-teams)
+    - Defender portal
+      - [Overview](https://learn.microsoft.com/defender-xdr/incidents-overview?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Alerts, incidents, and correlation](https://learn.microsoft.com/defender-xdr/alerts-incidents-correlation?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Manage incidents](https://learn.microsoft.com/defender-xdr/manage-incidents?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+    - Entities
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/entity-pages)
+      - [Create custom entity activities](https://learn.microsoft.com/en-us/azure/sentinel/customize-entity-activities)
+      - Entity pages in the Defender portal
+        - [User](https://learn.microsoft.com/defender-xdr/investigate-users?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Device](https://learn.microsoft.com/defender-xdr/entity-page-device?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [IP](https://learn.microsoft.com/defender-xdr/entity-page-ip?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+    - Security Copilot
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-security-copilot)
+      - Microsoft Copilot in Microsoft Defender
+        - [Overview](https://learn.microsoft.com/defender-xdr/security-copilot-in-microsoft-365-defender?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Summarize incidents](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-incident-summary?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Run script analysis](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-script-analysis?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Analyze files](https://learn.microsoft.com/defender-xdr/copilot-in-defender-file-analysis?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Create incident reports](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-create-incident-report?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+    - Large datasets
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/investigate-large-datasets)
       - [Search large datasets](https://learn.microsoft.com/en-us/azure/sentinel/search-jobs)
       - [Restore historical data](https://learn.microsoft.com/en-us/azure/sentinel/restore)
-    - [Collaborate in Microsoft Teams](https://learn.microsoft.com/en-us/azure/sentinel/collaborate-in-microsoft-teams)
   - Automate responses
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/automation/automation)
     - [Respond to threats using automation](https://learn.microsoft.com/en-us/azure/sentinel/automation/tutorial-respond-threats-playbook)

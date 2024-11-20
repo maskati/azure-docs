@@ -60,6 +60,7 @@
         - [Use Data Lake Storage Gen2](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-data-lake-storage-gen2)
         - [Use Data Lake Storage Gen2 in the portal](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-data-lake-storage-gen2-portal)
         - [Use Data Lake Storage Gen2 with Azure CLI](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-data-lake-storage-gen2-azure-cli)
+        - [Configure blob storage as primary storage in Azure HDInsight](https://learn.microsoft.com/en-us/azure/hdinsight/configure-azure-blob-storage)
       - Extend clusters
         - [Install HDInsight apps](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-apps-install-applications)
         - [Customize clusters using Bootstrap](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-customize-cluster-bootstrap)

@@ -140,7 +140,7 @@
     - [Compare runtime versions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions)
     - Hosting and scale
       - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
-      - [Flex Consumption plan preview](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan)
+      - [Flex Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan)
       - [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/functions-premium-plan)
       - [Dedicated plan](https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan)
       - Container hosting

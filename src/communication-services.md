@@ -42,8 +42,6 @@
       - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)
       - [Send an SMS message](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/send)
       - [Receive and reply to SMS](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/receive-sms)
-    - Voice, Video and Chat
-      - [Calling with chat](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/ui-library/get-started-calling-with-chat)
     - Voice and Video
       - Connect to a call
         - [Create an access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
@@ -166,6 +164,7 @@
         - [Manage video](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/manage-video)
         - [Manage Teams calling](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/cte-calling-sdk/manage-calls)
         - [Manage Teams meeting Lobby](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/lobby)
+        - [Manage call duration](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-duration)
         - [PowerPoint Live](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/powerpoint-live)
         - [Record calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/record-calls)
         - [Raise Hand](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/raise-hand)
@@ -212,6 +211,7 @@
         - [Integrate with TelecomManager on Android](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/telecommanager-integration)
         - [Enable push notifications](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/push-notifications)
         - Using the mobile UI Library for voice and video
+          - [Add chat capabilities](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/ui-library/get-started-calling-with-chat)
           - [Configure default orientation](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/orientation)
           - [Configure closed captions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/closed-captions)
           - [Configure theming](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/theming)
@@ -464,7 +464,7 @@
         - [Phone number types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-types)
         - [Number Lookup Concept](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-lookup-concept)
         - [Number Lookup SDK](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-lookup-sdk)
-        - [Country availability](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/sub-eligibility-number-capability)
+        - [Country/region availability](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/sub-eligibility-number-capability)
         - [Emergency calling](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/emergency-calling-concept)
         - [Direct routing infrastructure requirements](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/direct-routing-infrastructure)
         - [Connect to existing telephony](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/direct-routing-provisioning)
@@ -703,7 +703,7 @@
       - [Common .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.common-readme)
       - [Common Android/Java](https://learn.microsoft.com/java/api/overview/azure/communication-common-readme)
       - [Common iOS](https://azure.github.io/azure-sdk-for-ios/AzureCommunicationCommon/index.html)
-    - Country phone number management
+    - Country/region phone number management
       - [Phone number management for Argentina](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-argentina)
       - [Phone number management for Australia](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-australia)
       - [Phone number management for Austria](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/phone-number-management-for-austria)

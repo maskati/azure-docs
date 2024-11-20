@@ -63,3 +63,5 @@
     - [Region availability](https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=energy-data-services&regions=all)
     - [Partners](https://learn.microsoft.com/en-us/azure/energy-data-services/resources-partner-solutions)
     - [Pricing](https://azure.microsoft.com/pricing/details/energy-data-services/)
+  - Support and troubleshooting
+    - [Troubleshooting manifest ingestion](https://learn.microsoft.com/en-us/azure/energy-data-services/troubleshoot-manifest-ingestion)

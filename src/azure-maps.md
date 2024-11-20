@@ -18,6 +18,7 @@
     - REST API Tutorials
       - [EV routing using Azure Notebooks Python](https://learn.microsoft.com/en-us/azure/azure-maps/tutorial-ev-routing)
       - [Analyze weather data using Azure Notebooks Python](https://learn.microsoft.com/en-us/azure/azure-maps/weather-service-tutorial)
+      - [Snap to Roads using Microsoft Fabric notebooks Python](https://learn.microsoft.com/en-us/azure/azure-maps/tutorial-snap-to-Road)
   - Concepts
     - [Authentication with Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-authentication)
     - [Authentication best practices](https://learn.microsoft.com/en-us/azure/azure-maps/authentication-best-practices)

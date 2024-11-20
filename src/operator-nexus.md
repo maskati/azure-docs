@@ -8,6 +8,7 @@
     - [Compute overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-compute)
     - [Storage overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage)
     - [Cluster deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-deployment-overview)
+    - [Cluster Runtime upgrade](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-upgrade-overview)
     - Network Fabric
       - [Network Fabric overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric)
       - [Network Fabric Controller](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-controller)
@@ -128,6 +129,7 @@
       - [Use Azure Policy with Operator Nexus resources](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-azure-policy)
       - [MDE Runtime Protection](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-mde-runtime-protection)
       - [Configure Network Access Control Lists for SSH Access on Management VPN](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-acls-for-ssh-management-on-access-vpn)
+      - [Enable/Disable Vulnerability Scanning](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-disable-vulnerability-scanning)
       - [Service Principal Best Practices](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-service-principal)
         - [Service Principal Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-service-principal-rotation)
     - [Install CLI Extension](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-install-cli-extensions)
@@ -143,7 +145,9 @@
       - [Troubleshoot Out of Memory Pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-memory-limits)
     - Storage Array
     - Tenant Workload
-      - [Troubleshoot Nexus Kubernetes Cluster pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-nexus-kubernetes-cluster-pods)
+      - Troubleshoot PersistentVolumeClaims
+        - [Gather trace IDs for PersistentVolumeClaim failures](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-gather-pvc-trace-id)
+        - [Troubleshoot Nexus Kubernetes Cluster pods stuck in ContainerCreating](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-nexus-kubernetes-cluster-pods)
       - [Troubleshoot Resolve CSN storage pod stuck in ContainerCreating](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-csn-storage-pod-container-stuck-in-creating)
       - [Troubleshoot Internet host virtual machine](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-internet-host-virtual-machine)
       - [Troubleshoot VM errors after BMM restart](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-vm-error-after-reboot)

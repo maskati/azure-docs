@@ -61,7 +61,7 @@
       - SQL Server patching
         - [Overview](https://learn.microsoft.com/en-us/azure/update-manager/guidance-patching-sql-server-azure-vm)
         - [Guidance on patching for SQL Server on Azure VMs](https://learn.microsoft.com/azure/azure-sql/virtual-machines/azure-update-manager-sql-vm?toc=/azure/update-manager/toc.json&bc=/azure/update-manager/breadcrumb/toc.json)
-      - [Azure Stack HCI patching](https://learn.microsoft.com/azure-stack/hci/update/azure-update-manager-23h2?toc=/azure/update-manager/toc.json&bc=/azure/update-manager/breadcrumb/toc.json)
+      - [Azure Local patching](https://learn.microsoft.com/azure-stack/hci/update/azure-update-manager-23h2?toc=/azure/update-manager/toc.json&bc=/azure/update-manager/breadcrumb/toc.json)
       - [Move Azure VMs from Microsoft Configuration Manager to Azure Update Manager](https://learn.microsoft.com/en-us/azure/update-manager/guidance-migration-azure)
   - Troubleshoot
     - [Troubleshoot issues](https://learn.microsoft.com/en-us/azure/update-manager/troubleshoot)

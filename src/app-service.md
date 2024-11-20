@@ -47,6 +47,7 @@
     - [Authentication for deployment](https://learn.microsoft.com/en-us/azure/app-service/deploy-authentication-types)
     - [Set deployment credentials](https://learn.microsoft.com/en-us/azure/app-service/deploy-configure-credentials)
     - [Create staging environments](https://learn.microsoft.com/en-us/azure/app-service/deploy-staging-slots)
+    - [Deploy sidecar container](https://learn.microsoft.com/en-us/azure/app-service/tutorial-sidecar)
     - [Mount Azure Storage](https://learn.microsoft.com/en-us/azure/app-service/configure-connect-to-azure-storage)
     - Automate provisioning
       - [Use Bicep](https://learn.microsoft.com/en-us/azure/app-service/provision-resource-bicep)

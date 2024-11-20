@@ -15,6 +15,9 @@
     - [Create a Private Link service - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-cli)
     - [Create a Private Link service - Bicep](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-bicep)
     - [Create a Private Link service - ARM template](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-template)
+    - [Create a network security perimeter - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-portal)
+    - [Create a network security perimeter - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-powershell)
+    - [Create a network security perimeter - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-cli)
   - Tutorials
     - [Inspect private endpoint traffic with Azure Firewall](https://learn.microsoft.com/en-us/azure/private-link/tutorial-inspect-traffic-azure-firewall)
     - [Deploy a private endpoint with a private resolver](https://learn.microsoft.com/en-us/azure/private-link/tutorial-dns-on-premises-private-resolver)
@@ -28,6 +31,11 @@
     - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
     - [What is a private endpoint?](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
     - [Private Link service](https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview)
+    - Network security perimeter
+      - [What is a network security perimeter?](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-concepts)
+      - [Transition to a network security perimeter](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-transition)
+      - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs)
+      - [Role-based access control permissions](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements)
     - DNS
       - [Private DNS zone values](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
       - [Private endpoint DNS integration](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns-integration)
@@ -57,6 +65,14 @@
     - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/privateendpoints)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/allversions)
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=virtual-network)
+    - Network security perimeter
+      - [Azure CLI](https://learn.microsoft.com/cli/azure/network/network-security-perimeter)
+      - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
+      - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/private-link)
+      - [Java](https://learn.microsoft.com/java/api/)
+      - [Node.js](https://learn.microsoft.com/javascript/azure)
+      - [Python](https://azure.microsoft.com/develop/python/)
+      - [REST](https://github.com/Azure/azure-rest-api-specs/blob/main/specification/network/resource-manager/Microsoft.Network/preview/2023-07-01-preview/networkSecurityPerimeter.json)
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
     - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)

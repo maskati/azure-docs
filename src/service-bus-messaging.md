@@ -47,6 +47,9 @@
     - [Queues, topics, and subscriptions](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions)
     - [Premium messaging](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-premium-messaging)
     - [Compare Azure Queues and Service Bus queues](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted)
+    - Local emulator
+      - [Overview of Service Bus emulator](https://learn.microsoft.com/en-us/azure/service-bus-messaging/overview-emulator)
+      - [What's new with Service Bus emulator](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-emulator-whats-new)
     - Advanced features
       - [Overview of advanced features](https://learn.microsoft.com/en-us/azure/service-bus-messaging/advanced-features-overview)
       - [Message sessions](https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sessions)
@@ -105,6 +108,7 @@
         - [AMQP request-response-based operations](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-request-response)
         - [AMQP errors](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot)
       - [Build a multi-tier Service Bus application](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-multi-tier-app-using-service-bus-queues)
+      - [Test locally with Service Bus emulator](https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator)
     - Migrate
       - [Migrate from ActiveMQ to Azure Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/migrate-jms-activemq-to-servicebus)
       - [Migrate from Azure Service Manager classic APIs to Resource Manager APIs](https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management)

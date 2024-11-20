@@ -7,7 +7,7 @@
   - Quickstarts
     - [Run end-to-end tests at scale](https://learn.microsoft.com/en-us/azure/playwright-testing/quickstart-run-end-to-end-tests)
     - [Set up continuous end-to-end testing](https://learn.microsoft.com/en-us/azure/playwright-testing/quickstart-automate-end-to-end-testing)
-    - [Troubleshoot using rich reports and atrifacts](https://learn.microsoft.com/en-us/azure/playwright-testing/quickstart-generate-rich-reports-for-tests)
+    - [Troubleshoot using rich reports and artifacts](https://learn.microsoft.com/en-us/azure/playwright-testing/quickstart-generate-rich-reports-for-tests)
   - Concepts
     - [Determine optimal test suite configuration](https://learn.microsoft.com/en-us/azure/playwright-testing/concept-determine-optimal-configuration)
   - How-to guides
@@ -15,7 +15,7 @@
     - [Manage workspaces](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-manage-playwright-workspace)
     - [Manage access tokens](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-manage-access-tokens)
     - [Manage workspace access](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-manage-workspace-access)
-    - [Run tests for local apps](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-test-local-applications)
+    - [Run tests for local and private apps](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-test-local-applications)
     - [Configure visual comparisons](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-configure-visual-comparisons)
     - [Monitor Microsoft Playwright Testing](https://learn.microsoft.com/en-us/azure/playwright-testing/monitor-playwright-testing)
     - [Use Microsoft Playwright Testing with sharding](https://learn.microsoft.com/en-us/azure/playwright-testing/playwright-testing-reporting-with-sharding)

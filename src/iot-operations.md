@@ -1,4 +1,4 @@
-# Azure IoT Operations Preview – enabled by Azure Arc
+# Azure IoT Operations – enabled by Azure Arc
 > A unified data plane for the edge
   - [Azure IoT Operations](https://learn.microsoft.com/en-us/azure/iot-operations/)
     - [Overview](https://learn.microsoft.com/en-us/azure/iot-operations/overview-iot-operations)
@@ -11,7 +11,9 @@
       - [Prepare a cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-prepare-cluster)
       - [Deploy to a cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-operations)
       - [Manage, update, or uninstall](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-manage-update-uninstall)
+      - [Upgrade or rollback versions](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-upgrade)
       - [Enable secure settings](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-enable-secure-settings)
+      - [Production deployment guidelines](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-guidelines)
     - Secure your deployment
       - [Certificate management](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/concept-default-root-ca)
       - [Manage secrets](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-secrets)
@@ -27,12 +29,22 @@
         - [OPC UA application authentication overview](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opcua-broker-certificates-management)
         - [Configure OPC UA application authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opcua-certificates-infrastructure)
         - [Configure OPC UA user authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opcua-authentication-options)
+      - Connect to media sources
+        - [What is the media connector?](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-media-connector)
+        - [Use the media connector](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-media-connector)
+      - Control ONVIF assets
+        - [What is the connector for ONVIF?](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-onvif-connector)
+        - [Use the connector for ONVIF](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-onvif-connector)
     - Manage MQTT broker
-      - [MQTT broker overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/overview-iot-mq)
-      - [Configure core MQTT broker settings](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-availability-scale)
-      - [Configure MQTT broker listener](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-brokerlistener)
-      - [Configure authentication](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-authentication)
-      - [Configure authorization](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-authorization)
+      - [Broker overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/overview-broker)
+      - [Listener](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-brokerlistener)
+      - [Authentication](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-authentication)
+      - [Authorization](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-authorization)
+      - [Scale and availability](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-availability-scale)
+      - [Disk-backed message buffer](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-disk-backed-message-buffer)
+      - [Diagnostic settings](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-broker-diagnostics)
+      - [MQTT client options](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-broker-mqtt-client-options)
+      - [Encrypt internal traffic](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-encrypt-internal-traffic)
       - [Test connection](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-test-connection)
     - Process and route data
       - [What are dataflows?](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/overview-dataflow)
@@ -41,6 +53,7 @@
         - [MQTT and Event Grid](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-mqtt-endpoint)
         - [Kafka and Event Hubs](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-kafka-endpoint)
         - [ADLSv2 Blob Storage](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-adlsv2-endpoint)
+        - [Microsoft Fabric Real-Time Intelligence](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-fabric-real-time-intelligence)
         - [Microsoft Fabric OneLake](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-fabric-endpoint)
         - [Azure Data Explorer](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-adx-endpoint)
         - [Local storage or ACSA](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-local-storage-endpoint)
@@ -61,18 +74,18 @@
         - [Configure L4 cluster](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-configure-l4-cluster-layered-network)
         - [Configure L3 cluster](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-configure-l3-cluster-layered-network)
         - [Connect Azure Arc-enabled servers](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-connect-arc-enabled-servers)
-    - View and analyze telemetry
-      - [Build a real-time dashboard in Microsoft Fabric](https://learn.microsoft.com/en-us/azure/iot-operations/view-analyze-telemetry/tutorial-real-time-dashboard-fabric)
     - Configure observability and monitoring
       - [Deploy observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-configure-observability)
       - [Clean up observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-clean-up-observability-resources)
     - Create edge apps
       - [Edge apps overview](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/edge-apps-overview)
+      - State store
+        - [State store overview](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/overview-state-store)
+        - [About the state store protocol](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/concept-about-state-store-protocol)
       - Dapr apps
         - [Deploy Dapr](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/howto-deploy-dapr)
         - [Develop Dapr apps](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/howto-develop-dapr-apps)
         - [Build an event-driven app with Dapr](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/tutorial-event-driven-with-dapr)
-      - [About the MQ state store protocol](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/concept-about-state-store-protocol)
       - [Develop MQTTnet apps](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/howto-develop-mqttnet-apps)
     - Tutorials
       - Get started end-to-end
@@ -80,6 +93,7 @@
         - [Upload data to the cloud](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-upload-telemetry-to-cloud)
         - [Get insights from your data](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-get-insights)
       - [Bi-directional messaging with Event Grid](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/tutorial-mqtt-bridge)
+      - [Send data to Data Lake Storage](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/tutorial-opc-ua-to-data-lake)
     - Troubleshoot
       - [Troubleshoot](https://learn.microsoft.com/en-us/azure/iot-operations/troubleshoot/troubleshoot)
       - [Known issues](https://learn.microsoft.com/en-us/azure/iot-operations/troubleshoot/known-issues)
@@ -90,8 +104,8 @@
       - [Azure IoT Operations CLI](https://learn.microsoft.com/cli/azure/iot/ops)
       - [Azure IoT Operations REST API](https://learn.microsoft.com/rest/api/iotoperations)
       - Available metrics for observability
-        - [MQTT broker](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-mq)
+        - [MQTT broker](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-mqtt-broker)
         - [Connector for OPC UA](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-opcua-broker)
         - [Layered Network Management](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-layered-network)
       - [MQTT support](https://learn.microsoft.com/en-us/azure/iot-operations/reference/mqtt-support)
-      - [Glossary](https://learn.microsoft.com/en-us/azure/iot-operations/reference/glossary)
+      - [IoT Glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary?toc=/azure/iot-operations/toc.json&bc=/azure/iot-operations/breadcrumb/toc.json)
