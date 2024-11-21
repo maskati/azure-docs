@@ -10,6 +10,7 @@
     - [Secret & Key Management](https://learn.microsoft.com/en-us/azure/confidential-computing/secret-key-management)
     - [Attestation](https://learn.microsoft.com/en-us/azure/confidential-computing/attestation-solutions)
     - Confidential computing solutions
+      - [Azure Confidential Clean Rooms](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-clean-rooms)
       - [Building confidential computing solutions](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-computing-solutions)
       - [Deploying solutions on confidential computing](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-computing-deployment-models)
   - Why might I need it?

@@ -72,8 +72,6 @@
       - [Configure in Azure portal](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-configure)
       - [Import/Export data](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-how-to-import-export-data)
       - [Configure disk encryption](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-how-to-encryption)
-      - [Reboot](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-administration)
-      - [Update channel and schedule updates](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-administration)
       - [Configure redis-cli access](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-how-to-redis-cli-tool)
       - [Management FAQs](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-management-faq.yml)
       - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache)

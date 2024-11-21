@@ -14,7 +14,7 @@
     - [Filter network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic)
     - [Route network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table)
     - [Restrict network access to resources](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
-    - [Connect virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal)
+    - [Connect virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks)
     - [Service endpoint policies](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies)
   - Concepts
     - [Concepts and best practices](https://learn.microsoft.com/en-us/azure/virtual-network/concepts-and-best-practices)
@@ -72,9 +72,6 @@
       - [Manage subnets](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet)
       - [Manage subnet delegation](https://learn.microsoft.com/en-us/azure/virtual-network/manage-subnet-delegation)
       - Create VNet peering
-        - Same deployment model - same subscription
-          - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-powershell)
-          - [Azure CLI](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-cli)
         - [Same deployment model - different subscriptions](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions)
         - [Same deployment model - different subscriptions - SPN](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions-service-principal)
         - [Different deployment models - same subscription](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-deployment-models)

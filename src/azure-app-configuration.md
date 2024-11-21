@@ -56,9 +56,9 @@
       - Reload secrets and certificates automatically
         - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reload-key-vault-secrets-dotnet)
     - Build, deploy, and CI/CD
-      - [Push using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/push-kv-devops-pipeline)
-      - [Pull using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/pull-key-value-devops-pipeline)
-      - [Create snapshots using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/create-snapshot-devops-pipeline)
+      - [Import using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-import-task)
+      - [Export using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-export-task)
+      - [Create snapshots using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-snapshot-task)
       - [Push using GitHub Actions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/push-kv-github-action)
       - [Build project using exported configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/integrate-ci-cd-pipeline)
       - [Deploy to Kubernetes using Helm](https://learn.microsoft.com/en-us/azure/azure-app-configuration/integrate-kubernetes-deployment-helm)
