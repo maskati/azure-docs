@@ -56,14 +56,13 @@
     - [Update SOC processes](https://learn.microsoft.com/en-us/azure/sentinel/migration-security-operations-center-processes)
   - Enable solutions and content
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions)
-    - [Tutorial - Monitor Zero Trust security architectures](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution)
-    - [OOTB content centralization changes](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-content-centralize)
     - [Deploy out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy)
     - [Delete out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-delete)
     - [Partner integrations best practices](https://learn.microsoft.com/en-us/azure/sentinel/partner-integrations)
     - Solution catalog
       - [All solutions](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-catalog)
       - [ASIM-based domain solutions](https://learn.microsoft.com/en-us/azure/sentinel/domain-based-essential-solutions)
+      - [Monitor Zero Trust](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution)
     - Manage custom content from repositories
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd-custom-content)
       - [Deploy custom content from your repository](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd)
@@ -557,6 +556,7 @@
   - Reference
     - [Service limits](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-service-limits)
     - [Microsoft Sentinel REST-API](https://learn.microsoft.com/rest/api/securityinsights/)
+    - [OOTB content centralization changes](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-content-centralize)
     - Build and publish Microsoft Sentinel solutions
       - [Publish solutions](https://learn.microsoft.com/en-us/azure/sentinel/publish-sentinel-solutions)
       - [Solution lifecycle post publish](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-post-publish-tracking)

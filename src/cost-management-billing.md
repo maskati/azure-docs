@@ -10,6 +10,7 @@
     - [Review your Microsoft Customer Agreement bill](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/review-customer-agreement-bill)
     - [Review your Microsoft Partner Agreement bill](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/review-partner-agreement-bill)
   - Concepts
+    - [What is a cloud subscription](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cloud-subscription)
     - [Individual subscription usage terms](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/understand-usage)
     - [Individual subscription invoice terms](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/understand-invoice)
     - [Microsoft Customer Agreement usage terms](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-understand-your-usage)

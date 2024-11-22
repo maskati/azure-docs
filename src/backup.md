@@ -443,6 +443,7 @@
       - [Azure Database for MySQL - Flexible Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-troubleshoot)
       - [SAP HANA backup in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database-troubleshoot)
       - [SAP HANA database instance backup in Azure VM](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-instance-troubleshoot)
+      - [SAP ASE database backup in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-sap-ase-sybase-database-backup)
       - [System State](https://learn.microsoft.com/en-us/azure/backup/backup-azure-system-state-troubleshoot)
       - [Archive tier](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-archive-tier)
       - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-troubleshoot)

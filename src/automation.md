@@ -125,36 +125,34 @@
         - [Integrate with Azure Monitor Logs](https://learn.microsoft.com/en-us/azure/automation/automation-dsc-diagnostics)
         - [Work with State Configuration extension version history](https://learn.microsoft.com/en-us/azure/automation/automation-dsc-extension-history)
         - [Troubleshoot State Configuration issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration)
-    - Change tracking and inventory
-      - Use Azure Monitoring Agent AMA
-        - Overview
-          - [About Change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview-monitoring-agent)
-          - [Change tracking extension version](https://learn.microsoft.com/en-us/azure/automation/change-tracking/extension-version-details)
-        - [Supported regions](https://learn.microsoft.com/en-us/azure/automation/change-tracking/region-mappings-monitoring-agent)
-        - [Enable change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-vms-monitoring-agent)
-        - [Manage change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-change-tracking-monitoring-agent)
-        - [Configure alerts](https://learn.microsoft.com/en-us/azure/automation/change-tracking/configure-alerts)
-      - Migration guidance
-        - [Migration from Log Analytics to Azure Monitoring Agent version](https://learn.microsoft.com/en-us/azure/automation/change-tracking/guidance-migration-log-analytics-monitoring-agent)
-      - Use Log Analytics Retired
-        - [Overview](https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview)
-        - [Support regions for linked Log Analytics workspace](https://learn.microsoft.com/en-us/azure/automation/how-to/region-mappings)
-        - [Discover the software installed on your VMs](https://learn.microsoft.com/en-us/azure/automation/automation-tutorial-installed-software)
-        - Enable
-          - [Enable from the Azure portal](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-portal)
-          - [Enable from an Azure VM](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-vm)
-          - [Enable from an Automation account](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-automation-account)
-          - [Enable from a runbook](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-runbook)
+    - Change Tracking and Inventory using AMA
+      - [About Change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview-monitoring-agent)
+      - [Change tracking extension version](https://learn.microsoft.com/en-us/azure/automation/change-tracking/extension-version-details)
+      - [Supported regions](https://learn.microsoft.com/en-us/azure/automation/change-tracking/region-mappings-monitoring-agent)
+      - [Enable change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-vms-monitoring-agent)
+      - [Manage change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-change-tracking-monitoring-agent)
+      - [Configure alerts](https://learn.microsoft.com/en-us/azure/automation/change-tracking/configure-alerts)
+    - Migration from Change Tracking and Inventory using AMA to Change Tracking using LA Retired
+      - [Migration from Log Analytics to Azure Monitoring Agent version](https://learn.microsoft.com/en-us/azure/automation/change-tracking/guidance-migration-log-analytics-monitoring-agent)
+    - Change Tracking and Inventory using Log Analytics Retired
+      - [Overview](https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview)
+      - [Support regions for linked Log Analytics workspace](https://learn.microsoft.com/en-us/azure/automation/how-to/region-mappings)
+      - [Discover the software installed on your VMs](https://learn.microsoft.com/en-us/azure/automation/automation-tutorial-installed-software)
+      - Enable
+        - [Enable from the Azure portal](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-portal)
+        - [Enable from an Azure VM](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-vm)
+        - [Enable from an Automation account](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-automation-account)
+        - [Enable from a runbook](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-runbook)
         - [Manage change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-change-tracking)
         - [Manage inventory collection from VMs](https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-inventory-vms)
         - [Work with scope configurations](https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-scope-configurations)
         - [Configure alerts](https://learn.microsoft.com/en-us/azure/automation/change-tracking/configure-alerts)
-        - Disable
-          - [Remove Change Tracking and Inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/remove-feature)
-          - [Remove machines](https://learn.microsoft.com/en-us/azure/automation/change-tracking/remove-vms-from-change-tracking)
-        - Troubleshoot
-          - [Troubleshoot feature deployment issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/onboarding)
-          - [Troubleshoot Change Tracking and Inventory issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/change-tracking)
+      - Disable
+        - [Remove Change Tracking and Inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/remove-feature)
+        - [Remove machines](https://learn.microsoft.com/en-us/azure/automation/change-tracking/remove-vms-from-change-tracking)
+      - Troubleshoot
+        - [Troubleshoot feature deployment issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/onboarding)
+        - [Troubleshoot Change Tracking and Inventory issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/change-tracking)
     - Update Management Retired
       - [Overview](https://learn.microsoft.com/en-us/azure/automation/update-management/overview)
       - [Supported regions for linked Log Analytics workspace](https://learn.microsoft.com/en-us/azure/automation/how-to/region-mappings)

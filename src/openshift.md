@@ -62,7 +62,7 @@
       - [Deploy an Open Liberty/WebSphere Liberty Java app](https://learn.microsoft.com/en-us/azure/openshift/howto-deploy-java-liberty-app)
       - [Deploy a JBoss EAP Java app](https://learn.microsoft.com/en-us/azure/openshift/howto-deploy-java-jboss-enterprise-application-platform-app)
     - Confidential Containers
-      - [Use Confidential Containers to protect senstive data](https://learn.microsoft.com/en-us/azure/openshift/confidential-containers-overview)
+      - [Use Confidential Containers to protect sensitive data](https://learn.microsoft.com/en-us/azure/openshift/confidential-containers-overview)
       - [Deploy Confidential Containers](https://learn.microsoft.com/en-us/azure/openshift/confidential-containers-deploy)
   - Concepts
     - [Networking](https://learn.microsoft.com/en-us/azure/openshift/concepts-networking)
