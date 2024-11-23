@@ -78,8 +78,9 @@
       - Roll out features to targeted audience
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter)
         - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-aspnet-core)
-      - Run experiments with variant feature flags
-        - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/run-experiments-aspnet-core)
+      - Use variant feature flags
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-variant-feature-flags)
+        - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-variant-feature-flags-aspnet-core)
     - Enable Azure monitoring
       - [Monitor App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration)
       - [Reference for monitoring data](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration-reference)

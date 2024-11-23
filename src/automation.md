@@ -132,7 +132,7 @@
       - [Enable change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-vms-monitoring-agent)
       - [Manage change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-change-tracking-monitoring-agent)
       - [Configure alerts](https://learn.microsoft.com/en-us/azure/automation/change-tracking/configure-alerts)
-    - Migration from Change Tracking and Inventory using AMA to Change Tracking using LA Retired
+    - Migration from Change Tracking and Inventory using AMA to Change Tracking using LA
       - [Migration from Log Analytics to Azure Monitoring Agent version](https://learn.microsoft.com/en-us/azure/automation/change-tracking/guidance-migration-log-analytics-monitoring-agent)
     - Change Tracking and Inventory using Log Analytics Retired
       - [Overview](https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview)

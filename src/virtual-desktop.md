@@ -31,7 +31,7 @@
       - [Licensing](https://learn.microsoft.com/en-us/azure/virtual-desktop/licensing)
     - [Identities and authentication](https://learn.microsoft.com/en-us/azure/virtual-desktop/authentication)
     - Infrastructure
-      - [Virtual machine sizing guidance](https://learn.microsoft.com/windows-server/remote/remote-desktop-services/virtual-machine-recs?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+      - [Virtual machine sizing guidance](https://learn.microsoft.com/windows-server/remote/remote-desktop-services/virtual-machine-recs?context=/azure/virtual-desktop/context/context)
       - [Understanding network connectivity](https://learn.microsoft.com/en-us/azure/virtual-desktop/network-connectivity)
       - [Bandwidth considerations](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth)
       - [Azure Local](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-local-overview)
@@ -66,7 +66,7 @@
         - [Private Link with Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-overview)
         - [Configure Private Link with Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-setup)
       - [Proxy support guidelines](https://learn.microsoft.com/en-us/azure/virtual-desktop/proxy-server-support)
-      - [Use Azure Firewall to protect Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/firewall/protect-azure-virtual-desktop?context=%2fazure%2fvirtual-desktop%2fcontext%2fcontext)
+      - [Use Azure Firewall to protect Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/firewall/protect-azure-virtual-desktop?context=/azure/virtual-desktop/context/context)
     - Session hosts
       - [Azure Virtual Desktop Agent](https://learn.microsoft.com/en-us/azure/virtual-desktop/agent-overview)
       - [Microsoft Entra joined session hosts](https://learn.microsoft.com/en-us/azure/virtual-desktop/azure-ad-joined-session-hosts)
@@ -90,15 +90,15 @@
         - [Enable GPU acceleration](https://learn.microsoft.com/en-us/azure/virtual-desktop/graphics-enable-gpu-acceleration)
         - [Increase chroma value to 4:4:4](https://learn.microsoft.com/en-us/azure/virtual-desktop/graphics-chroma-value-increase-4-4-4)
       - [Windows Enterprise multi-session FAQ](https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-multisession-faq.yml)
-      - [Fair Share technologies](https://learn.microsoft.com/windows-server/remote/remote-desktop-services/fair-share-enabled-by-default-rds?toc=/azure/virtual-desktop/toc.json&bc=/azure/virtual-desktop/breadcrumb/toc.json)
+      - [Fair Share technologies](https://learn.microsoft.com/windows-server/remote/remote-desktop-services/fair-share-enabled-by-default-rds?context=/azure/virtual-desktop/context/context)
     - User profile management
       - [FSLogix profile container overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/fslogix-profile-containers)
       - [Storage options for FSLogix profile container](https://learn.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile)
       - FSLogix profile container storage guides
-        - [Use a VM-based file share](https://learn.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-user-profile)
-        - [Use Azure NetApp Files](https://learn.microsoft.com/en-us/azure/virtual-desktop/create-fslogix-profile-container)
-        - [Use Azure Files and Active Directory](https://learn.microsoft.com/en-us/azure/virtual-desktop/fslogix-profile-container-configure-azure-files-active-directory)
-        - [Use Azure Files and Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/virtual-desktop/create-profile-container-azure-ad.yml)
+        - [Use Azure Files and Microsoft Entra ID](https://learn.microsoft.com/fslogix/how-to-configure-profile-container-azure-ad?context=/azure/virtual-desktop/context/context)
+        - [Use Azure Files and Active Directory](https://learn.microsoft.com/fslogix/how-to-configure-profile-container-azure-files-active-directory?context=/azure/virtual-desktop/context/context)
+        - [Use Azure NetApp Files](https://learn.microsoft.com/fslogix/how-to-configure-profile-container-netapp?context=/azure/virtual-desktop/context/context)
+      - [Configure FSLogix profile containers](https://learn.microsoft.com/fslogix/tutorial-configure-profile-containers?context=/azure/virtual-desktop/context/context)
     - Applications
       - [Publish applications with RemoteApp](https://learn.microsoft.com/en-us/azure/virtual-desktop/publish-applications-stream-remoteapp)
       - [Microsoft Teams supported features](https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-supported-features)
@@ -133,8 +133,8 @@
       - Manage session hosts
         - [Management overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/management)
         - Manage with Intune
-          - [Manage Windows single-session](https://learn.microsoft.com/mem/intune/fundamentals/azure-virtual-desktop?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
-          - [Manage Windows multi-session](https://learn.microsoft.com/mem/intune/fundamentals/azure-virtual-desktop-multi-session?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+          - [Manage Windows single-session](https://learn.microsoft.com/mem/intune/fundamentals/azure-virtual-desktop?context=/azure/virtual-desktop/context/context)
+          - [Manage Windows multi-session](https://learn.microsoft.com/mem/intune/fundamentals/azure-virtual-desktop-multi-session?context=/azure/virtual-desktop/context/context)
         - [Deploy updates with Configuration Manager](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-automatic-updates)
       - [Drain session hosts](https://learn.microsoft.com/en-us/azure/virtual-desktop/drain-mode)
       - Update session hosts
@@ -176,14 +176,14 @@
       - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?pivots=azure-virtual-desktop)
       - [Windows App documentation](https://learn.microsoft.com/windows-app/)
     - Remote Desktop app
-      - [Remote Desktop app overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/remote-desktop-clients-overview?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
-      - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-windows?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+      - [Remote Desktop app overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/remote-desktop-clients-overview?context=/azure/virtual-desktop/context/context)
+      - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-remote-desktop-client?context=/azure/virtual-desktop/context/context)
       - Use Remote Desktop app features
-        - [Windows](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-windows?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
-        - [Web browser](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-web?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
-        - [macOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-macos?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
-        - [iOS/iPadOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-ios-ipados?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
-        - [Android/Chrome OS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-android-chrome-os?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json)
+        - [Windows](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-windows?context=/azure/virtual-desktop/context/context)
+        - [Web browser](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-web?context=/azure/virtual-desktop/context/context)
+        - [macOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-macos?context=/azure/virtual-desktop/context/context)
+        - [iOS/iPadOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-ios-ipados?context=/azure/virtual-desktop/context/context)
+        - [Android/Chrome OS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-android-chrome-os?context=/azure/virtual-desktop/context/context)
       - [Compare the Remote Desktop app across platforms](https://learn.microsoft.com/en-us/azure/virtual-desktop/compare-remote-desktop-clients)
       - [Install the Remote Desktop app for Windows on a per-user basis](https://learn.microsoft.com/en-us/azure/virtual-desktop/install-windows-client-per-user)
       - [Uniform Resource Identifier schemes](https://learn.microsoft.com/en-us/azure/virtual-desktop/uri-scheme)
@@ -204,8 +204,8 @@
         - [WebAuthn](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-webauthn)
       - [Configure client redirection using Intune](https://learn.microsoft.com/en-us/azure/virtual-desktop/client-device-redirection-intune)
     - [Supported RDP properties](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-properties)
-    - [Print using Universal Print](https://learn.microsoft.com/universal-print/fundamentals/universal-print-avd?toc=/azure/virtual-desktop/toc.json)
-    - [Thin client partners](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-thin-clients?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+    - [Print using Universal Print](https://learn.microsoft.com/universal-print/fundamentals/universal-print-avd?context=/azure/virtual-desktop/context/context)
+    - [Thin client partners](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-thin-clients?context=/azure/virtual-desktop/context/context)
   - Monitor
     - Azure Virtual Desktop Insights
       - [Estimate Azure Monitor costs](https://learn.microsoft.com/en-us/azure/virtual-desktop/insights-costs)
@@ -269,10 +269,10 @@
       - [Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/wvd)
       - [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/browse/?expanded=azure&products=azure-virtual-desktop)
       - Example architecture scenarios
-        - [Azure Virtual Desktop for the enterprise](https://learn.microsoft.com/azure/architecture/example-scenario/wvd/windows-virtual-desktop?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+        - [Azure Virtual Desktop for the enterprise](https://learn.microsoft.com/azure/architecture/example-scenario/wvd/windows-virtual-desktop)
         - Multiple identity sources
-          - [AD DS and Microsoft Entra ID](https://learn.microsoft.com/azure/architecture/example-scenario/wvd/multi-forest?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
-          - [Microsoft Entra ID, AD DS, and Microsoft Entra Domain Services](https://learn.microsoft.com/azure/architecture/example-scenario/wvd/multi-forest-azure-managed?toc=%2Fazure%2Fvirtual-desktop%2Ftoc.json&bc=%2Fazure%2Fvirtual-desktop%2Fbreadcrumb%2Ftoc.json)
+          - [AD DS and Microsoft Entra ID](https://learn.microsoft.com/azure/architecture/example-scenario/wvd/multi-forest)
+          - [Microsoft Entra ID, AD DS, and Microsoft Entra Domain Services](https://learn.microsoft.com/azure/architecture/example-scenario/wvd/multi-forest-azure-managed)
     - [How-to videos](https://support.microsoft.com/help/4563049/how-to-videos-about-windows-virtual-desktop)
     - [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/bd-p/AzureVirtualDesktopForum)
     - [Azure Resource Manager templates](https://github.com/Azure/RDS-Templates/tree/master/ARM-wvd-templates)

@@ -67,6 +67,7 @@
       - [Integrate Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-security-integration)
       - [Protect web apps with Azure Application Gateway](https://learn.microsoft.com/en-us/azure/azure-vmware/protect-azure-vmware-solution-with-application-gateway)
     - [Configure customer-managed key encryption at rest](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-customer-managed-keys)
+    - [Configure vTPM on a Virtual Machine](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-virtual-trusted-platform-module)
   - Networking
     - [Connect to on-premises environment](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-expressroute-global-reach-private-cloud)
     - [Connect multiple private clouds in same region](https://learn.microsoft.com/en-us/azure/azure-vmware/connect-multiple-private-clouds-same-region)
@@ -100,6 +101,7 @@
       - [Migrate Microsoft SQL Server Always On Availability Group to Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/migrate-sql-server-always-on-availability-group)
   - Virtual machines
     - [Operating system support for VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-os-vms)
+    - [Configure vTPM on a Virtual Machine](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-virtual-trusted-platform-module)
     - [Configure Windows Server Failover Cluster](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-windows-server-failover-cluster)
     - [Deploy VMs from the content library](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vm-content-library)
     - [Configure GitHub Enterprise Server](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-github-enterprise-server)

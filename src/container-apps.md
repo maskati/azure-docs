@@ -33,7 +33,7 @@
       - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
     - [Microservices](https://learn.microsoft.com/en-us/azure/container-apps/microservices)
     - [Planned maintenance](https://learn.microsoft.com/en-us/azure/container-apps/planned-maintenance)
-    - [Build and deliver apps with Container Apps video](https://www.youtube.com/watch?v=b3dopSTnSRg)
+    - [Build and deliver apps with Container Apps video](https://youtu.be/OxmVds31qL8)
   - Develop & deploy
     - [Deployment options](https://learn.microsoft.com/en-us/azure/container-apps/code-to-cloud-options)
     - [Deploy an app with containerapp up](https://learn.microsoft.com/en-us/azure/container-apps/containerapp-up)

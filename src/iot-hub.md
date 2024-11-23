@@ -114,11 +114,7 @@
       - [Send cloud-to-device messages](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-cloud-to-device-messaging)
       - [Upload files from devices](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-file-upload)
       - [Get started with device twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-device-twins)
-      - Get started with module twins
-        - [Portal](https://learn.microsoft.com/en-us/azure/iot-hub/module-twins-portal-dotnet)
-        - [.NET](https://learn.microsoft.com/en-us/azure/iot-hub/module-twins-dotnet)
-        - [Python](https://learn.microsoft.com/en-us/azure/iot-hub/module-twins-python)
-        - [Node.js](https://learn.microsoft.com/en-us/azure/iot-hub/module-twins-node)
+      - [Get started with module twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-module-twins)
       - Get started with device management
         - [CLI](https://learn.microsoft.com/en-us/azure/iot-hub/device-management-cli)
         - [.NET](https://learn.microsoft.com/en-us/azure/iot-hub/device-management-dotnet)

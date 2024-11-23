@@ -76,6 +76,14 @@
       - [Set user roles programmatically](https://learn.microsoft.com/en-us/azure/static-web-apps/assign-roles-microsoft-graph)
   - Local development
     - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/local-development)
+    - SWA CLI
+      - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-overview)
+      - [Install](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-install)
+      - [Start the emulator](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-emulator)
+      - [Start the API server](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-api-server)
+      - [Deploy to Azure](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-deploy)
+      - [Configure SWA CLI](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-configuration)
+      - [API Reference](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli.yml)
   - Relocation
     - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-static-web-apps?toc=/azure/static-web-apps/toc.json)
   - Traffic management
@@ -111,14 +119,6 @@
     - [Quotas](https://learn.microsoft.com/en-us/azure/static-web-apps/quotas)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/staticwebapp)
     - [REST API](https://learn.microsoft.com/rest/api/appservice/static-sites)
-    - SWA CLI
-      - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-overview)
-      - [Install](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-install)
-      - [Start the emulator](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-emulator)
-      - [Start the API server](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-api-server)
-      - [Deploy to Azure](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-deploy)
-      - [Configure SWA CLI](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-configuration)
-      - [API Reference](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli.yml)
   - Samples & FAQs
     - [Samples](https://learn.microsoft.com/samples/browse/?terms=static web apps)
     - Reference
