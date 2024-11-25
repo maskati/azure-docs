@@ -56,6 +56,7 @@
   - Troubleshooting
     - [Troubleshoot dev box connectivity issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-repair-dev-box)
     - [Troubleshoot Task view issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-dev-box-task-view)
+    - [Get support for Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-get-help)
   - Reference
     - [Install Azure CLI devcenter extension](https://learn.microsoft.com/en-us/azure/dev-box/how-to-install-dev-box-cli)
     - [Azure CLI - az devcenter](https://learn.microsoft.com/cli/azure/service-page/microsoft dev box and azure deployment environments)
@@ -66,6 +67,5 @@
     - [Azure roadmap](https://azure.microsoft.com/roadmap/)
     - [Azure regions supported by Dev Box](https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=dev-box)
     - [FAQ](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-faq.yml)
-    - [Get support for Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-get-help)
     - [Report a problem](https://aka.ms/devbox/report)
     - [Suggest a feature](https://aka.ms/devbox/suggest)
