@@ -103,7 +103,7 @@
     - Developer resources
       - [Azure Time Series Insights code samples](https://github.com/Azure-Samples/Azure-Time-Series-Insights/)
       - [JavaScript Client SDK](https://github.com/Microsoft/tsiclient)
-      - [Hosted client samples](https://tsiclientsample.azurewebsites.net/)
+      - [Hosted client samples](https://github.com/microsoft/tsiclient)
       - [Azure IoT code samples](https://learn.microsoft.com/samples/browse/?term=iot)
     - Pricing and availability
       - [Pricing](https://azure.microsoft.com/pricing/details/time-series-insights/)

@@ -576,6 +576,7 @@
       - [ASIM helper functions](https://learn.microsoft.com/en-us/azure/sentinel/normalization-functions)
       - [ASIM known issues](https://learn.microsoft.com/en-us/azure/sentinel/normalization-known-issues)
       - ASIM schemas
+        - [ASIM alert event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-alert)
         - [ASIM audit event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-audit)
         - [ASIM authentication schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-authentication)
         - [ASIM DNS schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-dns)

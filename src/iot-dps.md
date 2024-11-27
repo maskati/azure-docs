@@ -89,7 +89,7 @@
       - [Service](https://learn.microsoft.com/java/api/com.microsoft.azure.sdk.iot.provisioning.service)
     - [C SDKs and libraries](https://github.com/Azure/azure-iot-sdk-c/blob/main/readme)
     - [REST APIs](https://learn.microsoft.com/rest/api/iot-dps/)
-    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.devices/deviceprovisioning-allversions)
+    - [Resource Manager template](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks)
   - Resources
     - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help?toc=/azure/iot-dps/toc.json&bc=/azure/iot-dps/breadcrumb/toc.json)
     - [IoT Glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary?toc=/azure/iot-dps/toc.json&bc=/azure/iot-dps/breadcrumb/toc.json)

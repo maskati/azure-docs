@@ -115,7 +115,7 @@
         - [MSIXMGR tool parameters](https://learn.microsoft.com/en-us/azure/virtual-desktop/msixmgr-tool-syntax-description)
       - Specific applications
         - [Use Microsoft Teams](https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
-        - [Use OneDrive with RemoteApp](https://learn.microsoft.com/en-us/azure/virtual-desktop/onedrive-remoteapp)
+        - [Launch OneDrive with RemoteApp](https://learn.microsoft.com/en-us/azure/virtual-desktop/onedrive-remoteapp)
     - Migrate from classic
       - [Migrate automatically](https://learn.microsoft.com/en-us/azure/virtual-desktop/automatic-migration)
       - [Migrate manually](https://learn.microsoft.com/en-us/azure/virtual-desktop/manual-migration)

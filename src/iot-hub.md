@@ -167,7 +167,7 @@
     - [C SDKs and libraries](https://github.com/Azure/azure-iot-sdk-c/)
     - [REST APIs](https://learn.microsoft.com/rest/api/iothub/)
     - [Azure IoT Hub extension for Visual Studio Code](https://learn.microsoft.com/en-us/azure/iot-hub/reference-iot-hub-extension)
-    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.devices/iothub-allversions)
+    - [Resource Manager template](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/iot-hub/policy-reference)
     - [X.509 certificates](https://learn.microsoft.com/en-us/azure/iot-hub/reference-x509-certificates)
     - Feature and API retirement
