@@ -23,7 +23,7 @@
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=sql-server-database)
   - Resources
     - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
-    - [Blog](https://blogs.technet.microsoft.com/dataplatforminsider/tag/stretch-database/)
+    - [Blog](https://www.microsoft.com/en-us/sql-server/blog/product/sql/)
     - [Pricing](https://azure.microsoft.com/pricing/details/sql-server-stretch-database/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=sql-server-stretch-database)

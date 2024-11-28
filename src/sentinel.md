@@ -154,7 +154,7 @@
       - [Azure CloudNGFW By Palo Alto Networks](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors/azure-cloudngfw-by-palo-alto-networks)
       - [Azure Cognitive Search](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors/azure-cognitive-search)
       - [Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors/azure-ddos-protection)
-      - [Azure Event Hub](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors/azure-event-hub)
+      - [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors/azure-event-hub)
       - [Azure Firewall](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors/azure-firewall)
       - [Azure Key Vault](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors/azure-key-vault)
       - [Azure Kubernetes Service AKS](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors/azure-kubernetes-service-aks)
@@ -349,7 +349,6 @@
         - [Custom logs - configure security device](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector-custom-device)
       - [DNS via AMA](https://learn.microsoft.com/en-us/azure/sentinel/connect-dns-ama)
       - [Logstash plugin with Data Collection Rules](https://learn.microsoft.com/en-us/azure/sentinel/connect-logstash-data-connection-rules)
-      - [Microsoft Sentinel Data Collector API](https://learn.microsoft.com/en-us/azure/sentinel/connect-rest-api-template)
     - Connection instructions for service
       - [Amazon Web Services logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws)
       - [CloudWatch events via Lambda function](https://learn.microsoft.com/en-us/azure/sentinel/cloudwatch-lambda-function.yml)
@@ -529,7 +528,7 @@
       - [Reduce costs](https://learn.microsoft.com/en-us/azure/sentinel/billing-reduce-costs)
       - [Switch to simplified pricing tiers](https://learn.microsoft.com/en-us/azure/sentinel/enroll-simplified-pricing-tier)
       - [Optimize costs with pre-purchase plan](https://learn.microsoft.com/en-us/azure/sentinel/billing-pre-purchase-plan)
-      - [Tutorial - Configure data retention policy](https://learn.microsoft.com/en-us/azure/sentinel/configure-data-retention)
+      - [Manage data retention](https://learn.microsoft.com/azure/azure-monitor/logs/data-retention-configure?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Auxiliary logs use cases](https://learn.microsoft.com/en-us/azure/sentinel/basic-logs-use-cases)
     - [Connect Microsoft Sentinel to Microsoft Defender XDR](https://learn.microsoft.com/defender-xdr/microsoft-sentinel-onboard?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - Manage multiple workspaces

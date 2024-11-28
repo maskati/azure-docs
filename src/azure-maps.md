@@ -25,6 +25,7 @@
     - [Azure Maps Event Grid integration](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-event-grid-integration)
     - [Choose the right pricing tier](https://learn.microsoft.com/en-us/azure/azure-maps/choose-pricing-tier)
     - [Azure Maps geographic scope](https://learn.microsoft.com/en-us/azure/azure-maps/geographic-scope)
+    - [Consent management](https://learn.microsoft.com/en-us/azure/azure-maps/consent-management)
     - Creator for Indoor maps
       - [Indoor map concepts](https://learn.microsoft.com/en-us/azure/azure-maps/creator-indoor-maps)
       - [Creator service geographic scope](https://learn.microsoft.com/en-us/azure/azure-maps/creator-geographic-scope)
@@ -218,6 +219,7 @@
     - [Use your own data storage](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-create-data-registries)
     - [Provide data feedback](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-use-feedback-tool)
     - [Show right attribution](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-show-attribution)
+    - [Manage consent](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-manage-consent)
   - Reference
     - Creator Indoor Maps
       - [Drawing package requirements](https://learn.microsoft.com/en-us/azure/azure-maps/drawing-requirements)
