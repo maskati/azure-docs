@@ -323,6 +323,7 @@
     - Email
       - [Azure AI to detect sensitive data example](https://learn.microsoft.com/en-us/azure/communication-services/samples/email-detect-sensitive-content)
     - Call Automation
+      - [Call Automation Azure Open AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-azure-openai-sample)
       - [Call Automation AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-ai)
   - Concepts
     - Identity
