@@ -16,3 +16,4 @@
     - [Apache Airflow on Astro - An Azure Native ISV Service](https://learn.microsoft.com/en-us/azure/partner-solutions/astronomer/)
     - [Informatica Intelligent Data Management Cloud Preview - Azure Native ISV Service](https://learn.microsoft.com/en-us/azure/partner-solutions/informatica/)
     - [Split Experimentation](https://learn.microsoft.com/en-us/azure/partner-solutions/split-experimentation/)
+    - [Neon Serverless Postgres](https://learn.microsoft.com/en-us/azure/partner-solutions/neon/)
