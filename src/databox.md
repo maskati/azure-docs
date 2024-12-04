@@ -4,7 +4,7 @@
     - Data Box
       - Overview
         - [What is Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview)
-        - [What is Data Box V2?](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-overview)
+        - [What is next-gen Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-overview)
       - Quickstarts
         - Set up - Azure portal
           - [For import](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal)

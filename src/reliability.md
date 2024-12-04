@@ -118,6 +118,7 @@
       - [Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/reliability/reliability-operator-nexus)
     - Industry solutions
       - [Microsoft Community Training](https://learn.microsoft.com/en-us/azure/reliability/reliability-community-training)
+      - [Sustainability data solutions in Fabric](https://learn.microsoft.com/en-us/azure/reliability/reliability-sustainability-data-solutions-fabric)
     - Integration
       - [Azure Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - Azure API Management

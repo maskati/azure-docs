@@ -155,8 +155,8 @@
         - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipsec-ike-policy-howto)
         - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell)
     - Configure active-active gateways
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/active-active-portal)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-activeactive-rm-powershell)
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-powershell)
     - [Configure zone redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway)
     - Monitoring
       - [Monitor VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway)

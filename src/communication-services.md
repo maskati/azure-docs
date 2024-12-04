@@ -142,7 +142,7 @@
         - [SMS insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/sms-insights)
         - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
     - Voice and Video
-      - [Setup for Node.JS app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/building-app-start)
+      - [Setup for Node.js app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/building-app-start)
       - [Build an authentication service using Azure Functions](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/trusted-service-tutorial)
       - [Add Calling and Chat SDK in an Android application](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-android-calling-chat-sdk)
       - Adding audio quality enhancements

@@ -16,7 +16,7 @@
       - [Groups and roles](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-groups-roles)
       - [Plan IP address space](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-plan-ip)
       - [Delegated subnet limits](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-delegated-subnet-limits)
-    - [FAQ](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/faq-oracle-database-azure)
+    - [FAQs](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/faq-oracle-database-azure)
     - References
       - [Well Architected Framework WAF](https://learn.microsoft.com/azure/well-architected/)
       - [Cloud Adoption Framework CAF](https://learn.microsoft.com/azure/cloud-adoption-framework/)

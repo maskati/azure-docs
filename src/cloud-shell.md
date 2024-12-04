@@ -18,6 +18,7 @@
   - Deploy Cloud Shell in a virtual network
     - [Overview](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/overview)
     - [Deploy using quickstart templates](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/deployment)
+    - [Connect to storage using a private endpoint](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/how-to-use-private-endpoint-storage)
     - [Troubleshoot Azure Cloud Shell in a virtual network](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/troubleshooting)
   - Pricing
     - [Cloud Shell pricing](https://learn.microsoft.com/en-us/azure/cloud-shell/pricing)

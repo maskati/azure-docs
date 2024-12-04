@@ -7,8 +7,10 @@
     - [Resource Types](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-resource-types)
     - [Compute overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-compute)
     - [Storage overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage)
-    - [Cluster deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-deployment-overview)
-    - [Cluster Runtime upgrade](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-upgrade-overview)
+    - Cluster deployment and upgrades
+      - [Cluster deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-deployment-overview)
+      - [Cluster Runtime upgrade](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-upgrade-overview)
+      - [Cluster management upgrade](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-management-upgrade)
     - Network Fabric
       - [Network Fabric overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric)
       - [Network Fabric Controller](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-controller)

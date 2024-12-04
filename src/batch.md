@@ -102,6 +102,7 @@
     - [Create a CI/CD pipeline for Batch](https://learn.microsoft.com/en-us/azure/batch/batch-ci-cd)
     - Manage jobs and tasks
       - [Job preparation and completion tasks](https://learn.microsoft.com/en-us/azure/batch/batch-job-prep-release)
+      - [Configure Container Data Isolation Task](https://learn.microsoft.com/en-us/azure/batch/batch-container-isolation-task)
       - [Concurrent node tasks](https://learn.microsoft.com/en-us/azure/batch/batch-parallel-node-tasks)
       - [Task dependencies](https://learn.microsoft.com/en-us/azure/batch/batch-task-dependencies)
       - [User accounts for running tasks](https://learn.microsoft.com/en-us/azure/batch/batch-user-accounts)

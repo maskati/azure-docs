@@ -202,7 +202,7 @@
       - [Java](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-redisenterprise-readme)
       - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.redisenterprisecache)
       - [Azure CLI](https://learn.microsoft.com/cli/azure/redisenterprise)
-      - [REST](https://learn.microsoft.com/rest/api/redis/redisenterprisecache)
+      - [REST](https://learn.microsoft.com/rest/api/redis/redisenterprisecache/operation-groups)
       - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.cache/redisenterprise)
     - Azure Cache for Redis
       - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.redis)

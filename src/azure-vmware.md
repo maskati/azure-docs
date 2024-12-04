@@ -119,7 +119,9 @@
       - [Attach Azure NetApp Files to Azure VMware Solution VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/netapp-files-with-azure-vmware-solution)
       - [Install Cloud Backup for Virtual Machines](https://learn.microsoft.com/en-us/azure/azure-vmware/install-cloud-backup-virtual-machines)
       - [Backup Azure NetApp Files datastores and VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/backup-azure-netapp-files-datastores-vms)
+      - [Configure Cloud Backup for Virtual Machines](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-cloud-backup-virtual-machine)
       - [Restore VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/restore-azure-netapp-files-vms)
+      - [Restore guest files and folders](https://learn.microsoft.com/en-us/azure/azure-vmware/restore-guest-files-folders)
     - External storage solutions
       - [Storage solution overview](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-external-storage-solutions)
       - [Pure Cloud Block Store](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-pure-cloud-block-store)

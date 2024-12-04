@@ -351,6 +351,7 @@
       - [Logstash plugin with Data Collection Rules](https://learn.microsoft.com/en-us/azure/sentinel/connect-logstash-data-connection-rules)
     - Connection instructions for service
       - [Amazon Web Services logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws)
+      - [AWS S3 WAF logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-s3-waf)
       - [CloudWatch events via Lambda function](https://learn.microsoft.com/en-us/azure/sentinel/cloudwatch-lambda-function.yml)
       - [Google Cloud Platform connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-google-cloud-platform)
       - [Microsoft Entra](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
