@@ -129,7 +129,6 @@
         - [Virtual networks](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-virtual-network?toc=/azure/virtual-network/toc.json)
     - Troubleshoot
       - [Troubleshoot virtual network peering issues](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-peering-issues)
-      - [Configure and validate VNet or VPN connections](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-configure-vnet-connections)
       - [Network security groups](https://learn.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem)
       - [Routes](https://learn.microsoft.com/en-us/azure/virtual-network/diagnose-network-routing-problem)
       - [Throughput testing](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-bandwidth-testing)

@@ -155,7 +155,7 @@
         - [Back up and restore Azure VMs with Azure Backup Instant Restore](https://learn.microsoft.com/en-us/azure/backup/backup-instant-restore-capability)
         - [Enable backup when you create an Azure VM](https://learn.microsoft.com/en-us/azure/backup/backup-during-vm-creation)
         - [Back up an Azure VM using Enhanced policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-enhanced-policy)
-        - [Back up an Azure VM in Azure extended zones preview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-extended-zones)
+        - [Back up an Azure VM in Azure extended zones](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-extended-zones)
         - [Back up Azure VM with agentless multi-disk crash-consistent backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-agentless-multi-disk-crash-consistent)
         - [Back up an Azure VM from VM settings](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-first-look-arm)
         - [Set up a vault and enable backup for Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-vms-prepare)

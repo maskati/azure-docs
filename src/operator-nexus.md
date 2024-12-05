@@ -72,6 +72,7 @@
           - [Instance Readiness Testing](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-run-instance-readiness-testing)
           - [Cluster Upgrades](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade)
           - [Cluster Upgrades With PauseRack Startegy](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade-with-pauserack-strategy)
+          - [How to upgrade Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric)
           - [Credential Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-credential-rotation)
           - [Credential Manager Key Vault](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-credential-manager-key-vault)
     - Network Fabric
@@ -92,7 +93,9 @@
       - [Cross-subscription deployments and required RBAC for Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cross-subscription-deployments-required-rbac-for-network-fabric)
       - [How to replace network devices in Azure Operator Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-replace-network-devices)
       - [How to put a device into maintenance mode](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-put-device-in-maintenance-mode)
-      - [How to upgrade Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric)
+      - [How to set up break glass access](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-set-up-break-glass-access)
+      - [How to use-break-glass-access.md](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-break-glass-access)
+      - [How to enable-Micro-BFD on CE and PE devices.md](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-micro-bfd)
     - Cluster
       - BareMetal Actions
         - [BareMetal BMM Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmm-ssh)
@@ -121,6 +124,7 @@
       - [Create virtual machine image](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-virtual-machine-image)
       - [Virtual machine console service](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-vm-console-service)
       - [Virtual machine placement hints](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-virtual-machine-placement-hints)
+      - [Gather VM Console Data](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-gather-vm-console-data)
     - Observability
       - [Monitor Nexus Kubernetes cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-monitor-naks-cluster)
       - [Monitor VMs for VNF](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-monitor-virtualized-network-functions-virtual-machines)
