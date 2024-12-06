@@ -279,4 +279,4 @@
     - [Terraform samples](https://learn.microsoft.com/azure/developer/terraform/configure-azure-virtual-desktop)
     - [App Assure for Azure Virtual Desktop](https://learn.microsoft.com/microsoft-365/fasttrack/windows-and-other-services)
     - [Azure compliance offerings](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)
-    - [Azure Virtual Desktop classic documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/virtual-desktop-fall-2019/)
+    - [Azure Virtual Desktop classic documentation](https://learn.microsoft.com/previous-versions/azure/virtual-desktop-classic)

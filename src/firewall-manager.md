@@ -20,7 +20,6 @@
     - [What is a secured virtual hub?](https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub)
     - [General deployment process](https://learn.microsoft.com/en-us/azure/firewall-manager/deployment-overview)
     - [Security partner providers](https://learn.microsoft.com/en-us/azure/firewall-manager/trusted-security-partners)
-    - [Secure hubs using Check Point Cloudguard Connect](https://learn.microsoft.com/en-us/azure/firewall-manager/check-point-overview)
     - [IP Groups](https://learn.microsoft.com/en-us/azure/firewall-manager/ip-groups)
     - [Rule processing logic](https://learn.microsoft.com/en-us/azure/firewall-manager/rule-processing)
     - [Architecture options](https://learn.microsoft.com/en-us/azure/firewall-manager/vhubs-and-vnets)

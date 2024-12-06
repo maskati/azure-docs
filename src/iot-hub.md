@@ -115,12 +115,7 @@
       - [Upload files from devices](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-file-upload)
       - [Get started with device twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-device-twins)
       - [Get started with module twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-module-twins)
-      - Get started with device management
-        - [CLI](https://learn.microsoft.com/en-us/azure/iot-hub/device-management-cli)
-        - [.NET](https://learn.microsoft.com/en-us/azure/iot-hub/device-management-dotnet)
-        - [Python](https://learn.microsoft.com/en-us/azure/iot-hub/device-management-python)
-        - [Node.js](https://learn.microsoft.com/en-us/azure/iot-hub/device-management-node)
-        - [Java](https://learn.microsoft.com/en-us/azure/iot-hub/device-management-java)
+      - [Get started with device management](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-device-management)
       - Schedule and broadcast jobs
         - [CLI](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-cli)
         - [.NET](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-dotnet)

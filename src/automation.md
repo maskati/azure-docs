@@ -29,6 +29,7 @@
     - [Hybrid Runbook Worker overview](https://learn.microsoft.com/en-us/azure/automation/automation-hybrid-runbook-worker)
     - [Automation runbook types](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-types)
     - [Automation Runtime environment](https://learn.microsoft.com/en-us/azure/automation/runtime-environment-overview)
+    - [Automation limits and quotas](https://learn.microsoft.com/en-us/azure/automation/automation-subscription-limits-faq)
     - [PowerShell DSC](https://learn.microsoft.com/powershell/dsc/overview)
     - [Automation network configuration details](https://learn.microsoft.com/en-us/azure/automation/automation-network-configuration)
     - [Azure Automation extension for Visual Studio Code](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-authoring)

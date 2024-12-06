@@ -45,8 +45,6 @@
       - [Create and manage API keys Deprecated](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-create-api-keys)
       - [Monitor Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-monitor-managed-grafana-workspace)
     - [Migrate to Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-migrate)
-    - [Transition to grafana.azure.com domain](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-transition-domain)
-    - [Upgrade to Grafana 10](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-upgrade-grafana-10)
     - [Troubleshoot common issues](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-managed-grafana)
     - [Known limitations](https://learn.microsoft.com/en-us/azure/managed-grafana/known-limitations)
   - Reference

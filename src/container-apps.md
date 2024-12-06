@@ -172,6 +172,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/java-overview)
       - [Turn on Java features](https://learn.microsoft.com/en-us/azure/container-apps/java-feature-switch)
       - [Launch your first Java app](https://learn.microsoft.com/en-us/azure/container-apps/java-get-started)
+      - [Launch your first Java microservice apps with managed Java components](https://learn.microsoft.com/en-us/azure/container-apps/java-microservice-get-started)
       - [Get started using IntelliJ](https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/create-container-apps-intellij?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
       - [Automatic memory fitting preview](https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit)
       - [Build environment variables preview](https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables)
