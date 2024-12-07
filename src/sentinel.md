@@ -107,15 +107,11 @@
           - [Security content reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-btp-security-content)
           - [Deploy SAP BTP](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-sap-btp-solution)
       - Integrate Microsoft business applications
-        - Dynamics 365 Finance and Operations
-          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/dynamics-365/dynamics-365-finance-operations-solution-overview)
-          - [Content overview](https://learn.microsoft.com/en-us/azure/sentinel/dynamics-365/dynamics-365-finance-operations-security-content)
-          - [Deploy solution](https://learn.microsoft.com/en-us/azure/sentinel/dynamics-365/deploy-dynamics-365-finance-operations-solution)
-        - Microsoft Power Platform
-          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/power-platform-solution-overview)
-          - [Content overview](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/power-platform-solution-security-content)
-          - [Deploy solution](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/deploy-power-platform-solution)
-          - [Troubleshoot](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/power-platform-solution-troubleshoot)
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/solution-overview)
+        - [Deploy for Power Platform and Microsoft Dynamics 365 Customer Engagement](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/deploy-power-platform-solution)
+        - [Power Platform and Microsoft Dynamics 365 Customer Engagement security content reference](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/power-platform-solution-security-content)
+        - [Deploy for Dynamics 365 Finance and Operations](https://learn.microsoft.com/en-us/azure/sentinel/dynamics-365/deploy-dynamics-365-finance-operations-solution)
+        - [Dynamics 365 Finance and Operations security content reference](https://learn.microsoft.com/en-us/azure/sentinel/dynamics-365/dynamics-365-finance-operations-security-content)
     - Integrate Microsoft Defender for IoT
       - [Connect Defender for IoT data with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/iot-solution?bc=%2fazure%2fsentinel%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fsentinel%2fTOC.json)
       - [Investigate Defender for IoT incidents with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/iot-advanced-threat-monitoring?bc=%2fazure%2fsentinel%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fsentinel%2fTOC.json)

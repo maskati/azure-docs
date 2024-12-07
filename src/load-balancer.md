@@ -108,11 +108,7 @@
       - [Azure portal](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip)
       - [Azure CLI](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-cli)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-powershell)
-    - Move across regions
-      - [Public load balancer - Portal](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-external-load-balancer-portal)
-      - [Public load balancer - PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-external-load-balancer-powershell)
-      - [Internal load balancer - Portal](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-internal-load-balancer-portal)
-      - [Internal load balancer - PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-internal-load-balancer-powershell)
+    - [Move a load balancer across regions](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-azure-load-balancer)
     - Cross-subscription load balancing
       - [Attach a cross-subscription backend to an Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/cross-subscription-how-to-attach-backend)
       - [Attach a cross-subscription frontend to an Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/cross-subscription-how-to-attach-frontend)

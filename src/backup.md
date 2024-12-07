@@ -110,10 +110,10 @@
     - Azure VM backup
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
       - [Agentless multi-disk crash-consistent VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-agentless-multi-disk-crash-consistent-overview)
-    - [SAP HANA database on Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
+    - SAP HANA database on Azure VM backup
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-about)
       - [Architecture](https://learn.microsoft.com/en-us/azure/backup/azure-backup-architecture-for-sap-hana-backup)
-      - Azure Database for MySQL - Flexible Server long-term retention
+    - [Azure Database for MySQL - Flexible Server long-term retention](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
     - [Azure Database for PostgreSQL -Flexible server backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-overview)
     - [SAP ASE database on Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-about)
     - Azure Kubernetes Service backup

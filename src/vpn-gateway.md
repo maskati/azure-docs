@@ -111,7 +111,8 @@
         - [Migrate manually registered client to Microsoft-registered client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway-update)
       - RADIUS authentication
         - P2S gateway configuration
-          - [Configure a point-to-site VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-radius-ps)
+          - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-radius-gateway)
+          - [Azure Powershell](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-radius-ps)
           - [Multifactor authentication - P2S RADIUS and NPS server](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-radius-mfa-nsp)
         - VPN client configuration
           - [Certificate authentication clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-certificate)

@@ -215,7 +215,7 @@
           - [Configure default orientation](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/orientation)
           - [Configure closed captions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/closed-captions)
           - [Configure theming](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/theming)
-          - [Customize the button bar](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/button-injection)
+          - [Customize buttons](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/button-injection)
           - [Customize the title and subtitle](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/setup-title-subtitle)
           - [Disable end call confirmation](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/leave-call-confirmation)
           - [Enable audio only mode](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/ui-library-sdk/audio-only-mode)
