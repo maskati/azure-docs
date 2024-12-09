@@ -54,7 +54,9 @@
     - [Configure stop on disconnect](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-stop-on-disconnect)
     - [Skip or delay an automatic shutdown](https://learn.microsoft.com/en-us/azure/dev-box/how-to-skip-delay-stop)
   - Troubleshooting
-    - [Troubleshoot dev box connectivity issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-repair-dev-box)
+    - [Automatically repair connectivity issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-repair-dev-box)
+    - [Troubleshoot dev box connectivity issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-remote-desktop-connectivity)
+    - [Resolve dev box connectivity issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-resolve-dev-box-connectivity-issues)
     - [Troubleshoot Task view issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-dev-box-task-view)
     - [Get support for Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-get-help)
   - Reference

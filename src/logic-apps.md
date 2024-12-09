@@ -84,10 +84,10 @@
       - [About Azure Arc-enabled Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/azure-arc-enabled-logic-apps-overview)
       - [Create and deploy Azure Arc-enabled logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/azure-arc-enabled-logic-apps-create-deploy-workflows)
     - Migrate
-      - Migrate from BizTalk to Azure
-        - [Why migrate from BizTalk Server?](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-to-azure-integration-services-overview)
+      - Migrate from BizTalk to Azure Logic Apps
+        - [Why migrate from BizTalk Server?](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-overview)
         - [Which integration services to choose](https://learn.microsoft.com/en-us/azure/logic-apps/azure-integration-services-choose-capabilities)
-        - [Migration options and best practices](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-azure-integration-services-migration-approaches)
+        - [Migration options and best practices](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-approaches)
     - Develop
       - [Build your workflow with a trigger or action](https://learn.microsoft.com/en-us/azure/logic-apps/create-workflow-with-trigger-or-action)
       - Control workflow execution
@@ -150,8 +150,10 @@
       - [Process flat files](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-flatfile)
       - XML and JSON transforms
         - [Create maps in Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/create-maps-data-transformation-visual-studio-code)
-        - [Transform XML](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-transform)
         - [Process XML](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-xml)
+        - [Parse XML](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-xml-parse)
+        - [Compose XML](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-xml-compose)
+        - [Transform XML](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-transform)
         - [Validate XML](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-xml-validation)
         - [Transform JSON](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-liquid-transform)
       - [Troubleshoot B2B errors](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-b2b-list-errors-solutions)
