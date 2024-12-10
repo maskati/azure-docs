@@ -25,8 +25,9 @@
       - [NAT gateway security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-nat-security-baseline)
     - [SNAT with NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-snat)
     - [NAT gateway design guidance](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-design)
-  - How-to
     - [Metrics and alerts](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-metrics)
+  - How-to
+    - [Monitor NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/monitor-nat-gateway)
     - [Resource health](https://learn.microsoft.com/en-us/azure/nat-gateway/resource-health)
     - [Manage NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/manage-nat-gateway)
     - Move across regions
@@ -45,6 +46,7 @@
     - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/nat-gateways)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/allversions)
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=virtual-network)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/nat-gateway/monitor-nat-gateway-reference)
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/modules/intro-to-azure-virtual-network-nat/)
     - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)

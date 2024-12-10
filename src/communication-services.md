@@ -42,6 +42,7 @@
       - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)
       - [Send an SMS message](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/send)
       - [Receive and reply to SMS](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/receive-sms)
+      - [Use the Opt-Out API](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/opt-out-api-quickstart)
     - Voice and Video
       - Connect to a call
         - [Create an access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
@@ -323,7 +324,7 @@
     - Email
       - [Azure AI to detect sensitive data example](https://learn.microsoft.com/en-us/azure/communication-services/samples/email-detect-sensitive-content)
     - Call Automation
-      - [Call Automation Azure Open AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-azure-openai-sample)
+      - [Call Automation Azure OpenAI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-azure-openai-sample)
       - [Call Automation AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-ai)
   - Concepts
     - Identity
@@ -338,6 +339,7 @@
     - SMS
       - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/concepts)
       - [SDK features](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/sdk-features)
+      - [Opt-Out API](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/opt-out-api-concept)
       - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms-pricing)
       - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
       - Phone numbers
@@ -428,7 +430,7 @@
         - [Rooms logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/rooms-logs)
         - [Rooms metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/rooms-metrics)
         - [Closed captions logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/closed-captions-logs)
-      - Service events via EventGrid
+      - Service events via Event Grid
         - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
         - [Voice and Video events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-voice-video-events)
       - Closed captions
