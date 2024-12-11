@@ -3,7 +3,6 @@
   - [Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/)
   - Overview
     - [About Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/overview)
-    - [What's new](https://learn.microsoft.com/en-us/azure/managed-grafana/concept-whats-new)
   - Quickstarts
     - [Create an instance - Portal](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-portal)
     - [Create an instance - Azure CLI](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-cli)
