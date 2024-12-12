@@ -44,9 +44,6 @@
       - [Prepare for live traffic](https://learn.microsoft.com/en-us/azure/communications-gateway/prepare-for-live-traffic-zoom)
     - [Emergency calling](https://learn.microsoft.com/en-us/azure/communications-gateway/emergency-calls-zoom)
     - [Manage Zoom Phone Cloud Peering customers](https://learn.microsoft.com/en-us/azure/communications-gateway/manage-enterprise-zoom)
-  - Integration with Azure Operator Call Protection
-    - [Overview of Operator Call Protection](https://learn.microsoft.com/en-us/azure/operator-call-protection/overview?toc=/azure/communications-gateway/toc.json&bc=/azure/communications-gateway/breadcrumb/toc.json)
-    - [Set up Operator Call Protection](https://learn.microsoft.com/en-us/azure/operator-call-protection/set-up-operator-call-protection?toc=/azure/communications-gateway/toc.json&bc=/azure/communications-gateway/breadcrumb/toc.json)
   - Maintenance
     - [Set up user roles](https://learn.microsoft.com/en-us/azure/communications-gateway/provision-user-roles)
     - [Monitor Communications Gateway](https://learn.microsoft.com/en-us/azure/communications-gateway/monitor-azure-communications-gateway)

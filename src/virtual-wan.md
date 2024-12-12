@@ -169,6 +169,6 @@
     - [Subscription and service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Networking Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
     - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
-    - [Networking update announcements](https://azure.microsoft.com/updates/?category=networking)
+    - [Networking update announcements](https://go.microsoft.com/fwlink/?linkid=2299811)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [SLA](https://azure.microsoft.com/support/legal/sla)

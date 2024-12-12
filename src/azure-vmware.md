@@ -67,7 +67,7 @@
       - [Integrate Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-security-integration)
       - [Protect web apps with Azure Application Gateway](https://learn.microsoft.com/en-us/azure/azure-vmware/protect-azure-vmware-solution-with-application-gateway)
     - [Configure customer-managed key encryption at rest](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-customer-managed-keys)
-    - [Configure vTPM on a Virtual Machine](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-virtual-trusted-platform-module)
+    - [Configure Trusted Launch](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-virtual-trusted-platform-module)
   - Networking
     - [Connect to on-premises environment](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-expressroute-global-reach-private-cloud)
     - [Connect multiple private clouds in same region](https://learn.microsoft.com/en-us/azure/azure-vmware/connect-multiple-private-clouds-same-region)
@@ -195,7 +195,7 @@
       - [Azure pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [SLA](https://aka.ms/avssla)
     - [Azure VMware Solution roadmap](https://aka.ms/avsroadmap)
-    - Troubleshooting
+    - Troubleshoot
       - [Open a support request for deployment failures](https://learn.microsoft.com/en-us/azure/azure-vmware/fix-deployment-failures)
       - [VMware tools vix error code = 21009](https://kb.vmware.com/s/article/2129927)
     - [FAQ](https://learn.microsoft.com/en-us/azure/azure-vmware/faq.yml)

@@ -39,9 +39,13 @@
     - [Help and support options](https://learn.microsoft.com/en-us/azure/communication-services/support)
   - Quickstart
     - SMS
-      - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)
       - [Send an SMS message](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/send)
       - [Receive and reply to SMS](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/receive-sms)
+      - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)
+      - [Apply for a short code](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-short-code)
+      - [Apply for toll-free verification](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-toll-free-verification)
+      - [Apply for 10 digit long codes Registration](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-ten-digit-long-code)
+      - [Enable alphanumeric sender ID](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/enable-alphanumeric-sender-id)
       - [Use the Opt-Out API](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/opt-out-api-quickstart)
     - Voice and Video
       - Connect to a call
@@ -132,9 +136,6 @@
       - [Register for Android push notifications FCM v1](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-chat-register-android-push-fcm-v1)
       - Phone numbers
         - [Port a phone number into Azure](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/port-phone-number)
-        - [Apply for a short code](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-short-code)
-        - [Apply for toll-free verification](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-toll-free-verification)
-        - [Enable alphanumeric sender ID](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/enable-alphanumeric-sender-id)
         - [Look up a recipient phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/number-lookup)
       - Events
         - [View SMS events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/handle-sms-events)
@@ -338,6 +339,7 @@
         - [Presence events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-presence-events)
     - SMS
       - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/concepts)
+      - [SMS Number Types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/sms-number-types)
       - [SDK features](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/sdk-features)
       - [Opt-Out API](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/opt-out-api-concept)
       - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms-pricing)
@@ -346,6 +348,7 @@
         - [Phone number types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-types)
         - [Short code program brief filling guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/program-brief-guidelines)
         - [Toll-free verification guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/toll-free-verification-guidelines)
+        - [10 Digit Long Codes Registration Guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/ten-digit-long-code-guidelines)
       - Events
         - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
         - [SMS events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-telephony-sms-events)
@@ -373,7 +376,8 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/teams-interop)
         - Communication as external user
           - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/overview)
-          - [Meeting capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/capabilities)
+          - [Calling capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/calling-capabilities)
+          - [Meeting capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/meeting-capabilities)
           - [Teams client experience](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/teams-client-experience)
           - [Teams controls](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/teams-administration)
           - [Logs & metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/monitor-logs-metrics)
@@ -393,7 +397,6 @@
           - [Microsoft Entra API permissions](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/azure-ad-api-permissions)
           - [Firewall configuration](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/custom-teams-endpoint-firewall-configuration)
           - [Government clouds](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/government-cloud)
-          - [Teams users in Azure Communication Services calls](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-interop-group-calls)
         - Virtual visits
           - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/virtual-visits/overview)
           - [Plan user experience](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/virtual-visits/plan-user-experience)

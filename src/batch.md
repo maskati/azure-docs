@@ -71,6 +71,7 @@
       - [Microsoft Entra ID with Batch service](https://learn.microsoft.com/en-us/azure/batch/batch-aad-auth)
       - [Microsoft Entra ID with Batch Management](https://learn.microsoft.com/en-us/azure/batch/batch-aad-auth-management)
       - [Securely access Key Vault with Batch](https://learn.microsoft.com/en-us/azure/batch/credential-access-key-vault)
+      - [Role-based access control for Azure Batch service](https://learn.microsoft.com/en-us/azure/batch/batch-role-based-access-control)
     - Copy files and applications to pool nodes
       - [Copying applications and data to pool nodes](https://learn.microsoft.com/en-us/azure/batch/batch-applications-to-pool-nodes)
       - [Using application packages](https://learn.microsoft.com/en-us/azure/batch/batch-application-packages)

@@ -100,12 +100,13 @@
       - [FAQ-Back up SAP HANA databases on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/sap-hana-faq-backup-azure-vm.yml)
       - [FAQ-Back up Azure Database for PostgreSQL server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-server-faq.yml)
       - [FAQ-Azure Backup Server and DPM](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dpm-azure-server-faq.yml)
-      - [FAQ-Azure Backup monitor alert](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-alert-faq.yml)
+      - [FAQ-Azure Backup Monitoring and Reporting](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-alert-faq.yml)
       - [FAQ-Protection against Ransomware](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
       - [FAQ-Soft Delete](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-backup-faq.yml)
     - Vaults
       - [Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview)
       - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/backup-vault-overview)
+    - [Azure Business Continuity center](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-overview?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
     - [Backup center](https://learn.microsoft.com/en-us/azure/backup/backup-center-overview)
     - Azure VM backup
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
@@ -124,7 +125,7 @@
     - Windows backup using MARS agent
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-about-mars)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/about-restore-microsoft-azure-recovery-services)
-    - [Monitor and Alerts](https://learn.microsoft.com/en-us/azure/backup/monitoring-and-alerts-overview)
+    - [Monitoring and Reporting](https://learn.microsoft.com/en-us/azure/backup/monitoring-and-alerts-overview)
     - Security
       - [Enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-about)
       - [Multi-user authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept)
@@ -144,7 +145,18 @@
         - [Relocate](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-backup?toc=/azure/backup/toc.json)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-manage-windows-server)
       - Backup vault
-        - [Create and manage](https://learn.microsoft.com/en-us/azure/backup/create-manage-backup-vault)
+        - [Create and delete](https://learn.microsoft.com/en-us/azure/backup/create-manage-backup-vault)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-backup-vault)
+    - Azure Business Continuity Center
+      - [View protectable resources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protectable-resources?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-configure-protection-datasource?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Recover item](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-recover-deleted-item?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [View protected items and perform actions](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protected-items-and-perform-actions?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Review security posture](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-review-security-posture?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Monitor jobs](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-operate?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Monitor alerts and metrics](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-alerts-metrics?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Monitoring protection summary](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-protection-summary?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Support Matrices](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-support-matrix?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
     - Backup center
       - [Monitor and Operate](https://learn.microsoft.com/en-us/azure/backup/backup-center-monitor-operate)
       - [Obtain insights](https://learn.microsoft.com/en-us/azure/backup/backup-center-obtain-insights)
@@ -355,21 +367,25 @@
       - [Offline Backup with Import/Export MARS](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-import-export)
       - [Offline Backup with Import/Export DPM/MABS](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-server-import-export)
       - [Offline Backup for DPM and MABS previous versions](https://learn.microsoft.com/en-us/azure/backup/offline-backup-server-previous-versions)
-    - Monitor and Alerts
-      - [Using Backup center](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-built-in-monitor)
-      - [Using Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/backup/move-to-azure-monitor-alerts)
-      - [Using Azure Monitor metrics](https://learn.microsoft.com/en-us/azure/backup/metrics-overview)
-      - [Using Azure Monitor Logs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-use-azuremonitor)
-      - [Using Backup Explorer](https://learn.microsoft.com/en-us/azure/backup/monitor-azure-backup-with-backup-explorer)
-    - Reports
+    - Monitoring
+      - [Review backup estate](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-built-in-monitor)
+      - Alerts
+        - [Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-alerts)
+        - [Metrics preview](https://learn.microsoft.com/en-us/azure/backup/metrics-overview)
+        - [Logs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-use-azuremonitor)
+        - [Configure notifications](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-alerts-notification)
+        - [Classic Alerts](https://learn.microsoft.com/en-us/azure/backup/move-to-azure-monitor-alerts)
+    - Reporting
       - Configure Azure Backup reports
-        - [Configure Azure Backup reports](https://learn.microsoft.com/en-us/azure/backup/configure-reports)
-        - [Email Azure Backup reports](https://learn.microsoft.com/en-us/azure/backup/backup-reports-email)
-      - Configure Diagnostics Events for Recovery Services Vaults
-        - [Using Diagnostics Settings for Recovery Services Vaults](https://learn.microsoft.com/en-us/azure/backup/backup-azure-diagnostic-events)
-        - [Using System Functions](https://learn.microsoft.com/en-us/azure/backup/backup-reports-system-functions)
-        - [Log Analytics Data Model for Resource Specific Diagnostics Events](https://learn.microsoft.com/en-us/azure/backup/backup-azure-reports-data-model)
-        - [Log Analytics Data Model for Azure Backup Azure Diagnostics mode](https://learn.microsoft.com/en-us/azure/backup/backup-azure-diagnostics-mode-data-model)
+        - [Configure Report](https://learn.microsoft.com/en-us/azure/backup/configure-reports)
+        - [View Report](https://learn.microsoft.com/en-us/azure/backup/view-reports)
+        - [Email Report](https://learn.microsoft.com/en-us/azure/backup/backup-reports-email)
+      - Configure Diagnostics Events
+        - [Use Diagnostic Settings with Log Analytics](https://learn.microsoft.com/en-us/azure/backup/backup-azure-diagnostic-events)
+        - [Log Analytics Data Model for Resource Specific Diagnostic Events](https://learn.microsoft.com/en-us/azure/backup/backup-azure-reports-data-model)
+        - [Log Analytics Data Model for Legacy Diagnostic Events](https://learn.microsoft.com/en-us/azure/backup/backup-azure-diagnostics-mode-data-model)
+        - [System Functions](https://learn.microsoft.com/en-us/azure/backup/backup-reports-system-functions)
+      - [Backup Explorer](https://learn.microsoft.com/en-us/azure/backup/monitor-azure-backup-with-backup-explorer)
     - Automation
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/automation-backup)
       - Built-in Azure Policy for Azure Backup
@@ -425,6 +441,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/archive-tier-support)
       - [Use Archive tier](https://learn.microsoft.com/en-us/azure/backup/use-archive-tier-support)
     - Troubleshoot
+      - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/backup-vault-troubleshoot)
       - [Azure VM](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-troubleshoot)
       - [Azure VM file recovery](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vm-file-recovery-troubleshoot)
       - [Azure Backup agent or VM extension timed out](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-vm-backup-fails-snapshot-timeout)
@@ -448,6 +465,7 @@
       - [Archive tier](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-archive-tier)
       - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-troubleshoot)
       - [Data recovery from Microsoft Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server-troubleshoot)
+      - [Monitoring and  alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-troubleshoot)
   - Reference
     - [Archived release notes](https://learn.microsoft.com/en-us/azure/backup/backup-release-notes-archived)
     - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.recoveryservices.backup)

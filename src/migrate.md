@@ -17,8 +17,8 @@
   - Tutorials
     - Discover
       - VMware environment
-        - [Discover servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
-        - [Import servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-import-vmware-using-rvtools-xlsx)
+        - [Discover servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-discover-vmware?context=/azure/migrate/context/migrate-context)
+        - [Import servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-import-vmware-using-rvtools-xlsx?context=/azure/migrate/context/migrate-context)
       - [Discover servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
       - [Discover physical servers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
       - [Discover AWS instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-aws)
@@ -29,7 +29,7 @@
       - [Build a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
     - Assess
       - Assess servers in VMware environment
-        - [Assess servers for migration to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vm)
+        - [Assess servers for migration to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-assess-vmware-azure-vm?context=/azure/migrate/context/migrate-context)
         - [Assess SQL instances for migration to Azure SQL](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)
         - [Assess servers for migration to AVS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
       - Assess servers in Hyper-V environment
@@ -47,10 +47,10 @@
       - [Assess SAP systems for migration preview](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sap-systems)
     - Migrate
       - Migrate servers in VMware environment
-        - [Migration options for servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
-        - [Migrate with agentless migration portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
-        - [Migrate with agent-based migration](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
-        - [Migrate with agentless migration PowerShell](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-powershell)
+        - [Migration options for servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/vmware/server-migrate-overview?context=/azure/migrate/context/migrate-context)
+        - [Migrate with agentless migration portal](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware?context=/azure/migrate/context/migrate-context)
+        - [Migrate with agent-based migration](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware-agent?context=/azure/migrate/context/migrate-context)
+        - [Migrate with agentless migration PowerShell](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware-powershell?context=/azure/migrate/context/migrate-context)
       - [Migrate servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v)
       - [Migrate physical servers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines)
       - [Migrate AWS instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-aws-virtual-machines)
@@ -69,7 +69,7 @@
     - Security
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-migrate-security-baseline?context=/azure/migrate/context/migrate-context)
     - Discover
-      - [VMware discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware)
+      - [VMware discovery support](https://learn.microsoft.com/en-us/azure/migrate/vmware/migrate-support-matrix-vmware?context=/azure/migrate/context/migrate-context)
       - [Hyper-V discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v)
       - [Physical server discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical)
       - [Azure Migrate appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
@@ -87,14 +87,14 @@
       - [Assessment overview discover and assess SAP Systems preview](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-sap-systems-assessment)
     - Migrate
       - [Build a migration plan](https://learn.microsoft.com/en-us/azure/migrate/concepts-migration-planning)
-      - [VMware migration support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration)
+      - [VMware migration support](https://learn.microsoft.com/en-us/azure/migrate/vmware/migrate-support-matrix-vmware-migration?context=/azure/migrate/context/migrate-context)
       - [Hyper-V migration support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v-migration)
       - [Physical server migration support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical-migration)
       - [Replication appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-replication-appliance)
-      - [VMware agentless migration architecture](https://learn.microsoft.com/en-us/azure/migrate/concepts-vmware-agentless-migration)
-        - [Prepare for VMware agentless migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-agentless-migration)
+      - [VMware agentless migration architecture](https://learn.microsoft.com/en-us/azure/migrate/vmware/concepts-vmware-agentless-migration?context=/azure/migrate/context/migrate-context)
+        - [Prepare for VMware agentless migration](https://learn.microsoft.com/en-us/azure/migrate/vmware/prepare-for-agentless-migration?context=/azure/migrate/context/migrate-context)
       - [Hyper-V migration architecture](https://learn.microsoft.com/en-us/azure/migrate/hyper-v-migration-architecture)
-      - [VMware/Physical agent-based migration architecture](https://learn.microsoft.com/en-us/azure/migrate/agent-based-migration-architecture)
+      - [VMware/Physical agent-based migration architecture](https://learn.microsoft.com/en-us/azure/migrate/vmware/agent-based-migration-architecture?context=/azure/migrate/context/migrate-context)
       - [Web apps migration support](https://learn.microsoft.com/en-us/azure/migrate/concepts-migration-webapps)
   - How-to guides
     - [Create and manage Azure Migrate projects](https://learn.microsoft.com/en-us/azure/migrate/create-manage-projects)
@@ -105,12 +105,12 @@
       - [Troubleshoot network connectivity](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-network-connectivity)
     - Discover
       - Deploy the Azure Migrate appliance
-        - [Deploy appliance with template VMware](https://learn.microsoft.com/en-us/azure/migrate/how-to-set-up-appliance-vmware)
+        - [Deploy appliance with template VMware](https://learn.microsoft.com/en-us/azure/migrate/vmware/how-to-set-up-appliance-vmware?context=/azure/migrate/context/migrate-context)
         - [Deploy appliance with template Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/how-to-set-up-appliance-hyper-v)
         - [Deploy appliance with script VMware/Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/deploy-appliance-script)
         - [Deploy appliance for physical servers](https://learn.microsoft.com/en-us/azure/migrate/how-to-set-up-appliance-physical)
         - [Deploy appliance in Azure Government](https://learn.microsoft.com/en-us/azure/migrate/deploy-appliance-script-government)
-      - [Limit discovery scope for servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
+      - [Limit discovery scope for servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/vmware/set-discovery-scope?context=/azure/migrate/context/migrate-context)
       - [Create least privilege credentials for SQL Server discovery](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
       - [Enable Arc on discovered items](https://learn.microsoft.com/en-us/azure/migrate/how-to-arc-enable-inventory)
       - [How to add server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
@@ -142,13 +142,13 @@
       - [Prepare machines for migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-migration)
       - [Prepare Windows 2003 servers for migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-windows-server-2003-migration)
       - Migrate VMware VMs
-        - [Migrate VMware VMs to encrypted Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate-vmware-vms-with-cmk-disks)
-      - [Test migration](https://learn.microsoft.com/en-us/azure/migrate/how-to-test-replicating-virtual-machines)
+        - [Migrate VMware VMs to encrypted Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/vmware/how-to-migrate-vmware-vms-with-cmk-disks?context=/azure/migrate/context/migrate-context)
+      - [Test migration](https://learn.microsoft.com/en-us/azure/migrate/vmware/how-to-test-replicating-virtual-machines?context=/azure/migrate/context/migrate-context)
       - [Upgrade Windows OS](https://learn.microsoft.com/en-us/azure/migrate/how-to-upgrade-windows)
       - Scale migration
         - [How to migrate VMware VMs at scale using the agentless replication method](https://learn.microsoft.com/en-us/azure/migrate/how-to-scale-out-for-migration)
         - [Automate migration of large number of VMs](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate-at-scale)
-        - [How to automate VMware migration](https://learn.microsoft.com/en-us/azure/migrate/how-to-automate-migration)
+        - [How to automate VMware migration](https://learn.microsoft.com/en-us/azure/migrate/vmware/how-to-automate-migration?context=/azure/migrate/context/migrate-context)
     - Manage
       - [Delete an Azure Migrate project](https://learn.microsoft.com/en-us/azure/migrate/how-to-delete-project)
       - [Onboard on-premises servers in VMware virtual environment to Azure Arc](https://learn.microsoft.com/en-us/azure/migrate/onboard-to-azure-arc-with-azure-migrate)
@@ -169,8 +169,8 @@
         - [Supported Scenarios](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment-supported-scenarios)
         - [FAQ](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment-faq)
     - Migrate
-      - [Troubleshoot replication issues in agentless VMware migration](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-changed-block-tracking-replication)
-      - [Troubleshoot stuck replication and slow migration issues in agentless VMware](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-replication-vmware)
+      - [Troubleshoot replication issues in agentless VMware migration](https://learn.microsoft.com/en-us/azure/migrate/vmware/troubleshoot-changed-block-tracking-replication?context=/azure/migrate/context/migrate-context)
+      - [Troubleshoot stuck replication and slow migration issues in agentless VMware](https://learn.microsoft.com/en-us/azure/migrate/vmware/troubleshoot-replication-vmware?context=/azure/migrate/context/migrate-context)
       - [Troubleshoot web app migration issues](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-webapps-migration)
       - [Troubleshoot Windows OS upgrade issues](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-upgrade)
   - Reference

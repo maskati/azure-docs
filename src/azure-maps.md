@@ -257,7 +257,6 @@
     - [Understanding Azure Maps Transactions](https://learn.microsoft.com/en-us/azure/azure-maps/understanding-azure-maps-transactions)
     - [Azure Maps videos](https://learn.microsoft.com/shows/)
     - [Open source projects](https://learn.microsoft.com/en-us/azure/azure-maps/open-source-projects)
-    - [Azure Maps case studies](https://aka.ms/AzureMapsCaseStudies)
     - [Azure Maps glossary](https://learn.microsoft.com/en-us/azure/azure-maps/glossary)
     - [Service updates](https://azure.microsoft.com/updates/)
     - [Create elevation data & services](https://learn.microsoft.com/en-us/azure/azure-maps/elevation-data-services)
