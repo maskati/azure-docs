@@ -108,7 +108,7 @@
       - Security
         - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-front-door-security-baseline?toc=/azure/frontdoor/TOC.json)
         - [DDoS protection](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos)
-        - [End-to-end TLS encryption](https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls)
+        - [About TLS encryption](https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls)
         - [Web Application Firewall](https://learn.microsoft.com/en-us/azure/frontdoor/web-application-firewall)
         - [Geo-filtering](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering?toc=/azure/frontdoor/toc.json)
         - [Secure traffic to origins](https://learn.microsoft.com/en-us/azure/frontdoor/origin-security)

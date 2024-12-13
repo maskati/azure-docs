@@ -123,20 +123,22 @@
     - Developing with Dapr
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview)
       - Get started
-        - [Connect to Azure services via Dapr components](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connection)
-        - [Enable Dapr](https://learn.microsoft.com/en-us/azure/container-apps/enable-dapr)
+        - [Deploy using Azure CLI](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr)
+        - [Deploy using ARM or Bicep](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-azure-resource-manager)
+        - [Enable Dapr on an existing container app](https://learn.microsoft.com/en-us/azure/container-apps/enable-dapr)
+        - [Deploy using the Dapr extension for Azure Functions](https://learn.microsoft.com/en-us/azure/container-apps/dapr-functions-extension)
+      - Components
+        - [Components overview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-components)
+        - [Connect to Azure or third-party services](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connect-services)
+        - [Connect to Azure services via Azure portal](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connection)
       - Configure
-        - [Dapr components](https://learn.microsoft.com/en-us/azure/container-apps/dapr-components)
-        - [Dapr component resiliency preview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
+        - [Set up Dapr resiliency policies preview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
         - [Scale Dapr apps with KEDA using Bicep](https://learn.microsoft.com/en-us/azure/container-apps/dapr-keda-scaling)
         - [Enable token authentication for Dapr requests](https://learn.microsoft.com/en-us/azure/container-apps/dapr-authentication-token)
       - Tutorials
         - [Microservices communication using Dapr Pub/Sub](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-pubsub)
         - [Event-driven work using Dapr Bindings](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-bindings)
         - [Microservices communication using Dapr Service Invocation](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-service-invoke)
-        - [Deploy using the Dapr extension for Azure Functions](https://learn.microsoft.com/en-us/azure/container-apps/dapr-functions-extension)
-        - [Deploy using Azure CLI](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr)
-        - [Deploy using ARM or Bicep](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-azure-resource-manager)
   - Networking, ingress, and network security
     - [Architecture overview](https://learn.microsoft.com/en-us/azure/container-apps/networking)
     - Environments
