@@ -206,6 +206,7 @@
     - [Migrate WordPress to App Service](https://learn.microsoft.com/en-us/azure/app-service/migrate-wordpress)
     - [Configure WordPress](https://learn.microsoft.com/en-us/azure/app-service/reference-app-settings)
     - [Customize API Management developer portal](https://learn.microsoft.com/azure/api-management/developer-portal-wordpress-plugin)
+    - [WordPress FAQ](https://learn.microsoft.com/en-us/azure/app-service/wordpress-faq)
   - WebJobs
     - [Create WebJobs](https://learn.microsoft.com/en-us/azure/app-service/webjobs-create)
     - [Develop WebJobs using VS](https://learn.microsoft.com/en-us/azure/app-service/webjobs-dotnet-deploy-vs)
@@ -257,7 +258,6 @@
       - [Migrate JBoss EAP](https://learn.microsoft.com/azure/developer/java/migration/migrate-jboss-eap-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
       - [Migrate WebLogic](https://learn.microsoft.com/azure/developer/java/migration/migrate-weblogic-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
       - [Migrate WebSphere](https://learn.microsoft.com/azure/developer/java/migration/migrate-websphere-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
-      - [Migrate WordPress](https://learn.microsoft.com/en-us/azure/app-service/migrate-wordpress)
     - Cookbooks
       - [Reference Architectures](https://learn.microsoft.com/azure/architecture/reference-architectures/app-service-web-app/basic-web-app)
       - [Deployment Scripts](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-gallery)

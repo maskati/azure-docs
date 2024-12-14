@@ -31,7 +31,7 @@
       - Assess servers in VMware environment
         - [Assess servers for migration to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-assess-vmware-azure-vm?context=/azure/migrate/context/migrate-context)
         - [Assess SQL instances for migration to Azure SQL](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)
-        - [Assess servers for migration to AVS](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-assess-vmware-azure-vmware-solution)
+        - [Assess servers for migration to AVS](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-assess-vmware-azure-vmware-solution?context=/azure/migrate/context/migrate-context)
       - Assess servers in Hyper-V environment
         - [Assess servers for migration to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-hyper-v)
         - [Assess SQL instances for migration to Azure SQL](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)

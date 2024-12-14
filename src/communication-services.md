@@ -436,6 +436,8 @@
       - Service events via Event Grid
         - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
         - [Voice and Video events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-voice-video-events)
+      - Real Time Text
+        - [Real Time Text overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/real-time-text)
       - Closed captions
         - [Closed captions overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/enable-closed-captions)
       - UI Library
