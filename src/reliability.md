@@ -2,6 +2,9 @@
 > Azure reliability documentation for availability zones, cross-regional disaster recovery, availability of services for sovereign clouds, regions, and category.
   - [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/)
   - [What is reliability?](https://learn.microsoft.com/en-us/azure/reliability/overview)
+  - Reliability fundamentals
+    - [Shared responsibility for resiliency](https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility)
+    - [Azure service incident response](https://learn.microsoft.com/en-us/azure/reliability/incident-response)
   - Availability zone support
     - [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
     - [Services with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support)
@@ -223,7 +226,6 @@
     - [Azure Reliability feature page](https://azure.microsoft.com/explore/reliability/)
     - [Reliability testing - Chaos engineering](https://learn.microsoft.com/azure/well-architected/resiliency/chaos-engineering)
     - [Reliability in Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/reliability)
-    - [Azure service incident response](https://learn.microsoft.com/en-us/azure/reliability/incident-response)
     - Azure Service Manager retirement
       - [Overview](https://learn.microsoft.com/en-us/azure/reliability/asm-retirement)
       - Migration guides by service
