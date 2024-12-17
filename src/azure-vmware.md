@@ -27,7 +27,6 @@
     - [License SQL Server, Windows Server and Linux in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/license-sql-windows-in-avs)
     - [Enable unlimited virtualization with Azure Hybrid Benefit for SQL Server in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-sql-azure-hybrid-benefit)
     - [Save costs with a reserved instance](https://learn.microsoft.com/en-us/azure/azure-vmware/reserved-instance)
-    - [Azure hybrid benefit for Windows Server, SQL Server, and Linux subscriptions](https://learn.microsoft.com/en-us/azure/azure-vmware/sql-server-hybrid-benefit)
     - [VMware Cloud Foundations VCF license portability on Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/vmware-cloud-foundations-license-portability)
   - Architecture
     - [Private clouds and clusters](https://learn.microsoft.com/en-us/azure/azure-vmware/architecture-private-clouds)

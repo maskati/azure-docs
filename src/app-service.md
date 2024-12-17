@@ -200,8 +200,8 @@
   - Integrate AI with App Service
     - [Deploy an application that uses OpenAI on App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps)
   - WordPress
-    - [WordPress architecture](https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-app-service)
     - [WordPress overview](https://learn.microsoft.com/en-us/azure/app-service/overview-wordpress)
+    - [WordPress architecture](https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-app-service)
     - [Deploy WordPress](https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress)
     - [Migrate WordPress to App Service](https://learn.microsoft.com/en-us/azure/app-service/migrate-wordpress)
     - [Configure WordPress](https://learn.microsoft.com/en-us/azure/app-service/reference-app-settings)

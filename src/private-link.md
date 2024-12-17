@@ -65,7 +65,7 @@
     - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/privateendpoints)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/allversions)
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=virtual-network)
-    - 
+    - Network security perimeter
       - [Azure CLI](https://learn.microsoft.com/cli/azure/network/network-security-perimeter)
       - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
       - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/private-link)
