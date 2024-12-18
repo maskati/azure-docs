@@ -49,10 +49,11 @@
         - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-portal)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-powershell)
     - Site-to-site S2S
-      - Configure site-to-site connections
+      - Configure site-to-site connections - shared key
         - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell)
         - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli)
+      - [Configure site-to-site connections - certificate](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal)
       - [Add or remove site-to-site-connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/add-remove-site-to-site-connections)
       - [Connect to multiple policy-based VPN devices](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-multiple-policybased-rm-ps)
     - Site-to-site with ExpressRoute connections

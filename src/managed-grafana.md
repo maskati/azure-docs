@@ -3,6 +3,7 @@
   - [Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/)
   - Overview
     - [About Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/overview)
+    - [Service limits](https://learn.microsoft.com/en-us/azure/managed-grafana/known-limitations)
   - Quickstarts
     - [Create an instance - Portal](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-portal)
     - [Create an instance - Azure CLI](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-cli)
@@ -29,10 +30,10 @@
     - Dashboards
       - [Create a dashboard](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-create-dashboard)
       - [Share a dashboard](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-share-dashboard)
+      - [Use reporting and image rendering](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-use-reporting-and-image-rendering)
     - Alerts and notifications
       - [Use Azure Monitor alerts with Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-use-azure-monitor-alerts)
       - [Configure SMTP settings](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-smtp-settings)
-      - [Use reporting and image rendering](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-use-reporting-and-image-rendering)
     - Networking
       - [Set up private access](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-set-up-private-access)
       - [Use deterministic outbound IPs](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-deterministic-ip)
@@ -41,11 +42,9 @@
       - [Enable zone redundancy](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-enable-zone-redundancy)
     - Administration and automation
       - [Use service accounts](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-service-accounts)
-      - [Create and manage API keys Deprecated](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-create-api-keys)
       - [Monitor Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-monitor-managed-grafana-workspace)
     - [Migrate to Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-migrate)
     - [Troubleshoot common issues](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-managed-grafana)
-    - [Known limitations](https://learn.microsoft.com/en-us/azure/managed-grafana/known-limitations)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/grafana)
     - [ARM, Bicep and Terraform templates](https://learn.microsoft.com/azure/templates/microsoft.dashboard/2021-09-01-preview/grafana)

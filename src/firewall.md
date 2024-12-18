@@ -42,6 +42,7 @@
     - Policy
       - [Policy rule sets](https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets)
       - [Policy Analytics](https://learn.microsoft.com/en-us/azure/firewall/policy-analytics)
+    - [Roles and permissions](https://learn.microsoft.com/en-us/azure/firewall/roles-permissions)
     - [Azure Firewall web categories](https://learn.microsoft.com/en-us/azure/firewall/web-categories)
     - [Infrastructure FQDNs](https://learn.microsoft.com/en-us/azure/firewall/infrastructure-fqdns)
     - [Threat intelligence](https://learn.microsoft.com/en-us/azure/firewall/threat-intel)

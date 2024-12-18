@@ -14,6 +14,7 @@
       - [Upgrade or rollback versions](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-upgrade)
       - [Enable secure settings](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-enable-secure-settings)
       - [Production deployment guidelines](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-guidelines)
+      - [Production deployment examples](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-examples)
     - Secure your deployment
       - [Certificate management](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/concept-default-root-ca)
       - [Manage secrets](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-secrets)

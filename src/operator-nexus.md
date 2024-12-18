@@ -75,6 +75,7 @@
           - [How to upgrade Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric)
           - [Credential Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-credential-rotation)
           - [Credential Manager Key Vault](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-credential-manager-key-vault)
+          - [Updating ExpressRoute Gateway Authorization Key in Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-update-expressroute-authorization-key)
     - Network Fabric
       - [Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-isolation-domain)
       - [Isolation Domain Configuration Examples](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-isolation-domain-configuration-examples)

@@ -122,7 +122,6 @@
 [Azure Service Bus Messaging documentation](./service-bus-messaging.md)
 [Service Connector documentation](./service-connector.md)
 [Azure Site Recovery documentation](./site-recovery.md)
-[Azure Spatial Anchors documentation](./spatial-anchors.md)
 [Azure SQL Server Stretch Database documentation](./sql-server-stretch-database.md)
 [Azure Static Web Apps documentation](./static-web-apps.md)
 [storage-actions](./storage-actions.md)
