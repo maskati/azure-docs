@@ -2,8 +2,6 @@
 > The Azure private multi-access edge compute (MEC) solution enables operators and system integrators to deliver high performance, low-latency connectivity, and IoT applications at the enterprise edge.
   - [Azure private multi-access edge compute documentation](https://learn.microsoft.com/en-us/azure/private-multi-access-edge-compute-mec/)
     - Overview
-      - [What is the Azure private MEC?](https://learn.microsoft.com/en-us/azure/private-multi-access-edge-compute-mec/overview)
-      - [Azure Private MEC partner solutions](https://learn.microsoft.com/en-us/azure/private-multi-access-edge-compute-mec/partner-programs)
     - Related
       - [Azure Network Function Manager](https://learn.microsoft.com/en-us/azure/network-function-manager/)
       - [Azure Private 5G Core](https://learn.microsoft.com/en-us/azure/private-5g-core/)

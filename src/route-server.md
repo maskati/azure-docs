@@ -22,6 +22,7 @@
     - [Multi-region design](https://learn.microsoft.com/en-us/azure/route-server/multiregion)
     - [Default route injection in spoke VNets](https://learn.microsoft.com/en-us/azure/route-server/route-injection-in-spokes)
     - [IP anycast](https://learn.microsoft.com/en-us/azure/route-server/anycast)
+    - [Roles and permissions](https://learn.microsoft.com/en-us/azure/route-server/roles-permissions)
   - How-to guides
     - [Configure and manage Route Server](https://learn.microsoft.com/en-us/azure/route-server/configure-route-server)
     - [Troubleshoot Route Server issues](https://learn.microsoft.com/en-us/azure/route-server/troubleshoot-route-server)

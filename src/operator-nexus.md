@@ -63,19 +63,18 @@
         - [Cluster Manager Template JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/clustermanager-jsonc-example)
         - [Cluster Manager Parameters JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/clustermanager-parameters-jsonc-example)
       - On-Premises Operator Nexus Instance
-        - Operator Nexus Instance Lifecycle Management
-          - [Before you start Operator Nexus platform deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-platform-prerequisites)
-          - [Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-network-fabric)
-          - [Cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-cluster)
-          - [Cluster Template JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/cluster-jsonc-example)
-          - [Cluster Parameters JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/cluster-parameters-jsonc-example)
-          - [Instance Readiness Testing](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-run-instance-readiness-testing)
-          - [Cluster Upgrades](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade)
-          - [Cluster Upgrades With PauseRack Startegy](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade-with-pauserack-strategy)
-          - [How to upgrade Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric)
-          - [Credential Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-credential-rotation)
-          - [Credential Manager Key Vault](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-credential-manager-key-vault)
-          - [Updating ExpressRoute Gateway Authorization Key in Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-update-expressroute-authorization-key)
+        - [Before you start Operator Nexus platform deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-platform-prerequisites)
+        - [Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-network-fabric)
+        - [Cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-cluster)
+        - [Cluster Template JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/cluster-jsonc-example)
+        - [Cluster Parameters JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/cluster-parameters-jsonc-example)
+        - [Instance Readiness Testing](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-run-instance-readiness-testing)
+        - [Cluster Upgrades](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade)
+        - [Cluster Upgrades With PauseRack Startegy](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade-with-pauserack-strategy)
+        - [Network Fabric Upgrades](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric)
+        - [Credential Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-credential-rotation)
+        - [Credential Manager Key Vault](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-credential-manager-key-vault)
+        - [Updating ExpressRoute Gateway Authorization Key in Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-update-expressroute-authorization-key)
     - Network Fabric
       - [Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-isolation-domain)
       - [Isolation Domain Configuration Examples](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-isolation-domain-configuration-examples)
@@ -140,6 +139,9 @@
       - [Service Principal Best Practices](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-service-principal)
         - [Service Principal Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-service-principal-rotation)
     - [Install CLI Extension](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-install-cli-extensions)
+    - General
+      - [Check runtime version](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-check-runtime-version)
+      - [Site decommission checklist](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-decommission-nexus-instance-checklist)
   - Troubleshooting
     - Network Fabric
       - [Troubleshoot Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-isolation-domain)

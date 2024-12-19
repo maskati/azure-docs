@@ -3,7 +3,7 @@
   - [Event Hubs Documentation](https://learn.microsoft.com/en-us/azure/event-hubs/)
   - Overview
     - [What is Event Hubs?](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
-    - [Apache Kafka on Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/azure-event-hubs-kafka-overview)
+    - [Apache Kafka on Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/azure-event-hubs-apache-kafka-overview)
     - [Schema Registry](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-overview)
     - [Terminology](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-features)
     - [Quotas](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas)

@@ -9,6 +9,7 @@
     - [Prerequisites](https://learn.microsoft.com/en-us/azure/update-manager/prerequisites)
     - [Roles and Permissions](https://learn.microsoft.com/en-us/azure/update-manager/roles-permissions)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/update-manager/support-matrix)
+      - [Support for Updates, Periodic assessments, Scheduled patching](https://learn.microsoft.com/en-us/azure/update-manager/support-matrix-updates)
   - Quickstarts
     - [Check and install on-demand updates](https://learn.microsoft.com/en-us/azure/update-manager/quickstart-on-demand)
   - Tutorials

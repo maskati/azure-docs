@@ -62,6 +62,7 @@
     - ExpressRoute
       - [About ExpressRoute in Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-about)
     - [Virtual hub settings](https://learn.microsoft.com/en-us/azure/virtual-wan/hub-settings)
+    - [Roles and permissions](https://learn.microsoft.com/en-us/azure/virtual-wan/roles-permissions)
     - [Gateway settings](https://learn.microsoft.com/en-us/azure/virtual-wan/gateway-settings)
     - [Apply Zero Trust principles](https://learn.microsoft.com/security/zero-trust/azure-virtual-wan?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Secured virtual hubs](https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
