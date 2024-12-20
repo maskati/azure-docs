@@ -1,5 +1,5 @@
 # Azure HPC documentation
-> Azure high-performance computing (HPC) is a collection of Microsoft-managed workload orchestration services that integrate with compute, network, and storage resources. HPC offers purpose-built infrastructure and solutions for a wide variety of applications and parallelized workloads.
+> Official Azure high-performance computing (HPC) documentation. Learn about Azure HPC's various workload orchestration services that integrate with compute, network, and storage resources.
   - [High-Performance Computing on-premises to cloud lift and shift](https://learn.microsoft.com/en-us/azure/high-performance-computing/)
   - Get started
     - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-overview)

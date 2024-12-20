@@ -12,6 +12,7 @@
       - [Assessment](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-assessment)
       - [Business case](https://learn.microsoft.com/en-us/azure/migrate/common-questions-business-case)
       - [Migration and modernization tool](https://learn.microsoft.com/en-us/azure/migrate/common-questions-server-migration)
+    - [VMware Migration Scenario](https://learn.microsoft.com/en-us/azure/)
   - Quickstarts
     - [Create a project - ARM template](https://learn.microsoft.com/en-us/azure/migrate/quickstart-create-migrate-project)
   - Tutorials
@@ -30,7 +31,7 @@
     - Assess
       - Assess servers in VMware environment
         - [Assess servers for migration to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-assess-vmware-azure-vm?context=/azure/migrate/context/migrate-context)
-        - [Assess SQL instances for migration to Azure SQL](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)
+        - [Assess SQL instances for migration to Azure SQL](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql-vmware)
         - [Assess servers for migration to AVS](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-assess-vmware-azure-vmware-solution?context=/azure/migrate/context/migrate-context)
       - Assess servers in Hyper-V environment
         - [Assess servers for migration to Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-hyper-v)
@@ -101,7 +102,8 @@
     - Use Azure Migrate with private endpoints
       - [Support requirements and considerations](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
       - [Discover and assess using Azure Private Link](https://learn.microsoft.com/en-us/azure/migrate/discover-and-assess-using-private-endpoints)
-      - [Migrate servers to Azure using Private Link](https://learn.microsoft.com/en-us/azure/migrate/migrate-servers-to-azure-using-private-link)
+      - [Migrate Hyper-V servers to Azure using Private Link](https://learn.microsoft.com/en-us/azure/migrate/migrate-hyper-v-servers-to-azure-using-private-link)
+      - [Migrate servers to Azure using Private Link for agent-based migration](https://learn.microsoft.com/en-us/azure/migrate/migrate-servers-to-azure-using-private-link-agent-based)
       - [Troubleshoot network connectivity](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-network-connectivity)
     - Discover
       - Deploy the Azure Migrate appliance

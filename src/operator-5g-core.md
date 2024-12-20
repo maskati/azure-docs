@@ -2,25 +2,10 @@
 > Learn how to securely deploy and manage  mobile networks for 5G Internet of Things (IoT) devices using Azure Operator 5G Core Preview.
   - [Azure Operator 5G Core documentation](https://learn.microsoft.com/en-us/azure/operator-5g-core/)
   - Overview
-    - [What is Azure Operator 5G Core?](https://learn.microsoft.com/en-us/azure/operator-5g-core/overview-product)
   - Concepts
-    - [Security in Azure Operator 5G Core](https://learn.microsoft.com/en-us/azure/operator-5g-core/concept-security)
-    - [Centralized lifecycle management in Azure Operator 5G Core](https://learn.microsoft.com/en-us/azure/operator-5g-core/concept-centralized-lifecycle-management)
-    - [Deployment order for clusters, network functions, and observability](https://learn.microsoft.com/en-us/azure/operator-5g-core/concept-deployment-order)
-    - [Observability and analytics in Azure Operator 5G Core](https://learn.microsoft.com/en-us/azure/operator-5g-core/concept-observability-analytics)
   - Quickstarts
-    - [Get access to Azure Operator 5G](https://learn.microsoft.com/en-us/azure/operator-5g-core/quickstart-subscription)
-    - [Complete the prerequisites to deploy Azure Operator 5G Core on Nexus Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/operator-5g-core/quickstart-complete-prerequisites-deploy-nexus-azure-kubernetes-service)
-    - [Complete the prerequisites to deploy Azure Operator 5G Core on Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/operator-5g-core/quickstart-complete-prerequisites-deploy-azure-kubernetes-service)
-    - [Deploy Azure Operator 5G Core](https://learn.microsoft.com/en-us/azure/operator-5g-core/quickstart-deploy-5g-core)
-    - [Monitor the status of your Azure Operator 5G Core deployment](https://learn.microsoft.com/en-us/azure/operator-5g-core/quickstart-monitor-deployment-status)
-    - [Configure the Azure Operator 5G Core extension for status monitoring](https://learn.microsoft.com/en-us/azure/operator-5g-core/quickstart-perform-checks-post-deployment)
+    - [Configure the Azure Operator 5G Core extension for status monitoring](https://learn.microsoft.com/en-us/azure/operator-5g-core/quickstart-configure-extension-for-status-monitoring)
   - How-to guides
-    - [Configure Azure Operator 5G Core network functions](https://learn.microsoft.com/en-us/azure/operator-5g-core/how-to-configure-network-function)
-    - [Deploy a network function using Azure CLI](https://learn.microsoft.com/en-us/azure/operator-5g-core/how-to-deploy-network-functions)
-    - [Deploy Azure Operator 5G Core observability services](https://learn.microsoft.com/en-us/azure/operator-5g-core/how-to-deploy-observability)
-    - [Delete a network function deployment or ClusterServices in Azure Operator 5G Core](https://learn.microsoft.com/en-us/azure/operator-5g-core/how-to-delete-network-function-cluster)
   - Tutorials
-    - [Configure a network function](https://learn.microsoft.com/en-us/azure/operator-5g-core/tutorial-configure-network-function)
   - Reference
     - [REST API Reference](https://learn.microsoft.com/rest/api/mobilepacketcore)

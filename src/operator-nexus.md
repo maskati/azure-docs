@@ -161,6 +161,7 @@
       - [Troubleshoot Internet host virtual machine](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-internet-host-virtual-machine)
       - [Troubleshoot VM errors after BMM restart](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-vm-error-after-reboot)
       - [Troubleshooting dual-stack configuration issues for Nexus Kubernetes cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-dual-stack-configuration)
+      - [Troubleshoot Neighbor Group Creation Error](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-neighbor-group-creation-error)
   - [FAQ](https://learn.microsoft.com/en-us/azure/operator-nexus/azure-operator-nexus-faq)
   - Reference
     - Nexus Kubernetes service

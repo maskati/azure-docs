@@ -22,6 +22,8 @@
     - [Manage authentication](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-manage-authentication)
     - [Use service features](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-use-service-features)
     - [Use service package options](https://learn.microsoft.com/en-us/azure/playwright-testing/how-to-use-service-config-file)
+  - Tutorials
+    - [Accelerate Playwright test run and troubleshoot efficiently](https://learn.microsoft.com/en-us/azure/playwright-testing/tutorial-run-end-to-end-tests)
   - Samples
     - [Contoso Traders cloud testing demo](https://github.com/microsoft/contosotraders-cloudtesting/)
     - [Examples repository](https://github.com/microsoft/playwright-testing-service/)

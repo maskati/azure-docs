@@ -9,7 +9,7 @@
     - [Update a device image](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-raspberry-pi)
     - [Update device packages](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-ubuntu-agent)
     - [Update device components or connected sensors](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-howto-proxy-updates)
-    - [Device Update for Azure Real Time Operating System](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-azure-real-time-operating-system)
+    - [Device Update for Eclipse ThreadX](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-azure-real-time-operating-system)
   - Concepts
     - Account management
       - [Device Update account and instance](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-resources)
