@@ -141,9 +141,7 @@
         - [Microservices communication using Dapr Service Invocation](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-service-invoke)
   - Networking, ingress, and network security
     - [Architecture overview](https://learn.microsoft.com/en-us/azure/container-apps/networking)
-    - Environments
-      - [Deploy with an external environment](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom)
-      - [Deploy with an internal environment](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom-internal)
+    - [Use a custom virtual network](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom)
     - Ingress
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/ingress-overview)
       - [Configure ingress](https://learn.microsoft.com/en-us/azure/container-apps/ingress-how-to)
@@ -159,7 +157,6 @@
       - [Securing a custom VNET with an NSG](https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration)
       - [Use a private endpoint](https://learn.microsoft.com/en-us/azure/container-apps/how-to-use-private-endpoint)
       - [Integrate with Azure Front Door](https://learn.microsoft.com/en-us/azure/container-apps/how-to-integrate-with-azure-front-door)
-    - [Use a custom VNET](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom)
   - Languages and runtimes
     - .NET
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/dotnet-overview)

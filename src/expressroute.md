@@ -47,6 +47,7 @@
     - [BGP communities](https://learn.microsoft.com/en-us/azure/expressroute/bgp-communities)
     - Security
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/expressroute-security-baseline?toc=/azure/expressroute/TOC.json)
+      - [Roles and permissions](https://learn.microsoft.com/en-us/azure/expressroute/roles-permissions)
     - [BFD over ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-bfd)
     - [QoS requirements](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-qos)
     - [Rate limit for service provider ports](https://learn.microsoft.com/en-us/azure/expressroute/provider-rate-limit)

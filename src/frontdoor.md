@@ -225,7 +225,9 @@
           - [.NET](https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json)
           - [Node.js](https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json)
       - Edgio
-        - [Migrate to Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door)
+        - Migrate to Azure Front Door
+          - [Custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door)
+          - [Retain *.azureedge.net domain](https://learn.microsoft.com/en-us/azure/cdn/migrate-cdn-to-front-door-retain-edge-domain?toc=/azure/frontdoor/TOC.json)
         - Standard
           - [Optimize content](https://learn.microsoft.com/en-us/azure/cdn/cdn-optimization-overview?toc=/azure/frontdoor/TOC.json)
             - [Large-file optimization](https://learn.microsoft.com/en-us/azure/cdn/cdn-large-file-optimization?toc=/azure/frontdoor/TOC.json)
