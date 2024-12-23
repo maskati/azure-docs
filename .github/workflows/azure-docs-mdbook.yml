@@ -103,14 +103,14 @@ jobs:
         run: |
           git add book.toml
           git add README.md
-          git add src/*
+          git add -u src
           git diff-index --quiet HEAD || git commit -m 'Update of Azure docs'
       - name: Git push
         run: |
           git push origin main
       - name: Install mdBook
         run: |
-          curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.40/mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz | tar -xz
+          curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.43/mdbook-v0.4.43-x86_64-unknown-linux-gnu.tar.gz | tar -xz
       - name: Build mdBook
         run: |
           ./mdbook build
