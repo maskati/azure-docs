@@ -23,7 +23,7 @@
   - How-to guides
     - Develop
       - [Create WebSocket clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-websocket-connect)
-      - [Create reliable Websocket clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-reliable-clients)
+      - [Create reliable WebSocket clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-reliable-clients)
       - [How to connect MQTT WebSocket clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-connect-mqtt-websocket-client)
       - [Generate client access URL](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-generate-client-access-url)
       - [Configure event handler](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-eventhandler)

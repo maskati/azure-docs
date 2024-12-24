@@ -30,7 +30,6 @@
     - [VNet flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-overview)
     - Traffic analytics
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
-      - [Supported regions](https://learn.microsoft.com/en-us/azure/network-watcher/supported-region-traffic-analytics)
       - [Usage scenarios](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-usage-scenarios)
       - [Schema and data aggregation](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema)
       - [Schema update March 2020](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema-update)

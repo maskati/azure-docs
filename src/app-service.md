@@ -40,9 +40,7 @@
       - [Deploy continuously](https://learn.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment)
       - [Use local Git](https://learn.microsoft.com/en-us/azure/app-service/deploy-local-git)
       - [Use Azure Pipelines](https://learn.microsoft.com/en-us/azure/app-service/deploy-azure-pipelines)
-      - Use GitHub Actions
-        - [Deploy with GitHub Actions tutorial](https://learn.microsoft.com/en-us/azure/app-service/app-service-sql-asp-github-actions)
-        - [About GitHub Actions deployment](https://learn.microsoft.com/en-us/azure/app-service/deploy-github-actions)
+      - [Use GitHub Actions](https://learn.microsoft.com/en-us/azure/app-service/deploy-github-actions)
       - [Run from package](https://learn.microsoft.com/en-us/azure/app-service/deploy-run-package)
     - [Authentication for deployment](https://learn.microsoft.com/en-us/azure/app-service/deploy-authentication-types)
     - [Set deployment credentials](https://learn.microsoft.com/en-us/azure/app-service/deploy-configure-credentials)
@@ -195,7 +193,6 @@
     - End-to-end tutorials
       - [Configure a sidecar container](https://learn.microsoft.com/en-us/azure/app-service/tutorial-custom-container-sidecar)
       - [Deploy app with Azure Container Registry](https://learn.microsoft.com/en-us/azure/app-service/tutorial-custom-container)
-      - [Deploy with GitHub Actions](https://learn.microsoft.com/en-us/azure/app-service/app-service-sql-github-actions)
       - [Deploy with Azure Pipelines](https://learn.microsoft.com/en-us/azure/app-service/deploy-container-azure-pipelines)
   - Integrate AI with App Service
     - [Deploy an application that uses OpenAI on App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps)
