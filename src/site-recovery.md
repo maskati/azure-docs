@@ -32,7 +32,6 @@
       - [Set up replication for Hyper-V VMs in VMM clouds](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-vmm-azure-tutorial)
       - [Run a disaster recovery drill](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-dr-drill-azure)
       - [Fail over to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-failover-failback-tutorial)
-      - [Enable on-premises replication with private endpoints](https://learn.microsoft.com/en-us/azure/site-recovery/hybrid-how-to-enable-replication-private-endpoints)
     - [Set up replication for Hyper-V VMs](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-tutorial)
     - Azure VMware Solution disaster recovery to Azure
       - [Prepare Azure](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-prepare-azure)
@@ -45,6 +44,7 @@
     - Move to modernized VMware VM disaster recovery
       - [Classic to modernized VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/move-from-classic-to-modernized-vmware-disaster-recovery)
       - [Move from classic to modernized VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/how-to-move-from-classic-to-modernized-vmware-disaster-recovery)
+      - [Deploy Azure Site Recovery replication appliance modernized](https://learn.microsoft.com/en-us/azure/site-recovery/deploy-vmware-azure-replication-appliance-modernized)
     - Set up disaster recovery for Azure Public Multi-Access Edge Compute MEC VMs
       - [Disaster recovery using the Recovery Services vault](https://learn.microsoft.com/en-us/azure/site-recovery/disaster-recovery-for-edge-zone-vm-tutorial)
       - [Disaster recovery when creating a VM](https://learn.microsoft.com/en-us/azure/site-recovery/disaster-recovery-for-edge-zone-via-vm-flow-tutorial)
@@ -88,12 +88,10 @@
       - [About moving Azure VMs to another region](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-move-overview)
     - About VMware VM disaster recovery
       - [Deprecation of classic experience](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-classic-deprecation)
-      - [Deploy Azure Site Recovery replication appliance modernized](https://learn.microsoft.com/en-us/azure/site-recovery/deploy-vmware-azure-replication-appliance-modernized)
       - [Failover and failback - Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/failover-failback-overview-modernized)
       - [VMware to Azure architecture - Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-architecture-modernized)
     - About Hyper-V VM disaster recovery
       - [Hyper-V to Azure architecture](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-architecture)
-      - [About excluding disks from replication](https://learn.microsoft.com/en-us/azure/site-recovery/exclude-disks-replication)
     - About Backup center
       - [Backup center overview](https://learn.microsoft.com/en-us/azure/backup/backup-center-overview?toc=/azure/site-recovery/toc.json&bc=/azure/site-recovery/breadcrumb/toc.json)
     - About physical server disaster recovery
@@ -117,6 +115,7 @@
     - [Multitenant support for VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-multi-tenant-overview)
     - [About role-based access control with Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-role-based-linked-access-control)
   - How-to Guides
+    - [Exclude disks from replication](https://learn.microsoft.com/en-us/azure/site-recovery/exclude-disks-replication)
     - Azure to Azure disaster recovery
       - Set up networking
         - [Prepare networking for Azure VM disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-about-networking)
@@ -211,6 +210,7 @@
           - [Deploy the Mobility service with Configuration Manager](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-mobility-install-configuration-mgr)
       - [Set up disaster recovery at scale](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-large-deployment)
       - [Run failover and failback](https://learn.microsoft.com/en-us/azure/site-recovery/physical-to-azure-failover-failback)
+      - [Enable on-premises replication with private endpoints](https://learn.microsoft.com/en-us/azure/site-recovery/hybrid-how-to-enable-replication-private-endpoints)
       - Manage
         - [Manage the Mobility service](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-manage-mobility-service)
         - [Manage the configuration server](https://learn.microsoft.com/en-us/azure/site-recovery/physical-manage-configuration-server)

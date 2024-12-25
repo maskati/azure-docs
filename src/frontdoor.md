@@ -120,7 +120,6 @@
       - [CDN and Front Door price comparison](https://learn.microsoft.com/en-us/azure/frontdoor/compare-cdn-front-door-price)
       - [Migrate CDN provider](https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/TOC.json)
       - [Microsoft CDN classic retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq)
-      - [Akamai retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/akamai-retirement-faq?toc=/azure/frontdoor/TOC.json)
       - [Edgio retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/content-delivery-network-security-baseline?toc=/azure/frontdoor/TOC.json)
       - [DDoS protection](https://learn.microsoft.com/en-us/azure/cdn/cdn-ddos?toc=/azure/frontdoor/TOC.json)

@@ -12,7 +12,6 @@
       - [Assessment](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-assessment)
       - [Business case](https://learn.microsoft.com/en-us/azure/migrate/common-questions-business-case)
       - [Migration and modernization tool](https://learn.microsoft.com/en-us/azure/migrate/common-questions-server-migration)
-    - [VMware Migration Scenario](https://learn.microsoft.com/en-us/azure/migrate/vmware/)
   - Quickstarts
     - [Create a project - ARM template](https://learn.microsoft.com/en-us/azure/migrate/quickstart-create-migrate-project)
   - Tutorials
