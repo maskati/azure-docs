@@ -242,6 +242,8 @@
           - [Troubleshooting a missed classification](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-how-to-troubleshoot-missed-classification?context=/azure/synapse-analytics/context/context)
       - Ingest and prepare data
         - Into the data warehouse
+          - [Load external data using Entra ID](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-load-data-using-entra-id)
+          - [Load external data using a Managed Identity](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-external-tables-using-managed-identity)
           - [Azure Data Lake Storage](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-load-from-azure-data-lake-store?context=/azure/synapse-analytics/context/context)
           - [Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse?toc=%2fazure%2fsynapse-analytics%2ftoc.json&tabs=synapse-analytics)
           - [Azure Databricks](https://learn.microsoft.com/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse?toc=%2fazure%2fsynapse-analytics%2ftoc.json)
