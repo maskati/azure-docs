@@ -107,6 +107,7 @@
     - [Named environments](https://learn.microsoft.com/en-us/azure/static-web-apps/named-environments)
   - Monitoring
     - [Overview](https://learn.microsoft.com/en-us/azure/static-web-apps/monitor)
+    - [Supported metrics](https://learn.microsoft.com/en-us/azure/static-web-apps/metrics)
   - Resources
     - [Supported languages and runtimes](https://learn.microsoft.com/en-us/azure/static-web-apps/languages-runtimes)
     - Guided tutorials

@@ -94,7 +94,7 @@
       - [How to replace network devices in Azure Operator Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-replace-network-devices)
       - [How to put a device into maintenance mode](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-put-device-in-maintenance-mode)
       - [How to set up break glass access](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-set-up-break-glass-access)
-      - [How to use-break-glass-access.md](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-break-glass-access)
+      - [How to use-break-glass-access](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-break-glass-access)
       - [How to enable-Micro-BFD on CE and PE devices.md](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-micro-bfd)
     - Cluster
       - BareMetal Actions
@@ -153,6 +153,7 @@
       - [Troubleshoot Accepted Cluster Resource](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-accepted-cluster-hydration)
       - [Troubleshoot Out of Memory Pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-memory-limits)
       - [Troubleshoot LACP Bonding](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-lacp-bonding)
+      - [Troubleshoot NAKS Cluster Node Packet Loss](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-packet-loss)
     - Tenant Workload
       - Troubleshoot PersistentVolumeClaims
         - [Gather trace IDs for PersistentVolumeClaim failures](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-gather-pvc-trace-id)

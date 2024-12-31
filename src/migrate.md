@@ -139,7 +139,6 @@
         - [Assess large numbers of physical servers](https://learn.microsoft.com/en-us/azure/migrate/scale-physical-assessment)
     - Migrate
       - [Add migration tools](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate)
-      - [Replicate using ExpressRoute](https://learn.microsoft.com/en-us/azure/migrate/replicate-using-expressroute)
       - [Prepare machines for migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-migration)
       - [Prepare Windows 2003 servers for migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-windows-server-2003-migration)
       - Migrate VMware VMs
