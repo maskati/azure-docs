@@ -26,7 +26,9 @@
     - [Manage environments in the developer portal](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-manage-environments)
     - [Create environments with Azure CLI](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-create-access-environments)
   - Configure the ADE extensibility model
-    - [Configure container image to execute deployments](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-extensibility-model-custom-image)
+    - [Configure ARM or Bicep container image](https://learn.microsoft.com/azure/deployment-environments/how-to-configure-extensibility-model-custom-image?tabs=sample%2Cprivate-registry&pivots=arm-bicep)
+    - [Configure Terraform container image](https://learn.microsoft.com/azure/deployment-environments/how-to-configure-extensibility-model-custom-image?tabs=custom%2Cprivate-registry&pivots=terraform)
+    - [Configure Pulumi container image](https://learn.microsoft.com/azure/deployment-environments/how-to-configure-extensibility-model-custom-image?tabs=sample%2Cprivate-registry&pivots=pulumi)
     - [Troubleshoot custom image errors and warnings](https://learn.microsoft.com/en-us/azure/deployment-environments/troubleshoot-custom-image-logs-errors)
   - Use Azure Developer CLI with ADE
     - [Use Azure Developer CLI azd with ADE](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-azure-developer-cli-with-deployment-environments)
