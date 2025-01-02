@@ -730,9 +730,6 @@
         - [Access ADLSg2 from Azure ML](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/access-data-from-aml)
       - Train a model
         - [With Apache Spark MLlib](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-mllib-notebook)
-        - With automated machine learning deprecated
-          - [Code-free deprecated](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-automl)
-          - [In Python deprecated](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-machine-learning-tutorial)
         - With Horovod and Petastorm deprecated
           - [Train a model with Horovod and PyTorch deprecated](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-horovod-pytorch)
           - [Train a model with Horovod and TensorFlow](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-horovod-tensorflow)
