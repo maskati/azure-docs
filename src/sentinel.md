@@ -58,6 +58,7 @@
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions)
     - [Deploy out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy)
     - [Delete out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-delete)
+    - [Manage solution deprecation lifecycle](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution-deprecation)
     - [Partner integrations best practices](https://learn.microsoft.com/en-us/azure/sentinel/partner-integrations)
     - Solution catalog
       - [All solutions](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-catalog)

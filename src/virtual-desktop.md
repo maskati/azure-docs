@@ -51,9 +51,10 @@
         - [Configure single sign-on using Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-single-sign-on)
         - Active Directory Federation Services
           - [Configure single sign-on using AD FS](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-adfs-sso)
-          - [Use a KDC proxy](https://learn.microsoft.com/en-us/azure/virtual-desktop/key-distribution-center-proxy)
       - [Enforce Microsoft Entra multifactor authentication](https://learn.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa)
+      - [Configure session lock behavior](https://learn.microsoft.com/en-us/azure/virtual-desktop/configure-session-lock-behavior)
       - [Delegated access](https://learn.microsoft.com/en-us/azure/virtual-desktop/delegated-access-virtual-desktop)
+      - [Use a KDC proxy](https://learn.microsoft.com/en-us/azure/virtual-desktop/key-distribution-center-proxy)
     - Network connectivity
       - FQDNs and endpoints
         - [Required FQDNs and endpoints](https://learn.microsoft.com/en-us/azure/virtual-desktop/required-fqdn-endpoint)
@@ -130,7 +131,7 @@
       - [Customize resource display names](https://learn.microsoft.com/en-us/azure/virtual-desktop/customize-feed-for-virtual-desktop-users)
       - [Delete a host pool](https://learn.microsoft.com/en-us/azure/virtual-desktop/delete-host-pool)
     - Session hosts
-      - Manage session hosts
+      - Management
         - [Management overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/management)
         - Manage with Intune
           - [Manage Windows single-session](https://learn.microsoft.com/mem/intune/fundamentals/azure-virtual-desktop?context=/azure/virtual-desktop/context/context)
