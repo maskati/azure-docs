@@ -115,6 +115,7 @@
     - [Configure storage policies](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-storage-policy)
     - [Configure vSAN](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vsan)
     - [Configure customer-managed key encryption at rest](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-customer-managed-keys)
+    - [Extend Azure VMware Solution with external storage](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-external-storage-solutions)
     - [Configure Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-elastic-san)
     - Manage and protect VMs on Azure NetApp Files
       - [Attach Azure NetApp Files datastores to Azure VMware Solution hosts](https://learn.microsoft.com/en-us/azure/azure-vmware/attach-azure-netapp-files-to-azure-vmware-solution-hosts)
@@ -124,9 +125,7 @@
       - [Configure Cloud Backup for Virtual Machines](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-cloud-backup-virtual-machine)
       - [Restore VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/restore-azure-netapp-files-vms)
       - [Restore guest files and folders](https://learn.microsoft.com/en-us/azure/azure-vmware/restore-guest-files-folders)
-    - External storage solutions
-      - [Storage solution overview](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-external-storage-solutions)
-      - [Pure Cloud Block Store](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-pure-cloud-block-store)
+    - [Pure Cloud Block Store](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-pure-cloud-block-store)
   - Backup and recovery
     - [Backup solutions for VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-back-up-vms)
     - Backup with Azure Backup Server
