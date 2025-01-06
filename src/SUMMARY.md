@@ -102,7 +102,6 @@
 [Operator Nexus](./operator-nexus.md)
 [Azure Operator Service Manager documentation](./operator-service-manager.md)
 [Oracle on Azure Documentation](./oracle.md)
-[Azure Orbital Ground Station Documentation](./orbital.md)
 [Azure Native ISV Services](./partner-solutions.md)
 [Azure Peering Service documentation](./peering-service.md)
 [Microsoft Playwright Testing Preview documentation](./playwright-testing.md)
