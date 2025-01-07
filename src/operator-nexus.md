@@ -154,6 +154,7 @@
       - [Troubleshoot Out of Memory Pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-memory-limits)
       - [Troubleshoot LACP Bonding](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-lacp-bonding)
       - [Troubleshoot NAKS Cluster Node Packet Loss](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-packet-loss)
+      - [Troubleshoot TWAMP UDP not working](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-twamp-udp-not-working)
     - Tenant Workload
       - Troubleshoot PersistentVolumeClaims
         - [Gather trace IDs for PersistentVolumeClaim failures](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-gather-pvc-trace-id)
