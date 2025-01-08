@@ -33,7 +33,6 @@
         - [Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability)
         - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer)
         - [Log Analytics Dedicated Cluster workspaces](https://learn.microsoft.com/en-us/azure/reliability/migrate-monitor-log-analytics)
-        - [Azure Logic Apps](https://learn.microsoft.com/azure/logic-apps/set-up-zone-redundancy-availability-zones?tabs=standard&toc=/azure/reliability)
         - [Azure Recovery Services vault](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
         - [Azure Service Fabric](https://learn.microsoft.com/en-us/azure/reliability/migrate-service-fabric)
         - [Azure Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-outages-disasters)
@@ -134,9 +133,7 @@
       - Azure Health Data Services
         - [Workspace services FHIR, DICOM, MedTech](https://learn.microsoft.com/azure/healthcare-apis/business-continuity-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [De-identification service](https://learn.microsoft.com/en-us/azure/reliability/reliability-health-data-services-deidentification)
-      - Azure Logic Apps
-        - [Availability zones](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-zone-redundancy-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/logic-apps/business-continuity-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Logic Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-logic-apps)
     - Internet of Things
       - [Azure Device Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-device-registry)
       - [Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-ha-dr?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

@@ -35,7 +35,9 @@
     - [Business rules engine integration](https://learn.microsoft.com/en-us/azure/logic-apps/rules-engine/rules-engine-overview)
     - [B2B integration & EDI processing](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview)
     - [Mainframe modernization](https://learn.microsoft.com/en-us/azure/logic-apps/mainframe-modernization-overview)
-    - [Business continuity and disaster recovery](https://learn.microsoft.com/en-us/azure/logic-apps/business-continuity-disaster-recovery-guidance)
+    - Reliability
+      - [Reliability in Azure Logic Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-logic-apps?toc=/azure/logic-apps/toc.json)
+      - [Multi-region deployments for disaster recovery](https://learn.microsoft.com/en-us/azure/logic-apps/multi-region-disaster-recovery)
     - Security
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/logic-apps/security-controls-policy)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/logic-apps-security-baseline?toc=/azure/logic-apps/toc.json)
@@ -239,10 +241,10 @@
       - [Monitor B2B messages with Azure Monitor logs](https://learn.microsoft.com/en-us/azure/logic-apps/monitor-b2b-messages-log-analytics)
       - [Tracking schemas for monitoring messages](https://learn.microsoft.com/en-us/azure/logic-apps/tracking-schemas-as2-x12-custom)
       - [Create monitoring and tracking queries](https://learn.microsoft.com/en-us/azure/logic-apps/create-monitoring-tracking-queries)
-    - Business continuity and disaster recovery
-      - [Set up zone redundant logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-zone-redundancy-availability-zones)
-      - [Replicate Azure resources for business continuity and disaster recovery](https://learn.microsoft.com/en-us/azure/logic-apps/create-replication-tasks-azure-resources)
-      - [Build a B2B business continuity and disaster recovery plan](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-b2b-business-continuity)
+    - Reliability
+      - [Enable zone redundancy](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-zone-redundancy-availability-zones)
+      - [Create replication tasks for Azure resources](https://learn.microsoft.com/en-us/azure/logic-apps/create-replication-tasks-azure-resources)
+      - [Set up cross-region disaster recovery for integration accounts](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-b2b-business-continuity)
     - [Examples, scenarios, and walkthroughs](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-examples-and-scenarios)
       - [Data operations - code examples](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-data-operations-code-samples)
       - [Monitor social media](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-scenario-social-serverless)
