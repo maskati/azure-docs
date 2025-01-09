@@ -62,7 +62,6 @@
       - [Performance testing](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-best-practices-performance)
     - Authentication and authorization
       - [Microsoft Entra ID for authentication](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-entra-for-authentication)
-      - [Role-based access control](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-configure-role-based-access-control)
     - Security and networking
       - [Using TLS with a managed cache](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-tls-configuration)
       - [Connect to cache using Private Link](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-private-link)

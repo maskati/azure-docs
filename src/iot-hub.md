@@ -166,7 +166,6 @@
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/iot-hub/policy-reference)
     - [X.509 certificates](https://learn.microsoft.com/en-us/azure/iot-hub/reference-x509-certificates)
     - Feature and API retirement
-      - [TLS 1.0 and 1.1 deprecation](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-tls-deprecating-1-0-and-1-1)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/iot-hub/monitor-iot-hub-reference)
   - Resources
     - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)

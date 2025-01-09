@@ -109,10 +109,10 @@
         - [Azure CLI](https://learn.microsoft.com/azure/virtual-machines/linux/multiple-nics?toc=/azure/virtual-network/toc.json)
       - Accelerated Networking AccelNet
         - [Accelerated Networking overview](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-overview)
-        - [Creating an AccelNet VM with PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network/create-vm-accelerated-networking-powershell)
-        - [Creating an AccelNet VM with Azure CLI](https://learn.microsoft.com/en-us/azure/virtual-network/create-vm-accelerated-networking-cli)
-          - [How Accelerated Networking works](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-how-it-works)
-          - [Setup DPDK](https://learn.microsoft.com/en-us/azure/virtual-network/setup-dpdk)
+        - [Create a virtual machine with accelerated networking](https://learn.microsoft.com/en-us/azure/virtual-network/create-virtual-machine-accelerated-networking)
+        - [Manage accelerated networking](https://learn.microsoft.com/en-us/azure/virtual-network/manage-accelerated-networking)
+        - [How Accelerated Networking works](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-how-it-works)
+        - [Setup DPDK](https://learn.microsoft.com/en-us/azure/virtual-network/setup-dpdk)
         - Microsoft Azure Network Adapter MANA
           - [Microsoft Azure Network Adapter MANA overview](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-overview)
           - [Linux VMs with MANA](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-linux)

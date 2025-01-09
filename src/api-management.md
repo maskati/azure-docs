@@ -81,10 +81,9 @@
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/api-management-security-baseline?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
   - Logs and monitoring
     - [Observability](https://learn.microsoft.com/en-us/azure/api-management/observability)
-    - [Get API analytics](https://learn.microsoft.com/en-us/azure/api-management/howto-use-analytics)
+    - [Monitor API Management](https://learn.microsoft.com/en-us/azure/api-management/monitor-api-management)
     - [Log events to Azure Event Hubs](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-log-event-hubs)
     - [Log requests with Azure Application Insights](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-app-insights)
-    - [Visualize data using Managed Grafana](https://learn.microsoft.com/en-us/azure/api-management/visualize-using-managed-grafana-dashboard)
   - Define APIs
     - Add and import APIs
       - [Add an API manually](https://learn.microsoft.com/en-us/azure/api-management/add-api-manually)
@@ -191,7 +190,6 @@
       - [Enable CORS for interactive console](https://learn.microsoft.com/en-us/azure/api-management/enable-cors-developer-portal)
       - [Enable console OAuth support](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-oauth2)
       - [Integrate Application Insights](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-integrate-application-insights)
-      - [Log developer portal usage](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-enable-usage-logs)
       - [Integrate Google Tag Manager](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-integrate-google-tag-manager)
       - [Customize developer portal on WordPress](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-wordpress-plugin)
     - Self-host the developer portal
@@ -224,6 +222,7 @@
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/apim)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.apimanagement/)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/api-management/monitor-api-management-reference)
     - [REST API](https://learn.microsoft.com/rest/api/apimanagement/)
     - REST API SDKs
       - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/api-management)

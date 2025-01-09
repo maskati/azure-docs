@@ -47,6 +47,7 @@
   - How-to
     - [Approve private link connections across subscriptions](https://learn.microsoft.com/en-us/azure/private-link/how-to-approve-private-link-cross-subscription)
     - [Configure an application security group](https://learn.microsoft.com/en-us/azure/private-link/configure-asg-private-endpoint)
+    - [Monitor Private Link](https://learn.microsoft.com/en-us/azure/private-link/monitor-private-link)
     - [Export private endpoint DNS records](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-export-dns)
     - [Manage network policies for private endpoints](https://learn.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy)
     - [Disable network policies for a Private Link service](https://learn.microsoft.com/en-us/azure/private-link/disable-private-link-service-network-policy)
@@ -64,6 +65,7 @@
     - [Python](https://azure.microsoft.com/develop/python/)
     - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/privateendpoints)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/allversions)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/private-link/monitor-private-link-reference)
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=virtual-network)
     - Network security perimeter
       - [Azure CLI](https://learn.microsoft.com/cli/azure/network/network-security-perimeter)
