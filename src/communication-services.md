@@ -660,6 +660,7 @@
       - [Calling JavaScript](https://learn.microsoft.com/javascript/api/azure-communication-services/@azure/communication-calling/)
       - [Calling Android/Java](https://azure.github.io/azure-sdk-for-android/azure-communication-calling/index.html)
       - [Calling iOS](https://learn.microsoft.com/objectivec/communication-services/calling/)
+      - [Calling .NET](https://learn.microsoft.com/dotnet/api/azure-communication-services/calling/)
     - Call Automation
       - [Call Automation JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-call-automation-readme)
       - [Call Automation .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.callautomation-readme)

@@ -171,6 +171,7 @@
       - [Automatic memory fitting preview](https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit)
       - [Build environment variables preview](https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables)
       - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics)
+      - [Scale with Java metrics](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics-scale-with-keda)
       - [Connect to Eureka Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server)
       - [Connect to Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin)
       - [Connect to Config Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-config-server)
@@ -181,6 +182,7 @@
         - [Query managed component logs](https://learn.microsoft.com/en-us/azure/container-apps/java-component-logs)
         - [Configure Application Performance Management APM Java agent with init-container](https://learn.microsoft.com/en-us/azure/container-apps/java-application-performance-management-config)
         - [Create a highly available Eureka server component cluster](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-highly-available)
+        - [Build a Java metrics dashboard with Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics-with-grafana)
   - Billing & quotas
     - [Billing](https://learn.microsoft.com/en-us/azure/container-apps/billing)
     - [Quotas](https://learn.microsoft.com/en-us/azure/container-apps/quotas)

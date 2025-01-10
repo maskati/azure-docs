@@ -45,7 +45,7 @@
       - [Classic to modernized VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/move-from-classic-to-modernized-vmware-disaster-recovery)
       - [Move from classic to modernized VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/how-to-move-from-classic-to-modernized-vmware-disaster-recovery)
       - [Deploy Azure Site Recovery replication appliance modernized](https://learn.microsoft.com/en-us/azure/site-recovery/deploy-vmware-azure-replication-appliance-modernized)
-    - Set up disaster recovery for Azure Public Multi-Access Edge Compute MEC VMs
+    - Set up disaster recovery for Azure Extended Zones VMs
       - [Disaster recovery using the Recovery Services vault](https://learn.microsoft.com/en-us/azure/site-recovery/disaster-recovery-for-edge-zone-vm-tutorial)
       - [Disaster recovery when creating a VM](https://learn.microsoft.com/en-us/azure/site-recovery/disaster-recovery-for-edge-zone-via-vm-flow-tutorial)
     - Move
@@ -265,7 +265,7 @@
       - [Perform actions](https://learn.microsoft.com/en-us/azure/backup/backup-center-actions?toc=/azure/site-recovery/toc.json&bc=/azure/site-recovery/breadcrumb/toc.json)
   - Automation
     - [Set up disaster recovery of Azure VMs using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-powershell)
-    - [Set up disaster recovery on Public MEC VMs using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-replicate-vms-edge-zone-to-azure-region)
+    - [Set up disaster recovery on Azure Extended Zones VMs using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-replicate-vms-edge-zone-to-azure-region)
     - [Set up disaster recovery of VMware VMs to Azure using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-disaster-recovery-powershell)
     - [Set up disaster recovery of Hyper-V VMs to Azure using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-powershell-resource-manager)
     - [Add automation runbooks to recovery plans](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-runbook-automation)
