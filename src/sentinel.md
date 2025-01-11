@@ -454,7 +454,7 @@
     - Kusto Query Language
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/kusto-overview)
       - [Query best practices](https://learn.microsoft.com/kusto/query/best-practices?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [SQL to KQL cheat sheet](https://learn.microsoft.com/kusto/query/sqlcheatsheet?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [SQL to KQL cheat sheet](https://learn.microsoft.com/kusto/query/sql-cheat-sheet?view=microsoft-fabric)
       - [Splunk to KQL cheat sheet](https://learn.microsoft.com/kusto/query/splunk-cheat-sheet?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [KQL quick reference](https://learn.microsoft.com/kusto/query/kql-quick-reference?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Other KQL resources](https://learn.microsoft.com/en-us/azure/sentinel/kusto-resources)

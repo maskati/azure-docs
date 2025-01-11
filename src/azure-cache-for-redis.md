@@ -60,6 +60,7 @@
       - [Scaling best practices](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-best-practices-scale)
       - [Server load management best practice](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-best-practices-server-load)
       - [Performance testing](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-best-practices-performance)
+      - [Kubernetes-hosted client applications best practices](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-best-practices-kubernetes)
     - Authentication and authorization
       - [Microsoft Entra ID for authentication](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/managed-redis/managed-redis-entra-for-authentication)
     - Security and networking

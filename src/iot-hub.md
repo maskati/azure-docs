@@ -109,6 +109,7 @@
       - Automatic device management at scale
         - [Use Azure portal](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-automatic-device-management)
         - [Use Azure CLI](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-automatic-device-management-cli)
+      - [Schedule bulk operations with jobs](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-cli)
       - [Regenerate keys](https://learn.microsoft.com/en-us/azure/iot-hub/regenerate-keys)
     - Develop
       - [Send cloud-to-device messages](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-cloud-to-device-messaging)
@@ -117,7 +118,6 @@
       - [Get started with module twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-module-twins)
       - [Get started with device management](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-device-management)
       - Schedule and broadcast jobs
-        - [CLI](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-cli)
         - [.NET](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-dotnet)
         - [Python](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-python)
         - [Node.js](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-node)

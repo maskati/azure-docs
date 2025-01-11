@@ -198,11 +198,11 @@
     - [Deploy an application that uses OpenAI on App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps)
   - WordPress
     - [WordPress overview](https://learn.microsoft.com/en-us/azure/app-service/overview-wordpress)
-    - [WordPress architecture](https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-app-service)
+    - [WordPress architecture](https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-app-service?toc=%2Fazure%2Fapp-service%2Ftoc.json&bc=%2Fazure%2Fapp-service%2Fbreadcrumb%2Ftoc.json)
     - [Deploy WordPress](https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress)
     - [Migrate WordPress to App Service](https://learn.microsoft.com/en-us/azure/app-service/migrate-wordpress)
     - [Configure WordPress](https://learn.microsoft.com/en-us/azure/app-service/reference-app-settings)
-    - [Customize API Management developer portal](https://learn.microsoft.com/azure/api-management/developer-portal-wordpress-plugin)
+    - [Customize API Management developer portal](https://learn.microsoft.com/azure/api-management/developer-portal-wordpress-plugin?toc=%2Fazure%2Fapp-service%2Ftoc.json&bc=%2Fazure%2Fapp-service%2Fbreadcrumb%2Ftoc.json)
     - [WordPress FAQ](https://learn.microsoft.com/en-us/azure/app-service/wordpress-faq)
   - WebJobs
     - [Create WebJobs](https://learn.microsoft.com/en-us/azure/app-service/webjobs-create)

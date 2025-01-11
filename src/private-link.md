@@ -68,9 +68,9 @@
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/private-link/monitor-private-link-reference)
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=virtual-network)
     - Network security perimeter
-      - [Azure CLI](https://learn.microsoft.com/cli/azure/network/network-security-perimeter)
+      - [Azure CLI](https://learn.microsoft.com/azure/private-link/create-network-security-perimeter-cli)
       - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
-      - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/private-link)
+      - [.NET](https://learn.microsoft.com/azure/application-gateway/private-link)
       - [Java](https://learn.microsoft.com/java/api/)
       - [Node.js](https://learn.microsoft.com/javascript/azure)
       - [Python](https://azure.microsoft.com/develop/python/)

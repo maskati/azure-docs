@@ -6,7 +6,6 @@
 [Azure API Center documentation](./api-center.md)
 [API Management documentation](./api-management.md)
 [App Service documentation](./app-service.md)
-[App Spaces documentation](./app-spaces.md)
 [Azure Application Gateway documentation](./application-gateway.md)
 [Azure Automanage](./automanage.md)
 [Azure Automation documentation](./automation.md)

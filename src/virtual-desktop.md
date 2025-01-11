@@ -22,8 +22,8 @@
         - [Android/Chrome OS](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-android-chrome-os)
       - [WebRTC Redirector Service](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-webrtc)
       - [Windows App](https://learn.microsoft.com/windows-app/whats-new?context=/azure/virtual-desktop/context/context)
-  - Tutorials
-    - [Deploy a sample Windows 11 desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/tutorial-try-deploy-windows-11-desktop)
+  - Quickstart
+    - [Deploy a sample Windows 11 desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/quickstart)
   - Plan
     - [Internal and external commercial purposes](https://learn.microsoft.com/en-us/azure/virtual-desktop/organization-internal-external-commercial-purposes-recommendations)
     - Licensing and costs
@@ -42,7 +42,6 @@
   - Deploy
     - [Host pool management approaches](https://learn.microsoft.com/en-us/azure/virtual-desktop/host-pool-management-approaches)
     - [Deploy Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/deploy-azure-virtual-desktop)
-    - [Quickstart](https://learn.microsoft.com/en-us/azure/virtual-desktop/quickstart)
     - Identity and access management
       - Azure RBAC
         - [Available RBAC roles for Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/rbac)
@@ -225,14 +224,13 @@
     - [Troubleshooting overview, feedback, and support](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-overview)
     - Host pools and session hosts
       - [Host pool creation](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-issues)
-      - [Quickstart](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-quickstart)
       - [Session host update](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-session-host-update)
       - [Session host virtual machine configuration](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-vm-configuration)
       - [Session host statuses and health checks](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-statuses-checks)
     - [Management issues](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-management-issues)
     - [Azure Virtual Desktop PowerShell](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-powershell)
     - [Azure Virtual Desktop Agent](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-agent)
-    - [Remote Desktop service connections](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-service-connection)
+    - [Service connections](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-service-connection)
     - Remote Desktop app
       - [Windows Desktop client basic troubleshooting](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-windows-basic-shared)
       - [Windows Desktop client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-windows)

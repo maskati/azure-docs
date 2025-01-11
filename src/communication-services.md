@@ -177,6 +177,7 @@
         - [Show active speakers](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/dominant-speaker)
         - [Transfer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/transfer-calls)
         - [Subscribe to SDK events](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/events)
+        - [Enable Real Time Text](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-with-real-time-text)
         - [Enable Closed captions](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-with-closed-captions)
         - [Enable Closed captions for Teams Interoperability](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/closed-captions-teams-interop-how-to)
         - [Get local capabilities](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/capabilities)
