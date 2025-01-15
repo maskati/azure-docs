@@ -23,9 +23,13 @@
       - [Monitor and notify with Logic Apps](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps)
   - Concepts
     - [IoT Hub concepts overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide)
+    - [Device-to-cloud feature guide](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-d2c-guidance)
+    - [Cloud-to-device feature guide](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-c2d-guidance)
+    - Manage
+      - [Choose the right IoT Hub tier](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-scaling)
+      - [Quotas and throttling](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-quotas-throttling)
+      - [Pricing examples](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-pricing)
     - Develop
-      - [Device-to-cloud feature guide](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-d2c-guidance)
-      - [Cloud-to-device feature guide](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-c2d-guidance)
       - [Understand device twins](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-device-twins)
       - [Understand module twins](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-module-twins)
       - [Invoke direct methods on a device](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-direct-methods)
@@ -39,10 +43,6 @@
       - [React to IoT Hub events with Event Grid](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-event-grid)
       - [Upload files from a device](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-file-upload)
       - [Overview of IoT Hub device streams preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-streams-overview)
-    - Manage
-      - [Choose the right IoT Hub tier](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-scaling)
-      - [Quotas and throttling](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-quotas-throttling)
-      - [Pricing examples](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-pricing)
     - Messaging
       - [Send and receive messages](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messaging)
       - [Create and read IoT Hub messages](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-construct)

@@ -102,7 +102,8 @@
             - [PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-powershell)
           - [Generate self-signed certificates](https://learn.microsoft.com/en-us/azure/virtual-wan/certificates-point-to-site)
         - Microsoft Entra ID authentication
-          - [Configure a P2S VPN](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad)
+          - [Configure P2S - Microsoft-registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway)
+          - [Configure P2S - manually registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad)
           - [Configure a tenant](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant)
           - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-mfa)
       - P2S client configuration

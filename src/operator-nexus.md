@@ -6,7 +6,9 @@
   - Concepts
     - [Resource Types](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-resource-types)
     - [Compute overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-compute)
-    - [Storage overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage)
+    - Storage
+      - [Storage overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage)
+      - [Storage for Nexus Kubernetes](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage-kubernetes)
     - Cluster deployment and upgrades
       - [Cluster deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-deployment-overview)
       - [Cluster Runtime upgrade](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-upgrade-overview)

@@ -1,5 +1,5 @@
 # Azure Communications Gateway documentation
-> Learn about Azure Communications Gateway for telecommunications operators. Azure Communications Gateway allows you to provide your customers with Operator Connect, Teams Phone Mobile, Microsoft Teams Direct Routing and Zoom Phone Cloud Peering service. Providing Operator Connect, Teams Phone Mobile or Zoom Phone Cloud Peering service also requires separate acceptance into the relevant program.
+> The Azure Communications Gateway service will retire on October 30, 2025, and no new customers are being onboarded. To prevent any service disruption, please transition to another Microsoft Teams Direct Routing certified Session Border Controller (SBC) before October 30, 2025.
   - [Azure Communications Gateway documentation](https://learn.microsoft.com/en-us/azure/communications-gateway/)
   - Overview
     - [What is Azure Communications Gateway?](https://learn.microsoft.com/en-us/azure/communications-gateway/overview)
