@@ -104,6 +104,7 @@
         - Microsoft Entra ID authentication
           - [Configure P2S - Microsoft-registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway)
           - [Configure P2S - manually registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad)
+          - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-register-custom-app)
           - [Configure a tenant](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant)
           - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-mfa)
       - P2S client configuration

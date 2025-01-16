@@ -95,7 +95,6 @@
 [Azure Notification Hubs documentation](./notification-hubs.md)
 [Azure Red Hat OpenShift documentation](./openshift.md)
 [Azure operational excellence documentation (Preview)](./operational-excellence.md)
-[Azure Operator 5G Core Preview documentation](./operator-5g-core.md)
 [Azure Operator Call Protection Preview documentation](./operator-call-protection.md)
 [operator-insights](./operator-insights.md)
 [Operator Nexus](./operator-nexus.md)

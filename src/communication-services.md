@@ -190,7 +190,6 @@
         - [Add video background effects](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-video-effects)
         - [Add Augmented Reality filters to your video calls](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/add-video-augmented-reality-tutorial)
       - Diagnostics
-        - [Diagnose your network](https://learn.microsoft.com/en-us/azure/communication-services/concepts/developer-tools/network-diagnostic)
         - [Diagnose client issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/user-facing-diagnostics)
         - [Diagnose media quality issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/media-quality-sdk)
         - [Ensure pre-call readiness](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/pre-call-diagnostics)

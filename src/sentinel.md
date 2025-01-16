@@ -453,10 +453,10 @@
       - [Explore results containing Microsoft Sentinel data](https://learn.microsoft.com/defender-xdr/advanced-hunting-defender-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - Kusto Query Language
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/kusto-overview)
-      - [Query best practices](https://learn.microsoft.com/kusto/query/best-practices?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [SQL to KQL cheat sheet](https://learn.microsoft.com/kusto/query/sql-cheat-sheet?view=microsoft-fabric)
-      - [Splunk to KQL cheat sheet](https://learn.microsoft.com/kusto/query/splunk-cheat-sheet?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [KQL quick reference](https://learn.microsoft.com/kusto/query/kql-quick-reference?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Query best practices](https://learn.microsoft.com/kusto/query/best-practices?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [SQL to KQL cheat sheet](https://learn.microsoft.com/kusto/query/sql-cheat-sheet?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Splunk to KQL cheat sheet](https://learn.microsoft.com/kusto/query/splunk-cheat-sheet?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [KQL quick reference](https://learn.microsoft.com/kusto/query/kql-quick-reference?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Other KQL resources](https://learn.microsoft.com/en-us/azure/sentinel/kusto-resources)
     - [Create custom query](https://learn.microsoft.com/en-us/azure/sentinel/hunts-custom-queries)
     - [Bookmarks](https://learn.microsoft.com/en-us/azure/sentinel/bookmarks)
@@ -470,7 +470,8 @@
   - Investigate incidents
     - Azure portal
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-investigation)
-      - [Investigate incidents](https://learn.microsoft.com/en-us/azure/sentinel/investigate-incidents)
+      - [Triage and manage your incidents](https://learn.microsoft.com/en-us/azure/sentinel/incident-navigate-triage)
+      - [Investigate incidents in depth](https://learn.microsoft.com/en-us/azure/sentinel/investigate-incidents)
       - [Tutorial - Investigate with UEBA](https://learn.microsoft.com/en-us/azure/sentinel/investigate-with-ueba)
       - [Relate alerts to incidents](https://learn.microsoft.com/en-us/azure/sentinel/relate-alerts-to-incidents)
       - [Create incidents manually](https://learn.microsoft.com/en-us/azure/sentinel/create-incident-manually)

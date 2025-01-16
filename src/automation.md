@@ -8,6 +8,7 @@
     - [Archive for What's new](https://learn.microsoft.com/en-us/azure/automation/whats-new-archive)
   - Quickstarts
     - [Create Automation account - Azure portal](https://learn.microsoft.com/en-us/azure/automation/quickstarts/create-azure-automation-account-portal)
+    - [Create Automation account - Terraform](https://learn.microsoft.com/en-us/azure/automation/quickstarts/create-azure-automation-account-terraform)
     - [Update runbook from PowerShell 5.1 to PowerShell 7.2](https://learn.microsoft.com/en-us/azure/automation/quickstart-update-runbook-in-runtime-environment)
     - [Run Azure CLI commands in PowerShell 7.2 runbooks](https://learn.microsoft.com/en-us/azure/automation/quickstart-cli-support-powershell-runbook-runtime-environment)
     - [Install Hybrid Worker extension - Azure portal](https://learn.microsoft.com/en-us/azure/automation/quickstarts/install-hybrid-worker-extension)
@@ -85,6 +86,7 @@
       - [Use existing runbooks and modules](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-gallery)
       - [Learn PowerShell Workflow](https://learn.microsoft.com/en-us/azure/automation/automation-powershell-workflow)
       - [Runtime environment scenarios](https://learn.microsoft.com/en-us/azure/automation/manage-runtime-environment)
+      - [Manage automation limits and quotas](https://learn.microsoft.com/en-us/azure/automation/automation-limits-quotas)
       - [Manage runbooks](https://learn.microsoft.com/en-us/azure/automation/manage-runbooks)
       - Author and run runbooks
         - [Edit textual runbooks](https://learn.microsoft.com/en-us/azure/automation/automation-edit-textual-runbook)
