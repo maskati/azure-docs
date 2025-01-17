@@ -1,5 +1,5 @@
 # Azure Managed Grafana documentation
-> Learn how to use Azure Managed Grafana. Access quickstarts, how-to guides and tutorials to learn how to create, configure and manage Azure Managed Grafana instances.
+> This Azure Managed Grafa documentation page links to resources to learn how to use Azure Managed Grafana. On this page, access quickstarts, how-to guides and tutorials to create, configure and manage Azure Managed Grafana workspaces, Grafana in Azure.
   - [Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/)
   - Overview
     - [About Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/overview)

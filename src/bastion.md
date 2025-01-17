@@ -58,14 +58,14 @@
       - [Full screen view](https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-full-screen)
       - [Transfer files - native client](https://learn.microsoft.com/en-us/azure/bastion/vm-upload-download-native)
     - Monitoring
-      - [Monitoring Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/howto-metrics-monitor-alert)
-      - [Configure and access diagnostic logs](https://learn.microsoft.com/en-us/azure/bastion/diagnostic-logs)
+      - [Monitor Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/monitor-bastion)
       - [Monitor and manage sessions](https://learn.microsoft.com/en-us/azure/bastion/session-monitoring)
     - [Troubleshoot](https://learn.microsoft.com/en-us/azure/bastion/troubleshoot)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/)
     - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/bastion-hosts)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/bastion)
+    - [Bastion monitoring data reference](https://learn.microsoft.com/en-us/azure/bastion/monitor-bastion-reference)
   - Resources
     - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
     - [Blog](https://azure.microsoft.com/blog/topics/networking/)

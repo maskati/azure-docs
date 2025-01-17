@@ -59,7 +59,6 @@
     - [Deploy out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy)
     - [Delete out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-delete)
     - [Manage solution deprecation lifecycle](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution-deprecation)
-    - [Partner integrations best practices](https://learn.microsoft.com/en-us/azure/sentinel/partner-integrations)
     - Solution catalog
       - [All solutions](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-catalog)
       - [ASIM-based domain solutions](https://learn.microsoft.com/en-us/azure/sentinel/domain-based-essential-solutions)
@@ -452,7 +451,7 @@
       - [Work with query results](https://learn.microsoft.com/defender-xdr/advanced-hunting-query-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Explore results containing Microsoft Sentinel data](https://learn.microsoft.com/defender-xdr/advanced-hunting-defender-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - Kusto Query Language
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/kusto-overview)
+      - [Overview](https://learn.microsoft.com/kusto/query/kusto-sentinel-overview?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Query best practices](https://learn.microsoft.com/kusto/query/best-practices?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [SQL to KQL cheat sheet](https://learn.microsoft.com/kusto/query/sql-cheat-sheet?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Splunk to KQL cheat sheet](https://learn.microsoft.com/kusto/query/splunk-cheat-sheet?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
@@ -568,6 +567,8 @@
     - [Microsoft Sentinel REST-API](https://learn.microsoft.com/rest/api/securityinsights/)
     - [OOTB content centralization changes](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-content-centralize)
     - Build and publish Microsoft Sentinel solutions
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-integration-guide)
+      - [Partner integrations best practices](https://learn.microsoft.com/en-us/azure/sentinel/partner-integrations)
       - [Publish solutions](https://learn.microsoft.com/en-us/azure/sentinel/publish-sentinel-solutions)
       - [Solution lifecycle post publish](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-post-publish-tracking)
     - Management references
