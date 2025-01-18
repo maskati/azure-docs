@@ -87,7 +87,6 @@
 [Azure Managed Confidential Consortium Framework](./managed-ccf.md)
 [Azure Managed Grafana documentation](./managed-grafana.md)
 [Azure Migrate documentation](./migrate.md)
-[Azure Modeling and Simulation Workbench (preview) documentation](./modeling-simulation-workbench.md)
 [Azure NAT Gateway documentation](./nat-gateway.md)
 [Network Function Manager documentation](./network-function-manager.md)
 [Network Watcher documentation](./network-watcher.md)

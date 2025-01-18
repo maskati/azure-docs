@@ -303,7 +303,6 @@
       - [Failover VMware VM/ physical machine to Azure errors](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-failover-to-azure-troubleshoot)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.recoveryservices)
-    - [AzureRM PowerShell](https://learn.microsoft.com/powershell/module/AzureRM.RecoveryServices)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.recoveryservices/allversions)
     - [REST](https://learn.microsoft.com/rest/api/site-recovery)
     - [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected)

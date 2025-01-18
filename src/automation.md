@@ -199,7 +199,6 @@
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/automation)
     - [Azure PowerShell Az](https://learn.microsoft.com/powershell/module/az.automation/)
-    - [Azure PowerShell AzureRM](https://learn.microsoft.com/powershell/module/azurerm.automation/)
     - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.automation)
     - [REST](https://learn.microsoft.com/rest/api/automation/)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/automation/policy-reference)
