@@ -4,6 +4,7 @@
   - Overview
     - [About Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview)
     - [Site Recovery - FAQ](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-faq.yml)
+    - [Site Recovery - costs](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-cost)
   - What's New
     - [Release notes](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-whats-new)
     - [Feature releases](https://learn.microsoft.com/en-us/azure/site-recovery/feature-updates-whats-new)

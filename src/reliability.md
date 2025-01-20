@@ -5,7 +5,11 @@
   - Reliability fundamentals
     - [Shared responsibility for resiliency](https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility)
     - [Azure service incident response](https://learn.microsoft.com/en-us/azure/reliability/incident-response)
-  - Availability zone support
+  - Azure regions
+    - [What are Azure regions?](https://learn.microsoft.com/en-us/azure/reliability/regions-overview)
+    - [Paired and nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-paired)
+    - [Multi-region solutions in nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure-no-pair)
+  - Availability zones
     - [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
     - [Services with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support)
     - [Regions with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-region-support)
@@ -44,9 +48,6 @@
   - Disaster recovery
     - [What is disaster recovery?](https://learn.microsoft.com/en-us/azure/reliability/disaster-recovery-overview)
     - [Business continuity management program](https://learn.microsoft.com/en-us/azure/reliability/business-continuity-management-program)
-    - Cross-region replication
-      - [Cross-region replication overview](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
-      - [Solutions for non-paired regions](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure-no-pair)
   - Reliability guides by service
     - [Overview](https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance)
     - AI and machine learning
