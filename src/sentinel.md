@@ -388,7 +388,7 @@
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/understand-threat-intelligence)
     - [Threat intelligence integrations](https://learn.microsoft.com/en-us/azure/sentinel/threat-intelligence-integration)
     - [Enable MDTI data connector](https://learn.microsoft.com/en-us/azure/sentinel/connect-mdti-data-connector)
-    - [Connect threat intelligence upload API](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-upload-api)
+    - [Connect threat intelligence STIX objects API](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-upload-api)
     - [Connect threat intelligence platforms](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-tip)
     - [Connect to STIX/TAXII feeds](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-taxii)
     - [Add indicators in bulk by file](https://learn.microsoft.com/en-us/azure/sentinel/indicators-bulk-file-import)
@@ -623,7 +623,8 @@
       - [Watchlist template schemas](https://learn.microsoft.com/en-us/azure/sentinel/watchlist-schemas)
       - [Manage hunting queries with REST-API](https://learn.microsoft.com/en-us/azure/sentinel/hunting-with-rest-api)
       - [Enrich entities with geolocation data with REST-API](https://learn.microsoft.com/en-us/azure/sentinel/geolocation-data-api)
-      - [Upload indicator API reference](https://learn.microsoft.com/en-us/azure/sentinel/upload-indicators-api)
+      - [STIX objects API reference](https://learn.microsoft.com/en-us/azure/sentinel/stix-objects-api)
+      - [Legacy upload indicator API reference](https://learn.microsoft.com/en-us/azure/sentinel/upload-indicators-api)
     - [Compare playbooks, workbooks, and notebooks](https://learn.microsoft.com/en-us/azure/sentinel/resources)
     - [Operations guide](https://learn.microsoft.com/en-us/azure/sentinel/ops-guide)
   - Resources
