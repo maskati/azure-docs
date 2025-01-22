@@ -514,6 +514,7 @@
       - [SDK features](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/sdk-features)
       - [SMTP](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-smtp-overview)
       - [Allowed attachment types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-attachment-allowed-mime-types)
+      - [Reserved Custom Headers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-headers)
       - [Inline attachments](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-attachment-inline)
       - [Managing Opt-outs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-optout-management)
       - [Understanding sender reputation](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/sender-reputation-managed-suppression-list)

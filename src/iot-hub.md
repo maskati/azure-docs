@@ -117,11 +117,7 @@
       - [Get started with device twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-device-twins)
       - [Get started with module twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-module-twins)
       - [Get started with device management](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-device-management)
-      - Schedule and broadcast jobs
-        - [.NET](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-dotnet)
-        - [Python](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-python)
-        - [Node.js](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-node)
-        - [Java](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-java)
+      - [Schedule and broadcast jobs](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-schedule-broadcast-jobs)
       - [Query Avro data from a hub route](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-query-avro-data)
       - [Use Raspberry Pi to run samples](https://learn.microsoft.com/en-us/azure/iot-hub/raspberry-pi-get-started)
     - Monitor

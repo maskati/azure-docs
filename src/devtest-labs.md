@@ -67,6 +67,7 @@
         - [Connect to a Linux VM](https://learn.microsoft.com/en-us/azure/devtest-labs/connect-linux-virtual-machine)
         - [Connect to your VM through a browser](https://learn.microsoft.com/en-us/azure/devtest-labs/connect-virtual-machine-through-browser)
       - [Start or stop a VM using PowerShell or CLI](https://learn.microsoft.com/en-us/azure/devtest-labs/use-command-line-start-stop-virtual-machines)
+      - [Hibernate a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-hibernate-vm)
       - [Restart a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-restart-vm)
       - [Resize a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-resize-vm)
       - [Redeploy a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-redeploy-vm)

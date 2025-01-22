@@ -18,11 +18,8 @@
       - [CLI](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-ip-protection-cli)
       - [ARM template](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-ip-protection-template)
   - Tutorials
-    - [View and configure DDoS telemetry](https://learn.microsoft.com/en-us/azure/ddos-protection/telemetry)
     - Configure Monitoring and Logging
-      - [Configure Log Analytics workspace](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-configure-log-analytics-workspace)
       - [Configure metric alerts through portal](https://learn.microsoft.com/en-us/azure/ddos-protection/alerts)
-      - [Configure diagnostic logging](https://learn.microsoft.com/en-us/azure/ddos-protection/diagnostic-logging)
       - [Configure diagnostic logging alerts](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-diagnostic-alert-templates)
     - [Test with simulation partners](https://learn.microsoft.com/en-us/azure/ddos-protection/test-through-simulations)
     - View Monitoring and Logging
@@ -36,7 +33,7 @@
     - [Azure DDoS Protection features](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-features)
     - [Price comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-pricing-guide)
     - [Reference architectures](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-reference-architectures)
-    - [Monitoring Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/ddos-protection/monitor-ddos-protection-reference)
+    - [Monitor Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/ddos-protection/monitor-ddos-protection)
     - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-ddos?toc=/azure/ddos-protection/TOC.json)
     - [Fundamental best practices](https://learn.microsoft.com/en-us/azure/ddos-protection/fundamental-best-practices)
     - [Components of a DDoS response strategy](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-response-strategy)
@@ -60,6 +57,7 @@
     - [Python](https://azure.microsoft.com/develop/python/)
     - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/ddosprotectionplans)
     - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/ddos-protection/monitor-ddos-protection-reference)
   - Resources
     - [FAQ](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-faq.yml)
     - [Pricing](https://azure.microsoft.com/pricing/details/ddos-protection/)

@@ -4,7 +4,7 @@
   - Overview
     - [What is Azure Bastion?](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
   - Quickstarts
-    - [Deploy Bastion automatically - Basic SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
+    - [Deploy Bastion automatically](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
     - [Deploy Bastion automatically - Developer SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer-sku)
     - [Deploy Bastion - ARM template](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-arm-template)
   - Tutorials
