@@ -3,6 +3,7 @@
   - [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/)
   - [What is reliability?](https://learn.microsoft.com/en-us/azure/reliability/overview)
   - Reliability fundamentals
+    - [Business continuity, high availability, and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery)
     - [Shared responsibility for resiliency](https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility)
     - [Azure service incident response](https://learn.microsoft.com/en-us/azure/reliability/incident-response)
   - Azure regions
@@ -45,9 +46,6 @@
         - [Azure SQL managed instance](https://learn.microsoft.com/en-us/azure/reliability/migrate-sql-managed-instance)
         - [Azure Virtual Machines and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/migrate-vm)
         - [Workload - Azure Kubernetes and MySQL](https://learn.microsoft.com/en-us/azure/reliability/migrate-workload-aks-mysql)
-  - Disaster recovery
-    - [What is disaster recovery?](https://learn.microsoft.com/en-us/azure/reliability/disaster-recovery-overview)
-    - [Business continuity management program](https://learn.microsoft.com/en-us/azure/reliability/business-continuity-management-program)
   - Reliability guides by service
     - [Overview](https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance)
     - AI and machine learning

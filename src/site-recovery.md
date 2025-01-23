@@ -4,7 +4,6 @@
   - Overview
     - [About Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview)
     - [Site Recovery - FAQ](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-faq.yml)
-    - [Site Recovery - costs](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-cost)
   - What's New
     - [Release notes](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-whats-new)
     - [Feature releases](https://learn.microsoft.com/en-us/azure/site-recovery/feature-updates-whats-new)
@@ -81,6 +80,7 @@
     - About Azure VM disaster recovery
       - [Azure to Azure disaster recovery architecture](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-architecture)
       - [Azure trusted launch VMs](https://learn.microsoft.com/en-us/azure/site-recovery/concepts-trusted-vm)
+      - [Azure to Azure - Costs](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-cost)
       - [Configure Failover for Multiple IP addresses](https://learn.microsoft.com/en-us/azure/site-recovery/concepts-multiple-ip-address-failover)
       - [Configure Mobility Service Proxy Settings](https://learn.microsoft.com/en-us/azure/site-recovery/configure-mobility-service-proxy-settings)
       - [Accelerated networking for Azure VM disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/azure-vm-disaster-recovery-with-accelerated-networking)

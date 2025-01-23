@@ -143,7 +143,6 @@
     - [DHCP server on Azure Virtual Machine](https://learn.microsoft.com/en-us/azure/virtual-network/how-to-dhcp-azure)
     - [Monitor virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/monitor-virtual-network)
     - [Classic deployment](https://learn.microsoft.com/previous-versions/azure/virtual-network/create-virtual-network-classic)
-    - [Migrate from classic to Resource Manager](https://learn.microsoft.com/en-us/azure/virtual-network/migrate-classic-vnet-powershell)
   - Reference
     - [Monitor data reference](https://learn.microsoft.com/en-us/azure/virtual-network/monitor-virtual-network-reference)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/azure-cli-reference-for-network)

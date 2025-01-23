@@ -7,6 +7,7 @@
     - [Deploy Bastion automatically](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
     - [Deploy Bastion automatically - Developer SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer-sku)
     - [Deploy Bastion - ARM template](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-arm-template)
+    - [Deploy Bastion - Terraform](https://learn.microsoft.com/en-us/azure/bastion/quickstart-deploy-terraform)
   - Tutorials
     - [Deploy Bastion using manually specified settings](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
   - Concepts
