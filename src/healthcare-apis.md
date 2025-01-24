@@ -30,6 +30,7 @@
     - [Enable logging](https://learn.microsoft.com/en-us/azure/healthcare-apis/logging)
     - [Built-in policy definitions](https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-health-data-services-policy-reference)
   - Release notes
+    - [2025](https://learn.microsoft.com/en-us/azure/healthcare-apis/release-notes-2025)
     - [2024](https://learn.microsoft.com/en-us/azure/healthcare-apis/release-notes-2024)
     - [2023](https://learn.microsoft.com/en-us/azure/healthcare-apis/release-notes-2023)
     - [2022](https://learn.microsoft.com/en-us/azure/healthcare-apis/release-notes-2022)

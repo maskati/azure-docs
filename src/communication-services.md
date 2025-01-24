@@ -246,6 +246,7 @@
         - [Audio Conferencing](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/audio-conferencing)
         - [Breakout rooms](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/breakoutrooms)
         - [Together Mode](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/together-mode)
+        - [Media Access Control](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/media-access)
       - Configuring to proxy traffic
         - [Proxy your calling traffic](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/proxy-calling-support-tutorial)
       - Build a Webview based client

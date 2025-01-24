@@ -110,6 +110,6 @@
     - [SignalR Service subscription level limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
     - [Pricing](https://azure.microsoft.com/pricing/details/signalr-service/)
     - [Videos](https://www.youtube.com/results?search_query=Azure+SignalR+Core)
-    - [StackOverflow](https://stackoverflow.com/search?q=signalr+service)
+    - [Stack Overflow](https://stackoverflow.com/search?q=signalr+service)
     - [X](https://x.com/SignalR)
     - [ASP.NET forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=aspsignalr)
