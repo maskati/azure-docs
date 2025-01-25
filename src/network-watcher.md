@@ -68,10 +68,7 @@
       - [Monitor VPN gateway with Azure Automation](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-monitor-with-azure-automation)
       - [Diagnose on-premises connectivity via VPN gateway](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity)
     - Capture and analyze packets
-      - Manage packet captures for VMs
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-vm-portal)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-vm-powershell)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-vm-cli)
+      - [Manage packet captures](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-manage)
       - Manage packet captures for scale sets
         - [Azure portal](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-manage-portal-vmss)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-manage-powershell-vmss)

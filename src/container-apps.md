@@ -156,6 +156,7 @@
       - [Enable User Defined Routes UDR](https://learn.microsoft.com/en-us/azure/container-apps/user-defined-routes)
       - [Securing a custom VNET with an NSG](https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration)
       - [Use a private endpoint](https://learn.microsoft.com/en-us/azure/container-apps/how-to-use-private-endpoint)
+      - [Use mTLS](https://learn.microsoft.com/en-us/azure/container-apps/mtls)
       - [Integrate with Azure Front Door](https://learn.microsoft.com/en-us/azure/container-apps/how-to-integrate-with-azure-front-door)
   - Languages and runtimes
     - .NET

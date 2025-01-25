@@ -104,6 +104,7 @@
           - [Migrate default Hive metastore to external metastore on Azure HDInsight](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/hive-default-metastore-export-import)
           - [Copy Hive tables across Storage Accounts](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/hive-migration-across-storage-accounts)
       - Manage
+        - [Use Managed Identity for SQL Database authentication in Azure HDInsight](https://learn.microsoft.com/en-us/azure/hdinsight//use-managed-identity-for-sql-database-authentication-in-azure-hdinsight)
         - [Manage clusters using the Apache Ambari web UI](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-manage-ambari)
         - [Disable auto logout from Ambari Web UI](https://learn.microsoft.com/en-us/azure/hdinsight/ambari-web-ui-auto-logout)
         - Optimize with Apache Ambari

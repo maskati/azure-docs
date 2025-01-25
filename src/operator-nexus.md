@@ -97,7 +97,10 @@
       - [How to put a device into maintenance mode](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-put-device-in-maintenance-mode)
       - [How to set up break glass access](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-set-up-break-glass-access)
       - [How to use-break-glass-access](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-break-glass-access)
-      - [How to enable-Micro-BFD on CE and PE devices.md](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-micro-bfd)
+      - [How to enable-Micro-BFD on CE and PE devices](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-micro-bfd)
+      - [How to replace a terminal server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-replace-a-terminal-server)
+      - [How to upgrade os of terminal server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-os-of-terminal-server)
+      - [How to restrict serial port access and set timeout on terminal-server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-restrict-serial-port-access-and-set-timeout-on-terminal-server)
     - Cluster
       - BareMetal Actions
         - [BareMetal BMM Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmm-ssh)

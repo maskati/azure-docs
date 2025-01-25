@@ -1,5 +1,5 @@
 # App Service documentation
-> Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples.
+> Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the language stack of your choice without managing infrastructure, including .NET, Java (Java SE, Tomcat, and JBoss EAP), Node.js, Python, and PHP. It can also run any language stack with custom containers. It provides auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples.
   - [App Service Documentation](https://learn.microsoft.com/en-us/azure/app-service/)
   - Get started
     - [Getting started](https://learn.microsoft.com/en-us/azure/app-service/getting-started)
@@ -9,10 +9,10 @@
     - [Compare JBoss EAP options](https://learn.microsoft.com/azure/developer/java/ee/jboss-on-azure?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
   - Quickstarts
     - [Deploy ASP.NET](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore)
-    - [Deploy Node.js](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs)
-    - [Deploy PHP](https://learn.microsoft.com/en-us/azure/app-service/quickstart-php)
     - [Deploy Java](https://learn.microsoft.com/en-us/azure/app-service/quickstart-java)
+    - [Deploy Node.js](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs)
     - [Deploy Python](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python)
+    - [Deploy PHP](https://learn.microsoft.com/en-us/azure/app-service/quickstart-php)
     - [Deploy WordPress](https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress)
     - [Deploy a custom container](https://learn.microsoft.com/en-us/azure/app-service/quickstart-custom-container)
     - [Deploy using ARM template](https://learn.microsoft.com/en-us/azure/app-service/quickstart-arm-template)
