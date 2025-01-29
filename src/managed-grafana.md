@@ -13,7 +13,6 @@
   - Concepts
     - [Service reliability](https://learn.microsoft.com/en-us/azure/managed-grafana/high-availability)
     - [Encryption](https://learn.microsoft.com/en-us/azure/managed-grafana/encryption)
-    - [Grafana settings](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-settings)
     - [Azure RBAC](https://learn.microsoft.com/en-us/azure/managed-grafana/concept-role-based-access-control)
   - How-to guides
     - Access and sharing
@@ -44,6 +43,7 @@
       - [Use service accounts](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-service-accounts)
       - [Monitor Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-monitor-managed-grafana-workspace)
     - [Migrate to Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-migrate)
+    - [Configure Grafana settings](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-settings)
     - [Troubleshoot common issues](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-managed-grafana)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/grafana)

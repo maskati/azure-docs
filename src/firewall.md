@@ -80,6 +80,7 @@
       - [Deploy and configure Firewall Premium](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy)
       - [Deploy Enterprise CA Certificates for Premium](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy-certificates-enterprise-ca)
       - [Use Azure Policy](https://learn.microsoft.com/en-us/azure/firewall/firewall-azure-policy)
+      - [Secured hub customer public IP](https://learn.microsoft.com/en-us/azure/firewall/secured-hub-customer-public-ip)
     - Protect
       - [Protect Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/firewall/protect-azure-virtual-desktop)
       - [Protect Azure Kubernetes Service AKS](https://learn.microsoft.com/en-us/azure/firewall/protect-azure-kubernetes-service)

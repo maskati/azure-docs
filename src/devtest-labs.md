@@ -71,6 +71,7 @@
       - [Restart a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-restart-vm)
       - [Resize a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-resize-vm)
       - [Redeploy a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-redeploy-vm)
+      - [Create a VM with Generation 2 base image](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-gen2-vm)
       - [Create and manage claimable VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-add-claimable-vm)
       - [Configure secrets](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-store-secrets-in-key-vault)
       - [Attach and detach data disks](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-attach-detach-data-disk)

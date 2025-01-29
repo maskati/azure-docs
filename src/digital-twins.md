@@ -17,8 +17,8 @@
     - Industry ontologies
       - [What is an ontology?](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-ontologies)
       - [Adopting DTDL-based industry ontologies](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-ontologies-adopt)
-      - [Converting ontologies](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-ontologies-convert)
       - [Extending ontologies](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-ontologies-extend)
+      - [Converting ontologies](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-ontologies-convert)
     - [Digital twins and the twin graph](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-twins-graph)
     - [Query language](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-query-language)
     - [Query Units](https://learn.microsoft.com/en-us/azure/digital-twins/concepts-query-units)

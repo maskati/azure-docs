@@ -27,10 +27,7 @@
     - [Revisions](https://learn.microsoft.com/en-us/azure/container-apps/revisions)
     - [Application lifecycle management](https://learn.microsoft.com/en-us/azure/container-apps/application-lifecycle-management)
     - [Jobs](https://learn.microsoft.com/en-us/azure/container-apps/jobs)
-    - Dynamic sessions
-      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
-      - [Code interpreter sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
-      - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
+    - [Dynamic sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
     - [Microservices](https://learn.microsoft.com/en-us/azure/container-apps/microservices)
     - [Planned maintenance](https://learn.microsoft.com/en-us/azure/container-apps/planned-maintenance)
     - [Build and deliver apps with Container Apps video](https://youtu.be/OxmVds31qL8)
@@ -61,14 +58,27 @@
       - [Create an Azure Files storage mount](https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts-azure-files)
     - Use dynamic sessions
       - Code interpreter sessions
-        - [AutoGen](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen)
-        - [LangChain](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain)
-        - [LlamaIndex](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex)
-        - [Semantic Kernel](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel)
-        - [JavaScript Code Interpreter preview](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs)
+        - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
+        - Tutorials
+          - Use a LLM agent
+            - [AutoGen](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen)
+            - [LangChain](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain)
+            - [LlamaIndex](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex)
+            - [Semantic Kernel](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel)
+          - Use the REST API
+            - [JavaScript Code interpreter preview](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs)
+      - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
     - Event-driven processing
       - [With a job](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs)
-    - [Troubleshooting](https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting)
+    - Troubleshooting
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting)
+      - Errors and failures
+        - [Container create](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-create-failures)
+        - [Open Container Initiative OCI](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-open-container-initiative-errors)
+        - [Health probe](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-health-probe-failures)
+        - [Image pull](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-image-pull-failures)
+        - [Storage mount](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-storage-mount-failures)
+        - [Target port](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-target-port-settings)
     - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)

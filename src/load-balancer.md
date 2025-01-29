@@ -3,6 +3,7 @@
   - [Load Balancer documentation](https://learn.microsoft.com/en-us/azure/load-balancer/)
   - Overview
     - [What is Azure Load Balancer?](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
+    - [Load balancer best practices](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-best-practices)
   - Quickstarts
     - Create a public load balancer
       - [Portal](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
@@ -43,6 +44,7 @@
     - [Deploy public load balancer with DDoS protection](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer)
   - Concepts
     - [What's new?](https://learn.microsoft.com/en-us/azure/load-balancer/whats-new)
+    - [Load balancer best practices](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-best-practices)
     - [Portal settings](https://learn.microsoft.com/en-us/azure/load-balancer/manage)
     - [Components](https://learn.microsoft.com/en-us/azure/load-balancer/components)
     - [Load balancing algorithm](https://learn.microsoft.com/en-us/azure/load-balancer/concepts)

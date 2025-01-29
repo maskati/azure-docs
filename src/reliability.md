@@ -5,12 +5,11 @@
   - Reliability fundamentals
     - [Business continuity, high availability, and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery)
     - [Shared responsibility for resiliency](https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility)
-    - [Azure service incident response](https://learn.microsoft.com/en-us/azure/reliability/incident-response)
   - Azure regions
     - [What are Azure regions?](https://learn.microsoft.com/en-us/azure/reliability/regions-overview)
     - [Paired and nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-paired)
-    - [Multi-region solutions in nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure-no-pair)
-  - Availability zones
+    - [Multi-region solutions in nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-multi-region-nonpaired)
+  - Azure availability zones
     - [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
     - [Services with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support)
     - [Regions with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-region-support)
@@ -213,6 +212,7 @@
       - [Azure Notification Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs)
       - [Azure SignalR Service](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
   - Resources
+    - [Azure service incident response](https://learn.microsoft.com/en-us/azure/reliability/incident-response)
     - Service availability
       - [Service availability by region](https://azure.microsoft.com/global-infrastructure/services/)
       - [Service availability by category](https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category)

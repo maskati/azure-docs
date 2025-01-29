@@ -69,9 +69,6 @@
       - [Diagnose on-premises connectivity via VPN gateway](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity)
     - Capture and analyze packets
       - [Manage packet captures](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-manage)
-      - Manage packet captures for scale sets
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-manage-portal-vmss)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-manage-powershell-vmss)
       - Analyze a packet capture
         - [Inspect to find anomalies](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-inspect)
         - [Proactive network monitoring with Azure Functions](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-alert-triggered-packet-capture)
@@ -99,8 +96,6 @@
         - [Use Graylog](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-analyze-nsg-flow-logs-graylog)
       - [Delete NSG flow log storage blobs](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-delete-nsg-flow-log-blobs)
       - [Enable traffic analytics using Azure policy](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)
-      - [Perform compliance and audit your network](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-auditing-powershell)
-    - [Determine relative latency between a location and Azure region](https://learn.microsoft.com/en-us/azure/network-watcher/view-relative-latencies)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/watcher)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/)
