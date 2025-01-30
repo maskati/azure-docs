@@ -76,7 +76,6 @@
         - [Sensitive data protection](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/sensitive-data-protection)
         - [Understand billing](https://learn.microsoft.com/en-us/azure/frontdoor/billing)
         - [Price comparison between tiers](https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing)
-        - [Logs and metrics](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-diagnostics?pivots=front-door-standard-premium)
         - [Best practices](https://learn.microsoft.com/en-us/azure/frontdoor/best-practices)
         - Scenarios
           - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/scenarios)
@@ -161,7 +160,6 @@
           - [Connect to Azure API Management](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-apim)
         - Monitor and reports
           - [Configure diagnostic logs](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-logs)
-          - [Access metrics and create alerts](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-monitor-metrics)
           - [View Front Door reports](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-reports)
         - Integrations
           - [Azure Storage Account](https://learn.microsoft.com/en-us/azure/frontdoor/integrate-storage-account)
@@ -180,12 +178,14 @@
         - [Add a root or apex domain](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-onboard-apex-domain?pivots=front-door-classic)
         - [Set up a Rules Engine](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-tutorial-rules-engine)
         - [Configure HTTP to HTTPS redirect](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-redirect-https)
-        - [Configure classic diagnostics](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-diagnostics)
       - Secure with Web Application Firewall
         - [Configure a security policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal?toc=/azure/frontdoor/toc.json)
         - [Configure geo-filtering](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering?toc=/azure/frontdoor/toc.json)
         - [Configure rate limits](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure?toc=%2fazure%2ffrontdoor%2ftoc.json)
         - [Configure IP restriction](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction?toc=/azure/frontdoor/toc.json)
+      - Monitor
+        - [Monitor Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/monitor-front-door)
+        - [Front Door monitoring data reference](https://learn.microsoft.com/en-us/azure/frontdoor/monitor-front-door-reference)
       - Troubleshoot
         - [Troubleshooting with RefString](https://learn.microsoft.com/en-us/azure/frontdoor/refstring)
         - [Troubleshooting Front Door issues](https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-issues)

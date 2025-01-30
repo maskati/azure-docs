@@ -10,6 +10,7 @@
     - [Create an ExpressRoute circuit - CLI](https://learn.microsoft.com/en-us/azure/expressroute/howto-circuit-cli)
     - [Create an ExpressRoute circuit - Bicep](https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-bicep)
     - [Create an ExpressRoute circuit - ARM template](https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-template)
+    - [Create an ExpressRoute circuit - Terraform](https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-terraform)
   - Tutorials
     - [Establish a private connection to a virtual network](https://learn.microsoft.com/en-us/azure/expressroute/configure-expressroute-private-peering)
   - Concepts

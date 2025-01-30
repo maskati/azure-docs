@@ -325,6 +325,7 @@
       - [Chat hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/chat-hero-sample)
       - [Authentication service hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/trusted-auth-sample)
     - Email
+      - [Email Resource Management](https://learn.microsoft.com/en-us/azure/communication-services/samples/email-resource-management)
       - [Azure AI to detect sensitive data example](https://learn.microsoft.com/en-us/azure/communication-services/samples/email-detect-sensitive-content)
     - Call Automation
       - [Call Automation Azure OpenAI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-azure-openai-sample)

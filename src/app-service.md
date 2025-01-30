@@ -81,8 +81,10 @@
       - [ASP.NET with SQL DB](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnet-sqldatabase)
       - [PHP with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-php-mysql-app)
       - [Node.js with MongoDB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app)
-      - [Python with Postgres Flask/Django](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app)
-      - [Python with Postgres FastAPI](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-fastapi)
+      - Python with Postgres
+        - [Using Flask](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-flask)
+        - [Using Django](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-django)
+        - [Using FastAPI](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-fastapi)
       - [Spring Boot with MongoDB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-spring-cosmosdb)
       - [Tomcat with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-tomcat-mysql-app)
       - [JBoss with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-jboss-mysql-app)
