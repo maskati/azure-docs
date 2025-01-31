@@ -113,8 +113,16 @@
           - [macOS clients](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client-mac)
           - [Multi-application Microsoft Entra authentication](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app)
         - Certificate authentication clients
-          - [Windows clients](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows)
-          - [macOS and iOS clients](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac)
+          - Windows clients
+            - [Native VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows)
+            - [Azure VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows)
+            - OpenVPN client
+              - [Version 2.x](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-2)
+              - [Version 3.x](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3)
+          - macOS and iOS clients
+            - [Native VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac)
+            - [OpenVPN client - macOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-mac)
+            - [OpenVPN client - iOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-ios)
           - [Install client certificates](https://learn.microsoft.com/en-us/azure/virtual-wan/install-client-certificates)
         - VPN client profiles
           - [Download global and hub profiles](https://learn.microsoft.com/en-us/azure/virtual-wan/global-hub-profile)

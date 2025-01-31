@@ -236,6 +236,7 @@
         - [View calling events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/handle-calling-events)
       - Analytics
         - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
+        - [Insights dashboard](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/insights-dashboard)
         - [Voice and Video insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/voice-and-video-insights)
         - [Call Recording insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/call-recording-insights)
         - [Query call logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/query-call-logs)
@@ -387,7 +388,7 @@
           - [User privacy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/privacy)
           - [Government clouds](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/government-cloud)
           - [Security](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/security)
-          - [Known issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/limitations)
+          - [Teams interop known issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/guest/limitations)
         - Communication as Teams user
           - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/teams-endpoint)
           - [Use cases](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/custom-teams-endpoint-use-cases)

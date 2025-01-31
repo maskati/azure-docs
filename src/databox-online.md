@@ -193,7 +193,7 @@
     - IoT Edge
       - Deploy IoT Edge samples Self-serve
         - [IoT Edge on VM](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-deploy-iot-edge-linux-vm)
-        - [Nvidia DeepStream module](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-deploy-nvidia-deepstream-module)
+        - [NVIDIA DeepStream module](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-deploy-nvidia-deepstream-module)
       - [Troubleshoot IoT Edge issues](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-troubleshoot-iot-edge)
     - Cloud storage gateway
       - [Add, connect to share](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-deploy-add-shares)

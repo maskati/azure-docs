@@ -44,7 +44,6 @@
       - [Delegation with Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-domain-delegation)
       - [DNSSEC](https://learn.microsoft.com/en-us/azure/dns/dnssec)
       - [FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq.yml)
-      - [DNS metrics and alerts](https://learn.microsoft.com/en-us/azure/dns/dns-alerts-metrics)
       - [Reverse DNS](https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-overview)
     - Private DNS
       - [What is an Azure Private DNS zone?](https://learn.microsoft.com/en-us/azure/dns/private-dns-privatednszone)
@@ -60,8 +59,10 @@
       - [Private resolver architecture](https://learn.microsoft.com/en-us/azure/dns/private-resolver-architecture)
       - [Resiliency in Azure DNS Private Resolver](https://learn.microsoft.com/en-us/azure/dns/private-resolver-reliability)
   - How-to guides
-    - DNS security policy
-      - [Filter and view DNS traffic](https://learn.microsoft.com/en-us/azure/dns/dns-traffic-log-how-to)
+    - Monitor and manage DNS traffic
+      - [Secure and view DNS traffic](https://learn.microsoft.com/en-us/azure/dns/dns-traffic-log-how-to)
+      - [Monitor Azure DNS](https://learn.microsoft.com/en-us/azure/dns/monitor-dns)
+      - [Azure DNS Monitoring data reference](https://learn.microsoft.com/en-us/azure/dns/monitor-dns-reference)
     - Public DNS
       - [Alias records for load balanced web apps](https://learn.microsoft.com/en-us/azure/dns/dns-alias-appservice)
       - Manage DNSSEC

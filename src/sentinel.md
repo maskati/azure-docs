@@ -570,8 +570,8 @@
     - Build and publish Microsoft Sentinel solutions
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-integration-guide)
       - [Partner integrations best practices](https://learn.microsoft.com/en-us/azure/sentinel/partner-integrations)
-      - [Creating Workbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-workbook-creation)
-      - [Creating Playbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-playbook-creation)
+      - [Creating workbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-workbook-creation)
+      - [Creating playbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-playbook-creation)
       - [Publish solutions](https://learn.microsoft.com/en-us/azure/sentinel/publish-sentinel-solutions)
       - [Solution lifecycle post publish](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-post-publish-tracking)
     - Management references
