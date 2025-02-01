@@ -266,7 +266,7 @@
         - [Query nested types](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-parquet-nested-types)
         - [Query Delta Lake](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-delta-lake-format)
         - [Query folders and multiple files](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-folders-multiple-csv-files)
-        - [Query partitioned files using file metadata](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-specific-files)
+        - [Use file metadata in queries](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-specific-files)
         - [Create and use views](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/create-use-views)
         - [Create and use external tables](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/create-use-external-tables)
         - [Store query results to storage](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/create-external-table-as-select)

@@ -393,7 +393,7 @@
     - [Connect threat intelligence platforms](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-tip)
     - [Connect to STIX/TAXII feeds](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-taxii)
     - [Add threat intelligence in bulk by file](https://learn.microsoft.com/en-us/azure/sentinel/indicators-bulk-file-import)
-    - [Work with threat indicators](https://learn.microsoft.com/en-us/azure/sentinel/work-with-threat-indicators)
+    - [Work with threat intelligence](https://learn.microsoft.com/en-us/azure/sentinel/work-with-threat-indicators)
     - [Add entity to threat indicators](https://learn.microsoft.com/en-us/azure/sentinel/add-entity-to-threat-intelligence)
     - [Use threat indicators in analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/use-threat-indicators-in-analytics-rules)
     - [Use matching analytics to detect threats](https://learn.microsoft.com/en-us/azure/sentinel/use-matching-analytics-to-detect-threats)

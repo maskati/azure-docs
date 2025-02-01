@@ -54,7 +54,6 @@
       - [Azure Machine Learning Service](https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
     - Analytics
       - [Azure HDInsight](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight)
-      - [Azure HDInsight on AKS](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight-on-aks)
       - [Azure Machine Learning](https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/stream-analytics/geo-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs)
