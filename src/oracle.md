@@ -13,9 +13,7 @@
     - Onboarding
       - [Onboard Oracle Database@Azure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/onboard-oracle-database)
     - Design considerations
-      - [Groups and roles](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-groups-roles)
-      - [Plan IP address space](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-plan-ip)
-      - [Delegated subnet limits](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-delegated-subnet-limits)
+      - [Design considerations for Oracle Database@Azure](https://docs.oracle.com/en-us/iaas/Content/database-at-azure/odbaa-design.htm)
     - [FAQs](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/faq-oracle-database-azure)
     - References
       - [Well Architected Framework WAF](https://learn.microsoft.com/azure/well-architected/)

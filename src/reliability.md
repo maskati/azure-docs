@@ -2,6 +2,7 @@
 > Azure reliability documentation for availability zones, cross-regional disaster recovery, availability of services for sovereign clouds, regions, and category.
   - [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/)
   - [Overview](https://learn.microsoft.com/en-us/azure/reliability/overview)
+  - [What's new](https://learn.microsoft.com/en-us/azure/reliability/whats-new)
   - Reliability fundamentals
     - [Business continuity, high availability, and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery)
     - [Shared responsibility for resiliency](https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility)

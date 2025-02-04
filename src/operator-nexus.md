@@ -68,6 +68,7 @@
         - [Before you start Operator Nexus platform deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-platform-prerequisites)
         - [Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-network-fabric)
         - [Cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-cluster)
+        - [Cluster Creation With Managed Identity](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-create-cluster-with-user-assigned-managed-identity)
         - [Cluster Template JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/cluster-jsonc-example)
         - [Cluster Parameters JSON Example](https://learn.microsoft.com/en-us/azure/operator-nexus/cluster-parameters-jsonc-example)
         - [Instance Readiness Testing](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-run-instance-readiness-testing)
