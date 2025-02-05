@@ -13,6 +13,7 @@
     - [Setup disaster recovery on an on-premises VMware VM](https://learn.microsoft.com/en-us/azure/site-recovery/quickstart-enable-replication)
     - [Create a vault - Bicep](https://learn.microsoft.com/en-us/azure/site-recovery/quickstart-create-vault-bicep)
     - [Create a vault - ARM template](https://learn.microsoft.com/en-us/azure/site-recovery/quickstart-create-vault-template)
+    - [Create a vault - Terraform](https://learn.microsoft.com/en-us/azure/site-recovery/quickstart-create-vault-terraform)
   - Tutorials
     - Azure VM disaster recovery to Azure
       - [Set up disaster recovery for Azure VMs](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication)

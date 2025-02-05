@@ -2,14 +2,14 @@
 > Analyze your firmware images for security vulnerabilities
   - [Firmware analysis preview](https://learn.microsoft.com/en-us/azure/firmware-analysis/)
   - Overview
-    - [Overview of Firmware analysis preview](https://learn.microsoft.com/en-us/azure/firmware-analysis/overview-firmware-analysis)
+    - [Overview of firmware analysis preview](https://learn.microsoft.com/en-us/azure/firmware-analysis/overview-firmware-analysis)
     - [Firmware analysis frequently asked questions](https://learn.microsoft.com/en-us/azure/firmware-analysis/firmware-analysis-faq)
     - [What's new?](https://learn.microsoft.com/en-us/azure/firmware-analysis/release-notes)
   - Quickstarts
-    - [Quickstart to use Firmware analysis with Azure CLI](https://learn.microsoft.com/en-us/azure/firmware-analysis/quickstart-upload-firmware-using-azure-command-line-interface)
-    - [Quickstart to use Firmware analysis with Azure PowerShell](https://learn.microsoft.com/en-us/azure/firmware-analysis/quickstart-upload-firmware-using-powershell)
-    - [Quickstart to use Firmware analysis with a Python script](https://learn.microsoft.com/en-us/azure/firmware-analysis/quickstart-upload-firmware-using-python)
-  - [Tutorial using Firmware analysis with the Azure portal](https://learn.microsoft.com/en-us/azure/firmware-analysis/tutorial-analyze-firmware)
+    - [Quickstart to use firmware analysis with Azure CLI](https://learn.microsoft.com/en-us/azure/firmware-analysis/quickstart-upload-firmware-using-azure-command-line-interface)
+    - [Quickstart to use firmware analysis with Azure PowerShell](https://learn.microsoft.com/en-us/azure/firmware-analysis/quickstart-upload-firmware-using-powershell)
+    - [Quickstart to use firmware analysis with a Python script](https://learn.microsoft.com/en-us/azure/firmware-analysis/quickstart-upload-firmware-using-python)
+  - [Tutorial using firmware analysis with the Azure portal](https://learn.microsoft.com/en-us/azure/firmware-analysis/tutorial-analyze-firmware)
   - Concepts
     - [Firmware analysis role-based access control](https://learn.microsoft.com/en-us/azure/firmware-analysis/firmware-analysis-rbac)
   - How-to guides

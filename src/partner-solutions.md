@@ -10,7 +10,6 @@
     - [Dynatrace](https://learn.microsoft.com/en-us/azure/partner-solutions/dynatrace/)
     - [Elastic](https://learn.microsoft.com/en-us/azure/partner-solutions/elastic/)
     - [Informatica Preview](https://learn.microsoft.com/en-us/azure/partner-solutions/informatica/)
-    - [Logz.io](https://learn.microsoft.com/en-us/azure/partner-solutions/logzio/)
     - [Neon Serverless Postgres Preview](https://learn.microsoft.com/en-us/azure/partner-solutions/neon/)
     - [New Relic](https://learn.microsoft.com/en-us/azure/partner-solutions/new-relic/)
     - [Palo Alto Network](https://learn.microsoft.com/en-us/azure/partner-solutions/palo-alto/)

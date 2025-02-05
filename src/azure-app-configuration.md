@@ -64,7 +64,6 @@
       - [Deploy to Kubernetes using Helm](https://learn.microsoft.com/en-us/azure/azure-app-configuration/integrate-kubernetes-deployment-helm)
     - Feature management
       - Use feature flags
-        - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core)
         - [Spring Boot](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-spring-boot)
       - Enable conditional features with feature filters
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters)
@@ -81,6 +80,7 @@
       - Use variant feature flags
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags)
         - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-aspnet-core)
+        - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-python)
     - Enable Azure monitoring
       - [Monitor App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration)
       - [Reference for monitoring data](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration-reference)

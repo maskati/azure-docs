@@ -23,7 +23,6 @@
     - [Authentication with Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-authentication)
     - [Authentication best practices](https://learn.microsoft.com/en-us/azure/azure-maps/authentication-best-practices)
     - [Azure Maps Event Grid integration](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-event-grid-integration)
-    - [Choose the right pricing tier](https://learn.microsoft.com/en-us/azure/azure-maps/choose-pricing-tier)
     - [Azure Maps geographic scope](https://learn.microsoft.com/en-us/azure/azure-maps/geographic-scope)
     - [Consent management](https://learn.microsoft.com/en-us/azure/azure-maps/consent-management)
     - Creator for Indoor maps

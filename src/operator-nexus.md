@@ -151,6 +151,9 @@
   - Troubleshooting
     - Network Fabric
       - [Troubleshoot Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-isolation-domain)
+      - [Troubleshoot LACP Bonding](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-lacp-bonding)
+      - [Troubleshoot DNS Issues](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-dns-issues)
+      - [Troubleshoot TWAMP UDP not working](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-twamp-udp-not-working)
     - Cluster or BMM
       - [Troubleshoot Bare Metal Machine](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-reboot-reimage-replace)
       - [Troubleshoot Bare Metal Machine Provisioning](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-bare-metal-machine-provisioning)
@@ -158,10 +161,6 @@
       - [Troubleshoot Control Plane Quorum](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-control-plane-quorum)
       - [Troubleshoot Accepted Cluster Resource](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-accepted-cluster-hydration)
       - [Troubleshoot Out of Memory Pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-memory-limits)
-      - [Troubleshoot LACP Bonding](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-lacp-bonding)
-      - [Troubleshoot DNS Issues](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-dns-issues)
-      - [Troubleshoot NAKS Cluster Node Packet Loss](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-packet-loss)
-      - [Troubleshoot TWAMP UDP not working](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-twamp-udp-not-working)
     - Tenant Workload
       - Troubleshoot PersistentVolumeClaims
         - [Gather trace IDs for PersistentVolumeClaim failures](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-gather-pvc-trace-id)
@@ -171,6 +170,7 @@
       - [Troubleshoot VM errors after BMM restart](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-vm-error-after-reboot)
       - [Troubleshooting dual-stack configuration issues for Nexus Kubernetes cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-dual-stack-configuration)
       - [Troubleshoot Neighbor Group Creation Error](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-neighbor-group-creation-error)
+      - [Troubleshoot NAKS Cluster Node Packet Loss](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-packet-loss)
   - [FAQ](https://learn.microsoft.com/en-us/azure/operator-nexus/azure-operator-nexus-faq)
   - Reference
     - Nexus Kubernetes service

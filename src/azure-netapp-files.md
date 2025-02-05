@@ -108,7 +108,7 @@
             - [SAP HANA](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=sap-hana)
             - [Oracle Database](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=oracle)
             - [IBM Db2](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=db2)
-            - [Microsoft SQL Server PREVIEW](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-preview?tabs=mssql)
+            - [Microsoft SQL Server](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=mssql)
           - Configure Storage
             - [All storage](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-storage)
             - [Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-storage?tabs=azure-netapp-files)
