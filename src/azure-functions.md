@@ -44,9 +44,6 @@
       - Resource Manager
         - [Bicep](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-bicep)
         - [ARM template](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-resource-manager)
-      - Azure Arc preview
-        - [Code-only publishing](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-arc-cli)
-        - [Custom container](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-arc-custom-container)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container-apps)
     - Connect to storage
       - C#
@@ -222,8 +219,7 @@
           - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-storage-queue-output-binding)
           - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code)
           - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs)
-          - [Java](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-java)
-          - [Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-python)
+          - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli)
       - Debug
         - [Debug local PowerShell functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-powershell-local)
         - [Debug Event Grid trigger locally](https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-event-grid-trigger-local)

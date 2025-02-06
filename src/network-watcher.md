@@ -108,8 +108,9 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/networkWatchers/)
   - Resources
     - [Microsoft Q&A](https://learn.microsoft.com/answers/topics/azure-network-watcher.html)
+    - [Product feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789?c=cd276b66-8326-ec11-b6e6-000d3a4f0789)
     - [Azure support](https://azure.microsoft.com/support/)
     - [Pricing](https://azure.microsoft.com/pricing/details/network-watcher/)
-    - [Service updates](https://azure.microsoft.com/updates/?query=network watcher)
-    - [SLA](https://azure.microsoft.com/support/legal/sla/network-watcher/)
+    - [Service updates](https://azure.microsoft.com/updates/?filters=%5B"Network+Watcher"%5D)
+    - [SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)
     - [Stack Overflow](http://stackoverflow.com/questions/tagged/network-watcher)

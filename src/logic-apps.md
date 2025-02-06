@@ -87,7 +87,8 @@
       - [About Azure Arc-enabled Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/azure-arc-enabled-logic-apps-overview)
       - [Create and deploy Azure Arc-enabled logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/azure-arc-enabled-logic-apps-create-deploy-workflows)
     - Migrate
-      - Migrate from BizTalk to Azure Logic Apps
+      - [Migration from Power Automate](https://learn.microsoft.com/en-us/azure/logic-apps/power-automate-migration)
+      - Migration from BizTalk Server
         - [Why migrate from BizTalk Server?](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-overview)
         - [Which integration services to choose](https://learn.microsoft.com/en-us/azure/logic-apps/azure-integration-services-choose-capabilities)
         - [Migration options and best practices](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-approaches)
@@ -122,7 +123,7 @@
       - [Support non-UTF-8 character encoding in logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/support-non-unicode-character-encoding)
       - [Troubleshoot errors](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-diagnosing-failures)
     - Access on-premises data sources
-      - [Install on-premises data gateway](https://learn.microsoft.com/en-us/azure/logic-apps/install-on-premises-data-gateway)
+      - [Install on-premises data gateway](https://learn.microsoft.com/en-us/azure/logic-apps/install-on-premises-data-gateway-workflows)
       - [Connect to on-premises data sources](https://learn.microsoft.com/en-us/azure/logic-apps/connect-on-premises-data-sources)
     - Develop for B2B scenarios
       - Integration account and artifacts

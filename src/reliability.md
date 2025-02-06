@@ -5,7 +5,7 @@
   - [What's new](https://learn.microsoft.com/en-us/azure/reliability/whats-new)
   - Reliability fundamentals
     - [Business continuity, high availability, and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery)
-    - [Shared responsibility for resiliency](https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility)
+    - [Shared responsibility for reliability](https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility)
   - Azure regions
     - [What are Azure regions?](https://learn.microsoft.com/en-us/azure/reliability/regions-overview)
     - [Paired and nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-paired)

@@ -248,7 +248,7 @@
           - [Analyze the generated report](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-deployment-planner-analyze-report)
           - [Analyze the cost estimation report](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-deployment-planner-cost-estimation)
     - Azure Stack VM disaster recovery
-      - [Walkthrough-Set up disaster recovery for Azure Stack VMs](https://learn.microsoft.com/en-us/azure/site-recovery/azure-stack-site-recovery)
+      - [Walkthrough-Set up disaster recovery for Azure Stack Hub](https://learn.microsoft.com/en-us/azure/site-recovery/azure-stack-site-recovery)
     - Disaster recovery for apps
       - [About disaster recovery for on-premises apps](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-workload)
       - [Active Directory and DNS](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-active-directory)

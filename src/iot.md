@@ -21,6 +21,7 @@
       - [Manage digital twins](https://learn.microsoft.com/en-us/azure/iot/howto-manage-digital-twin)
       - [Convert a device to IoT Plug and Play](https://learn.microsoft.com/en-us/azure/iot/howto-convert-to-pnp)
     - [Connect an on-premises SAP system to Azure](https://learn.microsoft.com/en-us/azure/iot/howto-connect-on-premises-sap-to-azure)
+    - [Enable an industrial dataspace in Azure](https://learn.microsoft.com/en-us/azure/iot/howto-iot-industrial-dataspaces)
   - Tutorials
     - [Send telemetry to IoT Hub](https://learn.microsoft.com/en-us/azure/iot/tutorial-send-telemetry-iot-hub)
     - Build a device solution with IoT Hub

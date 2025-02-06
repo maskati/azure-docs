@@ -22,6 +22,7 @@
   - Concepts
     - [Update options and orchestration](https://learn.microsoft.com/en-us/azure/update-manager/updates-maintenance-schedules)
     - [Assessment options](https://learn.microsoft.com/en-us/azure/update-manager/assessment-options)
+    - [Cross-subscription patching](https://learn.microsoft.com/en-us/azure/update-manager/cross-subscription-patching)
     - [Overview of Pre and Post Events](https://learn.microsoft.com/en-us/azure/update-manager/pre-post-scripts-overview)
     - [Access Azure Update Manager operations data using Azure Resource Graph](https://learn.microsoft.com/en-us/azure/update-manager/query-logs)
     - [Manage updates on multiple machines](https://learn.microsoft.com/en-us/azure/update-manager/manage-multiple-machines)
@@ -45,6 +46,7 @@
       - [Deploy updates and track results](https://learn.microsoft.com/en-us/azure/update-manager/deploy-updates)
       - [Manage update settings](https://learn.microsoft.com/en-us/azure/update-manager/manage-update-settings)
       - [Schedule updates](https://learn.microsoft.com/en-us/azure/update-manager/scheduled-patching)
+      - [Manage cross-subscription patching](https://learn.microsoft.com/en-us/azure/update-manager/enable-cross-subscription-patching)
       - Dynamic scope
         - [Overview](https://learn.microsoft.com/en-us/azure/update-manager/dynamic-scope-overview)
         - [Manage dynamic scope](https://learn.microsoft.com/en-us/azure/update-manager/manage-dynamic-scoping)

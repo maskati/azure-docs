@@ -3,6 +3,7 @@
   - [Azure Event Grid Documentation](https://learn.microsoft.com/en-us/azure/event-grid/)
   - Overview
     - [What is Event Grid?](https://learn.microsoft.com/en-us/azure/event-grid/overview)
+    - [Use cases](https://learn.microsoft.com/en-us/azure/event-grid/use-cases)
     - [What's new?](https://learn.microsoft.com/en-us/azure/event-grid/whats-new)
     - [Choose the right tier](https://learn.microsoft.com/en-us/azure/event-grid/choose-right-tier)
   - Event Grid namespaces
@@ -37,7 +38,8 @@
         - [MQTT client authentication](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-authentication)
           - [OAuth 2.0 JSON Web Token authentication](https://learn.microsoft.com/en-us/azure/event-grid/oauth-json-web-token-authentication)
           - [MQTT client authentication using certificates](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-certificate-authentication)
-          - [JWT authentication and RBAC authorization for clients with Microsoft Entra identity](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac)
+          - [Microsoft Entra JWT authentication and RBAC authorization for clients](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac)
+          - [OAuth 2.0 JSON Web Token authentication and authorization for clients](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-custom-jwt)
           - [Transport Layer Security connection with MQTT broker](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-transport-layer-security-flow)
         - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json)
         - Security

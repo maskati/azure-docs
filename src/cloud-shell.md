@@ -3,28 +3,29 @@
     - [What is Azure Cloud Shell?](https://learn.microsoft.com/en-us/azure/cloud-shell/overview)
     - [Features & tools](https://learn.microsoft.com/en-us/azure/cloud-shell/features)
     - [Release notes](https://learn.microsoft.com/en-us/azure/cloud-shell/release-notes)
-  - Get started with Cloud Shell
+  - Get started with Azure Cloud Shell
     - [Get started Classic](https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/classic)
     - [Get started New UI](https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/ephemeral)
     - [Get started with new storage account New UI](https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/new-storage)
     - [Get started with existing storage account New UI](https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/existing-storage)
-  - How to use Cloud Shell
+  - How to use Azure Cloud Shell
     - [Use the window Classic UI](https://learn.microsoft.com/en-us/azure/cloud-shell/using-the-shell-window)
     - [Use the window New UI](https://learn.microsoft.com/en-us/azure/cloud-shell/new-ui-shell-window)
     - [Use the Cloud Shell editor Classic UI](https://learn.microsoft.com/en-us/azure/cloud-shell/using-cloud-shell-editor)
     - [Persist files in storage](https://learn.microsoft.com/en-us/azure/cloud-shell/persisting-shell-storage)
     - [Predictive IntelliSense in Cloud Shell](https://learn.microsoft.com/en-us/azure/cloud-shell/cloud-shell-predictive-intellisense)
     - [FAQ & Troubleshooting](https://learn.microsoft.com/en-us/azure/cloud-shell/faq-troubleshooting)
-  - Deploy Cloud Shell in a virtual network
+  - Deploy Azure Cloud Shell in a virtual network
     - [Overview](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/overview)
     - [Deploy using quickstart templates](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/deployment)
     - [Connect to storage using a private endpoint](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/how-to-use-private-endpoint-storage)
     - [Troubleshoot Azure Cloud Shell in a virtual network](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/troubleshooting)
-  - Pricing
-    - [Cloud Shell pricing](https://learn.microsoft.com/en-us/azure/cloud-shell/pricing)
-    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
   - Security
+    - [Allow multiple users to use a single storage account and file share](https://learn.microsoft.com/en-us/azure/cloud-shell/security/how-to-support-multiple-users)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/cloud-shell-security-baseline?bc=%2fazure%2fbread%2ftoc.json&toc=%2fazure%2fcloud-shell%2ftoc.json)
+  - Pricing
+    - [Azure Cloud Shell pricing](https://learn.microsoft.com/en-us/azure/cloud-shell/pricing)
+    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/azure/)

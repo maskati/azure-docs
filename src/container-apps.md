@@ -35,6 +35,8 @@
     - [Deployment options](https://learn.microsoft.com/en-us/azure/container-apps/code-to-cloud-options)
     - [Deploy an app with containerapp up](https://learn.microsoft.com/en-us/azure/container-apps/containerapp-up)
     - [Create and deploy a container app using the CLI](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-deploy-first-app-cli)
+    - [Create and deploy a container app from code](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-deploy-from-code)
+    - [Update a container app deployed from code](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-update-from-code)
     - Connect to apps & services
       - Connect to services
         - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/services)

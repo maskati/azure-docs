@@ -129,7 +129,6 @@
           - [Extract and view profile information](https://learn.microsoft.com/en-us/azure/virtual-wan/about-vpn-profile-download)
           - [Intune- Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-profile-intune)
         - [Azure VPN client optional settings](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations-windows)
-        - [OpenVPN client software configuration](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-openvpn-clients)
       - Configure Always On tunnels
         - [User tunnel](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-user-tunnel)
         - [Device tunnel](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-device-tunnel)
