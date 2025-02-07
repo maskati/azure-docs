@@ -22,6 +22,7 @@
       - [Support for data types in different clouds](https://learn.microsoft.com/en-us/azure/sentinel/data-type-cloud-support)
       - [Feature support in different clouds](https://learn.microsoft.com/en-us/azure/sentinel/feature-availability)
       - [Regional availability](https://azure.microsoft.com/global-infrastructure/services/?products=azure-sentinel)
+      - [Business continuity and disaster recovery](https://learn.microsoft.com/en-us/azure/sentinel/business-continuity-disaster-recovery)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/sentinel-security-baseline?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
   - Deploy
     - [Enable Microsoft Sentinel and initial features and content](https://learn.microsoft.com/en-us/azure/sentinel/enable-sentinel-features-content)
@@ -558,7 +559,9 @@
       - [Monitor and optimize execution of analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/monitor-optimize-analytics-rule-execution)
       - [Audit and monitor the health of analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/monitor-analytics-rule-integrity)
     - [Auditing Microsoft Sentinel with Azure Activity Logs](https://learn.microsoft.com/en-us/azure/sentinel/audit-sentinel-data)
-    - [Remove Microsoft Sentinel from your workspaces](https://learn.microsoft.com/en-us/azure/sentinel/offboard)
+    - Remove Microsoft Sentinel from your workspace
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/offboard-implications)
+      - [Remove Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/offboard)
   - Troubleshoot
     - [Troubleshoot AWS S3 connector issues](https://learn.microsoft.com/en-us/azure/sentinel/aws-s3-troubleshoot)
   - Reference
@@ -570,6 +573,7 @@
       - [Partner integrations best practices](https://learn.microsoft.com/en-us/azure/sentinel/partner-integrations)
       - [Creating codeless data connectors CCP](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector)
       - [Creating analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-analytic-rules-creation)
+      - [Creating hunting queries](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-hunting-rules-creation)
       - [Creating workbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-workbook-creation)
       - [Creating playbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-playbook-creation)
       - [Creating ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-develop-parsers)

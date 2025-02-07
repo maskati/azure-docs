@@ -20,6 +20,9 @@
         - [Azure portal](https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-portal)
         - [Command line](https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-cli)
   - Key concepts
+    - Compute and billing structures
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/structure)
+      - [Consumption-only environment type](https://learn.microsoft.com/en-us/azure/container-apps/environment-type-consumption-only)
     - [Compare container options in Azure](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
     - [Plans](https://learn.microsoft.com/en-us/azure/container-apps/plans)
     - [Environment](https://learn.microsoft.com/en-us/azure/container-apps/environment)
@@ -89,6 +92,7 @@
     - [Logging options](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
     - [Log streaming](https://learn.microsoft.com/en-us/azure/container-apps/log-streaming)
     - [Container console](https://learn.microsoft.com/en-us/azure/container-apps/container-console)
+    - [Container debug console](https://learn.microsoft.com/en-us/azure/container-apps/container-debug-console)
     - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/metrics)
     - [Log monitoring](https://learn.microsoft.com/en-us/azure/container-apps/log-monitoring)
     - [Alerts](https://learn.microsoft.com/en-us/azure/container-apps/alerts)

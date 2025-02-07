@@ -95,40 +95,41 @@
         - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/nat-rules-vpn-gateway)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/nat-rules-vpn-gateway-powershell)
     - User VPN point-to-site
-      - P2S server configuration
-        - Certificate or RADIUS authentication
-          - Configure a P2S VPN
-            - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal)
-            - [PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-powershell)
-          - [Generate self-signed certificates](https://learn.microsoft.com/en-us/azure/virtual-wan/certificates-point-to-site)
-        - Microsoft Entra ID authentication
-          - [Configure P2S - Microsoft-registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway)
-          - [Configure P2S - manually registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad)
-          - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-register-custom-app)
-          - [Configure a tenant](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant)
-          - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-mfa)
-      - P2S client configuration
-        - Microsoft Entra authentication clients
-          - [Windows clients](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client)
-          - [macOS clients](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client-mac)
-          - [Multi-application Microsoft Entra authentication](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app)
-        - Certificate authentication clients
+      - Certificate or RADIUS authentication
+        - P2S server configuration
+          - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal)
+          - [PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-powershell)
+        - VPN client configuration
           - Windows clients
             - [Native VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows)
             - [Azure VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows)
             - OpenVPN client
               - [Version 2.x](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-2)
               - [Version 3.x](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3)
+          - Linux clients
+            - [Azure VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-azure-vpn-client-certificate-linux)
           - macOS and iOS clients
             - [Native VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac)
             - [OpenVPN client - macOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-mac)
             - [OpenVPN client - iOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-ios)
+          - [Generate self-signed certificates](https://learn.microsoft.com/en-us/azure/virtual-wan/certificates-point-to-site)
           - [Install client certificates](https://learn.microsoft.com/en-us/azure/virtual-wan/install-client-certificates)
+      - Microsoft Entra ID authentication
+        - P2S server configuration
+          - [Configure P2S - Microsoft-registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway)
+          - [Configure P2S - manually registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad)
+          - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-register-custom-app)
+          - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-mfa)
+          - [Configure a tenant](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant)
+          - [Configure a tenant for multiple application registration](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app)
+        - VPN client configuration
+          - [Windows clients](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client)
+          - [macOS clients](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client-mac)
         - VPN client profiles
           - [Download global and hub profiles](https://learn.microsoft.com/en-us/azure/virtual-wan/global-hub-profile)
           - [Extract and view profile information](https://learn.microsoft.com/en-us/azure/virtual-wan/about-vpn-profile-download)
           - [Intune- Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-profile-intune)
-        - [Azure VPN client optional settings](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations-windows)
+      - [Azure VPN client optional settings](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations-windows)
       - Configure Always On tunnels
         - [User tunnel](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-user-tunnel)
         - [Device tunnel](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-device-tunnel)
