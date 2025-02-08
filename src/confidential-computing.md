@@ -23,6 +23,7 @@
       - [Azure confidential VM options](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-options)
       - [FAQ for confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-vm-faq.yml)
       - [Guest attestation for confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/guest-attestation-confidential-vms)
+      - [Guest attestation Design for confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/guest-attestation-confidential-virtual-machines-design)
       - [About Azure confidential GPUs](https://learn.microsoft.com/en-us/azure/confidential-computing/gpu-options)
       - [Microsoft Defender for Cloud integration](https://learn.microsoft.com/en-us/azure/confidential-computing/guest-attestation-defender-for-cloud)
       - [Virtual TPMs in Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-tpms-in-azure-confidential-vm)

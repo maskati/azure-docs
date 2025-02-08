@@ -95,19 +95,20 @@
         - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/nat-rules-vpn-gateway)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/nat-rules-vpn-gateway-powershell)
     - User VPN point-to-site
-      - Certificate or RADIUS authentication
+      - Certificate authentication
         - P2S server configuration
           - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal)
           - [PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-powershell)
         - VPN client configuration
           - Windows clients
-            - [Native VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows)
+            - [Native VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-native)
             - [Azure VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows)
             - OpenVPN client
               - [Version 2.x](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-2)
               - [Version 3.x](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3)
           - Linux clients
             - [Azure VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-azure-vpn-client-certificate-linux)
+            - [OpenVPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-linux)
           - macOS and iOS clients
             - [Native VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac)
             - [OpenVPN client - macOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-mac)
@@ -116,8 +117,9 @@
           - [Install client certificates](https://learn.microsoft.com/en-us/azure/virtual-wan/install-client-certificates)
       - Microsoft Entra ID authentication
         - P2S server configuration
-          - [Configure P2S - Microsoft-registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway)
-          - [Configure P2S - manually registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad)
+          - [P2S - Microsoft-registered VPN client app](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway)
+          - [P2S - manually registered VPN client app](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad)
+          - [Change VPN client app to Microsoft-registered](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway-update)
           - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-register-custom-app)
           - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-mfa)
           - [Configure a tenant](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant)
