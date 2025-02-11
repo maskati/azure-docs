@@ -106,6 +106,7 @@
       - [Get a free Azure managed domain](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-azure-managed-domains)
       - [Add a custom domain](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-custom-verified-domains)
       - [Connect domain to send email](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/connect-email-communication-resource)
+      - [Email Resource Management](https://learn.microsoft.com/en-us/azure/communication-services/samples/email-resource-management)
       - Send email
         - [Send an email](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email)
         - [Send email to multiple recipients](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/send-email-to-multiple-recipients)
