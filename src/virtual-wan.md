@@ -125,13 +125,15 @@
           - [Configure a tenant](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant)
           - [Configure a tenant for multiple application registration](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app)
         - VPN client configuration
-          - [Windows clients](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client)
+          - [Windows clients](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-windows)
           - [macOS clients](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client-mac)
+          - [Linux clients](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-linux)
         - VPN client profiles
           - [Download global and hub profiles](https://learn.microsoft.com/en-us/azure/virtual-wan/global-hub-profile)
           - [Extract and view profile information](https://learn.microsoft.com/en-us/azure/virtual-wan/about-vpn-profile-download)
           - [Intune- Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-profile-intune)
-      - [Azure VPN client optional settings](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations-windows)
+      - [Azure VPN client - optional settings](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations-windows)
+      - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-versions)
       - Configure Always On tunnels
         - [User tunnel](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-user-tunnel)
         - [Device tunnel](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-device-tunnel)

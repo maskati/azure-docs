@@ -1,5 +1,5 @@
 # Azure Managed Grafana documentation
-> This Azure Managed Grafa documentation page links to resources to learn how to use Azure Managed Grafana. On this page, access quickstarts, how-to guides and tutorials to create, configure and manage Azure Managed Grafana workspaces, Grafana in Azure.
+> This Azure Managed Grafana documentation page links to resources to learn how to use Azure Managed Grafana. On this page, access quickstarts, how-to guides and tutorials to create, configure and manage Azure Managed Grafana workspaces, Grafana in Azure.
   - [Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/)
   - Overview
     - [About Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/overview)
@@ -13,13 +13,13 @@
   - Concepts
     - [Service reliability](https://learn.microsoft.com/en-us/azure/managed-grafana/high-availability)
     - [Encryption](https://learn.microsoft.com/en-us/azure/managed-grafana/encryption)
-    - [Azure RBAC](https://learn.microsoft.com/en-us/azure/managed-grafana/concept-role-based-access-control)
+    - [Grafana settings](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-settings)
   - How-to guides
     - Access and sharing
-      - [Configure authentication and permissions](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-authentication-permissions)
+      - [Configure Grafana resource authentication and permissions](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-authentication-permissions)
       - [Modify access permissions to Azure Monitor](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-permissions)
-      - [Sync teams with Microsoft Entra groups](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-sync-teams-with-entra-groups)
-      - [Share a workspace](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-share-grafana-workspace)
+      - [Manage access and permissions for users and identities](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-manage-access-permissions-users-identities)
+      - [Use Grafana Team Sync](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-sync-teams-with-entra-groups)
     - Data sources
       - [Configure data sources](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-data-source-plugins-managed-identity)
       - [Add an Azure Monitor workspace](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-connect-azure-monitor-workspace)

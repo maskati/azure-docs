@@ -78,8 +78,6 @@
       - [Join virtual network](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-deploy-ssis-virtual-network)
     - Lineage
       - [Push Data Factory lineage data to Microsoft Purview](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-push-lineage-to-purview)
-    - End-to-end labs
-      - [Data integration using data factory and data share](https://learn.microsoft.com/en-us/azure/data-factory/lab-data-flow-data-share)
     - Managed virtual network
       - [Access on premises SQL Server](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-managed-virtual-network-on-premise-sql-server)
       - [Access SQL Managed Instance](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-managed-virtual-network-sql-managed-instance)
