@@ -126,7 +126,7 @@
           - [Configure a tenant for multiple application registration](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app)
         - VPN client configuration
           - [Windows clients](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-windows)
-          - [macOS clients](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client-mac)
+          - [macOS clients](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-mac)
           - [Linux clients](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-linux)
         - VPN client profiles
           - [Download global and hub profiles](https://learn.microsoft.com/en-us/azure/virtual-wan/global-hub-profile)

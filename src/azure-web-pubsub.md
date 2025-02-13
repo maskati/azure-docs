@@ -154,4 +154,4 @@
     - [Solutions](https://learn.microsoft.com/azure/architecture/)
     - [FAQs](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/resource-faq)
     - [Microsoft Q&A](https://learn.microsoft.com/answers/topics/azure-web-pubsub.html)
-    - [StackOverflow](https://stackoverflow.com/questions/tagged/azure-web-pubsub)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-web-pubsub)

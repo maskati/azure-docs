@@ -153,6 +153,7 @@
       - [.NET Framework builder](https://go.microsoft.com/fwlink/?linkid=2074663)
       - [Java Spring provider](https://go.microsoft.com/fwlink/?linkid=2180917)
       - [Python provider](https://pypi.org/project/azure-appconfiguration-provider/)
+      - [JavaScript provider](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-javascript-provider)
       - [Azure SDK for .NET](https://go.microsoft.com/fwlink/?linkid=2092056)
       - [Azure SDK for Java](https://go.microsoft.com/fwlink/?linkid=2098196)
       - [Azure SDK for Python](https://go.microsoft.com/fwlink/?linkid=2103727)

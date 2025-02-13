@@ -165,20 +165,26 @@
   - Advanced messaging with WhatsApp
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-overview)
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/pricing)
-    - [Try advanced messaging for WhatsApp](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-sandbox-quickstart)
     - [Advanced messaging for WhatsApp terms of service](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-terms-of-service)
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
     - [WhatsApp business account FAQ](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-business-account-faq)
-    - [Download media payload](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/download-media)
     - Logging and analytics
       - [Advanced Messaging logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/logs)
       - [Message analysis](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/message-analysis/message-analysis)
       - [Message analysis transparency FAQ](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/message-analysis/message-analysis-transparency-faq)
     - Samples and tutorials
-      - [Send WhatsApp messages](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/get-started)
-      - [Send WhatsApp template messages](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/template-messages)
-      - [Handle advanced messaging events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/handle-advanced-messaging-events)
-      - [Enable message analysis With Azure OpenAI](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/message-analysis/message-analysis-with-azure-openai-quickstart)
+      - [Try Advanced Messaging Sandbox](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-sandbox-quickstart)
+      - [Register WhatsApp Business Account](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/connect-whatsapp-business-account)
+      - Send WhatsApp Messages
+        - [Text and Media messages](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/get-started)
+        - [Template messages](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/send-template-messages)
+        - [Interactive messages](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/send-interactive-messages)
+        - [Reaction messages](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/send-reaction-messages)
+        - [Sticker messages](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/send-sticker-messages)
+      - [Handle Advanced messaging events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/handle-advanced-messaging-events)
+      - [Download media payload](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/download-media)
+      - [WhatsApp business account FAQ](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-business-account-faq)
+      - [Enable Message Analysis With Azure OpenAI](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/message-analysis/message-analysis-with-azure-openai-quickstart)
     - References
       - [Messages Java](https://learn.microsoft.com/java/api/overview/azure/communication-messages-readme)
       - [Messages JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-messages-rest-readme)

@@ -214,6 +214,7 @@
     - Concepts
       - [Spark best practices on HDInsight](https://learn.microsoft.com/en-us/azure/hdinsight/spark/spark-best-practices)
       - [Configure Apache Spark settings](https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-settings)
+      - [What is speculative execution in Spark?](https://learn.microsoft.com/en-us/azure/hdinsight/spark/what-is-speculative-execution-in-spark)
       - Optimization
         - [Optimize Apache Spark jobs](https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-perf)
         - [Optimize data processing](https://learn.microsoft.com/en-us/azure/hdinsight/spark/optimize-data-processing)
