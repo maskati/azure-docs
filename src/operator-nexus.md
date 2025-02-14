@@ -30,6 +30,7 @@
         - [Isolation Domain configuration](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-isolation-domain-configuration)
         - [Technical requirements for Isolation Domains](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-isolation-domain-technical-requirements)
       - [Access Control Lists](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-access-control-lists)
+      - [Network Fabric OptionA and OptionB](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-optionA-optionB)
     - Nexus Kubernetes Cluster
       - [Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-kubernetes-cluster)
       - [Resource Placement](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-kubernetes-placement)
@@ -158,6 +159,7 @@
       - [Troubleshoot Bare Metal Machine](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-reboot-reimage-replace)
       - [Troubleshoot Bare Metal Machine Provisioning](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-bare-metal-machine-provisioning)
       - [Troubleshoot Hardware Validation Failure](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-hardware-validation-failure)
+      - [Troubleshoot Degraded status](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-bare-metal-machine-degraded)
       - [Troubleshoot Control Plane Quorum](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-control-plane-quorum)
       - [Troubleshoot Accepted Cluster Resource](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-accepted-cluster-hydration)
       - [Troubleshoot Out of Memory Pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-memory-limits)

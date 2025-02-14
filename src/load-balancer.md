@@ -27,9 +27,9 @@
     - Scaling and availability
       - [Load balance a VM within a specific availability zone](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zonal-portal)
       - [Load balance VMs with multiple availability sets](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-multi-availability-sets-portal)
-    - Cross-region load balancer
-      - [Create cross-region load balancer - Portal](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-cross-region-portal)
-      - [Deploy cross-region load balancer - ARM template](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-deploy-cross-region-load-balancer-template)
+    - Globalload balancer
+      - [Create global load balancer - Portal](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-cross-region-portal)
+      - [Deploy global load balancer - ARM template](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-deploy-cross-region-load-balancer-template)
     - Gateway load balancer
       - [Create gateway load balancer - Portal](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-portal)
       - [Create gateway load balancer - PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-powershell)
@@ -51,10 +51,10 @@
     - [Distribution modes](https://learn.microsoft.com/en-us/azure/load-balancer/distribution-mode-concepts)
     - [Health probes](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-custom-probe-overview)
     - [Cross-subscription load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/cross-subscription-overview)
-    - [Cross-region load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/cross-region-overview)
+    - [Global load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/cross-region-overview)
     - [Administrative state](https://learn.microsoft.com/en-us/azure/load-balancer/admin-state-overview)
     - Reliability
-      - [Availability zones and cross-region load balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer?toc=/azure/load-balancer/toc.json&bc=/azure/load-balancer/breadcrumb/toc.json)
+      - [Availability zones and global load balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer?toc=/azure/load-balancer/toc.json&bc=/azure/load-balancer/breadcrumb/toc.json)
       - [Availability zone migration](https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer?toc=/azure/load-balancer/toc.json&bc=/azure/load-balancer/breadcrumb/toc.json)
     - Gateway load balancer
       - [Overview](https://learn.microsoft.com/en-us/azure/load-balancer/gateway-overview)

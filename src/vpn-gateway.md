@@ -84,7 +84,7 @@
           - Linux clients
             - [Azure VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-client-linux-azure-vpn-client)
             - [OpenVPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-linux)
-            - [IKEv2 -strongSwan](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-ike-linux)
+            - [IKEv2 - strongSwan](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-ike-linux)
           - macOS and iOS clients
             - [Native VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-cert-mac)
             - [OpenVPN client - macOS](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-mac)
@@ -92,7 +92,7 @@
         - Generate self-signed certificates
           - .cer and .pfx files
             - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site)
-            - [Makecert](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-makecert)
+            - [MakeCert](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-makecert)
           - .pem files
             - [Linux - OpenSSL](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificates-linux-openssl)
             - [Linux - strongSwan](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-linux)

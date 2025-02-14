@@ -515,6 +515,7 @@
       - [Phone capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/phone-capabilities)
       - [Meeting capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/meeting-capabilities)
       - [Teams client experience](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/teams-client-experience)
+      - [Teams shared line appearance](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/teams-shared-line-appearance)
       - [Teams license requirements](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/eligible-teams-licenses)
       - [Microsoft Entra API permissions](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/teams-user/azure-ad-api-permissions)
       - [Firewall configuration](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/custom-teams-endpoint-firewall-configuration)
