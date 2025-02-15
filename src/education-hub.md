@@ -13,7 +13,6 @@
   - Quickstarts
     - Azure Classroom
       - [Access the Education Hub](https://learn.microsoft.com/en-us/azure/education-hub/access-education-hub)
-      - [Get started with Azure Classroom](https://learn.microsoft.com/en-us/azure/education-hub/get-started-education-hub)
       - [Set up a lab](https://learn.microsoft.com/en-us/azure/education-hub/set-up-lab)
     - Azure Dev Tools for Teaching
       - [Enroll or renew a subscription](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/enroll-renew-subscription)
@@ -26,8 +25,6 @@
       - [Use a script to automate lab functionality](https://learn.microsoft.com/en-us/azure/education-hub/full-api-script)
       - [Create a lab with REST APIs](https://learn.microsoft.com/en-us/azure/education-hub/create-lab-education-hub)
       - [Add students to a lab with REST APIs](https://learn.microsoft.com/en-us/azure/education-hub/add-student-api)
-      - [Delete a lab with REST APIs](https://learn.microsoft.com/en-us/azure/education-hub/delete-lab-education-hub-apis)
-      - [Find IDs for calling Azure Education Hub APIs](https://learn.microsoft.com/en-us/azure/education-hub/find-ids)
     - Azure Dev Tools for Teaching
       - [Download software](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/download-software)
       - [Manage students](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/manage-students)

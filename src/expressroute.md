@@ -71,6 +71,7 @@
         - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-arm)
         - [Azure CLI](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-cli)
+    - [Convert legacy connections](https://learn.microsoft.com/en-us/azure/expressroute/howto-recreate-connections)
     - Configure route filters for Microsoft peering
       - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-powershell)

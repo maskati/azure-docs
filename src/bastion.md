@@ -3,6 +3,7 @@
   - [Bastion documentation](https://learn.microsoft.com/en-us/azure/bastion/)
   - Overview
     - [What is Azure Bastion?](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
+    - [What's new in Bastion?](https://learn.microsoft.com/en-us/azure/bastion/whats-new)
   - Quickstarts
     - [Deploy Bastion automatically](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
     - [Deploy Bastion automatically - Developer SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer-sku)
@@ -11,7 +12,6 @@
   - Tutorials
     - [Deploy Bastion using manually specified settings](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
   - Concepts
-    - [What's new in Bastion?](https://learn.microsoft.com/en-us/azure/bastion/whats-new)
     - Work remotely
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fbastion%2ftoc.json)
       - [Leverage Bastion for remote working](https://learn.microsoft.com/en-us/azure/bastion/work-remotely-support)

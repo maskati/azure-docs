@@ -149,17 +149,26 @@
           - [Throttling](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-throttling)
           - [Versioning](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-versioning)
     - Client libraries
-      - [.NET provider](https://learn.microsoft.com/dotnet/api/Microsoft.Extensions.Configuration.AzureAppConfiguration)
-      - [.NET Framework builder](https://go.microsoft.com/fwlink/?linkid=2074663)
-      - [Java Spring provider](https://go.microsoft.com/fwlink/?linkid=2180917)
-      - [Python provider](https://pypi.org/project/azure-appconfiguration-provider/)
-      - [JavaScript provider](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-javascript-provider)
-      - [Azure SDK for .NET](https://go.microsoft.com/fwlink/?linkid=2092056)
-      - [Azure SDK for Java](https://go.microsoft.com/fwlink/?linkid=2098196)
-      - [Azure SDK for Python](https://go.microsoft.com/fwlink/?linkid=2103727)
-      - [Azure SDK for JavaScript](https://go.microsoft.com/fwlink/?linkid=2103664)
-      - [Azure SDK for Go](https://go.microsoft.com/fwlink/?linkid=2270866)
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/configuration-provider-overview)
+      - .NET
+        - [API reference](https://learn.microsoft.com/dotnet/api/Microsoft.Extensions.Configuration.AzureAppConfiguration)
+        - [Azure SDK for .NET](https://go.microsoft.com/fwlink/?linkid=2092056)
+        - [.NET Framework builder](https://go.microsoft.com/fwlink/?linkid=2074663)
+      - Java Spring
+        - [Feature reference](https://go.microsoft.com/fwlink/?linkid=2180917)
+        - [Azure SDK for Java](https://go.microsoft.com/fwlink/?linkid=2098196)
+      - Python
+        - [Feature reference](https://pypi.org/project/azure-appconfiguration-provider/)
+        - [Azure SDK for Python](https://go.microsoft.com/fwlink/?linkid=2103727)
+      - JavaScript
+        - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-javascript-provider)
+        - [Azure SDK for JavaScript](https://go.microsoft.com/fwlink/?linkid=2103664)
+      - Kubernetes
+        - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-kubernetes-provider)
+      - Go
+        - [Azure SDK for Go](https://go.microsoft.com/fwlink/?linkid=2270866)
     - Feature management
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-management-overview)
       - .NET
         - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-management-dotnet-reference)
         - [API reference](https://learn.microsoft.com/dotnet/api/overview/azure/appconfiguration/featuremanagement)
@@ -174,7 +183,6 @@
       - [Terraform](https://learn.microsoft.com/azure/templates/microsoft.appconfiguration/configurationstores?pivots=deployment-language-terraform)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/appconfig)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.appconfiguration/)
-    - [Kubernetes provider](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-kubernetes-provider)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/azure-app-configuration/policy-reference)
   - Resources
     - [Pricing](https://azure.microsoft.com/pricing/details/app-configuration/)
