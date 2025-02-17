@@ -5,6 +5,7 @@
     - [What is Azure RBAC?](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
     - [What is Azure ABAC?](https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-overview)
     - [Understand the different roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles)
+    - [What's new in docs](https://learn.microsoft.com/en-us/azure/role-based-access-control/whats-new)
   - Quickstarts
     - [Check access for a user](https://learn.microsoft.com/en-us/azure/role-based-access-control/check-access)
     - [Bicep](https://learn.microsoft.com/en-us/azure/role-based-access-control/quickstart-role-assignments-bicep)

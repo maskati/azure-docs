@@ -63,9 +63,6 @@
       - [Retrieve IP addresses](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-ip-addresses)
       - [Defend against DDoS attacks](https://learn.microsoft.com/en-us/azure/api-management/protect-with-ddos-protection)
       - [Configure Front Door](https://learn.microsoft.com/en-us/azure/api-management/front-door-api-management)
-    - Workspaces
-      - [Workspaces overview](https://learn.microsoft.com/en-us/azure/api-management/workspaces-overview)
-      - [Create a workspace](https://learn.microsoft.com/en-us/azure/api-management/how-to-create-workspace)
     - Configuration management
       - [Landing zone accelerator](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/app-platform/api-management/landing-zone-accelerator?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
       - [Manage using automation](https://learn.microsoft.com/en-us/azure/api-management/automation-manage-api-management)
@@ -155,16 +152,18 @@
     - [Use Microsoft Entra authentication on self-hosted gateway](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-enable-azure-ad)
     - [Guidance for running on Kubernetes](https://learn.microsoft.com/en-us/azure/api-management/how-to-self-hosted-gateway-on-kubernetes-in-production)
     - [Support policy for self-hosted gateway](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-support-policies)
-  - Secure your APIs
-    - Secure API access
-      - [API authentication and authorization options](https://learn.microsoft.com/en-us/azure/api-management/authentication-authorization-overview)
-      - [Protect your API with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-protect-backend-with-aad)
-      - [Protect your API with Azure AD B2C](https://learn.microsoft.com/en-us/azure/api-management/howto-protect-backend-frontend-azure-ad-b2c)
-      - [Secure APIs using client certificate authentication](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-mutual-certificates-for-clients)
-      - [Manage CA certificates](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-ca-certificates)
-      - [Manage protocols and ciphers](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-manage-protocols-ciphers)
-      - [Protect with Defender for APIs](https://learn.microsoft.com/en-us/azure/api-management/protect-with-defender-for-apis)
-      - [Mitigate OWASP API threats](https://learn.microsoft.com/en-us/azure/api-management/mitigate-owasp-api-threats)
+  - Workspaces for federated API management
+    - [Workspaces overview](https://learn.microsoft.com/en-us/azure/api-management/workspaces-overview)
+    - [Create a workspace](https://learn.microsoft.com/en-us/azure/api-management/how-to-create-workspace)
+  - Secure API access
+    - [API authentication and authorization options](https://learn.microsoft.com/en-us/azure/api-management/authentication-authorization-overview)
+    - [Protect your API with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-protect-backend-with-aad)
+    - [Protect your API with Azure AD B2C](https://learn.microsoft.com/en-us/azure/api-management/howto-protect-backend-frontend-azure-ad-b2c)
+    - [Secure APIs using client certificate authentication](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-mutual-certificates-for-clients)
+    - [Manage CA certificates](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-ca-certificates)
+    - [Manage protocols and ciphers](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-manage-protocols-ciphers)
+    - [Protect with Defender for APIs](https://learn.microsoft.com/en-us/azure/api-management/protect-with-defender-for-apis)
+    - [Mitigate OWASP API threats](https://learn.microsoft.com/en-us/azure/api-management/mitigate-owasp-api-threats)
     - Manage API credentials
       - [Credential manager overview](https://learn.microsoft.com/en-us/azure/api-management/credentials-overview)
       - [Managed connections - process flows](https://learn.microsoft.com/en-us/azure/api-management/credentials-process-flow)

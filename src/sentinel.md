@@ -633,7 +633,6 @@
       - [Enrich entities with geolocation data with REST-API](https://learn.microsoft.com/en-us/azure/sentinel/geolocation-data-api)
       - [Threat intelligence upload API reference](https://learn.microsoft.com/en-us/azure/sentinel/stix-objects-api)
       - [Legacy upload indicator API reference](https://learn.microsoft.com/en-us/azure/sentinel/upload-indicators-api)
-    - [Compare playbooks, workbooks, and notebooks](https://learn.microsoft.com/en-us/azure/sentinel/resources)
     - [Operations guide](https://learn.microsoft.com/en-us/azure/sentinel/ops-guide)
   - Resources
     - [Sample workspace architecture](https://learn.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
