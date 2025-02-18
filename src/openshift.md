@@ -30,6 +30,7 @@
       - [Configure custom DNS](https://learn.microsoft.com/en-us/azure/openshift/howto-custom-dns)
       - [Configure DNS forwarding](https://learn.microsoft.com/en-us/azure/openshift/dns-forwarding)
       - [Restrict egress traffic](https://learn.microsoft.com/en-us/azure/openshift/howto-restrict-egress)
+      - [Migrate from OpenShift SDN to OVN-Kubernetes](https://learn.microsoft.com/en-us/azure/openshift/howto-sdn-to-ovn)
     - Storage
       - [Encrypt cluster data with customer-managed key](https://learn.microsoft.com/en-us/azure/openshift/howto-byok)
       - [Create an Azure Files Storageclass](https://learn.microsoft.com/en-us/azure/openshift/howto-create-a-storageclass)

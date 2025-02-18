@@ -57,3 +57,4 @@
     - [Q&A](https://aka.ms/managed-grafana/q-n-a)
     - [Feature request](https://aka.ms/managed-grafana/feature-request)
     - [Support](https://learn.microsoft.com/en-us/azure/managed-grafana/find-help-open-support-ticket)
+    - [VS Code extension for Grafana](https://marketplace.visualstudio.com/items?itemName=Grafana.grafana-vscode)
