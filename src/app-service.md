@@ -198,6 +198,7 @@
       - [Deploy with Azure Pipelines](https://learn.microsoft.com/en-us/azure/app-service/deploy-container-azure-pipelines)
   - Integrate AI with App Service
     - [Deploy an application that uses OpenAI on App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps)
+    - [Run an SLM in sidecar](https://learn.microsoft.com/en-us/azure/app-service/tutorial-sidecar-local-small-language-model)
     - [Deploy a .NET app with Azure OpenAI and Azure SQL](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps-dotnet-to-azure-sql)
   - WordPress
     - [WordPress overview](https://learn.microsoft.com/en-us/azure/app-service/overview-wordpress)

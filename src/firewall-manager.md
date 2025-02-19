@@ -46,7 +46,6 @@
     - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
   - Resources
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
     - [Community templates](https://azure.microsoft.com/documentation/templates)
     - [Pricing](https://azure.microsoft.com/pricing/details/firewall-manager/)
     - [Regional availability](https://azure.microsoft.com/regions/services/)

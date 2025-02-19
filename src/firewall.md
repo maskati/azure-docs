@@ -116,7 +116,6 @@
     - [FAQ](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq.yml)
     - [Known issues and limitations](https://learn.microsoft.com/en-us/azure/firewall/firewall-known-issues)
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
     - [Community templates](https://azure.microsoft.com/documentation/templates)
     - [Pricing](https://azure.microsoft.com/pricing/details/azure-firewall/)
     - [Regional availability](https://azure.microsoft.com/regions/services/)

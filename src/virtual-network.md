@@ -157,8 +157,7 @@
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/virtual-network/policy-reference)
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
-    - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)
-    - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Networking blog](https://azure.microsoft.com/blog/category/networking)
     - [Microsoft Q&A question page for Networking](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
     - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
     - [Pricing](https://azure.microsoft.com/pricing/details/virtual-network)

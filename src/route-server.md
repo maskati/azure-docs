@@ -31,8 +31,7 @@
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/routeserver)
   - Resources
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
-    - [Networking Blog](https://azure.microsoft.com/blog/topics/networking/)
+    - [Networking Blog](https://azure.microsoft.com/blog/category/networking/)
     - [Pricing](https://azure.microsoft.com/pricing/details/route-server/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=routeserver)

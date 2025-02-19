@@ -186,7 +186,6 @@
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/vnet-gateway)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway-reference)
   - Resources
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
     - [Blog](https://azure.microsoft.com/blog/topics/networking)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
     - [Subscription and service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/vpn-gateway/toc.json)

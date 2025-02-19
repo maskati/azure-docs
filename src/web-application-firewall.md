@@ -115,7 +115,6 @@
     - [Python](https://azure.microsoft.com/develop/python/)
   - Resources
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
     - [Community templates](https://azure.microsoft.com/documentation/templates)
     - [Pricing](https://azure.microsoft.com/pricing/details/web-application-firewall/)
     - [Regional availability](https://azure.microsoft.com/regions/services/)

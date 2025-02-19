@@ -78,9 +78,8 @@
   - Resources
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax?toc=%2fazure%2fnetworking%2ftoc.json)
     - [Providers](https://learn.microsoft.com/en-us/azure/networking/networking-partners-msp)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
     - [Community templates](https://azure.microsoft.com/resources/templates/)
-    - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Networking blog](https://azure.microsoft.com/blog/category/networking/)
     - [Pricing](https://azure.microsoft.com/pricing)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Regional availability](https://azure.microsoft.com/regions/services/)

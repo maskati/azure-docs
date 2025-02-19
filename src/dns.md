@@ -133,10 +133,9 @@
         - [Manages a private DNS resolver outbound endpoint](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/private_dns_resolver_outbound_endpoint)
         - [Manages a private DNS resolver DNS forwarding ruleset](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/private_dns_resolver_dns_forwarding_ruleset)
   - Resources
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
     - [Feature requests](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789?c429912-8326-ec11-b6e6-000d3a4f0789)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/143/azure-virtual-network)
-    - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Networking blog](https://azure.microsoft.com/blog/category/networking)
     - [Pricing](https://azure.microsoft.com/pricing/details/dns/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=dns)

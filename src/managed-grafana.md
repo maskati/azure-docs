@@ -41,7 +41,7 @@
       - [Enable zone redundancy](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-enable-zone-redundancy)
     - Administration and automation
       - [Use service accounts](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-service-accounts)
-      - [Monitor Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-monitor-managed-grafana-workspace)
+      - [Monitor using diagnostic settings](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-monitor-managed-grafana-workspace)
     - [Migrate to Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-migrate)
     - [Configure Grafana settings](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-settings)
     - [Troubleshoot common issues](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-managed-grafana)

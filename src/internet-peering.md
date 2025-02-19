@@ -48,6 +48,5 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/allversions)
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
-    - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)
-    - [Networking blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Networking blog](https://azure.microsoft.com/blog/category/networking)
     - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)

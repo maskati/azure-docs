@@ -225,6 +225,7 @@
         - [Transfer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/transfer-calls)
         - [Get local capabilities](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/capabilities)
         - [View PowerPoint Live](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/powerpoint-live)
+        - [Shared Line appearance](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/cte-calling-sdk/shared-line-appearance)
       - Call flows and networking
         - [Network recommendations](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/network-requirements)
         - [Call networking internals](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-flows)

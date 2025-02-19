@@ -77,7 +77,6 @@
     - [.NET SDK](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.network)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/networkmanagers)
   - Resources
-    - [Azure roadmap](https://azure.microsoft.com/roadmap/?category=networking)
     - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
     - [Microsoft Q&A question page for Networking](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
     - [Pricing](https://azure.microsoft.com/pricing/details/virtual-network-manager/)

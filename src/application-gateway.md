@@ -186,7 +186,6 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/applicationgateways)
   - Resources
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
     - [Community templates](https://azure.microsoft.com/resources/templates/)
     - [Pricing](https://azure.microsoft.com/pricing/details/application-gateway/)
     - [Regional availability](https://azure.microsoft.com/global-infrastructure/services/)

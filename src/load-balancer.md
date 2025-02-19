@@ -27,7 +27,7 @@
     - Scaling and availability
       - [Load balance a VM within a specific availability zone](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zonal-portal)
       - [Load balance VMs with multiple availability sets](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-multi-availability-sets-portal)
-    - Globalload balancer
+    - Global load balancer
       - [Create global load balancer - Portal](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-cross-region-portal)
       - [Deploy global load balancer - ARM template](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-deploy-cross-region-load-balancer-template)
     - Gateway load balancer
@@ -150,7 +150,6 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/loadbalancers)
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/?products=azure-load-balancer)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
     - [Azure Load Balancer feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789?c=e8894060-8326-ec11-b6e6-000d3a4f0789)
     - [Pricing](https://azure.microsoft.com/pricing/details/load-balancer/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)

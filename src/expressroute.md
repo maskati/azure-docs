@@ -148,8 +148,7 @@
       - [Router configuration samples for NAT](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-config-samples-nat)
     - Backend Connectivity Interoperability
       - [Control Plane Analysis](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-control-plane?toc=/azure/expressroute/toc.json)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
-    - [Networking Blog](https://azure.microsoft.com/blog/topics/networking/)
+    - [Networking Blog](https://azure.microsoft.com/blog/category/networking/)
     - [Pricing](https://azure.microsoft.com/pricing/details/expressroute/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=expressroute)

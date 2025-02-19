@@ -67,7 +67,6 @@
     - [REST](https://learn.microsoft.com/rest/api/trafficmanager/)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/trafficmanagerprofiles)
   - Resources
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
     - [Blog](https://azure.microsoft.com/blog/topics/networking/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
     - [Pricing](https://azure.microsoft.com/pricing/details/traffic-manager/)
