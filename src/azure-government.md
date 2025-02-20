@@ -7,9 +7,6 @@
   - Quickstarts
     - [Azure Government portal](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-get-started-connect-with-portal)
     - [Azure CLI](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-get-started-connect-with-cli)
-    - DoD DISA STIGs
-      - [Deploy Linux VM](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-stig-linux-vm)
-      - [Deploy Windows VM](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-stig-windows-vm)
     - [PowerShell](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-get-started-connect-with-ps)
     - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-connect-vs)
   - Tutorials

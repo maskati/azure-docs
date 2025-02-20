@@ -25,7 +25,11 @@
       - [Understand Kerberos](https://learn.microsoft.com/en-us/azure/azure-netapp-files/kerberos)
       - [Understand guidelines for Active Directory Domain Services](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-guidelines-active-directory-domain-service-site)
       - [Understand DNS](https://learn.microsoft.com/en-us/azure/azure-netapp-files/domain-name-system-concept)
-      - [Understand the use of LDAP](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol)
+      - Understand LDAP
+        - [Understand LDAP basics](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol)
+        - [Understand name mapping using LDAP](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-name-mapping)
+        - [Understand the allow local NFS users with LDAP option](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-local-users)
+        - [Understand LDAP schemas](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-schemas)
       - [Understand NFS group memberships and supplemental groups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-file-system-group-memberships)
       - [Understand file locking](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-file-locks)
       - [Understand volume languages](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-volume-languages)

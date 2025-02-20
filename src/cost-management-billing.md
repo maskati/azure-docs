@@ -110,6 +110,7 @@
         - [Avoid charges](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/avoid-charges-free-account)
         - [Check usage](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/check-free-service-usage)
         - [Upgrade free account](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/upgrade-azure-subscription)
+        - [Microsoft Entra ID Free](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/microsoft-entra-id-free)
     - Manage payment methods
       - [Pay your Azure bill](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/pay-bill)
       - [Set up pay by wire transfer](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/pay-by-invoice)
