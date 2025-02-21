@@ -19,10 +19,12 @@
       - [Create a private zone - portal](https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal)
       - [Create a private zone - CLI](https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-cli)
       - [Create a private zone - PowerShell](https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-powershell)
+      - [Create a private zone - Terraform](https://learn.microsoft.com/en-us/azure/dns/dns-private-zone-terraform)
     - Private resolver
       - [Create a private resolver - portal](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-portal)
       - [Create a private resolver - PowerShell](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-powershell)
       - [Create a private resolver - Bicep](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-bicep)
+      - [Create a private resolver - Terraform](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-terraform)
       - [Create a private resolver - ARM Template](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-template)
   - Tutorials
     - Public DNS

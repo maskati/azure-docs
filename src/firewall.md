@@ -58,7 +58,7 @@
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/firewall-security-baseline?toc=/azure/firewall/toc.json)
     - [FTP support](https://learn.microsoft.com/en-us/azure/firewall/ftp-support)
     - [Performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-performance)
-    - [Long running TCP sessions](https://learn.microsoft.com/en-us/azure/firewall/long-running-sessions)
+    - [TCP idle timeout behavior](https://learn.microsoft.com/en-us/azure/firewall/long-running-sessions)
     - [Easy upgrade/downgrade](https://learn.microsoft.com/en-us/azure/firewall/easy-upgrade)
     - [Explicit Proxy](https://learn.microsoft.com/en-us/azure/firewall/explicit-proxy)
     - [Multi hub and spoke](https://learn.microsoft.com/en-us/azure/firewall/firewall-multi-hub-spoke)

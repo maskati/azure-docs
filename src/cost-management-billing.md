@@ -100,6 +100,7 @@
       - Download cost and billing information
         - [View and download your Azure invoice](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/download-azure-invoice)
         - [View and download your Azure usage and charges](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/download-azure-daily-usage)
+        - [Shared billing meter regions](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/billing-meter-location)
         - [Billing meter ID updates](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/billing-meter-id-updates)
         - [Download your invoice](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date)
         - [View and download tax documents](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-download-tax-document)

@@ -61,7 +61,7 @@
       - [Containerize ASP.NET apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service)
       - [Containerize Java web apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-app-service)
       - [Modernize ASP.NET web apps to App Service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-appservice-code)
-      - [Modernize ASP.NET web apps to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-aks)
+      - [Modernize ASP.NET web apps to AKS Retired](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-aks)
       - [CI/CD for Day 2 operations](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-azure-pipeline)
   - Concepts
     - General

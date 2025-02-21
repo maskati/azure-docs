@@ -53,6 +53,7 @@
       - [Create Standard workflows from templates - Portal](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-templates)
       - [Get AI-powered help from the workflow assistant](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-assistant-standard)
       - [Create Standard workflows - Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-visual-studio-code)
+      - [Export Standard from portal to Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/export-standard-logic-app-to-visual-studio-code)
       - [Create and run .NET code](https://learn.microsoft.com/en-us/azure/logic-apps/create-run-custom-code-functions)
       - [Add and run C# scripts](https://learn.microsoft.com/en-us/azure/logic-apps/add-run-csharp-scripts)
       - [Add and run PowerShell scripts](https://learn.microsoft.com/en-us/azure/logic-apps/add-run-powershell-scripts)
