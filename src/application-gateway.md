@@ -1,60 +1,34 @@
 # Azure Application Gateway documentation
 > Learn how to create application gateways. This documentation helps you plan, deploy, and manage web traffic to your Azure resources.
   - [Application Gateway documentation](https://learn.microsoft.com/en-us/azure/application-gateway/)
-  - Overview
-    - [About application gateways](https://learn.microsoft.com/en-us/azure/application-gateway/overview)
+  - Get started
+    - [Application Gateway overview](https://learn.microsoft.com/en-us/azure/application-gateway/overview)
     - [Application Gateway v2](https://learn.microsoft.com/en-us/azure/application-gateway/overview-v2)
     - [Application Gateway for Containers](https://learn.microsoft.com/en-us/azure/application-gateway/for-containers/overview)
-    - [Well-Architected review of Application Gateway](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-application-gateway?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json)
-  - Quickstarts
     - [Create Application Gateway - Portal](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-portal)
     - [Create Application Gateway - PowerShell](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-powershell)
     - [Create Application Gateway - Azure CLI](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-cli)
     - [Create Application Gateway - Bicep](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-bicep)
     - [Create Application Gateway - ARM template](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-template)
     - [Create Application Gateway - Terraform](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-terraform)
-  - Tutorials
-    - [Secure with SSL](https://learn.microsoft.com/en-us/azure/application-gateway/create-ssl-portal)
-    - [Host multiple sites](https://learn.microsoft.com/en-us/azure/application-gateway/create-multiple-sites-portal)
-    - [Route by URL](https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
-    - [Redirect web traffic](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-redirect-cli)
-    - [Autoscaling and zone redundant](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-autoscale-ps)
-    - [Ingress Controller add-on for AKS Greenfield](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-new)
-    - [Ingress Controller add-on for AKS Brownfield](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-existing)
-    - [Deploy Application Gateway with DDoS protection](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway)
-  - Concepts
+  - Design
+    - [Well-Architected review of Application Gateway](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-application-gateway?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json)
     - Basics
       - [Application Gateway features](https://learn.microsoft.com/en-us/azure/application-gateway/features)
       - [How Application Gateway works](https://learn.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works)
       - [Application Gateway components](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-components)
-      - Configuration
-        - [Overview](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-overview)
-        - [Infrastructure](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-infrastructure)
-        - [Frontend IP address](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-frontend-ip)
-        - [Listeners](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-listeners)
-        - [Request routing rules](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules)
-        - [HTTP settings](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-http-settings)
+    - Configuration
+      - [Overview](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-overview)
+      - [Infrastructure](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-infrastructure)
+      - [Frontend IP address](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-frontend-ip)
+      - [Listeners](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-listeners)
+      - [Request routing rules](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules)
+      - [HTTP settings](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-http-settings)
     - Routing
       - [Multi-site hosting](https://learn.microsoft.com/en-us/azure/application-gateway/multiple-site-overview)
       - [URL routing](https://learn.microsoft.com/en-us/azure/application-gateway/url-route-overview)
       - [Redirection](https://learn.microsoft.com/en-us/azure/application-gateway/redirect-overview)
       - [Rewrite HTTP headers and URL](https://learn.microsoft.com/en-us/azure/application-gateway/rewrite-http-headers-url)
-    - Security
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)
-      - [Private Deployment](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-private-deployment)
-      - [Private Link](https://learn.microsoft.com/en-us/azure/application-gateway/private-link)
-    - SSL
-      - [SSL termination and end to end SSL](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-overview)
-      - [SSL policy overview](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-ssl-policy-overview)
-      - [Mutual authentication](https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-overview)
-      - [Using Key Vault](https://learn.microsoft.com/en-us/azure/application-gateway/key-vault-certs)
-      - [SSL certificate management](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management)
-    - Health monitoring
-      - [Monitor Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/monitor-application-gateway)
-      - [Health probe](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-probe-overview)
-      - [Backend health](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-backend-health)
-      - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics)
-      - [Metrics](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-metrics)
     - [TCP/TLS proxy](https://learn.microsoft.com/en-us/azure/application-gateway/tcp-tls-proxy-overview)
     - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fapplication-gateway%2ftoc.json)
     - [High traffic support](https://learn.microsoft.com/en-us/azure/application-gateway/high-traffic-support)
@@ -63,7 +37,22 @@
     - [Ingress for AKS](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview)
     - [Understanding pricing](https://learn.microsoft.com/en-us/azure/application-gateway/understanding-pricing)
     - [FAQ](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq.yml)
-  - How-to guides
+  - Security
+    - [Private Deployment](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-private-deployment)
+    - [Private Link](https://learn.microsoft.com/en-us/azure/application-gateway/private-link)
+    - [Secure with SSL](https://learn.microsoft.com/en-us/azure/application-gateway/create-ssl-portal)
+    - [SSL termination and end to end SSL](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-overview)
+    - [SSL policy overview](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-ssl-policy-overview)
+    - [Mutual authentication](https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-overview)
+    - [Using Key Vault](https://learn.microsoft.com/en-us/azure/application-gateway/key-vault-certs)
+    - [SSL certificate management](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)
+  - Deploy
+    - [Host multiple sites](https://learn.microsoft.com/en-us/azure/application-gateway/create-multiple-sites-portal)
+    - [Route by URL](https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
+    - [Redirect web traffic](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-redirect-cli)
+    - [Autoscaling and zone redundant](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-autoscale-ps)
+    - [Deploy Application Gateway with DDoS protection](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway)
     - Configure TCP/TLS proxy
       - [Azure portal](https://learn.microsoft.com/en-us/azure/application-gateway/how-to-tcp-tls-proxy)
     - Host single site
@@ -93,8 +82,10 @@
         - [Configure SSL policy](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-configure-ssl-policy-powershell)
         - [Listener specific SSL policy](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-configure-listener-specific-ssl-policy)
     - Ingress for AKS
-      - [Ingress for AKS via Helm Brownfield](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-install-existing)
       - [Ingress for AKS via Helm Greenfield](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-install-new)
+      - [Ingress Controller add-on for AKS Greenfield](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-new)
+      - [Ingress for AKS via Helm Brownfield](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-install-existing)
+      - [Ingress Controller add-on for AKS Brownfield](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-existing)
       - [Migrate from Helm deployment to AKS add-on](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-migration)
       - [Disable and re-enable AKS Ingress Controller add-on](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-disable-addon)
       - [Enable cookie affinity](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-cookie-affinity)
@@ -150,28 +141,34 @@
     - Relocate
       - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-app-gateway?toc=/azure/application-gateway/toc.json)
       - [Migrate to availability zone support](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2?toc=/azure/application-gateway/toc.json)
-    - Troubleshoot
-      - [ILB with an App Service Environment](https://learn.microsoft.com/en-us/azure/application-gateway/create-gateway-internal-load-balancer-app-service-environment)
-      - [App service issues](https://learn.microsoft.com/en-us/azure/application-gateway/troubleshoot-app-service-redirection-app-service-url)
-      - [Session affinity issues](https://learn.microsoft.com/en-us/azure/application-gateway/how-to-troubleshoot-application-gateway-session-affinity-issues)
-      - [Bad Gateway 502 errors](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-troubleshooting-502)
-      - [HTTP response codes](https://learn.microsoft.com/en-us/azure/application-gateway/http-response-codes)
-      - [Mutual authentication](https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-troubleshooting)
-      - [Ingress for AKS](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-troubleshoot)
-      - [Resource Health](https://learn.microsoft.com/en-us/azure/application-gateway/resource-health-overview)
-      - [Use Log Analytics](https://learn.microsoft.com/en-us/azure/application-gateway/log-analytics)
-      - [Backend health issues](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-backend-health-troubleshooting)
-      - [Key Vault errors](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-key-vault-common-errors)
-      - [Disabled listeners](https://learn.microsoft.com/en-us/azure/application-gateway/disabled-listeners)
     - [Proxy buffer configuration](https://learn.microsoft.com/en-us/azure/application-gateway/proxy-buffers)
     - [Custom error pages](https://learn.microsoft.com/en-us/azure/application-gateway/custom-error)
     - Migrate to v2 SKU
       - [About v1 retirement](https://learn.microsoft.com/en-us/azure/application-gateway/v1-retirement)
       - [Migrate from v1 to v2](https://learn.microsoft.com/en-us/azure/application-gateway/migrate-v1-v2)
-      - [FAQ](https://learn.microsoft.com/en-us/azure/application-gateway/retirement-faq)
+      - [Migration FAQ](https://learn.microsoft.com/en-us/azure/application-gateway/retirement-faq)
     - [Configure alerts](https://learn.microsoft.com/en-us/azure/application-gateway/configure-alerts-with-templates)
     - [Classic to Resource Manager](https://learn.microsoft.com/en-us/azure/application-gateway/classic-to-resource-manager)
     - [Configure Private Link](https://learn.microsoft.com/en-us/azure/application-gateway/private-link-configure)
+  - Health monitoring
+    - [Monitor Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/monitor-application-gateway)
+    - [Health probe](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-probe-overview)
+    - [Backend health](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-backend-health)
+    - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics)
+    - [Metrics](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-metrics)
+  - Troubleshoot
+    - [ILB with an App Service Environment](https://learn.microsoft.com/en-us/azure/application-gateway/create-gateway-internal-load-balancer-app-service-environment)
+    - [App service issues](https://learn.microsoft.com/en-us/azure/application-gateway/troubleshoot-app-service-redirection-app-service-url)
+    - [Session affinity issues](https://learn.microsoft.com/en-us/azure/application-gateway/how-to-troubleshoot-application-gateway-session-affinity-issues)
+    - [Bad Gateway 502 errors](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-troubleshooting-502)
+    - [HTTP response codes](https://learn.microsoft.com/en-us/azure/application-gateway/http-response-codes)
+    - [Mutual authentication](https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-troubleshooting)
+    - [Ingress for AKS](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-troubleshoot)
+    - [Resource Health](https://learn.microsoft.com/en-us/azure/application-gateway/resource-health-overview)
+    - [Use Log Analytics](https://learn.microsoft.com/en-us/azure/application-gateway/log-analytics)
+    - [Backend health issues](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-backend-health-troubleshooting)
+    - [Key Vault errors](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-key-vault-common-errors)
+    - [Disabled listeners](https://learn.microsoft.com/en-us/azure/application-gateway/disabled-listeners)
   - Reference
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/application-gateway/monitor-application-gateway-reference)
     - [Ingress for AKS annotations](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-annotations)

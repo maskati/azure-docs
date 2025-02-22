@@ -54,6 +54,7 @@
     - [Use TLS downloads](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-tls-download)
     - [Configure private endpoints](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/configure-private-endpoints)
     - [Migrate devices to public preview refresh](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/migration-public-preview-refresh-to-ga)
+    - [Prepare for root key rotation](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-rootkey)
     - Troubleshoot
       - [Troubleshoot storage-related errors when importing updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/troubleshoot-storage)
       - [Troubleshoot device updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/troubleshoot-device-update)

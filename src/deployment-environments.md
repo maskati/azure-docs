@@ -3,7 +3,6 @@
   - [Azure Deployment Environments documentation](https://learn.microsoft.com/en-us/azure/deployment-environments/)
   - Overview
     - [What is Azure Deployment Environments?](https://learn.microsoft.com/en-us/azure/deployment-environments/overview-what-is-azure-deployment-environments)
-    - [Roadmap for Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/ade-roadmap)
   - Quickstarts
     - [Configure Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/quickstart-create-and-configure-devcenter)
     - [Create dev center and project Azure Resource Manager](https://learn.microsoft.com/en-us/azure/deployment-environments/quickstart-create-dev-center-project-azure-resource-manager)

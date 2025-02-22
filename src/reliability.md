@@ -216,9 +216,6 @@
     - Service availability
       - [Service availability by region](https://azure.microsoft.com/global-infrastructure/services/)
       - [Service availability by category](https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category)
-      - Service availability by sovereign cloud
-        - [US Government](https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Microsoft Azure operated by 21Vianet](https://learn.microsoft.com/en-us/azure/reliability/sovereign-cloud-china)
     - [Azure Reliability feature page](https://azure.microsoft.com/explore/reliability/)
     - [Reliability testing - Chaos engineering](https://learn.microsoft.com/azure/well-architected/resiliency/chaos-engineering)
     - [Reliability in Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/reliability)

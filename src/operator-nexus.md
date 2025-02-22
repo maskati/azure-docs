@@ -170,6 +170,7 @@
       - [Troubleshoot Resolve CSN storage pod stuck in ContainerCreating](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-csn-storage-pod-container-stuck-in-creating)
       - [Troubleshoot Internet host virtual machine](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-internet-host-virtual-machine)
       - [Troubleshoot VM errors after BMM restart](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-vm-error-after-reboot)
+      - [Troubleshoot NotReady KuberentesCluster node](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-not-ready-kubernetes-cluster-node)
       - [Troubleshooting dual-stack configuration issues for Nexus Kubernetes cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-dual-stack-configuration)
       - [Troubleshoot Neighbor Group Creation Error](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-neighbor-group-creation-error)
       - [Troubleshoot NAKS Cluster Node Packet Loss](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-packet-loss)

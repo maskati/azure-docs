@@ -79,7 +79,7 @@
       - [Deploy observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-configure-observability)
       - [Clean up observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-clean-up-observability-resources)
     - Create edge apps
-      - [Edge apps overview](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/edge-apps-overview)
+      - [MQTT client app guidance](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/edge-apps-overview)
       - State store
         - [State store overview](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/overview-state-store)
         - [About the state store protocol](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/concept-about-state-store-protocol)

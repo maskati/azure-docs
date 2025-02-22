@@ -20,7 +20,6 @@
     - [Azure Storage Actions cmdlets PowerShell](https://learn.microsoft.com/powershell/module/az.storageaction)
     - [Azure Storage Actions extension Azure CLI](https://learn.microsoft.com/cli/azure/storage-actions)
     - [Monitoring data Reference](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-tasks-monitor-data-reference)
-    - [Storage Tasks events](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-storage-actions?toc=/azure/storage-actions/toc.json)
     - Resource Manager template
       - [Storage task](https://learn.microsoft.com/azure/templates/microsoft.storageactions/allversions)
       - [Storage task assignment](https://learn.microsoft.com/azure/templates/microsoft.storage/storageaccounts/storagetaskassignments)
