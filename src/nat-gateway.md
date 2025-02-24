@@ -11,7 +11,6 @@
     - [ARM template](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-template)
     - [Terraform](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-terraform)
   - Tutorials
-    - [Configure dual-stack outbound with a NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-dual-stack-outbound-nat-load-balancer)
     - [Use a NAT gateway with a hub and spoke network](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-hub-spoke-route-nat)
     - [Use a NAT gateway with Azure Firewall](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-hub-spoke-nat-firewall)
     - [Integrate NAT gateway public load balancer](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-nat-gateway-load-balancer-public-portal)
