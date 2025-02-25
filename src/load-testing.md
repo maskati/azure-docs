@@ -51,6 +51,7 @@
       - [Move between regions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-move-between-regions)
       - [Move across resource groups or subscriptions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-move-between-resource-groups-subscriptions)
       - [Monitor Azure Load Testing](https://learn.microsoft.com/en-us/azure/load-testing/monitor-load-testing)
+      - [Enable notifications](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-notification-rules)
   - Samples
     - [Contoso Traders cloud testing demo](https://github.com/microsoft/contosotraders-cloudtesting/)
     - [Examples repository](https://learn.microsoft.com/samples/?expanded=azure&products=azure-load-testing)

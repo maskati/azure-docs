@@ -1,5 +1,5 @@
 # Azure Functions documentation
-> Azure Functions is a cloud service available on-demand that provides all the continually updated infrastructure and resources needed to run your applications. You focus on the code that matters most to you, in the most productive language for you, and Functions handles the rest. Functions provides serverless compute for Azure. You can use Functions to build web APIs, respond to database changes, process IoT streams, manage message queues, and more.
+> Azure Functions is a managed platform-as-a-service (PaaS) provider that provides event-driven and scheduled compute resources for Azure cloud services. You can focus on the code that matters most to you and Functions handles the rest. Functions can provide scalable and serverless hosting for your code projects written in the most productive language for you. You can use Functions to build web APIs, respond to database changes, process IoT streams, manage message queues, and more.
   - [Functions Documentation](https://learn.microsoft.com/en-us/azure/azure-functions/)
   - Overview
     - [Functions overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
@@ -362,6 +362,7 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql)
         - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-input)
         - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-output)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-trigger)
       - Azure OpenAI
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai)
         - Assistants

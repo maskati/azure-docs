@@ -135,6 +135,8 @@
       - [Email .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.email-readme)
       - [Email Java](https://learn.microsoft.com/java/api/overview/azure/communication-email-readme)
       - [Email Python](https://learn.microsoft.com/python/api/overview/azure/communication-email-readme)
+      - [Email Azure CLI](https://learn.microsoft.com/cli/azure/communication/email)
+      - [Email PowerShell](https://learn.microsoft.com/powershell/module/az.communication)
   - SMS
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/concepts)
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms-pricing)

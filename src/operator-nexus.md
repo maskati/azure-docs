@@ -174,6 +174,8 @@
       - [Troubleshooting dual-stack configuration issues for Nexus Kubernetes cluster](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-dual-stack-configuration)
       - [Troubleshoot Neighbor Group Creation Error](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-neighbor-group-creation-error)
       - [Troubleshoot NAKS Cluster Node Packet Loss](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-packet-loss)
+      - Troubleshoot Nexus Kubernetes Cluster stuck unable to reschedule workloads
+        - [Due To Bare Metal Machine Power Failure](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-stuck-workloads-due-to-power-failure)
   - [FAQ](https://learn.microsoft.com/en-us/azure/operator-nexus/azure-operator-nexus-faq)
   - Reference
     - Nexus Kubernetes service
