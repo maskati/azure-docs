@@ -124,8 +124,8 @@
           - [Install client certificates](https://learn.microsoft.com/en-us/azure/virtual-wan/install-client-certificates)
       - Microsoft Entra ID authentication
         - P2S server configuration
-          - [P2S - Microsoft-registered VPN client app](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway)
-          - [P2S - manually registered VPN client app](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad)
+          - [Configure P2S - Microsoft Entra ID authentication](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway)
+          - [Configure P2S - manually registered VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad)
           - [Change VPN client app to Microsoft-registered](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway-update)
           - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-register-custom-app)
           - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-mfa)

@@ -26,11 +26,9 @@
       - [Generate load from multiple regions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-generate-load-from-multiple-regions)
       - [Define test fail criteria](https://learn.microsoft.com/en-us/azure/load-testing/how-to-define-test-criteria)
       - [Parameterize load tests](https://learn.microsoft.com/en-us/azure/load-testing/how-to-parameterize-load-tests)
-      - [Test App Service web apps](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-load-test-app-service)
-      - [Test Azure Functions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-load-test-function-app)
-      - [Optimize Azure Functions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-optimize-azure-functions)
       - [Test private endpoints](https://learn.microsoft.com/en-us/azure/load-testing/how-to-test-private-endpoint)
       - [Test secure endpoints](https://learn.microsoft.com/en-us/azure/load-testing/how-to-test-secured-endpoints)
+      - [Use multiple certificates in tests](https://learn.microsoft.com/en-us/azure/load-testing/how-to-use-multiple-certificates)
       - [Run tests in debug mode](https://learn.microsoft.com/en-us/azure/load-testing/how-to-run-tests-in-debug-mode)
       - [Schedule load tests](https://learn.microsoft.com/en-us/azure/load-testing/how-to-schedule-tests)
     - Automation
@@ -52,6 +50,10 @@
       - [Move across resource groups or subscriptions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-move-between-resource-groups-subscriptions)
       - [Monitor Azure Load Testing](https://learn.microsoft.com/en-us/azure/load-testing/monitor-load-testing)
       - [Enable notifications](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-notification-rules)
+    - Test Azure services
+      - [Test App Service web apps](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-load-test-app-service)
+      - [Test Azure Functions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-load-test-function-app)
+      - [Optimize Azure Functions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-optimize-azure-functions)
   - Samples
     - [Contoso Traders cloud testing demo](https://github.com/microsoft/contosotraders-cloudtesting/)
     - [Examples repository](https://learn.microsoft.com/samples/?expanded=azure&products=azure-load-testing)

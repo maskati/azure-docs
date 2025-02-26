@@ -99,7 +99,7 @@
         - [Install VPN client certificates](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-vpn-client-install-azure-cert)
       - Microsoft Entra ID authentication
         - P2S gateway configuration
-          - [Configure P2S - Microsoft-registered VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway)
+          - [Configure P2S - Microsoft Entra ID authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway)
           - [Configure P2S - manually registered VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant)
           - [Change from manually registered to Microsoft-registered VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway-update)
           - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-register-custom-app)

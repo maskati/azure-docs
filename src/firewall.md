@@ -1,107 +1,108 @@
 # Azure Firewall documentation
 > Learn how to deploy Azure Firewall, a cloud-based network security service.
   - [Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
-  - Overview
+  - Get started
     - [What is Azure Firewall?](https://learn.microsoft.com/en-us/azure/firewall/overview)
     - [Well-Architected review of Azure Firewall](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
-  - Quickstarts
-    - [Deploy with IP Groups - Bicep](https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-bicep)
-    - [Deploy with IP Groups - Terraform](https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-terraform)
-    - [Deploy with IP Groups - ARM template](https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-template)
-    - [Deploy with multiple addresses - Bicep](https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-bicep)
-    - [Deploy with multiple addresses - Terraform](https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-terraform)
-    - [Deploy with multiple addresses - ARM template](https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-template)
-    - [Deploy with Availability Zones - Bicep](https://learn.microsoft.com/en-us/azure/firewall/deploy-bicep)
-    - [Deploy with Availability Zones - Terraform](https://learn.microsoft.com/en-us/azure/firewall/deploy-terraform)
-    - [Deploy with Availability Zones - ARM template](https://learn.microsoft.com/en-us/azure/firewall/deploy-template)
-  - Tutorials
-    - [Deploy and configure](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy)
-    - [Deploy in hybrid network](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal-policy)
-    - [Filter inbound traffic with DNAT](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat-policy)
-    - [Deploy firewall with DDoS protection](https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall)
-    - [Integrate NAT gateway with Azure Firewall](https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-hub-spoke-nat-firewall?toc=%2fazure%2ffirewall%2ftoc.json)
-  - Concepts
-    - Versions
-      - Basic
-        - [Azure Firewall Basic features](https://learn.microsoft.com/en-us/azure/firewall/basic-features)
-      - Standard
-        - [Azure Firewall Standard features](https://learn.microsoft.com/en-us/azure/firewall/features)
-      - Premium
-        - [Azure Firewall Premium features](https://learn.microsoft.com/en-us/azure/firewall/premium-features)
-        - [Azure Firewall Premium in the portal](https://learn.microsoft.com/en-us/azure/firewall/premium-portal)
-        - [Azure Firewall Premium certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-certificates)
-        - [IDPS signature rule categories](https://learn.microsoft.com/en-us/azure/firewall/idps-signature-categories)
-      - [Choose an Azure Firewall version](https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku)
-    - Preview
-      - [Azure Firewall preview features](https://learn.microsoft.com/en-us/azure/firewall/firewall-preview)
-    - Tags
-      - [FQDN tags](https://learn.microsoft.com/en-us/azure/firewall/fqdn-tags)
-      - [Service tags](https://learn.microsoft.com/en-us/azure/firewall/service-tags)
-    - Logs and metrics
-      - [Monitor Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall)
+    - [SKU comparison](https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku)
+    - [Preview features](https://learn.microsoft.com/en-us/azure/firewall/firewall-preview)
+  - Design & achitecture
     - Policy
       - [Policy rule sets](https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets)
       - [Policy Analytics](https://learn.microsoft.com/en-us/azure/firewall/policy-analytics)
-    - [Roles and permissions](https://learn.microsoft.com/en-us/azure/firewall/roles-permissions)
-    - [Azure Firewall web categories](https://learn.microsoft.com/en-us/azure/firewall/web-categories)
     - [Infrastructure FQDNs](https://learn.microsoft.com/en-us/azure/firewall/infrastructure-fqdns)
-    - [Threat intelligence](https://learn.microsoft.com/en-us/azure/firewall/threat-intel)
+    - [IDPS signature rule categories](https://learn.microsoft.com/en-us/azure/firewall/idps-signature-categories)
+    - [Web categories](https://learn.microsoft.com/en-us/azure/firewall/web-categories)
     - [Rule processing logic](https://learn.microsoft.com/en-us/azure/firewall/rule-processing)
-    - [IP Groups](https://learn.microsoft.com/en-us/azure/firewall/ip-groups)
     - [Forced tunneling](https://learn.microsoft.com/en-us/azure/firewall/forced-tunneling)
     - [Management NIC](https://learn.microsoft.com/en-us/azure/firewall/management-nic)
     - [Certifications](https://learn.microsoft.com/en-us/azure/firewall/compliance-certifications)
-    - [Central management](https://learn.microsoft.com/en-us/azure/firewall/central-management)
-    - [Remote work support](https://learn.microsoft.com/en-us/azure/firewall/remote-work-support)
-    - [FQDN in network rules](https://learn.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules)
-    - [DNS Proxy details](https://learn.microsoft.com/en-us/azure/firewall/dns-details)
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/firewall-security-baseline?toc=/azure/firewall/toc.json)
     - [FTP support](https://learn.microsoft.com/en-us/azure/firewall/ftp-support)
     - [Performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-performance)
     - [TCP idle timeout behavior](https://learn.microsoft.com/en-us/azure/firewall/long-running-sessions)
-    - [Easy upgrade/downgrade](https://learn.microsoft.com/en-us/azure/firewall/easy-upgrade)
     - [Explicit Proxy](https://learn.microsoft.com/en-us/azure/firewall/explicit-proxy)
     - [Multi hub and spoke](https://learn.microsoft.com/en-us/azure/firewall/firewall-multi-hub-spoke)
-    - [Azure Firewall with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/firewall/firewall-sentinel-overview)
-    - [Best practices for performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-best-practices)
-    - [Microsoft Copilot for Security](https://learn.microsoft.com/en-us/azure/firewall/firewall-copilot)
-  - How-to guides
-    - Deploy
+    - [Central management](https://learn.microsoft.com/en-us/azure/firewall/central-management)
+    - [Integrate with load balancer](https://learn.microsoft.com/en-us/azure/firewall/integrate-lb)
+  - Deploy
+    - [Firewall Basic](https://learn.microsoft.com/en-us/azure/firewall/deploy-firewall-basic-portal-policy)
+      - [Features](https://learn.microsoft.com/en-us/azure/firewall/basic-features)
+    - Firewall Standard
+      - [Features](https://learn.microsoft.com/en-us/azure/firewall/features)
+      - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/firewall/deploy-ps)
+      - [With Azure CLI](https://learn.microsoft.com/en-us/azure/firewall/deploy-cli)
+    - Firewall Premium
+      - [Overview](https://learn.microsoft.com/en-us/azure/firewall/premium-portal)
+      - [Features](https://learn.microsoft.com/en-us/azure/firewall/premium-features)
+      - [Portal](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy)
+      - [Cerficates](https://learn.microsoft.com/en-us/azure/firewall/premium-certificates)
+      - [Enterprise CA Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy-certificates-enterprise-ca)
+    - To a hybrid Network
+      - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-ps)
+    - [Firewall with inbound DNAT rules](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat-policy)
+    - [Firewall with DDoS protection](https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall)
+    - [Integrate NAT gateway with Azure Firewall](https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-hub-spoke-nat-firewall?toc=%2fazure%2ffirewall%2ftoc.json)
+    - Deploy with IP Groups
+      - [Overview](https://learn.microsoft.com/en-us/azure/firewall/ip-groups)
+      - [Portal, PowerShell, and CLI](https://learn.microsoft.com/en-us/azure/firewall/create-ip-group)
+      - [Bicep](https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-bicep)
+      - [Terraform](https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-terraform)
+      - [ARM template](https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-template)
+    - Deploy with multiple addresses
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/firewall/deploy-multi-public-ip-powershell)
+      - [Bicep](https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-bicep)
+      - [Terraform](https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-terraform)
+      - [ARM template](https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-template)
+    - Deploy with Availability zones
+      - [Deploy with Availability Zones](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell)
+      - [Bicep](https://learn.microsoft.com/en-us/azure/firewall/deploy-bicep)
+      - [Terraform](https://learn.microsoft.com/en-us/azure/firewall/deploy-terraform)
+      - [ARM template](https://learn.microsoft.com/en-us/azure/firewall/deploy-template)
+      - [Secured hub customer public IP](https://learn.microsoft.com/en-us/azure/firewall/secured-hub-customer-public-ip)
+    - Azure policy
+      - [Portal](https://learn.microsoft.com/en-us/azure/firewall/firewall-azure-policy)
+      - [CLI](https://learn.microsoft.com/en-us/azure/firewall/deploy-ps-policy)
+    - Classic firewall rules
       - [Deploy and configure - classic](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal)
       - [Deploy in hybrid network - classic](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal)
       - [Filter inbound traffic with DNAT - classic](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat)
-      - [Deploy Firewall Basic](https://learn.microsoft.com/en-us/azure/firewall/deploy-firewall-basic-portal-policy)
-      - [Deploy using Azure PowerShell](https://learn.microsoft.com/en-us/azure/firewall/deploy-ps)
-      - [Deploy policy using Azure PowerShell](https://learn.microsoft.com/en-us/azure/firewall/deploy-ps-policy)
-      - [Deploy in hybrid network - PowerShell](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-ps)
-      - [Deploy using Azure CLI](https://learn.microsoft.com/en-us/azure/firewall/deploy-cli)
-      - [Deploy with multiple public IP](https://learn.microsoft.com/en-us/azure/firewall/deploy-multi-public-ip-powershell)
-      - [Deploy with Availability Zones](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell)
-      - [Deploy and configure Firewall Premium](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy)
-      - [Deploy Enterprise CA Certificates for Premium](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy-certificates-enterprise-ca)
-      - [Use Azure Policy](https://learn.microsoft.com/en-us/azure/firewall/firewall-azure-policy)
-      - [Secured hub customer public IP](https://learn.microsoft.com/en-us/azure/firewall/secured-hub-customer-public-ip)
+    - [Connectivity to Azure Storage with SFTP](https://learn.microsoft.com/en-us/azure/firewall/firewall-sftp)
+    - [Backup Azure Firewall](https://techcommunity.microsoft.com/t5/azure-network-security-blog/backup-azure-firewall-and-azure-firewall-policy-with-logic-apps/ba-p/3613928)
+  - Configure
+    - [Add or modify rules using PowerShell](https://learn.microsoft.com/en-us/azure/firewall/deploy-rules-powershell)
+    - DNS proxy
+      - [Overview](https://learn.microsoft.com/en-us/azure/firewall/dns-details)
+      - [DNS proxy settings](https://learn.microsoft.com/en-us/azure/firewall/dns-settings)
+    - Tags
+      - [FQDN tags](https://learn.microsoft.com/en-us/azure/firewall/fqdn-tags)
+      - [Service tags](https://learn.microsoft.com/en-us/azure/firewall/service-tags)
+      - [Scale outbound SNAT ports](https://learn.microsoft.com/en-us/azure/firewall/integrate-with-nat-gateway)
+    - [Application rules with SQL FQDNs](https://learn.microsoft.com/en-us/azure/firewall/sql-fqdn-filtering)
+    - [SNAT private ranges](https://learn.microsoft.com/en-us/azure/firewall/snat-private-range)
+  - Migration and upgrades
+    - [Migrate to Azure Firewall Premium](https://learn.microsoft.com/en-us/azure/firewall/premium-migrate)
+    - [Migrate to Premium using Terraform](https://learn.microsoft.com/azure/developer/terraform/firewall-upgrade-premium?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
+    - [Easy upgrade/downgrade](https://learn.microsoft.com/en-us/azure/firewall/easy-upgrade)
+  - Security
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/firewall-security-baseline?toc=/azure/firewall/toc.json)
+    - [Roles and permissions](https://learn.microsoft.com/en-us/azure/firewall/roles-permissions)
+    - [Microsoft Copilot for Security](https://learn.microsoft.com/en-us/azure/firewall/firewall-copilot)
     - Protect
       - [Protect Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/firewall/protect-azure-virtual-desktop)
       - [Protect Azure Kubernetes Service AKS](https://learn.microsoft.com/en-us/azure/firewall/protect-azure-kubernetes-service)
       - [Protect Office 365](https://learn.microsoft.com/en-us/azure/firewall/protect-office-365)
+      - [Azure Firewall with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/firewall/firewall-sentinel-overview)
       - [Detect malware with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/firewall/detect-malware-with-sentinel)
-    - Migrate
-      - [Migrate to Azure Firewall Premium](https://learn.microsoft.com/en-us/azure/firewall/premium-migrate)
-      - [Migrate to Premium using Terraform](https://learn.microsoft.com/azure/developer/terraform/firewall-upgrade-premium?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
-    - Relocate
-      - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
-    - Monitor
-      - [Azure Firewall Workbook](https://learn.microsoft.com/en-us/azure/firewall/firewall-workbook)
-    - [Scale Outbound SNAT Ports](https://learn.microsoft.com/en-us/azure/firewall/integrate-with-nat-gateway)
-    - [Add or modify rules using PowerShell](https://learn.microsoft.com/en-us/azure/firewall/deploy-rules-powershell)
-    - [Backup Azure Firewall](https://techcommunity.microsoft.com/t5/azure-network-security-blog/backup-azure-firewall-and-azure-firewall-policy-with-logic-apps/ba-p/3613928)
-    - [Connect to Azure Storage via SFTP](https://learn.microsoft.com/en-us/azure/firewall/firewall-sftp)
-    - [Integrate with load balancer](https://learn.microsoft.com/en-us/azure/firewall/integrate-lb)
-    - [Application rules with SQL FQDNs](https://learn.microsoft.com/en-us/azure/firewall/sql-fqdn-filtering)
-    - [SNAT private ranges](https://learn.microsoft.com/en-us/azure/firewall/snat-private-range)
-    - [Create IP Groups](https://learn.microsoft.com/en-us/azure/firewall/create-ip-group)
-    - [DNS settings](https://learn.microsoft.com/en-us/azure/firewall/dns-settings)
+  - Operational excellence
+    - Monitoring
+      - [Logs and metrics](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall)
+      - [Azure Firewall Workbooks](https://learn.microsoft.com/en-us/azure/firewall/firewall-workbook)
+    - [Threat intelligence](https://learn.microsoft.com/en-us/azure/firewall/threat-intel)
+    - [Best practices for performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-best-practices)
+    - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
+    - [Remote work support](https://learn.microsoft.com/en-us/azure/firewall/remote-work-support)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/firewall)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/new-azfirewall)

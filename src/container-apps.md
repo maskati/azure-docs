@@ -204,6 +204,8 @@
         - [Configure Application Performance Management APM Java agent with init-container](https://learn.microsoft.com/en-us/azure/container-apps/java-application-performance-management-config)
         - [Create a highly available Eureka server component cluster](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-highly-available)
         - [Build a Java metrics dashboard with Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics-with-grafana)
+    - JavaScript
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/javascript-overview)
   - Billing & quotas
     - [Billing](https://learn.microsoft.com/en-us/azure/container-apps/billing)
     - [Quotas](https://learn.microsoft.com/en-us/azure/container-apps/quotas)
