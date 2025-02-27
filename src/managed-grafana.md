@@ -44,6 +44,7 @@
       - [Monitor using diagnostic settings](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-monitor-managed-grafana-workspace)
     - [Migrate to Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-migrate)
     - [Configure Grafana settings](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-settings)
+    - [Upgrade to Grafana 11](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-upgrade-grafana-11)
     - [Troubleshoot common issues](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-managed-grafana)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/grafana)

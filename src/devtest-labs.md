@@ -74,6 +74,7 @@
       - [Create a VM with Generation 2 base image](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-gen2-vm)
       - [Create and manage claimable VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-add-claimable-vm)
       - [Configure secrets](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-store-secrets-in-key-vault)
+      - [Configure lab level secrets](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-configure-lab-level-secrets)
       - [Attach and detach data disks](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-attach-detach-data-disk)
       - [Define start order for lab VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/start-machines-use-automation-runbooks)
       - [Import virtual machines from another lab](https://learn.microsoft.com/en-us/azure/devtest-labs/import-virtual-machines-from-another-lab)

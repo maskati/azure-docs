@@ -99,9 +99,15 @@
       - [How to put a device into maintenance mode](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-put-device-in-maintenance-mode)
       - [How to set up break glass access](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-set-up-break-glass-access)
       - [How to use-break-glass-access](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-break-glass-access)
+      - [How to set up break-glass access using In-Band management](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-set-up-break-glass-access-using-in-band-management)
       - [How to enable-Micro-BFD on CE and PE devices](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-micro-bfd)
-      - [How to replace a terminal server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-replace-a-terminal-server)
+      - [How to replace terminal server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-replace-terminal-server)
       - [How to upgrade os of terminal server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-os-of-terminal-server)
+      - [How to restrict serial port access and set timeout on terminal-server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-restrict-serial-port-access-and-set-timeout-on-terminal-server)
+      - [How to append custom suffix to interface descriptions](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-append-custom-suffix-to-interface-descriptions)
+      - [How to reboot Network Device in Azure Operator Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-reboot-network-device)
+      - [How to Configure NNF with Bring Your Own BYO Storage](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-bring-your-own-storage-network-fabric)
+      - [How to upgrade OS of terminal server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-os-of-terminal-server)
       - [How to restrict serial port access and set timeout on terminal-server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-restrict-serial-port-access-and-set-timeout-on-terminal-server)
     - Cluster
       - BareMetal Actions
