@@ -148,7 +148,7 @@
           - [Common headers](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-headers)
           - [Throttling](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-throttling)
           - [Versioning](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-versioning)
-    - Client libraries
+    - Configuration providers
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/configuration-provider-overview)
       - .NET
         - [API reference](https://learn.microsoft.com/dotnet/api/Microsoft.Extensions.Configuration.AzureAppConfiguration)

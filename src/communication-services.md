@@ -416,6 +416,7 @@
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/telephony-concept)
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/pstn-pricing)
     - [Phone number types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-types)
+    - [Define your caller identity](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/how-to-manage-your-calling-identity)
     - [Country availability](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/sub-eligibility-number-capability)
     - [Trial phone numbers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/trial-phone-numbers-faq)
     - [Try phone calling](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/try-phone-calling)
@@ -425,6 +426,7 @@
     - Number Lookup
       - [Number Lookup concept](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-lookup-concept)
       - [Number Lookup SDK](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-lookup-sdk)
+      - [Try Number Lookup](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/try-number-lookup)
     - Direct routing
       - [Connect to existing telephony](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/direct-routing-provisioning)
       - [Direct routing infrastructure requirements](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/direct-routing-infrastructure)

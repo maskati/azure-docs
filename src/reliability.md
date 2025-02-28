@@ -1,5 +1,5 @@
 # Azure reliability documentation
-> Azure reliability documentation for availability zones, cross-regional disaster recovery, availability of services for sovereign clouds, regions, and category.
+> Azure reliability documentation, which includes guidance for reliability in Azure services, Azure platform reliability feature support including availability zones and multi-region support, and fundamental cloud reliability concepts.
   - [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/)
   - [Overview](https://learn.microsoft.com/en-us/azure/reliability/overview)
   - [What's new](https://learn.microsoft.com/en-us/azure/reliability/whats-new)
@@ -18,7 +18,6 @@
     - [Regions with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-region-support)
     - Migrate to availability zone support
       - [Overview](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-migration-overview)
-      - [Azure availability zone migration baseline](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-baseline)
       - Migration guides by service
         - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt)
         - [Azure App Configuration](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration)

@@ -1,192 +1,211 @@
 # VPN Gateway documentation
 > Learn how to configure, create, and manage an Azure VPN gateway. Create encrypted cross-premises connections to your virtual network from on-premises locations, or create encrypted connections between VNets.
   - [VPN Gateway documentation](https://learn.microsoft.com/en-us/azure/vpn-gateway/)
-  - Overview
+  - Get started
     - [What is VPN Gateway?](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
-  - Tutorials
-    - [Create and manage a VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
-    - [Configure a site-to-site connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
-  - Concepts
-    - [What's new in VPN Gateway?](https://learn.microsoft.com/en-us/azure/vpn-gateway/whats-new)
+    - [What's new?](https://learn.microsoft.com/en-us/azure/vpn-gateway/whats-new)
+    - [VPN Gateway FAQ](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vpn-faq)
+    - Quickstarts & tutorials
+      - [Create and manage a VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
+      - Configure a site-to-site connection
+        - [Preshared key](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
+        - [Certificate authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal)
+      - Configure a point-to-site connection
+        - [Certificate authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway)
+        - [Microsoft Entra ID authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway)
+  - Design and architecture
+    - [Design and topology](https://learn.microsoft.com/en-us/azure/vpn-gateway/design)
+    - [Design highly available gateway connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
+    - Backend connectivity interoperability
+      - [Preface and test setup](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-preface?toc=/azure/vpn-gateway/toc.json)
+      - [Control plane analysis](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-control-plane?toc=/azure/vpn-gateway/toc.json)
+      - [Data plane analysis](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-data-plane?toc=/azure/vpn-gateway/toc.json)
     - Work remotely
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/vpn-gateway/toc.json)
       - [Leveraging Azure VPN connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/work-remotely-support)
       - [NVA configurations and remote work](https://learn.microsoft.com/en-us/azure/vpn-gateway/nva-work-remotely-support)
-    - [VPN Gateway FAQ](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vpn-faq)
-    - [About VPN Gateway design](https://learn.microsoft.com/en-us/azure/vpn-gateway/design)
-    - [Design highly available gateway connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
-    - [About VPN Gateway settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
-    - [Roles and permissions](https://learn.microsoft.com/en-us/azure/vpn-gateway/roles-permissions)
-    - [About gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus)
-    - [About gateway SKU consolidation](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation)
+  - Gateways and configuration settings
+    - [VPN Gateway configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
+    - Gateway SKUs
+      - [About gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus)
+      - [Gateway SKU consolidation](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation)
+      - [Resize a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-resize)
+      - [Change a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change)
+      - [Manage legacy gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
     - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
-    - [About VPN devices](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-devices)
-    - [About cryptographic requirements](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-compliance-crypto)
-    - [About BGP and VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-bgp-overview)
-    - [About point-to-site VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about)
-    - [About point-to-site VPN routing](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-point-to-site-routing)
-    - [About NAT and VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-overview)
-    - [About site-to-site forced tunneling](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-site-to-site-tunneling)
-    - [About zone-redundant gateways for Availability Zones](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
+    - [About zone-redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
+  - Create and manage VPN gateways
+    - Create a VPN gateway
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
+      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-powershell)
+      - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-cli)
+      - [Create a Basic SKU VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-basic-sku-powershell)
+    - Manage gateway SKUs
+      - [About gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus)
+      - [Gateway SKU consolidation](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation)
+      - [Resize a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-resize)
+      - [Change a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change)
+      - [Manage legacy gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
     - [Migrate classic gateways to Resource Manager](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration)
-    - Security
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/vpn-gateway-security-baseline?toc=/azure/vpn-gateway/TOC.json)
-    - Backend Connectivity Interoperability
-      - [Preface and Test Setup](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-preface?toc=/azure/vpn-gateway/toc.json)
-      - [Control Plane Analysis](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-control-plane?toc=/azure/vpn-gateway/toc.json)
-      - [Data Plane Analysis](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-data-plane?toc=/azure/vpn-gateway/toc.json)
-  - How-to guides
-    - Create and manage a VPN gateway
-      - Create a VPN gateway
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-powershell)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-cli)
-        - [Create a Basic SKU gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-basic-sku-powershell)
-      - [Verify a gateway connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-verify-connection-resource-manager)
-      - [Reset a connection or a gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/reset-gateway)
+    - Active-active gateways
+      - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
       - [Change a gateway to active-active or active-standby](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-change-active-active)
-      - Delete a VPN gateway
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-portal)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-powershell)
-    - Site-to-site S2S
-      - Configure site-to-site connections - shared key
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli)
-      - [Configure site-to-site connections - certificate](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal)
-      - [Add or remove site-to-site-connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/add-remove-site-to-site-connections)
+    - Zone-redundant gateways
+      - [About zone-redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
+      - [Configure a zone redundant gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway)
+    - Delete a VPN gateway
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-portal)
+      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-powershell)
+    - [Verify a gateway connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-verify-connection-resource-manager)
+    - [Reset a connection or a gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/reset-gateway)
+    - [Configure customer-controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/vpn-gateway/customer-controlled-gateway-maintenance)
+  - Configure site-to-site VPN connections
+    - Configure site-to-site connections - preshared key
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
+      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell)
+      - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli)
+    - [Configure site-to-site connections - certificate](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal)
+    - [Connect AWS and Azure using a BGP-enabled VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-aws-bgp)
+    - [Add or remove a site-to-site connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/add-remove-site-to-site-connections)
+    - [Forced tunneling](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-site-to-site-tunneling)
+    - Configure custom IPsec/IKE connection policies
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipsec-ike-policy-howto)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell)
+    - Modify a local network gateway
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway-portal)
+      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway)
+      - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway-cli)
+    - VPN devices
+      - [About VPN devices and parameters](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-devices)
+      - [Download VPN device configuration scripts](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-download-vpndevicescript)
+      - [Overview of parter VPN device configurations](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-overview)
+      - [Sample: Cisco ASA device IKEv2/no BGP](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-cisco-asa)
       - [Connect to multiple policy-based VPN devices](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-multiple-policybased-rm-ps)
     - Site-to-site with ExpressRoute connections
       - Coexisting connections
         - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal?toc=/azure/vpn-gateway/toc.json)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager?toc=/azure/vpn-gateway/toc.json)
       - [VPN over private peering](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering)
-    - VNet-to-VNet
-      - Configure VNet-to-VNet connections
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-cli)
-      - Configure a VNet-to-VNet connection between deployment models
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-different-deployment-models-portal)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-different-deployment-models-powershell)
-    - Point-to-site P2S
-      - Certificate authentication
-        - P2S gateway configuration
-          - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway)
-          - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-rm-ps)
-        - VPN client configuration
-          - Windows clients
-            - [Native VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-native)
-            - [Azure VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-azure-vpn-client)
-            - OpenVPN client
-              - [Version 2.x](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client)
-              - [Version 3.x](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3)
-          - Linux clients
-            - [Azure VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-client-linux-azure-vpn-client)
-            - [OpenVPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-linux)
-            - [IKEv2 - strongSwan](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-ike-linux)
-          - macOS and iOS clients
-            - [Native VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-cert-mac)
-            - [OpenVPN client - macOS](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-mac)
-            - [OpenVPN client - iOS](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-ios)
-        - Generate self-signed certificates
-          - .cer and .pfx files
-            - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site)
-            - [MakeCert](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-makecert)
-          - .pem files
-            - [Linux - OpenSSL](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificates-linux-openssl)
-            - [Linux - strongSwan](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-linux)
-        - [Install VPN client certificates](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-vpn-client-install-azure-cert)
-      - Microsoft Entra ID authentication
-        - P2S gateway configuration
-          - [Configure P2S - Microsoft Entra ID authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway)
-          - [Configure P2S - manually registered VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant)
-          - [Change from manually registered to Microsoft-registered VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway-update)
-          - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-register-custom-app)
-          - [Configure access based on users and groups](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-users-access)
-          - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-mfa)
-        - VPN client configuration
-          - [Windows clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows)
-          - [Linux clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux)
-          - [macOS clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-mac)
+  - Configure point-to-site VPN connections
+    - [About point-to-site VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about)
+    - [About point-to-site VPN routing](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-point-to-site-routing)
+    - Configure P2S - certificate authentication
+      - P2S gateway configuration
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-rm-ps)
+      - VPN client configuration
+        - Windows clients
+          - [Native VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-native)
+          - [Azure VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-azure-vpn-client)
+          - OpenVPN client
+            - [Version 2.x](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client)
+            - [Version 3.x](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3)
+        - Linux clients
+          - [Azure VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-client-linux-azure-vpn-client)
+          - [OpenVPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-linux)
+          - [IKEv2 - strongSwan](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-ike-linux)
+        - macOS and iOS clients
+          - [Native VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-cert-mac)
+          - [OpenVPN client - macOS](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-mac)
+          - [OpenVPN client - iOS](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-ios)
+      - Generate self-signed certificates
+        - .cer and .pfx files
+          - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site)
+          - [MakeCert](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-makecert)
+        - .pem files
+          - [Linux - OpenSSL](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificates-linux-openssl)
+          - [Linux - strongSwan](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-linux)
+      - [Install VPN client certificates](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-vpn-client-install-azure-cert)
+    - Configure P2S - Microsoft Entra ID authentication
+      - P2S gateway configuration
+        - [Configure P2S - Microsoft-registered](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway)
+        - [Configure P2S - manually registered](https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant)
+        - [Change from manually registered to Microsoft-registered VPN client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway-update)
+        - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-register-custom-app)
+        - [Configure access based on users and groups](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-users-access)
+        - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-mfa)
+      - VPN client configuration
+        - [Windows clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows)
+        - [Linux clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux)
+        - [macOS clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-mac)
         - [Generate VPN client profile configuration files](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-vpn-profile-download)
-      - RADIUS authentication
-        - P2S gateway configuration
-          - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-radius-gateway)
-          - [Azure Powershell](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-radius-ps)
-          - [Multifactor authentication - P2S RADIUS and NPS server](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-radius-mfa-nsp)
+    - Configure P2S - RADIUS authentication
+      - P2S gateway configuration
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-radius-gateway)
+        - [Azure Powershell](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-radius-ps)
+        - [Multifactor authentication - P2S RADIUS and NPS server](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-radius-mfa-nsp)
         - VPN client configuration
           - [Certificate authentication clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-certificate)
           - [Password authentication clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-password)
           - [Other authentication protocols](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-other)
-      - Configure Always On tunnels
-        - [Device tunnel](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-device-tunnel)
-        - [User tunnel](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-user-tunnel)
-      - [Move to OpenVPN or IKEv2 from SSTP](https://learn.microsoft.com/en-us/azure/vpn-gateway/ikev2-openvpn-from-sstp)
-      - [P2S session management](https://learn.microsoft.com/en-us/azure/vpn-gateway/p2s-session-management)
-      - [Advertise custom routes to P2S clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes)
-      - [Create custom IPsec policies for P2S](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-custom-policies-p2s-ps)
+    - Configure Always On tunnels
+      - [Device tunnel](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-device-tunnel)
+      - [User tunnel](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-user-tunnel)
+    - [Move to OpenVPN or IKEv2 from SSTP](https://learn.microsoft.com/en-us/azure/vpn-gateway/ikev2-openvpn-from-sstp)
+    - [P2S session management](https://learn.microsoft.com/en-us/azure/vpn-gateway/p2s-session-management)
+    - [Advertise custom routes to P2S clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes)
+    - [Create custom IPsec policies for P2S](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-custom-policies-p2s-ps)
+    - Azure VPN Client versions, checks & settings
       - [Azure VPN Client - optional settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-optional-configurations)
       - [Azure VPN Client prerequisites check](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-prerequisites-check)
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-versions)
-      - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
-    - Manage gateway SKUs
-      - [Resize a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-resize)
-      - [Change a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change)
-      - [Manage legacy gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
-    - Routing, BGP, and VNet Peering
+    - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
+  - Configure VNet-to-VNet VPN connections
+    - Configure VNet-to-VNet VPN connections
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
+      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps)
+      - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-cli)
+    - Configure a VNet-to-VNet connection between deployment models
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-different-deployment-models-portal)
+      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-different-deployment-models-powershell)
+    - Configure custom IPsec/IKE connection policies
+      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipsec-ike-policy-howto)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell)
+  - Security
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/vpn-gateway-security-baseline?toc=/azure/vpn-gateway/TOC.json)
+    - [About cryptographic requirements](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-compliance-crypto)
+    - [Roles and permissions](https://learn.microsoft.com/en-us/azure/vpn-gateway/roles-permissions)
+  - Routing
+    - [Forced tunneling](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-tunneling)
+    - [Gateway transit for VNet peering](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-peering-gateway-transit)
+    - BGP
+      - [About BGP and VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-bgp-overview)
       - Configure BGP for a VPN gateway
         - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/bgp-howto)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-bgp-resource-manager-ps)
         - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/bgp-how-to-cli)
-      - [Configure site-to-site forced tunneling](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-tunneling)
-      - [Configure gateway transit for VNet peering](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-peering-gateway-transit)
-      - [Connect AWS and Azure using a BGP-enabled VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-aws-bgp)
-    - [Configure NAT for VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-howto)
-    - Modify a local network gateway
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway-portal)
-      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway)
-      - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway-cli)
-    - Configure VPN devices
-      - [Overview & Azure configuration](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-overview)
-      - [Download VPN device configuration scripts](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-download-vpndevicescript)
-      - [Sample: Cisco ASA device IKEv2/no BGP](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-cisco-asa)
-    - Configure custom IPsec/IKE connection policies
-      - [Point-to-site connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-custom-policies-p2s-ps)
-      - Site-to-site and VNet-to-VNet connections
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipsec-ike-policy-howto)
-        - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell)
-    - Configure active-active gateways
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-powershell)
-    - [Configure zone redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway)
-    - Monitoring
-      - [Monitor VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway)
-      - [Configure packet captures](https://learn.microsoft.com/en-us/azure/vpn-gateway/packet-capture)
-    - [Configure customer-controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/vpn-gateway/customer-controlled-gateway-maintenance)
-    - Troubleshooting
-      - [Troubleshoot VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot)
-      - [Troubleshoot using diagnostic logs](https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-vpn-with-azure-diagnostics)
-      - Troubleshoot point-to-site connection issues
-        - [Point-to-site connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-vpn-point-to-site-connection-problems)
-        - [macOS - native VPN client connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-point-to-site-osx-ikev2)
-        - [Troubleshoot the Azure VPN Client](https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-azure-vpn-client)
-        - [Report Azure VPN Client problems - Feedback Hub](https://learn.microsoft.com/en-us/azure/vpn-gateway/feedback-hub-azure-vpn-client)
-      - Troubleshoot site-to-site connection issues
-        - [Site-to-site connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-cannot-connect)
-        - [Site-to-site error codes and solutions](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-error-codes)
-        - [Site-to-site connection disconnects intermittently](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-disconnected-intermittently)
-      - [Validate VPN throughput to a VNet](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-validate-throughput-to-vnet)
-      - [Configure and validate VNet or VPN connections](https://support.microsoft.com/help/4032151/configuring-and-validating-vnet-or-vpn-connections)
-      - [Community-suggested VPN or firewall device settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-third-party-settings)
+      - [Connect AWS and Azure using a BGP-enabled VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-aws-bgp)
+    - NAT
+      - [About NAT and VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-overview)
+      - [Configure NAT for VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-howto)
+    - Point-to-site routing
+      - [Advertise custom routes to P2S clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes)
+      - [About point-to-site VPN routing](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-point-to-site-routing)
+  - Monitoring
+    - [Monitor VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway)
+    - [Configure packet captures](https://learn.microsoft.com/en-us/azure/vpn-gateway/packet-capture)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway-reference)
+  - Troubleshooting
+    - [Troubleshoot VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot)
+    - [Troubleshoot using diagnostic logs](https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-vpn-with-azure-diagnostics)
+    - Troubleshoot point-to-site connection issues
+      - [Point-to-site connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-vpn-point-to-site-connection-problems)
+      - [macOS - native VPN client connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-point-to-site-osx-ikev2)
+      - [Troubleshoot the Azure VPN Client](https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-azure-vpn-client)
+      - [Report Azure VPN Client problems - Feedback Hub](https://learn.microsoft.com/en-us/azure/vpn-gateway/feedback-hub-azure-vpn-client)
+    - Troubleshoot site-to-site connection issues
+      - [Site-to-site connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-cannot-connect)
+      - [Site-to-site error codes and solutions](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-error-codes)
+      - [Site-to-site connection disconnects intermittently](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-disconnected-intermittently)
+    - [Validate VPN throughput to a VNet](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-validate-throughput-to-vnet)
+    - [Community-suggested VPN or firewall device settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-third-party-settings)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
     - [REST](https://learn.microsoft.com/rest/api/network/virtualnetworkgateways)
     - [REST classic](https://learn.microsoft.com/previous-versions/azure/reference/jj154113(v=azure.100))
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/vnet-gateway)
-    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway-reference)
   - Resources
-    - [Blog](https://azure.microsoft.com/blog/topics/networking)
+    - [Networking blog](https://azure.microsoft.com/blog/category/networking/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
     - [Subscription and service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/vpn-gateway/toc.json)
     - [Pricing](https://azure.microsoft.com/pricing/details/vpn-gateway)

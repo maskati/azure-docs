@@ -116,6 +116,7 @@
     - [Azure Kubernetes network policies](https://learn.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies)
     - [Azure Policy Regulatory Compliance controls](https://learn.microsoft.com/en-us/azure/virtual-network/security-controls-policy)
     - [Azure security baseline for Virtual Network](https://learn.microsoft.com/azure/baselines/virtual-network-security-baseline?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
+    - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
     - DDoS protection
       - [Overview](https://learn.microsoft.com/azure/ddos-protection/ddos-protection-overview?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
       - [Create and configure](https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
@@ -145,7 +146,7 @@
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/virtual-network/policy-reference)
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
-    - [Networking blog](https://azure.microsoft.com/blog/category/networking)
+    - [Azure Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
     - [Pricing](https://azure.microsoft.com/pricing/details/virtual-network)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)

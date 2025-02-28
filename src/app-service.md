@@ -60,19 +60,19 @@
     - [Monitor instance health](https://learn.microsoft.com/en-us/azure/app-service/monitor-instances-health-check)
     - [About App Service diagnostics tool](https://learn.microsoft.com/en-us/azure/app-service/overview-diagnostics)
     - [About quotas & alerts](https://learn.microsoft.com/en-us/azure/app-service/web-sites-monitor)
-  - Domains and certificates
+  - Domain names and certificates
     - [Domain and cert quickstart](https://learn.microsoft.com/en-us/azure/app-service/tutorial-secure-domain-certificate)
-    - Custom domains
-      - [Map your own custom domain](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain)
-      - [Buy App Service domain](https://learn.microsoft.com/en-us/azure/app-service/manage-custom-dns-buy-domain)
-      - [Map domains with Traffic Manager](https://learn.microsoft.com/en-us/azure/app-service/configure-domain-traffic-manager)
+    - Domain names
+      - [Connect a domain name](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain)
+      - [Buy and configure App Service domain](https://learn.microsoft.com/en-us/azure/app-service/manage-custom-dns-buy-domain)
+      - [Use Traffic Manager with a domain](https://learn.microsoft.com/en-us/azure/app-service/configure-domain-traffic-manager)
       - [Migrate an active domain](https://learn.microsoft.com/en-us/azure/app-service/manage-custom-dns-migrate-domain)
     - TLS/SSL certificates
-      - [TLS overview](https://learn.microsoft.com/en-us/azure/app-service/overview-tls)
-      - [Secure custom domain with TLS/SSL](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-bindings)
-      - [Add TLS/SSL cert](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate)
-      - [Buy App Service cert](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-app-service-certificate)
-      - [Use TLS/SSL cert in code](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate-in-code)
+      - [Overview of TLS/SSL in App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-tls)
+      - [Secure a custom domain with HTTPS](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-bindings)
+      - [Add and manage TLS/SSL certificates](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate)
+      - [Create and Manage App Service certificates](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-app-service-certificate)
+      - [Use TLS/SSL certificates in app code](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate-in-code)
       - [Configure TLS mutual authentication](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth)
   - Database and service connection
     - [Connectivity scenarios overview](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-overview)

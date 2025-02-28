@@ -1,61 +1,66 @@
 # Private Link documentation
 > Azure Private Link enables you to access Azure PaaS Services (for example, Azure Storage and SQL Database) and Azure hosted customer-owned/partner services over a Private Endpoint in your virtual network.  Traffic between your virtual network and the service traverses over the Microsoft backbone network, eliminating exposure from the public Internet. You can also create your own Private Link Service in your virtual network and deliver it privately to your customers.
   - [Azure Private Link documentation](https://learn.microsoft.com/en-us/azure/private-link/)
-  - Overview
+  - Get started
     - [What is Azure Private Link?](https://learn.microsoft.com/en-us/azure/private-link/private-link-overview)
-  - Quickstarts
-    - [Create a private endpoint - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal)
-    - [Create a private endpoint - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-powershell)
-    - [Create a private endpoint - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-cli)
-    - [Create a private endpoint - Bicep](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-bicep)
-    - [Create a private endpoint - ARM template](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-template)
-    - [Create a private endpoint - Terraform](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-terraform)
-    - [Create a Private Link service - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-portal)
-    - [Create a Private Link service - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-powershell)
-    - [Create a Private Link service - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-cli)
-    - [Create a Private Link service - Bicep](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-bicep)
-    - [Create a Private Link service - ARM template](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-template)
-    - [Create a network security perimeter - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-portal)
-    - [Create a network security perimeter - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-powershell)
-    - [Create a network security perimeter - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-cli)
-  - Tutorials
-    - [Inspect private endpoint traffic with Azure Firewall](https://learn.microsoft.com/en-us/azure/private-link/tutorial-inspect-traffic-azure-firewall)
-    - [Deploy a private endpoint with a private resolver](https://learn.microsoft.com/en-us/azure/private-link/tutorial-dns-on-premises-private-resolver)
-    - [Connect to a storage account](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-storage-portal)
-    - [Connect to an Azure Cosmos DB account](https://learn.microsoft.com/azure/cosmos-db/how-to-configure-private-endpoints?toc=/azure/private-link/toc.json)
-    - SQL
-      - [Connect to a SQL server - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-portal)
-      - [Connect to a SQL server - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-powershell)
-      - [Connect to a SQL server - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-cli)
-  - Concepts
-    - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
     - [What is a private endpoint?](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
     - [Private Link service](https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview)
     - Network security perimeter
       - [What is a network security perimeter?](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-concepts)
-      - [Transition to a network security perimeter](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-transition)
-      - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs)
-      - [Role-based access control permissions](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements)
+  - Configure
+    - Create a private endpoint
+      - [Create a private endpoint - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal)
+      - [Create a private endpoint - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-powershell)
+      - [Create a private endpoint - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-cli)
+      - [Create a private endpoint - Bicep](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-bicep)
+      - [Create a private endpoint - ARM template](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-template)
+      - [Create a private endpoint - Terraform](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-terraform)
+    - Create a Private Link service
+      - [Create a Private Link service - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-portal)
+      - [Create a Private Link service - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-powershell)
+      - [Create a Private Link service - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-cli)
+      - [Create a Private Link service - Bicep](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-bicep)
+      - [Create a Private Link service - ARM template](https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-template)
     - DNS
       - [Private DNS zone values](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
       - [Private endpoint DNS integration](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns-integration)
-    - [RBAC permissions](https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions)
-    - [Private Link and DNS in Azure Virtual WAN](https://learn.microsoft.com/azure/architecture/guide/networking/private-link-virtual-wan-dns-guide?toc=/azure/private-link/toc.json)
-    - [Azure Firewall traffic inspection](https://learn.microsoft.com/en-us/azure/private-link/inspect-traffic-with-azure-firewall)
-    - Security
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-private-link-security-baseline?toc=/azure/private-link/toc.json)
-  - How-to
-    - [Approve private link connections across subscriptions](https://learn.microsoft.com/en-us/azure/private-link/how-to-approve-private-link-cross-subscription)
-    - [Configure an application security group](https://learn.microsoft.com/en-us/azure/private-link/configure-asg-private-endpoint)
-    - [Monitor Private Link](https://learn.microsoft.com/en-us/azure/private-link/monitor-private-link)
     - [Export private endpoint DNS records](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-export-dns)
+    - [Private Link and DNS in Azure Virtual WAN](https://learn.microsoft.com/azure/architecture/guide/networking/private-link-virtual-wan-dns-guide?toc=/azure/private-link/toc.json)
+    - Network security perimeter
+      - [Create a network security perimeter - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-portal)
+      - [Create a network security perimeter - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-powershell)
+      - [Create a network security perimeter - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-cli)
+  - Deploy
+    - SQL
+      - [Connect to a SQL server - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-portal)
+      - [Connect to a SQL server - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-powershell)
+      - [Connect to a SQL server - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-cli)
+    - [Deploy a private endpoint with a private resolver](https://learn.microsoft.com/en-us/azure/private-link/tutorial-dns-on-premises-private-resolver)
+    - [Connect to a storage account](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-storage-portal)
+    - [Connect to an Azure Cosmos DB account](https://learn.microsoft.com/azure/cosmos-db/how-to-configure-private-endpoints?toc=/azure/private-link/toc.json)
+    - [Approve private link connections across subscriptions](https://learn.microsoft.com/en-us/azure/private-link/how-to-approve-private-link-cross-subscription)
+    - Network security perimeter
+      - [Transition to a network security perimeter](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-transition)
+  - Resiliency
+    - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
+  - Security
+    - [Configure an application security group](https://learn.microsoft.com/en-us/azure/private-link/configure-asg-private-endpoint)
+    - [Inspect private endpoint traffic with Azure Firewall](https://learn.microsoft.com/en-us/azure/private-link/tutorial-inspect-traffic-azure-firewall)
+    - [RBAC permissions](https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-private-link-security-baseline?toc=/azure/private-link/toc.json)
+    - Network security perimeter
+      - [Role-based access control permissions](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements)
+  - Operational excellence
+    - [Monitor Private Link](https://learn.microsoft.com/en-us/azure/private-link/monitor-private-link)
     - [Manage network policies for private endpoints](https://learn.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy)
     - [Disable network policies for a Private Link service](https://learn.microsoft.com/en-us/azure/private-link/disable-private-link-service-network-policy)
     - [Manage private endpoints](https://learn.microsoft.com/en-us/azure/private-link/manage-private-endpoint)
     - [Relocate Private Link Service to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-private-link?toc=/azure/private-link/toc.json)
-    - Troubleshoot
-      - [Troubleshoot private endpoint connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-endpoint-connectivity)
-      - [Troubleshoot Private Link service connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-link-connectivity)
+    - Network security perimeter
+      - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs)
+  - Troubleshoot
+    - [Troubleshoot private endpoint connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-endpoint-connectivity)
+    - [Troubleshoot Private Link service connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-link-connectivity)
   - Reference
     - [The Azure CLI](https://learn.microsoft.com/cli/azure/network/private-link-service)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
