@@ -5,7 +5,7 @@
     - [What is VPN Gateway?](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
     - [What's new?](https://learn.microsoft.com/en-us/azure/vpn-gateway/whats-new)
     - [VPN Gateway FAQ](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vpn-faq)
-    - Quickstarts & tutorials
+    - Quickstarts
       - [Create and manage a VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
       - Configure a site-to-site connection
         - [Preshared key](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)

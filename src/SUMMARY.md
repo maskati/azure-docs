@@ -91,7 +91,6 @@
 [Network Watcher documentation](./network-watcher.md)
 [Azure networking documentation](./networking.md)
 [Azure Notification Hubs documentation](./notification-hubs.md)
-[Azure Red Hat OpenShift documentation](./openshift.md)
 [Azure operational excellence documentation (Preview)](./operational-excellence.md)
 [operator-insights](./operator-insights.md)
 [Operator Nexus](./operator-nexus.md)

@@ -55,7 +55,7 @@
       - [Ingest data](https://learn.microsoft.com/en-us/azure/sentinel/migration-export-ingest)
     - [Convert dashboards to workbooks](https://learn.microsoft.com/en-us/azure/sentinel/migration-convert-dashboards)
     - [Update SOC processes](https://learn.microsoft.com/en-us/azure/sentinel/migration-security-operations-center-processes)
-  - Enable solutions and content
+  - Manage solutions and content
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions)
     - [Deploy out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy)
     - [Delete out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-delete)
@@ -64,9 +64,9 @@
       - [All solutions](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-catalog)
       - [ASIM-based domain solutions](https://learn.microsoft.com/en-us/azure/sentinel/domain-based-essential-solutions)
       - [Monitor Zero Trust](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution)
-    - Manage custom content from repositories
+    - Manage content as code using repositories
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd-custom-content)
-      - [Deploy custom content from your repository](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd)
+      - [Deploy content as code from your repository](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd)
       - [Customize repository deployments](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd-custom-deploy)
     - Protect business applications
       - Integrate SAP systems

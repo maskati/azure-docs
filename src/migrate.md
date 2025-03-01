@@ -25,6 +25,7 @@
       - [Discover GCP instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-gcp)
       - [Discover Spring Boot apps](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-spring-boot)
       - [Discover SAP systems preview](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-sap-systems)
+      - [Discover MySQL databases preview](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-mysql-database-instances)
     - Decide
       - [Build a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
     - Assess
@@ -45,6 +46,7 @@
       - [Assess Spring Boot web apps for migration](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-spring-boot)
       - [Build business case or assess imported servers for migration to Azure](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import)
       - [Assess SAP systems for migration preview](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sap-systems)
+      - [Assess MySQL databases for migration to Azure Database for MySQL preview](https://learn.microsoft.com/en-us/azure/migrate/create-mysql-assessment)
     - Migrate
       - Migrate servers in VMware environment
         - [Migration options for servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/vmware/server-migrate-overview?context=/azure/migrate/context/migrate-context)
@@ -61,6 +63,7 @@
       - [Containerize ASP.NET apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service)
       - [Containerize Java web apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-app-service)
       - [Modernize ASP.NET web apps to App Service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-appservice-code)
+      - [Modernize ASP.NET web apps to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-aks)
       - [CI/CD for Day 2 operations](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-azure-pipeline)
   - Concepts
     - General
@@ -84,6 +87,7 @@
       - [Assessments overview migrate to AVS](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-vmware-solution-assessment-calculation)
       - [Assessment best practices](https://learn.microsoft.com/en-us/azure/migrate/best-practices-assessment)
       - [Assessment overview discover and assess SAP Systems preview](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-sap-systems-assessment)
+      - [Assessment overview migrate to Azure Database for MySQL preview](https://learn.microsoft.com/en-us/azure/migrate/assessments-overview-migrate-to-azure-db-mysql)
     - Migrate
       - [Build a migration plan](https://learn.microsoft.com/en-us/azure/migrate/concepts-migration-planning)
       - [VMware migration support](https://learn.microsoft.com/en-us/azure/migrate/vmware/migrate-support-matrix-vmware-migration?context=/azure/migrate/context/migrate-context)

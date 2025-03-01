@@ -23,10 +23,11 @@
       - [With Azure Resource Manager](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-arm)
       - [With Bicep](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-bicep)
       - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-terraform)
-    - Configure backup for Azure Database for PostgreSQL  - Flexible Server
+    - Create a backup policy for Azure Database for PostgreSQL - Flexible Server
       - [With Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-portal)
       - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-cli)
       - [With PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-powershell)
+    - Configure backup for Azure Database for PostgreSQL  - Flexible Server
       - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-terraform)
       - [With Azure Resource Manager template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-arm)
       - [With Azure Bicep template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-bicep)
@@ -53,6 +54,7 @@
     - Back up PostgreSQL databases
       - [Back up the database](https://learn.microsoft.com/en-us/azure/backup/tutorial-postgresql-backup)
       - [Configure and run Cross Region Restore](https://learn.microsoft.com/en-us/azure/backup/tutorial-cross-region-restore)
+    - [Back up Azure Database for PostgreSQL - Flexible Server](https://learn.microsoft.com/en-us/azure/backup/tutorial-create-first-backup-azure-database-postgresql-flex)
     - [Configure item level backup of an AKS cluster](https://learn.microsoft.com/en-us/azure/backup/tutorial-configure-backup-aks)
     - [Configure vaulted backup for Azure Blob](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-tutorial)
     - [Restore vaulted backups for AKS clusters in a secondary region](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-aks-backups-across-regions)
@@ -149,6 +151,12 @@
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-backup-vault)
     - Azure Business Continuity Center
       - [View protectable resources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protectable-resources?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - Create and manage vaults
+        - [Create](https://learn.microsoft.com/en-us/azure/business-continuity-center/backup-vaults?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Manage](https://learn.microsoft.com/en-us/azure/business-continuity-center/manage-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - Create and manage protection policy
+        - [Create](https://learn.microsoft.com/en-us/azure/business-continuity-center/backup-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Manage](https://learn.microsoft.com/en-us/azure/business-continuity-center/manage-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-configure-protection-datasource?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Recover item](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-recover-deleted-item?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [View protected items and perform actions](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protected-items-and-perform-actions?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
@@ -156,6 +164,7 @@
       - [Monitor jobs](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-operate?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Monitor alerts and metrics](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-alerts-metrics?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Monitoring protection summary](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-protection-summary?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Govern and view compliance](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-govern-monitor-compliance?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Support Matrices](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-support-matrix?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
     - Backup center
       - [Monitor and Operate](https://learn.microsoft.com/en-us/azure/backup/backup-center-monitor-operate)
@@ -225,7 +234,7 @@
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-postgresql-database-use-rest-api)
     - Azure Database for PostgreSQL -Flexible server backup
       - From the Azure portal
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex)
+        - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-database-postgresql-flex)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-manage)
       - With Azure CLI

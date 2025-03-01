@@ -43,7 +43,6 @@
       - [PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-powershell)
       - [Terraform](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-terraform)
     - [Create and associate service endpoint policies](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies)
-    - [Deploy dedicated Azure services](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-for-azure-services)
     - [Filter network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic)
     - [Restrict network access to PaaS resources](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
     - [Route network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table)
