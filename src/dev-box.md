@@ -38,7 +38,6 @@
     - [Manage a dev box through developer portal](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
     - [Connect with Windows App](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?context=/azure/dev-box/context/context&pivots=dev-box)
     - [Use Dev Home to manage dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-use-dev-home-customize-dev-box)
-    - [Connect with Remote Desktop](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-connect-to-dev-box-with-remote-desktop-app)
     - [Use multiple monitors](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-configure-multiple-monitors)
   - Security
     - [Provide access to project admins](https://learn.microsoft.com/en-us/azure/dev-box/how-to-project-admin)

@@ -4,11 +4,9 @@
   - Overview
     - [About Peering Service](https://learn.microsoft.com/en-us/azure/peering-service/about)
   - Concepts
-    - [Peering Service FAQ](https://learn.microsoft.com/en-us/azure/peering-service/faq.yml)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/peering-service/faq.yml)
     - [Locations and partners](https://learn.microsoft.com/en-us/azure/peering-service/location-partners)
     - [Peering Service connection](https://learn.microsoft.com/en-us/azure/peering-service/connection)
-    - Security
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/microsoft-azure-peering-service-security-baseline?toc=/azure/peering-service/TOC.json)
     - [Peering service prefix requirements](https://learn.microsoft.com/en-us/azure/peering-service/peering-service-prefix-requirements)
   - How-to-guides
     - Manage Peering Service
@@ -17,6 +15,8 @@
       - [Azure CLI](https://learn.microsoft.com/en-us/azure/peering-service/cli)
     - [Access connection telemetry](https://learn.microsoft.com/en-us/azure/peering-service/connection-telemetry)
     - [Azure Peering Service customer walkthrough](https://learn.microsoft.com/en-us/azure/peering-service/customer-walkthrough)
+  - Security
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/microsoft-azure-peering-service-security-baseline?toc=/azure/peering-service/TOC.json)
   - References
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.peering)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/peering)

@@ -203,7 +203,7 @@
       - [Delegate authentication](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-setup-delegation)
       - [Email notifications and templates](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-configure-notifications)
     - Export APIs
-      - [Inventory APIs in API Center](https://learn.microsoft.com/en-us/azure/api-center/import-api-management-apis?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
+      - [Synchronize APIs to API Center](https://learn.microsoft.com/en-us/azure/api-center/synchronize-api-management-apis?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
       - [Export APIs to Postman for API development](https://learn.microsoft.com/en-us/azure/api-management/export-api-postman)
       - Export APIs to the Power Platform
         - [Export API as custom connector](https://learn.microsoft.com/en-us/azure/api-management/export-api-power-platform)

@@ -6,7 +6,7 @@
     - [Well-Architected review of Azure Firewall](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
     - [SKU comparison](https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku)
     - [Preview features](https://learn.microsoft.com/en-us/azure/firewall/firewall-preview)
-  - Design & achitecture
+  - Design & architecture
     - Policy
       - [Policy rule sets](https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets)
       - [Policy Analytics](https://learn.microsoft.com/en-us/azure/firewall/policy-analytics)

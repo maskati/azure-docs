@@ -11,7 +11,7 @@
       - [Prepare a cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-prepare-cluster)
       - [Deploy to a cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-operations)
       - [Manage, update, or uninstall](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-manage-update-uninstall)
-      - [Upgrade versions](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-upgrade)
+      - [Upgrade](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-upgrade)
       - [Enable secure settings](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-enable-secure-settings)
       - [Production deployment guidelines](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-guidelines)
       - [Production deployment examples](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-examples)

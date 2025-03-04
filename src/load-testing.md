@@ -49,6 +49,7 @@
       - [Move between regions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-move-between-regions)
       - [Move across resource groups or subscriptions](https://learn.microsoft.com/en-us/azure/load-testing/how-to-move-between-resource-groups-subscriptions)
       - [Monitor Azure Load Testing](https://learn.microsoft.com/en-us/azure/load-testing/monitor-load-testing)
+      - [Manage usage limits](https://learn.microsoft.com/en-us/azure/load-testing/how-to-manage-usage-limits)
       - [Enable notifications](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-notification-rules)
     - Test Azure services
       - [Test App Service web apps](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-load-test-app-service)

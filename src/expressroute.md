@@ -99,15 +99,15 @@
         - Migrate
           - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-portal)
           - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-powershell)
-    - Traffic Collector
+    - Traffic collector
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector)
       - [Configure Traffic Collector](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-traffic-collector)
   - Resiliency
     - Design and architecture
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/design-architecture-for-resiliency)
       - [High Availability](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-high-availability-with-expressroute)
-      - Disaster Recovery
-        - [Private Peering](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering)
+      - Disaster recovery
+        - [Private peering](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering)
         - [Using VPN as a backup](https://learn.microsoft.com/en-us/azure/expressroute/use-s2s-vpn-as-backup-for-expressroute-privatepeering)
     - [Evaluate ExpressRoute circuit resiliency](https://learn.microsoft.com/en-us/azure/expressroute/evaluate-circuit-resiliency)
   - Security
@@ -119,6 +119,7 @@
         - [Configure a site-to-site VPN over Microsoft peering](https://learn.microsoft.com/en-us/azure/expressroute/site-to-site-vpn-over-microsoft-peering)
         - [IPsec VPN over private peering](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering?toc=/azure/expressroute/toc.json)
         - [Configure IPsec transport mode for Windows hosts](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-ipsec-transport-private-windows)
+    - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Operational excellence
     - [Plan and manage costs](https://learn.microsoft.com/en-us/azure/expressroute/plan-manage-cost)
     - [Rate limit for service provider ports](https://learn.microsoft.com/en-us/azure/expressroute/provider-rate-limit)
@@ -142,13 +143,14 @@
     - Work remotely
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/expressroute/toc.json)
       - [Hybrid connectivity for remote users](https://learn.microsoft.com/en-us/azure/expressroute/work-remotely-support)
-    - Troubleshoot
-      - [Obtain correlation ID](https://learn.microsoft.com/en-us/azure/expressroute/get-correlation-id)
-      - [Verifying ExpressRoute connectivity](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-expressroute-overview)
-      - [Resolving network performance issues](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-network-performance)
-      - [Reset a failed circuit](https://learn.microsoft.com/en-us/azure/expressroute/reset-circuit)
-      - [Getting ARP tables](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-resource-manager)
-      - [Getting ARP tables Classic](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-classic)
+  - Troubleshoot
+    - [Obtain correlation ID](https://learn.microsoft.com/en-us/azure/expressroute/get-correlation-id)
+    - [Verifying ExpressRoute connectivity](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-expressroute-overview)
+    - [Resolving network performance issues](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-network-performance)
+    - [Reset a failed circuit](https://learn.microsoft.com/en-us/azure/expressroute/reset-circuit)
+    - [Getting ARP tables](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-resource-manager)
+    - [Getting ARP tables Classic](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-classic)
+    - [Questions & answers](https://learn.microsoft.com/answers/tags/225/azure-expressroute)
   - Reference
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute-reference)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
@@ -160,9 +162,9 @@
     - Configure a router for ExpressRoute
       - [Configure a router](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-config-samples-routing)
       - [Router configuration samples for NAT](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-config-samples-nat)
-    - Backend Connectivity Interoperability
-      - [Control Plane Analysis](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-control-plane?toc=/azure/expressroute/toc.json)
-    - [Networking Blog](https://azure.microsoft.com/blog/category/networking/)
+    - Backend connectivity interoperability
+      - [Control plane analysis](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-control-plane?toc=/azure/expressroute/toc.json)
+    - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Pricing](https://azure.microsoft.com/pricing/details/expressroute/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=expressroute&filters=%5B"Azure+ExpressRoute"%5D)

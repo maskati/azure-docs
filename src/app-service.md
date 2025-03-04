@@ -200,6 +200,7 @@
     - [Deploy an application that uses OpenAI on App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps)
     - [Run an SLM in sidecar](https://learn.microsoft.com/en-us/azure/app-service/tutorial-sidecar-local-small-language-model)
     - [Deploy a .NET app with Azure OpenAI and Azure SQL](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps-dotnet-to-azure-sql)
+    - [Invoke OpenAPI app from Azure AI Agent](https://learn.microsoft.com/en-us/azure/app-service/invoke-openapi-web-app-from-azure-ai-agent-service)
   - WordPress
     - [WordPress overview](https://learn.microsoft.com/en-us/azure/app-service/overview-wordpress)
     - [WordPress architecture](https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-app-service?toc=%2Fazure%2Fapp-service%2Ftoc.json&bc=%2Fazure%2Fapp-service%2Fbreadcrumb%2Ftoc.json)

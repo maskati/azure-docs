@@ -146,6 +146,7 @@
     - [Country availability](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/sub-eligibility-number-capability)
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
     - [Short code program brief filling guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/program-brief-guidelines)
+    - [Opt-Out management overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/opt-out-api-concept)
     - [SMS events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-telephony-sms-events)
     - [Toll-free verification guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/toll-free-verification-guidelines)
     - Logging and analytics
@@ -446,7 +447,6 @@
       - [Get a trial phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-trial-phone-number)
       - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)
       - [Lookup number type and carrier details](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/number-lookup)
-      - [Make an outbound call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/call-automation/quickstart-make-an-outbound-call)
       - [Add a Teams user to an existing call](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/teams-interop-call-automation)
       - [Add outbound phone calling to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/pstn-call)
       - [Add emergency calling to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/emergency-calling)
@@ -464,37 +464,46 @@
   - Call Automation
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation)
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
-    - [Answer a call](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/incoming-call-notification)
-    - [Connect to Azure AI](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/azure-communication-services-azure-cognitive-services-integration)
-    - [Gather user input](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/recognize-action)
-    - [Play audio](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/play-action)
-    - [Call recording](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/call-recording)
-    - [Get audio streams from a call](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/audio-streaming-concept)
-    - [Get real-time audio insights using transcriptions](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/real-time-transcription)
-    - [Ring Teams users](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation-teams-interop)
-    - [Call Automation known issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/known-issues-call-automation)
-    - Logging and analytics
-      - [Call Automation insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/call-automation-insights)
-      - [Call Automation logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/call-automation-logs)
-      - [Call Automation metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/call-automation-metrics)
-      - [Recording logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/recording-logs)
-      - [Call recording insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/call-recording-insights)
-    - Samples and tutorials
+    - Call management
+      - [Answer a call](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/incoming-call-notification)
+      - [Make an outbound call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/call-automation/quickstart-make-an-outbound-call)
       - [Control and steer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/actions-for-call-control)
+      - [Pass contextual data between calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/custom-context)
+      - [Ring Teams users](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation-teams-interop)
+    - Interactive voice and AI
+      - [Connect to Azure AI](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/azure-communication-services-azure-cognitive-services-integration)
+      - [Play audio](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/play-action)
+      - [Gather user input](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/recognize-action)
       - [Control mid call media actions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/control-mid-call-media-actions)
       - [Customize voice prompts to users with play action](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/play-action)
       - [Gather user input with recognize action](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/recognize-action)
-      - Call recording
-        - [Record a call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-call-recording)
-        - [Record every call in the resource](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/record-every-call)
+    - Call recording
+      - [Call recording overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/call-recording)
+      - [Record a call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-call-recording)
+      - [Record a call automatically](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/record-every-call)
+    - Transcripts
+      - [Get real-time audio insights using transcriptions](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/real-time-transcription)
       - [Add real-time transcription](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/real-time-transcription-tutorial)
+    - Audio streaming
+      - [Get audio streams from a call](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/audio-streaming-concept)
+      - [Implement audio streaming](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/audio-streaming-quickstart)
+    - Logging and analytics
+      - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
+      - [Call Automation insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/call-automation-insights)
+      - [Call Automation logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/call-automation-logs)
+      - [Call Automation metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/call-automation-metrics)
+      - [Call recording logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/recording-logs)
+      - [Call recording insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/call-recording-insights)
+    - Troubleshooting and known issues
+      - [Troubleshooting response codes](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/troubleshooting-codes?pivots=automation)
+      - [Call Automation known issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/known-issues-call-automation)
+    - Samples and tutorials
       - [Secure webhook endpoints](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/secure-webhook-endpoint)
       - [Handle Call Automation events with EventProcessor](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/handle-events-with-event-processor)
-      - [Pass contextual data between calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/custom-context)
-      - [Implement audio streaming](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/audio-streaming-quickstart)
       - [Call Automation Azure OpenAI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-azure-openai-sample)
       - [Call Automation AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-ai)
     - References
+      - [Call Automation REST](https://learn.microsoft.com/rest/api/communication/callautomation/operation-groups)
       - [Call Automation JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-call-automation-readme)
       - [Call Automation .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.callautomation-readme)
       - [Call Automation Java](https://learn.microsoft.com/java/api/overview/azure/communication-callautomation-readme)
