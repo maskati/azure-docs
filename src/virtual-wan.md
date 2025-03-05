@@ -65,8 +65,6 @@
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/virtual-wan/roles-permissions)
     - [Gateway settings](https://learn.microsoft.com/en-us/azure/virtual-wan/gateway-settings)
     - [Apply Zero Trust principles](https://learn.microsoft.com/security/zero-trust/azure-virtual-wan?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
-    - [Secured virtual hubs](https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-wan-security-baseline?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Pricing explained](https://learn.microsoft.com/en-us/azure/virtual-wan/pricing-concepts)
   - How-to guides
     - [Upgrade from Basic to Standard](https://learn.microsoft.com/en-us/azure/virtual-wan/upgrade-virtual-wan)
@@ -164,12 +162,6 @@
       - Configure BGP peering to an NVA
         - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/create-bgp-peering-hub-portal)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/create-bgp-peering-hub-powershell)
-    - Security
-      - [Install Azure Firewall in a hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall)
-      - [Inter-hub and branch-to-branch inspection](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
-      - [Software-as-a-service SaaS](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-palo-alto-cloud-ngfw)
-      - [Configure Private Link connectivity](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-private-link)
-      - [Manage access to resources - Spoke VNet P2S](https://learn.microsoft.com/en-us/azure/virtual-wan/manage-secure-access-resources-spoke-p2s)
     - Monitoring
       - [Monitor Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan)
       - [Azure Monitor Insights](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-monitor-insights)
@@ -180,6 +172,15 @@
         - [PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/packet-capture-site-to-site-powershell)
       - [Advanced Monitoring for P2S VPN](https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-point-to-site-connections)
     - [Configure customer-controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/virtual-wan/customer-controlled-gateway-maintenance)
+  - Security
+    - [Secured virtual hubs](https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-wan-security-baseline?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
+    - [Install Azure Firewall in a hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall)
+    - [Inter-hub and branch-to-branch inspection](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
+    - [Software-as-a-service SaaS](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-palo-alto-cloud-ngfw)
+    - [Configure Private Link connectivity](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-private-link)
+    - [Manage access to resources - Spoke VNet P2S](https://learn.microsoft.com/en-us/azure/virtual-wan/manage-secure-access-resources-spoke-p2s)
+    - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
     - [REST](https://learn.microsoft.com/rest/api/azure)
@@ -187,10 +188,11 @@
     - [Python SDK](https://azuresdkdocs.blob.core.windows.net/$web/python/azure-mgmt-network/10.0.0/azure.mgmt.network.v2019_02_01.operations.html)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan-reference)
   - Resources
+    - [Azure Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/34/azure-virtual-wan)
+    - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
+    - [Subscription and service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/virtual-wan/toc.json)
     - [Pricing](https://azure.microsoft.com/pricing/details/virtual-wan)
-    - [Subscription and service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
-    - [Networking Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
-    - [Networking blog](https://azure.microsoft.com/blog/category/networking)
-    - [Networking update announcements](https://go.microsoft.com/fwlink/?linkid=2299811)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [SLA](https://azure.microsoft.com/support/legal/sla)
+    - [Preview SLA](https://azure.microsoft.com/support/legal/preview-supplemental-terms)

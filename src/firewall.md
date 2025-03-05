@@ -6,6 +6,8 @@
     - [Well-Architected review of Azure Firewall](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
     - [SKU comparison](https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku)
     - [Preview features](https://learn.microsoft.com/en-us/azure/firewall/firewall-preview)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq.yml)
+    - [Known issues and limitations](https://learn.microsoft.com/en-us/azure/firewall/firewall-known-issues)
   - Design & architecture
     - Policy
       - [Policy rule sets](https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets)
@@ -39,7 +41,7 @@
       - [Cerficates](https://learn.microsoft.com/en-us/azure/firewall/premium-certificates)
       - [Enterprise CA Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy-certificates-enterprise-ca)
     - To a hybrid Network
-      - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy)
+      - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal-policy)
       - [PowerShell](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-ps)
     - [Firewall with inbound DNAT rules](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat-policy)
     - [Firewall with DDoS protection](https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall)
@@ -114,8 +116,6 @@
     - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
     - [Monitoring dataWinRT reference](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall-reference)
   - Resources
-    - [FAQ](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq.yml)
-    - [Known issues and limitations](https://learn.microsoft.com/en-us/azure/firewall/firewall-known-issues)
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
     - [Community templates](https://azure.microsoft.com/documentation/templates)
     - [Pricing](https://azure.microsoft.com/pricing/details/azure-firewall/)

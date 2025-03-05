@@ -23,8 +23,9 @@
     - [Work with NSGs](https://learn.microsoft.com/en-us/azure/bastion/bastion-nsg)
     - Reliability
       - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
-    - Security
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/bastion-security-baseline?toc=/azure/bastion/TOC.json)
+  - Security
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/bastion-security-baseline?toc=/azure/bastion/TOC.json)
+    - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - How-to guides
     - Deploy Bastion
       - [Azure portal](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
@@ -68,9 +69,10 @@
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/bastion)
     - [Bastion monitoring data reference](https://learn.microsoft.com/en-us/azure/bastion/monitor-bastion-reference)
   - Resources
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
-    - [Blog](https://azure.microsoft.com/blog/topics/networking/)
+    - [Azure Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+    - [Microsoft Q&A question page - Azure Bastion](https://learn.microsoft.com/answers/tags/119/azure-bastion)
+    - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
     - [Pricing](https://azure.microsoft.com/pricing/details/azure-bastion/)
-    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
-    - [Preview SLA](https://azure.microsoft.com/support/legal/preview-supplemental-terms)
+    - [Subscription and service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/bastion/toc.json)
     - [SLA](https://azure.microsoft.com/support/legal/sla)
+    - [Preview SLA](https://azure.microsoft.com/support/legal/preview-supplemental-terms)

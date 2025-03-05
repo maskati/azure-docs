@@ -262,6 +262,7 @@
       - [jsonp](https://learn.microsoft.com/en-us/azure/api-management/jsonp-policy)
       - [json-to-xml](https://learn.microsoft.com/en-us/azure/api-management/json-to-xml-policy)
       - [limit-concurrency](https://learn.microsoft.com/en-us/azure/api-management/limit-concurrency-policy)
+      - [llm-content-safety](https://learn.microsoft.com/en-us/azure/api-management/llm-content-safety-policy)
       - [llm-emit-token-metric](https://learn.microsoft.com/en-us/azure/api-management/llm-emit-token-metric-policy)
       - [llm-semantic-cache-lookup](https://learn.microsoft.com/en-us/azure/api-management/llm-semantic-cache-lookup-policy)
       - [llm-semantic-cache-store](https://learn.microsoft.com/en-us/azure/api-management/llm-semantic-cache-store-policy)

@@ -38,6 +38,13 @@
       - [Using ARM template](https://learn.microsoft.com/en-us/azure/backup/backup-blobs-storage-account-arm-template)
       - [Using Bicep](https://learn.microsoft.com/en-us/azure/backup/backup-blobs-storage-account-bicep)
     - [Install Backup extension in AKS cluster](https://learn.microsoft.com/en-us/azure/backup/quick-install-backup-extension)
+    - [Create a backup policy for Azure Files](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-portal)
+    - Configure vaulted backup for Azure Files
+      - [With Azure PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-powershell)
+      - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-cli)
+      - [With Azure Resource Manager](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-arm)
+      - [With Azure Bicep](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-bicep)
+      - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-terraform)
     - [Enable Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/enable-multi-user-authorization-quickstart)
     - Backup SAP HANA System Replication database
       - [Backup](https://learn.microsoft.com/en-us/azure/backup/quick-backup-hana-cli)
@@ -54,10 +61,13 @@
     - Back up PostgreSQL databases
       - [Back up the database](https://learn.microsoft.com/en-us/azure/backup/tutorial-postgresql-backup)
       - [Configure and run Cross Region Restore](https://learn.microsoft.com/en-us/azure/backup/tutorial-cross-region-restore)
-    - [Back up Azure Database for PostgreSQL - Flexible Server](https://learn.microsoft.com/en-us/azure/backup/tutorial-create-first-backup-azure-database-postgresql-flex)
+    - Back up Azure Database for PostgreSQL - Flexible Server
+      - [Backup](https://learn.microsoft.com/en-us/azure/backup/tutorial-create-first-backup-azure-database-postgresql-flex)
+      - [Restore](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-postgresql-flex)
     - [Configure item level backup of an AKS cluster](https://learn.microsoft.com/en-us/azure/backup/tutorial-configure-backup-aks)
     - [Configure vaulted backup for Azure Blob](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-tutorial)
     - [Restore vaulted backups for AKS clusters in a secondary region](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-aks-backups-across-regions)
+    - [Back up Azure Files using Azure portal](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-azure-files-vault-tier-portal)
     - [Back up Windows Server](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-windows-server-to-azure)
     - [Restore files to Windows Server](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-restore-files-windows-server)
     - SAP HANA databases on Azure VMs – using CLI
@@ -82,7 +92,7 @@
       - [SAP HANA Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-hana-backup-support-matrix)
       - [SAP ASE Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-ase-backup-support-matrix)
       - [Azure Database for MySQL - Flexible Server long-term retention support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)
-      - [Azure file share backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-support-matrix)
+      - [Azure files backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-support-matrix)
       - [Azure Disk Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/disk-backup-support-matrix)
       - [Azure Blobs backup support matrix](https://learn.microsoft.com/en-us/azure/backup/blob-backup-support-matrix)
       - [Active Directory domain controllers](https://learn.microsoft.com/en-us/azure/backup/active-directory-backup-restore)
@@ -123,7 +133,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-overview)
       - [Prerequisites](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-concept)
     - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/blob-backup-overview)
-    - [Azure File share backup](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)
+    - [Azure Files backup](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)
     - Windows backup using MARS agent
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-about-mars)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/about-restore-microsoft-azure-recovery-services)
@@ -302,9 +312,9 @@
         - [Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-create-update-blob-policy)
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-backup-blobs)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-restore-blobs)
-    - Azure File share backup
+    - Azure Files backup
       - From the Azure portal
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files)
+        - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-afs)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-afs-backup)
       - With Azure CLI
@@ -430,7 +440,7 @@
         - [For virtual machines](https://learn.microsoft.com/en-us/azure/backup/soft-delete-virtual-machines)
         - [For SQL Server and SAP HANA in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/soft-delete-sql-saphana-in-azure-vm)
       - [Configure and manage enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-configure-manage)
-      - [Delete protection for Azure file shares](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-file-share)
+      - [Delete protection for Azure files](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-file-share)
       - Ransomware protection
         - [Overview](https://learn.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
         - [Integrate with Microsoft Defender's ransomware alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-integrate-microsoft-defender-using-logic-apps)
@@ -461,7 +471,7 @@
       - [Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mabs-troubleshoot)
       - [Azure Backup Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-vault-troubleshoot)
       - [System Center DPM](https://learn.microsoft.com/en-us/azure/backup/backup-azure-scdpm-troubleshooting)
-      - [Azure File share](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-azure-files)
+      - [Azure Files](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-azure-files)
       - [Azure Disk Backup](https://learn.microsoft.com/en-us/azure/backup/disk-backup-troubleshoot)
       - [SQL Server](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-azure-troubleshoot)
       - [Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-troubleshoot)

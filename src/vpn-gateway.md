@@ -165,6 +165,7 @@
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/vpn-gateway-security-baseline?toc=/azure/vpn-gateway/TOC.json)
     - [About cryptographic requirements](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-compliance-crypto)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/vpn-gateway/roles-permissions)
+    - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Routing
     - [Forced tunneling](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-tunneling)
     - [Gateway transit for VNet peering](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-peering-gateway-transit)
@@ -205,10 +206,11 @@
     - [REST classic](https://learn.microsoft.com/previous-versions/azure/reference/jj154113(v=azure.100))
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/vnet-gateway)
   - Resources
-    - [Networking blog](https://azure.microsoft.com/blog/category/networking/)
-    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
+    - [Azure Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/102/azure-vpn-gateway)
+    - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
     - [Subscription and service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/vpn-gateway/toc.json)
     - [Pricing](https://azure.microsoft.com/pricing/details/vpn-gateway)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [SLA](https://azure.microsoft.com/support/legal/sla)
-    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=vpn-gateway)
+    - [Preview SLA](https://azure.microsoft.com/support/legal/preview-supplemental-terms)
