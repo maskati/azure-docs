@@ -17,10 +17,14 @@
     - [Azure Peering Service customer walkthrough](https://learn.microsoft.com/en-us/azure/peering-service/customer-walkthrough)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/microsoft-azure-peering-service-security-baseline?toc=/azure/peering-service/TOC.json)
+    - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - References
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.peering)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/peering)
   - Resources
-    - [Networking blog](https://azure.microsoft.com/blog/category/networking)
-    - [Microsoft Q&A question page for Networking](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
+    - [Microsoft Q&A](https://learn.microsoft.com/answers/tags/133/azure)
+    - [Azure Networking Blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
+    - [Azure support](https://azure.microsoft.com/support)
+    - [Service updates](https://azure.microsoft.com/updates)
+    - [SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)

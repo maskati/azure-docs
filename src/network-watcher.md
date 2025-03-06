@@ -104,6 +104,7 @@
       - [FAQ](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-faq.yml)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/network-watcher-security-baseline?toc=/azure/network-watcher/toc.json)
+    - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/watcher)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/)
@@ -116,6 +117,7 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/networkWatchers/)
   - Resources
     - [Microsoft Q&A](https://learn.microsoft.com/answers/topics/azure-network-watcher.html)
+    - [Azure Networking Blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Product feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789?c=cd276b66-8326-ec11-b6e6-000d3a4f0789)
     - [Azure support](https://azure.microsoft.com/support/)
     - [Pricing](https://azure.microsoft.com/pricing/details/network-watcher/)

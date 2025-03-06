@@ -27,12 +27,18 @@
     - [Configure and manage Route Server](https://learn.microsoft.com/en-us/azure/route-server/configure-route-server)
     - [Troubleshoot Route Server issues](https://learn.microsoft.com/en-us/azure/route-server/troubleshoot-route-server)
     - [Monitor Route Server](https://learn.microsoft.com/en-us/azure/route-server/monitor-route-server)
+  - Security
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-route-server-security-baseline?toc=/azure/route-server/toc.json)
+    - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/routeserver)
   - Resources
-    - [Networking Blog](https://azure.microsoft.com/blog/category/networking/)
+    - [Microsoft Q&A](https://learn.microsoft.com/answers/tags/501/route-server)
+    - [Azure Networking Blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+    - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
+    - [Azure support](https://azure.microsoft.com/support)
     - [Pricing](https://azure.microsoft.com/pricing/details/route-server/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
-    - [Service updates](https://azure.microsoft.com/updates/?product=routeserver)
-    - [SLA](https://azure.microsoft.com/support/legal/sla/route-server/v1_0/)
+    - [Service updates](https://azure.microsoft.com/updates/?filters=%5B"Azure+Route+Server"%5D)
+    - [SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)

@@ -82,7 +82,6 @@
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/iot-hub-security-baseline?toc=/azure/iot-hub/TOC.json)
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/iot-hub/security-controls-policy)
       - [IoT security best practices](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security?context=%2fazure%2fiot-hub%2frc%2frc)
-      - [IoT security architecture](https://learn.microsoft.com/en-us/azure/iot/iot-security-architecture?context=%2fazure%2fiot-hub%2frc%2frc)
   - How-to guides
     - Manage
       - [Create an IoT hub](https://learn.microsoft.com/en-us/azure/iot-hub/create-hub)

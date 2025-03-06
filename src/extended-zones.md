@@ -15,10 +15,15 @@
     - [Deploy an AKS cluster in an Extended Zone](https://learn.microsoft.com/en-us/azure/extended-zones/deploy-aks-cluster)
     - [Deploy a storage account in an Extended Zone](https://learn.microsoft.com/en-us/azure/extended-zones/create-storage-account)
     - [Request quota increase](https://learn.microsoft.com/en-us/azure/extended-zones/request-quota-increase)
+  - Security
+    - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/edge-zones)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.edgezones)
   - Resources
     - [Microsoft Q&A](https://learn.microsoft.com/answers/tags/133/azure)
-    - [Azure support](https://azure.microsoft.com/support/)
+    - [Azure Networking Blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+    - [Azure support](https://azure.microsoft.com/support)
+    - [Pricing](https://azure.microsoft.com/pricing)
     - [Service updates](https://azure.microsoft.com/updates)
+    - [SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)

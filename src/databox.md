@@ -3,14 +3,14 @@
   - [Azure Data Box Documentation - Offline Transfer](https://learn.microsoft.com/en-us/azure/databox/)
     - Data Box
       - Overview
-        - [What is Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview)
-        - [What is next-gen Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-overview)
+        - [What is Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview?pivots=dbx)
+        - [What is next-gen Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview?pivots=dbx-ng)
       - Quickstarts
         - Set up - Azure portal
-          - [For import](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal)
-          - [For import - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-quickstart-portal)
-          - [For export](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-export)
-          - [For export - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-quickstart-export)
+          - [For import](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal?pivots=dbx)
+          - [For import - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal?pivots=dbx-ng)
+          - [For export](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-export?pivots=dbx)
+          - [For export - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-export?pivots=dbx-ng)
       - Tutorials
         - Import data to Azure
           - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-ordered)

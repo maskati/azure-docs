@@ -38,7 +38,6 @@
     - [Use MQTT to connect a device](https://learn.microsoft.com/en-us/azure/iot/tutorial-use-mqtt)
     - [Implement the Industrial IoT reference solution](https://learn.microsoft.com/en-us/azure/iot/tutorial-iot-industrial-solution-architecture)
   - Concepts
-    - [Security architecture](https://learn.microsoft.com/en-us/azure/iot/iot-security-architecture)
     - IoT device development
       - [What is IoT device development](https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-development)
       - [IoT device types](https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-types)

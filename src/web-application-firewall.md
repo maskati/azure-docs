@@ -76,6 +76,7 @@
     - [Protect Azure OpenAI](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/web-application-firewall-security-baseline?toc=/azure/web-application-firewall/toc.json)
+    - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
     - Sensitive Data Protection
       - Application Gateway
         - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-sensitive-data-protection)
@@ -117,7 +118,11 @@
     - [Node.js](https://azure.microsoft.com/develop/nodejs/)
     - [Python](https://azure.microsoft.com/develop/python/)
   - Resources
-    - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
-    - [Community templates](https://azure.microsoft.com/documentation/templates)
+    - [Microsoft Q&A](https://learn.microsoft.com/answers/topics/azure-web-application-firewall.html)
+    - [Azure Networking Blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+    - [Azure support](https://azure.microsoft.com/support/)
     - [Pricing](https://azure.microsoft.com/pricing/details/web-application-firewall/)
+    - [Service updates](https://azure.microsoft.com/updates?filters=%5B"Web+Application+Firewall"%5D)
+    - [SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)
     - [Regional availability](https://azure.microsoft.com/regions/services/)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-waf)

@@ -39,6 +39,8 @@
       - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-exchange-portal)
       - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-exchange-powershell)
     - [Create or modify an Exchange peering with route server](https://learn.microsoft.com/en-us/azure/internet-peering/how-to-exchange-route-server-portal)
+  - Security
+    - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
@@ -47,6 +49,11 @@
     - [Python](https://azure.microsoft.com/develop/python/)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/allversions)
   - Resources
+    - [Microsoft Q&A](https://learn.microsoft.com/answers/tags/133/azure)
+    - [Azure Networking Blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
-    - [Networking blog](https://azure.microsoft.com/blog/category/networking)
     - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
+    - [Azure support](https://azure.microsoft.com/support)
+    - [Pricing](https://azure.microsoft.com/pricing)
+    - [Service updates](https://azure.microsoft.com/updates)
+    - [SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)
