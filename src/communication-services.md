@@ -8,12 +8,8 @@
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
   - Fundamentals
     - [Create a Communication Services resource](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/create-communication-resource)
-    - [Create an access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
-    - [Events overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
-    - [Subscribe to events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/events/subscribe-to-events)
     - [SDKs and APIs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sdk-options)
     - [Service limits](https://learn.microsoft.com/en-us/azure/communication-services/concepts/service-limits)
-    - [Enable managed identity](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/managed-identity)
     - Privacy, compliance, and security
       - [Data residency and user privacy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/privacy)
       - [European Union Data Boundary](https://learn.microsoft.com/en-us/azure/communication-services/concepts/european-union-data-boundary)
@@ -21,8 +17,9 @@
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-communication-services-security-baseline?toc=/azure/communication-services/toc.json)
   - Identity
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/identity-model)
+    - [Access tokens for end users](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
     - [Authenticate services](https://learn.microsoft.com/en-us/azure/communication-services/concepts/authentication)
-    - [Authenticate participants](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
+    - [Enable managed identity](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/managed-identity)
     - [Understand identifiers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/identifiers)
     - [Credentials best practices](https://learn.microsoft.com/en-us/azure/communication-services/concepts/credentials-best-practices)
     - [Use cases for string identifiers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/raw-id-use-cases)
@@ -45,12 +42,14 @@
     - [Government clouds](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/government-cloud)
     - [Translate chats](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/chat-sdk/translating-chats)
     - Events
+      - [Events overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+      - [Subscribe to events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/events/subscribe-to-events)
       - [Chat events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-chat-events)
       - [Server events](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
     - Logging and analytics
+      - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
       - [Chat metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/chat-metrics)
       - [Chat logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/chat-logs)
-      - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
       - [Chat insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/chat-insights)
       - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
     - Samples and tutorials
@@ -88,6 +87,7 @@
       - [Prepare an email resource](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/prepare-email-communication-resource)
       - [Get a free Azure managed domain](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-azure-managed-domains)
       - [Add a custom domain](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-custom-verified-domains)
+      - [Troubleshooting domain configuration issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-domain-configuration-troubleshooting)
       - [Connect domain to send email](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/connect-email-communication-resource)
       - [Add multiple sender addresses](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-multiple-senders)
       - [Add multiple sender addresses with Management SDKs](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-multiple-senders-mgmt-sdks)
@@ -115,10 +115,10 @@
       - [Manage domain suppression lists in the Azure portal](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/manage-suppression-lists)
       - [Email domains and sender authentication](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-domain-and-sender-authentication)
       - [Best practices for sender authentication support](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-authentication-best-practice)
-      - [Troubleshooting domain configuration issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-domain-configuration-troubleshooting)
       - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
     - Events
-      - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+      - [Events overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+      - [Subscribe to events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/events/subscribe-to-events)
       - [Email events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-email-events)
       - [View email events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/handle-email-events)
     - Logging and analytics
@@ -147,12 +147,15 @@
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
     - [Short code program brief filling guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/program-brief-guidelines)
     - [Opt-Out management overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/opt-out-api-concept)
-    - [SMS events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-telephony-sms-events)
+    - Events
+      - [Events overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+      - [Subscribe to events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/events/subscribe-to-events)
+      - [SMS events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-telephony-sms-events)
     - [Toll-free verification guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/toll-free-verification-guidelines)
     - Logging and analytics
+      - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
       - [SMS logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/sms-logs)
       - [SMS metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/sms-metrics)
-      - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
       - [SMS insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/sms-insights)
       - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
     - Samples and tutorials
@@ -179,6 +182,7 @@
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
     - [WhatsApp business account FAQ](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-business-account-faq)
     - Logging and analytics
+      - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
       - [Advanced Messaging logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/logs)
       - [Message analysis](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/message-analysis/message-analysis)
       - [Message analysis transparency FAQ](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/message-analysis/message-analysis-transparency-faq)
@@ -263,7 +267,8 @@
       - [Enable closed captions](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-with-closed-captions)
       - [Enable closed captions for Teams interop](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/closed-captions-teams-interop-how-to)
     - Events
-      - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+      - [Events overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
+      - [Subscribe to events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/events/subscribe-to-events)
       - [Voice and video events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-voice-video-events)
       - [View calling events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/handle-calling-events)
     - Migrate from Twilio to Azure Communication Services
@@ -468,6 +473,7 @@
       - [Answer a call](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/incoming-call-notification)
       - [Make an outbound call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/call-automation/quickstart-make-an-outbound-call)
       - [Control and steer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/actions-for-call-control)
+      - [Mute participants during a call](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/mute-participants)
       - [Pass contextual data between calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/custom-context)
       - [Ring Teams users](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation-teams-interop)
     - Interactive voice and AI

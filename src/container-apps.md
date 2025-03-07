@@ -182,28 +182,33 @@
     - Java
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/java-overview)
       - [Turn on Java features](https://learn.microsoft.com/en-us/azure/container-apps/java-feature-switch)
-      - [Launch your first Java app](https://learn.microsoft.com/en-us/azure/container-apps/java-get-started)
-      - Artificial Intelligence
+      - [Automatic memory fitting preview](https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit)
+      - [Build environment variables preview](https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables)
+      - Launch your first Java app
+        - [Dockerfile](https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/java-get-started-dockerfile)
+        - [Github repository](https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/java-get-started-github-repository)
+        - [IntelliJ](https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/create-container-apps-intellij?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
+        - [Artifacts preview](https://learn.microsoft.com/en-us/azure/container-apps/java-get-started)
+      - Artificial intelligence
         - PetClinic AI
           - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/java-petclinic-ai-overview)
           - [Deploy the PetClinic AI sample](https://learn.microsoft.com/en-us/azure/container-apps/java-petclinic-ai-tutorial)
-      - [Launch your first Java microservice apps with managed Java components](https://learn.microsoft.com/en-us/azure/container-apps/java-microservice-get-started)
-      - [Get started using IntelliJ](https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/create-container-apps-intellij?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
-      - [Automatic memory fitting preview](https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit)
-      - [Build environment variables preview](https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables)
-      - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics)
-      - [Scale with Java metrics](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics-scale-with-keda)
-      - [Connect to Eureka Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server)
-      - [Connect to Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin)
-      - [Connect to Config Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-config-server)
-      - [Connect to Gateway for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-gateway-for-spring)
-      - [Set dynamic logger level](https://learn.microsoft.com/en-us/azure/container-apps/java-dynamic-log-level)
-      - Tutorials
+      - Java components
+        - [Launch your first Java microservice apps with managed Java components](https://learn.microsoft.com/en-us/azure/container-apps/java-microservice-get-started)
+        - [Connect to Eureka Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server)
         - [Integrate Eureka Server with Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin-eureka-integration)
-        - [Query managed component logs](https://learn.microsoft.com/en-us/azure/container-apps/java-component-logs)
-        - [Configure Application Performance Management APM Java agent with init-container](https://learn.microsoft.com/en-us/azure/container-apps/java-application-performance-management-config)
         - [Create a highly available Eureka server component cluster](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-highly-available)
+        - [Connect to Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin)
+        - [Connect to Config Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-config-server)
+        - [Connect to Gateway for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-gateway-for-spring)
+      - Monitoring
+        - [Java metrics](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics)
+        - [Query managed component logs](https://learn.microsoft.com/en-us/azure/container-apps/java-component-logs)
+        - [Configure application performance management APM Java agent with init-container](https://learn.microsoft.com/en-us/azure/container-apps/java-application-performance-management-config)
+        - [Scale with Java metrics](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics-scale-with-keda)
         - [Build a Java metrics dashboard with Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/container-apps/java-metrics-with-grafana)
+      - Diagnostic
+        - [Set dynamic logger level](https://learn.microsoft.com/en-us/azure/container-apps/java-dynamic-log-level)
     - JavaScript
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/javascript-overview)
   - Billing & quotas

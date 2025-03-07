@@ -87,6 +87,7 @@
     - [Azure Table Storage](https://learn.microsoft.com/en-us/azure/service-connector/how-to-integrate-storage-table)
     - [Azure Web PubSub](https://learn.microsoft.com/en-us/azure/service-connector/how-to-integrate-web-pubsub)
     - [Apache Kafka on Confluent Cloud](https://learn.microsoft.com/en-us/azure/service-connector/how-to-integrate-confluent-kafka)
+    - [Neon Serverless Postgres](https://learn.microsoft.com/en-us/azure/service-connector/how-to-integrate-neon-postgres)
   - Reference
     - [REST API](https://learn.microsoft.com/rest/api/serviceconnector?toc=/azure/service-connector/TOC.json&bc=/azure/service-connector/breadcrumb/toc.json)
     - [Python SDK](https://learn.microsoft.com/python/api/azure-mgmt-servicelinker?toc=/azure/service-connector/TOC.json&bc=/azure/service-connector/breadcrumb/toc.json)

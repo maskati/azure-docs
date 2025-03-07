@@ -16,10 +16,10 @@
       - [MSIXMGR tool](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-msixmgr)
       - [Multimedia redirection](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-multimedia-redirection)
       - Remote Desktop app
-        - [Windows](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-windows)
-        - [macOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-macos)
-        - [iOS/iPadOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-ios-ipados)
-        - [Android/Chrome OS](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-android-chrome-os)
+        - [Windows](https://learn.microsoft.com/previous-versions/remote-desktop-client/whats-new-windows)
+        - [macOS](https://learn.microsoft.com/previous-versions/remote-desktop-client/whats-new-macos)
+        - [iOS/iPadOS](https://learn.microsoft.com/previous-versions/remote-desktop-client/whats-new-ios-ipados)
+        - [Android/Chrome OS](https://learn.microsoft.com/previous-versions/remote-desktop-client/whats-new-android-chrome-os)
       - [WebRTC Redirector Service](https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-webrtc)
       - [Windows App](https://learn.microsoft.com/windows-app/whats-new?context=/azure/virtual-desktop/context/context)
   - Quickstart
@@ -171,21 +171,15 @@
     - [Set up email discovery](https://learn.microsoft.com/windows-server/remote/remote-desktop-services/rds-email-discovery?context=/azure/virtual-desktop/context/context)
     - [Tag resources](https://learn.microsoft.com/en-us/azure/virtual-desktop/tag-virtual-desktop-resources)
   - Connect
+    - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/connect-azure-virtual-desktop)
     - Windows App
       - [What is Windows App?](https://learn.microsoft.com/windows-app/overview)
-      - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?pivots=azure-virtual-desktop)
+      - [Compare Windows App features across platforms and devices](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?pivots=azure-virtual-desktop)
       - [Windows App documentation](https://learn.microsoft.com/windows-app/)
-    - Remote Desktop app
-      - [Remote Desktop app overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/remote-desktop-clients-overview?context=/azure/virtual-desktop/context/context)
-      - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-remote-desktop-client?context=/azure/virtual-desktop/context/context)
-      - Use Remote Desktop app features
-        - [Windows](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-windows?context=/azure/virtual-desktop/context/context)
-        - [Web browser](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-web?context=/azure/virtual-desktop/context/context)
-        - [macOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-macos?context=/azure/virtual-desktop/context/context)
-        - [iOS/iPadOS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-ios-ipados?context=/azure/virtual-desktop/context/context)
-        - [Android/Chrome OS](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/client-features-android-chrome-os?context=/azure/virtual-desktop/context/context)
-      - [Compare the Remote Desktop app across platforms](https://learn.microsoft.com/en-us/azure/virtual-desktop/compare-remote-desktop-clients)
-      - [Install the Remote Desktop app for Windows on a per-user basis](https://learn.microsoft.com/en-us/azure/virtual-desktop/install-windows-client-per-user)
+    - Remote Desktop client
+      - [Remote Desktop client overview](https://learn.microsoft.com/previous-versions/remote-desktop-client/overview)
+      - [Compare the Remote Desktop app across platforms](https://learn.microsoft.com/previous-versions/remote-desktop-client/compare-remote-desktop-clients?pivots=azure-virtual-desktop)
+      - [Install the Remote Desktop client for Windows on a per-user basis](https://learn.microsoft.com/previous-versions/remote-desktop-client/install-windows-client-per-user)
       - [Uniform Resource Identifier schemes](https://learn.microsoft.com/en-us/azure/virtual-desktop/uri-scheme)
     - Peripheral and resource redirection
       - [Peripheral and resource redirection overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-remote-desktop-protocol)
@@ -205,7 +199,7 @@
       - [Configure client redirection using Intune](https://learn.microsoft.com/en-us/azure/virtual-desktop/client-device-redirection-intune)
     - [Supported RDP properties](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-properties)
     - [Print using Universal Print](https://learn.microsoft.com/universal-print/fundamentals/universal-print-avd?context=/azure/virtual-desktop/context/context)
-    - [Thin client partners](https://learn.microsoft.com/en-us/azure/virtual-desktop/users/connect-thin-clients?context=/azure/virtual-desktop/context/context)
+    - [Thin client partners](https://learn.microsoft.com/en-us/azure/virtual-desktop/thin-clients)
   - Monitor
     - Azure Virtual Desktop Insights
       - [Estimate Azure Monitor costs](https://learn.microsoft.com/en-us/azure/virtual-desktop/insights-costs)
@@ -231,18 +225,9 @@
     - [Azure Virtual Desktop PowerShell](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-powershell?context=/azure/virtual-desktop/context/context)
     - [Azure Virtual Desktop Agent](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-agent?context=/azure/virtual-desktop/context/context)
     - [Service connections](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-service-connection?context=/azure/virtual-desktop/context/context)
-    - Remote Desktop app
-      - [Windows Desktop client basic troubleshooting](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-windows-basic-shared)
-      - [Windows Desktop client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-windows)
-      - [Azure Virtual Desktop Store app](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-windows-azure-virtual-desktop-app)
-      - [Web client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-web)
-      - [macOS client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-macos)
-      - [iOS/iPadOS client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-ios-ipados)
-      - [Android/Chrome OS client](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-android-chrome-os)
-      - [Remote Desktop app for Windows](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client-microsoft-store)
     - [Diagnosing graphics performance issues](https://learn.microsoft.com/en-us/azure/virtual-desktop/remotefx-graphics-performance-counters)
     - [Connections to Microsoft Entra joined VMs](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-azure-ad-connections?context=/azure/virtual-desktop/context/context)
-    - [Device redirections](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-device-redirections?context=/azure/virtual-desktop/context/context)
+    - [Device redirection](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-device-redirections?context=/azure/virtual-desktop/context/context)
     - [Azure Virtual Desktop Insights](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-insights?context=/azure/virtual-desktop/context/context)
     - [Azure Files authorization](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-authorization?context=/azure/virtual-desktop/context/context)
     - [Connection quality issues](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-connection-quality?context=/azure/virtual-desktop/context/context)
