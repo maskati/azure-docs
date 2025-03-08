@@ -16,9 +16,6 @@
     - [Extensions](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/extensions)
     - [Available VM sizes](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/available-sizes)
     - [Power and Provisioning States](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/states)
-    - [Guest OS patches](https://learn.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-msrc-releases?context=/azure/cloud-services-extended-support/context/context)
-    - [Guest OS retirement](https://learn.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-retirement-policy?context=/azure/cloud-services-extended-support/context/context)
-    - [Guest OS release news](https://learn.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix?context=/azure/cloud-services-extended-support/context/context)
     - XML schema
       - [Csdef XML schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-csdef-file)
       - [LoadBalancerProbe schema](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/schema-csdef-loadbalancerprobe)

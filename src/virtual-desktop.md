@@ -173,14 +173,14 @@
   - Connect
     - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/connect-azure-virtual-desktop)
     - Windows App
-      - [What is Windows App?](https://learn.microsoft.com/windows-app/overview)
-      - [Compare Windows App features across platforms and devices](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?pivots=azure-virtual-desktop)
+      - [Windows App overview](https://learn.microsoft.com/windows-app/overview)
+      - [Compare Windows App across platforms](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?pivots=azure-virtual-desktop)
       - [Windows App documentation](https://learn.microsoft.com/windows-app/)
     - Remote Desktop client
       - [Remote Desktop client overview](https://learn.microsoft.com/previous-versions/remote-desktop-client/overview)
-      - [Compare the Remote Desktop app across platforms](https://learn.microsoft.com/previous-versions/remote-desktop-client/compare-remote-desktop-clients?pivots=azure-virtual-desktop)
+      - [Compare the Remote Desktop client across platforms](https://learn.microsoft.com/previous-versions/remote-desktop-client/compare-remote-desktop-clients?pivots=azure-virtual-desktop)
       - [Install the Remote Desktop client for Windows on a per-user basis](https://learn.microsoft.com/previous-versions/remote-desktop-client/install-windows-client-per-user)
-      - [Uniform Resource Identifier schemes](https://learn.microsoft.com/en-us/azure/virtual-desktop/uri-scheme)
+      - [Remote Desktop client documentation](https://learn.microsoft.com/preview-versions/remote-desktop-client/)
     - Peripheral and resource redirection
       - [Peripheral and resource redirection overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-remote-desktop-protocol)
       - Guides
@@ -198,6 +198,7 @@
         - [WebAuthn](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-webauthn)
       - [Configure client redirection using Intune](https://learn.microsoft.com/en-us/azure/virtual-desktop/client-device-redirection-intune)
     - [Supported RDP properties](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-properties)
+    - [Uniform Resource Identifier schemes](https://learn.microsoft.com/en-us/azure/virtual-desktop/uri-scheme)
     - [Print using Universal Print](https://learn.microsoft.com/universal-print/fundamentals/universal-print-avd?context=/azure/virtual-desktop/context/context)
     - [Thin client partners](https://learn.microsoft.com/en-us/azure/virtual-desktop/thin-clients)
   - Monitor

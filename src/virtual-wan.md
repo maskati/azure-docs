@@ -116,7 +116,7 @@
           - [Extract and view profile information](https://learn.microsoft.com/en-us/azure/virtual-wan/about-vpn-profile-download)
           - [Intune- Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-profile-intune)
     - Azure VPN Client versions & settings
-      - [Configure optional settings](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations-windows)
+      - [Configure optional settings](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations)
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-versions)
     - Assign IP addresses to specific User Groups
       - [About user groups and client address pools](https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-about)

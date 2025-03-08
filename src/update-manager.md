@@ -8,8 +8,15 @@
   - Getting started
     - [Prerequisites](https://learn.microsoft.com/en-us/azure/update-manager/prerequisites)
     - [Roles and Permissions](https://learn.microsoft.com/en-us/azure/update-manager/roles-permissions)
-    - [Support matrix](https://learn.microsoft.com/en-us/azure/update-manager/support-matrix)
-      - [Support for Updates, Periodic assessments, Scheduled patching](https://learn.microsoft.com/en-us/azure/update-manager/support-matrix-updates)
+  - Support matrix
+    - [Supported regions](https://learn.microsoft.com/en-us/azure/update-manager/supported-regions)
+    - Supported operating systems
+      - [Check for Updates, One time update, Periodic assessment and Customer managed Schedules](https://learn.microsoft.com/en-us/azure/update-manager/support-matrix-updates)
+      - [Automatic VM Guest Patching](https://learn.microsoft.com/en-us/azure/update-manager/support-matrix-automatic-guest-patching)
+    - [Unsupported workloads](https://learn.microsoft.com/en-us/azure/update-manager/unsupported-workloads)
+    - [Supported updates, Types, Microsoft updates and Third-party updates](https://learn.microsoft.com/en-us/azure/update-manager/support-matrix)
+    - [Extended Security Updates](https://learn.microsoft.com/en-us/azure/update-manager/extended-security-updates)
+    - [Ubuntu Pro support](https://learn.microsoft.com/en-us/azure/update-manager/security-awareness-ubuntu-support)
   - Quickstarts
     - [Check and install on-demand updates](https://learn.microsoft.com/en-us/azure/update-manager/quickstart-on-demand)
   - Tutorials
@@ -27,7 +34,6 @@
     - [Access Azure Update Manager operations data using Azure Resource Graph](https://learn.microsoft.com/en-us/azure/update-manager/query-logs)
     - [Manage updates on multiple machines](https://learn.microsoft.com/en-us/azure/update-manager/manage-multiple-machines)
     - [Workbooks](https://learn.microsoft.com/en-us/azure/update-manager/workbooks)
-    - [Ubuntu Pro support](https://learn.microsoft.com/en-us/azure/update-manager/security-awareness-ubuntu-support)
   - Samples
     - [ARG queries to access Azure Update Manager operations data](https://learn.microsoft.com/en-us/azure/update-manager/sample-query-logs)
   - How-to guides
