@@ -93,7 +93,6 @@
         - [Use Elastic Stack](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-open-source-tools)
         - [Use Grafana](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-grafana)
         - [Use Graylog](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-analyze-nsg-flow-logs-graylog)
-      - [Delete NSG flow log storage blobs](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-delete-nsg-flow-log-blobs)
     - [Read flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-read)
     - Traffic analytics
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
