@@ -23,6 +23,7 @@
       - [Country/Region hierarchy used by Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-geographic-regions)
     - Security
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/traffic-manager-security-baseline?toc=/azure/traffic-manager/toc.json)
+      - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
     - [Nested Traffic Manager profiles](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-nested-profiles)
     - [Endpoint types](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-endpoint-types)
     - [Endpoint monitoring](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-monitoring)
@@ -67,7 +68,8 @@
     - [REST](https://learn.microsoft.com/rest/api/trafficmanager/)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/trafficmanagerprofiles)
   - Resources
-    - [Blog](https://azure.microsoft.com/blog/topics/networking/)
+    - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+    - [Azure networking blog](https://azure.microsoft.com/blog/topics/networking/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
     - [Pricing](https://azure.microsoft.com/pricing/details/traffic-manager/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)

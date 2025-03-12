@@ -6,6 +6,7 @@
     - [Azure DDoS Protection features](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-features)
     - [Tier comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-sku-comparison)
     - [Price comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-pricing-guide)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-faq.yml)
   - Configure
     - DDoS Network Protection
       - [Portal](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection)
@@ -25,19 +26,12 @@
     - [Deploy Firewall with DDoS Protection](https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall-ddos?toc=/azure/ddos-protection/TOC.json)
     - [Deploy Application Gateway with DDoS Protection](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway-ddos?toc=/azure/ddos-protection/TOC.json)
     - [Deploy Load Balancer with DDoS Protection](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer-ddos?toc=/azure/ddos-protection/TOC.json)
-    - [DDoS Protection on Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos?toc=/azure/ddos-protection/TOC.json)
   - Resiliency
     - [Components of a DDoS response strategy](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-response-strategy)
     - [Fundamental best practices](https://learn.microsoft.com/en-us/azure/ddos-protection/fundamental-best-practices)
     - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-ddos?toc=/azure/ddos-protection/TOC.json)
     - [Reference architectures](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-reference-architectures)
     - [Types of attacks](https://learn.microsoft.com/en-us/azure/ddos-protection/types-of-attacks)
-  - Security
-    - [Defend against API Management DDoS attacks](https://learn.microsoft.com/en-us/azure/api-management/protect-with-ddos-protection?toc=/azure/ddos-protection/TOC.json)
-    - [Inline L7 DDoS protection with Gateway Load Balancer and partner NVAs](https://learn.microsoft.com/en-us/azure/ddos-protection/inline-protection-glb)
-    - [Manage permissions and restrictions](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-permissions)
-    - [Onboard partners](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-partner-onboarding)
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-ddos-protection-security-baseline?toc=%2fazure%2fddos-protection%2ftoc.json?toc=/azure/ddos-protection/TOC.json)
   - Operational excellence
     - Configure Monitoring and Logging
       - [Configure metric alerts through portal](https://learn.microsoft.com/en-us/azure/ddos-protection/alerts)
@@ -48,6 +42,14 @@
     - [Monitor Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/ddos-protection/monitor-ddos-protection)
     - [Test with simulation partners](https://learn.microsoft.com/en-us/azure/ddos-protection/test-through-simulations)
     - [Engage DDoS Rapid Response DRR](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-rapid-response)
+  - Security
+    - [DDoS Protection on Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos?toc=/azure/ddos-protection/TOC.json)
+    - [Defend against API Management DDoS attacks](https://learn.microsoft.com/en-us/azure/api-management/protect-with-ddos-protection?toc=/azure/ddos-protection/TOC.json)
+    - [Inline L7 DDoS protection with Gateway Load Balancer and partner NVAs](https://learn.microsoft.com/en-us/azure/ddos-protection/inline-protection-glb)
+    - [Manage permissions and restrictions](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-permissions)
+    - [Onboard partners](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-partner-onboarding)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-ddos-protection-security-baseline?toc=%2fazure%2fddos-protection%2ftoc.json?toc=/azure/ddos-protection/TOC.json)
+    - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reference
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/ddos-protection/policy-reference)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/ddos-protection)
@@ -59,7 +61,7 @@
     - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/ddosprotectionplans)
     - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/ddos-protection/monitor-ddos-protection-reference)
+    - [Azure Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
   - Resources
-    - [FAQ](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-faq.yml)
     - [Pricing](https://azure.microsoft.com/pricing/details/ddos-protection/)
     - [Regional availability](https://azure.microsoft.com/global-infrastructure/services/?products=ddos-protection)

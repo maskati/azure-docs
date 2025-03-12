@@ -27,6 +27,8 @@
     - [FQDN in network rules](https://learn.microsoft.com/en-us/azure/firewall-manager/fqdn-filtering-network-rules)
     - Security
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-firewall-manager-security-baseline?toc=/azure/firewall-manager/toc.json)
+      - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+  - Deploy
   - How-to guides
     - [Deploy security partner providers](https://learn.microsoft.com/en-us/azure/firewall-manager/deploy-trusted-security-partner)
     - [Secure private endpoints](https://learn.microsoft.com/en-us/azure/firewall-manager/private-link-inspection-secure-virtual-hub)
@@ -45,6 +47,7 @@
     - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/firewallpolicies)
     - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
   - Resources
+    - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
     - [Community templates](https://azure.microsoft.com/documentation/templates)
     - [Pricing](https://azure.microsoft.com/pricing/details/firewall-manager/)

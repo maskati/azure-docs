@@ -6,6 +6,8 @@
     - [What is a private endpoint?](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
     - [Private Link service](https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview)
     - [What is a network security perimeter?](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-concepts)
+    - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq.yml)
   - Configure
     - Create a private endpoint
       - [Create a private endpoint - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal)
@@ -40,23 +42,23 @@
     - [Connect to a storage account](https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-storage-portal)
     - [Connect to an Azure Cosmos DB account](https://learn.microsoft.com/azure/cosmos-db/how-to-configure-private-endpoints?toc=/azure/private-link/toc.json)
     - [Approve private link connections across subscriptions](https://learn.microsoft.com/en-us/azure/private-link/how-to-approve-private-link-cross-subscription)
-  - Resiliency
-    - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
-  - Security
-    - [Configure an application security group](https://learn.microsoft.com/en-us/azure/private-link/configure-asg-private-endpoint)
-    - [Inspect private endpoint traffic with Azure Firewall](https://learn.microsoft.com/en-us/azure/private-link/tutorial-inspect-traffic-azure-firewall)
-    - [RBAC permissions](https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions)
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-private-link-security-baseline?toc=/azure/private-link/toc.json)
-    - Network security perimeter
-      - [Role-based access control permissions](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements)
   - Operational excellence
     - [Monitor Private Link](https://learn.microsoft.com/en-us/azure/private-link/monitor-private-link)
     - [Manage network policies for private endpoints](https://learn.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy)
     - [Disable network policies for a Private Link service](https://learn.microsoft.com/en-us/azure/private-link/disable-private-link-service-network-policy)
     - [Manage private endpoints](https://learn.microsoft.com/en-us/azure/private-link/manage-private-endpoint)
     - [Relocate Private Link Service to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-private-link?toc=/azure/private-link/toc.json)
+    - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
     - Network security perimeter
       - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs)
+  - Security
+    - [Configure an application security group](https://learn.microsoft.com/en-us/azure/private-link/configure-asg-private-endpoint)
+    - [Inspect private endpoint traffic with Azure Firewall](https://learn.microsoft.com/en-us/azure/private-link/tutorial-inspect-traffic-azure-firewall)
+    - [RBAC permissions](https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-private-link-security-baseline?toc=/azure/private-link/toc.json)
+    - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+    - Network security perimeter
+      - [Role-based access control permissions](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements)
   - Troubleshoot
     - [Troubleshoot private endpoint connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-endpoint-connectivity)
     - [Troubleshoot Private Link service connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-link-connectivity)
@@ -81,10 +83,9 @@
       - [REST](https://github.com/Azure/azure-rest-api-specs/blob/main/specification/network/resource-manager/Microsoft.Network/preview/2023-07-01-preview/networkSecurityPerimeter.json)
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
-    - [Networking blog](https://azure.microsoft.com/blog/category/networking)
+    - [Azure Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Microsoft Q&A question page for Networking](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
     - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
     - [Pricing](https://azure.microsoft.com/pricing/details/private-link/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-virtual-network)
-    - [FAQ](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq.yml)

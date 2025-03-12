@@ -97,6 +97,8 @@
       - [Protect Office 365](https://learn.microsoft.com/en-us/azure/firewall/protect-office-365)
       - [Azure Firewall with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/firewall/firewall-sentinel-overview)
       - [Detect malware with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/firewall/detect-malware-with-sentinel)
+    - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+  - Deploy
   - Operational excellence
     - Monitoring
       - [Logs and metrics](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall)
@@ -116,6 +118,7 @@
     - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
     - [Monitoring dataWinRT reference](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall-reference)
   - Resources
+    - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
     - [Community templates](https://azure.microsoft.com/documentation/templates)
     - [Pricing](https://azure.microsoft.com/pricing/details/azure-firewall/)

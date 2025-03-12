@@ -47,6 +47,7 @@
     - [Using Key Vault](https://learn.microsoft.com/en-us/azure/application-gateway/key-vault-certs)
     - [SSL certificate management](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)
+    - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Deploy
     - [Host multiple sites](https://learn.microsoft.com/en-us/azure/application-gateway/create-multiple-sites-portal)
     - [Route by URL](https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
@@ -182,6 +183,7 @@
     - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/applicationgateways)
   - Resources
+    - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
     - [Community templates](https://azure.microsoft.com/resources/templates/)
     - [Pricing](https://azure.microsoft.com/pricing/details/application-gateway/)

@@ -52,6 +52,7 @@
     - [Protect public DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-zones-recordsets)
     - [Protect private DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-private-zones-recordsets)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-dns-security-baseline?toc=/azure/dns/TOC.json)
+    - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Deploy
     - Public DNS
       - [Host your domain in Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-delegate-domain-azure-dns)
@@ -137,7 +138,8 @@
   - Resources
     - [Feature requests](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789?c429912-8326-ec11-b6e6-000d3a4f0789)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/143/azure-virtual-network)
-    - [Networking blog](https://azure.microsoft.com/blog/category/networking)
+    - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+    - [Azure networking blog](https://azure.microsoft.com/blog/category/networking)
     - [Pricing](https://azure.microsoft.com/pricing/details/dns/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=dns)
