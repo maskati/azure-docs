@@ -117,6 +117,7 @@
       - [Set up pay by wire transfer](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/pay-by-invoice)
       - [Resolve pay-as-you-go past due balance](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/resolve-past-due-balance)
       - [Add, update, or delete payment method](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/change-credit-card)
+      - [Supported payment methods](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/supported-payment-methods)
       - [View payment history](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/view-payment-history)
     - Troubleshoot billing
       - [Can't view or find invoices](https://learn.microsoft.com/en-us/azure/cost-management-billing/troubleshoot-billing/troubleshoot-cant-find-invoice)

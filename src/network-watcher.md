@@ -84,7 +84,7 @@
         - [PowerShell](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-powershell)
         - [Azure CLI](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-cli)
         - [REST](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-rest)
-        - [ARM template](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-azure-resource-manager)
+        - [ARM template](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-template)
         - [Bicep](https://learn.microsoft.com/en-us/azure/network-watcher/quickstart-configure-network-security-group-flow-logs-from-bicep)
         - [Built-in Policy](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal)
       - [Migrate NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate)

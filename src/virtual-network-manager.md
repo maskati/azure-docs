@@ -13,6 +13,7 @@
     - [Create Virtual Network Manager - Bicep](https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-bicep)
   - Tutorials
     - [Create a secured hub and spoke](https://learn.microsoft.com/en-us/azure/virtual-network-manager/tutorial-create-secured-hub-and-spoke)
+    - [Prevent overlapping IP address spaces with Azure Policy and IPAM](https://learn.microsoft.com/en-us/azure/virtual-network-manager/Prevent-overlapping-ip-address-space-policy-ipam)
   - Concepts
     - [FAQ](https://learn.microsoft.com/en-us/azure/virtual-network-manager/faq)
     - [Use cases](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-use-cases)

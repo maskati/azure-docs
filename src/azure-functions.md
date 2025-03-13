@@ -204,7 +204,6 @@
         - HTTP trigger
           - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal)
           - [Kotlin using IntelliJ](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-kotlin-intellij)
-          - [Linux App Service plan](https://learn.microsoft.com/en-us/azure/azure-functions/create-function-app-linux-app-service-plan)
           - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-app-service-plan)
           - [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-premium-plan)
           - [Linux container Premium](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container)

@@ -68,6 +68,7 @@
         - [Different deployment model and subscription](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-deployment-models-subscriptions)
       - [Manage a virtual network peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-peering)
       - [Update the address space for a peered virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/update-virtual-network-peering-address-space.yml)
+      - [Configure subnet peering](https://learn.microsoft.com/en-us/azure/virtual-network/how-to-configure-subnet-peering)
     - Routing
       - [Manage route tables](https://learn.microsoft.com/en-us/azure/virtual-network/manage-route-table.yml)
       - [Ansible](https://learn.microsoft.com/azure/developer/ansible/route-table-configure?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
