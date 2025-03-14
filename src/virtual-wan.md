@@ -50,10 +50,16 @@
     - [Application Gateway and backend pools](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-secured-hub-app-gateway)
     - [Microsoft 365 - ExpressRoute private peering](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-365-expressroute-private)
   - Virtual WAN and virtual hub settings
-    - [Virtual hub settings](https://learn.microsoft.com/en-us/azure/virtual-wan/hub-settings)
+    - [Virtual WAN gateway settings](https://learn.microsoft.com/en-us/azure/virtual-wan/gateway-settings)
+    - [Upgrade from Basic virtual WAN to Standard](https://learn.microsoft.com/en-us/azure/virtual-wan/upgrade-virtual-wan)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/virtual-wan/roles-permissions)
-    - [Gateway settings](https://learn.microsoft.com/en-us/azure/virtual-wan/gateway-settings)
-    - [Install Azure Firewall in a hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall)
+    - [Virtual hub settings](https://learn.microsoft.com/en-us/azure/virtual-wan/hub-settings)
+    - [Connect a VNet to a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-connect-vnet-hub)
+    - [Secured hub - install Azure Firewall in a hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall)
+    - Integrated NVA in a virtual hub
+      - [Create an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub)
+      - [Restart an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart)
+      - [Configure DNAT/Internet inbound](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-inbound)
   - Configure site-to-site connections
     - Create a site-to-site connection
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal)

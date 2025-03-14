@@ -56,6 +56,8 @@
     - [Configure virtual switch](https://learn.microsoft.com/en-us/azure/dev-box/how-to-connect-dev-box-virtual-switch)
     - [Drives and storage](https://learn.microsoft.com/azure/virtual-desktop/redirection-configure-drives-storage?tabs=group-policy&pivots=dev-box)
     - [USB redirection](https://learn.microsoft.com/azure/virtual-desktop/redirection-configure-usb?tabs=intune&pivots=dev-box)
+  - Snapshot and restore
+    - [Restore from snapshot](https://learn.microsoft.com/en-us/azure/dev-box/how-to-restore-from-snapshot)
   - Troubleshooting
     - [Automatically repair connectivity issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-repair-dev-box)
     - [Troubleshoot dev box connectivity issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-remote-desktop-connectivity)
