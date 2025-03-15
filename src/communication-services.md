@@ -485,6 +485,7 @@
       - [Control mid call media actions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/control-mid-call-media-actions)
       - [Customize voice prompts to users with play action](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/play-action)
       - [Gather user input with recognize action](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/recognize-action)
+      - [Implement Answer Machine Detection](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/answer-machine-detection)
     - Call recording
       - [Call recording overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/call-recording)
       - [Record a call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-call-recording)

@@ -4,13 +4,12 @@
   - Overview
     - [What is Azure Bastion?](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
     - [What's new in Bastion?](https://learn.microsoft.com/en-us/azure/bastion/whats-new)
-  - Quickstarts
-    - [Deploy Bastion - default settings - Standard SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
-    - [Deploy Bastion - default settings - Developer SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer-sku)
+  - Quickstarts & Tutorials
+    - [Deploy Bastion Developer](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer)
+    - [Deploy Bastion - Standard SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
+    - [Deploy Bastion - specify settings and SKU](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
     - [Deploy Bastion - ARM template](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-arm-template)
     - [Deploy Bastion - Terraform](https://learn.microsoft.com/en-us/azure/bastion/quickstart-deploy-terraform)
-  - Tutorials
-    - [Deploy Bastion using manually specified settings and SKUs](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
   - Concepts
     - Work remotely
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fbastion%2ftoc.json)

@@ -64,7 +64,7 @@
       - Security
         - [Azure Firewall](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-firewall)
         - [Azure Key Vault](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-key-vault)
-        - [Managed identities for Azure resources](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-managed-identity)
+        - [Managed identities for Azure resources](https://learn.microsoft.com/entra/identity/managed-identities-azure-resources/how-to-managed-identity-regional-move?toc=/azure/operational-excellence/toc.json&bc=/azure/operational-excellence/breadcrumb/toc.json)
       - Storage
         - [Azure Backup](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-backup)
         - [Azure NetApp Files](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-netapp)

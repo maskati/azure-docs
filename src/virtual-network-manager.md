@@ -18,7 +18,7 @@
     - [FAQ](https://learn.microsoft.com/en-us/azure/virtual-network-manager/faq)
     - [Use cases](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-use-cases)
     - [limitations](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-limitations)
-    - [IP address management](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-ip-address-management)
+    - IP address management
     - [Scope](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-manager-scope)
     - Network groups
       - [Network groups overview](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-groups)

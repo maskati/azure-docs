@@ -64,18 +64,12 @@
         - [Visualize network traffic patterns using open source tools](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-using-open-source-tools)
     - Connection troubleshoot
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-overview)
-      - Diagnose outbound connection problems
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-portal)
-        - [PowerShell](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-powershell)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-cli)
+      - [Troubleshoot outbound connections](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-manage)
   - Flow logs
     - VNet flow logs
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-overview)
-      - Manage VNet flow logs
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-portal)
-        - [PowerShell](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-powershell)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-cli)
-        - [Built-in Policy](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-policy)
+      - [Manage VNet flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-manage)
+      - [Audit and deploy using Azure Policy](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-policy)
     - NSG flow logs
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview)
       - [Log VM network traffic](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-tutorial)
