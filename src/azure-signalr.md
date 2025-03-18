@@ -69,7 +69,8 @@
       - [Use managed identity](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-use-managed-identity)
       - [Authorize from Azure application](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-authorize-application)
       - [Authorize from managed identity](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-authorize-managed-identity)
-      - [Disable local authentication.](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-disable-local-auth)
+      - [Configure cross tenant authorization](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-howto-authorize-cross-tenant)
+      - [Disable local authentication](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-disable-local-auth)
       - [Custom domain](https://learn.microsoft.com/en-us/azure/azure-signalr/howto-custom-domain)
     - Integrate
       - [Azure Functions bindings](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-azure-functions)

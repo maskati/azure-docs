@@ -5,7 +5,7 @@
     - [What is VPN Gateway?](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
     - [What's new?](https://learn.microsoft.com/en-us/azure/vpn-gateway/whats-new)
     - [VPN Gateway FAQ](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vpn-faq)
-    - Quickstarts
+    - Quickstarts & Tutorials
       - [Create and manage a VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
       - Configure a site-to-site connection
         - [Preshared key](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
@@ -13,8 +13,8 @@
       - Configure a point-to-site connection
         - [Certificate authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway)
         - [Microsoft Entra ID authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway)
-  - Design and architecture
-    - [Design and topology](https://learn.microsoft.com/en-us/azure/vpn-gateway/design)
+  - Design & architecture
+    - [Design & topology](https://learn.microsoft.com/en-us/azure/vpn-gateway/design)
     - [Design highly available gateway connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
     - Backend connectivity interoperability
       - [Preface and test setup](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-preface?toc=/azure/vpn-gateway/toc.json)
@@ -59,13 +59,18 @@
     - [Verify a gateway connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-verify-connection-resource-manager)
     - [Reset a connection or a gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/reset-gateway)
     - [Configure customer-controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/vpn-gateway/customer-controlled-gateway-maintenance)
-  - Configure site-to-site VPN connections
+  - Site-to-site S2S VPN connections
     - Configure site-to-site connections - preshared key
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell)
       - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli)
     - [Configure site-to-site connections - certificate](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal)
     - [Connect AWS and Azure using a BGP-enabled VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-aws-bgp)
+    - Site-to-site with ExpressRoute connections
+      - Coexisting connections
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal?toc=/azure/vpn-gateway/toc.json)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager?toc=/azure/vpn-gateway/toc.json)
+      - [VPN over private peering](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering)
     - [Add or remove a site-to-site connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/add-remove-site-to-site-connections)
     - [Forced tunneling](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-site-to-site-tunneling)
     - Configure custom IPsec/IKE connection policies
@@ -81,12 +86,7 @@
       - [Overview of parter VPN device configurations](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-overview)
       - [Sample: Cisco ASA device IKEv2/no BGP](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-cisco-asa)
       - [Connect to multiple policy-based VPN devices](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-multiple-policybased-rm-ps)
-    - Site-to-site with ExpressRoute connections
-      - Coexisting connections
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal?toc=/azure/vpn-gateway/toc.json)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager?toc=/azure/vpn-gateway/toc.json)
-      - [VPN over private peering](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering)
-  - Configure point-to-site VPN connections
+  - Point-to-site P2S VPN connections
     - [About point-to-site VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about)
     - [About point-to-site VPN routing](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-point-to-site-routing)
     - Configure P2S - certificate authentication
@@ -147,10 +147,10 @@
     - [Create custom IPsec policies for P2S](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-custom-policies-p2s-ps)
     - Azure VPN Client versions, checks & settings
       - [Azure VPN Client - optional settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-optional-configurations)
-      - [Azure VPN Client prerequisites check](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-prerequisites-check)
+      - [Run Prerequisites Test](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-prerequisites-check)
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-versions)
     - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
-  - Configure VNet-to-VNet VPN connections
+  - VNet-to-VNet VPN connections
     - Configure VNet-to-VNet VPN connections
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps)

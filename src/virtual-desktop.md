@@ -180,7 +180,7 @@
       - [Remote Desktop client overview](https://learn.microsoft.com/previous-versions/remote-desktop-client/overview)
       - [Compare the Remote Desktop client across platforms](https://learn.microsoft.com/previous-versions/remote-desktop-client/compare-remote-desktop-clients?pivots=azure-virtual-desktop)
       - [Install the Remote Desktop client for Windows on a per-user basis](https://learn.microsoft.com/previous-versions/remote-desktop-client/install-windows-client-per-user)
-      - [Remote Desktop client documentation](https://learn.microsoft.com/preview-versions/remote-desktop-client/)
+      - [Remote Desktop client documentation](https://learn.microsoft.com/previous-versions/remote-desktop-client/)
     - Peripheral and resource redirection
       - [Peripheral and resource redirection overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-remote-desktop-protocol)
       - Guides

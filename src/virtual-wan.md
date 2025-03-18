@@ -6,7 +6,7 @@
     - [What's new?](https://learn.microsoft.com/en-us/azure/virtual-wan/whats-new)
     - [Virtual WAN FAQ](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq)
     - [About Virtual WAN pricing](https://learn.microsoft.com/en-us/azure/virtual-wan/pricing-concepts)
-    - Quickstarts
+    - Quickstarts & Tutorials
       - [Configure a site-to-site connection](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal)
       - [Configure an ExpressRoute connection](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-portal)
       - Configure a User VPN P2S connection
@@ -18,16 +18,16 @@
         - [Route to shared services VNets](https://learn.microsoft.com/en-us/azure/virtual-wan/quickstart-route-shared-services-vnet-template)
       - BICEP templates
         - [Deploy Virtual WAN with routing intent and routing policies](https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.network/virtual-wan-routing-intent)
-  - Design and architecture
+  - Design & architecture
     - [Migrate to Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
     - [Global transit network architecture](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-global-transit-network-architecture)
     - [SD-WAN connectivity architecture](https://learn.microsoft.com/en-us/azure/virtual-wan/sd-wan-connectivity-architecture)
     - [Private Link and DNS architecture for Virtual WAN](https://learn.microsoft.com/azure/architecture//guide/networking/private-link-virtual-wan-dns-guide?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Configure Virtual WAN for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-virtual-wan?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Interconnect with China](https://learn.microsoft.com/en-us/azure/virtual-wan/interconnect-china)
-    - Virtual Hub third-party integrations
+    - Virtual hub third-party integrations
       - [Overview of third-party integrations](https://learn.microsoft.com/en-us/azure/virtual-wan/third-party-integrations)
-      - [Integrated NVAs in the Virtual Hub](https://learn.microsoft.com/en-us/azure/virtual-wan/about-nva-hub)
+      - [Integrated NVAs in the virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/about-nva-hub)
       - [Software-as-a-serviceSaaS](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-palo-alto-cloud-ngfw)
       - Branch IPsec connectivity automation
         - [About branch IPsec connectivity automation](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-locations-partners)
@@ -60,7 +60,7 @@
       - [Create an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub)
       - [Restart an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart)
       - [Configure DNAT/Internet inbound](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-inbound)
-  - Configure site-to-site connections
+  - Site-to-site S2S connections
     - Create a site-to-site connection
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/site-to-site-powershell)
@@ -72,7 +72,7 @@
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/nat-rules-vpn-gateway)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/nat-rules-vpn-gateway-powershell)
     - [Multiple ISP links - Azure path selection](https://learn.microsoft.com/en-us/azure/virtual-wan/path-selection-multiple-links)
-  - Configure User VPN P2S connections
+  - User VPN point-to-site P2S connections
     - [About point-to-site concepts](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-concepts)
     - [About IPsec policies](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-ipsec)
     - [About client address pools](https://learn.microsoft.com/en-us/azure/virtual-wan/about-client-address-pools)
@@ -123,6 +123,7 @@
           - [Intune- Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-profile-intune)
     - Azure VPN Client versions & settings
       - [Configure optional settings](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations)
+      - [Run Prerequisites Test](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-prerequisites-check)
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-versions)
     - Assign IP addresses to specific User Groups
       - [About user groups and client address pools](https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-about)
@@ -132,7 +133,7 @@
       - [User tunnel](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-user-tunnel)
       - [Device tunnel](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-device-tunnel)
     - [Configure P2S forced tunneling](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-forced-tunnel)
-  - Configure ExpressRoute connections
+  - ExpressRoute connections
     - [About ExpressRoute in Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-about)
     - Create an ExpressRoute association
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-portal)
@@ -168,12 +169,12 @@
     - [Secured virtual hubs](https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-wan-security-baseline?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Install Azure Firewall in a hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall)
-    - [Inter-hub and branch-to-branch inspection](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
+    - [Inter-hub & branch-to-branch inspection](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
     - [Software-as-a-service SaaS](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-palo-alto-cloud-ngfw)
     - [Configure Private Link connectivity](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-private-link)
     - [Manage access to resources - Spoke VNet P2S](https://learn.microsoft.com/en-us/azure/virtual-wan/manage-secure-access-resources-spoke-p2s)
     - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
-  - Monitoring and maintenance
+  - Monitoring & maintenance
     - [Monitor Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan)
     - [Azure Monitor Insights](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-monitor-insights)
     - [BGP dashboard](https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-bgp-dashboard)
@@ -193,7 +194,7 @@
     - [Azure Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/34/azure-virtual-wan)
     - [Networking feedback](https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789)
-    - [Subscription and service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/virtual-wan/toc.json)
+    - [Subscription & service limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/virtual-wan/toc.json)
     - [Pricing](https://azure.microsoft.com/pricing/details/virtual-wan)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [SLA](https://azure.microsoft.com/support/legal/sla)
