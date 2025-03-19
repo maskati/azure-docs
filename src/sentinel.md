@@ -78,12 +78,12 @@
             - [Install the solution for SAP applications](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-sap-security-content)
             - [Prepare your SAP environment](https://learn.microsoft.com/en-us/azure/sentinel/sap/preparing-sap)
             - [Connect your SAP system](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-data-connector-agent-container)
-            - [Troubleshoot SAP data connector agent](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-deploy-troubleshoot)
+            - [Troubleshoot SAP data connector](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-deploy-troubleshoot)
             - Extra deployment steps
               - [Collect SAP HANA audit logs](https://learn.microsoft.com/en-us/azure/sentinel/sap/collect-sap-hana-audit-logs)
               - [Update the data connector agent](https://learn.microsoft.com/en-us/azure/sentinel/sap/update-sap-data-connector)
-              - [Deploy from the command line](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-command-line)
-              - [Deploy with expert options](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-deploy-alternate)
+              - [Deploy the agent from the command line](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-command-line)
+              - [Deploy the agent with expert options](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-deploy-alternate)
             - SAP deployment reference advanced
               - [Required ABAP permissions](https://learn.microsoft.com/en-us/azure/sentinel/sap/required-abap-authorizations)
               - [Data connector agent kickstart script reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-kickstart)

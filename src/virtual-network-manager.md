@@ -19,6 +19,8 @@
     - [Use cases](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-use-cases)
     - [limitations](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-limitations)
     - IP address management
+      - [IP address management overview](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-ip-address-management)
+      - [Automate IP address management](https://learn.microsoft.com/en-us/azure/virtual-network-manager/automate-ip-address-management-ipam-sample)
     - [Scope](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-manager-scope)
     - Network groups
       - [Network groups overview](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-groups)

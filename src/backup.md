@@ -485,6 +485,15 @@
       - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-troubleshoot)
       - [Data recovery from Microsoft Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server-troubleshoot)
       - [Monitoring and  alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-troubleshoot)
+  - Script samples
+    - [Pre-Backup and Post-Backup Scripts](https://learn.microsoft.com/en-us/azure/backup/pre-backup-post-backup-scripts)
+    - [Find Vault for Storage Account PowerShell Script](https://learn.microsoft.com/en-us/azure/backup/scripts/backup-powershell-script-find-recovery-services-vault)
+    - [Disable Soft delete for File Share](https://learn.microsoft.com/en-us/azure/backup/scripts/disable-soft-delete-for-file-shares)
+    - [Install the latest MARS agent on on-premises Windows servers](https://learn.microsoft.com/en-us/azure/backup/scripts/install-latest-microsoft-azure-recovery-services-agent)
+    - [Configure Backup for on-premises Windows server](https://learn.microsoft.com/en-us/azure/backup/scripts/microsoft-azure-recovery-services-powershell-all)
+    - [Register on-premises Windows server/ client machine with Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/scripts/register-microsoft-azure-recovery-services-agent)
+    - [Create/ modify the file and folder backup policy](https://learn.microsoft.com/en-us/azure/backup/scripts/set-file-folder-backup-policy)
+    - [Create/ modify the system state backup policy](https://learn.microsoft.com/en-us/azure/backup/scripts/set-system-state-backup-policy)
   - Reference
     - [Archived release notes](https://learn.microsoft.com/en-us/azure/backup/backup-release-notes-archived)
     - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.recoveryservices.backup)

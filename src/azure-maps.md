@@ -72,6 +72,8 @@
       - [Migrate a web app](https://learn.microsoft.com/en-us/azure/azure-maps/migrate-from-google-maps-web-app)
       - [Migrate an Android app](https://learn.microsoft.com/en-us/azure/azure-maps/migrate-from-google-maps-android-app)
       - [Migrate a web service](https://learn.microsoft.com/en-us/azure/azure-maps/migrate-from-google-maps-web-services)
+    - Migrate from previous versions
+      - [Migrate Azure Maps Route 1.0 APIs](https://learn.microsoft.com/en-us/azure/azure-maps/migrate-route-v1-api)
     - Manage Maps accounts
       - [Create account with ARM template](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-create-template)
       - [Manage accounts](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-manage-account-keys)

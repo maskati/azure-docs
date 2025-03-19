@@ -133,8 +133,10 @@
       - [Portal](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-portal)
   - GPUs
     - [Serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview)
+    - [GPU types](https://learn.microsoft.com/en-us/azure/container-apps/gpu-types)
     - Tutorials
       - [Generate images with serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation)
+      - [Deploy an NVIDIA Llama3 NIM](https://learn.microsoft.com/en-us/azure/container-apps/serverless-gpu-nim)
   - Microservices
     - Developing with Dapr
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview)
