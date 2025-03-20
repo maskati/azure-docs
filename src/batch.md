@@ -67,6 +67,7 @@
       - [Configure customer-managed keys](https://learn.microsoft.com/en-us/azure/batch/batch-customer-managed-key)
       - [Move between regions](https://learn.microsoft.com/en-us/azure/batch/account-move)
       - [Rotate Batch account keys](https://learn.microsoft.com/en-us/azure/batch/account-key-rotation)
+      - [Associate Batch accounts with network security perimeter](https://learn.microsoft.com/en-us/azure/batch/network-security-perimeter)
     - Authenticate with Microsoft Entra ID
       - [Microsoft Entra ID with Batch service](https://learn.microsoft.com/en-us/azure/batch/batch-aad-auth)
       - [Microsoft Entra ID with Batch Management](https://learn.microsoft.com/en-us/azure/batch/batch-aad-auth-management)

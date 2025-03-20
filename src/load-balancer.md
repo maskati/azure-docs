@@ -40,9 +40,7 @@
         - [Terraform](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-terraform)
     - Gateway load balancer
       - [Partners](https://learn.microsoft.com/en-us/azure/load-balancer/gateway-partners)
-      - [Create gateway load balancer - Portal](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-portal)
-      - [Create gateway load balancer - PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-powershell)
-      - [Create gateway load balancer - Azure CLI](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-cli)
+      - [Create gateway load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-create-gateway-load-balancer)
       - [Deploy a dual-stack gateway load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/gateway-deploy-dual-stack-load-balancer)
       - [Configure outbound connectivity with a gateway load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-outbound-connectivity)
     - Global load balancer

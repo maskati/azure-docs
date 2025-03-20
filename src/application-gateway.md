@@ -12,7 +12,7 @@
     - [Create Application Gateway - ARM template](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-template)
     - [Create Application Gateway - Terraform](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-terraform)
   - Design
-    - [Well-Architected review of Application Gateway](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-application-gateway?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json)
+    - [Architecture best practices for Azure Application Gateway v2](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-application-gateway?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json)
     - Basics
       - [Application Gateway features](https://learn.microsoft.com/en-us/azure/application-gateway/features)
       - [How Application Gateway works](https://learn.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works)

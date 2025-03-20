@@ -368,7 +368,6 @@
         - Create streaming pipelines
           - [Apache Spark, Apache Kafka, and Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/hdinsight/apache-kafka-spark-structured-streaming-cosmosdb)
           - [Apache Kafka and Apache Spark DStream](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-apache-spark-with-kafka)
-          - [Use Apache Kafka with Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-azure-container-services)
       - Manage
         - [Use Apache Kafka in a virtual network](https://learn.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-connect-vpn-gateway)
         - [Replicate Apache Kafka data](https://learn.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-mirroring)

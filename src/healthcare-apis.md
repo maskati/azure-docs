@@ -10,6 +10,7 @@
     - [Events](https://learn.microsoft.com/en-us/azure/healthcare-apis/events/events-overview)
     - [Azure API for FHIR](https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir/overview)
     - [Business continuity & disaster recovery](https://learn.microsoft.com/en-us/azure/healthcare-apis/business-continuity-disaster-recovery)
+    - [Regional availability of services & features](https://learn.microsoft.com/en-us/azure/healthcare-apis/services-features-regional-availability)
     - [Availability zones](https://learn.microsoft.com/en-us/azure/healthcare-apis/availability-zones)
     - [Manage network access security](https://learn.microsoft.com/en-us/azure/healthcare-apis/network-access-security)
   - Get started

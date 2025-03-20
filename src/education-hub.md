@@ -6,8 +6,6 @@
       - [What is Azure for Students?](https://learn.microsoft.com/en-us/azure/education-hub/about-azure-for-students)
     - Azure for Students Starter
       - [What is Azure for Students Starter?](https://learn.microsoft.com/en-us/azure/education-hub/about-azure-for-students-starter)
-    - Azure Classroom
-      - [What is Azure Classroom?](https://learn.microsoft.com/en-us/azure/education-hub/about-education-hub)
     - Azure Dev Tools for Teaching
       - [What is Azure Dev Tools for Teaching?](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/about-program)
   - Quickstarts
@@ -15,8 +13,6 @@
       - [Enroll or renew a subscription](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/enroll-renew-subscription)
       - [Set up access](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/set-up-access)
   - How-to guides
-    - Azure Classroom
-      - [Use a script to automate lab functionality](https://learn.microsoft.com/en-us/azure/education-hub/full-api-script)
     - Azure Dev Tools for Teaching
       - [Download software](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/download-software)
       - [Manage students](https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/manage-students)
