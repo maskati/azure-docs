@@ -15,7 +15,7 @@
     - Standard logic app workflows
       - [Portal](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-azure-portal)
       - [Portal - Templates gallery](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-templates)
-      - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-visual-studio-code)
+      - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/create-standard-workflows-visual-studio-code)
   - Tutorials
     - [Create Consumption schedule-based workflow](https://learn.microsoft.com/en-us/azure/logic-apps/tutorial-build-schedule-recurring-logic-app-workflow)
     - [Create Consumption approval-based workflow](https://learn.microsoft.com/en-us/azure/logic-apps/tutorial-process-mailing-list-subscriptions-workflow)
@@ -221,6 +221,7 @@
       - [Block connections across tenants](https://learn.microsoft.com/en-us/azure/logic-apps/block-connections-across-tenants)
     - Manage
       - [Manage logic apps - Azure portal](https://learn.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-with-azure-portal)
+      - [Manage logic apps - Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-visual-studio-code)
       - [Manage logic apps - Visual Studio](https://learn.microsoft.com/en-us/azure/logic-apps/manage-logic-apps-with-visual-studio)
       - [Manage integration accounts](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-create-integration-account)
       - [Plan and manage costs](https://learn.microsoft.com/en-us/azure/logic-apps/plan-manage-costs)
@@ -230,20 +231,24 @@
     - Test
       - [Test workflows with mock outputs](https://learn.microsoft.com/en-us/azure/logic-apps/test-logic-apps-mock-data-static-results)
     - Deploy
-      - [About automated deployment multitenant](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-azure-resource-manager-templates-overview)
+      - [About automated deployment - Multitenant](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-azure-resource-manager-templates-overview)
       - [Create logic app templates](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-create-azure-resource-manager-templates)
       - [Deploy logic app templates](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-deploy-azure-resource-manager-templates)
     - Monitor
       - [Monitor workflows](https://learn.microsoft.com/en-us/azure/logic-apps/monitor-logic-apps-overview)
       - [View workflow status and run history](https://learn.microsoft.com/en-us/azure/logic-apps/view-workflow-status-run-history)
       - [View health and performance metrics](https://learn.microsoft.com/en-us/azure/logic-apps/view-workflow-metrics)
-      - [Enable Health Check for Standard workflows](https://learn.microsoft.com/en-us/azure/logic-apps/monitor-health-standard-workflows)
-      - [Enable and view enhanced telemetry for Standard workflows](https://learn.microsoft.com/en-us/azure/logic-apps/enable-enhanced-telemetry-standard-workflows)
       - [Monitor and collect diagnostic data for workflows](https://learn.microsoft.com/en-us/azure/logic-apps/monitor-workflows-collect-diagnostic-data)
       - [Monitor workflows in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/logic-apps/healthy-unhealthy-resource)
-      - [Monitor B2B messages with Azure Monitor logs](https://learn.microsoft.com/en-us/azure/logic-apps/monitor-b2b-messages-log-analytics)
-      - [Tracking schemas for monitoring messages](https://learn.microsoft.com/en-us/azure/logic-apps/tracking-schemas-as2-x12-custom)
-      - [Create monitoring and tracking queries](https://learn.microsoft.com/en-us/azure/logic-apps/create-monitoring-tracking-queries)
+      - Consumption workflows
+        - [Monitor and track B2B messages](https://learn.microsoft.com/en-us/azure/logic-apps/monitor-track-b2b-messages-consumption)
+        - [Create monitoring and tracking queries](https://learn.microsoft.com/en-us/azure/logic-apps/create-monitoring-tracking-queries)
+        - [Tracking schemas for B2B messages](https://learn.microsoft.com/en-us/azure/logic-apps/tracking-schemas-consumption)
+      - Standard workflows
+        - [Enable Health Check](https://learn.microsoft.com/en-us/azure/logic-apps/monitor-health-standard-workflows)
+        - [Enable and view enhanced telemetry](https://learn.microsoft.com/en-us/azure/logic-apps/enable-enhanced-telemetry-standard-workflows)
+        - [Monitor and track B2B transactions](https://learn.microsoft.com/en-us/azure/logic-apps/monitor-track-b2b-transactions-standard)
+        - [Tracking schemas for B2B transactions](https://learn.microsoft.com/en-us/azure/logic-apps/tracking-schemas-standard)
     - Reliability
       - [Enable zone redundancy](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-zone-redundancy-availability-zones)
       - [Create replication tasks for Azure resources](https://learn.microsoft.com/en-us/azure/logic-apps/create-replication-tasks-azure-resources)
