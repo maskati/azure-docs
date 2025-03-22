@@ -1,5 +1,5 @@
 # Azure reliability documentation
-> Azure reliability documentation, which includes guidance for reliability in Azure services, Azure platform reliability feature support including availability zones and multi-region support, and fundamental cloud reliability concepts.
+> Azure reliability documentation, which includes guidance for reliability in Azure services, Azure platform reliability such as availability zones and multi-region support, and fundamental cloud reliability concepts.
   - [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/)
   - [Overview](https://learn.microsoft.com/en-us/azure/reliability/overview)
   - [What's new](https://learn.microsoft.com/en-us/azure/reliability/whats-new)
@@ -12,10 +12,10 @@
     - [What are Azure regions?](https://learn.microsoft.com/en-us/azure/reliability/regions-overview)
     - [Paired and nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-paired)
     - [Multi-region solutions in nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-multi-region-nonpaired)
+    - [Azure regions list](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
   - Azure availability zones
     - [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
     - [Services with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support)
-    - [Regions with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-region-support)
     - Migrate to availability zone support
       - [Overview](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-migration-overview)
       - Migration guides by service
@@ -60,6 +60,7 @@
       - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/stream-analytics/geo-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs)
       - [Azure Data Explorer](https://learn.microsoft.com/azure/data-explorer/business-continuity-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Data Factory](https://learn.microsoft.com/en-us/azure/reliability/reliability-data-factory)
       - [Azure Data Share](https://learn.microsoft.com/en-us/azure/data-share/disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/reliability/reliability-chaos-studio)
       - [Microsoft Fabric](https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric)
@@ -69,6 +70,7 @@
       - [Azure Batch](https://learn.microsoft.com/en-us/azure/reliability/reliability-batch)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
       - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
+      - [Azure Data Factory](https://learn.microsoft.com/en-us/azure/reliability/reliability-data-factory)
       - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/reliability-functions)
       - [Azure Kubernetes Service AKS](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - Azure Service Fabric
@@ -93,20 +95,20 @@
         - [Availability zones](https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
     - Databases
-      - Azure SQL
-        - [Availability zones](https://learn.microsoft.com/azure/azure-sql/database/high-availability-sla?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - [Azure SQL-Managed Instance](https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell)
+      - Azure Cache for Redis
+        - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-db-nosql)
+      - [Azure Cosmos DB for MongoDB vCore](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-mongodb)
       - [Azure Database for MySQL](https://learn.microsoft.com/azure/mysql/single-server/concepts-business-continuity?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - Azure Database for MySQL - Flexible Server
         - [Availability zones](https://learn.microsoft.com/azure/mysql/flexible-server/concepts-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/azure/mysql/flexible-server/how-to-restore-server-portal?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Database for PostgreSQL - Flexible Server](https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server)
-      - [Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-db-nosql)
-      - [Azure Cosmos DB for MongoDB vCore](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-mongodb)
-      - Azure Cache for Redis
-        - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - Azure SQL Database
+        - [Availability zones](https://learn.microsoft.com/azure/azure-sql/database/high-availability-sla?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure SQL Managed Instance](https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell)
     - Developer tools
       - [Azure API Center](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-center)
     - DevOps

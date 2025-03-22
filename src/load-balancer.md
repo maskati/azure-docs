@@ -82,12 +82,8 @@
       - [Outbound only load balancer configuration](https://learn.microsoft.com/en-us/azure/load-balancer/egress-only)
     - IPv6
       - [Configure DHCPv6 for Linux VMs](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-ipv6-for-linux)
-      - Public Load Balancer
-        - [Standard Public Load Balancer with IPv6 - PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/virtual-network-ipv4-ipv6-dual-stack-standard-load-balancer-powershell)
-        - [Standard Public Load Balancer with IPv6 - Azure CLI](https://learn.microsoft.com/en-us/azure/load-balancer/virtual-network-ipv4-ipv6-dual-stack-standard-load-balancer-cli)
-        - [Standard Public Load Balancer with IPv6 - ARM template](https://learn.microsoft.com/en-us/azure/load-balancer/ipv6-configure-standard-load-balancer-template-json)
-      - Internal Load Balancer
-        - [Standard Internal Load Balancer with IPv6 - PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/ipv6-dual-stack-standard-internal-load-balancer-powershell)
+      - [Deploy a dual-stack Public load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/deploy-ipv4-ipv6-dual-stack-standard-load-balancer)
+      - [Deploy a dual-stack Internal load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/ipv6-dual-stack-standard-internal-load-balancer-powershell)
       - Add IPv6 to existing deployments
         - [Add IPv6 to an IPv4 application- PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/ipv6-add-to-existing-vnet-powershell)
         - [Add IPv6 to an IPv4 application - Azure CLI](https://learn.microsoft.com/en-us/azure/load-balancer/ipv6-add-to-existing-vnet-cli)

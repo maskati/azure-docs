@@ -34,6 +34,7 @@
     - [Microservices](https://learn.microsoft.com/en-us/azure/container-apps/microservices)
     - [Planned maintenance](https://learn.microsoft.com/en-us/azure/container-apps/planned-maintenance)
     - [Build and deliver apps with Container Apps video](https://youtu.be/OxmVds31qL8)
+    - [Reduce cold-start times](https://learn.microsoft.com/en-us/azure/container-apps/cold-start)
   - Develop & deploy
     - [Deployment options](https://learn.microsoft.com/en-us/azure/container-apps/code-to-cloud-options)
     - [Deploy an app with containerapp up](https://learn.microsoft.com/en-us/azure/container-apps/containerapp-up)

@@ -135,7 +135,7 @@
       - [Change data capture resource](https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture-resource)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/data-factory/concepts-roles-permissions)
     - [Naming rules](https://learn.microsoft.com/en-us/azure/data-factory/naming-rules)
-    - [Data redundancy](https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy)
+    - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-data-factory?toc=/azure/data-factory/toc.json)
   - How-to guides
     - [Create a data factory in UI](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory)
     - Create Data Factory Programmatically

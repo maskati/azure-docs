@@ -88,22 +88,22 @@
           - OpenVPN client
             - [Version 2.x](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-2)
             - [Version 3.x](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3)
-          - Linux clients
-            - [Azure VPN Client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-azure-vpn-client-certificate-linux)
-            - [OpenVPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-linux)
-            - [IKEv2 - strongSwan](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-ike-linux)
-          - macOS and iOS clients
-            - [Native VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac)
-            - [OpenVPN client - macOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-mac)
-            - [OpenVPN client - iOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-ios)
-          - Generate self-signed certificates
-            - .cer and .pfx files
-              - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/certificates-point-to-site)
-              - [MakeCert](https://learn.microsoft.com/en-us/azure/virtual-wan/certificates-point-to-site-makecert)
-            - .pem files
-              - [Linux - OpenSSL](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-certificates-linux-openssl)
-              - [Linux - strongSwan](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-certificates-linux-strongswan)
-          - [Install client certificates](https://learn.microsoft.com/en-us/azure/virtual-wan/install-client-certificates)
+        - Linux clients
+          - [Azure VPN Client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-azure-vpn-client-certificate-linux)
+          - [OpenVPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-linux)
+          - [IKEv2 - strongSwan](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-ike-linux)
+        - macOS and iOS clients
+          - [Native VPN client](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac)
+          - [OpenVPN client - macOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-mac)
+          - [OpenVPN client - iOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-ios)
+        - Generate self-signed certificates
+          - .cer and .pfx files
+            - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/certificates-point-to-site)
+            - [MakeCert](https://learn.microsoft.com/en-us/azure/virtual-wan/certificates-point-to-site-makecert)
+          - .pem files
+            - [Linux - OpenSSL](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-certificates-linux-openssl)
+            - [Linux - strongSwan](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-certificates-linux-strongswan)
+        - [Install client certificates](https://learn.microsoft.com/en-us/azure/virtual-wan/install-client-certificates)
     - Configure P2S - Microsoft Entra ID authentication
       - P2S server configuration
         - [Configure P2S - Microsoft-registered](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway)
@@ -114,13 +114,13 @@
         - [Configure a tenant](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant)
         - [Configure a tenant for multiple application registration](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app)
       - VPN client configuration
-        - [Windows clients](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-windows)
-        - [macOS clients](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-mac)
-        - [Linux clients](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-linux)
+        - [Azure VPN Client - Windows](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-windows)
+        - [Azure VPN Client - macOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-mac)
+        - [Azure VPN Client - Linux](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-linux)
         - VPN client profiles
           - [Download global and hub profiles](https://learn.microsoft.com/en-us/azure/virtual-wan/global-hub-profile)
           - [Extract and view profile information](https://learn.microsoft.com/en-us/azure/virtual-wan/about-vpn-profile-download)
-          - [Intune- Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-profile-intune)
+          - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-profile-intune)
     - Azure VPN Client versions & settings
       - [Configure optional settings](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations)
       - [Run Prerequisites Test](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-prerequisites-check)

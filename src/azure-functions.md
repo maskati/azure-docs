@@ -251,13 +251,6 @@
       - [Networking](https://learn.microsoft.com/en-us/azure/azure-functions/configure-networking-how-to)
       - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-functions?toc=/azure/azure-functions/toc.json)
       - [Work with legacy Functions Proxies](https://learn.microsoft.com/en-us/azure/azure-functions/legacy-proxies)
-    - Migrate
-      - [Migrate .NET apps to the isolated model](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-dotnet-to-isolated-model)
-      - [Migrate v3.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-3-version-4)
-      - [Migrate v1.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-1-version-4)
-      - Node.js
-        - [Migrate to model v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-upgrade-v4)
-      - [Update language versions](https://learn.microsoft.com/en-us/azure/azure-functions/update-language-versions)
     - Monitor
       - [Monitor Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions)
       - [Monitor function executions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-monitoring)
@@ -327,6 +320,18 @@
         - [General troubleshooting](https://learn.microsoft.com/en-us/azure/azure-functions/recover-python-functions)
         - [Scale and performance](https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference)
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
+  - Migration guides
+    - Migrate from AWS Lambda
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/migration/lambda-functions-migration-overview)
+      - [Discover](https://learn.microsoft.com/en-us/azure/azure-functions/migration/lambda-functions-migration-discover)
+      - [Assess](https://learn.microsoft.com/en-us/azure/azure-functions/migration/lambda-functions-migration-assess)
+      - [Migrate](https://learn.microsoft.com/en-us/azure/azure-functions/migration/lambda-functions-migration-migrate)
+    - Upgrade runtime versions
+      - [Migrate v3.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-3-version-4)
+      - [Migrate v1.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-1-version-4)
+    - Language version updates
+      - [Update language versions](https://learn.microsoft.com/en-us/azure/azure-functions/update-language-versions)
+      - [Migrate Node.js to model v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-upgrade-v4)
   - Reference
     - API references
       - [ARM template](https://learn.microsoft.com/azure/templates/microsoft.web/2022-03-01/sites/functions)
