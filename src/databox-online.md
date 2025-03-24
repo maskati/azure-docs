@@ -209,6 +209,7 @@
       - [What is GPU sharing?](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-sharing)
       - [Understand data residency](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-data-residency)
       - [Understand data resiliency](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-data-resiliency)
+      - [Understand limits](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-limits)
       - [View key vault integration](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-activation-key-vault)
       - [Understand disconnected use](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-disconnected-scenario)
       - [FAQ - Operational guidelines](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-operational-guidelines-faq.yml)
@@ -220,6 +221,7 @@
       - [Create virtual switches and virtual networks via PowerShell](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-create-virtual-switch-powershell)
       - [Deploy via config file](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-powershell-based-configuration)
       - [Manage Edge compute](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-manage-compute)
+      - [Enable compute network](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-extend-compute-access-modules)
       - [Manage Edge container registry](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-edge-container-registry)
       - Manage device
         - [Power, access, connectivity](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-manage-access-power-connectivity-mode)
@@ -273,32 +275,8 @@
       - [.NET SDK](https://learn.microsoft.com/dotnet/api/overview/azure/databoxedge)
       - [Azure CLI](https://learn.microsoft.com/cli/azure/databoxedge)
       - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/databox-online/policy-reference)
-  - Azure Stack Edge Pro - FPGA
-    - Overview
-    - Tutorials
-    - Concepts
-      - [Understand limits](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-limits)
-      - [Security overview](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-security)
-      - Review specifications
-        - [Power cord specifications](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-technical-specifications-power-cords-regional)
-    - How to
-      - Manage
-        - [Edge compute network](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-extend-compute-access-modules)
-        - [Via PowerShell](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-connect-powershell-interface)
-        - Troubleshoot
-          - [Ordering issues](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-troubleshoot-ordering)
-          - [Contact Microsoft Support](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-contact-microsoft-support)
-      - [Monitor](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-monitor)
-      - [Return device](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-return-device)
-      - [Replace device](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-replace-device)
-    - Release notes
-      - [2007](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2007-release-notes?toc=/azure/databox-online/toc.json&bc=/azure/databox-online/breadcrumb/toc.json)
-      - [1911](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-1911-release-notes?toc=/azure/databox-online/toc.json&bc=/azure/databox-online/breadcrumb/toc.json)
-      - [1906](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-1906-release-notes?toc=/azure/databox-online/toc.json&bc=/azure/databox-online/breadcrumb/toc.json)
-      - [1905](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-1905-release-notes?toc=/azure/databox-online/toc.json&bc=/azure/databox-online/breadcrumb/toc.json)
-      - [General availability GA](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-release-notes?toc=/azure/databox-online/toc.json&bc=/azure/databox-online/breadcrumb/toc.json)
-  - Resources
-    - [Azure Stack Edge Pro C# module samples .NET](https://github.com/Azure-Samples/data-box-edge-csharp-modules)
-    - [Azure Stack Edge product](https://azure.microsoft.com/services/storage/databox/edge/)
-    - [Pricing](https://azure.microsoft.com/pricing/details/storage/databox/edge/)
-    - [Azure Stack Edge Hardware Additional Terms](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-add-hardware-terms)
+    - Resources
+      - [Azure Stack Edge Pro C# module samples .NET](https://github.com/Azure-Samples/data-box-edge-csharp-modules)
+      - [Azure Stack Edge product](https://azure.microsoft.com/services/storage/databox/edge/)
+      - [Pricing](https://azure.microsoft.com/pricing/details/storage/databox/edge/)
+      - [Azure Stack Edge Hardware Additional Terms](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-add-hardware-terms)
