@@ -1,63 +1,58 @@
 # Azure Data Box documentation - Offline transfer
 > Use the Azure Data Box devices for offline data transfer when you are limited by time, network, or cost. Depending on your data size, choose from Data Box Disk, Data Box, or Data Box Heavy.
   - [Azure Data Box Documentation - Offline Transfer](https://learn.microsoft.com/en-us/azure/databox/)
-    - Data Box
+    - Data Box Next Gen
       - Overview
-        - [What is Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview?pivots=dbx)
-        - [What is next-gen Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview?pivots=dbx-ng)
+        - [What is Data Box Next Gen?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview?pivots=dbx-ng)
       - Quickstarts
         - Set up - Azure portal
-          - [For import](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal?pivots=dbx)
-          - [For import - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal?pivots=dbx-ng)
-          - [For export](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-export?pivots=dbx)
-          - [For export - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-export?pivots=dbx-ng)
+          - [For import](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal?pivots=dbx-ng)
+          - [For export](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-export?pivots=dbx-ng)
       - Tutorials
         - Import data to Azure
-          - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-ordered)
-          - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up)
+          - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-ordered?pivots=dbx-ng)
+          - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up?pivots=dbx-ng)
           - 3 - Connect & copy
-            - [Via SMB](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data)
-            - [Via NFS](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-nfs)
-            - [Via REST](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-rest)
-            - [Via data copy service](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-copy-service)
-            - [To managed disks](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-from-vhds)
-          - [4 - Prepare to ship](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-prepare-to-ship)
-          - [5 - Return, upload, verify](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-picked-up)
+            - [Via SMB](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data?pivots=dbx-ng)
+            - [Via NFS](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-nfs?pivots=dbx-ng)
+            - [Via REST](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-rest?pivots=dbx-ng)
+            - [Via data copy service](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-copy-service?pivots=dbx-ng)
+            - [To managed disks](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-from-vhds?pivots=dbx-ng)
+          - [4 - Prepare to ship](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-prepare-to-ship?pivots=dbx-ng)
+          - [5 - Return, upload, verify](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-picked-up?pivots=dbx-ng)
         - Export data from Azure
-          - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-ordered)
-          - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up)
+          - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-ordered?pivots=dbx-ng)
+          - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up?pivots=dbx-ng)
           - 3 - Connect & copy
-            - [Via SMB](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-copy-data)
-            - [Via NFS](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-copy-data-via-nfs)
-          - [4 - Return](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-picked-up)
+            - [Via SMB](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-copy-data?pivots=dbx-ng)
+            - [Via NFS](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-copy-data-via-nfs?pivots=dbx-ng)
+          - [4 - Return](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-picked-up?pivots=dbx-ng)
       - Concepts
-        - [Read safety guidelines](https://learn.microsoft.com/en-us/azure/databox/data-box-safety)
-        - [Read safety guidelines - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-safety)
+        - [Read safety guidelines](https://learn.microsoft.com/en-us/azure/databox/data-box-safety?pivots=dbx-ng)
         - Review tracking and logging
-          - [For import orders](https://learn.microsoft.com/en-us/azure/databox/data-box-logs)
-          - [For export orders](https://learn.microsoft.com/en-us/azure/databox/data-box-export-logs)
-        - [View audit logs](https://learn.microsoft.com/en-us/azure/databox/data-box-audit-logs)
+          - [For import orders](https://learn.microsoft.com/en-us/azure/databox/data-box-logs?pivots=dbx-ng)
+          - [For export orders](https://learn.microsoft.com/en-us/azure/databox/data-box-export-logs?pivots=dbx-ng)
+        - [View audit logs](https://learn.microsoft.com/en-us/azure/databox/data-box-audit-logs?pivots=dbx-ng)
         - Review requirements
-          - [For Data Box](https://learn.microsoft.com/en-us/azure/databox/data-box-system-requirements)
-          - [For Data Box Blob storage](https://learn.microsoft.com/en-us/azure/databox/data-box-system-requirements-rest)
-        - [Understand limits](https://learn.microsoft.com/en-us/azure/databox/data-box-limits)
+          - [For Data Box](https://learn.microsoft.com/en-us/azure/databox/data-box-system-requirements?pivots=dbx-ng)
+          - [For Data Box Blob storage](https://learn.microsoft.com/en-us/azure/databox/data-box-system-requirements-rest?pivots=dbx-ng)
+        - [Understand limits](https://learn.microsoft.com/en-us/azure/databox/data-box-limits?pivots=dbx-ng)
         - Security
-          - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/databox-security-baseline?context=/azure/databox/context/context)
-          - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/databox/security-controls-policy)
-          - [Review security](https://learn.microsoft.com/en-us/azure/databox/data-box-security)
-          - [Review security - Next Gen](https://learn.microsoft.com/en-us/azure/databox/data-box-next-gen-security)
-        - [Transfer ACLs and metadata](https://learn.microsoft.com/en-us/azure/databox/data-box-file-acls-preservation)
+          - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/databox-security-baseline?pivots=dbx-ng)
+          - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/databox/security-controls-policy?pivots=dbx-ng)
+          - [Review security](https://learn.microsoft.com/en-us/azure/databox/data-box-security?pivots=dbx-ng)
+        - [Transfer ACLs and metadata](https://learn.microsoft.com/en-us/azure/databox/data-box-file-acls-preservation?pivots=dbx-ng)
         - [FAQ](https://learn.microsoft.com/en-us/azure/databox/data-box-faq.yml)
       - How to
-        - [Manage via Azure portal](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-admin)
-        - [Manage via local web UI](https://learn.microsoft.com/en-us/azure/databox/data-box-local-web-ui-admin)
-        - [Use self-managed shipping](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-customer-managed-shipping)
-        - [Bring your own certificates](https://learn.microsoft.com/en-us/azure/databox/data-box-bring-your-own-certificates)
-        - [Enable customer managed key](https://learn.microsoft.com/en-us/azure/databox/data-box-customer-managed-encryption-key-portal)
-        - [Use Customer Lockbox](https://learn.microsoft.com/en-us/azure/databox/data-box-customer-lockbox)
-        - [Move data to a blob tier](https://learn.microsoft.com/en-us/azure/databox/data-box-how-to-set-data-tier)
-        - [Cable the device](https://learn.microsoft.com/en-us/azure/databox/data-box-cable-options)
-        - [Contact Support](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-contact-microsoft-support)
+        - [Manage via Azure portal](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-admin?pivots=dbx-ng)
+        - [Manage via local web UI](https://learn.microsoft.com/en-us/azure/databox/data-box-local-web-ui-admin?pivots=dbx-ng)
+        - [Use self-managed shipping](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-customer-managed-shipping?pivots=dbx-ng)
+        - [Bring your own certificates](https://learn.microsoft.com/en-us/azure/databox/data-box-bring-your-own-certificates?pivots=dbx-ng)
+        - [Enable customer managed key](https://learn.microsoft.com/en-us/azure/databox/data-box-customer-managed-encryption-key-portal?pivots=dbx-ng)
+        - [Use Customer Lockbox](https://learn.microsoft.com/en-us/azure/databox/data-box-customer-lockbox?pivots=dbx-ng)
+        - [Move data to a blob tier](https://learn.microsoft.com/en-us/azure/databox/data-box-how-to-set-data-tier?pivots=dbx-ng)
+        - [Cable the device](https://learn.microsoft.com/en-us/azure/databox/data-box-cable-options?pivots=dbx-ng)
+        - [Contact Support](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-contact-microsoft-support?pivots=dbx-ng)
         - Migrate
           - [Using Storage Mover](https://learn.microsoft.com/en-us/azure/storage-mover/service-overview)
           - [To SharePoint Online](https://learn.microsoft.com/sharepointmigration/how-to-migrate-file-share-content-to-spo-using-azuredatabox?context=%2fazure%2fdatabox%2fcontext%2fcontext)
@@ -65,11 +60,75 @@
           - [From HDFS store](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-migrate-on-premises-hdfs-cluster?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
           - [To Azure backup](https://learn.microsoft.com/en-us/azure/backup/offline-backup-azure-data-box?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
         - Troubleshoot
-          - [Data Box share access](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-share-access)
-          - [Data Box copy issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot)
-          - [Data Box upload issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-data-upload)
-          - [Data Box Blob storage issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-rest)
-          - [Data Box time sync issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-time-sync)
+          - [Data Box share access](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-share-access?pivots=dbx-ng)
+          - [Data Box copy issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot?pivots=dbx-ng)
+          - [Data Box upload issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-data-upload?pivots=dbx-ng)
+          - [Data Box Blob storage issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-rest?pivots=dbx-ng)
+          - [Data Box time sync issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-time-sync?pivots=dbx-ng)
+    - Data Box
+      - Overview
+        - [What is Data Box?](https://learn.microsoft.com/en-us/azure/databox/data-box-overview?pivots=dbx)
+      - Quickstarts
+        - Set up - Azure portal
+          - [For import](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-portal?pivots=dbx)
+          - [For export](https://learn.microsoft.com/en-us/azure/databox/data-box-quickstart-export?pivots=dbx)
+      - Tutorials
+        - Import data to Azure
+          - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-ordered?pivots=dbx)
+          - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up?pivots=dbx)
+          - 3 - Connect & copy
+            - [Via SMB](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data?pivots=dbx)
+            - [Via NFS](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-nfs?pivots=dbx)
+            - [Via REST](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-rest?pivots=dbx)
+            - [Via data copy service](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-via-copy-service?pivots=dbx)
+            - [To managed disks](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-copy-data-from-vhds?pivots=dbx)
+          - [4 - Prepare to ship](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-prepare-to-ship?pivots=dbx)
+          - [5 - Return, upload, verify](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-picked-up?pivots=dbx)
+        - Export data from Azure
+          - [1 - Order](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-ordered?pivots=dbx)
+          - [2 - Set up](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up?pivots=dbx)
+          - 3 - Connect & copy
+            - [Via SMB](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-copy-data?pivots=dbx)
+            - [Via NFS](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-copy-data-via-nfs?pivots=dbx)
+          - [4 - Return](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-export-picked-up?pivots=dbx)
+      - Concepts
+        - [Read safety guidelines](https://learn.microsoft.com/en-us/azure/databox/data-box-safety?pivots=dbx)
+        - Review tracking and logging
+          - [For import orders](https://learn.microsoft.com/en-us/azure/databox/data-box-logs?pivots=dbx)
+          - [For export orders](https://learn.microsoft.com/en-us/azure/databox/data-box-export-logs?pivots=dbx)
+        - [View audit logs](https://learn.microsoft.com/en-us/azure/databox/data-box-audit-logs?pivots=dbx)
+        - Review requirements
+          - [For Data Box](https://learn.microsoft.com/en-us/azure/databox/data-box-system-requirements?pivots=dbx)
+          - [For Data Box Blob storage](https://learn.microsoft.com/en-us/azure/databox/data-box-system-requirements-rest?pivots=dbx)
+        - [Understand limits](https://learn.microsoft.com/en-us/azure/databox/data-box-limits?pivots=dbx)
+        - Security
+          - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/databox-security-baseline?context=/azure/databox/context/context)
+          - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/databox/security-controls-policy)
+          - [Review security](https://learn.microsoft.com/en-us/azure/databox/data-box-security?pivots=dbx)
+        - [Transfer ACLs and metadata](https://learn.microsoft.com/en-us/azure/databox/data-box-file-acls-preservation?pivots=dbx)
+        - [FAQ](https://learn.microsoft.com/en-us/azure/databox/data-box-faq.yml)
+      - How to
+        - [Manage via Azure portal](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-admin?pivots=dbx)
+        - [Manage via local web UI](https://learn.microsoft.com/en-us/azure/databox/data-box-local-web-ui-admin?pivots=dbx)
+        - [Use self-managed shipping](https://learn.microsoft.com/en-us/azure/databox/data-box-portal-customer-managed-shipping?pivots=dbx)
+        - [Bring your own certificates](https://learn.microsoft.com/en-us/azure/databox/data-box-bring-your-own-certificates?pivots=dbx)
+        - [Enable customer managed key](https://learn.microsoft.com/en-us/azure/databox/data-box-customer-managed-encryption-key-portal?pivots=dbx)
+        - [Use Customer Lockbox](https://learn.microsoft.com/en-us/azure/databox/data-box-customer-lockbox?pivots=dbx)
+        - [Move data to a blob tier](https://learn.microsoft.com/en-us/azure/databox/data-box-how-to-set-data-tier?pivots=dbx)
+        - [Cable the device](https://learn.microsoft.com/en-us/azure/databox/data-box-cable-options?pivots=dbx)
+        - [Contact Support](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-contact-microsoft-support?pivots=dbx)
+        - Migrate
+          - [Using Storage Mover](https://learn.microsoft.com/en-us/azure/storage-mover/service-overview)
+          - [To SharePoint Online](https://learn.microsoft.com/sharepointmigration/how-to-migrate-file-share-content-to-spo-using-azuredatabox?context=%2fazure%2fdatabox%2fcontext%2fcontext)
+          - [To Azure File Sync](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-migration-server-hybrid-databox?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+          - [From HDFS store](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-migrate-on-premises-hdfs-cluster?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+          - [To Azure backup](https://learn.microsoft.com/en-us/azure/backup/offline-backup-azure-data-box?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+        - Troubleshoot
+          - [Data Box share access](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-share-access?pivots=dbx)
+          - [Data Box copy issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot?pivots=dbx)
+          - [Data Box upload issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-data-upload?pivots=dbx)
+          - [Data Box Blob storage issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-rest?pivots=dbx)
+          - [Data Box time sync issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-time-sync?pivots=dbx)
     - Data Box Disk
       - Overview
         - [What is Data Box Disk?](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-overview)

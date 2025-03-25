@@ -188,8 +188,8 @@
       - [Automatic memory fitting preview](https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit)
       - [Build environment variables preview](https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables)
       - Launch your first Java app
-        - [Dockerfile](https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/java-get-started-dockerfile)
-        - [Github repository](https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/java-get-started-github-repository)
+        - [Dockerfile](https://learn.microsoft.com/en-us/azure/container-apps/java-get-started-dockerfile)
+        - [Github repository](https://learn.microsoft.com/en-us/azure/container-apps/java-get-started-github-repository)
         - [IntelliJ](https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/create-container-apps-intellij?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
         - [Artifacts preview](https://learn.microsoft.com/en-us/azure/container-apps/java-get-started)
       - Artificial intelligence

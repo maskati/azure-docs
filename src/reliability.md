@@ -36,7 +36,7 @@
         - [Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal)
         - [Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san)
         - [Azure HDInsight](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight)
-        - [Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability)
+        - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-aks)
         - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer)
         - [Log Analytics Dedicated Cluster workspaces](https://learn.microsoft.com/en-us/azure/reliability/migrate-monitor-log-analytics)
         - [Azure Recovery Services vault](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
