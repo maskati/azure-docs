@@ -38,7 +38,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/firewall/premium-portal)
       - [Features](https://learn.microsoft.com/en-us/azure/firewall/premium-features)
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy)
-      - [Cerficates](https://learn.microsoft.com/en-us/azure/firewall/premium-certificates)
+      - [Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-certificates)
       - [Enterprise CA Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy-certificates-enterprise-ca)
     - To a hybrid Network
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal-policy)

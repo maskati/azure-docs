@@ -53,20 +53,20 @@
         - [Application enclave VM FAQ](https://learn.microsoft.com/en-us/azure/confidential-computing/faq-application-enclaves.yml)
     - Container compute
       - [Container solutions overview](https://learn.microsoft.com/en-us/azure/confidential-computing/choose-confidential-containers-offerings)
-      - Application enclave nodes on AKS
-        - [Application enclave with Intel SGX DCSv2/DCsv3 nodes](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-nodes-aks-overview)
-        - [Deploy application enclave nodes on AKS](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-enclave-nodes-aks-get-started)
-        - [Enclave-aware containers](https://learn.microsoft.com/en-us/azure/confidential-computing/enclave-aware-containers)
-        - [AKS Add-on](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-nodes-aks-addon)
-        - [Confidential enclave nodes FAQ](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-nodes-aks-faq.yml)
+      - Confidential node pools on AKS
+        - [Confidential VM node pools in AKS](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-node-pool-aks)
       - Confidential containers
         - [Confidential containers overview](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers)
         - [Confidential containers on AKS](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers-on-aks-preview)
         - [Confidential containers AKS security policy](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers-aks-security-policy)
         - [Confidential containers with Azure Container Instances](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers)
         - [Confidential containers with Intel SGX enclaves](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-containers-enclaves)
-      - Confidential node pools on AKS
-        - [Confidential VM node pools in AKS](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-node-pool-aks)
+      - Application enclave nodes on AKS
+        - [Application enclave with Intel SGX DCSv2/DCsv3 nodes](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-nodes-aks-overview)
+        - [Deploy application enclave nodes on AKS](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-enclave-nodes-aks-get-started)
+        - [Enclave-aware containers](https://learn.microsoft.com/en-us/azure/confidential-computing/enclave-aware-containers)
+        - [AKS Add-on](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-nodes-aks-addon)
+        - [Confidential enclave nodes FAQ](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-nodes-aks-faq.yml)
       - References
         - [DCasv5 and DCadsv5-series](https://learn.microsoft.com/azure/virtual-machines/dcasv5-dcadsv5-series)
         - [ECasv5 and ECadsv5-series](https://learn.microsoft.com/azure/virtual-machines/ecasv5-ecadsv5-series)
@@ -75,12 +75,12 @@
         - [Pricing](https://azure.microsoft.com/pricing/details/virtual-machines/linux/)
         - [Regions](https://azure.microsoft.com/global-infrastructure/services/?products=virtual-machine)
     - Confidential services
-      - [SQL Always Encrypted with secure enclaves](https://learn.microsoft.com/sql/relational-databases/security/encryption/configure-always-encrypted-enclaves)
-      - [SQL on confidential virtual machines](https://learn.microsoft.com/azure/azure-sql/virtual-machines/windows/sql-vm-create-confidential-vm-how-to)
       - [Confidential VMs for Azure Databricks](https://techcommunity.microsoft.com/t5/azure-confidential-computing/confidential-vm-option-for-azure-databricks-preview/ba-p/3827982)
       - [Confidential VMs for Azure Data Explorer preview](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/confidential-vm-option-for-azure-data-explorer-public-preview/ba-p/3827343)
       - [Confidential VMs for Azure Virtual Desktop](https://learn.microsoft.com/azure/virtual-desktop/whats-new)
       - [Azure confidential ledger](https://learn.microsoft.com/azure/confidential-ledger/overview)
+      - [SQL on confidential virtual machines](https://learn.microsoft.com/azure/azure-sql/virtual-machines/windows/sql-vm-create-confidential-vm-how-to)
+      - [SQL Always Encrypted with secure enclaves](https://learn.microsoft.com/sql/relational-databases/security/encryption/configure-always-encrypted-enclaves)
     - Partner Solutions
       - [Overview](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/partner-pages-index)
       - [Anjuna](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/anjuna)

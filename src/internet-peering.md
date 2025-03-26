@@ -19,25 +19,13 @@
     - [Peering maintenance notification walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-device-maintenance-notification)
     - [Peering Service monitoring and telemetry walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-monitoring-telemetry)
     - [Direct peering type conversion request walkthrough](https://learn.microsoft.com/en-us/azure/internet-peering/walkthrough-direct-peering-type-conversions)
-    - Associate peer ASN to Azure subscription
-      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-subscription-association-portal)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-subscription-association-powershell)
-    - Enable Peering Service on a Direct peering
-      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-peering-service-portal)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-peering-service-powershell)
+    - [Associate peer ASN to Azure subscription](https://learn.microsoft.com/en-us/azure/internet-peering/howto-subscription-association-portal)
+    - [Enable Peering Service on a Direct peering](https://learn.microsoft.com/en-us/azure/internet-peering/howto-peering-service-portal)
     - [Enable Peering Service Voice on a Direct peering](https://learn.microsoft.com/en-us/azure/internet-peering/howto-peering-service-voice-portal)
-    - Create or modify a Direct peering
-      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-direct-portal)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-direct-powershell)
-    - Convert a legacy Direct peering to Azure resource
-      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-direct-portal)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-direct-powershell)
-    - Create or modify an Exchange peering
-      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-exchange-portal)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-exchange-powershell)
-    - Convert a legacy Exchange peering to Azure resource
-      - [Portal](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-exchange-portal)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-exchange-powershell)
+    - [Create or modify a Direct peering](https://learn.microsoft.com/en-us/azure/internet-peering/howto-direct-portal)
+    - [Convert a legacy Direct peering to Azure resource](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-direct-portal)
+    - [Create or modify an Exchange peering](https://learn.microsoft.com/en-us/azure/internet-peering/howto-exchange-portal)
+    - [Convert a legacy Exchange peering to Azure resource](https://learn.microsoft.com/en-us/azure/internet-peering/howto-legacy-exchange-portal)
     - [Create or modify an Exchange peering with route server](https://learn.microsoft.com/en-us/azure/internet-peering/how-to-exchange-route-server-portal)
   - Security
     - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)

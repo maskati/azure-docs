@@ -12,6 +12,7 @@
     - [What are Azure regions?](https://learn.microsoft.com/en-us/azure/reliability/regions-overview)
     - [Paired and nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-paired)
     - [Multi-region solutions in nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-multi-region-nonpaired)
+    - [Nonregional Azure services](https://learn.microsoft.com/en-us/azure/reliability/regions-nonregional-services)
     - [Azure regions list](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
   - Azure availability zones
     - [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
@@ -33,7 +34,7 @@
         - [Azure Container Registry](https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability)
         - [Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/reliability/migrate-cosmos-nosql)
         - [Azure Database for MySQL - Flexible Server](https://learn.microsoft.com/en-us/azure/reliability/migrate-database-mysql-flex)
-        - [Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal)
+        - [Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal?toc=/azure/reliability)
         - [Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san)
         - [Azure HDInsight](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight)
         - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-aks)
@@ -43,8 +44,8 @@
         - [Azure Service Fabric](https://learn.microsoft.com/en-us/azure/reliability/migrate-service-fabric)
         - [Azure Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-outages-disasters)
         - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/reliability/migrate-sql-database)
+        - [Azure SQL Managed Instance](https://learn.microsoft.com/azure/azure-sql/managed-instance/instance-zone-redundancy-configure)
         - [Azure Storage accounts](https://learn.microsoft.com/en-us/azure/reliability/migrate-storage)
-        - [Azure SQL managed instance](https://learn.microsoft.com/azure/azure-sql/managed-instance/instance-zone-redundancy-configure)
         - [Azure Virtual Machines and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/migrate-vm)
         - [Workload - Azure Kubernetes and MySQL](https://learn.microsoft.com/en-us/azure/reliability/migrate-workload-aks-mysql)
   - Reliability guides by service
@@ -72,7 +73,7 @@
       - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
       - [Azure Data Factory](https://learn.microsoft.com/en-us/azure/reliability/reliability-data-factory)
       - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/reliability-functions)
-      - [Azure Kubernetes Service AKS](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Kubernetes Service AKS](https://learn.microsoft.com/en-us/azure/reliability/reliability-aks)
       - Azure Service Fabric
         - [Availability zones](https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -90,7 +91,7 @@
       - Azure Container Registry
         - [Availability zones](https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/azure/container-registry/container-registry-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - [Azure Kubernetes Service AKS](https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Kubernetes Service AKS](https://learn.microsoft.com/en-us/azure/reliability/reliability-aks)
       - Azure Service Fabric
         - [Availability zones](https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

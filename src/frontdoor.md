@@ -83,14 +83,13 @@
       - [Classic to Standard/Premium mapping](https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping)
       - [Migrate from Front Door classic](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier)
     - [Microsoft CDN classic retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq)
-    - [Edgio retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json)
+    - [Edgio retirement FAQ](https://learn.microsoft.com/previous-versions/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json)
     - CDN classic to Azure Front Door
       - [Overview](https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/TOC.json)
       - [Migrate from Azure CDN classic to Azure Front Door](https://learn.microsoft.com/en-us/azure/cdn/migrate-tier?toc=/azure/frontdoor/TOC.json)
     - [Migrate CDN provider](https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/TOC.json)
     - Migrate any CDN to Azure Front Door
       - [Custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door)
-      - [Retain *.azureedge.net domain](https://learn.microsoft.com/en-us/azure/cdn/migrate-cdn-to-front-door-retain-edge-domain?toc=/azure/frontdoor/TOC.json)
     - Upgrade to Premium tier
       - [Azure portal](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade-powershell)

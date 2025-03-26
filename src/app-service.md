@@ -1,39 +1,85 @@
 # App Service documentation
-> Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the language stack of your choice without managing infrastructure, including .NET, Java (Java SE, Tomcat, and JBoss EAP), Node.js, Python, and PHP. It can also run any language stack with custom containers. It provides auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples.
+> Use Azure App Service, a fully managed platform as a service (PaaS), to create web applications in popular languages like .NET, Java, Node.js, and Python.
   - [App Service Documentation](https://learn.microsoft.com/en-us/azure/app-service/)
-  - Get started
-    - [Getting started](https://learn.microsoft.com/en-us/azure/app-service/getting-started)
+  - Overview
     - [About App Service](https://learn.microsoft.com/en-us/azure/app-service/overview)
     - [About App Service Environments](https://learn.microsoft.com/en-us/azure/app-service/environment/overview)
-    - [Compare web hosting options](https://learn.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
-    - [Compare JBoss EAP options](https://learn.microsoft.com/azure/developer/java/ee/jboss-on-azure?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
-  - Quickstarts
-    - [Deploy ASP.NET](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore)
-    - [Deploy Java](https://learn.microsoft.com/en-us/azure/app-service/quickstart-java)
-    - [Deploy Node.js](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs)
-    - [Deploy Python](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python)
-    - [Deploy PHP](https://learn.microsoft.com/en-us/azure/app-service/quickstart-php)
-    - [Deploy WordPress](https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress)
-    - [Deploy a custom container](https://learn.microsoft.com/en-us/azure/app-service/quickstart-custom-container)
-    - [Deploy using ARM template](https://learn.microsoft.com/en-us/azure/app-service/quickstart-arm-template)
+  - [Compare web hosting options](https://learn.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
+  - Get started
+    - [Get started](https://learn.microsoft.com/en-us/azure/app-service/getting-started)
+    - .NET
+      - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore)
+      - Configure
+        - [ASP.NET](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnet-framework)
+        - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnetcore)
+      - Connect
+        - [ASP.NET Core with SQL DB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app)
+        - [ASP.NET with SQL DB](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnet-sqldatabase)
+        - [Connect .NET app to SQL database](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-msi-sql-database)
+        - [to Microsoft Graph with managed identity](https://learn.microsoft.com/en-us/azure/app-service/scenario-secure-app-access-microsoft-graph-as-app)
+        - [to Microsoft Graph as user](https://learn.microsoft.com/en-us/azure/app-service/scenario-secure-app-access-microsoft-graph-as-user)
+        - [to other Azure services with managed identity](https://learn.microsoft.com/en-us/azure/app-service/scenario-secure-app-access-storage)
+        - [to SQL database as user](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-sql-database-as-user-dotnet)
+      - Migrate
+        - [Assess .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-assess-net)
+        - [Discover .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-discover-net)
+        - [Migrate .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-asp-net-migration)
+        - [Migrate containerized .NET](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service?bc=/azure/bread/toc.json&toc=/azure/app-service/toc.json)
+    - Java
+      - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-java)
+      - Configure
+        - [Deployment and runtime](https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-deploy-run)
+        - [Compare JBoss EAP options](https://learn.microsoft.com/azure/developer/java/ee/jboss-on-azure?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
+        - [Data sources](https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-data-sources)
+        - [APM integration](https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-apm)
+        - [Security](https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-security)
+      - Connect
+        - [Spring Boot with MongoDB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-spring-cosmosdb)
+        - [Tomcat with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-tomcat-mysql-app)
+        - [Java Tomcat to Postgres](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-tomcat-connect-managed-identity-postgresql-database)
+        - [JBoss with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-jboss-mysql-app)
+      - Migrate
+        - [Java SE](https://learn.microsoft.com/en-us/azure/app-service/app-service-java-migration)
+        - [Tomcat](https://learn.microsoft.com/azure/developer/java/migration/migrate-tomcat-to-tomcat-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+        - [JBoss EAP](https://learn.microsoft.com/azure/developer/java/migration/migrate-jboss-eap-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+        - [WebLogic](https://learn.microsoft.com/azure/developer/java/migration/migrate-weblogic-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+        - [WebSphere](https://learn.microsoft.com/azure/developer/java/migration/migrate-websphere-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+    - Node.js
+      - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs)
+      - [Configure](https://learn.microsoft.com/en-us/azure/app-service/configure-language-nodejs)
+      - Connect
+        - [with MongoDB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app)
+        - [to Microsoft Graph with managed identity](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-microsoft-graph-as-app-javascript)
+        - [to Microsoft Graph as User](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-microsoft-graph-as-user-javascript)
+        - [to other Azure services with managed identity](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-storage-javascript)
+    - Python
+      - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python)
+      - [Configure](https://learn.microsoft.com/en-us/azure/app-service/configure-language-python)
+      - Connect with Postgres
+        - [using Flask](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-flask)
+        - [using Flask with managed identity](https://learn.microsoft.com/azure/developer/python/tutorial-python-managed-identity-cli?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
+        - [using Django](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-django)
+        - [using FastAPI](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-fastapi)
+    - PHP
+      - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-php)
+      - [Configure](https://learn.microsoft.com/en-us/azure/app-service/configure-language-php)
+      - [Connect with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-php-mysql-app)
+    - WordPress
+      - [Overview](https://learn.microsoft.com/en-us/azure/app-service/overview-wordpress)
+      - [Architecture](https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-app-service?toc=%2Fazure%2Fapp-service%2Ftoc.json&bc=%2Fazure%2Fapp-service%2Fbreadcrumb%2Ftoc.json)
+      - [Deploy](https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress)
+      - [Migrate WordPress to App Service](https://learn.microsoft.com/en-us/azure/app-service/migrate-wordpress)
+      - [Configure WordPress](https://learn.microsoft.com/en-us/azure/app-service/reference-app-settings)
+      - [Customize API Management developer portal](https://learn.microsoft.com/azure/api-management/developer-portal-wordpress-plugin?toc=%2Fazure%2Fapp-service%2Ftoc.json&bc=%2Fazure%2Fapp-service%2Fbreadcrumb%2Ftoc.json)
+      - [WordPress FAQ](https://learn.microsoft.com/en-us/azure/app-service/wordpress-faq)
   - Deployment and configuration
     - [Deployment best practices](https://learn.microsoft.com/en-us/azure/app-service/deploy-best-practices)
+    - [Deploy using ARM template](https://learn.microsoft.com/en-us/azure/app-service/quickstart-arm-template)
     - [Deploy a REST API tutorial](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api)
     - [Configure common settings](https://learn.microsoft.com/en-us/azure/app-service/configure-common)
     - [Use settings from App Configuration](https://learn.microsoft.com/en-us/azure/app-service/app-service-configuration-references)
     - [App settings reference](https://learn.microsoft.com/en-us/azure/app-service/reference-app-settings)
     - [Configure error pages](https://learn.microsoft.com/en-us/azure/app-service/configure-error-pages)
-    - Configure specific languages
-      - [Configure ASP.NET](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnet-framework)
-      - [Configure ASP.NET Core](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnetcore)
-      - [Configure Node.js](https://learn.microsoft.com/en-us/azure/app-service/configure-language-nodejs)
-      - [Configure PHP](https://learn.microsoft.com/en-us/azure/app-service/configure-language-php)
-      - [Configure Python](https://learn.microsoft.com/en-us/azure/app-service/configure-language-python)
-      - Configure Java SE, Tomcat, or JBoss
-        - [Deployment and runtime](https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-deploy-run)
-        - [Data sources](https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-data-sources)
-        - [APM integration](https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-apm)
-        - [Security](https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-security)
     - Deployment methods
       - [Use ZIP or WAR](https://learn.microsoft.com/en-us/azure/app-service/deploy-zip)
       - [Use FTP](https://learn.microsoft.com/en-us/azure/app-service/deploy-ftp)
@@ -76,18 +122,6 @@
       - [Configure TLS mutual authentication](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth)
   - Database and service connection
     - [Connectivity scenarios overview](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-overview)
-    - Connect to database tutorials
-      - [ASP.NET Core with SQL DB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app)
-      - [ASP.NET with SQL DB](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnet-sqldatabase)
-      - [PHP with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-php-mysql-app)
-      - [Node.js with MongoDB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app)
-      - Python with Postgres
-        - [Using Flask](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-flask)
-        - [Using Django](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-django)
-        - [Using FastAPI](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-fastapi)
-      - [Spring Boot with MongoDB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-spring-cosmosdb)
-      - [Tomcat with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-tomcat-mysql-app)
-      - [JBoss with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-jboss-mysql-app)
     - Connect by using secrets
       - [Use secrets in app settings](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal)
       - [Use secrets from Key Vault](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references)
@@ -103,22 +137,6 @@
     - Connect by using app identity
       - [Managed identity overview](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity)
       - [Connect to databases with managed identity](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-msi-azure-database)
-      - End-to-end tutorials
-        - Connect to DB with managed identity
-          - [Connect .NET app to SQL database](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-msi-sql-database)
-          - [Connect Java Tomcat to Postgres](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-tomcat-connect-managed-identity-postgresql-database)
-          - [Connect Python Flask app to Postgres](https://learn.microsoft.com/azure/developer/python/tutorial-python-managed-identity-cli?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
-        - Connect to Microsoft Graph with managed identity
-          - [Use .NET](https://learn.microsoft.com/en-us/azure/app-service/scenario-secure-app-access-microsoft-graph-as-app)
-          - [Use Node.js](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-microsoft-graph-as-app-javascript)
-        - Connect to other Azure services with managed identity
-          - [Use .NET](https://learn.microsoft.com/en-us/azure/app-service/scenario-secure-app-access-storage)
-          - [Use Node.js](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-storage-javascript)
-    - Connect as authenticated user
-      - Connect to Microsoft Graph as user
-        - [Use .NET](https://learn.microsoft.com/en-us/azure/app-service/scenario-secure-app-access-microsoft-graph-as-user)
-        - [Use Node.js](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-microsoft-graph-as-user-javascript)
-      - [Connect to SQL database as user](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-sql-database-as-user-dotnet)
       - [Connect to another app as user](https://learn.microsoft.com/en-us/azure/app-service/tutorial-auth-aad)
       - [App to app to another Azure service as user](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-app-graph-javascript)
   - Scaling and performance
@@ -189,6 +207,7 @@
     - [Move app between subscriptions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-resource-group-and-subscription?toc=/azure/app-service/toc.json)
     - [About cost management](https://learn.microsoft.com/en-us/azure/app-service/overview-manage-costs)
   - Custom containers
+    - [Deploy a custom container](https://learn.microsoft.com/en-us/azure/app-service/quickstart-custom-container)
     - [Configure custom container](https://learn.microsoft.com/en-us/azure/app-service/configure-custom-container)
     - [CI/CD to custom container](https://learn.microsoft.com/en-us/azure/app-service/deploy-ci-cd-custom-container)
     - [About GitHub Actions for containers](https://learn.microsoft.com/en-us/azure/app-service/deploy-container-github-action)
@@ -201,14 +220,6 @@
     - [Run an SLM in sidecar](https://learn.microsoft.com/en-us/azure/app-service/tutorial-sidecar-local-small-language-model)
     - [Deploy a .NET app with Azure OpenAI and Azure SQL](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps-dotnet-to-azure-sql)
     - [Invoke OpenAPI app from Azure AI Agent](https://learn.microsoft.com/en-us/azure/app-service/invoke-openapi-web-app-from-azure-ai-agent-service)
-  - WordPress
-    - [WordPress overview](https://learn.microsoft.com/en-us/azure/app-service/overview-wordpress)
-    - [WordPress architecture](https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-app-service?toc=%2Fazure%2Fapp-service%2Ftoc.json&bc=%2Fazure%2Fapp-service%2Fbreadcrumb%2Ftoc.json)
-    - [Deploy WordPress](https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress)
-    - [Migrate WordPress to App Service](https://learn.microsoft.com/en-us/azure/app-service/migrate-wordpress)
-    - [Configure WordPress](https://learn.microsoft.com/en-us/azure/app-service/reference-app-settings)
-    - [Customize API Management developer portal](https://learn.microsoft.com/azure/api-management/developer-portal-wordpress-plugin?toc=%2Fazure%2Fapp-service%2Ftoc.json&bc=%2Fazure%2Fapp-service%2Fbreadcrumb%2Ftoc.json)
-    - [WordPress FAQ](https://learn.microsoft.com/en-us/azure/app-service/wordpress-faq)
   - WebJobs
     - [Create WebJobs](https://learn.microsoft.com/en-us/azure/app-service/webjobs-create)
     - [Develop WebJobs using VS](https://learn.microsoft.com/en-us/azure/app-service/webjobs-dotnet-deploy-vs)
@@ -250,16 +261,6 @@
     - [Best practices](https://learn.microsoft.com/en-us/azure/app-service/app-service-best-practices)
     - [Samples](https://azure.microsoft.com/resources/samples/?service=app-service)
     - [Videos](https://azure.microsoft.com/resources/videos/index/?services=app-service)
-    - Migrate to App Service
-      - [Assess .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-assess-net)
-      - [Discover .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-discover-net)
-      - [Migrate .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-asp-net-migration)
-      - [Migrate containerized .NET](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service?bc=/azure/bread/toc.json&toc=/azure/app-service/toc.json)
-      - [Migrate Java](https://learn.microsoft.com/en-us/azure/app-service/app-service-java-migration)
-      - [Migrate Tomcat](https://learn.microsoft.com/azure/developer/java/migration/migrate-tomcat-to-tomcat-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
-      - [Migrate JBoss EAP](https://learn.microsoft.com/azure/developer/java/migration/migrate-jboss-eap-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
-      - [Migrate WebLogic](https://learn.microsoft.com/azure/developer/java/migration/migrate-weblogic-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
-      - [Migrate WebSphere](https://learn.microsoft.com/azure/developer/java/migration/migrate-websphere-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
     - Cookbooks
       - [Reference Architectures](https://learn.microsoft.com/azure/architecture/reference-architectures/app-service-web-app/basic-web-app)
       - [Deployment Scripts](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-gallery)

@@ -64,8 +64,6 @@
       - Create peering
         - [Different subscriptions and tenants](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions)
         - [Different subscriptions with SPNs](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions-service-principal)
-        - [Different deployment model same subscription](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-deployment-models)
-        - [Different deployment model and subscription](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-deployment-models-subscriptions)
       - [Manage a virtual network peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-peering)
       - [Update the address space for a peered virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/update-virtual-network-peering-address-space.yml)
       - [Configure subnet peering](https://learn.microsoft.com/en-us/azure/virtual-network/how-to-configure-subnet-peering)
