@@ -4,6 +4,7 @@
     - [What is Azure Storage Actions?](https://learn.microsoft.com/en-us/azure/storage-actions/overview)
   - Quickstarts
     - [Create, assign, and run a storage task](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-quickstart-portal)
+    - [Create a storage task - Terraform](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-quickstart-terraform)
   - Concepts
     - [Storage task conditions](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-conditions)
     - [Storage task operations](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-operations)

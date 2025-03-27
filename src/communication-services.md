@@ -405,7 +405,6 @@
       - [Authentication service hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/trusted-auth-sample)
       - [Build an authentication service using Azure Functions](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/trusted-service-tutorial)
       - [Calling hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/calling-hero-sample)
-      - [Xamarin calling sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/ui-library-cross-platform?pivots=platform-xamarin)
       - [React Native calling sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/ui-library-cross-platform?pivots=platform-react)
       - [MAUI calling sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/ui-library-cross-platform?pivots=platform-maui)
       - [Web calling sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/web-calling-sample)

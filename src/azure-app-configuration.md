@@ -4,29 +4,49 @@
   - Overview
     - [About Azure App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview)
     - [Best practices](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-best-practices)
-    - [FAQ](https://learn.microsoft.com/en-us/azure/azure-app-configuration/faq.yml)
-  - Quickstarts
+    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/faq.yml)
+  - Get started
     - [Create an App Configuration store](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-app-configuration-create)
-    - Configuration
-      - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-aspnet-core-app)
-      - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-dotnet-core-app)
-      - [.NET Framework](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-dotnet-app)
-      - [Java Spring](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-java-spring-app)
-      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-python-provider)
-      - [Node.js](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-javascript-provider)
-      - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-functions-csharp)
-    - Feature management
-      - [Manage feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/manage-feature-flags)
-      - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core)
-      - [.NET/.NET Framework](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-dotnet)
-      - [.NET Background Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-dotnet-background-service)
-      - [Java Spring](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-spring-boot)
-      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-python)
-      - [Node.js](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-javascript)
-      - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-azure-functions-csharp)
-      - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-azure-kubernetes-service)
+    - [Import or export configuration data](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-import-export-data)
+    - [Create and manage feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/manage-feature-flags)
+    - ASP.NET Core
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-aspnet-core-app)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-core)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core)
+    - .NET
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-dotnet-core-app)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-core)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-dotnet)
+    - .NET Background Service
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-background-service)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-dotnet-background-service)
+    - ASP.NET .NET Framework
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-netfx)
+    - .NET Framework
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-dotnet-app)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-dotnet)
+    - Java Spring
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-java-spring-app)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-java-spring-app)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-spring-boot)
+    - Python
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-python-provider)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-python)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-python)
+    - Node.js
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-javascript-provider)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-javascript)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-javascript)
+    - Azure Functions
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-functions-csharp)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-functions-csharp)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-azure-functions-csharp)
+    - Azure Kubernetes Service
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-kubernetes-service)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-kubernetes-service)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-azure-kubernetes-service)
     - Service integration
-      - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-kubernetes-service)
       - [App Service & Azure Functions](https://learn.microsoft.com/azure/app-service/app-service-configuration-references)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-container-apps)
     - Deployment
@@ -34,56 +54,82 @@
       - [Bicep](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-bicep)
       - [ARM template](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-resource-manager)
     - [.NET App in Visual Studio](https://learn.microsoft.com/visualstudio/azure/vs-azure-tools-connected-services-app-configuration)
-  - Tutorials
-    - Enable dynamic configuration using poll model
-      - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-core)
-      - [ASP.NET .NET Framework](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-netfx)
-      - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-core)
-      - [.NET Framework](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet)
-      - [.NET Background Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-background-service)
-      - [Spring Boot](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-java-spring-app)
-      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-python)
-      - [Node.js](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-javascript)
-      - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-functions-csharp)
-      - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-kubernetes-service)
-    - Enable dynamic configuration using push model
-      - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-core-push-refresh)
-      - [Java Spring](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-java-spring-push-refresh)
-    - Use Key Vault references
+  - Understand basics
+    - Keys and values
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-key-value)
+      - [Point-in-time key-values](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-point-time-snapshot)
+      - [Per-environment configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-labels-aspnet-core)
+      - [JSON content-type](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-leverage-json-content-type)
+    - Key Vault references
       - Use Key Vault references
         - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-key-vault-references-dotnet-core)
         - [Spring Boot](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-key-vault-references-spring-boot)
       - Reload secrets and certificates automatically
         - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reload-key-vault-secrets-dotnet)
-    - Build, deploy, and CI/CD
-      - [Import using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-import-task)
-      - [Export using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-export-task)
-      - [Create snapshots using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-snapshot-task)
-      - [Push using GitHub Actions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/push-kv-github-action)
-      - [Build project using exported configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/integrate-ci-cd-pipeline)
-      - [Deploy to Kubernetes using Helm](https://learn.microsoft.com/en-us/azure/azure-app-configuration/integrate-kubernetes-deployment-helm)
-    - Feature management
-      - Use feature flags
-        - [Spring Boot](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-spring-boot)
-      - Enable conditional features with feature filters
-        - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters)
-        - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-aspnet-core)
-        - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-javascript)
-        - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-python)
-      - Enable features on a schedule
-        - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter)
-        - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-aspnet-core)
-        - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-javascript)
-      - Roll out features to targeted audience
-        - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter)
-        - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-aspnet-core)
-      - Use variant feature flags
-        - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags)
-        - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-aspnet-core)
-        - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-python)
-    - Enable Azure monitoring
-      - [Monitor App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration)
-      - [Reference for monitoring data](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration-reference)
+    - Snapshots
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-snapshots)
+      - [Create and use snapshots](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-create-snapshots)
+    - Push notifications
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-app-configuration-event)
+      - [Use Event Grid for data change notifications](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-app-configuration-event)
+      - Dynamic configuration with push model
+        - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-core-push-refresh)
+        - [Java Spring](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-java-spring-push-refresh)
+    - Soft delete
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-soft-delete)
+      - [Recover or purge deleted stores](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-recover-deleted-stores-in-azure-app-configuration)
+  - Feature management
+    - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
+    - [Experimentation](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-experimentation)
+    - Enable conditional features with feature filters
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters)
+      - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-aspnet-core)
+      - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-javascript)
+      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-python)
+    - Enable features on a schedule
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter)
+      - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-aspnet-core)
+      - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-javascript)
+    - Roll out features to targeted audience
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter)
+      - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-aspnet-core)
+    - Use variant feature flags
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags)
+      - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-aspnet-core)
+      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-python)
+  - CI/CD integration
+    - [Use configuration files](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-config-file)
+    - [Import using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-import-task)
+    - [Export using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-export-task)
+    - [Create snapshots using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-snapshot-task)
+    - [Push using GitHub Actions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/push-kv-github-action)
+    - [Build project using exported configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/integrate-ci-cd-pipeline)
+    - [Deploy to Kubernetes using Helm](https://learn.microsoft.com/en-us/azure/azure-app-configuration/integrate-kubernetes-deployment-helm)
+  - Monitoring
+    - [Monitor App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration)
+    - [Reference for monitoring data](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration-reference)
+  - Resource management
+    - [Move a resource between Azure regions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-move-resource-between-regions)
+  - Security
+    - Authentication
+      - [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-enable-rbac)
+      - [Access keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-disable-access-key-authentication)
+      - [Managed identities](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-integrate-azure-managed-service-identity)
+    - Network security
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-private-endpoint)
+      - [Set up Private Endpoints](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-set-up-private-access)
+      - [Disable public network access](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-disable-public-access)
+    - Data encryption
+      - [Add Managed Identities](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview-managed-identity)
+      - [Encrypt data using customer-managed keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-customer-managed-keys)
+    - [Azure Policies](https://learn.microsoft.com/en-us/azure/azure-app-configuration/security-controls-policy)
+    - [Security baselines](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-app-configuration-security-baseline?toc=/azure/azure-app-configuration/TOC.json)
+  - Reliability
+    - Geo-replication
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-geo-replication)
+      - [Enable geo-replication](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-geo-replication)
+    - [Resiliency and disaster recovery](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-disaster-recovery)
+    - [Availability zone support](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration)
   - Samples
     - [Azure CLI](https://learn.microsoft.com/en-us/azure/azure-app-configuration/cli-samples)
     - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/azure-app-configuration/powershell-samples)
@@ -91,40 +137,6 @@
     - [Python SDK](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-python)
     - [Samples on GitHub](https://github.com/Azure/AppConfiguration/tree/main/examples)
     - [Terraform](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/app_configuration)
-  - Concepts
-    - [Keys and values](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-key-value)
-    - [Snapshots](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-snapshots)
-    - [Point-in-time key-values](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-point-time-snapshot)
-    - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
-    - [Experimentation](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-experimentation)
-    - [Configuration files](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-config-file)
-    - [Event handling](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-app-configuration-event)
-    - [Soft delete](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-soft-delete)
-    - [Geo-replication](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-geo-replication)
-    - Reliability
-      - [Availability zone support](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration)
-      - [Resiliency and disaster recovery](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-disaster-recovery)
-    - Security
-      - [Authenticate using Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-enable-rbac)
-      - [Authenticate using access keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-disable-access-key-authentication)
-      - [Secure your store using Private Endpoints](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-private-endpoint)
-      - [Disable public network access](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-disable-public-access)
-      - [Encrypt data using customer-managed keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-customer-managed-keys)
-      - [Add Managed Identities to your store](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview-managed-identity)
-      - [Enforce security controls by Azure Policies](https://learn.microsoft.com/en-us/azure/azure-app-configuration/security-controls-policy)
-      - [Understand the security baselines](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-app-configuration-security-baseline?toc=/azure/azure-app-configuration/TOC.json)
-  - How-to guides
-    - [Use labels for per-environment configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-labels-aspnet-core)
-    - [Manage and use snapshots](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-create-snapshots)
-    - [Import or export configuration data](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-import-export-data)
-    - [Use JSON content-type for key-values](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-leverage-json-content-type)
-    - [Use Event Grid for data change notifications](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-app-configuration-event)
-    - [Use managed identities to access App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-integrate-azure-managed-service-identity)
-    - [Update to the New Spring Boot Library](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-convert-to-the-new-spring-boot)
-    - [Move a resource between Azure regions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-move-resource-between-regions)
-    - [Recover or purge deleted App Configuration stores](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-recover-deleted-stores-in-azure-app-configuration)
-    - [Enable geo-replication](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-geo-replication)
-    - [Set up private access](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-set-up-private-access)
   - Reference
     - REST API
       - [Control plane](https://learn.microsoft.com/rest/api/appconfiguration/)
@@ -157,6 +169,7 @@
       - Java Spring
         - [Feature reference](https://go.microsoft.com/fwlink/?linkid=2180917)
         - [Azure SDK for Java](https://go.microsoft.com/fwlink/?linkid=2098196)
+        - [Migration guide to version 4.7](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-convert-to-the-new-spring-boot)
       - Python
         - [Feature reference](https://pypi.org/project/azure-appconfiguration-provider/)
         - [Azure SDK for Python](https://go.microsoft.com/fwlink/?linkid=2103727)
@@ -173,6 +186,7 @@
         - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-management-dotnet-reference)
         - [API reference](https://learn.microsoft.com/dotnet/api/overview/azure/appconfiguration/featuremanagement)
       - Java Spring
+        - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-spring-boot)
         - [API reference](https://azure.github.io/azure-sdk-for-java/springboot.html)
       - Python
         - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-management-python-reference)

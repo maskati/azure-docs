@@ -261,6 +261,17 @@
     - [Best practices](https://learn.microsoft.com/en-us/azure/app-service/app-service-best-practices)
     - [Samples](https://azure.microsoft.com/resources/samples/?service=app-service)
     - [Videos](https://azure.microsoft.com/resources/videos/index/?services=app-service)
+    - Migrate to App Service
+      - [Assess .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-assess-net)
+      - [Discover .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-discover-net)
+      - [Migrate .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-asp-net-migration)
+      - [Migrate containerized .NET](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service?bc=/azure/bread/toc.json&toc=/azure/app-service/toc.json)
+      - [Migrate Java](https://learn.microsoft.com/en-us/azure/app-service/app-service-java-migration)
+      - [Migrate Tomcat](https://learn.microsoft.com/azure/developer/java/migration/migrate-tomcat-to-tomcat-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+      - [Migrate JBoss EAP](https://learn.microsoft.com/azure/developer/java/migration/migrate-jboss-eap-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+      - [Migrate WebLogic](https://learn.microsoft.com/azure/developer/java/migration/migrate-weblogic-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+      - [Migrate WebSphere](https://learn.microsoft.com/azure/developer/java/migration/migrate-websphere-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+      - [Migrate Python Windows apps to Linux](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-windows-linux)
     - Cookbooks
       - [Reference Architectures](https://learn.microsoft.com/azure/architecture/reference-architectures/app-service-web-app/basic-web-app)
       - [Deployment Scripts](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-gallery)
