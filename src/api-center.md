@@ -35,9 +35,9 @@
     - [Workflow automation to set API status](https://learn.microsoft.com/en-us/azure/api-center/set-up-notification-workflow)
   - API discovery and consumption
     - [Enable API Center portal](https://learn.microsoft.com/en-us/azure/api-center/set-up-api-center-portal)
+    - [Enable API Center portal - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/enable-api-center-portal-vs-code-extension)
     - [Self-host Azure API Center portal](https://learn.microsoft.com/en-us/azure/api-center/self-host-api-center-portal)
     - [Discover and consume APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/discover-apis-vscode-extension)
-    - [Enable platform API catalog - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/enable-platform-api-catalog-vscode-extension)
     - [Check API calls use minimal permissions with Dev Proxy](https://learn.microsoft.com/en-us/azure/api-center/check-minimal-api-permissions-dev-proxy)
   - API center management and operations
     - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)

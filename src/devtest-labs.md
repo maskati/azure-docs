@@ -73,6 +73,7 @@
       - [Resize a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-resize-vm)
       - [Redeploy a VM](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-redeploy-vm)
       - [Create a VM with Generation 2 base image](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-gen2-vm)
+      - [Trusted Launch for Generation 2 VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-trusted-launch)
       - [Create and manage claimable VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-add-claimable-vm)
       - [Configure secrets](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-store-secrets-in-key-vault)
       - [Attach and detach data disks](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-attach-detach-data-disk)
@@ -136,4 +137,4 @@
   - Resources
     - [Azure updates](https://azure.microsoft.com/updates/?product=devtest-lab)
     - [Pricing](https://azure.microsoft.com/pricing/details/devtest-lab/)
-    - [DevTest Labs Developer Community](https://aka.ms/dtl/communityforum)
+    - [DevTest Labs Developer Community](https://aka.ms/dtl/developer-community-forum)

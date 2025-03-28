@@ -21,7 +21,7 @@
     - [Certifications](https://learn.microsoft.com/en-us/azure/firewall/compliance-certifications)
     - [FTP support](https://learn.microsoft.com/en-us/azure/firewall/ftp-support)
     - [Performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-performance)
-    - [TCP idle timeout behavior](https://learn.microsoft.com/en-us/azure/firewall/long-running-sessions)
+    - [TCP idle timeout behavior](https://learn.microsoft.com/en-us/azure/firewall/tcp-session-behavior)
     - [Explicit Proxy](https://learn.microsoft.com/en-us/azure/firewall/explicit-proxy)
     - [Multi hub and spoke](https://learn.microsoft.com/en-us/azure/firewall/firewall-multi-hub-spoke)
     - [Central management](https://learn.microsoft.com/en-us/azure/firewall/central-management)

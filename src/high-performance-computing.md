@@ -29,3 +29,7 @@
       - Deployment step 5 - End user entry point
         - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-5-overview)
         - [End-user entry point](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-5-end-user-entry-point)
+  - HPC Performance and Benchmarking
+    - [Performance and Benchmarking Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/overview)
+    - [HPC Performance and Benchmarking Applications](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/high-performance-computing-performance-benchmarking-applications)
+    - [Performance Optimization for HPC and AI VMs](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/optimize-performance)
