@@ -13,7 +13,7 @@
       - [Manage your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-solution-management)
       - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
       - [Scalability, high availability](https://learn.microsoft.com/en-us/azure/iot/iot-overview-scalability-high-availability)
-    - [Azure IoT services and technologies](https://learn.microsoft.com/en-us/azure/iot/iot-services-and-technologies)
+    - [Choose an Azure IoT service](https://learn.microsoft.com/en-us/azure/iot/iot-services-and-technologies)
   - How-to guides
     - [Use smartphone device app](https://learn.microsoft.com/en-us/azure/iot/iot-phone-app-how-to)
     - [Use IoT Explorer](https://learn.microsoft.com/en-us/azure/iot/howto-use-iot-explorer)
@@ -53,6 +53,7 @@
     - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help)
     - [IoT glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary)
     - Azure IoT services
+      - [Azure IoT Operations](https://learn.microsoft.com/en-us/azure/iot-operations/)
       - [IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/)
       - [IoT Hub Device Provisioning Service](https://learn.microsoft.com/en-us/azure/iot-dps/)
       - [IoT Central](https://learn.microsoft.com/en-us/azure/iot-central/)
@@ -61,5 +62,6 @@
       - [Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/)
     - Azure IoT SDKs
       - [Device and Service SDKs](https://learn.microsoft.com/en-us/azure/iot/iot-sdks)
+      - [Azure IoT Operations SDKs](https://github.com/Azure/iot-operations-sdks)
     - [Azure IoT Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
     - [Azure IoT Explorer tool](https://github.com/Azure/azure-iot-explorer)
