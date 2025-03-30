@@ -1,5 +1,5 @@
 # Azure IoT Edge documentation
-> Azure IoT Edge extends IoT Hub. Analyze device data locally instead of in the cloud to send less data to the cloud, react to events quickly, and operate offline.
+> Azure IoT Edge extends IoT Hub. Analyze device data locally to reduce data sent to the cloud, respond to events quickly, and work offline.
   - [Azure IoT Edge documentation](https://learn.microsoft.com/en-us/azure/iot-edge/)
   - Overview
     - [About Azure IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge)
