@@ -388,6 +388,8 @@
       - [Offline Backup for DPM and MABS previous versions](https://learn.microsoft.com/en-us/azure/backup/offline-backup-server-previous-versions)
     - Monitoring
       - [Review backup estate](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-built-in-monitor)
+      - [Monitor Azure Backup](https://learn.microsoft.com/en-us/azure/backup/monitor-backup)
+      - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/backup/monitor-backup-reference)
       - Alerts
         - [Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-alerts)
         - [Metrics preview](https://learn.microsoft.com/en-us/azure/backup/metrics-overview)

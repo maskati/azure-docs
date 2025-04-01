@@ -23,7 +23,7 @@
       - [Unregister an agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy)
     - Troubleshoot
       - [Job run error codes](https://learn.microsoft.com/en-us/azure/storage-mover/status-code)
+      - [Collect a support bundle](https://learn.microsoft.com/en-us/azure/storage-mover/troubleshooting)
   - Resources
     - [Monitor copy and job run logs](https://learn.microsoft.com/en-us/azure/storage-mover/log-monitoring)
-    - [Collect a support bundle](https://learn.microsoft.com/en-us/azure/storage-mover/troubleshooting)
     - [Release notes](https://learn.microsoft.com/en-us/azure/storage-mover/release-notes)

@@ -36,7 +36,7 @@
     - [Create customization tasks](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-customization-tasks-catalog)
   - Create & connect to dev boxes
     - [Manage a dev box through developer portal](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
-    - [Connect with Windows App](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
+    - [Connect to your dev box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
     - [Use multiple monitors](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
   - Security
     - [Provide access to project admins](https://learn.microsoft.com/en-us/azure/dev-box/how-to-project-admin)

@@ -283,8 +283,8 @@
       - Connect to services
         - [Azure Cosmos DB - portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb)
         - Azure Cache for Redis
-          - [Get started with VS Code](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-tutorial-functions-getting-started?toc=%2fazure%2fazure-functions%2ftoc.json)
-          - [Create a write-behind cache](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-tutorial-write-behind?toc=%2fazure%2fazure-functions%2ftoc.json)
+          - [Get started with VS Code](https://learn.microsoft.com/en-us/azure/redis/tutorial-functions-getting-started?toc=%2fazure%2fazure-functions%2ftoc.json)
+          - [Create a write-behind cache](https://learn.microsoft.com/en-us/azure/redis/tutorial-write-behind?toc=%2fazure%2fazure-functions%2ftoc.json)
         - Storage
           - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-storage-queue-output-binding)
           - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code)

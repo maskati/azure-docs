@@ -109,6 +109,7 @@
   - Domain names and certificates
     - [Domain and cert quickstart](https://learn.microsoft.com/en-us/azure/app-service/tutorial-secure-domain-certificate)
     - Domain names
+      - [Overview of custom domains](https://learn.microsoft.com/en-us/azure/app-service/overview-custom-domains)
       - [Connect a domain name](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain)
       - [Buy and configure App Service domain](https://learn.microsoft.com/en-us/azure/app-service/manage-custom-dns-buy-domain)
       - [Use Traffic Manager with a domain](https://learn.microsoft.com/en-us/azure/app-service/configure-domain-traffic-manager)

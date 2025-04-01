@@ -125,7 +125,7 @@
     - [API Management policies overview](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-policies)
     - [Set or edit policies](https://learn.microsoft.com/en-us/azure/api-management/set-edit-policies)
     - [Author policies using Microsoft Copilot in Azure](https://learn.microsoft.com/azure/copilot/author-api-management-policies?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
-    - [Debug policies in VS Code](https://learn.microsoft.com/en-us/azure/api-management/api-management-debug-policies)
+    - [Create and debug policies in VS Code](https://learn.microsoft.com/en-us/azure/api-management/api-management-debug-policies)
     - [Policy expressions](https://learn.microsoft.com/en-us/azure/api-management/api-management-policy-expressions)
     - [Reuse policy configurations](https://learn.microsoft.com/en-us/azure/api-management/policy-fragments)
     - [Error handling](https://learn.microsoft.com/en-us/azure/api-management/api-management-error-handling-policies)

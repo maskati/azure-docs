@@ -110,6 +110,8 @@
         - [Private peering](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering)
         - [Using VPN as a backup](https://learn.microsoft.com/en-us/azure/expressroute/use-s2s-vpn-as-backup-for-expressroute-privatepeering)
     - [Evaluate ExpressRoute circuit resiliency](https://learn.microsoft.com/en-us/azure/expressroute/evaluate-circuit-resiliency)
+    - [Resiliency Insights](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-insights)
+    - [Resiliency Validation](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-validation)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/expressroute-security-baseline?toc=/azure/expressroute/TOC.json)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/expressroute/roles-permissions)

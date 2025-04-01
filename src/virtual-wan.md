@@ -55,7 +55,11 @@
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/virtual-wan/roles-permissions)
     - [Virtual hub settings](https://learn.microsoft.com/en-us/azure/virtual-wan/hub-settings)
     - [Connect a VNet to a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-connect-vnet-hub)
-    - [Secured hub - install Azure Firewall in a hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall)
+    - Secured virtual hub
+      - [What is a secured virtual hub?](https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
+      - [Convert a virtual hub to a secured virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall)
+      - [Secure your virtual hub using Azure Firewall Manager](https://learn.microsoft.com/en-us/azure/firewall-manager/secure-cloud-network?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
+      - [Customer-provided public IP address for secured virtual hub](https://learn.microsoft.com/en-us/azure/firewall/secured-hub-customer-public-ip?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - Integrated NVA in a virtual hub
       - [Create an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub)
       - [Restart an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart)

@@ -49,6 +49,7 @@
     - [Request host quota for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/request-host-quota-azure-vmware-solution)
     - [Plan the deployment](https://learn.microsoft.com/en-us/azure/azure-vmware/plan-private-cloud-deployment)
     - [Deploy Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-azure-vmware-solution)
+    - [Azure VMware Solution SDDC maintenance best practices](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-host-remediation)
     - [Deploy vSAN stretched clusters](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vsan-stretched-clusters)
     - [Create a placement policy](https://learn.microsoft.com/en-us/azure/azure-vmware/create-placement-policy)
     - [Protect, monitor, and manage VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/integrate-azure-native-services)

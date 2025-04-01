@@ -85,6 +85,7 @@
         - [Image pull](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-image-pull-failures)
         - [Storage mount](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-storage-mount-failures)
         - [Target port](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-target-port-settings)
+        - [Container start](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-start-failures)
     - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
