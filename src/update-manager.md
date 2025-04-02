@@ -5,6 +5,9 @@
     - [How Update Manager works](https://learn.microsoft.com/en-us/azure/update-manager/workflow-update-manager)
     - [What's New](https://learn.microsoft.com/en-us/azure/update-manager/whats-new)
     - [FAQ](https://learn.microsoft.com/en-us/azure/update-manager/update-manager-faq)
+    - Release Notes
+      - 2025
+        - [March 2025](https://learn.microsoft.com/en-us/azure/update-manager/overview-arc-enabled-vm-extensions)
   - Getting started
     - [Prerequisites](https://learn.microsoft.com/en-us/azure/update-manager/prerequisites)
     - [Roles and Permissions](https://learn.microsoft.com/en-us/azure/update-manager/roles-permissions)

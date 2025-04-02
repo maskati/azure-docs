@@ -620,6 +620,7 @@
     - Important changes coming
       - [Connector upgrades](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-plan)
       - [Connector upgrade FAQ](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-frequently-asked-questions)
+      - [Connector upgrade advisor](https://learn.microsoft.com/en-us/azure/data-factory/connector-upgrade-advisor)
     - [Whitepapers](https://learn.microsoft.com/en-us/azure/data-factory/whitepapers)
     - [FAQ](https://learn.microsoft.com/en-us/azure/data-factory/frequently-asked-questions.yml)
     - [Service updates](https://azure.microsoft.com/updates/?product=data-factory)

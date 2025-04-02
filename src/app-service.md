@@ -229,7 +229,6 @@
   - Reliability
     - [Reliability in Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
     - [Migrate to availability zones](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-service?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
-    - [Move an App Service app to another region](https://learn.microsoft.com/en-us/azure/app-service/manage-disaster-recovery)
   - Samples
     - [Azure CLI](https://learn.microsoft.com/en-us/azure/app-service/samples-cli)
     - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/app-service/samples-powershell)
