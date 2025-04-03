@@ -127,10 +127,7 @@
       - [Configure inbound NAT rules for Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/load-balancer/configure-inbound-NAT-rules-vm-scale-set)
       - [Add multiple Virtual Machine Scale Set instances behind one Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-virtual-machine-scale-set)
       - [Use Virtual Machine Scale Set instance with an existing Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/configure-vm-scale-set-portal)
-    - Using multiple IP configurations
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip)
-      - [Azure CLI](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-cli)
-      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-powershell)
+    - [Using multiple IP configurations](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip)
     - [Move a load balancer across regions](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-azure-load-balancer)
   - Security and compliance
     - [Deploy public load balancer with DDoS protection](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer)

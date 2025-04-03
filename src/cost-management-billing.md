@@ -57,7 +57,6 @@
         - [Protect tenants and subscriptions from abuse](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/protect-tenants-subscriptions)
         - [Reactivate subscription](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/subscription-disabled)
         - [Reactivate Azure Student subscription](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/azurestudents-subscription-disabled)
-        - [Set up and configure AWS integration](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/aws-integration-set-up-configure)
         - [Create an MCA subscription](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription)
         - [Create an MCA subscription request](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription-request)
         - [Create an EA subscription](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/create-enterprise-subscription)

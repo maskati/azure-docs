@@ -4,11 +4,11 @@
   - Overview
     - [Introduction](https://learn.microsoft.com/en-us/azure/iot/iot-introduction)
     - IoT solution components
-      - [Device development](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development)
-      - [Device connectivity](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-connectivity)
-      - [Device management and control](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-management)
+      - [Asset and device development](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development)
+      - [Asset and device connectivity](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-connectivity)
+      - [Asset and device management and control](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-management)
       - [Process and route messages](https://learn.microsoft.com/en-us/azure/iot/iot-overview-message-processing)
-      - [Extend your IoT solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-solution-extensibility)
+      - [Extend your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-solution-extensibility)
       - [Analyze and visualize your IoT data](https://learn.microsoft.com/en-us/azure/iot/iot-overview-analyze-visualize)
       - [Manage your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-solution-management)
       - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)

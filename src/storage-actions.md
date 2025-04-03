@@ -10,6 +10,7 @@
     - [Storage task operations](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-operations)
     - [Storage task authorization](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-authorization-roles)
     - [Reliability in Azure Storage Actions](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions?toc=/azure/storage-actions/toc.json)
+    - [Costs and billing](https://learn.microsoft.com/en-us/azure/storage-actions/storage-actions-plan-manage-costs)
   - How-to
     - [Create a storage task](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-create)
     - [Define conditions & operations](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-conditions-operations-edit)

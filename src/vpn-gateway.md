@@ -25,15 +25,16 @@
       - [Leveraging Azure VPN connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/work-remotely-support)
       - [NVA configurations and remote work](https://learn.microsoft.com/en-us/azure/vpn-gateway/nva-work-remotely-support)
   - Gateways and configuration settings
-    - [VPN Gateway configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
     - Gateway SKUs
       - [About gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus)
-      - [Gateway SKU consolidation & migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation)
+      - SKU consolidation & migration
+        - [About SKU consolidation & migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation)
       - [Resize a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-resize)
       - [Change a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change)
       - [Manage legacy gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
     - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
     - [About zone-redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
+    - [VPN Gateway configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
   - Create and manage VPN gateways
     - Create a VPN gateway
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)

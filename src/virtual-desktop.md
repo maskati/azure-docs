@@ -162,6 +162,7 @@
       - [Screen capture protection](https://learn.microsoft.com/en-us/azure/virtual-desktop/screen-capture-protection)
       - [Watermarking](https://learn.microsoft.com/en-us/azure/virtual-desktop/watermarking)
       - [Onboard to Purview forensic evidence](https://learn.microsoft.com/en-us/azure/virtual-desktop/purview-forensic-evidence)
+      - [Require local client device security compliance](https://learn.microsoft.com/windows-app/require-device-security-compliance-intune?context=/azure/virtual-desktop/context/context)
     - Licensing and pricing
       - [Enroll in per-user access pricing](https://learn.microsoft.com/en-us/azure/virtual-desktop/enroll-per-user-access-pricing)
       - [Use Azure Virtual Desktop license](https://learn.microsoft.com/en-us/azure/virtual-desktop/apply-windows-license)
@@ -196,7 +197,7 @@
         - [Smart cards](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-smart-cards)
         - [USB](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-usb)
         - [WebAuthn](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-configure-webauthn)
-      - [Configure client redirection using Intune](https://learn.microsoft.com/en-us/azure/virtual-desktop/client-device-redirection-intune)
+      - [Manage Windows App redirection settings with Microsoft Intune](https://learn.microsoft.com/windows-app/manage-device-redirection-intune?context=/azure/virtual-desktop/context/context)
     - [Supported RDP properties](https://learn.microsoft.com/en-us/azure/virtual-desktop/rdp-properties)
     - [Uniform Resource Identifier schemes](https://learn.microsoft.com/en-us/azure/virtual-desktop/uri-scheme)
     - [Print using Universal Print](https://learn.microsoft.com/universal-print/fundamentals/universal-print-avd?context=/azure/virtual-desktop/context/context)

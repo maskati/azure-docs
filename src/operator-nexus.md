@@ -109,11 +109,15 @@
       - [How to Configure NNF with Bring Your Own BYO Storage](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-bring-your-own-storage-network-fabric)
       - [How to upgrade OS of terminal server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-os-of-terminal-server)
       - [How to restrict serial port access and set timeout on terminal-server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-restrict-serial-port-access-and-set-timeout-on-terminal-server)
+      - [How to configure BGP prefix limit on Customer Edge CE devices for Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-bgp-prefix-limit-on-customer-edge-devices)
+      - [BMP log streaming in Azure Operator Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-bmp-log-streaming)
+      - [How to enable / disable BMP log streaming Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-log-streaming)
     - Cluster
+      - [Best Practices for Bare Metal Machine Operations](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-bare-metal-best-practices)
       - BareMetal Actions
         - [BareMetal BMM Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmm-ssh)
         - [BareMetal BMC Access Setup](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-bmc-ssh)
-        - [BareMetal Functions](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-functions)
+        - [Bare Metal Machine Platform Commands](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-functions)
         - [BareMetal Run-Read Execution](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-run-read)
         - [BareMetal Run-Data-Extract Execution](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-run-data-extract)
         - [Running BareMetal actions directly with nexusctl](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-baremetal-nexusctl)
@@ -162,7 +166,7 @@
       - [Troubleshoot DNS Issues](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-dns-issues)
       - [Troubleshoot TWAMP UDP not working](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-twamp-udp-not-working)
     - Cluster or BMM
-      - [Troubleshoot Bare Metal Machine](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-reboot-reimage-replace)
+      - [Troubleshoot Bare Metal Server Problems](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-reboot-reimage-replace)
       - [Troubleshoot Bare Metal Machine Provisioning](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-bare-metal-machine-provisioning)
       - [Troubleshoot Hardware Validation Failure](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-hardware-validation-failure)
       - [Troubleshoot Degraded status](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-bare-metal-machine-degraded)
