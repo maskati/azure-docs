@@ -27,11 +27,13 @@
   - Gateways and configuration settings
     - Gateway SKUs
       - [About gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus)
-      - SKU consolidation & migration
+      - Gateway SKU consolidation & migration
         - [About SKU consolidation & migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation)
       - [Resize a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-resize)
       - [Change a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change)
       - [Manage legacy gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
+    - Public IP addresses
+      - [About public IP address Basic SKU migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-about)
     - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
     - [About zone-redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
     - [VPN Gateway configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
@@ -48,7 +50,7 @@
       - [Change a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change)
       - [Manage legacy gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
     - [Migrate classic gateways to Resource Manager](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration)
-    - Active-active gateways
+    - Active-active mode gateways
       - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
       - [Change a gateway to active-active or active-standby](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-change-active-active)
     - Zone-redundant gateways

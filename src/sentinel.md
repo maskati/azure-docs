@@ -399,6 +399,7 @@
     - [Add entity to threat indicators](https://learn.microsoft.com/en-us/azure/sentinel/add-entity-to-threat-intelligence)
     - [Use threat indicators in analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/use-threat-indicators-in-analytics-rules)
     - [Use matching analytics to detect threats](https://learn.microsoft.com/en-us/azure/sentinel/use-matching-analytics-to-detect-threats)
+    - [Work with STIX objects and indicators](https://learn.microsoft.com/en-us/azure/sentinel/work-with-stix-objects-indicators)
   - Detect threats and analyze data
     - Monitor and visualize data
       - [View collected data on the Overview dashboard](https://learn.microsoft.com/en-us/azure/sentinel/get-visibility)
@@ -546,7 +547,8 @@
       - [Auxiliary logs use cases](https://learn.microsoft.com/en-us/azure/sentinel/basic-logs-use-cases)
     - [Connect Microsoft Sentinel to Microsoft Defender XDR](https://learn.microsoft.com/defender-xdr/microsoft-sentinel-onboard?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - Manage multiple workspaces
-      - [Workspace manager](https://learn.microsoft.com/en-us/azure/sentinel/workspace-manager)
+      - [Workspaces in the Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/workspaces-defender-portal)
+      - [Workspace manager in the Azure portal](https://learn.microsoft.com/en-us/azure/sentinel/workspace-manager)
       - [Extend across multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/extend-sentinel-across-workspaces-tenants)
     - Microsoft Sentinel for MSSPs
       - [Manage multiple tenants MSSP](https://learn.microsoft.com/en-us/azure/sentinel/multiple-tenants-service-providers)

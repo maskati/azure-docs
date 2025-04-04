@@ -11,6 +11,7 @@
     - [Back up a VM - CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-cli)
     - [Back up a VM - ARM template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-template)
     - [Back up a VM - Bicep template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-bicep-template)
+    - [Back up a VM - Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-terraform)
     - Back up Azure PostgreSQL Database
       - [Back up the database - Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-database-portal)
       - Restore the PostgreSQL database across regions

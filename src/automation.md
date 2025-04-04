@@ -132,7 +132,10 @@
       - [About Change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview-monitoring-agent)
       - [Change tracking extension version](https://learn.microsoft.com/en-us/azure/automation/change-tracking/extension-version-details)
       - [Supported regions](https://learn.microsoft.com/en-us/azure/automation/change-tracking/region-mappings-monitoring-agent)
-      - [Enable change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-vms-monitoring-agent)
+      - Enable change tracking and inventory
+        - [At scale using Azure portal - Machines blade New](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-change-tracking-at-scale-machines-blade)
+        - [At scale using Azure Policy](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-change-tracking-at-scale-policy)
+        - [At scale using Azure portal - Virtual machines](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-vms-monitoring-agent)
       - [Manage change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-change-tracking-monitoring-agent)
     - Migration from Change Tracking and Inventory using LA to Change Tracking using AMA
       - [Migration from Log Analytics to Azure Monitoring Agent version](https://learn.microsoft.com/en-us/azure/automation/change-tracking/guidance-migration-log-analytics-monitoring-agent)
