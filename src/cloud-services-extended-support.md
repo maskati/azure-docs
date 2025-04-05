@@ -46,6 +46,14 @@
     - [Generate ARM template using the portal](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/generate-template-portal)
     - [Swap cloud service deployments](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/swap-cloud-service)
     - [Override SKU details](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/override-sku)
+    - Manage service
+      - Guest OS
+        - [Guest OS patches](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/cloud-services-guestos-microsoft-security-response-center-releases)
+        - Guest OS retirement
+          - [Retirement policy](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/cloud-services-guestos-retirement-policy)
+          - [Family 1 retirement notice](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/cloud-services-guestos-family-1-retirement)
+          - [Family 2, 3, 4 retirement notice](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/cloud-services-guestos-family-2-3-4-retirement)
+        - [Guest OS release news](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/cloud-services-guestos-update-matrix)
   - Samples
     - [Sample templates](https://github.com/Azure-Samples/cloud-services-extended-support)
     - [Create a new cloud service](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/sample-create-cloud-service)

@@ -184,6 +184,7 @@
         - [Dynamically change the service level of a volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/dynamic-change-volume-service-level)
         - [Manage default and individual user and group quotas for a volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-default-individual-user-group-quotas)
         - [Manage storage with cool access](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-cool-access)
+        - [Manage file access logs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-file-access-logs)
       - [Update Terraform-managed volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/terraform-manage-volume)
     - Manage application volume groups
       - Manage application volume groups for SAP HANA

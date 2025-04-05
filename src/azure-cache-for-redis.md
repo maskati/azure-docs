@@ -50,6 +50,7 @@
       - [Memory management best practice](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices-memory-management)
       - [Performance testing best practice](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices-performance)
       - [Kubernetes-hosted client applications best practices](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices-kubernetes)
+      - [Enterprise tiers best practices](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices-enterprise-tiers)
       - [Vector Search](https://learn.microsoft.com/azure/redis/overview-vector-similarity)
       - [Connection resilience best practices](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices-connection)
       - Use Azure Functions triggers and bindings

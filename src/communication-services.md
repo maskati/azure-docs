@@ -448,6 +448,7 @@
     - Logging and analytics
       - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
       - [Query call logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/log-analytics)
+      - [Set up call monitoring and alerting](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/set-up-call-monitoring)
       - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
     - Samples and tutorials
       - [Get a trial phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-trial-phone-number)

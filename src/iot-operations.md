@@ -19,7 +19,7 @@
       - [Certificate management](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/concept-default-root-ca)
       - [Manage secrets](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-secrets)
       - [Validate images](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-validate-images)
-      - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security?toc=/azure/iot-operations/toc.json&bc=/azure/iot-operations/breadcrumb/toc.json&tabs=edge)
+      - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
     - Discover and manage assets
       - [Asset management overview](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-manage-assets)
       - [Understand assets and asset endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-assets-asset-endpoints)

@@ -8,6 +8,7 @@
     - [Compute overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-compute)
     - Storage
       - [Storage overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage)
+      - [Multiple storage appliances](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage-multiple-appliances)
       - [Storage for Nexus Kubernetes](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage-kubernetes)
     - Cluster deployment and upgrades
       - [Cluster deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-cluster-deployment-overview)
@@ -187,6 +188,8 @@
       - [Troubleshoot NAKS Cluster Node Packet Loss](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-packet-loss)
       - Troubleshoot Nexus Kubernetes Cluster stuck unable to reschedule workloads
         - [Due To Bare Metal Machine Power Failure](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-stuck-workloads-due-to-power-failure)
+    - Storage Appliance
+      - [Troubleshoot Multiple Storage appliances](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-multiple-storage-appliances)
   - [FAQ](https://learn.microsoft.com/en-us/azure/operator-nexus/azure-operator-nexus-faq)
   - Reference
     - Nexus Kubernetes service

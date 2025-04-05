@@ -249,7 +249,6 @@
       - [Set the runtime version](https://learn.microsoft.com/en-us/azure/azure-functions/set-runtime-version)
       - [Disable a function](https://learn.microsoft.com/en-us/azure/azure-functions/disable-function)
       - [Networking](https://learn.microsoft.com/en-us/azure/azure-functions/configure-networking-how-to)
-      - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-functions?toc=/azure/azure-functions/toc.json)
       - [Work with legacy Functions Proxies](https://learn.microsoft.com/en-us/azure/azure-functions/legacy-proxies)
     - Monitor
       - [Monitor Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions)
@@ -322,16 +321,19 @@
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
   - Migration guides
     - Migrate from AWS Lambda
-      - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/migration/lambda-functions-migration-overview)
-      - [Discover](https://learn.microsoft.com/en-us/azure/azure-functions/migration/lambda-functions-migration-discover)
-      - [Assess](https://learn.microsoft.com/en-us/azure/azure-functions/migration/lambda-functions-migration-assess)
-      - [Migrate](https://learn.microsoft.com/en-us/azure/azure-functions/migration/lambda-functions-migration-migrate)
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-lambda-workloads-overview)
+      - [Discover](https://learn.microsoft.com/en-us/azure/azure-functions/migration/discover-lambda-workloads)
+      - [Assess](https://learn.microsoft.com/en-us/azure/azure-functions/migration/assess-lambda-workloads)
+      - [Migrate](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-lambda-workloads)
     - Upgrade runtime versions
       - [Migrate v3.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-3-version-4)
       - [Migrate v1.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-1-version-4)
     - Language version updates
       - [Update language versions](https://learn.microsoft.com/en-us/azure/azure-functions/update-language-versions)
       - [Migrate Node.js to model v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-upgrade-v4)
+    - Move resources
+      - [Move between subscriptions](https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription?toc=%2Fazure%2Fazure-functions%2Ftoc.json)
+      - [Move to other regions](https://learn.microsoft.com/azure/operational-excellence/relocation-functions?toc=%2Fazure%2Fazure-functions%2Ftoc.json)
   - Reference
     - API references
       - [ARM template](https://learn.microsoft.com/azure/templates/microsoft.web/2022-03-01/sites/functions)
