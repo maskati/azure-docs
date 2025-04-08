@@ -30,10 +30,14 @@
     - [Revisions](https://learn.microsoft.com/en-us/azure/container-apps/revisions)
     - [Application lifecycle management](https://learn.microsoft.com/en-us/azure/container-apps/application-lifecycle-management)
     - [Jobs](https://learn.microsoft.com/en-us/azure/container-apps/jobs)
-    - [Dynamic sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
+    - Dynamic sessions
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
+      - [Usage](https://learn.microsoft.com/en-us/azure/container-apps/sessions-usage)
+      - [Session pools](https://learn.microsoft.com/en-us/azure/container-apps/session-pool)
     - [Microservices](https://learn.microsoft.com/en-us/azure/container-apps/microservices)
     - [Planned maintenance](https://learn.microsoft.com/en-us/azure/container-apps/planned-maintenance)
     - [Build and deliver apps with Container Apps video](https://youtu.be/OxmVds31qL8)
+    - [Communicate between multiple apps](https://learn.microsoft.com/en-us/azure/container-apps/connect-apps)
     - [Reduce cold-start times](https://learn.microsoft.com/en-us/azure/container-apps/cold-start)
   - Develop & deploy
     - [Deployment options](https://learn.microsoft.com/en-us/azure/container-apps/code-to-cloud-options)
@@ -44,7 +48,7 @@
     - Connect to apps & services
       - Connect to services
         - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/services)
-      - [Connect multiple apps](https://learn.microsoft.com/en-us/azure/container-apps/connect-apps)
+      - [Communicate between multiple apps](https://learn.microsoft.com/en-us/azure/container-apps/connect-apps)
       - Connect to a cloud service using Service Connector
         - [.NET app with Blob Storage](https://learn.microsoft.com/en-us/azure/container-apps/service-connector)
         - [Java Quarkus app with Postgres DB](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-java-quarkus-connect-managed-identity-postgresql-database)
@@ -62,6 +66,9 @@
     - Storage mounts
       - [Use storage mounts](https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts)
       - [Create an Azure Files storage mount](https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts-azure-files)
+    - Use Azure Functions
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/functions-overview)
+      - [Create a Functions app](https://learn.microsoft.com/en-us/azure/container-apps/functions-usage)
     - Use dynamic sessions
       - Code interpreter sessions
         - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
