@@ -424,6 +424,7 @@
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/pstn-pricing)
     - [Phone number types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-types)
     - [Define your caller identity](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/how-to-manage-your-calling-identity)
+    - [Prevent phone numbers from being flagged as spam](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/prevent-spam-flag)
     - [Country availability](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/sub-eligibility-number-capability)
     - [Trial phone numbers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/trial-phone-numbers-faq)
     - [Try phone calling](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/try-phone-calling)

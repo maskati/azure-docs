@@ -102,7 +102,7 @@
         - [Import SAP OData metadata](https://learn.microsoft.com/en-us/azure/api-management/sap-api)
       - [Import gRPC API](https://learn.microsoft.com/en-us/azure/api-management/grpc-api)
       - Azure OpenAI and LLM APIs
-        - [GenAI gateway capabilities in API Management](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
+        - [AI gateway capabilities in API Management](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
         - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
         - [Authenticate and authorize to Azure OpenAI](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
         - [Semantic caching for Azure OpenAI API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
