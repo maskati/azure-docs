@@ -7,6 +7,7 @@
     - [Create a URL-based load test](https://learn.microsoft.com/en-us/azure/load-testing/quickstart-create-and-run-load-test)
     - [Create a load test with a JMeter script](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-and-run-load-test-with-JMeter-script)
     - [Create a load test with a Locust script](https://learn.microsoft.com/en-us/azure/load-testing/quickstart-create-run-load-test-with-locust)
+    - [Create and run a load test from Visual Studio Code](https://learn.microsoft.com/en-us/azure/load-testing/quickstart-create-run-load-tests-from-visual-studio-code)
     - [Automate load tests with Azure Pipelines](https://learn.microsoft.com/en-us/azure/load-testing/quickstart-add-load-test-cicd)
   - Tutorials
     - [Identify performance bottlenecks](https://learn.microsoft.com/en-us/azure/load-testing/tutorial-identify-bottlenecks-azure-portal)

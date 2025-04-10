@@ -36,31 +36,16 @@
       - [Configure NSX network components](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-nsx-network-components-azure-portal)
       - [Configure port mirroring](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-port-mirroring-azure-vmware-solution)
       - [Configure a site-to-site VPN in vWAN](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-site-to-site-vpn-gateway)
-      - Tutorials
-        - [1 - Network planning checklist](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-network-checklist)
-        - [2 - Create a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-create-private-cloud)
-        - [3 - Configure networking](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-configure-networking)
-        - [4 - Access a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-access-private-cloud)
-        - [5 - Create an NSX Tier-1 Gateway](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-nsx-tier-1-gateway)
-        - [6 - Create an NSX network segment](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-nsx-t-network-segment)
-        - [7 - Peer on-premises to private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-expressroute-global-reach-private-cloud)
-        - [8 - Scale a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-scale-private-cloud)
-        - [9 - Delete a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-delete-private-cloud)
-  - Azure VMware Solution in an Azure Virtual Network Public Preview
-    - [What's Azure VMware Solution in an Azure Virtual Network Public Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-introduction)
-    - Tutorial
-      - [Create an Azure VMware Solution in an Azure Virtual Network Public Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-create-azure-vmware-virtual-network-private-cloud)
-    - Architecture
-      - [Azure VMware Solution in an Azure Virtual Network design consideration Public Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
-    - Security
-      - [Enable first-party application service principal for Azure VMware Solution in an Azure Virtual Network](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)
-    - Networking
-      - [Connectivity to an Azure Virtual Network](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-connectivity)
-      - [Connect to on-premises environment](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-on-premises)
-      - [Internet connectivity options](https://learn.microsoft.com/en-us/azure/azure-vmware/native-internet-connectivity-design-considerations)
-      - [Connect multiple Azure VMware Solution in an Azure Virtual Network private clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-multiple-private-clouds)
-      - [Connect Azure VMware Solution private cloud in a Virtual Network to the previous edition of Azure VMware Solution private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-private-cloud-previous-edition)
-      - [Public and Private DNS forward lookup zone configuration](https://learn.microsoft.com/en-us/azure/azure-vmware/native-dns-forward-lookup-zone)
+    - Tutorials
+      - [1 - Network planning checklist](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-network-checklist)
+      - [2 - Create a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-create-private-cloud)
+      - [3 - Configure networking](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-configure-networking)
+      - [4 - Access a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-access-private-cloud)
+      - [5 - Create an NSX Tier-1 Gateway](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-nsx-tier-1-gateway)
+      - [6 - Create an NSX network segment](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-nsx-t-network-segment)
+      - [7 - Peer on-premises to private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-expressroute-global-reach-private-cloud)
+      - [8 - Scale a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-scale-private-cloud)
+      - [9 - Delete a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-delete-private-cloud)
   - Cost optimization
     - [ESUs for SQL Server and Windows Server in Azure VMware Solution VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/extended-security-updates-windows-sql-server)
     - [License SQL Server, Windows Server and Linux in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/license-sql-windows-in-avs)

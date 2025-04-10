@@ -156,6 +156,11 @@
     - Route-maps
       - [About Route-maps](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-about)
       - [Configure Route-maps](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-how-to)
+      - [Configure Route-maps to summarize routes leaving your virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-how-to-summarize-routes-leaving-your-virtual-wan)
+      - [Configure Route-maps to drop inbound routes from branch sites](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-drop-inbound-branch-sites)
+      - [Configure Route-maps to prepend routes](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-prepend-routes)
+      - [Configure Route-maps to tag routes](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-tag-routes)
+      - [Configure Route-maps to summarize routes from an NVA](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-summarize-from-device-spoke-vnet-nva)
     - [View virtual hub effective routes](https://learn.microsoft.com/en-us/azure/virtual-wan/effective-routes-virtual-hub)
     - [Configure routing intent and policies](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
     - Route traffic from a virtual hub to an NVA legacy
