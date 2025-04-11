@@ -175,7 +175,7 @@
     - [Connect to Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/connect-azure-virtual-desktop)
     - Windows App
       - [Windows App overview](https://learn.microsoft.com/windows-app/overview)
-      - [Compare Windows App across platforms](https://learn.microsoft.com/windows-app/get-started-connect-devices-desktops-apps?pivots=azure-virtual-desktop)
+      - [Compare Windows App across platforms](https://learn.microsoft.com/windows-app/compare-platforms-features?pivots=azure-virtual-desktop)
       - [Windows App documentation](https://learn.microsoft.com/windows-app/)
     - Remote Desktop client
       - [Remote Desktop client overview](https://learn.microsoft.com/previous-versions/remote-desktop-client/overview)

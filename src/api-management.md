@@ -42,7 +42,7 @@
         - [Scenarios to migrate to stv2](https://learn.microsoft.com/en-us/azure/api-management/migrate-stv1-to-stv2)
         - [Migrate a non-VNet-injected instance](https://learn.microsoft.com/en-us/azure/api-management/migrate-stv1-to-stv2-no-vnet)
         - [Migrate a VNet-injected instance](https://learn.microsoft.com/en-us/azure/api-management/migrate-stv1-to-stv2-vnet)
-      - [Validate service updates](https://learn.microsoft.com/en-us/azure/api-management/validate-service-updates)
+      - [Configure update settings](https://learn.microsoft.com/en-us/azure/api-management/configure-service-update-settings)
       - [Move instances between regions](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-migrate)
       - [Recover a deleted instance](https://learn.microsoft.com/en-us/azure/api-management/soft-delete)
       - [Use role-based access control](https://learn.microsoft.com/en-us/azure/api-management/api-management-role-based-access-control)
