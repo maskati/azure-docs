@@ -149,6 +149,7 @@
   - Operations and monitoring
     - [Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/using-run-command)
     - [Configure VMware syslogs](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vmware-syslogs)
+    - [Send syslogs to log management solutions via Azure Logic Apps](https://learn.microsoft.com/en-us/azure/azure-vmware/logs-via-logic-app)
     - [Configure alerts and work with metrics](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-alerts-for-azure-vmware-solution)
     - [Configure Newest Metrics for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-vmware-solution-metrics)
     - Arc-enabled Azure VMware Solution private cloud

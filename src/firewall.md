@@ -105,7 +105,7 @@
       - [Azure Firewall Workbooks](https://learn.microsoft.com/en-us/azure/firewall/firewall-workbook)
     - [Threat intelligence](https://learn.microsoft.com/en-us/azure/firewall/threat-intel)
     - [Best practices for performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-best-practices)
-    - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
+    - [Relocate to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
     - [Remote work support](https://learn.microsoft.com/en-us/azure/firewall/remote-work-support)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/firewall)

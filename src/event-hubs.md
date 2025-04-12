@@ -178,8 +178,8 @@
       - [.NET exceptions](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-messaging-exceptions)
       - [Resource Manager exceptions](https://learn.microsoft.com/en-us/azure/event-hubs/resource-manager-exceptions)
     - Move
-      - [Move a namespace to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-hub?toc=/azure/event-hubs/TOC.json)
-      - [Move a dedicated cluster to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-hub-cluster?toc=/azure/event-hubs/TOC.json)
+      - [Move a namespace to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-event-hub?toc=/azure/event-hubs/TOC.json)
+      - [Move a dedicated cluster to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-event-hub-cluster?toc=/azure/event-hubs/TOC.json)
   - Reference
     - [Monitor data reference](https://learn.microsoft.com/en-us/azure/event-hubs/monitor-event-hubs-reference)
     - [SDKs](https://learn.microsoft.com/en-us/azure/event-hubs/sdks)

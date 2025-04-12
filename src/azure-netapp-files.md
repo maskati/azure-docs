@@ -230,7 +230,7 @@
         - [Manage availability zone volume placement](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-availability-zone-volume-placement)
         - [Create cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-cross-zone-replication)
     - Relocate
-      - [Relocate volume to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-netapp?toc=/azure/azure-netapp-files/toc.json)
+      - [Relocate volume to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-netapp?toc=/azure/azure-netapp-files/toc.json)
     - Develop
       - [REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-develop-with-rest-api)
       - [REST API using PowerShell](https://learn.microsoft.com/en-us/azure/azure-netapp-files/develop-rest-api-powershell)

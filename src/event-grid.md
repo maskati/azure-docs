@@ -303,9 +303,9 @@
       - [Subscribe to Azure Resource Notifications - Container Service events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-resource-notifications-containerservice-events)
       - [Track asynchronous REST operations](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/async-operations?toc=/azure/event-grid/toc.json)
       - Relocate
-        - [Relocate system topics across regions](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-grid-system-topics?toc=/azure/event-grid/toc.json)
-        - [Relocate custom topics across regions](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-grid-custom-topics?toc=/azure/event-grid/toc.json)
-        - [Relocate domains across regions](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-grid-domains?toc=/azure/event-grid/toc.json)
+        - [Relocate system topics across regions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-event-grid-system-topics?toc=/azure/event-grid/toc.json)
+        - [Relocate custom topics across regions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-event-grid-custom-topics?toc=/azure/event-grid/toc.json)
+        - [Relocate domains across regions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-event-grid-domains?toc=/azure/event-grid/toc.json)
       - Secure
         - [Publish events securely over a private link](https://learn.microsoft.com/en-us/azure/event-grid/configure-private-endpoints)
         - Use managed identity

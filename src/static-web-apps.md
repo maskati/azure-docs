@@ -85,7 +85,7 @@
       - [Configure SWA CLI](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-configuration)
       - [API Reference](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli.yml)
   - Relocation
-    - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-static-web-apps?toc=/azure/static-web-apps/toc.json)
+    - [Relocate to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-static-web-apps?toc=/azure/static-web-apps/toc.json)
   - Traffic management
     - [Split traffic](https://learn.microsoft.com/en-us/azure/static-web-apps/traffic-splitting)
     - [Enterprise-grade edge](https://learn.microsoft.com/en-us/azure/static-web-apps/enterprise-edge)

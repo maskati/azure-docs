@@ -50,7 +50,7 @@
     - [Manage network policies for private endpoints](https://learn.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy)
     - [Disable network policies for a Private Link service](https://learn.microsoft.com/en-us/azure/private-link/disable-private-link-service-network-policy)
     - [Manage private endpoints](https://learn.microsoft.com/en-us/azure/private-link/manage-private-endpoint)
-    - [Relocate Private Link Service to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-private-link?toc=/azure/private-link/toc.json)
+    - [Relocate Private Link Service to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-private-link?toc=/azure/private-link/toc.json)
     - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
     - Network security perimeter
       - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs)

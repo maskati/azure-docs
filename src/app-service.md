@@ -204,7 +204,7 @@
     - [Back up and restore app](https://learn.microsoft.com/en-us/azure/app-service/manage-backup)
     - [Clone app](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-app-cloning)
     - [Restore deleted app](https://learn.microsoft.com/en-us/azure/app-service/app-service-undelete)
-    - [Relocate app to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-app-service?toc=/azure/app-service/toc.json)
+    - [Relocate app to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-app-service?toc=/azure/app-service/toc.json)
     - [Move app between subscriptions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-resource-group-and-subscription?toc=/azure/app-service/toc.json)
     - [About cost management](https://learn.microsoft.com/en-us/azure/app-service/overview-manage-costs)
   - Custom containers

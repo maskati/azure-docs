@@ -66,7 +66,7 @@
       - [Manage role permissions and security](https://learn.microsoft.com/en-us/azure/automation/automation-role-based-access-control)
       - Relocate Automation
         - [Move Automation account to another subscription](https://learn.microsoft.com/en-us/azure/automation/how-to/move-account)
-        - [Move Automation account to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-automation?toc=/azure/private-link/toc.json)
+        - [Move Automation account to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-automation?toc=/azure/private-link/toc.json)
       - [Manage Automation account](https://learn.microsoft.com/en-us/azure/automation/delete-account)
       - [Migrate from Orchestrator to Azure Automation Beta](https://learn.microsoft.com/en-us/azure/automation/automation-orchestrator-migration)
       - [Context switching in Azure Automation](https://learn.microsoft.com/en-us/azure/automation/context-switching)

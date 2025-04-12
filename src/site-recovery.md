@@ -53,7 +53,7 @@
       - [Move Azure VMs to another region Resource Mover](https://learn.microsoft.com/en-us/azure/resource-mover/tutorial-move-region-virtual-machines)
       - [Move Azure VMs to Availability Zones](https://learn.microsoft.com/en-us/azure/site-recovery/move-Azure-VMs-AVset-Azone)
       - [Move Azure VMs between Government & Public regions](https://learn.microsoft.com/en-us/azure/site-recovery/region-move-cross-geos)
-      - [Move a vault to a different region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-site-recovery?toc=/azure/site-recovery/toc.json)
+      - [Move a vault to a different region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-site-recovery?toc=/azure/site-recovery/toc.json)
     - Migrate to Azure
       - [Prepare Azure for on-premises replication](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-prepare-azure)
       - [Migrate on-premises machines to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-on-premises-azure)

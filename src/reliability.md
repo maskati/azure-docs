@@ -101,6 +101,9 @@
         - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-db-nosql)
       - [Azure Cosmos DB for MongoDB vCore](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-mongodb)
+      - Azure Cosmos DB for PostgreSQL
+        - [Availability zones](https://learn.microsoft.com/azure/cosmos-db/postgresql/concepts-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Disaster recovery](https://learn.microsoft.com/azure/cosmos-db/postgresql/concepts-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Database for MySQL](https://learn.microsoft.com/azure/mysql/single-server/concepts-business-continuity?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - Azure Database for MySQL - Flexible Server
         - [Availability zones](https://learn.microsoft.com/azure/mysql/flexible-server/concepts-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
