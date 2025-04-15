@@ -1,5 +1,5 @@
-# Azure Native ISV Services
-> Azure Native ISV Services enables you to easily provision, manage, and tightly integrate independent software vendor (ISV) software and services on Azure. Azure Native ISV Services is developed and managed by Microsoft and the ISV.
+# Azure Native Integrations
+> Azure Native Integrations enables you to easily provision, manage, and tightly integrate independent software vendor (ISV) software and services on Azure. Azure Native Integrations is developed and managed by Microsoft and the ISV.
   - Azure Native Integrations documentation
     - [Overview](https://learn.microsoft.com/en-us/azure/partner-solutions/overview)
     - [Partner services](https://learn.microsoft.com/en-us/azure/partner-solutions/partners)

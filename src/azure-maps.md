@@ -36,8 +36,8 @@
     - [Localization support](https://learn.microsoft.com/en-us/azure/azure-maps/supported-languages)
     - [Supported map styles](https://learn.microsoft.com/en-us/azure/azure-maps/supported-map-styles)
     - [Zoom levels and tile grid](https://learn.microsoft.com/en-us/azure/azure-maps/zoom-levels-and-tile-grid)
-    - [Weather services concepts](https://learn.microsoft.com/en-us/azure/azure-maps/weather-services-concepts)
-    - [Weather services FAQ](https://learn.microsoft.com/en-us/azure/azure-maps/weather-services-faq.yml)
+    - [Weather service concepts](https://learn.microsoft.com/en-us/azure/azure-maps/weather-services-concepts)
+    - [Weather service FAQ](https://learn.microsoft.com/en-us/azure/azure-maps/weather-services-faq.yml)
   - How-to guides
     - Migrate from Bing Maps
       - [Bing Maps migration overview](https://learn.microsoft.com/en-us/azure/azure-maps/migrate-bing-maps-overview)

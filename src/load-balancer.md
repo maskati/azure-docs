@@ -60,6 +60,23 @@
     - [Standard Load Balancer and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-standard-virtual-machine-scale-sets)
     - IP-based backend
       - [Create a public load balancer with an IP-based backend - Portal](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-ip-backend-portal)
+    - Reliability
+      - [Availability zones and cross-region load balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer?toc=/azure/load-balancer/toc.json&bc=/azure/load-balancer/breadcrumb/toc.json)
+      - [Availability zone migration](https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer?toc=/azure/load-balancer/toc.json&bc=/azure/load-balancer/breadcrumb/toc.json)
+    - Scaling and availability
+      - [Load balance a VM within a specific availability zone](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zonal-portal)
+      - [Load balance VMs with multiple availability sets](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-multi-availability-sets-portal)
+      - Virtual machine scale sets
+        - [Configure inbound NAT rules for Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/load-balancer/configure-inbound-NAT-rules-vm-scale-set)
+        - [Add multiple Virtual Machine Scale Set instances behind one Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-virtual-machine-scale-set)
+        - [Use Virtual Machine Scale Set instance with an existing Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/configure-vm-scale-set-portal)
+    - [Using multiple IP configurations](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip)
+    - [Move a load balancer across regions](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-azure-load-balancer)
+  - Secure
+    - [Deploy public load balancer with DDoS protection](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer)
+    - [Implement a secure hybrid networking](https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-load-balancer-security-baseline?toc=/azure/load-balancer/TOC.json)
+    - [Azure Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Connectivity
     - Inbound connectivity
       - Inbound NAT rule
@@ -116,24 +133,6 @@
     - [Common error codes for Azure Instance Metadata Service IMDS](https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-load-balancer-imds)
     - [Common deployment errors](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-common-deployment-errors)
     - [Troubleshoot load balancer health event logs](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot-health-event-logs)
-  - Reliability and availability
-    - Reliability
-      - [Availability zones and cross-region load balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer?toc=/azure/load-balancer/toc.json&bc=/azure/load-balancer/breadcrumb/toc.json)
-      - [Availability zone migration](https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer?toc=/azure/load-balancer/toc.json&bc=/azure/load-balancer/breadcrumb/toc.json)
-    - Scaling and availability
-      - [Load balance a VM within a specific availability zone](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zonal-portal)
-      - [Load balance VMs with multiple availability sets](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-multi-availability-sets-portal)
-    - Virtual machine scale sets
-      - [Configure inbound NAT rules for Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/load-balancer/configure-inbound-NAT-rules-vm-scale-set)
-      - [Add multiple Virtual Machine Scale Set instances behind one Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-virtual-machine-scale-set)
-      - [Use Virtual Machine Scale Set instance with an existing Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/configure-vm-scale-set-portal)
-    - [Using multiple IP configurations](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip)
-    - [Move a load balancer across regions](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-azure-load-balancer)
-  - Security and compliance
-    - [Deploy public load balancer with DDoS protection](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer)
-    - [Implement a secure hybrid networking](https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz)
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-load-balancer-security-baseline?toc=/azure/load-balancer/TOC.json)
-    - [Azure Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reference
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=load-balancer)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)

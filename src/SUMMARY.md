@@ -97,7 +97,7 @@
 [Operator Nexus](./operator-nexus.md)
 [Azure Operator Service Manager documentation](./operator-service-manager.md)
 [Oracle on Azure Documentation](./oracle.md)
-[Azure Native ISV Services](./partner-solutions.md)
+[Azure Native Integrations](./partner-solutions.md)
 [Azure Peering Service documentation](./peering-service.md)
 [Microsoft Playwright Testing Preview documentation](./playwright-testing.md)
 [Azure Private 5G Core documentation](./private-5g-core.md)

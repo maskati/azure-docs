@@ -46,6 +46,21 @@
       - [7 - Peer on-premises to private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-expressroute-global-reach-private-cloud)
       - [8 - Scale a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-scale-private-cloud)
       - [9 - Delete a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-delete-private-cloud)
+  - Azure VMware Solution Generation 2 Private Clouds Public Preview
+    - [Introduction to Azure VMware Solution Generation 2 Private Clouds Public Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-introduction)
+    - Tutorial
+      - [Create an Azure VMware Solution Generation 2 Private Cloud Public Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-create-azure-vmware-virtual-network-private-cloud)
+    - Architecture
+      - [Design Considerations for Azure VMware Solution Generation 2 Private Clouds Public Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
+    - Security
+      - [Enable first-party application service principal for Azure VMware Solution Generation 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)
+    - Networking
+      - [Connectivity to an Azure Virtual Network](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-connectivity)
+      - [Connect to on-premises environment](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-on-premises)
+      - [Internet connectivity options](https://learn.microsoft.com/en-us/azure/azure-vmware/native-internet-connectivity-design-considerations)
+      - [Connect multiple Azure VMware Solution Generation 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-multiple-private-clouds)
+      - [Connect Azure VMware Solution Generation 2 Private Clouds to Azure VMware Solution Generation 1 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-private-cloud-previous-edition)
+      - [Public and Private DNS forward lookup zone configuration](https://learn.microsoft.com/en-us/azure/azure-vmware/native-dns-forward-lookup-zone)
   - Cost optimization
     - [ESUs for SQL Server and Windows Server in Azure VMware Solution VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/extended-security-updates-windows-sql-server)
     - [License SQL Server, Windows Server and Linux in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/license-sql-windows-in-avs)
@@ -127,6 +142,7 @@
       - [Restore VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/restore-azure-netapp-files-vms)
       - [Restore guest files and folders](https://learn.microsoft.com/en-us/azure/azure-vmware/restore-guest-files-folders)
     - [Configure Pure Cloud Block Store](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-pure-cloud-block-store)
+    - [Configure Azure Native Pure Storage Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-native-pure-storage-cloud)
   - Backup and recovery
     - [Backup solutions for VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-back-up-vms)
     - Backup with Azure Backup Server
