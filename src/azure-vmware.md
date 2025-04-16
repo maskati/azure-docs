@@ -1,10 +1,10 @@
 # Azure VMware Solution documentation
 > Learn to use Azure VMware Solution to deploy a VMware Software-defined Data Center (SDDC) private cloud to Azure.
   - [Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/)
-  - [Overview - Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/introduction)
+  - [Overview](https://learn.microsoft.com/en-us/azure/azure-vmware/introduction)
   - [What's new](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-platform-updates)
   - [Known issues](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-known-issues)
-  - Azure VMware Solution
+  - Azure VMware Solution Generation 1
     - Quickstarts
       - [1 - Plan the deployment](https://learn.microsoft.com/en-us/azure/azure-vmware/plan-private-cloud-deployment)
       - [2 - Deploy Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-azure-vmware-solution)
@@ -25,6 +25,11 @@
       - [Migrate](https://learn.microsoft.com/en-us/azure/azure-vmware/architecture-migrate)
       - [Well Architected Framework](https://learn.microsoft.com/azure/well-architected/azure-vmware/)
     - Networking
+      - Configure internet connectivity
+        - [Enable Managed SNAT for Azure VMware Solution workloads](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-managed-snat-for-workloads)
+        - [Enable public IP on the NSX Edge for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-public-ip-nsx-edge)
+        - [Disable internet access or enable a default route](https://learn.microsoft.com/en-us/azure/azure-vmware/disable-internet-access)
+        - [Deploy Traffic Manager to balance workloads](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-traffic-manager-balance-workloads)
       - [Connect to on-premises environment](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-expressroute-global-reach-private-cloud)
       - [Connect multiple private clouds in same region](https://learn.microsoft.com/en-us/azure/azure-vmware/connect-multiple-private-clouds-same-region)
       - [Configure DHCP server or relay](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-dhcp-azure-vmware-solution)
@@ -46,12 +51,12 @@
       - [7 - Peer on-premises to private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-expressroute-global-reach-private-cloud)
       - [8 - Scale a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-scale-private-cloud)
       - [9 - Delete a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-delete-private-cloud)
-  - Azure VMware Solution Generation 2 Private Clouds Public Preview
-    - [Introduction to Azure VMware Solution Generation 2 Private Clouds Public Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-introduction)
+  - Azure VMware Solution Generation 2 preview
+    - [Introduction to Azure VMware Solution Generation 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-introduction)
     - Tutorial
-      - [Create an Azure VMware Solution Generation 2 Private Cloud Public Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-create-azure-vmware-virtual-network-private-cloud)
+      - [Create an Azure VMware Solution Generation 2 Private Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/native-create-azure-vmware-virtual-network-private-cloud)
     - Architecture
-      - [Design Considerations for Azure VMware Solution Generation 2 Private Clouds Public Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
+      - [Design Considerations for Azure VMware Solution Generation 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
     - Security
       - [Enable first-party application service principal for Azure VMware Solution Generation 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)
     - Networking
@@ -96,11 +101,6 @@
       - [Protect web apps with Azure Application Gateway](https://learn.microsoft.com/en-us/azure/azure-vmware/protect-azure-vmware-solution-with-application-gateway)
     - [Configure customer-managed key encryption at rest](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-customer-managed-keys)
     - [Configure Trusted Launch](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-virtual-trusted-platform-module)
-  - Configure internet connectivity
-    - [Enable Managed SNAT for Azure VMware Solution workloads](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-managed-snat-for-workloads)
-    - [Enable public IP on the NSX Edge for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-public-ip-nsx-edge)
-    - [Disable internet access or enable a default route](https://learn.microsoft.com/en-us/azure/azure-vmware/disable-internet-access)
-    - [Deploy Traffic Manager to balance workloads](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-traffic-manager-balance-workloads)
   - Migrate workloads
     - [Migration solutions for VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-migration-vms)
     - [Install and activate VMware HCX in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/install-vmware-hcx)
@@ -142,7 +142,7 @@
       - [Restore VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/restore-azure-netapp-files-vms)
       - [Restore guest files and folders](https://learn.microsoft.com/en-us/azure/azure-vmware/restore-guest-files-folders)
     - [Configure Pure Cloud Block Store](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-pure-cloud-block-store)
-    - [Configure Azure Native Pure Storage Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-native-pure-storage-cloud)
+    - [Configure Azure Native Pure Storage Cloud preview](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-native-pure-storage-cloud)
   - Backup and recovery
     - [Backup solutions for VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-back-up-vms)
     - Backup with Azure Backup Server
