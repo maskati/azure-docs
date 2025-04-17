@@ -17,7 +17,7 @@
   - Tutorials
     - Azure VM disaster recovery to Azure
       - [Set up disaster recovery for Azure VMs](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication)
-      - [Set up disaster recovery using shared disk](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-shared-disk)
+      - [Set up disaster recovery for shared disks using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication-shared-disk)
       - [Run a disaster recovery drill](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-dr-drill)
       - [Run failover and reprotect](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-failover-failback)
       - [Run failback](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-failback)
@@ -133,6 +133,7 @@
         - [Using Azure policy](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-how-to-enable-policy)
         - [For proximity placement groups](https://learn.microsoft.com/en-us/azure/site-recovery/how-to-enable-replication-proximity-placement-groups)
         - [On encrypted VMs](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-how-to-enable-replication-ade-vms)
+        - [For shared disk](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-shared-disk)
         - [On CMK enabled disks](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-how-to-enable-replication-cmk-disks)
         - [For S2D VMs](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-how-to-enable-replication-s2d-vms)
         - [For an added disk](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-enable-replication-added-disk)

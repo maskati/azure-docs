@@ -24,7 +24,7 @@
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/vpn-gateway/toc.json)
       - [Leveraging Azure VPN connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/work-remotely-support)
       - [NVA configurations and remote work](https://learn.microsoft.com/en-us/azure/vpn-gateway/nva-work-remotely-support)
-  - Gateways and configuration settings
+  - Configuration settings, SKUs & gateways
     - Gateway SKUs
       - [About gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus)
       - Gateway SKU consolidation & migration
@@ -37,7 +37,7 @@
     - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
     - [About zone-redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
     - [VPN Gateway configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
-  - Create and manage VPN gateways
+  - Create & manage a VPN gateway
     - Create a VPN gateway
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-powershell)
@@ -60,9 +60,9 @@
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-powershell)
     - [Verify a gateway connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-verify-connection-resource-manager)
-    - [Reset a connection or a gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/reset-gateway)
-    - [Configure customer-controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/vpn-gateway/customer-controlled-gateway-maintenance)
-  - Site-to-site S2S VPN connections
+    - [Reset a gateway or gateway connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/reset-gateway)
+    - [Configure gateway maintenance](https://learn.microsoft.com/en-us/azure/vpn-gateway/customer-controlled-gateway-maintenance)
+  - Site-to-site S2S VPN
     - Configure site-to-site connections - preshared key
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell)
@@ -89,7 +89,7 @@
       - [Overview of parter VPN device configurations](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-overview)
       - [Sample: Cisco ASA device IKEv2/no BGP](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-cisco-asa)
       - [Connect to multiple policy-based VPN devices](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-multiple-policybased-rm-ps)
-  - Point-to-site P2S VPN connections
+  - Point-to-site P2S VPN
     - [About point-to-site VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about)
     - [About point-to-site VPN routing](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-point-to-site-routing)
     - Configure P2S - certificate authentication
@@ -153,7 +153,7 @@
       - [Run Prerequisites Test](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-prerequisites-check)
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-versions)
     - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
-  - VNet-to-VNet VPN connections
+  - VNet-to-VNet VPN
     - Configure VNet-to-VNet VPN connections
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps)

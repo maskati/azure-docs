@@ -96,6 +96,7 @@
       - [Azure files backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-support-matrix)
       - [Azure Disk Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/disk-backup-support-matrix)
       - [Azure Blobs backup support matrix](https://learn.microsoft.com/en-us/azure/backup/blob-backup-support-matrix)
+      - [Azure Data Lake Storage Gen2 backup support matrix preview](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-support-matrix)
       - [Active Directory domain controllers](https://learn.microsoft.com/en-us/azure/backup/active-directory-backup-restore)
       - [Supported VM SKUs for Azure Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-policy-supported-skus)
       - [Azure Database for PostgreSQL backup support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-support-matrix)
@@ -134,6 +135,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-overview)
       - [Prerequisites](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-concept)
     - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/blob-backup-overview)
+    - [Azure Data Lake Storage Gen2 backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-overview)
     - [Azure Files backup](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)
     - Windows backup using MARS agent
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-about-mars)
@@ -313,6 +315,9 @@
         - [Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-create-update-blob-policy)
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-backup-blobs)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-restore-blobs)
+    - Azure Data Lake Storage Gen2 backup preview
+      - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-configure-backup)
+      - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-restore)
     - Azure Files backup
       - From the Azure portal
         - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files)
