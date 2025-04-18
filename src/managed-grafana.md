@@ -5,8 +5,8 @@
     - [About Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/overview)
     - [Service limits](https://learn.microsoft.com/en-us/azure/managed-grafana/known-limitations)
   - Quickstarts
-    - [Create an instance - Portal](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-portal)
-    - [Create an instance - Azure CLI](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-cli)
+    - [Create a workspace - Portal](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-portal)
+    - [Create a workspace - Azure CLI](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-cli)
   - Tutorial
     - [Connect to self-hosted Prometheus through managed private endpoint](https://learn.microsoft.com/en-us/azure/managed-grafana/tutorial-mpe-oss-prometheus)
     - [Call Grafana APIs programmatically](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-api-calls)

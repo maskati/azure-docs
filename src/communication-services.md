@@ -512,6 +512,7 @@
       - [Handle Call Automation events with EventProcessor](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/handle-events-with-event-processor)
       - [Call Automation Azure OpenAI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-azure-openai-sample)
       - [Call Automation AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-ai)
+      - [Integrate Azure Communication Services with your Microsoft Copilot Studio agent](https://learn.microsoft.com/en-us/azure/communication-services/samples/integrate-azure-communication-services-with-copilot-studio)
     - References
       - [Call Automation REST](https://learn.microsoft.com/rest/api/communication/callautomation/operation-groups)
       - [Call Automation JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-call-automation-readme)

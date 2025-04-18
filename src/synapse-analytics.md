@@ -383,7 +383,7 @@
         - [Monitor your Apache Spark applications with Azure Log Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-log-analytics)
         - [Collect Apache Spark applications logs and metrics with Azure Storage account](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/azure-synapse-diagnostic-emitters-azure-storage)
         - [Collect Apache Spark applications logs and metrics with Azure Event Hubs](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/azure-synapse-diagnostic-emitters-azure-eventhub)
-        - [Collect Apache Spark applications logs and metrics by certificate and service principal](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/how-to-use-certificate-with-service-principalp-emit-log-event-hubs)
+        - [Collect Apache Spark Application Logs and Metrics to Azure Event Hubs Using Certificate-Based Service Principal Authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/how-to-use-certificate-with-service-principalp-emit-log-event-hubs)
         - [Manage Apache Spark configuration](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-create-spark-configuration)
         - [Apache Spark Advisor](https://learn.microsoft.com/en-us/azure/synapse-analytics/monitoring/apache-spark-advisor)
       - Data sources

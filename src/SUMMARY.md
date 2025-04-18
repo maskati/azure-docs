@@ -42,7 +42,7 @@
 [Azure Container Apps documentation](./container-apps.md)
 [Cost Management + Billing documentation](./cost-management-billing.md)
 [Azure CycleCloud Documentation](./cyclecloud.md)
-[Azure Data Factory documentation](./data-factory.md)
+[Azure Data Factory Documentation](./data-factory.md)
 [Microsoft Azure Data Manager for Agriculture Preview.](./data-manager-for-agri.md)
 [Azure Data Share documentation](./data-share.md)
 [Azure Data Box Gateway documentation - Online transfer](./databox-gateway.md)

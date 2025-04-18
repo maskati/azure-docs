@@ -50,6 +50,7 @@
       - [Active change, retirement, and end of life notices](https://github.com/Azure/Batch/labels/notice)
       - [VHD and Managed Images](https://learn.microsoft.com/en-us/azure/batch/batch-custom-image-pools-to-azure-compute-gallery-migration-guide)
       - [Low-priority virtual machines](https://learn.microsoft.com/en-us/azure/batch/low-priority-vms-retirement-migration-guide)
+      - [Classic compute node communication model](https://learn.microsoft.com/en-us/azure/batch/batch-pools-to-simplified-compute-node-communication-model-migration-guide)
   - How-to guides
     - Manage Batch accounts
       - [Manage Batch accounts in the Azure portal](https://learn.microsoft.com/en-us/azure/batch/batch-account-create-portal)

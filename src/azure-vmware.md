@@ -4,7 +4,7 @@
   - [Overview](https://learn.microsoft.com/en-us/azure/azure-vmware/introduction)
   - [What's new](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-platform-updates)
   - [Known issues](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-known-issues)
-  - Azure VMware Solution Generation 1
+  - Azure VMware Solution Gen 1
     - Quickstarts
       - [1 - Plan the deployment](https://learn.microsoft.com/en-us/azure/azure-vmware/plan-private-cloud-deployment)
       - [2 - Deploy Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-azure-vmware-solution)
@@ -51,20 +51,20 @@
       - [7 - Peer on-premises to private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-expressroute-global-reach-private-cloud)
       - [8 - Scale a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-scale-private-cloud)
       - [9 - Delete a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-delete-private-cloud)
-  - Azure VMware Solution Generation 2 preview
-    - [Introduction to Azure VMware Solution Generation 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-introduction)
+  - Azure VMware Solution Gen 2 preview
+    - [Introduction to Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-introduction)
     - Tutorial
-      - [Create an Azure VMware Solution Generation 2 Private Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/native-create-azure-vmware-virtual-network-private-cloud)
+      - [Create a Gen 2 Private Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/native-create-azure-vmware-virtual-network-private-cloud)
     - Architecture
-      - [Design Considerations for Azure VMware Solution Generation 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
+      - [Design Considerations for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
     - Security
-      - [Enable first-party application service principal for Azure VMware Solution Generation 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)
+      - [Enable first-party application service principal for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)
     - Networking
       - [Connectivity to an Azure Virtual Network](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-connectivity)
       - [Connect to on-premises environment](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-on-premises)
       - [Internet connectivity options](https://learn.microsoft.com/en-us/azure/azure-vmware/native-internet-connectivity-design-considerations)
-      - [Connect multiple Azure VMware Solution Generation 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-multiple-private-clouds)
-      - [Connect Azure VMware Solution Generation 2 Private Clouds to Azure VMware Solution Generation 1 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-private-cloud-previous-edition)
+      - [Connect multiple Gen 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-multiple-private-clouds)
+      - [Connect Gen 2 to Gen 1 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-private-cloud-previous-edition)
       - [Public and Private DNS forward lookup zone configuration](https://learn.microsoft.com/en-us/azure/azure-vmware/native-dns-forward-lookup-zone)
   - Cost optimization
     - [ESUs for SQL Server and Windows Server in Azure VMware Solution VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/extended-security-updates-windows-sql-server)

@@ -181,6 +181,9 @@
     - Security
       - [Configure WAF Application Gateway](https://learn.microsoft.com/en-us/azure/container-apps/waf-app-gateway)
       - [Enable User Defined Routes UDR](https://learn.microsoft.com/en-us/azure/container-apps/user-defined-routes)
+      - Rule based routing
+        - [Use rule-based routing](https://learn.microsoft.com/en-us/azure/container-apps/rule-based-routing)
+        - [Configure a custom domain](https://learn.microsoft.com/en-us/azure/container-apps/rule-based-routing-custom-domain)
       - [Securing a custom VNET with an NSG](https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration)
       - [Use a private endpoint](https://learn.microsoft.com/en-us/azure/container-apps/how-to-use-private-endpoint)
       - [Use mTLS](https://learn.microsoft.com/en-us/azure/container-apps/mtls)
