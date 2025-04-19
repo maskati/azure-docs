@@ -10,6 +10,7 @@
     - [Region availability](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-regions)
     - [Network planning](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-network-plan)
     - [Known issues](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-known-issues)
+    - [Support](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-support)
     - Onboarding
       - [Onboard Oracle Database@Azure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/onboard-oracle-database)
     - Design considerations

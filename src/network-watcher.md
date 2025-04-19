@@ -73,14 +73,12 @@
     - NSG flow logs
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview)
       - [Log VM network traffic](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-tutorial)
-      - Manage NSG flow logs
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-portal)
-        - [PowerShell](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-powershell)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-cli)
+      - [Manage NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-manage)
+      - Deploy NSG flow logs
         - [ARM template](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-template)
         - [Bicep](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-bicep)
         - [REST](https://learn.microsoft.com/previous-versions/azure/network-watcher/nsg-flow-logs-rest?toc=/azure/network-watcher/toc.json)
-        - [Built-in Policy](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal)
+      - [Audit and deploy using Azure Policy](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal)
       - [Migrate NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate)
       - Analyze NSG flow logs
         - [Use Power BI](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-power-bi)

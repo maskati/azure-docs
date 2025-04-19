@@ -56,7 +56,7 @@
     - Tutorial
       - [Create a Gen 2 Private Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/native-create-azure-vmware-virtual-network-private-cloud)
     - Architecture
-      - [Design Considerations for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
+      - [Design considerations for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
     - Security
       - [Enable first-party application service principal for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)
     - Networking
@@ -181,7 +181,7 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.avs/privateclouds)
     - [Terraform Azure provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/vmware_private_cloud)
     - [Configure VMware Cloud Director Service in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vmware-cloud-director-service-azure-vmware-solution)
-    - [Self service maintenance orchestration public preview](https://learn.microsoft.com/en-us/azure/azure-vmware/self-service-maintenance-orchestration)
+    - [Self service maintenance orchestration preview](https://learn.microsoft.com/en-us/azure/azure-vmware/self-service-maintenance-orchestration)
     - [Enable VMware Cloud Director Service with Azure VMware solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-cds-with-azure)
     - [Deploy VMware Cloud Director Availability in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vmware-cloud-director-availability-in-azure-vmware-solution)
   - Resources

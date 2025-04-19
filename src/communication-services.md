@@ -18,6 +18,7 @@
   - Identity
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/identity-model)
     - [Access tokens for end users](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
+    - [Sign an HTTP Request using HMAC](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/hmac-header-tutorial)
     - [Authenticate services](https://learn.microsoft.com/en-us/azure/communication-services/concepts/authentication)
     - [Enable managed identity](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/managed-identity)
     - [Understand identifiers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/identifiers)
@@ -146,6 +147,7 @@
     - [Country availability](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/sub-eligibility-number-capability)
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
     - [Short code program brief filling guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/program-brief-guidelines)
+    - [Ten digit long code 10DLC registration guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/ten-digit-long-code-guidelines)
     - [Opt-Out management overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/opt-out-api-concept)
     - Events
       - [Events overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
@@ -164,8 +166,8 @@
       - [Receive an SMS message](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/receive-sms)
       - [Handle SMS events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/handle-sms-events)
       - [Apply for a short code](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-short-code)
-      - [Use Postman to send SMS messages](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/postman-tutorial)
       - [Send short URL](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/sms-url-shortener)
+      - [Apply for 10 digit long code 10DLC registration](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-ten-digit-long-code)
       - [Apply for toll-free verification](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-toll-free-verification)
       - [Enable alphanumeric sender ID](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/enable-alphanumeric-sender-id)
       - [Migrate to Android push notifications FCM v1](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-chat-migrate-android-push-fcm-v1)
