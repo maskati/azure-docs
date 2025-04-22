@@ -63,7 +63,9 @@
     - Integrated NVA in a virtual hub
       - [Create an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub)
       - [Restart an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart)
+      - [Reimage an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-reimage)
       - [Configure DNAT/Internet inbound](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-inbound)
+      - [Manage IP configurations](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-add-ip-configurations)
   - Site-to-site S2S connections
     - Create a site-to-site connection
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal)
