@@ -45,7 +45,7 @@
   - How-to guides
     - Single-tenant Azure Logic Apps
       - [Overview](https://learn.microsoft.com/en-us/azure/logic-apps/single-tenant-overview-compare)
-      - [About the Standard workflow designer](https://learn.microsoft.com/en-us/azure/logic-apps/designer-overview)
+      - [Navigate the Standard workflow designer](https://learn.microsoft.com/en-us/azure/logic-apps/designer-overview)
       - [Built-in versus Azure connector operations](https://learn.microsoft.com/en-us/azure/connectors/compare-built-in-azure-connectors)
       - [Estimate storage costs](https://learn.microsoft.com/en-us/azure/logic-apps/estimate-storage-costs)
       - [Set up SQL storage](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-sql-db-storage-single-tenant-standard-workflows)

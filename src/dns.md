@@ -47,11 +47,11 @@
       - [Private resolver architecture](https://learn.microsoft.com/en-us/azure/dns/private-resolver-architecture)
       - [Resiliency in Azure DNS Private Resolver](https://learn.microsoft.com/en-us/azure/dns/private-resolver-reliability)
   - Security
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-dns-security-baseline?toc=/azure/dns/TOC.json)
     - [DNS security policy](https://learn.microsoft.com/en-us/azure/dns/dns-security-policy)
     - [DNSSEC overview](https://learn.microsoft.com/en-us/azure/dns/dnssec)
     - [Protect public DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-zones-recordsets)
     - [Protect private DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-private-zones-recordsets)
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-dns-security-baseline?toc=/azure/dns/TOC.json)
     - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Deploy
     - Public DNS

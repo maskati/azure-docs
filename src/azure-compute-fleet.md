@@ -1,5 +1,5 @@
 # azure-compute-fleet
-  - [What is Azure Compute Fleet? Preview](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/overview)
+  - [What is Azure Compute Fleet?](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/overview)
   - Quickstarts
     - [Create in the Azure portal](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/quickstart-create-portal)
     - [Create with ARM template](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/quickstart-create-rest-api)

@@ -9,7 +9,7 @@
         - [Create an Azure Cache for Redis instance in the Basic, Standard and Premium tiers](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/quickstart-create-redis)
         - [Create an Azure Cache for Redis instance in the Enterprise tiers](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/quickstart-create-redis-enterprise)
         - [Create and manage with Azure PowerShell](https://learn.microsoft.com/azure/redis/how-to-manage-redis-cache-powershell)
-        - [Create and manage with Azure CLI](https://learn.microsoft.com/azure/redis/scripts/create-managed-cache)
+        - [Create and manage with Azure CLI](https://learn.microsoft.com/azure/redis/scripts/create-manage-cache?pivots=azure-cache-redis)
         - [Create and manage premium cache with Azure CLI](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/scripts/create-manage-premium-cache-cluster)
         - [Create Redis cache - Bicep](https://learn.microsoft.com/azure/redis/redis-cache-bicep-provision)
         - [Create Redis cache - ARM template](https://learn.microsoft.com/azure/redis/redis-cache-arm-provision)
@@ -41,7 +41,7 @@
       - [Connect an AKS application to a cache](https://learn.microsoft.com/azure/redis/tutorial-aks-get-started)
       - Use Azure CLI
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cli-samples)
-        - [Create and manage a cache](https://learn.microsoft.com/azure/redis/scripts/create-managed-cache)
+        - [Create and manage a cache](https://learn.microsoft.com/azure/redis/scripts/create-manage-cache?pivots=azure-cache-redis)
         - [Create and manage a premium cache](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/scripts/create-manage-premium-cache-cluster)
     - Development and client libraries
       - [Development FAQs](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-development-faq.yml)
@@ -86,7 +86,6 @@
       - [Reboot](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-administration)
       - [Update channel and schedule updates](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-administration)
       - [Configure redis-cli access](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-redis-cli-tool)
-      - [Create and manage a cache using CLI](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-manage-cli)
       - [Move between regions](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-moving-resources)
       - [Publishing Azure Cache for Redis events](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-event-grid)
       - [Management FAQs](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-management-faq.yml)

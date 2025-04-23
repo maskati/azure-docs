@@ -60,12 +60,12 @@
       - [Convert a virtual hub to a secured virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall)
       - [Secure your virtual hub using Azure Firewall Manager](https://learn.microsoft.com/en-us/azure/firewall-manager/secure-cloud-network?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
       - [Customer-provided public IP address for secured virtual hub](https://learn.microsoft.com/en-us/azure/firewall/secured-hub-customer-public-ip?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
-    - Integrated NVA in a virtual hub
-      - [Create an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub)
-      - [Restart an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart)
-      - [Reimage an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-reimage)
-      - [Configure DNAT/Internet inbound](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-inbound)
-      - [Manage IP configurations](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-add-ip-configurations)
+  - Integrated NVA in a virtual hub
+    - [Create an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub)
+    - [Restart an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart)
+    - [Reimage an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-reimage)
+    - [Configure DNAT/Internet inbound for NVAs](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-inbound)
+    - [Manage IP configurations for NVAs](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-add-ip-configurations)
   - Site-to-site S2S connections
     - Create a site-to-site connection
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal)
@@ -165,6 +165,7 @@
       - [Configure Route-maps to summarize routes from an NVA](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-summarize-from-device-spoke-vnet-nva)
     - [View virtual hub effective routes](https://learn.microsoft.com/en-us/azure/virtual-wan/effective-routes-virtual-hub)
     - [Configure routing intent and policies](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
+    - [Next hop IP support in Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/next-hop-ip)
     - Route traffic from a virtual hub to an NVA legacy
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-route-table-nva-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-route-table-nva)

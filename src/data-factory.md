@@ -559,6 +559,7 @@
         - [REST](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-rest)
         - [Salesforce and Salesforce Service Cloud](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-salesforce)
         - [SAP Table, SAP Business Warehouse Open Hub, and SAP ODP](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-sap)
+        - [ServiceNow](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-servicenow)
         - [SharePoint Online list](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-sharepoint-online-list)
         - [Snowflake](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-snowflake)
         - [XML format](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-xml)
