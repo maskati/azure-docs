@@ -5,7 +5,6 @@
     - [What's new](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-whats-new)
     - Quickstarts
       - Create a cache
-        - [Create an Azure Managed Redis instance](https://learn.microsoft.com/redis/quickstart-create-managed-redis)
         - [Create an Azure Cache for Redis instance in the Basic, Standard and Premium tiers](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/quickstart-create-redis)
         - [Create an Azure Cache for Redis instance in the Enterprise tiers](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/quickstart-create-redis-enterprise)
         - [Create and manage with Azure PowerShell](https://learn.microsoft.com/azure/redis/how-to-manage-redis-cache-powershell)
@@ -28,7 +27,7 @@
     - [Migrate to Azure Managed Redis](https://learn.microsoft.com/azure/redis/migrate/migrate-overview)
     - [Migrate to Azure Redis from other caches](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-migration-guide)
   - Azure Cache for Redis
-    - [What's new?](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-whats-new)
+    - [What's new in Azure Cache for Redis?](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-whats-new)
     - Deploy and configure
       - [Choose a cache tier](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
       - [Upgrade to a new version](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-upgrade)
@@ -106,6 +105,9 @@
       - [Troubleshoot Redis server](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-troubleshoot-server)
       - [Troubleshoot data loss](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-troubleshoot-data-loss)
       - [Troubleshooting FAQs](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-monitor-troubleshoot-faq.yml)
+  - [Azure Managed Redis](https://learn.microsoft.com/azure/redis/index)
+    - [About Azure Managed Redis](https://learn.microsoft.com/azure/redis/overview)
+    - [Azure Managed Redis architecture](https://learn.microsoft.com/azure/redis/architecture)
   - Samples
     - Use Azure Functions triggers and bindings
       - [Create a simple Function app for Redis triggers](https://learn.microsoft.com/azure/redis/tutorial-functions-getting-started)

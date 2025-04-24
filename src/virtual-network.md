@@ -11,7 +11,7 @@
     - [Service tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
   - Get started
     - [Add, change, or delete a subnet](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet)
-    - [Create a virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-portal)
+    - [Create a virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/quickstart-create-virtual-network)
     - [Monitoring](https://learn.microsoft.com/en-us/azure/virtual-network/monitor-virtual-network)
     - [Plan virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm)
     - [Traffic routing](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
@@ -36,12 +36,6 @@
     - [Connect a virtual network to ExpressRoute circuits](https://learn.microsoft.com/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
     - [Connect an on-premises network to Azure by using ExpressRoute](https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
     - [Connect virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks)
-    - Create a virtual network
-      - [ARM template](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-template)
-      - [Azure CLI](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-cli)
-      - [Bicep](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-bicep)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-powershell)
-      - [Terraform](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-terraform)
     - [Create and associate service endpoint policies](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies)
     - [Filter network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic)
     - [Restrict network access to PaaS resources](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)

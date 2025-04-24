@@ -3,6 +3,7 @@
   - [Azure Lab Services docs](https://learn.microsoft.com/en-us/azure/lab-services/)
   - Overview
     - [Azure Lab Services retirement guide](https://learn.microsoft.com/en-us/azure/lab-services/retirement-guide)
+    - [Deletion policy for virtual machines](https://learn.microsoft.com/en-us/azure/lab-services/vm-deletion-policy)
     - [Find and delete lab resources](https://learn.microsoft.com/en-us/azure/lab-services/find-delete-lab-resources)
     - [What is Azure Lab Services?](https://learn.microsoft.com/en-us/azure/lab-services/lab-services-overview)
   - Migrate to lab plans
