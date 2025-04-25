@@ -229,6 +229,7 @@
       - [Move logic app resources](https://learn.microsoft.com/en-us/azure/logic-apps/move-logic-app-resources)
       - [Update schema for Consumption workflows](https://learn.microsoft.com/en-us/azure/logic-apps/update-workflow-definition-language-schema)
     - Test
+      - [Create unit tests from Standard workflow definitions](https://learn.microsoft.com/en-us/azure/logic-apps/create-unit-tests-standard-workflow-definitions-visual-studio-code)
       - [Test workflows with mock outputs](https://learn.microsoft.com/en-us/azure/logic-apps/test-logic-apps-mock-data-static-results)
     - Deploy
       - [About automated deployment - Multitenant](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-azure-resource-manager-templates-overview)

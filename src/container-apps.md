@@ -195,6 +195,7 @@
       - [Deploy and scale an ASP.NET Core app](https://learn.microsoft.com/aspnet/core/host-and-deploy/scaling-aspnet-apps/scaling-aspnet-apps)
     - Java
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/java-overview)
+      - [Introduction to containers](https://learn.microsoft.com/en-us/azure/container-apps/java-containers-intro)
       - [Turn on Java features](https://learn.microsoft.com/en-us/azure/container-apps/java-feature-switch)
       - [Automatic memory fitting preview](https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit)
       - [Build environment variables preview](https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables)

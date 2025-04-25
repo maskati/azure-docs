@@ -165,7 +165,7 @@
       - [Configure Route-maps to summarize routes from an NVA](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-summarize-from-device-spoke-vnet-nva)
     - [View virtual hub effective routes](https://learn.microsoft.com/en-us/azure/virtual-wan/effective-routes-virtual-hub)
     - [Configure routing intent and policies](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
-    - [Next hop IP support in Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/next-hop-ip)
+    - [Next hop IP support](https://learn.microsoft.com/en-us/azure/virtual-wan/next-hop-ip)
     - Route traffic from a virtual hub to an NVA legacy
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-route-table-nva-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-route-table-nva)

@@ -77,6 +77,7 @@
         - [Cluster Upgrades](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade)
         - [Cluster Upgrades With PauseAfterRack Strategy](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade-with-pauseafterrack-strategy)
         - [Network Fabric Upgrades](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric)
+        - [Network Fabric Upgrades Template](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric-template)
         - [Credential Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-credential-rotation)
         - [Credential Manager Key Vault](https://learn.microsoft.com/en-us/azure/operator-nexus/how-to-credential-manager-key-vault)
         - [Updating ExpressRoute Gateway Authorization Key in Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-update-expressroute-authorization-key)

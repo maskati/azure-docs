@@ -174,6 +174,7 @@
         - [Configure network features for a volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-network-features)
         - [Configure customer-managed keys](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-customer-managed-keys)
         - [Configure customer-managed keys with managed HSM](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-customer-managed-keys-hardware)
+        - [Configure cross-tenant customer-managed keys](https://learn.microsoft.com/en-us/azure/azure-netapp-files/customer-managed-keys-cross-tenant)
         - [Configure Virtual WAN](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-virtual-wan)
       - Mount volumes
         - [Mount an NFS volume for Windows or Linux VMs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-mount-unmount-volumes-for-virtual-machines)

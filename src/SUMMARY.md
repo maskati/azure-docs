@@ -2,7 +2,7 @@
 ---
 [Introduction](README.md)
 [Azure Active Directory B2C documentation](./active-directory-b2c.md)
-[Azure Analysis Services documentation](./analysis-services.md)
+[analysis-services](./analysis-services.md)
 [Azure API Center documentation](./api-center.md)
 [API Management documentation](./api-management.md)
 [App Service documentation](./app-service.md)
