@@ -145,6 +145,7 @@
   - Troubleshoot
     - Azure Migrate Project
       - [Troubleshoot Azure Migrate projects](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-project)
+      - [Azure Migrate in unsupported regions](https://learn.microsoft.com/en-us/azure/migrate/azure-migrate-unsupported-regions)
     - Appliance configuration
       - [Troubleshoot Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance)
       - [Troubleshoot with appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)

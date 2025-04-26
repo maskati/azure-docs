@@ -37,7 +37,6 @@
       - [Plan and manage costs](https://learn.microsoft.com/en-us/azure/api-management/plan-manage-costs)
       - [Configure a custom domain](https://learn.microsoft.com/en-us/azure/api-management/configure-custom-domain)
       - [Use an external cache](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-cache-external)
-      - Migrate from stv1 to stv2 platform
       - [Configure update settings](https://learn.microsoft.com/en-us/azure/api-management/configure-service-update-settings)
       - [Move instances between regions](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-migrate)
       - [Recover a deleted instance](https://learn.microsoft.com/en-us/azure/api-management/soft-delete)
