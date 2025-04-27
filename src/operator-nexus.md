@@ -76,6 +76,7 @@
         - [Instance Readiness Testing](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-run-instance-readiness-testing)
         - [Cluster Upgrades](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade)
         - [Cluster Upgrades With PauseAfterRack Strategy](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade-with-pauseafterrack-strategy)
+        - [Cluster Upgrades Template](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-cluster-runtime-upgrade-template)
         - [Network Fabric Upgrades](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric)
         - [Network Fabric Upgrades Template](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-nexus-fabric-template)
         - [Credential Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-credential-rotation)
