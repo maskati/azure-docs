@@ -499,6 +499,7 @@
         - [IP](https://learn.microsoft.com/defender-xdr/entity-page-ip?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - Security Copilot
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-security-copilot)
+      - [Summarize incidents in Azure portal](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-security-copilot-incident-summary)
       - Microsoft Copilot in Microsoft Defender
         - [Overview](https://learn.microsoft.com/defender-xdr/security-copilot-in-microsoft-365-defender?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
         - [Summarize incidents](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-incident-summary?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
