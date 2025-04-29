@@ -16,7 +16,7 @@
     - [Support Matrix](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix)
   - Discover inventory
     - [Appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
-    - [Discover VMware estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
+    - [Discover VMware estate](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-discover-vmware?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
     - [Scoped discovery of VMware estate](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
     - [Discover Hyper-v estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
     - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
@@ -28,7 +28,7 @@
       - [Appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
     - Discover using inventory import
       - [CSV import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import)
-      - [RVTools import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-import-vmware-using-rvtools-xlsx)
+      - [RVTools import](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-import-vmware-using-rvtools-xlsx?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
     - [Create least privileged credentials for SQL discover](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
   - Explore inventory
     - [Discovered metadata](https://learn.microsoft.com/en-us/azure/migrate/discovered-metadata)
@@ -69,10 +69,10 @@
     - Server Migrations
       - [Overview of Migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
       - Agent-based migrations
-        - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware-agent)
+        - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware-agent?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - Agentless migrations
         - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware)
-        - [Agentless migrations using scripts](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware-powershell)
+        - [Agentless migrations using scripts](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware-powershell?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
   - Modernize applications
     - Web App Migration and Modernization
       - [Containerize ASP.NET apps and migrate to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-kubernetes)
@@ -84,7 +84,7 @@
   - Tutorials
     - Migration Scenarios
       - Migrate VMware servers
-        - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
+        - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
         - [Migrate to Azure Local](https://learn.microsoft.com/azure/azure-local/migrate/migration-azure-migrate-vmware-overview?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - Migrate Hyper-V servers
         - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v)

@@ -4,6 +4,7 @@
   - Overview
     - [About Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview)
     - [Site Recovery - FAQ](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-faq.yml)
+    - [Manage Site Recovery updates](https://learn.microsoft.com/en-us/azure/site-recovery/service-updates-how-to)
   - What's New
     - [Release notes](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-whats-new)
     - [Feature releases](https://learn.microsoft.com/en-us/azure/site-recovery/feature-updates-whats-new)
@@ -59,7 +60,7 @@
       - [Migrate on-premises machines to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-on-premises-azure)
       - [Migrate on-premises Windows Server 2008 servers to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-windows-server-2008)
       - [Migrate AWS instances to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-aws-azure)
-    - VMware VM disaster recovery to Azure Classic
+    - VMware VM disaster recovery to Azure
       - [Prepare Azure](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-prepare-azure)
       - [Prepare on-premises VMware](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-tutorial-prepare-on-premises)
       - [Run a disaster recovery drill](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-dr-drill-azure)
@@ -143,7 +144,6 @@
       - Manage
         - [Update the Mobility Service for Azure VMs](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-autoupdate)
         - [Migrate from a Run As account to Managed Identities](https://learn.microsoft.com/en-us/azure/site-recovery/how-to-migrate-run-as-accounts-managed-identity)
-        - [Manage Site Recovery updates](https://learn.microsoft.com/en-us/azure/site-recovery/service-updates-how-to)
         - [Remove servers and disable protection](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-manage-registration-and-protection)
         - [Delete a vault](https://learn.microsoft.com/en-us/azure/site-recovery/delete-vault)
         - [Cleanup script on a VMM server](https://learn.microsoft.com/en-us/azure/site-recovery/unregister-vmm-server-script)
@@ -152,15 +152,12 @@
       - [Reprotect Azure VMs after failover](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-how-to-reprotect)
     - VMware to Azure disaster recovery
       - [Deprecation of classic experience](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-classic-deprecation)
-      - [Set up disaster recovery at scale](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-large-deployment)
       - [Delete or reset an appliance](https://learn.microsoft.com/en-us/azure/site-recovery/delete-appliance)
       - Set up networking
         - [Manage network interfaces for on-premises to Azure replication](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-manage-network-interfaces-on-premises-to-azure)
         - [Set up IP addressing for failover](https://learn.microsoft.com/en-us/azure/site-recovery/concepts-on-premises-to-azure-networking)
         - [Switch replication appliance modernized](https://learn.microsoft.com/en-us/azure/site-recovery/switch-replication-appliance-modernized)
       - Perform capacity planning
-        - [Plan capacity](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-plan-capacity-vmware)
-        - [Scale out process servers for VMware replication](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-process-server-scale)
         - Deployment Planner tool for VMware replication to Azure
           - [Overview and prerequisites](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-deployment-planner)
           - [Deployment Planner version history](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-deployment-planner-history)
@@ -169,10 +166,7 @@
           - [Analyze the cost estimation report](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-vmware-deployment-planner-cost-estimation)
       - Set up disaster recovery
         - [Set up the source environment](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-source)
-        - [Deploy the configuration server](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-deploy-configuration-server)
-        - [Set up the target environment](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-target)
         - [Configure replication settings](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-replication)
-        - [Enable on-premises replication with private endpoints](https://learn.microsoft.com/en-us/azure/site-recovery/hybrid-how-to-enable-replication-private-endpoints)
         - [Enable replication for a physical server - Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/physical-server-enable-replication)
         - [Enable replication for VMware VMs](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-enable-replication)
         - [For an added disk](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-enable-replication-added-disk)
@@ -186,17 +180,8 @@
         - [Set up recovery plans](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-create-recovery-plans)
         - [Run a disaster recovery drill to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-test-failover-to-azure)
         - [Run a failover to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-failover)
-        - [Prepare for reprotection/failback](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-prepare-failback)
-        - [Reprotect from Azure to on-premises](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-reprotect)
-        - [Fail back from Azure to on-premises](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-failback)
-        - [Set up a failback process server in Azure](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-process-server-azure)
-        - [Set up a Linux master target server for failback](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-install-linux-master-target)
       - Manage
-        - [Manage the Mobility agent](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-manage-mobility-service)
         - [Upgrade the Mobility agent Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/upgrade-mobility-service-modernized)
-        - [Manage the configuration server for VMware](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-manage-configuration-server)
-        - [Manage process servers](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-manage-process-server)
-        - [Manage vCenter servers](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-manage-vcenter)
         - [Manage Site Recovery updates](https://learn.microsoft.com/en-us/azure/site-recovery/service-updates-how-to)
         - [Remove servers and disable protection](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-manage-registration-and-protection)
         - [Delete a vault](https://learn.microsoft.com/en-us/azure/site-recovery/delete-vault)
@@ -205,8 +190,6 @@
         - [Manage network interfaces for on-premises to Azure replication](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-manage-network-interfaces-on-premises-to-azure)
         - [Set up IP addressing for failover](https://learn.microsoft.com/en-us/azure/site-recovery/concepts-on-premises-to-azure-networking)
       - Set up disaster recovery
-        - [Set up the source environment](https://learn.microsoft.com/en-us/azure/site-recovery/physical-azure-set-up-source)
-        - [Walkthrough-Set up disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/physical-azure-disaster-recovery)
         - [Set up the target environment](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-target)
         - [Enable on-premises replication with private endpoints](https://learn.microsoft.com/en-us/azure/site-recovery/hybrid-how-to-enable-replication-private-endpoints)
         - Deploy the Mobility service
@@ -214,11 +197,9 @@
           - [Prepare for push installation of the Mobility service](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-install-mobility-service)
           - [Deploy the Mobility service with Configuration Manager](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-mobility-install-configuration-mgr)
       - [Set up disaster recovery at scale](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-large-deployment)
-      - [Run failover and failback](https://learn.microsoft.com/en-us/azure/site-recovery/physical-to-azure-failover-failback)
       - [Enable on-premises replication with private endpoints](https://learn.microsoft.com/en-us/azure/site-recovery/hybrid-how-to-enable-replication-private-endpoints)
       - Manage
         - [Manage the Mobility service](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-manage-mobility-service)
-        - [Manage the configuration server](https://learn.microsoft.com/en-us/azure/site-recovery/physical-manage-configuration-server)
         - [Manage process servers](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-manage-process-server)
         - [Manage Site Recovery updates](https://learn.microsoft.com/en-us/azure/site-recovery/service-updates-how-to)
         - [Remove servers and disable protection](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-manage-registration-and-protection)
@@ -268,6 +249,28 @@
     - Backup center
       - [Obtain insights](https://learn.microsoft.com/en-us/azure/backup/backup-center-obtain-insights?toc=/azure/site-recovery/toc.json&bc=/azure/site-recovery/breadcrumb/toc.json)
       - [Perform actions](https://learn.microsoft.com/en-us/azure/backup/backup-center-actions?toc=/azure/site-recovery/toc.json&bc=/azure/site-recovery/breadcrumb/toc.json)
+    - Classic
+      - VMware VM
+        - [Plan capacity](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-plan-capacity-vmware)
+        - [Manage the Mobility agent](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-manage-mobility-service)
+        - [Manage the configuration server for VMware](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-manage-configuration-server)
+        - [Set up a failback process server in Azure](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-process-server-azure)
+        - [Manage process servers](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-manage-process-server)
+        - [Prepare for reprotection/failback](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-prepare-failback)
+        - [Enable on-premises replication with private endpoints](https://learn.microsoft.com/en-us/azure/site-recovery/hybrid-how-to-enable-replication-private-endpoints)
+        - [Scale out process servers for VMware replication](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-process-server-scale)
+        - [Set up disaster recovery at scale](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-large-deployment)
+        - [Set up the target environment](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-target)
+        - [Deploy a configuration server](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-deploy-configuration-server)
+        - [Manage vCenter servers](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-manage-vcenter)
+        - [Set up a Linux master target server for failback](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-install-linux-master-target)
+        - [Reprotect from Azure to on-premises](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-reprotect)
+        - [Fail back from Azure to on-premises](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-failback)
+      - Physical VM
+        - [Run failover and failback](https://learn.microsoft.com/en-us/azure/site-recovery/physical-to-azure-failover-failback)
+        - [Set up the source environment](https://learn.microsoft.com/en-us/azure/site-recovery/physical-azure-set-up-source)
+        - [Walkthrough-Set up disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/physical-azure-disaster-recovery)
+        - [Manage the configuration server](https://learn.microsoft.com/en-us/azure/site-recovery/physical-manage-configuration-server)
   - Automation
     - [Set up disaster recovery of Azure VMs using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-powershell)
     - [Set up disaster recovery on Azure Extended Zones VMs using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-replicate-vms-edge-zone-to-azure-region)
@@ -295,7 +298,7 @@
     - Troubleshoot VMware VMs/physical servers
       - [VMware VM/physical server replication errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-replication)
       - [Configuration server errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-configuration-server)
-      - [Process server errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-troubleshoot-process-server)
+      - [Process server errors Classic](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-troubleshoot-process-server)
       - [Replication appliance health](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-troubleshoot-appliance-health-issue)
       - [Mobility agent health](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-troubleshoot-mobility-agent-health)
       - [Mobility service - push installation errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-push-install)

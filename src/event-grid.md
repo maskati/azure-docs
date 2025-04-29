@@ -214,7 +214,6 @@
         - [Partner Events overview partners](https://learn.microsoft.com/en-us/azure/event-grid/partner-events-overview-for-partners)
         - Event sources publishers
           - [Auth0](https://learn.microsoft.com/en-us/azure/event-grid/auth0-overview)
-          - [SAP](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-sap-events)
           - [Tribal Group](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-tribal-group-events)
           - Microsoft Graph API
             - [Graph API event sources](https://learn.microsoft.com/en-us/azure/event-grid/partner-events-graph-api)
@@ -274,7 +273,6 @@
       - Partner Events
         - [Onboard as a partner](https://learn.microsoft.com/en-us/azure/event-grid/onboard-partner)
         - [Subscribe to partner events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-partner-events)
-        - [Subscribe to SAP events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-sap-events)
         - [Subscribe to Tribal Group events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-tribal-group-events)
         - Auth0
           - [Subscribe to Auth0 events](https://learn.microsoft.com/en-us/azure/event-grid/auth0-how-to)

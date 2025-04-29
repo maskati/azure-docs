@@ -31,9 +31,8 @@
     - [Provision a Custom Image with Azure Image Builder](https://learn.microsoft.com/en-us/azure/dev-box/how-to-customize-devbox-azure-image-builder)
   - Customize dev boxes
     - [What are Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/concept-what-are-team-customizations)
-    - [Write a customization file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-customization-file)
+    - [Write an individual customization file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-individual-customization-file)
     - [Configure imaging for Customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-customization-imaging)
-    - [Use secrets in customization files](https://learn.microsoft.com/en-us/azure/dev-box/how-to-use-secrets-customization-files)
     - [Create customization tasks](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-customization-tasks-catalog)
   - Create & connect to dev boxes
     - [Manage a dev box through developer portal](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
