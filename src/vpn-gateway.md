@@ -33,7 +33,8 @@
       - [Change a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change)
       - [Manage legacy gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
     - Public IP addresses
-      - [About public IP address Basic SKU migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-about)
+      - [About Basic SKU public IP address migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-about)
+      - [How to migrate a Basic SKU public IP address to Standard](https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-howto)
     - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
     - [About zone-redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
     - [VPN Gateway configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)

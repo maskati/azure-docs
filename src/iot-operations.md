@@ -23,14 +23,15 @@
     - Discover and manage assets
       - [Asset management overview](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-manage-assets)
       - [Understand assets and asset endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-assets-asset-endpoints)
+      - [Discover assets](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-akri)
       - [Manage your assets](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-manage-assets-remotely)
-      - [Secure access to your assets](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-secure-assets)
       - OPC UA connect to your assets
-        - [Connector for OPC UA overview](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opcua-broker)
+        - [What is connector for OPC UA?](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opcua-broker)
         - [Message format](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-opcua-message-format)
         - [OPC UA application authentication overview](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opcua-broker-certificates-management)
         - [Configure OPC UA application authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opcua-certificates-infrastructure)
         - [Configure OPC UA user authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opcua-authentication-options)
+        - [Configure and use automatic asset discovery](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-autodetect-opc-ua-assets-use-akri)
       - Connect to media sources
         - [What is the media connector?](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-media-connector)
         - [Use the media connector](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-media-connector)
@@ -107,6 +108,7 @@
       - [Azure IoT Operations release notes](https://github.com/Azure/azure-iot-operations/releases)
       - [Azure IoT Operations CLI](https://learn.microsoft.com/cli/azure/iot/ops)
       - [Azure IoT Operations REST API](https://learn.microsoft.com/rest/api/iotoperations)
+      - [Custom RBAC](https://learn.microsoft.com/en-us/azure/iot-operations/reference/custom-rbac)
       - Available metrics for observability
         - [MQTT broker](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-mqtt-broker)
         - [Connector for OPC UA](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-opcua-broker)

@@ -11,13 +11,13 @@
     - [Create a business case using imported inventory](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
   - Key Concepts
     - [Supported Geographies](https://learn.microsoft.com/en-us/azure/migrate/supported-geographies)
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-migrate-security-baseline)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-migrate-security-baseline?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
     - [Requirements for Private endpoints](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
     - [Support Matrix](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix)
   - Discover inventory
     - [Appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
     - [Discover VMware estate](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-discover-vmware?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
-    - [Scoped discovery of VMware estate](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
+    - [Scoped discovery of VMware estate](https://learn.microsoft.com/en-us/azure/migrate/vmware/set-discovery-scope?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
     - [Discover Hyper-v estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
     - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
     - Appliance configuration
@@ -67,11 +67,11 @@
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-web-app-assessment)
   - Execute Migrations
     - Server Migrations
-      - [Overview of Migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
+      - [Overview of Migration method](https://learn.microsoft.com/en-us/azure/migrate/vmware/server-migrate-overview?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - Agent-based migrations
         - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware-agent?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - Agentless migrations
-        - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware)
+        - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
         - [Agentless migrations using scripts](https://learn.microsoft.com/en-us/azure/migrate/vmware/tutorial-migrate-vmware-powershell?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
   - Modernize applications
     - Web App Migration and Modernization
@@ -102,19 +102,18 @@
         - [Containerize ASP.NET apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service)
         - [Containerize Java web apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-app-service)
         - [Modernize ASP.NET web apps to App Service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-appservice-code)
-        - [Modernize ASP.NET web apps to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-aks)
         - [CI/CD for Day 2 operations](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-azure-pipeline)
   - How-to
     - [Create project with private endpoint](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
     - [Discover and assess using Azure Private Link](https://learn.microsoft.com/en-us/azure/migrate/discover-and-assess-using-private-endpoints)
     - [Migrate servers to Azure using Private Link](https://learn.microsoft.com/en-us/azure/migrate/migrate-servers-to-azure-using-private-link)
     - [Troubleshoot network connectivity for private endpoint](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-network-connectivity)
+    - [Simplified experience for Azure migrate](https://learn.microsoft.com/en-us/azure/migrate/simplified-experience-for-azure-migrate)
     - Discovery
       - Deploy appliance
         - [Deploy appliance using script](https://learn.microsoft.com/en-us/azure/migrate/deploy-appliance-script)
         - [Deploy appliance with template](https://learn.microsoft.com/en-us/azure/migrate/how-to-set-up-appliance-physical)
       - [Deploy appliance in Azure Government](https://learn.microsoft.com/en-us/azure/migrate/deploy-appliance-script-government)
-      - [Limit discovery scope for servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
       - [Create least privilege credentials for SQL Server discovery](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
       - [Enable Arc on discovered items](https://learn.microsoft.com/en-us/azure/migrate/how-to-arc-enable-inventory)
       - [How to add server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
@@ -123,20 +122,20 @@
       - [Analyze machine dependencies agentless](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies-agentless)
     - Assessment
       - [Enable application and code assessment](https://learn.microsoft.com/en-us/azure/migrate/appcat/)
-        - [Assess large number of servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/scale-vmware-assessment)
+        - [Assess large number of servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/vmware/scale-vmware-assessment?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
         - [Assess large number of servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/scale-hyper-v-assessment)
         - [Assess large numbers of physical servers](https://learn.microsoft.com/en-us/azure/migrate/scale-physical-assessment)
     - Migrate
       - [Replicate using ExpressRoute](https://learn.microsoft.com/en-us/azure/migrate/replicate-using-expressroute)
       - [Prepare machines for migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-migration)
       - [Prepare Windows 2003 servers for migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-windows-server-2003-migration)
-      - [Migrate VMware VMs to encrypted Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate-vmware-vms-with-cmk-disks)
+      - [Migrate VMware VMs to encrypted Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/vmware/how-to-migrate-vmware-vms-with-cmk-disks?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - [Test migration](https://learn.microsoft.com/en-us/azure/migrate/how-to-test-replicating-virtual-machines)
       - [Upgrade Windows OS](https://learn.microsoft.com/en-us/azure/migrate/how-to-upgrade-windows)
       - Scale migration
         - [How to migrate VMware VMs at scale using the agentless replication method](https://learn.microsoft.com/en-us/azure/migrate/how-to-scale-out-for-migration)
         - [Automate migration of large number of VMs](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate-at-scale)
-        - [How to automate VMware migration](https://learn.microsoft.com/en-us/azure/migrate/how-to-automate-migration)
+        - [How to automate VMware migration](https://learn.microsoft.com/en-us/azure/migrate/vmware/how-to-automate-migration?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
     - Manage
       - [Manage projects](https://learn.microsoft.com/en-us/azure/migrate/create-manage-projects)
       - [Work with previous version of Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-v1)
@@ -159,8 +158,8 @@
       - [Common Issues](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment)
       - [Supported Scenarios](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment-supported-scenarios)
     - Migrate
-      - [Replication in agentless VMware migration](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-changed-block-tracking-replication)
-      - [Stuck replication and slow migration in agentless VMware](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-replication-vmware)
+      - [Replication in agentless VMware migration](https://learn.microsoft.com/en-us/azure/migrate/vmware/troubleshoot-changed-block-tracking-replication?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
+      - [Stuck replication and slow migration in agentless VMware](https://learn.microsoft.com/en-us/azure/migrate/vmware/troubleshoot-replication-vmware?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - [Web app migration issues](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-webapps-migration)
       - [Windows OS upgrade issues](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-upgrade)
   - FAQs

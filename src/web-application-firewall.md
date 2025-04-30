@@ -92,6 +92,7 @@
     - [Application DDoS protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/application-ddos-protection)
     - [Microsoft Copilot for Security](https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-copilot)
     - [JavaScript challenge](https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-javascript-challenge)
+    - [CAPTCHA challenge](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/captcha-challenge)
   - Operational excellence
     - Application Gateway
       - [Best practices](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/best-practices)

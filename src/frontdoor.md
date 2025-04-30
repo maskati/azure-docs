@@ -4,9 +4,9 @@
   - Get started
     - [What is Azure Front Door?](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview)
     - [Front Door and CDN comparison](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-cdn-comparison)
-    - [Well-Architected review of Front Door](https://learn.microsoft.com/azure/well-architected/service-guides/azure-front-door)
+    - [Well-Architected review of Front Door](https://learn.microsoft.com/azure/well-architected/service-guides/azure-front-door?toc=/azure/frontdoor/TOC.json)
     - [Front Door best practices](https://learn.microsoft.com/en-us/azure/frontdoor/best-practices)
-    - [Choosing the right load balancer](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/frontdoor/standard-premium/toc.json)
+    - [Choosing the right load balancer](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/frontdoor/TOC.json)
     - [FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-faq.yml)
   - Design & plan
     - [Routing architecture](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-standard-premium)
@@ -25,19 +25,18 @@
       - [Create a Front Door - ARM template](https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-template)
       - [Create a Front Door - Terraform](https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-terraform)
     - Endpoints
-      - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/endpoint)
+      - [Endpoints in Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/endpoint)
       - [Front Door manager](https://learn.microsoft.com/en-us/azure/frontdoor/manager)
       - [Create a new endpoint](https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-endpoints)
       - Domains
-        - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/domain)
-        - Front Door
-          - [Add a custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-add-custom-domain)
-          - [Configure HTTPS on a custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-https-custom-domain)
-          - [Apex domains](https://learn.microsoft.com/en-us/azure/frontdoor/apex-domain)
-          - [Add a root or apex domain](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-onboard-apex-domain?pivots=front-door-standard-premium)
-          - [Wildcard domains](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-standard-premium)
+        - [Domains in Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/domain)
+        - [Add a custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-add-custom-domain)
+        - [Configure HTTPS on a custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-https-custom-domain)
+        - [Apex domains](https://learn.microsoft.com/en-us/azure/frontdoor/apex-domain)
+        - [Add a root or apex domain](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-onboard-apex-domain?pivots=front-door-standard-premium)
+        - [Wildcard domains](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-standard-premium)
     - Rules engine
-      - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-standard-premium)
+      - [What is a rule set?](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-standard-premium)
       - [Match conditions](https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-standard-premium)
       - [Actions](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-standard-premium)
       - [Configure a rule set](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-rule-set)
@@ -46,13 +45,13 @@
       - [URL rewrite](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium)
       - [URL redirect](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-standard-premium)
     - Origins
-      - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/origin)
+      - [Origins and origin groups](https://learn.microsoft.com/en-us/azure/frontdoor/origin)
       - [Traffic acceleration](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-standard-premium)
       - [Origin selection](https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods)
       - [Health probes](https://learn.microsoft.com/en-us/azure/frontdoor/health-probes)
       - [Add origins to origin group](https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-origin)
     - Private Link
-      - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/private-link)
+      - [Secure your origin with Private Link](https://learn.microsoft.com/en-us/azure/frontdoor/private-link)
       - Enable Private Link to secure origins
         - [Connect to an internal load balancer](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-internal-load-balancer)
         - Connect to Azure Storage Account
@@ -65,7 +64,7 @@
         - [Connect to Azure Application Gateway](https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-application-gateway)
         - [Connect to Azure API Management](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-apim)
     - Caching
-      - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-standard-premium)
+      - [Caching with Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-standard-premium)
       - [Configure caching](https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-caching)
       - Purge Front Door cache
         - [Azure portal](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-cache-purge)
@@ -76,7 +75,6 @@
       - [Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/front-door-api-management?toc=/azure/frontdoor/toc.json)
       - [Azure OpenAI](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai?toc=/azure/frontdoor/toc.json)
       - [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/front-door-manual?toc=/azure/frontdoor/toc.json)
-      - [Azure Spring Apps](https://learn.microsoft.com/azure/architecture/web-apps/spring-apps/guides/spring-cloud-reverse-proxy?toc=/azure/frontdoor/toc.json)
   - Migration and upgrades
     - Migrate to Standard or Premium tier
       - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/tier-migration)
@@ -98,15 +96,15 @@
     - [DDoS protection](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos)
     - [End-to-end TLS encryption](https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls)
     - TLS policy
-      - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/tls-policy)
+      - [Front Door TLS policy](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/tls-policy)
       - [Configure TLS policy](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/tls-policy-configure)
     - [Set up managed identity](https://learn.microsoft.com/en-us/azure/frontdoor/managed-identity)
     - Sensitive data protection
-      - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/sensitive-data-protection)
+      - [Front Door sensitive data protection](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/sensitive-data-protection)
       - [Enable log scrubbing](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-protect-sensitive-data)
     - [Secure traffic to origins](https://learn.microsoft.com/en-us/azure/frontdoor/origin-security)
     - Web Application Firewall
-      - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/web-application-firewall)
+      - [Web Application Firewall WAF on Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/web-application-firewall)
       - [Configure a security policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal?toc=/azure/frontdoor/toc.json)
       - [Geo-filtering](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering?toc=/azure/frontdoor/toc.json)
       - [Configure geo-filtering](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering?toc=/azure/frontdoor/toc.json)

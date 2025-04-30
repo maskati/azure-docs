@@ -71,7 +71,7 @@
     - [REST API](https://learn.microsoft.com/rest/api/devcenter/)
     - [Monitoring Microsoft DevCenter data reference](https://learn.microsoft.com/en-us/azure/dev-box/monitor-dev-box-reference)
   - Resources
-    - [Azure roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure updates](https://azure.microsoft.com/updates/?filters=%5B"Microsoft+Dev+Box"%5D)
     - [Azure regions supported by Dev Box](https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=dev-box)
     - [FAQ](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-faq.yml)
     - [Report a problem](https://aka.ms/devbox/report)

@@ -50,7 +50,7 @@
     - [Azure CLI - devcenter](https://aka.ms/CLI-reference)
     - [REST API](https://learn.microsoft.com/rest/api/devcenter/)
   - Resources
-    - [Azure roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure updates](https://azure.microsoft.com/updates/?filters=%5B"Azure+Deployment+Environments"%5D)
     - [Regional availability](https://azure.microsoft.com/regions/services/)
     - [Report a problem](https://aka.ms/deployment-environments/reportproblem)
     - [Suggest a feature](https://aka.ms/deployment-environments/suggestfeature)
