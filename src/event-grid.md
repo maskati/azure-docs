@@ -54,7 +54,7 @@
         - [Create and manage namespaces](https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-namespaces)
         - [Customer enabled disaster recovery](https://learn.microsoft.com/en-us/azure/event-grid/custom-disaster-recovery-client-side)
         - [How to configure multiple sessions for an MQTT client](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-establishing-multiple-sessions-per-client)
-        - [Send events to Microsoft Fabric via Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-events-fabric)
+        - [Send MQTT events to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-events-fabric)
         - [MQTT Request Response messaging](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-request-response-messages)
         - [Assign custom domain name to a namespace](https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name)
         - [Authenticate with MQTT broker using OAuth 2.0 authentication](https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-json-web-tokens)

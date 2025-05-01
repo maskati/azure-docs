@@ -229,6 +229,7 @@
   - Billing & quotas
     - [Billing](https://learn.microsoft.com/en-us/azure/container-apps/billing)
     - [Quotas](https://learn.microsoft.com/en-us/azure/container-apps/quotas)
+    - [Make quota requests](https://learn.microsoft.com/en-us/azure/container-apps/quota-requests)
   - Product updates
     - [What's new](https://learn.microsoft.com/en-us/azure/container-apps/whats-new)
   - API docs & reference
