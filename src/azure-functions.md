@@ -44,6 +44,7 @@
       - Resource Manager
         - [Bicep](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-bicep)
         - [ARM template](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-resource-manager)
+        - [Terraform](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-terraform)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container-apps)
     - Connect to storage
       - C#
@@ -174,9 +175,11 @@
     - [Supported languages](https://learn.microsoft.com/en-us/azure/azure-functions/supported-languages)
     - C#
       - [Isolated worker model](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide)
-      - [In-process model](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library)
-      - [Script .csx](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-csharp)
-      - [Execution mode comparison](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-in-process-differences)
+      - [.NET Aspire integration Preview](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-aspire-integration)
+      - Legacy models
+        - [Execution mode comparison](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-in-process-differences)
+        - [In-process model](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library)
+        - [Script .csx](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-csharp)
     - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=javascript)
     - [TypeScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=typescript)
     - [Java](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-java)

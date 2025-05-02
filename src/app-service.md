@@ -222,7 +222,10 @@
     - [Deploy a .NET app with Azure OpenAI and Azure SQL](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps-dotnet-to-azure-sql)
     - [Invoke OpenAPI app from Azure AI Agent](https://learn.microsoft.com/en-us/azure/app-service/invoke-openapi-web-app-from-azure-ai-agent-service)
   - WebJobs
-    - [Create WebJobs](https://learn.microsoft.com/en-us/azure/app-service/webjobs-create)
+    - [Overview](https://learn.microsoft.com/en-us/azure/app-service/overview-webjobs)
+    - [WebJobs Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-webjobs)
+    - [WebJobs Tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-webjobs)
+    - [WebJobs How-to](https://learn.microsoft.com/en-us/azure/app-service/webjobs-create)
     - [Develop WebJobs using VS](https://learn.microsoft.com/en-us/azure/app-service/webjobs-dotnet-deploy-vs)
     - [Get started with WebJobs SDK](https://learn.microsoft.com/en-us/azure/app-service/webjobs-sdk-get-started)
     - [Use WebJobs SDK](https://learn.microsoft.com/en-us/azure/app-service/webjobs-sdk-how-to)

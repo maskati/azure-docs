@@ -178,10 +178,9 @@
       - [Compare Windows App across platforms](https://learn.microsoft.com/windows-app/compare-platforms-features?pivots=azure-virtual-desktop)
       - [Windows App documentation](https://learn.microsoft.com/windows-app/)
     - Remote Desktop client
-      - [Remote Desktop client overview](https://learn.microsoft.com/previous-versions/remote-desktop-client/overview)
-      - [Compare the Remote Desktop client across platforms](https://learn.microsoft.com/previous-versions/remote-desktop-client/compare-remote-desktop-clients?pivots=azure-virtual-desktop)
-      - [Install the Remote Desktop client for Windows on a per-user basis](https://learn.microsoft.com/previous-versions/remote-desktop-client/install-windows-client-per-user)
-      - [Remote Desktop client documentation](https://learn.microsoft.com/previous-versions/remote-desktop-client/)
+      - [Connect with the Remote Desktop client](https://learn.microsoft.com/en-us/azure/virtual-desktop/remote-desktop-client/connect-windows-cloud-services)
+      - [Install the Remote Desktop client for Windows on a per-user basis](https://learn.microsoft.com/en-us/azure/virtual-desktop/remote-desktop-client/install-windows-client-per-user)
+      - [Use features of the Remote Desktop client](https://learn.microsoft.com/en-us/azure/virtual-desktop/remote-desktop-client/client-features-windows-msrdc)
     - Peripheral and resource redirection
       - [Peripheral and resource redirection overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/redirection-remote-desktop-protocol)
       - Guides

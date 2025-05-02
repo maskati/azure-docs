@@ -4,12 +4,7 @@
   - Overview
     - [What is Azure NAT Gateway?](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview)
   - Quickstarts
-    - [Portal](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-portal)
-    - [PowerShell](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-powershell)
-    - [CLI](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-cli)
-    - [Bicep](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-bicep)
-    - [ARM template](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-template)
-    - [Terraform](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-terraform)
+    - [Create and validate Azure NAT Gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway)
   - Tutorials
     - [Use a NAT gateway with a hub and spoke network](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-hub-spoke-route-nat)
     - [Use a NAT gateway with Azure Firewall](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-hub-spoke-nat-firewall)
