@@ -233,6 +233,7 @@
   - Product updates
     - [What's new](https://learn.microsoft.com/en-us/azure/container-apps/whats-new)
   - API docs & reference
+    - [Azure Container Apps extension release notes](https://learn.microsoft.com/en-us/azure/container-apps/container-apps-extension-release-notes)
     - [ARM & YAML specifications](https://learn.microsoft.com/en-us/azure/container-apps/azure-resource-manager-api-spec)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/containerapp?view=azure-cli-latest&preserve-view=true)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.app/)
