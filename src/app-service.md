@@ -223,9 +223,11 @@
     - [Invoke OpenAPI app from Azure AI Agent](https://learn.microsoft.com/en-us/azure/app-service/invoke-openapi-web-app-from-azure-ai-agent-service)
   - WebJobs
     - [Overview](https://learn.microsoft.com/en-us/azure/app-service/overview-webjobs)
+    - [Background jobs best practices](https://learn.microsoft.com/azure/architecture/best-practices/background-jobs?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
     - [WebJobs Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-webjobs)
     - [WebJobs Tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-webjobs)
-    - [WebJobs How-to](https://learn.microsoft.com/en-us/azure/app-service/webjobs-create)
+    - [How to create WebJobs](https://learn.microsoft.com/en-us/azure/app-service/webjobs-create)
+    - [How WebJobs work](https://learn.microsoft.com/en-us/azure/app-service/webjobs-execution)
     - [Develop WebJobs using VS](https://learn.microsoft.com/en-us/azure/app-service/webjobs-dotnet-deploy-vs)
     - [Get started with WebJobs SDK](https://learn.microsoft.com/en-us/azure/app-service/webjobs-sdk-get-started)
     - [Use WebJobs SDK](https://learn.microsoft.com/en-us/azure/app-service/webjobs-sdk-how-to)
