@@ -35,6 +35,7 @@
     - [Review discovered inventory](https://learn.microsoft.com/en-us/azure/migrate/how-to-review-discovered-inventory)
     - [Tags](https://learn.microsoft.com/en-us/azure/migrate/resource-tagging)
   - Create Business case
+    - [Business case overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-business-case-calculation)
     - [Build a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
     - [Review business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-view-a-business-case)
   - Plan migrations
@@ -140,7 +141,7 @@
       - [Manage projects](https://learn.microsoft.com/en-us/azure/migrate/create-manage-projects)
       - [Work with previous version of Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-v1)
       - [Onboard on-premises servers in VMware virtual environment to Azure Arc](https://learn.microsoft.com/en-us/azure/migrate/onboard-to-azure-arc-with-azure-migrate)
-      - [Manage migration projects with Azure Lighthouse](https://learn.microsoft.com/lighthouse/how-to/migration-at-scale?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
+      - [Manage migration projects with Azure Lighthouse](https://learn.microsoft.com/azure/lighthouse/how-to/migration-at-scale?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
   - Troubleshoot
     - Azure Migrate Project
       - [Troubleshoot Azure Migrate projects](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-project)

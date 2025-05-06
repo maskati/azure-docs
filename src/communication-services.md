@@ -8,6 +8,7 @@
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
   - Fundamentals
     - [Create a Communication Services resource](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/create-communication-resource)
+    - [Managed applications](https://learn.microsoft.com/en-us/azure/communication-services/concepts/managed-apps)
     - [SDKs and APIs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sdk-options)
     - [Service limits](https://learn.microsoft.com/en-us/azure/communication-services/concepts/service-limits)
     - Privacy, compliance, and security

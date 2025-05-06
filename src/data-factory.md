@@ -319,6 +319,7 @@
       - [Azure Function activity](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-azure-function-activity)
       - [Custom activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-custom-activity)
       - [Databricks Jar activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-databricks-jar)
+      - [Databricks Job activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-databricks-job)
       - [Databricks Notebook activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-databricks-notebook)
       - [Databricks Python activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-databricks-python)
       - [Data Explorer Command activity](https://learn.microsoft.com/azure/data-explorer/data-factory-command-activity?toc=/azure/data-factory/toc.json)
