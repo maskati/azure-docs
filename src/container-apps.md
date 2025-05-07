@@ -38,7 +38,6 @@
     - [Planned maintenance](https://learn.microsoft.com/en-us/azure/container-apps/planned-maintenance)
     - [Build and deliver apps with Container Apps video](https://youtu.be/OxmVds31qL8)
     - [Communicate between multiple apps](https://learn.microsoft.com/en-us/azure/container-apps/connect-apps)
-    - [Reduce cold-start times](https://learn.microsoft.com/en-us/azure/container-apps/cold-start)
   - Develop & deploy
     - [Deployment options](https://learn.microsoft.com/en-us/azure/container-apps/code-to-cloud-options)
     - [Deploy an app with containerapp up](https://learn.microsoft.com/en-us/azure/container-apps/containerapp-up)
@@ -109,6 +108,7 @@
   - Scaling & performance
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/scale-app)
     - [Scale a container app](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-scaling)
+    - [Reduce cold-start times](https://learn.microsoft.com/en-us/azure/container-apps/cold-start)
   - Domains & certificates
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/certificates-overview)
     - [Custom domain with a free certificate](https://learn.microsoft.com/en-us/azure/container-apps/custom-domains-managed-certificates)

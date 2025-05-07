@@ -1,5 +1,5 @@
 # Azure IoT documentation
-> The Azure Internet of Things (IoT) is a collection of Microsoft-managed cloud and edge services that connect, monitor, and control billions of IoT assets.
+> The Azure Internet of Things (IoT) is a collection of Microsoft-managed cloud services, edge components, and SDKs that let you connect, monitor, and control your IoT devices and assets at scale.
   - [Azure Internet of Things documentation](https://learn.microsoft.com/en-us/azure/iot/)
   - Overview
     - [Introduction](https://learn.microsoft.com/en-us/azure/iot/iot-introduction)

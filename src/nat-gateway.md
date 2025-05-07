@@ -1,36 +1,32 @@
 # Azure NAT Gateway documentation
 > Learn how to use NAT gateway. Quickstarts, tutorials, samples, and more, show you how to deploy a NAT gateway.
   - [Azure NAT Gateway documentation](https://learn.microsoft.com/en-us/azure/nat-gateway/)
-  - Overview
+  - Get started
     - [What is Azure NAT Gateway?](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview)
-  - Quickstarts
     - [Create and validate Azure NAT Gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway)
-  - Tutorials
+    - [Availability zones](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-availability-zones)
+    - [NAT gateway resource](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-resource)
+  - Deploy
+    - [NAT gateway design guidance](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-design)
     - [Use a NAT gateway with a hub and spoke network](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-hub-spoke-route-nat)
     - [Use a NAT gateway with Azure Firewall](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-hub-spoke-nat-firewall)
     - [Integrate NAT gateway public load balancer](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-nat-gateway-load-balancer-public-portal)
     - [Integrate NAT gateway internal load balancer](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-nat-gateway-load-balancer-internal-portal)
     - [Migrate outbound access](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-migrate-outbound-nat)
     - [Migrate a virtual machine public IP address](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-migrate-ilip-nat)
-  - Concepts
-    - [NAT gateway resource](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-resource)
-    - [Availability zones](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-availability-zones)
-    - Security
-      - [NAT gateway security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-nat-security-baseline)
-      - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+  - Secure
+    - [NAT gateway security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-nat-security-baseline)
+    - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+  - Connectivity
     - [SNAT with NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-snat)
-    - [NAT gateway design guidance](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-design)
-    - [Metrics and alerts](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-metrics)
-  - How-to
-    - [Monitor NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/monitor-nat-gateway)
-    - [Resource health](https://learn.microsoft.com/en-us/azure/nat-gateway/resource-health)
+  - Manage and monitor
     - [Manage NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/manage-nat-gateway)
-    - Move across regions
-      - [Create and configure NAT gateway after region move](https://learn.microsoft.com/en-us/azure/nat-gateway/region-move-nat-gateway)
-    - Troubleshoot
-      - [Troubleshoot NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat)
-      - [Troubleshoot NAT gateway connectivity](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat-connectivity)
-      - [Troubleshoot NAT gateway and Azure services](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat-and-azure-services)
+    - [Create and configure NAT gateway after region move](https://learn.microsoft.com/en-us/azure/nat-gateway/region-move-nat-gateway)
+    - [Metrics and alerts](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-metrics)
+  - Troubleshoot
+    - [Troubleshoot NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat)
+    - [Troubleshoot NAT gateway connectivity](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat-connectivity)
+    - [Troubleshoot NAT gateway and Azure services](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat-and-azure-services)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/azure-cli-reference-for-network)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)

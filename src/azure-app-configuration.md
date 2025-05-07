@@ -110,6 +110,7 @@
     - [Reference for monitoring data](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration-reference)
   - Resource management
     - [Move a resource between Azure regions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-move-resource-between-regions)
+    - [Preview API life cycle](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-preview-api-life-cycle)
   - Security
     - Authentication
       - [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-enable-rbac)

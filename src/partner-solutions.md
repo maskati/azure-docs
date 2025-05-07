@@ -12,6 +12,7 @@
     - [Elastic](https://learn.microsoft.com/en-us/azure/partner-solutions/elastic/)
     - [Informatica](https://learn.microsoft.com/en-us/azure/partner-solutions/informatica/)
     - [LambdaTest - HyperExecute preview](https://learn.microsoft.com/en-us/azure/partner-solutions/lambda-test/)
+    - [MongoDB Atlas preview](https://learn.microsoft.com/en-us/azure/partner-solutions/mongo-db/)
     - [Neon Serverless Postgres preview](https://learn.microsoft.com/en-us/azure/partner-solutions/neon/)
     - [New Relic](https://learn.microsoft.com/en-us/azure/partner-solutions/new-relic/)
     - [Palo Alto Network](https://learn.microsoft.com/en-us/azure/partner-solutions/palo-alto/)
