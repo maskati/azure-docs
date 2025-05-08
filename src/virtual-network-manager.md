@@ -59,6 +59,7 @@
     - [Prevent overlapping IP address spaces with Azure Policy and IPAM](https://learn.microsoft.com/en-us/azure/virtual-network-manager/Prevent-overlapping-ip-address-space-policy-ipam)
     - [Create IP address pools with IPAM](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-manage-ip-addresses-network-manager)
   - Troubleshoot
+    - [Common issues](https://learn.microsoft.com/en-us/azure/virtual-network-manager/common-issues)
     - [Event Log Options for Azure Virtual Network Manager](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-event-logs)
     - [Configure Event Logs for Azure Virtual Network Manager](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-event-logs)
     - [Monitoring security admin rules with Virtual Network Flow Logs](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-virtual-network-flow-logs)

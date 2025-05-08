@@ -58,6 +58,7 @@
       - [Add and run C# scripts](https://learn.microsoft.com/en-us/azure/logic-apps/add-run-csharp-scripts)
       - [Add and run PowerShell scripts](https://learn.microsoft.com/en-us/azure/logic-apps/add-run-powershell-scripts)
       - [Parse or chunk content](https://learn.microsoft.com/en-us/azure/logic-apps/parse-document-chunk-text)
+      - [Create chat completions with prompt templates](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/create-chat-completions-prompt-template)
       - [Edit app and host settings](https://learn.microsoft.com/en-us/azure/logic-apps/edit-app-settings-host-settings)
       - [Enable stateful mode for stateless built-in connectors](https://learn.microsoft.com/en-us/azure/connectors/enable-stateful-affinity-built-in-connectors)
       - [Create custom built-in connectors](https://learn.microsoft.com/en-us/azure/logic-apps/create-custom-built-in-connector-standard)

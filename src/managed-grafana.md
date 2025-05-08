@@ -46,7 +46,9 @@
     - [Migrate to Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-migrate)
     - [Configure Grafana settings](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-settings)
     - [Upgrade to Grafana 11](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-upgrade-grafana-11)
-    - [Troubleshoot common issues](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-managed-grafana)
+    - Troubleshoot issues
+      - [Troubleshoot common issues](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-managed-grafana)
+      - [Troubleshoot connecting managed private endpoint to a private link service](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-mpe-connection)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/grafana)
     - [ARM, Bicep and Terraform templates](https://learn.microsoft.com/azure/templates/microsoft.dashboard/2021-09-01-preview/grafana)

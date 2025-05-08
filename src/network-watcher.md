@@ -46,6 +46,8 @@
         - [Azure CLI](https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem-cli)
     - Effective security rules
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/effective-security-rules-overview)
+    - VM Network Troubleshooter
+      - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/vm-network-troubleshooter)
     - VPN troubleshoot
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/vpn-troubleshoot-overview)
       - Troubleshoot VPN gateway and connections
