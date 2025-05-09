@@ -91,7 +91,7 @@
         - [Build an event-driven app with Dapr](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/tutorial-event-driven-with-dapr)
       - [Develop MQTTnet apps](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/howto-develop-mqttnet-apps)
     - Tutorials
-      - Get started end-to-end
+      - End-to-end sample
         - [Add OPC UA assets to your cluster](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-add-assets)
         - [Upload data to the cloud](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-upload-telemetry-to-cloud)
         - [Get insights from your data](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-get-insights)

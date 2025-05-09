@@ -6,6 +6,7 @@
   - Concepts
     - [Resource Types](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-resource-types)
     - [Compute overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-compute)
+    - [Telco Input Template](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-telco-input-template)
     - Storage
       - [Storage overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage)
       - [Multiple storage appliances](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-storage-multiple-appliances)
@@ -162,6 +163,7 @@
     - General
       - [Check runtime version](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-check-runtime-version)
       - [Site decommission checklist](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-decommission-nexus-instance-checklist)
+      - [Nexus Instance Deployment Template](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-nexus-instance-deployment-template)
   - Troubleshooting
     - Network Fabric
       - [Troubleshoot Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-isolation-domain)
