@@ -52,7 +52,7 @@
 [Azure Deployment Environments documentation](./deployment-environments.md)
 [Microsoft Dev Box documentation](./dev-box.md)
 [Azure DevTest Labs documentation](./devtest-labs.md)
-[Azure Digital Twins Documentation](./digital-twins.md)
+[Azure Digital Twins documentation](./digital-twins.md)
 [Azure DNS documentation](./dns.md)
 [Azure Education Hub documentation](./education-hub.md)
 [Microsoft Azure Data Manager for Energy documentation](./energy-data-services.md)

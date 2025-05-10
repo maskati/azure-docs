@@ -538,6 +538,7 @@
         - [Change data capture troubleshooting](https://learn.microsoft.com/en-us/azure/data-factory/change-data-capture-troubleshoot)
       - Connectors
         - [Overview and general copy activity errors](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-guide)
+        - [Amazon S3](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-amazon-simple-storage-service)
         - [Azure Blob Storage](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-azure-blob-storage)
         - [Azure Cosmos DB including Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-azure-cosmos-db)
         - [Azure Data Explorer](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-azure-data-explorer)

@@ -3,6 +3,7 @@
   - Quickstarts
     - [Create in the Azure portal](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/quickstart-create-portal)
     - [Create with ARM template](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/quickstart-create-rest-api)
+    - [Create using Azure CLI](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/quickstart-create-azure-cli)
   - [Allocation strategies](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/allocation-strategies)
   - [Spot VM configuration](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/spot-vm-configuration)
   - [Attribute based VM selection Preview](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/attribute-based-vm-selection)

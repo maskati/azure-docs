@@ -25,6 +25,8 @@
         - [Discover .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-discover-net)
         - [Migrate .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-asp-net-migration)
         - [Migrate containerized .NET](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service?bc=/azure/bread/toc.json&toc=/azure/app-service/toc.json)
+      - AI
+        - [Local SLM with sidecar extension](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-dotnet)
     - Java
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-java)
       - Configure
@@ -44,6 +46,8 @@
         - [JBoss EAP](https://learn.microsoft.com/azure/developer/java/migration/migrate-jboss-eap-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
         - [WebLogic](https://learn.microsoft.com/azure/developer/java/migration/migrate-weblogic-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
         - [WebSphere](https://learn.microsoft.com/azure/developer/java/migration/migrate-websphere-to-jboss-eap-on-azure-app-service?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+      - AI
+        - [Local SLM with sidecar extension](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-spring-boot)
     - Node.js
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs)
       - [Configure](https://learn.microsoft.com/en-us/azure/app-service/configure-language-nodejs)
@@ -52,6 +56,8 @@
         - [to Microsoft Graph with managed identity](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-microsoft-graph-as-app-javascript)
         - [to Microsoft Graph as User](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-microsoft-graph-as-user-javascript)
         - [to other Azure services with managed identity](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-access-storage-javascript)
+      - AI
+        - [Local SLM with sidecar extension](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-expressjs)
     - Python
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python)
       - [Configure](https://learn.microsoft.com/en-us/azure/app-service/configure-language-python)
@@ -60,6 +66,8 @@
         - [using Flask with managed identity](https://learn.microsoft.com/azure/developer/python/tutorial-python-managed-identity-cli?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
         - [using Django](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-django)
         - [using FastAPI](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app-fastapi)
+      - AI
+        - [Local SLM with sidecar extension](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-fastapi)
     - PHP
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-php)
       - [Configure](https://learn.microsoft.com/en-us/azure/app-service/configure-language-php)
@@ -218,7 +226,6 @@
       - [Deploy with Azure Pipelines](https://learn.microsoft.com/en-us/azure/app-service/deploy-container-azure-pipelines)
   - Integrate AI with App Service
     - [Deploy an application that uses OpenAI on App Service](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps)
-    - [Run an SLM in sidecar](https://learn.microsoft.com/en-us/azure/app-service/tutorial-sidecar-local-small-language-model)
     - [Deploy a .NET app with Azure OpenAI and Azure SQL](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps-dotnet-to-azure-sql)
     - [Invoke OpenAPI app from Azure AI Agent](https://learn.microsoft.com/en-us/azure/app-service/invoke-openapi-web-app-from-azure-ai-agent-service)
   - WebJobs

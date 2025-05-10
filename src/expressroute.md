@@ -146,6 +146,7 @@
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/expressroute/toc.json)
       - [Hybrid connectivity for remote users](https://learn.microsoft.com/en-us/azure/expressroute/work-remotely-support)
   - Troubleshoot
+    - [Troubleshoot gateway migration](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration-error-messaging)
     - [Obtain correlation ID](https://learn.microsoft.com/en-us/azure/expressroute/get-correlation-id)
     - [Verifying ExpressRoute connectivity](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-expressroute-overview)
     - [Resolving network performance issues](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-network-performance)

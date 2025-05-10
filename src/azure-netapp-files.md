@@ -221,7 +221,7 @@
         - [Restore a backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-restore-new-volume)
         - [Delete backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-delete)
       - Manage replication
-        - [Create cross-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-create-peering)
+        - [Create volume replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-create-peering)
         - [Display health and monitor status of replication relationship](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-display-health-status)
         - [Manage disaster recovery](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-manage-disaster-recovery)
         - [Delete volume replications or volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-delete)

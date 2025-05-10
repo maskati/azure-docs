@@ -23,7 +23,7 @@
       - [Frontend IP address](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-frontend-ip)
       - [Listeners](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-listeners)
       - [Request routing rules](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules)
-      - [HTTP settings](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-http-settings)
+      - [Backend settings](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-http-settings)
     - Routing
       - [Multi-site hosting](https://learn.microsoft.com/en-us/azure/application-gateway/multiple-site-overview)
       - [URL routing](https://learn.microsoft.com/en-us/azure/application-gateway/url-route-overview)

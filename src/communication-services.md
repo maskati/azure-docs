@@ -13,6 +13,7 @@
     - [Service limits](https://learn.microsoft.com/en-us/azure/communication-services/concepts/service-limits)
     - Privacy, compliance, and security
       - [Data residency and user privacy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/privacy)
+      - [Create a Network Security Perimeter NSP](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/network-security-perimeter)
       - [European Union Data Boundary](https://learn.microsoft.com/en-us/azure/communication-services/concepts/european-union-data-boundary)
       - [Azure Government](https://learn.microsoft.com/en-us/azure/communication-services/concepts/government)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-communication-services-security-baseline?toc=/azure/communication-services/toc.json)
@@ -70,6 +71,7 @@
       - [Enable push notifications in your chat app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/add-chat-push-notifications)
       - [Build an authentication service using Azure Functions](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/trusted-service-tutorial)
       - [Add a bot to your chat app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/quickstart-botframework-integration)
+      - [Integrate an OpenAI bot with chat](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/openai-chat-bot-integration)
       - [Integrate with data loss prevention policies](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/chat-sdk/data-loss-prevention)
       - [Chat hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/chat-hero-sample)
       - [Authentication service hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/trusted-auth-sample)
@@ -606,6 +608,7 @@
     - [Client raw audio and video](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/media-access)
     - Samples and tutorials
       - [Add a bot to your chat app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/quickstart-botframework-integration)
+      - [Integrate an OpenAI bot with chat](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/openai-chat-bot-integration)
       - [Client background effects](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-video-effects)
       - [Client noise enhancement and effects](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/audio-quality-enhancements/add-noise-supression)
   - UI Library
