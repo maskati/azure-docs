@@ -32,7 +32,7 @@
   - Customize dev boxes
     - [What are Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/concept-what-are-team-customizations)
     - [Write an image definition file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-image-definition-file)
-    - [Write an individual customization file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-individual-customization-file)
+    - [Write a user customization file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-user-customization-file)
     - [Configure imaging for Customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-customization-imaging)
     - [Create customization tasks](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-customization-tasks-catalog)
     - [Use customization files to clone private repositories](https://learn.microsoft.com/en-us/azure/dev-box/how-to-use-secrets-customization-files)
