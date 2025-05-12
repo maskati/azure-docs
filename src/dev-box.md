@@ -69,6 +69,7 @@
   - Reference
     - [Install Azure CLI devcenter extension](https://learn.microsoft.com/en-us/azure/dev-box/how-to-install-dev-box-cli)
     - [Azure CLI - az devcenter](https://learn.microsoft.com/cli/azure/service-page/microsoft dev box and azure deployment environments)
+    - [Customizations YAML schema](https://learn.microsoft.com/en-us/azure/dev-box/reference-dev-box-customizations)
     - [Authenticate to REST APIs](https://learn.microsoft.com/en-us/azure/dev-box/how-to-authenticate)
     - [REST API](https://learn.microsoft.com/rest/api/devcenter/)
     - [Monitoring Microsoft DevCenter data reference](https://learn.microsoft.com/en-us/azure/dev-box/monitor-dev-box-reference)
