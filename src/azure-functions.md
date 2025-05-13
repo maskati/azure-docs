@@ -324,6 +324,7 @@
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
   - Migration guides
     - Migrate from AWS Lambda
+      - [Migrate from AWS Lambda](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-aws-lambda-to-azure-functions)
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-lambda-workloads-overview)
       - [Discover](https://learn.microsoft.com/en-us/azure/azure-functions/migration/discover-lambda-workloads)
       - [Assess](https://learn.microsoft.com/en-us/azure/azure-functions/migration/assess-lambda-workloads)

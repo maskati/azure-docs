@@ -568,6 +568,7 @@
         - [Create calling widget for Teams voice apps using React](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/calling-widget/calling-widget-tutorial)
         - [Create calling widget for Teams voice apps using JavaScript](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/calling-widget/calling-widget-js-tutorial)
       - [Enable audio conferencing](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/audio-conferencing)
+      - [Manage Teams meeting lobby](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/lobby)
       - [Enable breakout rooms](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/breakoutrooms)
       - [Enable Together Mode](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/together-mode)
       - [Control media access](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/media-access)

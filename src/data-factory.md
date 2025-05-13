@@ -564,6 +564,7 @@
         - [ServiceNow](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-servicenow)
         - [SharePoint Online list](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-sharepoint-online-list)
         - [Snowflake](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-snowflake)
+        - [Teradata](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-teradata)
         - [XML format](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-xml)
       - [Pipeline Triggers](https://learn.microsoft.com/en-us/azure/data-factory/pipeline-trigger-troubleshoot-guide)
       - Data Flows

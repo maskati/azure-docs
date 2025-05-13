@@ -20,6 +20,7 @@
         - [Deploy Virtual WAN with routing intent and routing policies](https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.network/virtual-wan-routing-intent)
   - Design & architecture
     - [Migrate to Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
+    - [Interconnect Virtual WANs](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-connectivity)
     - [Global transit network architecture](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-global-transit-network-architecture)
     - [SD-WAN connectivity architecture](https://learn.microsoft.com/en-us/azure/virtual-wan/sd-wan-connectivity-architecture)
     - [Private Link and DNS architecture for Virtual WAN](https://learn.microsoft.com/azure/architecture//guide/networking/private-link-virtual-wan-dns-guide?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)

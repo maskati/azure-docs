@@ -21,7 +21,6 @@
     - [Build real-time dashboards with no code editor](https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-power-bi-tutorial)
     - [Visualize fraudulent calls in Power BI](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-real-time-fraud-detection)
     - [Integrate third party services using Azure Functions](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-with-azure-functions)
-    - [Create a custom .NET deserializer](https://learn.microsoft.com/en-us/azure/stream-analytics/visual-studio-code-custom-deserializer)
     - [Create an IoT Edge job](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics)
   - Samples
     - Code samples
@@ -48,7 +47,6 @@
       - [Reference data inputs](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-use-reference-data)
       - [Kafka input](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-define-kafka-input)
       - [Validate input schema](https://learn.microsoft.com/en-us/azure/stream-analytics/input-validation)
-      - [Read inputs in any format using custom deserializers](https://learn.microsoft.com/en-us/azure/stream-analytics/custom-deserializer-examples)
     - Output types for a job
       - [Outputs overview](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-define-outputs)
       - Azure SQL Database
@@ -180,7 +178,6 @@
       - [Run jobs locally with VS Code](https://learn.microsoft.com/en-us/azure/stream-analytics/visual-studio-code-local-run-all)
       - [Test locally with sample data](https://learn.microsoft.com/en-us/azure/stream-analytics/visual-studio-code-local-run)
       - [Debug queries using job diagram](https://learn.microsoft.com/en-us/azure/stream-analytics/debug-locally-using-job-diagram-vs-code)
-      - [Create and debug .NET custom deserializer](https://learn.microsoft.com/en-us/azure/stream-analytics/visual-studio-code-custom-deserializer)
       - [JobConfig.json fields](https://learn.microsoft.com/en-us/azure/stream-analytics/job-config-json)
     - Visual Studio
       - [Migrate to VS Code](https://learn.microsoft.com/en-us/azure/stream-analytics/migrate-to-vscode)
@@ -190,7 +187,6 @@
       - [View jobs in Visual Studio](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-vs-tools)
       - [Monitor jobs in Visual Studio](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-monitor-jobs-use-vs)
       - [Debug queries using job diagram](https://learn.microsoft.com/en-us/azure/stream-analytics/debug-locally-using-job-diagram)
-      - [Create a custom .NET deserializer](https://learn.microsoft.com/en-us/azure/stream-analytics/custom-deserializer)
       - [Develop an edge job](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-tools-for-visual-studio-edge-jobs)
       - [Run a C# UDF](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-edge-csharp-udf)
       - [Set up CI/CD pipeline](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-tools-for-visual-studio-cicd)
