@@ -50,6 +50,7 @@
       - [Origin selection](https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods)
       - [Health probes](https://learn.microsoft.com/en-us/azure/frontdoor/health-probes)
       - [Add origins to origin group](https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-origin)
+      - [Add origin authentication](https://learn.microsoft.com/en-us/azure/frontdoor/origin-authentication-with-managed-identities)
     - Private Link
       - [Secure your origin with Private Link](https://learn.microsoft.com/en-us/azure/frontdoor/private-link)
       - Enable Private Link to secure origins

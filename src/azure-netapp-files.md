@@ -100,6 +100,7 @@
         - [Use availability zones for high availability](https://learn.microsoft.com/en-us/azure/azure-netapp-files/use-availability-zones)
         - [Understand cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-replication-introduction)
         - [Requirements and considerations for cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-replication-requirements-considerations)
+      - [Understand cross-zone-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-region-replication)
       - Azure Application Consistent Snapshot AzAcSnap tool
         - What is AzAcSnap?
           - [Introduction to AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-introduction)
@@ -230,6 +231,7 @@
       - Manage availability zones and cross-zone replication
         - [Manage availability zone volume placement](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-availability-zone-volume-placement)
         - [Create cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-cross-zone-replication)
+      - [Configure cross-zone-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-region-replication-configure)
     - Relocate
       - [Relocate volume to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-netapp?toc=/azure/azure-netapp-files/toc.json)
     - Develop

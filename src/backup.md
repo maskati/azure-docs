@@ -51,6 +51,7 @@
       - [Backup](https://learn.microsoft.com/en-us/azure/backup/quick-backup-hana-cli)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/quick-restore-hana-cli)
     - [Restore the entire SAP HANA system to snapshot restore point](https://learn.microsoft.com/en-us/azure/backup/quick-sap-hana-database-instance-restore)
+    - [Run preregistration script for SAP ASE database backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup-run-preregistration-quickstart)
     - [Enable enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-enable-enhanced-soft-delete)
   - Tutorials
     - [Back up multiple Azure VMs](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-vm-at-scale)
@@ -76,6 +77,7 @@
       - [Restore SAP HANA databases - CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-sap-hana-restore-cli)
       - [Manage backed up SAP HANA databases - CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-sap-hana-manage-cli)
     - [Configure SAP HANA database instance snapshot backup](https://learn.microsoft.com/en-us/azure/backup/tutorial-configure-sap-hana-database-instance-snapshot-backup)
+    - [Back up SAP ASE database on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup-tutorial)
     - [Back up Azure Managed Disks](https://learn.microsoft.com/en-us/azure/backup/back-up-managed-disks-tutorial)
     - [Configure Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-tutorial)
     - [Recover soft deleted items with enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-tutorial)
@@ -346,7 +348,7 @@
         - [Instance snapshot](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-instances-restore)
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-manage)
     - SAP ASE database on Azure VM backup
-      - [Backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup)
+      - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-restore)
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-manage)
     - Azure Backup Server MABS

@@ -203,9 +203,13 @@
         - [Visual Studio Code development](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code)
         - [Visual Studio development](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs)
         - [Core Tools development](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local)
+      - Create a function app
+        - [Infrastructure as code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-infrastructure-as-code)
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-serverless)
       - Create functions
         - HTTP trigger
-          - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal)
+          - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-http-endpoint)
           - [Kotlin using IntelliJ](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-kotlin-intellij)
           - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-app-service-plan)
           - [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-premium-plan)
@@ -243,7 +247,6 @@
       - [Build and deploy using GitHub Actions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions)
       - [Zip deployment](https://learn.microsoft.com/en-us/azure/azure-functions/deployment-zip-push)
       - [Run from package](https://learn.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package)
-      - [Automate resource deployment](https://learn.microsoft.com/en-us/azure/azure-functions/functions-infrastructure-as-code)
       - [Deploy using the Jenkins plugin](https://learn.microsoft.com/azure/developer/jenkins/deploy-to-azure-functions?toc=/azure/azure-functions/toc.json)
     - Configure
       - [Manage a function app](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings)

@@ -5,6 +5,7 @@
     - [What is Microsoft Dev Box?](https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box)
     - [Roadmap for Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-roadmap)
   - Quickstarts
+    - [Get Started with the quick start template](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-get-started-template)
     - [Set up Dev Box service Azure portal](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-service)
     - [Set up Dev Box service ARM template](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-arm-template)
     - [Spin up a new dev box](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-create-dev-box)
@@ -32,7 +33,7 @@
   - Customize dev boxes
     - [What are Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/concept-what-are-team-customizations)
     - [Write an image definition file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-image-definition-file)
-    - [Write a user customization file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-user-customization-file)
+    - [Write an individual customization file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-individual-customization-file)
     - [Configure imaging for Customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-customization-imaging)
     - [Create customization tasks](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-customization-tasks-catalog)
     - [Use customization files to clone private repositories](https://learn.microsoft.com/en-us/azure/dev-box/how-to-use-secrets-customization-files)
@@ -69,7 +70,6 @@
   - Reference
     - [Install Azure CLI devcenter extension](https://learn.microsoft.com/en-us/azure/dev-box/how-to-install-dev-box-cli)
     - [Azure CLI - az devcenter](https://learn.microsoft.com/cli/azure/service-page/microsoft dev box and azure deployment environments)
-    - [Customizations YAML schema](https://learn.microsoft.com/en-us/azure/dev-box/reference-dev-box-customizations)
     - [Authenticate to REST APIs](https://learn.microsoft.com/en-us/azure/dev-box/how-to-authenticate)
     - [REST API](https://learn.microsoft.com/rest/api/devcenter/)
     - [Monitoring Microsoft DevCenter data reference](https://learn.microsoft.com/en-us/azure/dev-box/monitor-dev-box-reference)
