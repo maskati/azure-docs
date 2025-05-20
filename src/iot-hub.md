@@ -62,9 +62,10 @@
       - [Device configuration best practices](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configuration-best-practices)
     - Connectivity
       - [Understanding IoT hub IP address](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-understand-ip-address)
-    - Scaling and availability
+    - Reliability and scaling
       - [Best practices for large-scale IoT device deployments](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-deploy-at-scale?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
-      - [High availability and disaster recovery](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-ha-dr)
+      - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+      - [Disable disaster recovery](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-disable-dr)
     - Authentication and authorization
       - [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-azure-ad)
       - [Shared access signatures](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-sas)

@@ -16,7 +16,7 @@
       - ARM templates
         - [Any-to-any routing](https://learn.microsoft.com/en-us/azure/virtual-wan/quickstart-any-to-any-template)
         - [Route to shared services VNets](https://learn.microsoft.com/en-us/azure/virtual-wan/quickstart-route-shared-services-vnet-template)
-      - BICEP templates
+      - Bicep files
         - [Deploy Virtual WAN with routing intent and routing policies](https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.network/virtual-wan-routing-intent)
   - Design & architecture
     - [Migrate to Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)

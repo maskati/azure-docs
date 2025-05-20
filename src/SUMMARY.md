@@ -99,6 +99,7 @@
 [Oracle on Azure Documentation](./oracle.md)
 [Azure Native Integrations](./partner-solutions.md)
 [Azure Peering Service documentation](./peering-service.md)
+[Microsoft Planetary Computer Pro](./planetary-computer.md)
 [Microsoft Playwright Testing Preview documentation](./playwright-testing.md)
 [Azure Private 5G Core documentation](./private-5g-core.md)
 [Private Link documentation](./private-link.md)

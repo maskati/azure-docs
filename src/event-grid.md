@@ -57,7 +57,6 @@
         - [Send MQTT events to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-events-fabric)
         - [MQTT Request Response messaging](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-request-response-messages)
         - [Assign custom domain name to a namespace](https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name)
-        - [Authenticate with MQTT broker using OAuth 2.0 authentication](https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-json-web-tokens)
         - Monitor
           - [Monitor Event Grid namespaces](https://learn.microsoft.com/en-us/azure/event-grid/monitor-namespaces)
           - [Monitoring data reference MQTT delivery](https://learn.microsoft.com/en-us/azure/event-grid/monitor-mqtt-delivery-reference)
@@ -68,6 +67,8 @@
           - [Allow access via private endpoints](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-configure-private-endpoints)
           - [Enable managed identity for namespace](https://learn.microsoft.com/en-us/azure/event-grid/event-grid-namespace-managed-identity)
           - [MQTT client authentication using certificate chain](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-certificate-chain-client-authentication)
+          - [Authenticate with MQTT broker using OAuth 2.0 authentication](https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-json-web-tokens)
+          - [Authenticate with MQTT broker using webhook authentication](https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-webhook-authentication)
     - Namespace topics
       - [Pull delivery overview](https://learn.microsoft.com/en-us/azure/event-grid/pull-delivery-overview)
       - [Push delivery overview](https://learn.microsoft.com/en-us/azure/event-grid/namespace-push-delivery-overview)
@@ -120,6 +121,8 @@
           - [Allow access via private endpoints](https://learn.microsoft.com/en-us/azure/event-grid/configure-private-endpoints-pull)
           - [Enable managed identity for namespace](https://learn.microsoft.com/en-us/azure/event-grid/event-grid-namespace-managed-identity)
           - [Authenticate publishing clients using Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-entra-id-namespaces)
+          - [Deliver events securely using managed identities](https://learn.microsoft.com/en-us/azure/event-grid/deliver-events-using-managed-identity)
+          - [Cross-tenant delivery using managed identity](https://learn.microsoft.com/en-us/azure/event-grid/cross-tenant-delivery-using-managed-identity)
   - Event Grid basic
     - [Overview](https://learn.microsoft.com/en-us/azure/event-grid/push-delivery-overview)
     - Quickstarts
@@ -306,12 +309,14 @@
         - [Relocate domains across regions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-event-grid-domains?toc=/azure/event-grid/toc.json)
       - Secure
         - [Publish events securely over a private link](https://learn.microsoft.com/en-us/azure/event-grid/configure-private-endpoints)
+        - [Configure network security perimeter for topics and domains](https://learn.microsoft.com/en-us/azure/event-grid/configure-network-security-perimeter)
         - Use managed identity
           - [Enable managed identity for a custom topic or a domain](https://learn.microsoft.com/en-us/azure/event-grid/enable-identity-custom-topics-domains)
           - [Enable managed identity for a system topic](https://learn.microsoft.com/en-us/azure/event-grid/enable-identity-system-topics)
           - [Grant managed identity the access to Event Grid destination](https://learn.microsoft.com/en-us/azure/event-grid/add-identity-roles)
           - [Create an event subscription that uses the managed identity](https://learn.microsoft.com/en-us/azure/event-grid/managed-service-identity)
           - [Cross-tenant delivery using managed identity](https://learn.microsoft.com/en-us/azure/event-grid/cross-tenant-delivery-using-managed-identity)
+          - [Deliver events securely using managed identities](https://learn.microsoft.com/en-us/azure/event-grid/deliver-events-using-managed-identity)
         - [Enforce security controls with custom Azure policies](https://learn.microsoft.com/en-us/azure/event-grid/custom-azure-policies-for-security-control)
         - [Deliver events securely over a private link](https://learn.microsoft.com/en-us/azure/event-grid/consume-private-endpoints)
         - [Configure IP firewall](https://learn.microsoft.com/en-us/azure/event-grid/configure-firewall)

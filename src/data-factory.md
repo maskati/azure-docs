@@ -167,6 +167,12 @@
       - [Deploy linked ARM templates with VSTS](https://learn.microsoft.com/en-us/azure/data-factory/deploy-linked-arm-templates-with-vsts)
     - Connectors
       - [Connector overview](https://learn.microsoft.com/en-us/azure/data-factory/connector-overview)
+      - Connector lifecycle
+        - [Connector lifecycle overview](https://learn.microsoft.com/en-us/azure/data-factory/connector-lifecycle-overview)
+        - [Connector upgrade guidance](https://learn.microsoft.com/en-us/azure/data-factory/connector-upgrade-guidance)
+        - [Connector upgrade assistant](https://learn.microsoft.com/en-us/azure/data-factory/connector-upgrade-advisor)
+        - [Connector release stages and timelines](https://learn.microsoft.com/en-us/azure/data-factory/connector-release-stages-and-timelines)
+        - [Connector upgrade FAQ](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-frequently-asked-questions)
       - [Amazon Marketplace Web Service Deprecated](https://learn.microsoft.com/en-us/azure/data-factory/connector-amazon-marketplace-web-service)
       - [Amazon RDS for Oracle](https://learn.microsoft.com/en-us/azure/data-factory/connector-amazon-rds-for-oracle)
       - [Amazon RDS for SQL Server](https://learn.microsoft.com/en-us/azure/data-factory/connector-amazon-rds-for-sql-server)
@@ -621,10 +627,6 @@
     - [Compute optimized data flows retired](https://learn.microsoft.com/en-us/azure/data-factory/compute-optimized-data-flow-retire)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/data-factory/monitor-data-factory-reference)
   - Resources
-    - Important changes coming
-      - [Connector upgrades](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-plan)
-      - [Connector upgrade FAQ](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-frequently-asked-questions)
-      - [Connector upgrade advisor](https://learn.microsoft.com/en-us/azure/data-factory/connector-upgrade-advisor)
     - [Whitepapers](https://learn.microsoft.com/en-us/azure/data-factory/whitepapers)
     - [FAQ](https://learn.microsoft.com/en-us/azure/data-factory/frequently-asked-questions.yml)
     - [Service updates](https://azure.microsoft.com/updates/?product=data-factory)

@@ -38,6 +38,10 @@
       - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-javascript-provider)
       - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-javascript)
       - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-javascript)
+    - Go
+      - Configuration
+        - [Console app](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-go-console-app)
+        - [Gin web app](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-go-web-app)
     - Azure Functions
       - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-functions-csharp)
       - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-functions-csharp)
@@ -204,6 +208,7 @@
   - Resources
     - [Pricing](https://azure.microsoft.com/pricing/details/app-configuration/)
     - [Roadmap](https://github.com/Azure/AppConfiguration/projects/1)
+    - [Support policy](https://learn.microsoft.com/en-us/azure/azure-app-configuration/client-library-support-policy)
     - Videos
       - [Getting started with App Configuration](https://learn.microsoft.com/Shows/Azure-Friday/Getting-started-with-Azure-App-Configuration)
       - [Making centralized configuration easy](https://learn.microsoft.com/Events/dotnetConf/NET-Conf-2019/B210)

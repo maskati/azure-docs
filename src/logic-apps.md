@@ -32,8 +32,9 @@
       - [Custom connectors](https://learn.microsoft.com/en-us/azure/logic-apps/custom-connector-overview)
     - [Scheduled recurring workflows](https://learn.microsoft.com/en-us/azure/logic-apps/concepts-schedule-automated-recurring-tasks-workflows)
     - [Serverless with Azure](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-serverless-overview)
-    - [Business rules engine integration](https://learn.microsoft.com/en-us/azure/logic-apps/rules-engine/rules-engine-overview)
     - [AI playbook and solution development](https://learn.microsoft.com/en-us/azure/logic-apps/ai-resources)
+    - [AI agent workflows](https://learn.microsoft.com/en-us/azure/logic-apps/agent-workflows-concepts)
+    - [Business rules engine integration](https://learn.microsoft.com/en-us/azure/logic-apps/rules-engine/rules-engine-overview)
     - [B2B integration & EDI processing](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview)
     - [Mainframe modernization](https://learn.microsoft.com/en-us/azure/logic-apps/mainframe-modernization-overview)
     - Reliability
@@ -59,6 +60,7 @@
       - [Add and run PowerShell scripts](https://learn.microsoft.com/en-us/azure/logic-apps/add-run-powershell-scripts)
       - [Parse or chunk content](https://learn.microsoft.com/en-us/azure/logic-apps/parse-document-chunk-text)
       - [Create chat completions with prompt templates](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/create-chat-completions-prompt-template)
+      - [Create AI agent workflows](https://learn.microsoft.com/en-us/azure/logic-apps/create-agent-workflows)
       - [Edit app and host settings](https://learn.microsoft.com/en-us/azure/logic-apps/edit-app-settings-host-settings)
       - [Enable stateful mode for stateless built-in connectors](https://learn.microsoft.com/en-us/azure/connectors/enable-stateful-affinity-built-in-connectors)
       - [Create custom built-in connectors](https://learn.microsoft.com/en-us/azure/logic-apps/create-custom-built-in-connector-standard)
@@ -95,7 +97,7 @@
         - [Which integration services to choose](https://learn.microsoft.com/en-us/azure/logic-apps/azure-integration-services-choose-capabilities)
         - [Migration options and best practices](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-approaches)
     - Develop
-      - [Build your workflow with a trigger or action](https://learn.microsoft.com/en-us/azure/logic-apps/create-workflow-with-trigger-or-action)
+      - [Add a trigger or action to a workflow](https://learn.microsoft.com/en-us/azure/logic-apps/add-trigger-action-workflow)
       - Control workflow execution
         - [Conditional statements](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-control-flow-conditional-statement)
         - [Switch statements](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-control-flow-switch-statement)
@@ -107,6 +109,7 @@
       - [Add and run JavaScript snippets](https://learn.microsoft.com/en-us/azure/logic-apps/add-run-javascript)
       - [Create cross-environment parameters for workflows](https://learn.microsoft.com/en-us/azure/logic-apps/create-parameters-workflows)
       - [Call Azure Functions](https://learn.microsoft.com/en-us/azure/logic-apps/call-azure-functions-from-workflows)
+      - [Run workflows from actions in AI agents](https://learn.microsoft.com/en-us/azure/logic-apps/add-agent-action-create-run-workflow)
       - [Call workflows from Power Apps](https://learn.microsoft.com/en-us/azure/logic-apps/call-from-power-apps)
       - [Call, trigger, or nest logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-http-endpoint)
       - [Get bulk data with pagination](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-exceed-default-page-size-with-pagination)

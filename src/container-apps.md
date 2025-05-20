@@ -96,6 +96,10 @@
     - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
+    - Troubleshoot and resolve issues with an agent
+      - [Overview](https://learn.microsoft.com/en-us/azure/app-service/sre-agent-overview)
+      - [Use an SRE agent](https://learn.microsoft.com/en-us/azure/app-service/sre-agent-usage)
+      - [Fix app issues with an SRE agent](https://learn.microsoft.com/en-us/azure/container-apps/sre-agent-troubleshoot)
     - [Application logging](https://learn.microsoft.com/en-us/azure/container-apps/logging)
     - [Real time data](https://learn.microsoft.com/en-us/azure/container-apps/aspire-dashboard)
     - [Logging options](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
@@ -172,7 +176,8 @@
     - [Use a custom virtual network](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom)
     - Ingress
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/ingress-overview)
-      - [Configure ingress](https://learn.microsoft.com/en-us/azure/container-apps/ingress-how-to)
+      - [Environment-level configuration](https://learn.microsoft.com/en-us/azure/container-apps/ingress-environment-configuration)
+      - [Application-level configuration](https://learn.microsoft.com/en-us/azure/container-apps/ingress-how-to)
       - [Configure IP restrictions](https://learn.microsoft.com/en-us/azure/container-apps/ip-restrictions)
       - [Add client certificates](https://learn.microsoft.com/en-us/azure/container-apps/client-certificate-authorization)
       - [Configure traffic-splitting](https://learn.microsoft.com/en-us/azure/container-apps/traffic-splitting)

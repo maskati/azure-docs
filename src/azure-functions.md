@@ -4,6 +4,7 @@
   - Overview
     - [Functions overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
     - [Scenarios](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenarios)
+    - [AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-ai-enabled-apps)
     - [Getting started](https://learn.microsoft.com/en-us/azure/azure-functions/functions-get-started)
     - [Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview)
     - [Serverless comparison](https://learn.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs)
@@ -318,6 +319,7 @@
       - [Customize endpoints with legacy proxies](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api)
       - [Manage on-premises resources](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell)
     - Troubleshoot
+      - [SRE Agent overview](https://learn.microsoft.com/en-us/azure/app-service/sre-agent-overview?toc=/azure/azure-functions/toc.json)
       - [Storage connections](https://learn.microsoft.com/en-us/azure/azure-functions/functions-recover-storage-account)
       - [Azure Cosmos DB bindings](https://learn.microsoft.com/azure/cosmos-db/troubleshoot-changefeed-functions?toc=/azure/azure-functions/toc.json)
       - [Node.js](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-troubleshoot)
@@ -326,12 +328,7 @@
         - [Scale and performance](https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference)
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
   - Migration guides
-    - Migrate from AWS Lambda
-      - [Migrate from AWS Lambda](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-aws-lambda-to-azure-functions)
-      - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-lambda-workloads-overview)
-      - [Discover](https://learn.microsoft.com/en-us/azure/azure-functions/migration/discover-lambda-workloads)
-      - [Assess](https://learn.microsoft.com/en-us/azure/azure-functions/migration/assess-lambda-workloads)
-      - [Migrate](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-lambda-workloads)
+    - [Migrate from AWS Lambda](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-aws-lambda-to-azure-functions)
     - Upgrade runtime versions
       - [Migrate v3.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-3-version-4)
       - [Migrate v1.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-1-version-4)
@@ -361,13 +358,18 @@
         - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-input)
         - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-output)
       - Azure Cosmos DB
-        - [Functions 1.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb)
-        - Functions 2.x and higher
+        - API for NoSQL
           - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2)
           - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-trigger)
           - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-input)
           - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-output)
-        - [Migrate version 3.x to 4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-cosmos-db-version-3-version-4)
+          - [Functions 1.x legacy](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb)
+          - [Migrate version 3.x to 4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-cosmos-db-version-3-version-4)
+        - API for MongoDB vCore
+          - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mongodb-vcore)
+          - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mongodb-vcore-trigger)
+          - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mongodb-vcore-input)
+          - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mongodb-vcore-output)
       - Azure Data Explorer
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer)
         - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer-input)
@@ -432,6 +434,9 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka)
         - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-trigger)
         - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-output)
+      - MCP tool
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-trigger)
       - [Mobile Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mobile-apps)
       - [Notification Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-notification-hubs)
       - Queue storage

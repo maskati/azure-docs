@@ -95,7 +95,7 @@
     - [Use external providers](https://learn.microsoft.com/en-us/azure/static-web-apps/external-providers)
     - [Reset deployment tokens](https://learn.microsoft.com/en-us/azure/static-web-apps/deployment-token-management)
     - [Publish with an ARM template](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-azure-resource-manager)
-    - [Publish with a Bicep template](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-bicep)
+    - [Publish with a Bicep file](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-bicep)
     - [Deploy with external source control providers](https://learn.microsoft.com/en-us/azure/static-web-apps/external-providers)
     - Tutorials
       - [Bitbucket](https://learn.microsoft.com/en-us/azure/static-web-apps/bitbucket)

@@ -12,6 +12,7 @@
   - Key Concepts
     - [Supported Geographies](https://learn.microsoft.com/en-us/azure/migrate/supported-geographies)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-migrate-security-baseline?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
+    - [Security best practices](https://learn.microsoft.com/en-us/azure/migrate/best-practices-security)
     - [Requirements for Private endpoints](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
     - [Support Matrix](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix)
   - Discover inventory

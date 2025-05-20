@@ -110,6 +110,7 @@
       - [How to restrict serial port access and set timeout on terminal-server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-restrict-serial-port-access-and-set-timeout-on-terminal-server)
       - [How to append custom suffix to interface descriptions](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-append-custom-suffix-to-interface-descriptions)
       - [How to reboot Network Device in Azure Operator Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-reboot-network-device)
+      - [How to replace a device in Azure Operator Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-replace-a-device-in-azure-operator-nexus-network-fabric)
       - [How to Configure NNF with Bring Your Own BYO Storage](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-bring-your-own-storage-network-fabric)
       - [How to upgrade OS of terminal server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-upgrade-os-of-terminal-server)
       - [How to restrict serial port access and set timeout on terminal-server](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-restrict-serial-port-access-and-set-timeout-on-terminal-server)

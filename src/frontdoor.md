@@ -4,9 +4,9 @@
   - Get started
     - [What is Azure Front Door?](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview)
     - [Front Door and CDN comparison](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-cdn-comparison)
-    - [Well-Architected review of Front Door](https://learn.microsoft.com/azure/well-architected/service-guides/azure-front-door?toc=/azure/frontdoor/TOC.json)
+    - [Well-Architected review of Front Door](https://learn.microsoft.com/azure/well-architected/service-guides/azure-front-door?toc=/azure/frontdoor/toc.json)
     - [Front Door best practices](https://learn.microsoft.com/en-us/azure/frontdoor/best-practices)
-    - [Choosing the right load balancer](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/frontdoor/TOC.json)
+    - [Choosing the right load balancer](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/frontdoor/toc.json)
     - [FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-faq.yml)
   - Design & plan
     - [Routing architecture](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-standard-premium)
@@ -82,18 +82,18 @@
       - [Classic to Standard/Premium mapping](https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping)
       - [Migrate from Front Door classic](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier)
     - [Microsoft CDN classic retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq)
-    - [Edgio retirement FAQ](https://learn.microsoft.com/previous-versions/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json)
+    - [Edgio retirement FAQ](https://learn.microsoft.com/previous-versions/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/toc.json)
     - CDN classic to Azure Front Door
-      - [Overview](https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/TOC.json)
-      - [Migrate from Azure CDN classic to Azure Front Door](https://learn.microsoft.com/en-us/azure/cdn/migrate-tier?toc=/azure/frontdoor/TOC.json)
-    - [Migrate CDN provider](https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/TOC.json)
+      - [Overview](https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/toc.json)
+      - [Migrate from Azure CDN classic to Azure Front Door](https://learn.microsoft.com/en-us/azure/cdn/migrate-tier?toc=/azure/frontdoor/toc.json)
+    - [Migrate CDN provider](https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/toc.json)
     - Migrate any CDN to Azure Front Door
       - [Custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door)
     - Upgrade to Premium tier
       - [Azure portal](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade-powershell)
   - Security
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-front-door-security-baseline?toc=/azure/frontdoor/TOC.json)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-front-door-security-baseline?toc=/azure/frontdoor/toc.json)
     - [DDoS protection](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos)
     - [End-to-end TLS encryption](https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls)
     - TLS policy
@@ -109,8 +109,8 @@
       - [Configure a security policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal?toc=/azure/frontdoor/toc.json)
       - [Geo-filtering](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering?toc=/azure/frontdoor/toc.json)
       - [Configure geo-filtering](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering?toc=/azure/frontdoor/toc.json)
-      - [Rate limiting](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit?toc=%2fazure%2ffrontdoor%2ftoc.json)
-      - [Configure rate limits](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure?toc=%2fazure%2ffrontdoor%2ftoc.json)
+      - [Rate limiting](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit?toc=/azure/frontdoor/toc.json)
+      - [Configure rate limits](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure?toc=/azure/frontdoor/toc.json)
       - [Custom rules](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules?toc=/azure/frontdoor/toc.json)
       - [Configure IP restriction](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction?toc=/azure/frontdoor/toc.json)
     - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
@@ -141,7 +141,7 @@
     - Get started
       - [What is Azure Front Door classic?](https://learn.microsoft.com/en-us/azure/frontdoor/classic-overview)
       - [Front Door classic retirement FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/classic-retirement-faq)
-      - [What is Azure Content Delivery Network Azure CDN?](https://learn.microsoft.com/en-us/azure/cdn/cdn-overview?toc=/azure/frontdoor/TOC.json)
+      - [What is Azure Content Delivery Network Azure CDN?](https://learn.microsoft.com/en-us/azure/cdn/cdn-overview?toc=/azure/frontdoor/toc.json)
     - Quickstarts
       - Front Door classic
         - [Create a Front Door - Portal](https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door)
@@ -151,12 +151,12 @@
         - [Create a Front Door - ARM Template](https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-template)
         - [Create a Front Door - Terraform](https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-terraform)
       - CDN from Microsoft classic
-        - [Integrate a storage account](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-a-storage-account-with-cdn?toc=/azure/frontdoor/TOC.json)
-        - [Create a profile and endpoint - Portal](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint?toc=/azure/frontdoor/TOC.json)
-        - [Create a profile and endpoint - Azure CLI](https://learn.microsoft.com/en-us/azure/cdn/scripts/cli/cdn-azure-cli-create-endpoint?toc=/azure/frontdoor/TOC.json)
-        - [Create profile and endpoint - Bicep](https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-bicep?toc=/azure/frontdoor/TOC.json)
-        - [Create profile and endpoint - ARM Template](https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-template?toc=/azure/frontdoor/TOC.json)
-        - [Create profile and endpoint - Terraform](https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-terraform?toc=/azure/frontdoor/TOC.json)
+        - [Integrate a storage account](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-a-storage-account-with-cdn?toc=/azure/frontdoor/toc.json)
+        - [Create a profile and endpoint - Portal](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint?toc=/azure/frontdoor/toc.json)
+        - [Create a profile and endpoint - Azure CLI](https://learn.microsoft.com/en-us/azure/cdn/scripts/cli/cdn-azure-cli-create-endpoint?toc=/azure/frontdoor/toc.json)
+        - [Create profile and endpoint - Bicep](https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-bicep?toc=/azure/frontdoor/toc.json)
+        - [Create profile and endpoint - ARM Template](https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-template?toc=/azure/frontdoor/toc.json)
+        - [Create profile and endpoint - Terraform](https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-terraform?toc=/azure/frontdoor/toc.json)
     - Configure
       - Front Door classic
         - Add a custom domain
@@ -166,54 +166,54 @@
         - [Add a root or apex domain](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-add-security-headers)
         - [Set up a Rules Engine classic](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-tutorial-rules-engine)
       - CDN classic from Microsoft
-        - [Optimized content](https://learn.microsoft.com/en-us/azure/cdn/cdn-optimization-overview?toc=/azure/frontdoor/TOC.json)
-          - [Large-file optimization](https://learn.microsoft.com/en-us/azure/cdn/cdn-large-file-optimization?toc=/azure/frontdoor/TOC.json)
-          - [Media streaming optimization](https://learn.microsoft.com/en-us/azure/cdn/cdn-media-streaming-optimization?toc=/azure/frontdoor/TOC.json)
+        - [Optimized content](https://learn.microsoft.com/en-us/azure/cdn/cdn-optimization-overview?toc=/azure/frontdoor/toc.json)
+          - [Large-file optimization](https://learn.microsoft.com/en-us/azure/cdn/cdn-large-file-optimization?toc=/azure/frontdoor/toc.json)
+          - [Media streaming optimization](https://learn.microsoft.com/en-us/azure/cdn/cdn-media-streaming-optimization?toc=/azure/frontdoor/toc.json)
         - Manage
-          - [Create an endpoint](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-endpoint-how-to?toc=/azure/frontdoor/TOC.json)
-          - [Manage by using Azure PowerShell](https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-powershell?toc=/azure/frontdoor/TOC.json)
-          - [Add a custom domain](https://learn.microsoft.com/en-us/azure/cdn/cdn-map-content-to-custom-domain?toc=/azure/frontdoor/TOC.json)
-          - [Configure HTTPS on a custom domain](https://learn.microsoft.com/en-us/azure/cdn/cdn-custom-ssl?toc=/azure/frontdoor/TOC.json)
-          - [Onboard a root or apex domain](https://learn.microsoft.com/en-us/azure/cdn/onboard-apex-domain?toc=/azure/frontdoor/TOC.json)
-          - [Access blobs by using a custom domain over HTTPS](https://learn.microsoft.com/en-us/azure/cdn/cdn-storage-custom-domain-https?toc=/azure/frontdoor/TOC.json)
-          - [Set up managed identity](https://learn.microsoft.com/en-us/azure/cdn/managed-identity?toc=/azure/frontdoor/TOC.json)
-          - [Improve performance by compressing files](https://learn.microsoft.com/en-us/azure/cdn/cdn-improve-performance?toc=/azure/frontdoor/TOC.json)
-          - [Endpoint multi-origin](https://learn.microsoft.com/en-us/azure/cdn/endpoint-multiorigin?toc=/azure/frontdoor/TOC.json)
-          - [Enforce HTTPS by using the Standard rules engine](https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine?toc=/azure/frontdoor/TOC.json)
+          - [Create an endpoint](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-endpoint-how-to?toc=/azure/frontdoor/toc.json)
+          - [Manage by using Azure PowerShell](https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-powershell?toc=/azure/frontdoor/toc.json)
+          - [Add a custom domain](https://learn.microsoft.com/en-us/azure/cdn/cdn-map-content-to-custom-domain?toc=/azure/frontdoor/toc.json)
+          - [Configure HTTPS on a custom domain](https://learn.microsoft.com/en-us/azure/cdn/cdn-custom-ssl?toc=/azure/frontdoor/toc.json)
+          - [Onboard a root or apex domain](https://learn.microsoft.com/en-us/azure/cdn/onboard-apex-domain?toc=/azure/frontdoor/toc.json)
+          - [Access blobs by using a custom domain over HTTPS](https://learn.microsoft.com/en-us/azure/cdn/cdn-storage-custom-domain-https?toc=/azure/frontdoor/toc.json)
+          - [Set up managed identity](https://learn.microsoft.com/en-us/azure/cdn/managed-identity?toc=/azure/frontdoor/toc.json)
+          - [Improve performance by compressing files](https://learn.microsoft.com/en-us/azure/cdn/cdn-improve-performance?toc=/azure/frontdoor/toc.json)
+          - [Endpoint multi-origin](https://learn.microsoft.com/en-us/azure/cdn/endpoint-multiorigin?toc=/azure/frontdoor/toc.json)
+          - [Enforce HTTPS by using the Standard rules engine](https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine?toc=/azure/frontdoor/toc.json)
           - Control caching behavior
-            - [How caching works](https://learn.microsoft.com/en-us/azure/cdn/cdn-how-caching-works?toc=/azure/frontdoor/TOC.json)
-            - [Purge cached assets](https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json)
-            - [Set caching rules](https://learn.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial?toc=/azure/frontdoor/TOC.json)
-          - [Add Azure CDN to a web app](https://learn.microsoft.com/en-us/azure/cdn/cdn-add-to-web-app?toc=/azure/frontdoor/TOC.json)
-          - [Shared access signature storage support](https://learn.microsoft.com/en-us/azure/cdn/cdn-sas-storage-support?toc=/azure/frontdoor/TOC.json)
-          - [Cross-origin resource sharing](https://learn.microsoft.com/en-us/azure/cdn/cdn-cors?toc=/azure/frontdoor/TOC.json)
-          - [Monitor resources](https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json)
-          - [Use Traffic Manager](https://learn.microsoft.com/en-us/azure/cdn/cdn-traffic-manager?toc=/azure/frontdoor/TOC.json)
-        - [Analyze](https://learn.microsoft.com/en-us/azure/cdn/cdn-log-analysis?toc=/azure/frontdoor/TOC.json)
-          - [Monitoring, metrics, and access Logs](https://learn.microsoft.com/en-us/azure/cdn/monitoring-and-access-log?toc=/azure/frontdoor/TOC.json)
-          - [Azure diagnostics logs](https://learn.microsoft.com/en-us/azure/cdn/cdn-azure-diagnostic-logs?toc=/azure/frontdoor/TOC.json)
+            - [How caching works](https://learn.microsoft.com/en-us/azure/cdn/cdn-how-caching-works?toc=/azure/frontdoor/toc.json)
+            - [Purge cached assets](https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/toc.json)
+            - [Set caching rules](https://learn.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial?toc=/azure/frontdoor/toc.json)
+          - [Add Azure CDN to a web app](https://learn.microsoft.com/en-us/azure/cdn/cdn-add-to-web-app?toc=/azure/frontdoor/toc.json)
+          - [Shared access signature storage support](https://learn.microsoft.com/en-us/azure/cdn/cdn-sas-storage-support?toc=/azure/frontdoor/toc.json)
+          - [Cross-origin resource sharing](https://learn.microsoft.com/en-us/azure/cdn/cdn-cors?toc=/azure/frontdoor/toc.json)
+          - [Monitor resources](https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/toc.json)
+          - [Use Traffic Manager](https://learn.microsoft.com/en-us/azure/cdn/cdn-traffic-manager?toc=/azure/frontdoor/toc.json)
+        - [Analyze](https://learn.microsoft.com/en-us/azure/cdn/cdn-log-analysis?toc=/azure/frontdoor/toc.json)
+          - [Monitoring, metrics, and access Logs](https://learn.microsoft.com/en-us/azure/cdn/monitoring-and-access-log?toc=/azure/frontdoor/toc.json)
+          - [Azure diagnostics logs](https://learn.microsoft.com/en-us/azure/cdn/cdn-azure-diagnostic-logs?toc=/azure/frontdoor/toc.json)
         - Develop
-          - [.NET](https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json)
-          - [Node.js](https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json)
+          - [.NET](https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/toc.json)
+          - [Node.js](https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/toc.json)
     - Security
       - Front Door classic
         - [Configure HTTP to HTTPS redirect](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-redirect-https)
         - [Add security headers with Rules engine](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-security-headers)
         - [Web Application Firewall and Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-waf)
       - CDN classic from Microsoft
-        - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/content-delivery-network-security-baseline?toc=/azure/frontdoor/TOC.json)
-        - [DDoS protection](https://learn.microsoft.com/en-us/azure/cdn/cdn-ddos?toc=/azure/frontdoor/TOC.json)
+        - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/content-delivery-network-security-baseline?toc=/azure/frontdoor/toc.json)
+        - [DDoS protection](https://learn.microsoft.com/en-us/azure/cdn/cdn-ddos?toc=/azure/frontdoor/toc.json)
     - Operation excellence
       - CDN classic from Microsoft
-        - [HTTP/2 support](https://learn.microsoft.com/en-us/azure/cdn/cdn-http2?toc=/azure/frontdoor/TOC.json)
-        - [Retrieve POP IP's](https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-list-api?toc=/azure/frontdoor/TOC.json)
-        - [China content delivery](https://learn.microsoft.com/en-us/azure/cdn/cdn-china-delivery?toc=/azure/frontdoor/TOC.json)
+        - [HTTP/2 support](https://learn.microsoft.com/en-us/azure/cdn/cdn-http2?toc=/azure/frontdoor/toc.json)
+        - [Retrieve POP IP's](https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-list-api?toc=/azure/frontdoor/toc.json)
+        - [China content delivery](https://learn.microsoft.com/en-us/azure/cdn/cdn-china-delivery?toc=/azure/frontdoor/toc.json)
     - Troubleshoot
       - CDN
-        - [404 status](https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-endpoint?toc=/azure/frontdoor/TOC.json)
-        - [File compression](https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-compression?toc=/azure/frontdoor/TOC.json)
+        - [404 status](https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-endpoint?toc=/azure/frontdoor/toc.json)
+        - [File compression](https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-compression?toc=/azure/frontdoor/toc.json)
         - [Allowed certificate authorities](https://ccadb-public.secure.force.com/microsoft/IncludedCACertificateReportForMSFT)
-        - [Subscription offers and bandwidth throttling](https://learn.microsoft.com/en-us/azure/cdn/subscription-offerings?toc=/azure/frontdoor/TOC.json)
+        - [Subscription offers and bandwidth throttling](https://learn.microsoft.com/en-us/azure/cdn/subscription-offerings?toc=/azure/frontdoor/toc.json)
         - [Questions & answers](https://learn.microsoft.com/answers/tags/155/azure-cdn)
   - Reference
     - Front Door
@@ -240,13 +240,13 @@
         - [Java SDK](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-cdn-readme)
     - CDN
       - Azure CDN POP locations
-        - [POP locations by region](https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-locations?toc=/azure/frontdoor/TOC.json)
+        - [POP locations by region](https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-locations?toc=/azure/frontdoor/toc.json)
         - POP locations by abbreviation
-          - [Microsoft classic](https://learn.microsoft.com/en-us/azure/cdn/microsoft-pop-abbreviations?toc=/azure/frontdoor/TOC.json)
-      - [Standard rules engine](https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-reference?toc=/azure/frontdoor/TOC.json)
-        - [Standard rules engine match conditions](https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-match-conditions?toc=/azure/frontdoor/TOC.json)
-        - [Standard rules engine actions](https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-actions?toc=/azure/frontdoor/TOC.json)
-      - [Microsoft-specific HTTP headers](https://learn.microsoft.com/en-us/azure/cdn/cdn-msft-http-debug-headers?toc=/azure/frontdoor/TOC.json)
+          - [Microsoft classic](https://learn.microsoft.com/en-us/azure/cdn/microsoft-pop-abbreviations?toc=/azure/frontdoor/toc.json)
+      - [Standard rules engine](https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-reference?toc=/azure/frontdoor/toc.json)
+        - [Standard rules engine match conditions](https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-match-conditions?toc=/azure/frontdoor/toc.json)
+        - [Standard rules engine actions](https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-actions?toc=/azure/frontdoor/toc.json)
+      - [Microsoft-specific HTTP headers](https://learn.microsoft.com/en-us/azure/cdn/cdn-msft-http-debug-headers?toc=/azure/frontdoor/toc.json)
       - [Azure CLI](https://learn.microsoft.com/cli/azure/cdn)
       - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.cdn/)
       - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.cdn)
@@ -258,7 +258,7 @@
       - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
       - [Service updates](https://azure.microsoft.com/updates/?product=frontdoor)
     - CDN
-      - [Azure Content Delivery Network billing](https://learn.microsoft.com/en-us/azure/cdn/cdn-billing?toc=/azure/frontdoor/TOC.json)
+      - [Azure Content Delivery Network billing](https://learn.microsoft.com/en-us/azure/cdn/cdn-billing?toc=/azure/frontdoor/toc.json)
       - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/155/azure-cdn.html)
       - [Pricing](https://azure.microsoft.com/pricing/details/cdn/)
       - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)

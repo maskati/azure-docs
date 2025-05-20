@@ -10,7 +10,7 @@
     - [Back up a VM - PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-powershell)
     - [Back up a VM - CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-cli)
     - [Back up a VM - ARM template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-template)
-    - [Back up a VM - Bicep template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-bicep-template)
+    - [Back up a VM - Bicep file](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-bicep-file)
     - [Back up a VM - Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-terraform)
     - Back up Azure PostgreSQL Database
       - [Back up the database - Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-database-portal)
@@ -31,7 +31,7 @@
     - Configure backup for Azure Database for PostgreSQL  - Flexible Server
       - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-terraform)
       - [With Azure Resource Manager template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-arm)
-      - [With Azure Bicep template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-bicep)
+      - [With Azure Bicep file](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-bicep)
     - Configure vaulted backup for Azure Blob
       - [From the Azure portal](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-quick)
       - [Using PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-blob-vaulted-backup-powershell)
@@ -439,7 +439,7 @@
         - [Manage Azure Backup jobs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-managejobs)
       - [Use Azure Data Protection REST API](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-create-update-backup-vault)
       - [Query backup information using ARG](https://learn.microsoft.com/en-us/azure/backup/query-backups-using-azure-resource-graph)
-      - [Resource Manager and Bicep templates](https://learn.microsoft.com/en-us/azure/backup/backup-rm-template-samples)
+      - [Resource Manager and Bicep files](https://learn.microsoft.com/en-us/azure/backup/backup-rm-template-samples)
     - Security and Ransomware protection
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/security-overview)
       - [Save and manage MARS agent passphrase in Azure Key Vault](https://learn.microsoft.com/en-us/azure/backup/save-backup-passphrase-securely-in-azure-key-vault)
