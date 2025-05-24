@@ -6,7 +6,6 @@
     - Quickstarts
       - Create a cache
         - [Create an Azure Cache for Redis instance in the Basic, Standard and Premium tiers](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/quickstart-create-redis)
-        - [Create an Azure Cache for Redis instance in the Enterprise tiers](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/quickstart-create-redis-enterprise)
         - [Create and manage with Azure PowerShell](https://learn.microsoft.com/azure/redis/how-to-manage-redis-cache-powershell)
         - [Create and manage with Azure CLI](https://learn.microsoft.com/azure/redis/scripts/create-manage-cache?pivots=azure-cache-redis)
         - [Create and manage premium cache with Azure CLI](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/scripts/create-manage-premium-cache-cluster)
@@ -52,8 +51,6 @@
       - [Enterprise tiers best practices](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices-enterprise-tiers)
       - [Vector Search](https://learn.microsoft.com/azure/redis/overview-vector-similarity)
       - [Connection resilience best practices](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices-connection)
-      - Use Azure Functions triggers and bindings
-        - [Create a simple Function app for Redis triggers](https://learn.microsoft.com/azure/redis/tutorial-functions-getting-started)
     - Logs and monitoring
       - [Monitor Cache for Redis](https://learn.microsoft.com/azure/redis/monitor-cache)
       - [Monitor using insights](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-insights-overview)
@@ -133,28 +130,18 @@
     - [Create Web App with Redis cache - Bicep](https://learn.microsoft.com/azure/redis/web-app-bicep-with-redis-cache-provision)
     - [Create Web App with Redis cache - ARM template](https://learn.microsoft.com/azure/redis/web-app-arm-with-redis-cache-provision)
   - Reference
-    - Azure Managed Redis
-      - [.NET](https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.redisenterprise-readme)
-      - [Java](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-redisenterprise-readme)
-      - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.redisenterprisecache)
-      - [Azure CLI](https://learn.microsoft.com/cli/azure/redisenterprise)
-      - [REST](https://learn.microsoft.com/rest/api/redis/redisenterprisecache/operation-groups)
-      - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.cache/redisenterprise)
-    - Azure Cache for Redis
-      - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.redis)
-      - [Java](https://learn.microsoft.com/java/api/com.microsoft.azure.management.redis.rediscache)
-      - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.rediscache)
-      - [Azure CLI](https://learn.microsoft.com/cli/azure/redis)
-      - [REST](https://learn.microsoft.com/rest/api/redis/)
-      - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.cache/allversions)
-      - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/policy-reference)
-      - [Redis commands](https://redis.io/commands)
-      - [Monitoring data reference](https://learn.microsoft.com/azure/redis/monitor-cache-reference)
+    - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.redis)
+    - [Java](https://learn.microsoft.com/java/api/com.microsoft.azure.management.redis.rediscache)
+    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.rediscache)
+    - [Azure CLI](https://learn.microsoft.com/cli/azure/redis)
+    - [REST](https://learn.microsoft.com/rest/api/redis/)
+    - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.cache/allversions)
+    - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/policy-reference)
+    - [Redis commands](https://redis.io/commands)
+    - [Monitoring data reference](https://learn.microsoft.com/azure/redis/monitor-cache-reference)
   - Resources
-    - [Azure Cache for Redis FAQs](https://learn.microsoft.com/azure/redis/faq)
+    - [Azure Redis FAQ](https://learn.microsoft.com/azure/redis/faq)
     - [Retirements from Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-retired-features)
     - [Videos](https://www.youtube.com/results?search_query=azure+cache+redis)
-    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-cache-redis.html)
+    - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/170/azure-cache-redis)
     - [Pricing](https://azure.microsoft.com/pricing/details/cache/)
-    - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/?products=azure-redis-cache)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=databases)

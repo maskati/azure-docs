@@ -44,6 +44,7 @@
     - Accelerated networking
       - [Create a VM with Accelerated Networking](https://learn.microsoft.com/en-us/azure/virtual-network/create-virtual-machine-accelerated-networking)
       - [Manage accelerated networking](https://learn.microsoft.com/en-us/azure/virtual-network/manage-accelerated-networking)
+      - [Network optimized VM network connection acceleration](https://learn.microsoft.com/en-us/azure/virtual-network/network-optimized-vm-network-connection-acceleration)
       - [Linux and FreeBSD VMs](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-how-it-works)
       - [DPDK](https://learn.microsoft.com/en-us/azure/virtual-network/setup-dpdk)
     - [Add or remove a subnet delegation](https://learn.microsoft.com/en-us/azure/virtual-network/manage-subnet-delegation)
@@ -82,7 +83,6 @@
       - [Network bandwidth](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-machine-network-throughput)
       - [TCP/IP performance tuning](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-tcpip-performance-tuning)
   - Reliability and availability
-    - [Business continuity](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-disaster-recovery-guidance)
     - [Deploy a DHCP server on an Azure VM](https://learn.microsoft.com/en-us/azure/virtual-network/how-to-dhcp-azure)
     - Move across regions
       - Manual relocation
@@ -91,6 +91,7 @@
       - [Network interfaces](https://learn.microsoft.com/azure/resource-mover/tutorial-move-region-virtual-machines?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
       - [Network security groups NSG](https://learn.microsoft.com/azure/resource-mover/tutorial-move-region-virtual-machines?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
       - [Virtual networks](https://learn.microsoft.com/azure/resource-mover/tutorial-move-region-virtual-machines?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
+    - [Azure Virtual Network reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
   - Troubleshoot
     - [Configure reverse lookup zones for an SMTP banner check](https://learn.microsoft.com/en-us/azure/virtual-network/create-ptr-for-smtp-service)
     - [Diagnose a virtual machine network traffic filter problem](https://learn.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem)

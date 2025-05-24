@@ -21,18 +21,22 @@
     - [Manage a dev center](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-center)
     - [Manage network connections](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-network-connections)
     - [Manage a dev box project](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-box-projects)
+    - [Configure project policies](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-project-policy)
     - [Manage a dev box definition](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-box-definitions)
     - [Manage a dev box pool](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-box-pools)
     - [Display names for a project or pool](https://learn.microsoft.com/en-us/azure/dev-box/how-to-add-project-pool-display-name)
     - [Limit number of dev boxes per project](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-dev-box-limits)
     - [Configure Visual Studio caches](https://learn.microsoft.com/en-us/azure/dev-box/how-to-generate-visual-studio-caches)
     - [Monitor Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/monitor-dev-box)
+    - [Configure conditional access policies for dev tunnels](https://learn.microsoft.com/en-us/azure/dev-box/how-to-conditional-access-dev-tunnels-service)
+    - [Move dev box pools between regions](https://learn.microsoft.com/en-us/azure/dev-box/how-to-move-dev-box-pool-region)
   - Prepare images
     - [Configure an Azure compute gallery](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-azure-compute-gallery)
     - [Provision a Custom Image with Azure Image Builder](https://learn.microsoft.com/en-us/azure/dev-box/how-to-customize-devbox-azure-image-builder)
   - Customize dev boxes
     - [What are Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/concept-what-are-team-customizations)
     - [Write an image definition file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-image-definition-file)
+    - [Create an image definition file with Copilot](https://learn.microsoft.com/en-us/azure/dev-box/how-to-use-copilot-generate-image-definition-file)
     - [Write an individual customization file](https://learn.microsoft.com/en-us/azure/dev-box/how-to-write-individual-customization-file)
     - [Configure imaging for Customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-customization-imaging)
     - [Create customization tasks](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-customization-tasks-catalog)
@@ -41,6 +45,9 @@
     - [Manage a dev box through developer portal](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
     - [Connect to your dev box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
     - [Use multiple monitors](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
+    - [Connect to a dev box with a dev tunnel](https://learn.microsoft.com/en-us/azure/dev-box/how-to-set-up-dev-tunnels)
+  - AI on Dev Box
+    - [Configure Serverless GPU](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-dev-box-serverless-gpu)
   - Security
     - [Provide access to project admins](https://learn.microsoft.com/en-us/azure/dev-box/how-to-project-admin)
     - [Provide access to dev box users](https://learn.microsoft.com/en-us/azure/dev-box/how-to-dev-box-user)

@@ -144,6 +144,7 @@
       - [Relocate to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-app-gateway?toc=/azure/application-gateway/toc.json)
       - [Migrate to availability zone support](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2?toc=/azure/application-gateway/toc.json)
     - [Proxy buffer configuration](https://learn.microsoft.com/en-us/azure/application-gateway/proxy-buffers)
+    - [Using Server-sent events](https://learn.microsoft.com/en-us/azure/application-gateway/use-server-sent-events)
     - [Custom error pages](https://learn.microsoft.com/en-us/azure/application-gateway/custom-error)
     - Migrate to v2 SKU
       - [About v1 retirement](https://learn.microsoft.com/en-us/azure/application-gateway/v1-retirement)

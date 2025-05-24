@@ -93,7 +93,7 @@
     - Tutorials
       - End-to-end sample
         - [Add OPC UA assets to your cluster](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-add-assets)
-        - [Upload data to the cloud](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-upload-telemetry-to-cloud)
+        - [Upload sensor data to the cloud](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-upload-messages-to-cloud)
         - [Get insights from your data](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-get-insights)
       - [Bi-directional messaging with Event Grid](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/tutorial-mqtt-bridge)
       - [Send data to Data Lake Storage](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/tutorial-opc-ua-to-data-lake)
@@ -115,3 +115,4 @@
         - [Layered Network Management](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-layered-network)
       - [MQTT support](https://learn.microsoft.com/en-us/azure/iot-operations/reference/mqtt-support)
       - [IoT Glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary?toc=/azure/iot-operations/toc.json&bc=/azure/iot-operations/breadcrumb/toc.json)
+      - [Digital twin builder preview in Fabric](https://learn.microsoft.com/fabric/real-time-intelligence/digital-twin-builder/overview)

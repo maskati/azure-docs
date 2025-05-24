@@ -98,7 +98,9 @@
       - [Import gRPC API](https://learn.microsoft.com/en-us/azure/api-management/grpc-api)
       - Azure OpenAI and LLM APIs
         - [AI gateway capabilities in API Management](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
+        - [Import Azure AI Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
         - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
+        - [Import OpenAI-compatible LLM API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-llm-api)
         - [Authenticate and authorize to Azure OpenAI](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
         - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
         - [Semantic caching for Azure OpenAI API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
@@ -153,6 +155,7 @@
     - [Create a workspace](https://learn.microsoft.com/en-us/azure/api-management/how-to-create-workspace)
   - Secure API access
     - [API authentication and authorization options](https://learn.microsoft.com/en-us/azure/api-management/authentication-authorization-overview)
+    - [Protect product APIs with Microsoft Entra ID applications](https://learn.microsoft.com/en-us/azure/api-management/applications)
     - [Protect your API with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-protect-backend-with-aad)
     - [Protect your API with Azure AD B2C](https://learn.microsoft.com/en-us/azure/api-management/howto-protect-backend-frontend-azure-ad-b2c)
     - [Secure APIs using client certificate authentication](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-mutual-certificates-for-clients)
@@ -301,13 +304,10 @@
       - [xml-to-json](https://learn.microsoft.com/en-us/azure/api-management/xml-to-json-policy)
       - [xsl-transform](https://learn.microsoft.com/en-us/azure/api-management/xsl-transform-policy)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/api-management/policy-reference)
-    - [Gateway log schema](https://learn.microsoft.com/en-us/azure/api-management/gateway-log-schema-reference)
-    - [Developer portal audit log schema](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-audit-log-schema-reference)
     - [Event Grid events schema](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-api-management?toc=/azure/api-management/toc.json&bc=/azure/api-management/breadcrumb/toc.json)
     - [Virtual network configuration](https://learn.microsoft.com/en-us/azure/api-management/virtual-network-reference)
     - [Self-hosted gateway container configuration](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-settings-reference)
     - [Self-hosted gateway Azure Arc configuration](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-arc-reference)
-    - [Diagnostic logs settings](https://learn.microsoft.com/en-us/azure/api-management/diagnostic-logs-reference)
   - Resources
     - [FAQ](https://learn.microsoft.com/en-us/azure/api-management/api-management-faq.yml)
     - [Pricing](https://aka.ms/apimpricing)

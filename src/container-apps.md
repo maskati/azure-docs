@@ -82,7 +82,7 @@
       - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
     - Event-driven processing
       - [With a job](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs)
-    - [Workflows](https://learn.microsoft.com/en-us/azure/container-apps/workflows-overview)
+    - [Workflow](https://learn.microsoft.com/en-us/azure/container-apps/workflows-overview)
     - Troubleshooting
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting)
       - Errors and failures

@@ -19,8 +19,8 @@
     - [Resource Manager Templates](https://learn.microsoft.com/en-us/azure/virtual-network-manager/resource-manager-template-samples)
     - Cross-tenant connection support
       - [Cross-tenant connection support](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-cross-tenant)
-      - [Configure cross-tenant connection - Portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-portal)
-      - [Configure cross-tenant connection - CLI](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-cli)
+      - [Configure cross-tenant connections - Portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-portal)
+      - [Configure cross-tenant connections - CLI](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-cli)
     - Create a network topology
       - Hub-and-spoke
         - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke)
@@ -58,6 +58,7 @@
     - [Automate IP address management](https://learn.microsoft.com/en-us/azure/virtual-network-manager/automate-ip-address-management-ipam-sample)
     - [Prevent overlapping IP address spaces with Azure Policy and IPAM](https://learn.microsoft.com/en-us/azure/virtual-network-manager/Prevent-overlapping-ip-address-space-policy-ipam)
     - [Create IP address pools with IPAM](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-manage-ip-addresses-network-manager)
+    - [Deploy cross-tenant IP address pools](https://learn.microsoft.com/en-us/azure/virtual-network-manager/deploy-cross-tenant-ip-address-management)
   - Troubleshoot
     - [Common issues](https://learn.microsoft.com/en-us/azure/virtual-network-manager/common-issues)
     - [Event Log Options for Azure Virtual Network Manager](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-event-logs)

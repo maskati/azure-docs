@@ -84,16 +84,15 @@
       - [Migrate NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate)
       - Analyze NSG flow logs
         - [Use Power BI](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-power-bi)
-        - [Use Elastic Stack](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-open-source-tools)
-        - [Use Grafana](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-grafana)
-        - [Use Graylog](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-analyze-nsg-flow-logs-graylog)
+        - [Use Elastic Stack](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-open-source-tools?toc=/azure/network-watcher/toc.json)
+        - [Use Grafana](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-nsg-grafana?toc=/azure/network-watcher/toc.json)
+        - [Use Graylog](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-analyze-nsg-flow-logs-graylog?toc=/azure/network-watcher/toc.json)
     - [Read flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-read)
     - Traffic analytics
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
       - [Usage scenarios](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-usage-scenarios)
       - [Enable traffic analytics using Azure policy](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)
       - [Schema and data aggregation](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema)
-      - [Schema update March 2020](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema-update)
       - [FAQ](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-faq.yml)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/network-watcher-security-baseline?toc=/azure/network-watcher/toc.json)

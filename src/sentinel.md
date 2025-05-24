@@ -27,34 +27,37 @@
   - Deploy
     - [Enable Microsoft Sentinel and initial features and content](https://learn.microsoft.com/en-us/azure/sentinel/enable-sentinel-features-content)
     - [Onboard to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/quickstart-onboard)
+    - [Connect Microsoft Sentinel to the Defender portal](https://learn.microsoft.com/unified-secops-platform/microsoft-sentinel-onboard?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - [Configure content](https://learn.microsoft.com/en-us/azure/sentinel/configure-content)
     - [Set up multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/use-multiple-workspaces)
     - [Enable User and Entity Behavior Analytics UEBA](https://learn.microsoft.com/en-us/azure/sentinel/enable-entity-behavior-analytics)
     - [Configure interactive and long-term data retention](https://learn.microsoft.com/en-us/azure/sentinel/configure-data-retention-archive)
     - [Deploy side-by-side](https://learn.microsoft.com/en-us/azure/sentinel/deploy-side-by-side)
-  - Migrate to Microsoft Sentinel
-    - Plan and design your migration
-      - [Plan your migration](https://learn.microsoft.com/en-us/azure/sentinel/migration)
-      - [Use the SIEM migration experience](https://learn.microsoft.com/en-us/azure/sentinel/siem-migration)
-      - [Track migration with a workbook](https://learn.microsoft.com/en-us/azure/sentinel/migration-track)
-    - Migrate from ArcSight
-      - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-detection-rules)
-      - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-automation)
-      - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-historical-data)
-    - Migrate from Splunk
-      - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-detection-rules)
-      - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-automation)
-      - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-historical-data)
-    - Migrate from QRadar
-      - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-detection-rules)
-      - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-automation)
-      - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-historical-data)
-    - Ingest historical data
-      - [Select target platform](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
-      - [Select data ingestion tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
-      - [Ingest data](https://learn.microsoft.com/en-us/azure/sentinel/migration-export-ingest)
-    - [Convert dashboards to workbooks](https://learn.microsoft.com/en-us/azure/sentinel/migration-convert-dashboards)
-    - [Update SOC processes](https://learn.microsoft.com/en-us/azure/sentinel/migration-security-operations-center-processes)
+  - Migrate
+    - [Transition your environment to the Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/move-to-defender)
+    - Migrate to Microsoft Sentinel
+      - Plan and design your migration
+        - [Plan your migration](https://learn.microsoft.com/en-us/azure/sentinel/migration)
+        - [Use the SIEM migration experience](https://learn.microsoft.com/en-us/azure/sentinel/siem-migration)
+        - [Track migration with a workbook](https://learn.microsoft.com/en-us/azure/sentinel/migration-track)
+      - Migrate from ArcSight
+        - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-detection-rules)
+        - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-automation)
+        - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-historical-data)
+      - Migrate from Splunk
+        - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-detection-rules)
+        - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-automation)
+        - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-historical-data)
+      - Migrate from QRadar
+        - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-detection-rules)
+        - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-automation)
+        - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-historical-data)
+      - Ingest historical data
+        - [Select target platform](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
+        - [Select data ingestion tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
+        - [Ingest data](https://learn.microsoft.com/en-us/azure/sentinel/migration-export-ingest)
+      - [Convert dashboards to workbooks](https://learn.microsoft.com/en-us/azure/sentinel/migration-convert-dashboards)
+      - [Update SOC processes](https://learn.microsoft.com/en-us/azure/sentinel/migration-security-operations-center-processes)
   - Manage solutions and content
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions)
     - [Deploy out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy)
@@ -546,7 +549,6 @@
       - [Optimize costs with pre-purchase plan](https://learn.microsoft.com/en-us/azure/sentinel/billing-pre-purchase-plan)
       - [Manage data retention](https://learn.microsoft.com/azure/azure-monitor/logs/data-retention-configure?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Auxiliary logs use cases](https://learn.microsoft.com/en-us/azure/sentinel/basic-logs-use-cases)
-    - [Connect Microsoft Sentinel to Microsoft Defender XDR](https://learn.microsoft.com/defender-xdr/microsoft-sentinel-onboard?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - Manage multiple workspaces
       - [Workspaces in the Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/workspaces-defender-portal)
       - [Workspace manager in the Azure portal](https://learn.microsoft.com/en-us/azure/sentinel/workspace-manager)

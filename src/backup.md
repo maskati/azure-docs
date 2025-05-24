@@ -520,7 +520,7 @@
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/backup/policy-reference)
   - Resources
     - [Compliance](https://learn.microsoft.com/en-us/azure/backup/compliance-offerings)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure updates](https://azure.microsoft.com/updates/?searchterms=Azure+Backup)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-backup.html)
     - [Pricing calculator](https://learn.microsoft.com/en-us/azure/backup/azure-backup-pricing)
     - [Service updates](https://azure.microsoft.com/updates/?product=backup)

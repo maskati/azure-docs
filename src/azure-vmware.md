@@ -130,6 +130,7 @@
   - Storage
     - [Configure vSAN](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vsan)
       - [Configure storage policies](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-storage-policy)
+      - [Configure vSAN ESA](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vsan-esa)
       - [Configure customer-managed key encryption at rest](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-customer-managed-keys)
     - [External storage solutions](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-external-storage-solutions)
     - [Configure Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-elastic-san)

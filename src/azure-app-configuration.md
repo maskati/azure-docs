@@ -82,6 +82,8 @@
     - Soft delete
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-soft-delete)
       - [Recover or purge deleted stores](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-recover-deleted-stores-in-azure-app-configuration)
+  - AI configuration
+    - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-ai-configuration)
   - Feature management
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
     - [Experimentation](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-experimentation)
@@ -168,6 +170,7 @@
     - Configuration providers
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/configuration-provider-overview)
       - .NET
+        - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-dotnet-provider)
         - [API reference](https://learn.microsoft.com/dotnet/api/Microsoft.Extensions.Configuration.AzureAppConfiguration)
         - [Azure SDK for .NET](https://go.microsoft.com/fwlink/?linkid=2092056)
         - [.NET Framework builder](https://go.microsoft.com/fwlink/?linkid=2074663)

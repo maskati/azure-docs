@@ -141,7 +141,7 @@
       - [Azure Logic Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-logic-apps)
     - Internet of Things
       - [Azure Device Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-device-registry)
-      - [Azure IoT Hub](https://learn.microsoft.com/en-us/azure/reliability/reliability-iot-hub)
+      - [Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-ha-dr?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Notification Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs)
     - Media
       - [Azure Media Services](https://learn.microsoft.com/azure/media-services/latest/architecture-high-availability-encoding-concept?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -177,9 +177,7 @@
       - [Azure Public IP](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Route Server](https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/reliability/reliability-traffic-manager)
-      - Azure Virtual Network
-        - [Availability zones](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Virtual Network](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network)
       - Azure Virtual WAN
         - [Availability zones](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

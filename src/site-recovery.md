@@ -320,7 +320,7 @@
     - [Azure Resource Mover](https://learn.microsoft.com/en-us/azure/resource-mover/)
     - [Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/)
   - Resources
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure updates](https://azure.microsoft.com/updates/?searchterms=Azure+Site+Recovery)
     - [Blog](https://azure.microsoft.com/blog/tag/azure-site-recovery/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-site-recovery.html)
     - [Learning path](https://learn.microsoft.com/training/azure/)

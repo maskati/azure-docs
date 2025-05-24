@@ -11,7 +11,7 @@
     - [Dynatrace](https://learn.microsoft.com/en-us/azure/partner-solutions/dynatrace/)
     - [Elastic](https://learn.microsoft.com/en-us/azure/partner-solutions/elastic/)
     - [Informatica](https://learn.microsoft.com/en-us/azure/partner-solutions/informatica/)
-    - [LambdaTest - HyperExecute preview](https://learn.microsoft.com/en-us/azure/partner-solutions/lambda-test/)
+    - [LambdaTest - HyperExecute](https://learn.microsoft.com/en-us/azure/partner-solutions/lambda-test/)
     - [MongoDB Atlas preview](https://learn.microsoft.com/en-us/azure/partner-solutions/mongo-db/)
     - [Neon Serverless Postgres](https://learn.microsoft.com/en-us/azure/partner-solutions/neon/)
     - [New Relic](https://learn.microsoft.com/en-us/azure/partner-solutions/new-relic/)

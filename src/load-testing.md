@@ -37,6 +37,7 @@
     - Analyze test results
       - [Compare test runs](https://learn.microsoft.com/en-us/azure/load-testing/how-to-compare-multiple-test-runs)
       - [Configure server-side monitoring](https://learn.microsoft.com/en-us/azure/load-testing/how-to-monitor-server-side-metrics)
+      - [Analyze test results using AI](https://learn.microsoft.com/en-us/azure/load-testing/how-to-analyze-test-results-using-actionable-insights)
       - [Diagnose failing load tests](https://learn.microsoft.com/en-us/azure/load-testing/how-to-diagnose-failing-load-test)
       - [Export test results](https://learn.microsoft.com/en-us/azure/load-testing/how-to-export-test-results)
     - Security

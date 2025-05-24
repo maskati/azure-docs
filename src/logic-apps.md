@@ -233,9 +233,9 @@
       - [Move logic app resources](https://learn.microsoft.com/en-us/azure/logic-apps/move-logic-app-resources)
       - [Update schema for Consumption workflows](https://learn.microsoft.com/en-us/azure/logic-apps/update-workflow-definition-language-schema)
     - Test
-      - [Create unit tests from Standard workflow definitions](https://learn.microsoft.com/en-us/azure/logic-apps/create-unit-tests-standard-workflow-definitions-visual-studio-code)
-      - [Create unit tests from Standard workflow runs](https://learn.microsoft.com/en-us/azure/logic-apps/create-unit-tests-standard-workflow-runs-visual-studio-code)
-      - [Test workflows with mock outputs](https://learn.microsoft.com/en-us/azure/logic-apps/test-logic-apps-mock-data-static-results)
+      - [Create unit tests from Standard workflow definitions](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/create-unit-tests-standard-workflow-definitions-visual-studio-code)
+      - [Create unit tests from Standard workflow runs](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/create-unit-tests-standard-workflow-runs-visual-studio-code)
+      - [Test workflows with mock outputs](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/test-logic-apps-mock-data-static-results)
     - Deploy
       - [About automated deployment - Multitenant](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-azure-resource-manager-templates-overview)
       - [Create logic app templates](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-create-azure-resource-manager-templates)
