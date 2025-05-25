@@ -63,6 +63,7 @@
         - [Add file sharing in chat](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/file-sharing-tutorial-acs-chat)
         - [Add file sharing in Teams interop chat](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/file-sharing-tutorial-interop-chat)
         - [Add inline image support in Teams interop chat](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/inline-image-tutorial-interop-chat)
+        - [Add Adaptive Cards in chat](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/ui-library/get-started-chat-adaptive-card)
       - Connect to Teams
         - [Add Teams meeting chat to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/meeting-interop)
         - [Enable inline image interop in your chat app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/chat-interop/meeting-interop-features-inline-image)
