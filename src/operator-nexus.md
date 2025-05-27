@@ -24,6 +24,7 @@
       - [Network Fabric read write commands](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-read-write-commands)
       - [Disable Border Gateway Protocol neighbors](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-disable-border-gateway-protocol-neighbors)
       - [Network Packet Broker](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-network-packet-broker)
+      - [Commit Workflow v2](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-commit-workflow-v2)
       - Route Policy
         - [Route Policy Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-route-policies-overview)
         - [IP Prefixes Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-ip-prefix)
@@ -117,6 +118,7 @@
       - [How to configure BGP prefix limit on Customer Edge CE devices for Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-bgp-prefix-limit-on-customer-edge-devices)
       - [BMP log streaming in Azure Operator Nexus Network Fabric](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-bmp-log-streaming)
       - [How to enable / disable BMP log streaming Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-log-streaming)
+      - [How to use Commit Workflow v2 in Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-commit-workflow-v2)
     - Cluster
       - [Best Practices for Bare Metal Machine Operations](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-bare-metal-best-practices)
       - BareMetal Actions
