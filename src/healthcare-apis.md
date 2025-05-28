@@ -17,7 +17,7 @@
     - [Workspace overview](https://learn.microsoft.com/en-us/azure/healthcare-apis/workspace-overview)
     - [Deployment overview](https://learn.microsoft.com/en-us/azure/healthcare-apis/health-data-services-get-started)
     - [Azure Health Data Services quickstart](https://learn.microsoft.com/en-us/azure/healthcare-apis/healthcare-apis-quickstart)
-    - [Deploy services programatically](https://learn.microsoft.com/en-us/azure/healthcare-apis/deploy-healthcare-apis-using-bicep)
+    - [Deploy services programmatically](https://learn.microsoft.com/en-us/azure/healthcare-apis/deploy-healthcare-apis-using-bicep)
   - How-tos
     - [Get an access token](https://learn.microsoft.com/en-us/azure/healthcare-apis/get-access-token)
     - [Manage user access and permissions](https://learn.microsoft.com/en-us/azure/healthcare-apis/authentication-authorization)

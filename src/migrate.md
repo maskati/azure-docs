@@ -17,10 +17,7 @@
     - [Support Matrix](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix)
   - Discover inventory
     - [Appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
-    - [Discover VMware estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
     - [Scoped discovery of VMware estate](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
-    - [Discover Hyper-v estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
-    - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
     - Appliance configuration
       - [Provide server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
       - [Discover SQL servers and Webapps](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-sql-existing-project)
@@ -72,6 +69,7 @@
       - [Overview of Migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
       - Agent-based migrations
         - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
+        - [Hydration process](https://learn.microsoft.com/en-us/azure/migrate/hydration-process)
       - Agentless migrations
         - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
         - [Agentless migrations using scripts](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-powershell)
@@ -86,13 +84,18 @@
   - Tutorials
     - Migration Scenarios
       - Migrate VMware servers
+        - [Discover VMware estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
+        - [Assess VMWare servers](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-access-private-cloud?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
         - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
         - [Migrate to Azure Local](https://learn.microsoft.com/azure/azure-local/migrate/migration-azure-migrate-vmware-overview?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - Migrate Hyper-V servers
+        - [Discover Hyper-v estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
+        - [Assess large number of servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/scale-hyper-v-assessment)
         - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v)
         - [Migrate to Azure Local](https://learn.microsoft.com/azure/azure-local/migrate/migration-azure-migrate-overview?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - Migrate physical servers
-        - [Create Business case and assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-physical)
+        - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
+        - [Assess Physical servers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-physical)
         - [Migrate Physical servers to Azure](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines)
       - Migrate servers hosted on public cloud
         - [Discover AWS inventory](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-aws)
@@ -125,7 +128,6 @@
     - Assessment
       - [Enable application and code assessment](https://learn.microsoft.com/en-us/azure/migrate/appcat/)
         - [Assess large number of servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/scale-vmware-assessment)
-        - [Assess large number of servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/scale-hyper-v-assessment)
         - [Assess large numbers of physical servers](https://learn.microsoft.com/en-us/azure/migrate/scale-physical-assessment)
     - Migrate
       - [Replicate using ExpressRoute](https://learn.microsoft.com/en-us/azure/migrate/replicate-using-expressroute)

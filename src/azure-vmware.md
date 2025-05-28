@@ -117,6 +117,11 @@
       - [Migrate a SQL Server standalone instance to Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/migrate-sql-server-standalone-cluster)
       - [Migrate SQL Server failover cluster to Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/migrate-sql-server-failover-cluster)
       - [Migrate Microsoft SQL Server Always On Availability Group to Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/migrate-sql-server-always-on-availability-group)
+  - Multitenancy
+    - [Enable VMware Cloud Director with Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-vcd-with-azure)
+    - [VMware Cloud Director on Azure VMware Solution network scenarios](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-vcd-with-azure-network)
+    - [Deploy VMware Cloud Director Availability in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vmware-cloud-director-availability-in-azure-vmware-solution)
+    - [Enable VMware Cloud Director Service with Azure VMware solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-cds-with-azure)
   - Virtual machines
     - [Operating system support for VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-os-vms)
     - [Configure vTPM on a Virtual Machine](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-virtual-trusted-platform-module)
@@ -183,8 +188,6 @@
     - [Terraform Azure provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/vmware_private_cloud)
     - [Configure VMware Cloud Director Service in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vmware-cloud-director-service-azure-vmware-solution)
     - [Self service maintenance orchestration preview](https://learn.microsoft.com/en-us/azure/azure-vmware/self-service-maintenance-orchestration)
-    - [Enable VMware Cloud Director Service with Azure VMware solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-cds-with-azure)
-    - [Deploy VMware Cloud Director Availability in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vmware-cloud-director-availability-in-azure-vmware-solution)
   - Resources
     - Learning paths
       - [Introduction to Azure VMware Solution](https://learn.microsoft.com/training/modules/intro-azure-vmware-solution/)

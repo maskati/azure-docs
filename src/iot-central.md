@@ -13,7 +13,6 @@
     - Connect devices
       - [Create and connect a device](https://learn.microsoft.com/en-us/azure/iot-central/core/tutorial-connect-device)
       - [Create a device group](https://learn.microsoft.com/en-us/azure/iot-central/core/tutorial-use-device-groups)
-      - [Connect an IoT Edge device](https://learn.microsoft.com/training/modules/connect-iot-edge-device-to-iot-central/)
       - [Create a gateway device template](https://learn.microsoft.com/en-us/azure/iot-central/core/tutorial-define-gateway-device-type)
     - Extend your application
       - [Create a rule](https://learn.microsoft.com/en-us/azure/iot-central/core/tutorial-create-telemetry-rules)
