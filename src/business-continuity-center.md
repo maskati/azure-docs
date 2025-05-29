@@ -19,6 +19,7 @@
   - Concepts
     - [Support matrices](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-support-matrix)
     - [Security levels](https://learn.microsoft.com/en-us/azure/business-continuity-center/security-levels-concept)
+    - [Protect Azure Elastic SAN via Azure Backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-overview?toc=/azure/business-continuity-center/toc.json&bc=/azure/business-continuity-center/breadcrumb/toc.json)
   - How-to guides
     - Vaults
       - [Create](https://learn.microsoft.com/en-us/azure/business-continuity-center/backup-vaults)
@@ -26,3 +27,7 @@
     - Protection policy
       - [Create](https://learn.microsoft.com/en-us/azure/business-continuity-center/backup-protection-policy)
       - [Manage](https://learn.microsoft.com/en-us/azure/business-continuity-center/manage-protection-policy)
+    - Protect Azure Elastic SAN via Azure Backup preview
+      - [Backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-configure?toc=/azure/business-continuity-center/toc.json&bc=/azure/business-continuity-center/breadcrumb/toc.json)
+      - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-restore?toc=/azure/business-continuity-center/toc.json&bc=/azure/business-continuity-center/breadcrumb/toc.json)
+      - [Manage](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-manage?toc=/azure/business-continuity-center/toc.json&bc=/azure/business-continuity-center/breadcrumb/toc.json)

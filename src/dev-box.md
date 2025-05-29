@@ -75,6 +75,7 @@
     - [Troubleshoot Task view issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-dev-box-task-view)
     - [Get support for Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-get-help)
   - Reference
+    - [Reference: imagedefinition.yaml and task.yaml files](https://learn.microsoft.com/en-us/azure/dev-box/reference-dev-box-customizations)
     - [Install Azure CLI devcenter extension](https://learn.microsoft.com/en-us/azure/dev-box/how-to-install-dev-box-cli)
     - [Azure CLI - az devcenter](https://learn.microsoft.com/cli/azure/service-page/microsoft dev box and azure deployment environments)
     - [Authenticate to REST APIs](https://learn.microsoft.com/en-us/azure/dev-box/how-to-authenticate)

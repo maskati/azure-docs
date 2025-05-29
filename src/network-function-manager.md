@@ -20,6 +20,5 @@
     - [SDK for Python](https://pypi.org/project/azure-mgmt-hybridnetwork/1.0.0/)
   - Resources
     - [Network Function Manager product page](https://go.microsoft.com/fwlink/?linkid=2166098)
-    - [Azure private MEC documentation](https://learn.microsoft.com/en-us/azure/private-multi-access-edge-compute-mec/)
     - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
     - [Blog](https://azure.microsoft.com/blog/topics/networking)

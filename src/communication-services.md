@@ -481,15 +481,12 @@
     - Call management
       - [Answer a call](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/incoming-call-notification)
       - [Make an outbound call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/call-automation/quickstart-make-an-outbound-call)
-      - [Control and steer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/actions-for-call-control)
       - [Mute participants during a call](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/mute-participants)
-      - [Pass contextual data between calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/custom-context)
       - [Ring Teams users](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation-teams-interop)
     - Interactive voice and AI
       - [Connect to Azure AI](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/azure-communication-services-azure-cognitive-services-integration)
       - [Play audio](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/play-action)
       - [Gather user input](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/recognize-action)
-      - [Control mid call media actions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/control-mid-call-media-actions)
       - [Customize voice prompts to users with play action](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/play-action)
       - [Gather user input with recognize action](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/recognize-action)
       - [Implement Answer Machine Detection](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/answer-machine-detection)
@@ -514,8 +511,11 @@
       - [Troubleshooting response codes](https://learn.microsoft.com/en-us/azure/communication-services/resources/troubleshooting/voice-video-calling/troubleshooting-codes?pivots=automation)
       - [Call Automation known issues](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/known-issues-call-automation)
     - Samples and tutorials
+      - [Control and steer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/actions-for-call-control)
+      - [Control mid call media actions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/control-mid-call-media-actions)
       - [Secure webhook endpoints](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/secure-webhook-endpoint)
       - [Handle Call Automation events with EventProcessor](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/handle-events-with-event-processor)
+      - [Pass contextual data between calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/custom-context)
       - [Call Automation Azure OpenAI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-azure-openai-sample)
       - [Call Automation AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-ai)
       - [Integrate Azure Communication Services with your Microsoft Copilot Studio agent](https://learn.microsoft.com/en-us/azure/communication-services/samples/integrate-azure-communication-services-with-copilot-studio)

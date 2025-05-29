@@ -13,6 +13,7 @@
     - [Push message from server](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/quickstarts-push-messages-from-server)
     - [Event notifications from clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/quickstarts-event-notifications-from-clients)
   - Tutorials
+    - [Use LiveTry to explore](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/quickstarts-livetry)
     - [Publish and subscribe messages](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-pub-sub-messages)
     - [Build a chat app](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-build-chat)
     - [Develop with Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-develop-with-visual-studio-code)

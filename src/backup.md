@@ -96,6 +96,7 @@
       - [SAP ASE Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-ase-backup-support-matrix)
       - [Azure Database for MySQL - Flexible Server long-term retention support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)
       - [Azure files backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-support-matrix)
+      - [Azure Elastic SAN backup support matrix preview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-support-matrix)
       - [Azure Disk Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/disk-backup-support-matrix)
       - [Azure Blobs backup support matrix](https://learn.microsoft.com/en-us/azure/backup/blob-backup-support-matrix)
       - [Azure Data Lake Storage backup support matrix preview](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-support-matrix)
@@ -139,7 +140,9 @@
       - [Prerequisites](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-concept)
     - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/blob-backup-overview)
     - [Azure Data Lake Storage backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-overview)
+    - [Azure Elastic SAN backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-overview)
     - [Azure Files backup](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)
+    - [Azure Elastic SAN backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-overview)
     - Windows backup using MARS agent
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-about-mars)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/about-restore-microsoft-azure-recovery-services)
@@ -321,6 +324,7 @@
     - Azure Data Lake Storage backup preview
       - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-configure-backup)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-restore)
+      - [Manage](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-manage)
     - Azure Files backup
       - From the Azure portal
         - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files)
@@ -338,6 +342,10 @@
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-file-share-rest-api)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-file-share-rest-api)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-azure-file-share-rest-api)
+    - Azure Elastic SAN backup preview
+      - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-configure)
+      - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-restore)
+      - [manage](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-manage)
     - SAP HANA database on Azure VM backup
       - Backup
         - [Database](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database)

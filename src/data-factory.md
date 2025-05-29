@@ -170,7 +170,7 @@
       - Connector lifecycle
         - [Connector lifecycle overview](https://learn.microsoft.com/en-us/azure/data-factory/connector-lifecycle-overview)
         - [Connector upgrade guidance](https://learn.microsoft.com/en-us/azure/data-factory/connector-upgrade-guidance)
-        - [Connector upgrade assistant](https://learn.microsoft.com/en-us/azure/data-factory/connector-upgrade-advisor)
+        - [Connector upgrade advisor](https://learn.microsoft.com/en-us/azure/data-factory/connector-upgrade-advisor)
         - [Connector release stages and timelines](https://learn.microsoft.com/en-us/azure/data-factory/connector-release-stages-and-timelines)
         - [Connector upgrade FAQ](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-frequently-asked-questions)
       - [Amazon Marketplace Web Service Deprecated](https://learn.microsoft.com/en-us/azure/data-factory/connector-amazon-marketplace-web-service)
