@@ -142,7 +142,6 @@
     - [Azure Data Lake Storage backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-overview)
     - [Azure Elastic SAN backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-overview)
     - [Azure Files backup](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)
-    - [Azure Elastic SAN backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-overview)
     - Windows backup using MARS agent
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-about-mars)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/about-restore-microsoft-azure-recovery-services)

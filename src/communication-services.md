@@ -105,6 +105,7 @@
         - [SMTP support](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-smtp-overview)
         - [Set up SMTP authentication](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-smtp/smtp-authentication)
         - [Send email using SMTP](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-smtp/send-email-smtp)
+        - [Send email using SMTP with XOAuth2](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-smtp/send-email-smtp-oauth)
       - Attachments
         - [Inline attachments](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-attachment-inline)
         - [Supported attachment types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-attachment-allowed-mime-types)
