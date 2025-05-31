@@ -80,7 +80,6 @@
       - [Hyper-V to Azure disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-common-questions)
       - [Classic to Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/classic-to-modernized-common-questions)
       - [Monitoring](https://learn.microsoft.com/en-us/azure/site-recovery/monitoring-common-questions)
-      - [Shared disks](https://learn.microsoft.com/en-us/azure/site-recovery/shared-disks-common-questions)
     - About Azure VM disaster recovery
       - [Azure to Azure disaster recovery architecture](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-architecture)
       - [Azure trusted launch VMs](https://learn.microsoft.com/en-us/azure/site-recovery/concepts-trusted-vm)

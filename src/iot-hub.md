@@ -4,7 +4,7 @@
     - [IoT concepts and Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub)
   - Quickstarts
     - [Codeless quickstart using CLI](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-cli)
-    - [Send telemetry using SDK](https://learn.microsoft.com/en-us/azure/iot/tutorial-send-telemetry-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+    - [Send telemetry using SDK](https://learn.microsoft.com/en-us/azure/iot/tutorial-send-telemetry-iot-hub)
     - [Control a device](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-control-device)
     - [Auto-route messages using Bicep](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-bicep-route-messages)
     - [Auto-route messages using an ARM template](https://learn.microsoft.com/en-us/azure/iot-hub/horizontal-arm-route-messages)

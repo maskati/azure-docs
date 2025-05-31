@@ -274,6 +274,7 @@
       - [Collaborate in Microsoft Teams](https://learn.microsoft.com/en-us/azure/sentinel/collaborate-in-microsoft-teams)
     - Defender portal
       - [Overview](https://learn.microsoft.com/defender-xdr/incidents-overview?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Plan incident response](https://learn.microsoft.com/unified-secops-platform/plan-incident-response)
       - [Alerts, incidents, and correlation](https://learn.microsoft.com/defender-xdr/alerts-incidents-correlation?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Manage incidents](https://learn.microsoft.com/defender-xdr/manage-incidents?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - Entities

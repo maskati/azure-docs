@@ -64,6 +64,7 @@
           - [Azure CLI](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-web-app-cli)
         - [Connect to Azure Application Gateway](https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-application-gateway)
         - [Connect to Azure API Management](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-apim)
+        - [Connect to Azure Container App](https://learn.microsoft.com/en-us/azure/container-apps/how-to-integrate-with-azure-front-door)
     - Caching
       - [Caching with Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-standard-premium)
       - [Configure caching](https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-caching)

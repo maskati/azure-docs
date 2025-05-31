@@ -173,6 +173,7 @@
         - [Connector upgrade advisor](https://learn.microsoft.com/en-us/azure/data-factory/connector-upgrade-advisor)
         - [Connector release stages and timelines](https://learn.microsoft.com/en-us/azure/data-factory/connector-release-stages-and-timelines)
         - [Connector upgrade FAQ](https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-frequently-asked-questions)
+        - [Guidance for Bring Your Own Driver BYOD](https://learn.microsoft.com/en-us/azure/data-factory/guidance-for-byod-approach)
       - [Amazon Marketplace Web Service Deprecated](https://learn.microsoft.com/en-us/azure/data-factory/connector-amazon-marketplace-web-service)
       - [Amazon RDS for Oracle](https://learn.microsoft.com/en-us/azure/data-factory/connector-amazon-rds-for-oracle)
       - [Amazon RDS for SQL Server](https://learn.microsoft.com/en-us/azure/data-factory/connector-amazon-rds-for-sql-server)
