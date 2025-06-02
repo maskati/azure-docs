@@ -357,7 +357,7 @@
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-integration-guide)
     - [Sentinel solution quality guidelines](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution-quality-guidance)
     - [Partner integrations best practices](https://learn.microsoft.com/en-us/azure/sentinel/partner-integrations)
-    - [Creating codeless data connectors CCP](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector)
+    - [Creating codeless data connectors CCF](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector)
     - [Creating analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-analytic-rules-creation)
     - [Creating hunting queries](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-hunting-rules-creation)
     - [Creating workbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-workbook-creation)

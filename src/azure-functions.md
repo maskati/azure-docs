@@ -156,6 +156,7 @@
     - Triggers and bindings
       - [About triggers and bindings](https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings)
       - [Register binding extensions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-register)
+      - [Extension bundles](https://learn.microsoft.com/en-us/azure/azure-functions/extension-bundles)
       - [Binding expression patterns](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-expressions-patterns)
       - [Handle binding errors](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-errors)
     - Frameworks
