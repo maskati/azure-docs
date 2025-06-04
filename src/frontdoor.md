@@ -81,7 +81,8 @@
     - Migrate to Standard or Premium tier
       - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/tier-migration)
       - [Classic to Standard/Premium mapping](https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping)
-      - [Migrate from Front Door classic](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier)
+      - [Migrate from Front Door classic - Portal](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier)
+      - [Migrate from Front Door classic - PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier-powershell)
     - [Microsoft CDN classic retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq)
     - [Edgio retirement FAQ](https://learn.microsoft.com/previous-versions/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/toc.json)
     - CDN classic to Azure Front Door

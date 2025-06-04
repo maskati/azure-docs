@@ -42,6 +42,7 @@
         - [Security](https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-security)
       - Connect
         - [Spring Boot with MongoDB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-spring-cosmosdb)
+        - [Quarkus with PostgreSQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-quarkus-postgresql-app)
         - [Tomcat with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-tomcat-mysql-app)
         - [Java Tomcat to Postgres](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-tomcat-connect-managed-identity-postgresql-database)
         - [JBoss with MySQL](https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-jboss-mysql-app)

@@ -574,6 +574,18 @@
       - [Enable breakout rooms](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/breakoutrooms)
       - [Enable Together Mode](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/together-mode)
       - [Control media access](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/media-access)
+  - Teams Phone extensibility
+    - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-overview)
+    - [Cost and connectivity options](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-connectivity-cost)
+    - [Provisioning and authorization](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-provisioning)
+    - [Teams Phone client capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-client-capabilities)
+    - [Teams Phone extensibility FAQ](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-faq)
+    - [Troubleshooting](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-troubleshooting)
+    - Samples and tutorials
+      - [Teams Phone extensibility quick start](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/tpe/teams-phone-extensibility-quickstart)
+      - [Answer Teams Phone calls from Call Automation](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/tpe/teams-phone-extensibility-answer-teams-calls)
+      - [Access Teams Phone without going through the Teams client](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/tpe/teams-phone-extensibility-access-teams-phone)
+      - [REST API for Teams Phone extensibility](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/tpe/teams-phone-extensiblity-rest-api)
   - Job Router
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/concepts)
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)

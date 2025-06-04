@@ -346,8 +346,6 @@
         - [Azure Synapse Apache Spark 3.5 runtime Public Preview](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-35-runtime)
         - [Azure Synapse Apache Spark 3.4 runtime GA](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-34-runtime)
         - [Azure Synapse Apache Spark 3.3 runtime unsupported](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-33-runtime)
-        - [Azure Synapse Apache Spark 3.2 runtime deprecated](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-32-runtime)
-        - [Azure Synapse Apache Spark 3.1 runtime deprecated](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-3-runtime)
         - [Lifecycle and Supportability](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/runtime-for-apache-spark-lifecycle-and-supportability)
       - [Machine learning](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-concept)
       - [Notebooks](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-notebook-concept)
