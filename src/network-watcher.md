@@ -26,8 +26,7 @@
         - [Monitor connectivity using Azure Monitor agent](https://learn.microsoft.com/en-us/azure/network-watcher/azure-monitor-agent-with-connection-monitor)
         - [Install Azure Connected Machine agent](https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-connected-machine-agent)
         - [Install Azure Monitor agent](https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-install-azure-monitor-agent)
-    - Topology
-      - [View topology](https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-topology)
+    - [Topology](https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-topology)
   - Network diagnostic tools
     - IP flow verify
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/ip-flow-verify-overview)
@@ -44,10 +43,7 @@
         - [Portal](https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem)
         - [PowerShell](https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem-powershell)
         - [Azure CLI](https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem-cli)
-    - Effective security rules
-      - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/effective-security-rules-overview)
-    - VM Network Troubleshooter
-      - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/vm-network-troubleshooter)
+    - [Effective security rules](https://learn.microsoft.com/en-us/azure/network-watcher/effective-security-rules-overview)
     - VPN troubleshoot
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/vpn-troubleshoot-overview)
       - Troubleshoot VPN gateway and connections
@@ -67,6 +63,7 @@
     - Connection troubleshoot
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-overview)
       - [Troubleshoot outbound connections](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-manage)
+    - [VM Network Troubleshooter](https://learn.microsoft.com/en-us/azure/network-watcher/vm-network-troubleshooter)
   - Flow logs
     - VNet flow logs
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-overview)
@@ -81,18 +78,19 @@
         - [Bicep](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-bicep)
         - [REST](https://learn.microsoft.com/previous-versions/azure/network-watcher/nsg-flow-logs-rest?toc=/azure/network-watcher/toc.json)
       - [Audit and deploy using Azure Policy](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal)
-      - [Migrate NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate)
       - Analyze NSG flow logs
         - [Use Power BI](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-power-bi)
         - [Use Elastic Stack](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-open-source-tools?toc=/azure/network-watcher/toc.json)
         - [Use Grafana](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-nsg-grafana?toc=/azure/network-watcher/toc.json)
         - [Use Graylog](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-analyze-nsg-flow-logs-graylog?toc=/azure/network-watcher/toc.json)
     - [Read flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-read)
+    - [Migrate NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate)
     - Traffic analytics
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
       - [Usage scenarios](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-usage-scenarios)
-      - [Enable traffic analytics using Azure policy](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)
       - [Schema and data aggregation](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema)
+      - [Apply Zero Trust principles to segment Azure network](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-zero-trust)
+      - [Enable traffic analytics using Azure policy](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)
       - [FAQ](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-faq.yml)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/network-watcher-security-baseline?toc=/azure/network-watcher/toc.json)

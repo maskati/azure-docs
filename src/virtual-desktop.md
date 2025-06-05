@@ -105,13 +105,12 @@
       - Preferred application group type
         - [Preferred application group type overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/preferred-application-group-type)
         - [Set preferred application group type](https://learn.microsoft.com/en-us/azure/virtual-desktop/set-preferred-application-group-type)
-      - App attach
-        - [App attach overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-overview)
+      - App Attach
+        - [App Attach overview](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-overview)
         - [Create an MSIX image](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-create-msix-image)
-        - [Add and manage app attach applications](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-setup)
+        - [Add and manage App Attach applications](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-setup)
         - [Test MSIX packages](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-test-msix-packages)
-        - [Migrate from MSIX app attach to app attach](https://learn.microsoft.com/en-us/azure/virtual-desktop/msix-app-attach-migration)
-        - [Partner solutions with app attach](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-partner-solutions)
+        - [Partner solutions with App Attach](https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-partner-solutions)
         - [MSIXMGR tool parameters](https://learn.microsoft.com/en-us/azure/virtual-desktop/msixmgr-tool-syntax-description)
       - Specific applications
         - [Use Microsoft Teams](https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd)
@@ -236,7 +235,7 @@
     - [Multimedia redirection](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-multimedia-redirection?context=/azure/virtual-desktop/context/context)
     - [Microsoft Teams](https://learn.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-teams)
     - [Custom image templates](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-custom-image-templates?context=/azure/virtual-desktop/context/context)
-    - [App attach](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-app-attach?context=/azure/virtual-desktop/context/context)
+    - [App Attach](https://learn.microsoft.com/troubleshoot/azure/virtual-desktop/troubleshoot-app-attach?context=/azure/virtual-desktop/context/context)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/desktopvirtualization)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.desktopvirtualization)
