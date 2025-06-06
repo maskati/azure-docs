@@ -428,6 +428,7 @@
       - Built-in Azure Policy for Azure Backup
         - [Auto-Enable Backup on VM Creation using Azure Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-auto-enable-backup)
         - [Configure vault diagnostics settings at scale](https://learn.microsoft.com/en-us/azure/backup/azure-policy-configure-diagnostics)
+        - [Audit and Enforce backup for Azure Files using Azure policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files-policy-automation)
         - [Audit and Enforce backup for Managed Disks using Azure policy](https://learn.microsoft.com/en-us/azure/backup/backup-managed-disks-policy)
         - [Audit and Enforce backup operations for Azure Kubernetes Service clusters using Azure policy](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-policy)
       - Use PowerShell

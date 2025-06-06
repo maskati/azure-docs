@@ -96,15 +96,6 @@
         - [Import OData API](https://learn.microsoft.com/en-us/azure/api-management/import-api-from-odata)
         - [Import SAP OData metadata](https://learn.microsoft.com/en-us/azure/api-management/sap-api)
       - [Import gRPC API](https://learn.microsoft.com/en-us/azure/api-management/grpc-api)
-      - Azure OpenAI and LLM APIs
-        - [AI gateway capabilities in API Management](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
-        - [Import Azure AI Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
-        - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
-        - [Import OpenAI-compatible LLM API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-llm-api)
-        - [Authenticate and authorize to Azure OpenAI](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
-        - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
-        - [Semantic caching for Azure OpenAI API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
-        - [Protect Azure OpenAI keys](https://learn.microsoft.com/semantic-kernel/deploy/use-ai-apis-with-api-management?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
       - [Configure API for SSE](https://learn.microsoft.com/en-us/azure/api-management/how-to-server-sent-events)
       - [API import restrictions](https://learn.microsoft.com/en-us/azure/api-management/api-management-api-import-restrictions)
       - Microservices as APIs
@@ -119,6 +110,15 @@
     - Cache
       - [Add caching to improve performance](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-cache)
       - [Custom caching](https://learn.microsoft.com/en-us/azure/api-management/api-management-sample-cache-by-key)
+  - API management for AI
+    - [AI gateway capabilities in API Management](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
+    - [Import Azure AI Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
+    - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
+    - [Import OpenAI-compatible LLM API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-llm-api)
+    - [Authenticate and authorize to Azure OpenAI](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
+    - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
+    - [Semantic caching for Azure OpenAI API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
+    - [Protect Azure OpenAI keys](https://learn.microsoft.com/semantic-kernel/deploy/use-ai-apis-with-api-management?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
   - Manage APIs with policies
     - [API Management policies overview](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-policies)
     - [Set or edit policies](https://learn.microsoft.com/en-us/azure/api-management/set-edit-policies)

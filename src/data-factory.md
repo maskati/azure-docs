@@ -140,6 +140,7 @@
     - [Create a data factory in UI](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory)
     - Create Data Factory Programmatically
       - [Create data factory - Azure CLI](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-azure-cli)
+      - [Create data factory - ARM](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-resource-manager-template)
       - [Create data factory - Azure PowerShell](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-powershell)
       - [Create data factory - .NET](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-dot-net)
       - [Create data factory - Python](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-python)

@@ -344,7 +344,7 @@
       - Azure Synapse runtimes for Apache Spark
         - [Runtime for Apache Spark overview](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-version-support)
         - [Azure Synapse Apache Spark 3.5 runtime Public Preview](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-35-runtime)
-        - [Azure Synapse Apache Spark 3.4 runtime GA](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-34-runtime)
+        - [Azure Synapse Apache Spark 3.4 runtime EOSA](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-34-runtime)
         - [Azure Synapse Apache Spark 3.3 runtime unsupported](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-33-runtime)
         - [Lifecycle and Supportability](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/runtime-for-apache-spark-lifecycle-and-supportability)
       - [Machine learning](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-concept)

@@ -41,9 +41,11 @@
       - [Actions](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-standard-premium)
       - [Configure a rule set](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-rule-set)
       - [Configure security headers](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-security-headers?pivots=front-door-standard-premium)
+      - [Configure delivery rules](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/front-door-add-rules-cli)
       - [Server variables](https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables)
       - [URL rewrite](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium)
       - [URL redirect](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-standard-premium)
+      - [Cross-Origin Resource Sharing CORS](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/troubleshoot-cross-origin-resources)
     - Origins
       - [Origins and origin groups](https://learn.microsoft.com/en-us/azure/frontdoor/origin)
       - [Traffic acceleration](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-standard-premium)
@@ -78,22 +80,25 @@
       - [Azure OpenAI](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai?toc=/azure/frontdoor/toc.json)
       - [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/front-door-manual?toc=/azure/frontdoor/toc.json)
   - Migration and upgrades
-    - Migrate to Standard or Premium tier
-      - [Overview](https://learn.microsoft.com/en-us/azure/frontdoor/tier-migration)
-      - [Classic to Standard/Premium mapping](https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping)
-      - [Migrate from Front Door classic - Portal](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier)
-      - [Migrate from Front Door classic - PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier-powershell)
-    - [Microsoft CDN classic retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq)
-    - [Edgio retirement FAQ](https://learn.microsoft.com/previous-versions/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/toc.json)
-    - CDN classic to Azure Front Door
-      - [Overview](https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/toc.json)
-      - [Migrate from Azure CDN classic to Azure Front Door](https://learn.microsoft.com/en-us/azure/cdn/migrate-tier?toc=/azure/frontdoor/toc.json)
-    - [Migrate CDN provider](https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/toc.json)
-    - Migrate any CDN to Azure Front Door
-      - [Custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door)
-    - Upgrade to Premium tier
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade)
-      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade-powershell)
+    - Migrations
+      - Front Door classic to Standard/Premium
+        - [Classic to Standard/Premium migration](https://learn.microsoft.com/en-us/azure/frontdoor/tier-migration)
+        - [Classic to Standard/Premium mapping](https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping)
+        - [Migrate from Front Door classic - Portal](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier)
+        - [Migrate from Front Door classic - PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier-powershell)
+      - CDN classic to Front Door Standard/Premium
+        - [CDN classic to Front Door migration](https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/toc.json)
+        - [Migrate from Azure CDN classic to Azure Front Door](https://learn.microsoft.com/en-us/azure/cdn/migrate-tier?toc=/azure/frontdoor/toc.json)
+      - Other CDN to Front Door Standard/Premium
+        - [Migrate CDN provider](https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/toc.json)
+        - [Custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door)
+    - Upgrades
+      - [Upgrade from Standard to Premium tier - Portal](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade)
+      - [Upgrade from Standard to Premium tier - PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade-powershell)
+    - Retirements
+      - [CDN classic retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq)
+      - [Front Door classic retirement FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/classic-retirement-faq)
+      - [Edgio retirement FAQ](https://learn.microsoft.com/previous-versions/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/toc.json)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-front-door-security-baseline?toc=/azure/frontdoor/toc.json)
     - [DDoS protection](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos)
@@ -142,7 +147,6 @@
   - Legacy CDN
     - Get started
       - [What is Azure Front Door classic?](https://learn.microsoft.com/en-us/azure/frontdoor/classic-overview)
-      - [Front Door classic retirement FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/classic-retirement-faq)
       - [What is Azure Content Delivery Network Azure CDN?](https://learn.microsoft.com/en-us/azure/cdn/cdn-overview?toc=/azure/frontdoor/toc.json)
     - Quickstarts
       - Front Door classic

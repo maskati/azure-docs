@@ -34,6 +34,7 @@
     - [High traffic support](https://learn.microsoft.com/en-us/azure/application-gateway/high-traffic-support)
     - [Autoscaling v2 SKU](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
     - [WebSocket support](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-websocket)
+    - [DNS resolution details](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-dns-resolution)
     - [Ingress for AKS](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview)
     - [Understanding pricing](https://learn.microsoft.com/en-us/azure/application-gateway/understanding-pricing)
     - [FAQ](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq.yml)

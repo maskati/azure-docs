@@ -34,7 +34,6 @@
 [Azure Business Process Tracking documentation (Preview)](./business-process-tracking.md)
 [Edge Secured-core Documentation](./certification.md)
 [Azure Cloud Services (extended support) documentation](./cloud-services-extended-support.md)
-[Azure Cloud Services (classic) documentation](./cloud-services.md)
 [cloud-shell](./cloud-shell.md)
 [Azure Communication Services documentation](./communication-services.md)
 [Azure Communications Gateway documentation](./communications-gateway.md)
