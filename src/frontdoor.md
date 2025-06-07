@@ -149,15 +149,8 @@
       - [What is Azure Front Door classic?](https://learn.microsoft.com/en-us/azure/frontdoor/classic-overview)
       - [What is Azure Content Delivery Network Azure CDN?](https://learn.microsoft.com/en-us/azure/cdn/cdn-overview?toc=/azure/frontdoor/toc.json)
     - Quickstarts
-      - Front Door classic
-        - [Create a Front Door - Portal](https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door)
-        - [Create a Front Door - PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-powershell)
-        - [Create a Front Door - CLI](https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-cli)
-        - [Create a Front Door - Bicep](https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-bicep)
-        - [Create a Front Door - ARM Template](https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-template)
-        - [Create a Front Door - Terraform](https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-terraform)
       - CDN from Microsoft classic
-        - [Integrate a storage account](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-a-storage-account-with-cdn?toc=/azure/frontdoor/toc.json)
+        - [Integrate a storage account - Portal](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-a-storage-account-with-cdn?toc=/azure/frontdoor/toc.json)
         - [Create a profile and endpoint - Portal](https://learn.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint?toc=/azure/frontdoor/toc.json)
         - [Create a profile and endpoint - Azure CLI](https://learn.microsoft.com/en-us/azure/cdn/scripts/cli/cdn-azure-cli-create-endpoint?toc=/azure/frontdoor/toc.json)
         - [Create profile and endpoint - Bicep](https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-bicep?toc=/azure/frontdoor/toc.json)
@@ -194,7 +187,6 @@
           - [Shared access signature storage support](https://learn.microsoft.com/en-us/azure/cdn/cdn-sas-storage-support?toc=/azure/frontdoor/toc.json)
           - [Cross-origin resource sharing](https://learn.microsoft.com/en-us/azure/cdn/cdn-cors?toc=/azure/frontdoor/toc.json)
           - [Monitor resources](https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/toc.json)
-          - [Use Traffic Manager](https://learn.microsoft.com/en-us/azure/cdn/cdn-traffic-manager?toc=/azure/frontdoor/toc.json)
         - [Analyze](https://learn.microsoft.com/en-us/azure/cdn/cdn-log-analysis?toc=/azure/frontdoor/toc.json)
           - [Monitoring, metrics, and access Logs](https://learn.microsoft.com/en-us/azure/cdn/monitoring-and-access-log?toc=/azure/frontdoor/toc.json)
           - [Azure diagnostics logs](https://learn.microsoft.com/en-us/azure/cdn/cdn-azure-diagnostic-logs?toc=/azure/frontdoor/toc.json)

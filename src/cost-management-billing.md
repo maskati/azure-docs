@@ -145,6 +145,9 @@
     - [Azure Retail Prices REST API](https://learn.microsoft.com/rest/api/cost-management/retail-prices/azure-retail-prices)
   - Resources
     - [Cost Management + Billing FAQ](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-faq.yml)
+    - [Enterprise Agreement EA FAQ](https://learn.microsoft.com/en-us/azure/cost-management-billing/enterprise-agreement-faq.yml)
+    - [Partner FAQ](https://learn.microsoft.com/en-us/azure/cost-management-billing/partner-faq.yml)
+    - [Azure Reservations and Savings Plan FAQ](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations-savings-plan-faq.yml)
     - [Discover cloud footprint FAQ](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/discover-cloud-footprint)
   - Samples
     - REST API
