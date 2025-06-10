@@ -31,7 +31,7 @@
 [Azure Bastion documentation](./bastion.md)
 [Azure Batch documentation](./batch.md)
 [Azure Business Continuity Center documentation](./business-continuity-center.md)
-[Azure Business Process Tracking documentation (Preview)](./business-process-tracking.md)
+[Azure Business Process Tracking documentation](./business-process-tracking.md)
 [Edge Secured-core Documentation](./certification.md)
 [Azure Cloud Services (extended support) documentation](./cloud-services-extended-support.md)
 [cloud-shell](./cloud-shell.md)

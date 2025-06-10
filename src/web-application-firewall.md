@@ -89,7 +89,7 @@
       - [Detect new threats using Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-new-threat-detection)
       - [Automated detection and response](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/automated-detection-response-with-sentinel)
     - [Application DDoS protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/application-ddos-protection)
-    - [Microsoft Copilot for Security](https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-copilot)
+    - [Microsoft Security Copilot](https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-copilot)
     - [JavaScript challenge](https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-javascript-challenge)
     - [CAPTCHA challenge](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/captcha-challenge)
   - Operational excellence

@@ -32,6 +32,7 @@
       - [Identity .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.identity-readme)
       - [Identity Java](https://learn.microsoft.com/java/api/overview/azure/communication-identity-readme)
       - [Identity Python](https://learn.microsoft.com/python/api/overview/azure/communication-identity-readme)
+      - [Identity REST](https://learn.microsoft.com/rest/api/communication/identity/operation-groups)
   - Chat
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
@@ -82,6 +83,7 @@
       - [Chat Android/Java](https://learn.microsoft.com/java/api/overview/azure/communication-chat-readme)
       - [Chat Python](https://learn.microsoft.com/python/api/overview/azure/communication-chat-readme)
       - [Chat iOS](https://azure.github.io/azure-sdk-for-ios/AzureCommunicationChat/index.html)
+      - [Chat REST](https://learn.microsoft.com/rest/api/communication/chat/operation-groups)
   - Email
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-overview)
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
@@ -143,6 +145,7 @@
       - [Email Python](https://learn.microsoft.com/python/api/overview/azure/communication-email-readme)
       - [Email Azure CLI](https://learn.microsoft.com/cli/azure/communication/email)
       - [Email PowerShell](https://learn.microsoft.com/powershell/module/az.communication)
+      - [Email REST](https://learn.microsoft.com/rest/api/communication/email/operation-groups)
   - SMS
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/concepts)
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms-pricing)
@@ -182,6 +185,7 @@
       - [SMS .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.sms-readme)
       - [SMS Android/Java](https://learn.microsoft.com/java/api/overview/azure/communication-sms-readme)
       - [SMS Python](https://learn.microsoft.com/python/api/overview/azure/communication-sms-readme)
+      - [SMS REST](https://learn.microsoft.com/rest/api/communication/sms/operation-groups)
   - Advanced messaging with WhatsApp
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-overview)
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/pricing)
@@ -426,6 +430,7 @@
         - [Rooms .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.rooms-readme)
         - [Rooms Java](https://learn.microsoft.com/java/api/overview/azure/communication-rooms-readme)
         - [Rooms Python](https://learn.microsoft.com/python/api/overview/azure/communication-rooms-readme)
+        - [Rooms REST](https://learn.microsoft.com/rest/api/communication/rooms/operation-groups)
   - Phone calling
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/telephony-concept)
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/pstn-pricing)
@@ -476,6 +481,7 @@
         - [Phone Numbers .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.phonenumbers-readme)
         - [Phone Numbers Java](https://learn.microsoft.com/java/api/overview/azure/communication-phonenumbers-readme)
         - [Phone Numbers Python](https://learn.microsoft.com/python/api/overview/azure/communication-phonenumbers-readme)
+        - [Phone Numbers REST](https://learn.microsoft.com/rest/api/communication/phonenumbers/operation-groups)
   - Call Automation
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-automation/call-automation)
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
@@ -514,18 +520,18 @@
     - Samples and tutorials
       - [Control and steer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/actions-for-call-control)
       - [Control mid call media actions](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/control-mid-call-media-actions)
-      - [Secure webhook endpoints](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/secure-webhook-endpoint)
+      - [Secure webhook and websocket endpoints](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/secure-webhook-endpoint)
       - [Handle Call Automation events with EventProcessor](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/handle-events-with-event-processor)
       - [Pass contextual data between calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/call-automation/custom-context)
       - [Call Automation Azure OpenAI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-azure-openai-sample)
       - [Call Automation AI sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/call-automation-ai)
       - [Integrate Azure Communication Services with your Microsoft Copilot Studio agent](https://learn.microsoft.com/en-us/azure/communication-services/samples/integrate-azure-communication-services-with-copilot-studio)
     - References
-      - [Call Automation REST](https://learn.microsoft.com/rest/api/communication/callautomation/operation-groups)
       - [Call Automation JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-call-automation-readme)
       - [Call Automation .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.callautomation-readme)
       - [Call Automation Java](https://learn.microsoft.com/java/api/overview/azure/communication-callautomation-readme)
       - [Call Automation Python](https://learn.microsoft.com/python/api/overview/azure/communication-callautomation-readme)
+      - [Call Automation REST](https://learn.microsoft.com/rest/api/communication/callautomation/operation-groups)
   - Teams interoperability
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/teams-interop)
     - Communication as external user
@@ -616,6 +622,7 @@
       - [Job Router .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.jobrouter-readme)
       - [Job Router Java](https://learn.microsoft.com/java/api/overview/azure/communication-jobrouter-readme)
       - [Job Router Python](https://learn.microsoft.com/python/api/overview/azure/communication-jobrouter-readme)
+      - [Job Router REST](https://learn.microsoft.com/rest/api/communication/jobrouter/operation-groups)
   - Artificial Intelligence
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/ai)
     - [Microsoft Copilot Studio](https://learn.microsoft.com/microsoft-copilot-studio/voice-overview)
@@ -682,6 +689,7 @@
         - [Azure Resource Manager .NET](https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.communication-readme)
         - [Azure Resource Manager Java](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-communication-readme)
         - [Azure Resource Manager Python](https://learn.microsoft.com/python/api/overview/azure/mgmt-communication-readme)
+        - [Azure Resource Manager REST](https://learn.microsoft.com/rest/api/communication/resourcemanager/operation-groups)
       - Common Azure API client libraries
         - [Common JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-common-readme)
         - [Common .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.common-readme)
