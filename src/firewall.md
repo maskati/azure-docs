@@ -40,6 +40,7 @@
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy)
       - [Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-certificates)
       - [Enterprise CA Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy-certificates-enterprise-ca)
+    - [Draft and Deploy](https://learn.microsoft.com/en-us/azure/firewall/draft-deploy)
     - To a hybrid Network
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal-policy)
       - [PowerShell](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-ps)
