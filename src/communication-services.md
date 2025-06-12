@@ -151,7 +151,6 @@
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms-pricing)
     - [SMS SDK overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/sdk-features)
     - [SMS FAQ](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/sms-faq)
-    - [Phone number types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-types)
     - [Country availability](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/sub-eligibility-number-capability)
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
     - [Short code program brief filling guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/program-brief-guidelines)
