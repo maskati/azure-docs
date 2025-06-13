@@ -48,6 +48,8 @@
     - [Control Plane Resiliency](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-rack-resiliency)
     - [Access and Identity](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-security-access-identity)
     - [Availability](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-availability)
+    - Credential
+      - [Baseboard Management Controller Credential Rotation Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-baseboard-management-controller-credential-rotation)
   - Quickstarts
     - [Before you start workload deployment](https://learn.microsoft.com/en-us/azure/operator-nexus/quickstarts-tenant-workload-prerequisites)
     - Deploy Nexus Kubernetes cluster
@@ -223,6 +225,7 @@
       - [Access Control List configuration](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-acl-configuration)
       - [Access Control List configuration examples](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-acl-examples)
     - [Operator Nexus SKUs](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-operator-nexus-skus)
+    - [Password By Key Vault Reference](https://learn.microsoft.com/en-us/azure/operator-nexus/reference-key-vault-credential)
   - Release Notes
     - 2024
       - [2404.2](https://learn.microsoft.com/en-us/azure/operator-nexus/release-notes-2404.2)
