@@ -498,7 +498,7 @@
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/?products=azure-functions)
     - [Architecture guidance](https://learn.microsoft.com/azure/architecture/serverless-quest/serverless-overview)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=compute)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?category=compute)
     - [Pricing details](https://azure.microsoft.com/pricing/details/functions/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Language support policy](https://learn.microsoft.com/en-us/azure/azure-functions/language-support-policy)

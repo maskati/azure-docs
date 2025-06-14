@@ -269,7 +269,7 @@
   - Additional resources
     - [App Service Blog](https://aka.ms/appserviceblog)
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/)
     - [Pricing](https://azure.microsoft.com/pricing/details/app-service/)
     - [Quota Information](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
     - [Service Updates](https://azure.microsoft.com/updates/?product=app-service)

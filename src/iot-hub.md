@@ -191,7 +191,7 @@
       - [IoT Hub shared access policy data source](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/iothub_shared_access_policy)
     - [Azure IoT Developer Center](https://azure.microsoft.com/develop/iot/)
     - [Customer data requests](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-customer-data-requests)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=iot)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?category=iot)
     - [Azure IoT Hub extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
     - [Azure IoT Explorer tool](https://github.com/Azure/azure-iot-explorer)
     - [iothub-diagnostics tool](https://github.com/Azure/iothub-diagnostics)

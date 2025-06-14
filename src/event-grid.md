@@ -361,7 +361,7 @@
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/?products=azure-event-grid)
     - [FAQ](https://learn.microsoft.com/en-us/azure/event-grid/faq.yml)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/)
     - [Pricing](https://azure.microsoft.com/pricing/details/event-grid/)
     - [Pricing Calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-eventgrid)

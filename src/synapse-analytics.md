@@ -831,7 +831,7 @@
       - [Synapse SQL T-SQL language elements](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-reference-tsql-language-elements?context=/azure/synapse-analytics/context/context)
       - [Synapse SQL T-SQL statements](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-reference-tsql-statements?context=/azure/synapse-analytics/context/context)
   - Resources
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=databases)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?category=databases)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-synapse-analytics.html)
     - [Feature requests](https://feedback.azure.com/d365community/forum/9b9ba8e4-0825-ec11-b6e6-000d3a4f07b8)
     - [Pricing](https://azure.microsoft.com/pricing/details/synapse-analytics/)

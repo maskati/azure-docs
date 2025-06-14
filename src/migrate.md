@@ -188,4 +188,4 @@
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-migrate.html)
     - [Blog](https://azure.microsoft.com/blog/tag/azure-migrate/)
     - [Azure Migrate](https://azure.microsoft.com/migrate)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/)

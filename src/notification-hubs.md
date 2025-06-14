@@ -91,7 +91,7 @@
     - [FAQ](https://learn.microsoft.com/en-us/azure/notification-hubs/notification-hubs-push-notification-faq.yml)
     - [Google GCM to FCM Migration](https://learn.microsoft.com/en-us/azure/notification-hubs/notification-hubs-gcm-to-fcm)
     - [SDKs](https://learn.microsoft.com/en-us/azure/notification-hubs/notification-hubs-sdks)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/)
     - [Pricing](https://azure.microsoft.com/pricing/details/notification-hubs/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-notification-hubs.html)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-notificationhub)

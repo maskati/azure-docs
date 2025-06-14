@@ -301,7 +301,7 @@
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/?products=azure-logic-apps)
     - [Azure Logic Apps roadmap](https://aka.ms/logicappsroadmap/)
-    - [Azure roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure roadmap](https://azure.microsoft.com/updates/)
     - [Pricing for Azure Logic Apps](https://azure.microsoft.com/pricing/details/logic-apps/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Customer stories](https://customers.microsoft.com/en-us/search?sq="Azure Logic Apps "&ff=story_product_categories%26>Azure&p=0&so=story_publish_date desc)

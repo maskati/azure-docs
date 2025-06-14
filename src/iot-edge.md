@@ -162,7 +162,7 @@
       - [Python](https://github.com/Azure/azure-iot-sdk-python/tree/main/samples)
       - [iOS Platform](https://github.com/azure-samples/azure-iot-samples-ios/tree/master/)
     - [Azure IoT Developer Center](https://azure.microsoft.com/develop/iot/)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=iot)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?category=iot)
     - [Azure IoT Edge for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge)
     - [Azure IoT Hub extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
     - [Azure IoT Explorer tool](https://github.com/Azure/azure-iot-explorer)

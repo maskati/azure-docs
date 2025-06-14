@@ -20,5 +20,5 @@
     - [SDK for Python](https://pypi.org/project/azure-mgmt-hybridnetwork/1.0.0/)
   - Resources
     - [Network Function Manager product page](https://go.microsoft.com/fwlink/?linkid=2166098)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?category=networking)
     - [Blog](https://azure.microsoft.com/blog/topics/networking)

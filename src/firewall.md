@@ -7,7 +7,6 @@
     - [SKU comparison](https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku)
     - [Preview features](https://learn.microsoft.com/en-us/azure/firewall/firewall-preview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq.yml)
-    - [Known issues and limitations](https://learn.microsoft.com/en-us/azure/firewall/firewall-known-issues)
   - Design & architecture
     - Policy
       - [Policy rule sets](https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets)
@@ -107,6 +106,8 @@
     - [Best practices for performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-best-practices)
     - [Relocate to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
     - [Remote work support](https://learn.microsoft.com/en-us/azure/firewall/remote-work-support)
+  - Troubleshooting
+    - [Known issues and limitations](https://learn.microsoft.com/en-us/azure/firewall/firewall-known-issues)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/firewall)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/new-azfirewall)

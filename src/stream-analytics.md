@@ -360,7 +360,7 @@
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/stream-analytics/policy-reference)
   - Resources
     - [Stream Analytics previews](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-previews)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/)
     - [Blog](https://techcommunity.microsoft.com/t5/analytics-on-azure/bg-p/AnalyticsonAzure/label-name/Azure Stream Analytics)
     - [Feedback forum](https://feedback.azure.com/d365community/forum/d12ec4e3-b825-ec11-b6e6-000d3a4f0f1c)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/179/azure-stream-analytics)

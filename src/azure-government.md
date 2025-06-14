@@ -56,7 +56,7 @@
       - [Authorized reseller list](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-csp-list)
   - Resources
     - [Azure Government Website](https://azure.microsoft.com/global-infrastructure/government/)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/)
     - [Videos](https://azure.microsoft.com/resources/videos/index/?tag=azure-government)
     - [Blog](https://devblogs.microsoft.com/azuregov/)
     - [Pricing](https://azure.microsoft.com/pricing/)

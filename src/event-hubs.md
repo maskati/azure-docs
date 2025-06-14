@@ -216,7 +216,7 @@
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/?products=azure-event-hubs)
     - [FAQ](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-faq.yml)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=iot)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?category=iot)
     - [Pricing](https://azure.microsoft.com/pricing/details/event-hubs/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=event-hubs)

@@ -113,7 +113,7 @@
       - [DPS shared access policy resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/iothub_dps_shared_access_policy)
       - [DPS shared access policy data source](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/iothub_dps_shared_access_policy)
     - [Azure IoT Developer Center](https://azure.microsoft.com/develop/iot/)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=iot)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?category=iot)
     - [Azure IoT Explorer tool](https://github.com/Azure/azure-iot-explorer)
     - [iothub-diagnostics tool](https://github.com/Azure/iothub-diagnostics)
     - [Pricing](https://azure.microsoft.com/pricing/details/iot-hub/)

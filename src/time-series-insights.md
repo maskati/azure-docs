@@ -62,4 +62,4 @@
       - [MSDN forum](https://social.msdn.microsoft.com/Forums/home?forum=AzureTimeSeriesInsights)
       - [Product requests and suggestions](https://feedback.azure.com/d365community/forum/873d6d1c-0c25-ec11-b6e6-000d3a4f07b8)
     - [Azure videos](https://azure.microsoft.com/resources/videos/index/?services=time-series-insights)
-    - [Azure IoT updates](https://azure.microsoft.com/roadmap/?category=iot)
+    - [Azure IoT updates](https://azure.microsoft.com/updates/?category=iot)

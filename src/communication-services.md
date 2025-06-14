@@ -247,6 +247,7 @@
         - [Network recommendations](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/network-requirements)
         - [Call networking internals](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-flows)
         - [Call flow topologies](https://learn.microsoft.com/en-us/azure/communication-services/concepts/detailed-call-flows)
+        - [Integrate with Azure ExpressRoute](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/integrate-express-route)
     - Advanced audio and video features
       - [Music mode](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/music-mode)
       - Edit audio and video media from the client

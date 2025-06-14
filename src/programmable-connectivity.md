@@ -17,5 +17,5 @@
     - [Using network APIs](https://learn.microsoft.com/en-us/azure/programmable-connectivity/azure-programmable-connectivity-using-network-apis)
   - Resources
     - [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=networking)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?category=networking)
     - [Blog](https://techcommunity.microsoft.com/t5/azure-for-operators-blog/azure-programmable-connectivity-empowering-the-next-generation/ba-p/4063967)

@@ -31,7 +31,7 @@
     - [Troubleshoot Playwright portal sign-in issues](https://learn.microsoft.com/en-us/azure/playwright-testing/troubleshoot-unable-sign-into-playwright-portal)
     - [Troubleshoot test run failures](https://learn.microsoft.com/en-us/azure/playwright-testing/troubleshoot-test-run-failures)
   - Resources
-    - [Azure roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure roadmap](https://azure.microsoft.com/updates/)
     - [Playwright documentation](https://playwright.dev/)
     - [Pricing](https://aka.ms/mpt/pricing)
     - [Regional availability](https://azure.microsoft.com/regions/services/)
