@@ -26,7 +26,6 @@
         - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
         - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/migrate-functions)
         - [Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis)
-        - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/migrate-search-service)
         - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
         - [Azure Batch](https://learn.microsoft.com/en-us/azure/reliability/reliability-batch)
         - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)

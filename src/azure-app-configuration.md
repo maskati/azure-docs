@@ -39,9 +39,11 @@
       - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-javascript)
       - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-javascript)
     - Go
-      - Configuration
-        - [Console app](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-go-console-app)
-        - [Gin web app](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-go-web-app)
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-go-console-app)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-go-console-app)
+    - Go Gin
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-go-web-app)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-gin-web-app)
     - Azure Functions
       - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-functions-csharp)
       - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-functions-csharp)
@@ -106,6 +108,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-aspnet-core)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-python)
+      - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-javascript)
   - CI/CD integration
     - [Use configuration files](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-config-file)
     - [Import using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-import-task)
