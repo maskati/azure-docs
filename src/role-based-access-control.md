@@ -62,6 +62,8 @@
       - [REST API](https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-role-assignments-rest)
       - [ARM template](https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-role-assignments-template)
       - [Example conditions for Blob Storage](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-auth-abac-examples?toc=/azure/role-based-access-control/toc.json)
+      - [ABAC for Log Analytics](https://go.microsoft.com/fwlink/?linkid=2324519)
+      - [ABAC for Container Registry](https://go.microsoft.com/fwlink/?linkid=2324520)
       - [Conditions and custom security attributes](https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-custom-security-attributes)
     - [Remove role assignments](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-remove.yml)
     - [List deny assignments](https://learn.microsoft.com/en-us/azure/role-based-access-control/deny-assignments)
