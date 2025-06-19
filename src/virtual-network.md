@@ -106,6 +106,7 @@
     - [Troubleshoot connectivity problems between Azure VMs](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms)
     - [Troubleshoot virtual network deletion failures](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-cannot-delete-vnet)
   - Security
+    - [Secure your Virtual Network](https://learn.microsoft.com/en-us/azure/virtual-network/secure-virtual-network)
     - [Azure Kubernetes network policies](https://learn.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies)
     - [Azure Policy Regulatory Compliance controls](https://learn.microsoft.com/en-us/azure/virtual-network/security-controls-policy)
     - [Azure security baseline for Virtual Network](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-security-baseline?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)

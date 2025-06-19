@@ -2,7 +2,6 @@
 > Azure reliability documentation, which includes guidance for reliability in Azure services, Azure platform reliability such as availability zones and multi-region support, and fundamental cloud reliability concepts.
   - [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/)
   - [Overview](https://learn.microsoft.com/en-us/azure/reliability/overview)
-  - [What's new](https://learn.microsoft.com/en-us/azure/reliability/whats-new)
   - Reliability fundamentals
     - [Business continuity, high availability, and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery)
     - [Redundancy, replication, and backup](https://learn.microsoft.com/en-us/azure/reliability/concept-redundancy-replication-backup)

@@ -148,9 +148,10 @@
       - [DNS via AMA](https://learn.microsoft.com/en-us/azure/sentinel/connect-dns-ama)
       - [Logstash plugin with Data Collection Rules](https://learn.microsoft.com/en-us/azure/sentinel/connect-logstash-data-connection-rules)
     - Connection instructions for service
-      - [Amazon Web Services logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws)
-      - [AWS S3 WAF logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-s3-waf)
-      - [CloudWatch events via Lambda function](https://learn.microsoft.com/en-us/azure/sentinel/cloudwatch-lambda-function.yml)
+      - Amazon Web Services
+        - [Connect Microsoft Sentinel to AWS](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-configure-environment)
+        - [AWS service logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws)
+        - [AWS S3 WAF logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-s3-waf)
       - [Cisco FTD firewall](https://learn.microsoft.com/en-us/azure/sentinel/cisco-ftd-firewall)
       - [Google Cloud Platform connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-google-cloud-platform)
       - [Microsoft Entra](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)

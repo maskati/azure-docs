@@ -113,6 +113,7 @@
     - [Resiliency Insights](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-insights)
     - [Resiliency Validation](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-validation)
   - Security
+    - [Secure your Expressroute](https://learn.microsoft.com/en-us/azure/expressroute/secure-expressroute)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/expressroute-security-baseline?toc=/azure/expressroute/TOC.json)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/expressroute/roles-permissions)
     - Encryption

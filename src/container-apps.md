@@ -130,6 +130,7 @@
       - [X](https://learn.microsoft.com/en-us/azure/container-apps/authentication-twitter)
       - [Custom OpenID Connect](https://learn.microsoft.com/en-us/azure/container-apps/authentication-openid)
   - Security
+    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/security)
     - [Manage secrets](https://learn.microsoft.com/en-us/azure/container-apps/manage-secrets)
     - [Token store](https://learn.microsoft.com/en-us/azure/container-apps/token-store)
     - Managed identities
