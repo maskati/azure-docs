@@ -16,7 +16,7 @@
       - [Production deployment guidelines](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-guidelines)
       - [Production deployment examples](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-examples)
     - Secure your deployment
-      - [Certificate management](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/concept-default-root-ca)
+      - [Manage certificates](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-certificates)
       - [Manage secrets](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-secrets)
       - [Validate images](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-validate-images)
       - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)

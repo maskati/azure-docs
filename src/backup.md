@@ -96,10 +96,10 @@
       - [SAP ASE Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-ase-backup-support-matrix)
       - [Azure Database for MySQL - Flexible Server long-term retention support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)
       - [Azure files backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-support-matrix)
-      - [Azure Elastic SAN backup support matrix preview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-support-matrix)
+      - [Azure Elastic SAN backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-support-matrix)
       - [Azure Disk Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/disk-backup-support-matrix)
       - [Azure Blobs backup support matrix](https://learn.microsoft.com/en-us/azure/backup/blob-backup-support-matrix)
-      - [Azure Data Lake Storage backup support matrix preview](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-support-matrix)
+      - [Azure Data Lake Storage backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-support-matrix)
       - [Active Directory domain controllers](https://learn.microsoft.com/en-us/azure/backup/active-directory-backup-restore)
       - [Supported VM SKUs for Azure Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-policy-supported-skus)
       - [Azure Database for PostgreSQL backup support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-support-matrix)
@@ -139,8 +139,8 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-overview)
       - [Prerequisites](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-concept)
     - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/blob-backup-overview)
-    - [Azure Data Lake Storage backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-overview)
-    - [Azure Elastic SAN backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-overview)
+    - [Azure Data Lake Storage backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-overview)
+    - [Azure Elastic SAN backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-overview)
     - [Azure Files backup](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)
     - Windows backup using MARS agent
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-about-mars)
@@ -150,7 +150,7 @@
       - [Enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-about)
       - [Multi-user authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept)
       - [Immutable vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-concept)
-      - [Secure by Default with Azure Backup Preview](https://learn.microsoft.com/en-us/azure/backup/secure-by-default)
+      - [Secure by Default with Azure Backup](https://learn.microsoft.com/en-us/azure/backup/secure-by-default)
       - Private endpoints
         - [V1 experience](https://learn.microsoft.com/en-us/azure/backup/private-endpoints-overview)
         - [V2 experience](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-concept)
@@ -320,7 +320,7 @@
         - [Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-create-update-blob-policy)
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-backup-blobs)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-restore-blobs)
-    - Azure Data Lake Storage backup preview
+    - Azure Data Lake Storage backup
       - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-configure-backup)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-restore)
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-manage)
@@ -341,10 +341,10 @@
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-file-share-rest-api)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-file-share-rest-api)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-azure-file-share-rest-api)
-    - Azure Elastic SAN backup preview
-      - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-configure)
-      - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-restore)
-      - [manage](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-storage-area-network-backup-manage)
+    - Azure Elastic SAN backup
+      - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-configure)
+      - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-restore)
+      - [manage](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-manage)
     - SAP HANA database on Azure VM backup
       - Backup
         - [Database](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database)
@@ -408,7 +408,7 @@
       - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/backup/monitor-backup-reference)
       - Alerts
         - [Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-alerts)
-        - [Metrics preview](https://learn.microsoft.com/en-us/azure/backup/metrics-overview)
+        - [Metrics](https://learn.microsoft.com/en-us/azure/backup/metrics-overview)
         - [Logs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-use-azuremonitor)
         - [Configure notifications](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-alerts-notification)
         - [Classic Alerts](https://learn.microsoft.com/en-us/azure/backup/move-to-azure-monitor-alerts)
@@ -486,7 +486,7 @@
       - [Encrypted Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-encrypted-vm-troubleshoot)
       - [Azure Backup agent](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mars-troubleshoot)
       - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-blob-backup)
-      - [Azure Data Lake Storage backup preview](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-troubleshoot)
+      - [Azure Data Lake Storage backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-troubleshoot)
       - [Files and folders backup is slow](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-slow-backup-performance-issue)
       - [Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mabs-troubleshoot)
       - [Azure Backup Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-vault-troubleshoot)

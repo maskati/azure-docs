@@ -214,6 +214,7 @@
         - [Enable virtual network integration](https://learn.microsoft.com/en-us/azure/app-service/configure-vnet-integration-enable)
         - [Configure network routing](https://learn.microsoft.com/en-us/azure/app-service/configure-vnet-integration-routing)
         - [Configure gateway-required integration](https://learn.microsoft.com/en-us/azure/app-service/configure-gateway-required-vnet-integration)
+        - [Migrate from gateway-based integration](https://learn.microsoft.com/en-us/azure/app-service/migrate-gateway-based-vnet-integration)
       - [Deploy app behind private endpoint](https://learn.microsoft.com/en-us/azure/app-service/overview-private-endpoint)
       - [Control outbound traffic with Azure Firewall](https://learn.microsoft.com/en-us/azure/app-service/network-secure-outbound-traffic-azure-firewall)
       - [Integrate with Application Gateway](https://learn.microsoft.com/en-us/azure/app-service/overview-app-gateway-integration)

@@ -53,7 +53,7 @@
       - Network isolation - v2 tiers
         - [Virtual network injection v2 tiers](https://learn.microsoft.com/en-us/azure/api-management/inject-vnet-v2)
         - [Virtual network integration v2 tiers](https://learn.microsoft.com/en-us/azure/api-management/integrate-vnet-outbound)
-      - [Virtual network integration workspace gateway - requirements](https://learn.microsoft.com/en-us/azure/api-management/virtual-network-workspaces-resources)
+      - [Virtual network for workspace gateways](https://learn.microsoft.com/en-us/azure/api-management/virtual-network-workspaces-resources)
       - [Connect privately using private endpoint](https://learn.microsoft.com/en-us/azure/api-management/private-endpoint)
       - [Retrieve IP addresses](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-ip-addresses)
       - [Defend against DDoS attacks](https://learn.microsoft.com/en-us/azure/api-management/protect-with-ddos-protection)
