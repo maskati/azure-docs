@@ -199,4 +199,4 @@
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=iot-hub)
     - [Technical case studies](https://microsoft.github.io/generative-ai-for-beginners/)
-    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=iot-hub)
+    - [Videos](https://learn.microsoft.com/shows/Inside-Azure-for-IT/?products=azure-iot-hub)

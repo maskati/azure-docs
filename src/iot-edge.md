@@ -171,4 +171,4 @@
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=iot-edge)
     - [Technical case studies](https://microsoft.github.io/generative-ai-for-beginners/)
-    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=iot-edge)
+    - [Videos](https://learn.microsoft.com/shows/Inside-Azure-for-IT/?products=azure-iot-edge)

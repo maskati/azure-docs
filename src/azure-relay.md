@@ -50,7 +50,7 @@
     - [Exceptions](https://learn.microsoft.com/en-us/azure/azure-relay/relay-exceptions)
     - [Port settings](https://learn.microsoft.com/en-us/azure/azure-relay/relay-port-settings)
   - Resources
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=enterprise-integration)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?searchterms=relay)
     - [FAQ](https://learn.microsoft.com/en-us/azure/azure-relay/relay-faq.yml)
     - [Blog](https://learn.microsoft.com/archive/blogs/servicebus/)
     - [Pricing](https://azure.microsoft.com/pricing/details/service-bus/)

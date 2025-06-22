@@ -287,7 +287,7 @@
       - [Create app on Azure Arc](https://learn.microsoft.com/en-us/azure/app-service/quickstart-arc)
     - [Best practices](https://learn.microsoft.com/en-us/azure/app-service/app-service-best-practices)
     - [Samples](https://azure.microsoft.com/resources/samples/?service=app-service)
-    - [Videos](https://azure.microsoft.com/resources/videos/index/?services=app-service)
+    - [Videos](https://learn.microsoft.com/shows/browse?products=azure-app-service)
     - Migrate to App Service
       - [Assess .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-assess-net)
       - [Discover .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-discover-net)

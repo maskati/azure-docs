@@ -188,7 +188,7 @@
   - Resources
     - [FAQ](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-faq.yml)
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/?products=azure-service-bus)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=enterprise-integration)
+    - [Azure Roadmap](https://azure.microsoft.com/updates?filters=%5B"Service+Bus"%5D)
     - [Blog](https://learn.microsoft.com/archive/blogs/servicebus/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/73/azure-service-bus)
     - [Pricing](https://azure.microsoft.com/pricing/details/service-bus/)
@@ -196,4 +196,4 @@
     - [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer)
     - [Service updates](https://azure.microsoft.com/updates/?product=service-bus)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azureservicebus)
-    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=service-bus)
+    - [Videos](https://learn.microsoft.com/shows/mvp-azure/?terms=service bus)

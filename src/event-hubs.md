@@ -221,4 +221,4 @@
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=event-hubs)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-eventhub)
-    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=event-hubs)
+    - [Videos](https://learn.microsoft.com/shows/data-exposed/?expanded=azure&terms=event-hubs)

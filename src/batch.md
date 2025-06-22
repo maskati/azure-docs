@@ -164,4 +164,4 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.batch/batchaccounts)
     - [Service updates](https://azure.microsoft.com/updates/?product=batch&updatetype=&platform=)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-batch)
-    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=batch)
+    - [Videos](https://learn.microsoft.com/shows/Inside-Azure-for-IT/?products=azure-batch)

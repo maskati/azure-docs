@@ -305,7 +305,7 @@
     - [Pricing for Azure Logic Apps](https://azure.microsoft.com/pricing/details/logic-apps/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Customer stories](https://customers.microsoft.com/en-us/search?sq="Azure Logic Apps "&ff=story_product_categories%26>Azure&p=0&so=story_publish_date desc)
-    - [Videos](https://azure.microsoft.com/resources/videos/index/?services=logic-apps&sort=newest)
+    - [Videos](https://learn.microsoft.com/shows/browse?terms=logic-apps)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/134/azure-logic-apps)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-logic-apps)
     - [X](https://x.com/logicappsio)

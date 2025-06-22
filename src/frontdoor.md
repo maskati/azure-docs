@@ -263,5 +263,5 @@
       - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
       - [Service updates](https://azure.microsoft.com/updates/?product=cdn)
       - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-cdn)
-      - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=cdn)
+      - [Videos](https://learn.microsoft.com/shows/Inside-Azure-for-IT/?products=azure-cdn)
     - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)

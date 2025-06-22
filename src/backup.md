@@ -533,4 +533,4 @@
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-backup.html)
     - [Pricing calculator](https://learn.microsoft.com/en-us/azure/backup/azure-backup-pricing)
     - [Service updates](https://azure.microsoft.com/updates/?product=backup)
-    - [Videos](https://azure.microsoft.com/documentation/videos/index/?services=backup)
+    - [Videos](https://learn.microsoft.com/shows/browse?terms=backup)

@@ -57,7 +57,7 @@
   - Resources
     - [Azure Government Website](https://azure.microsoft.com/global-infrastructure/government/)
     - [Azure Roadmap](https://azure.microsoft.com/updates/)
-    - [Videos](https://azure.microsoft.com/resources/videos/index/?tag=azure-government)
+    - [Videos](https://learn.microsoft.com/shows/browse?terms=government)
     - [Blog](https://devblogs.microsoft.com/azuregov/)
     - [Pricing](https://azure.microsoft.com/pricing/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)

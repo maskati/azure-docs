@@ -69,7 +69,7 @@
     - [SDK](https://www.nuget.org/packages/Microsoft.Azure.Management.Compute/43.0.0-preview)
     - [CLI](https://learn.microsoft.com/cli/azure/cloud-service)
   - Resources
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/?category=compute)
+    - [Azure Roadmap](https://azure.microsoft.com/updates/?filters=%5B"Cloud+Services"%5D)
     - [Learning path](https://learn.microsoft.com/training/paths/az-900-describe-cloud-concepts/)
     - [Microsoft Q&A](https://learn.microsoft.com/answers/topics/azure-cloud-services.html)
     - [Pricing](https://azure.microsoft.com/pricing/details/cloud-services/)

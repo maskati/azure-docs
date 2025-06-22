@@ -84,6 +84,6 @@
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Regional availability](https://azure.microsoft.com/regions/services/)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-virtual-network)
-    - [Videos](https://azure.microsoft.com/resources/videos/index/?services=virtual-network)
+    - [Videos](https://learn.microsoft.com/shows/browse?terms=virtual-network)
   - Troubleshooting
     - [Troubleshoot Microsoft.Network Failed provisioning state](https://learn.microsoft.com/en-us/azure/networking/troubleshoot-failed-state)

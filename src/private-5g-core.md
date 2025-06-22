@@ -109,5 +109,5 @@
     - [Azure Policy definitions](https://learn.microsoft.com/en-us/azure/private-5g-core/azure-policy-reference)
   - Resources
     - [Azure Private 5G Core product page](https://azure.microsoft.com/services/private-5g-core/)
-    - [Azure Roadmap](https://azure.microsoft.com/roadmap/)
+    - [Azure Roadmap](https://azure.microsoft.com/updates?filters=%5B"Azure+Stack+Edge"%5D)
     - [Blog](https://azure.microsoft.com/blog/topics/networking)
