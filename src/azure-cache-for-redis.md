@@ -54,7 +54,7 @@
     - Logs and monitoring
       - [Monitor Cache for Redis](https://learn.microsoft.com/azure/redis/monitor-cache)
       - [Monitor using insights](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-insights-overview)
-      - [Monitor using diagnostic settings](https://learn.microsoft.com/monitor/cache-monitor-diagnostic-settings)
+      - [Monitor using diagnostic settings](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-monitor-diagnostic-settings)
       - [List of Redis metrics](https://learn.microsoft.com/azure/redis/monitor-cache-reference)
     - Scaling and performance
       - [Change the size and tier of a cache](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-scale)
@@ -124,7 +124,7 @@
       - [Use Spring Boot Initializer](https://learn.microsoft.com/azure/developer/java/spring-framework/configure-spring-boot-initializer-java-app-with-redis-cache)
     - Azure Event Grid
       - [Route events with Azure portal](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-event-grid-quickstart-portal)
-      - [Route events with Azure CLI](https://learn.microsoft.com/cache-event-grid-quickstart-cli)
+      - [Route events with Azure CLI](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-event-grid-quickstart-cli)
       - [Route events with PowerShell](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-event-grid-quickstart-powershell)
     - [Create leaderboards](https://learn.microsoft.com/azure/redis/web-app-cache-aside-leaderboard)
     - [Create Web App with Redis cache - Bicep](https://learn.microsoft.com/azure/redis/web-app-bicep-with-redis-cache-provision)

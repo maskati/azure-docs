@@ -94,7 +94,6 @@
               - [Data connector agent systemconfig.json file reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-systemconfig-json)
               - [Data connector agent systemconfig.ini file reference legacy](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-systemconfig)
           - [Enable SAP detections and threat protection](https://learn.microsoft.com/en-us/azure/sentinel/sap/deployment-solution-configuration)
-          - [Automatic attack disruption for SAP](https://learn.microsoft.com/en-us/azure/sentinel/sap/deployment-attack-disrupt)
           - [Integrate SAP across multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/sap/cross-workspace)
           - Monitor SAP systems
             - [Monitor SAP system health and role](https://learn.microsoft.com/en-us/azure/sentinel/monitor-sap-system-health)
