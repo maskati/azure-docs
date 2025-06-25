@@ -7,6 +7,7 @@
   - Concepts
     - Best Practices
       - [Onboard and deploy a Network Function](https://learn.microsoft.com/en-us/azure/operator-service-manager/best-practices-onboard-deploy)
+      - [Workload Configuration Management](https://learn.microsoft.com/en-us/azure/operator-service-manager/configuration-guide)
       - [Roles and Interfaces](https://learn.microsoft.com/en-us/azure/operator-service-manager/roles-interfaces)
       - [Helm Package Requirements](https://learn.microsoft.com/en-us/azure/operator-service-manager/helm-requirements)
       - [Publisher Tenants, subscriptions, regions and preview management](https://learn.microsoft.com/en-us/azure/operator-service-manager/publisher-resource-preview-management)

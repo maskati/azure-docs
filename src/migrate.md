@@ -16,18 +16,28 @@
     - [Requirements for Private endpoints](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
     - [Support Matrix](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix)
   - Discover inventory
-    - [Appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
-    - [Scoped discovery of VMware estate](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
-    - Appliance configuration
-      - [Provide server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
-      - [Discover SQL servers and Webapps](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-sql-existing-project)
-      - [Discover MySQL database instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-mysql-database-instances)
-      - [Discover software, databases, and web apps](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
-      - [Appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
+    - [Discovery methods](https://learn.microsoft.com/en-us/azure/migrate/discovery-methods-modes)
+    - Discovery using appliance
+      - [Appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
+      - Discover VMware
+        - [Discover VMware estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
+        - [Scoped discovery of VMware estate](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
+        - [Support matrix for VMware discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware)
+      - Discover Hyper-V estate
+        - [Discover Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
+      - Discover physical servers
+        - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
+      - Appliance configuration
+        - [Provide server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
+        - [Appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
+      - Discover workloads
+        - [Discover SQL servers and Webapps](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-sql-existing-project)
+        - [Discover MySQL database instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-mysql-database-instances)
+        - [Discover software, databases, and web apps](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
+        - [Create least privileged credentials for SQL discovery](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
     - Discover using inventory import
       - [CSV import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import)
       - [RVTools import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-import-vmware-using-rvtools-xlsx)
-    - [Create least privileged credentials for SQL discover](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
   - Explore inventory
     - [Discovered metadata](https://learn.microsoft.com/en-us/azure/migrate/discovered-metadata)
     - [Review discovered inventory](https://learn.microsoft.com/en-us/azure/migrate/how-to-review-discovered-inventory)
@@ -84,17 +94,14 @@
   - Tutorials
     - Migration Scenarios
       - Migrate VMware servers
-        - [Discover VMware estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
         - [Assess VMWare servers](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-access-private-cloud?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
         - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
         - [Migrate to Azure Local](https://learn.microsoft.com/azure/azure-local/migrate/migration-azure-migrate-vmware-overview?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - Migrate Hyper-V servers
-        - [Discover Hyper-v estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
         - [Assess large number of servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/scale-hyper-v-assessment)
         - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v)
         - [Migrate to Azure Local](https://learn.microsoft.com/azure/azure-local/migrate/migration-azure-migrate-overview?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - Migrate physical servers
-        - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
         - [Assess Physical servers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-physical)
         - [Migrate Physical servers to Azure](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines)
       - Migrate servers hosted on public cloud
@@ -187,5 +194,5 @@
     - [UserVoice](https://aka.ms/AzureMigrateUservoice)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-migrate.html)
     - [Blog](https://azure.microsoft.com/blog/tag/azure-migrate/)
-    - [Azure Migrate](https://azure.microsoft.com/migrate)
+    - [Azure Migrate](https://azure.microsoft.com/products/azure-migrate)
     - [Azure Roadmap](https://azure.microsoft.com/updates/)

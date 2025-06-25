@@ -119,10 +119,7 @@
       - [Use Terraform](https://learn.microsoft.com/en-us/azure/app-service/provision-resource-terraform)
       - [ARM template reference](https://learn.microsoft.com/azure/templates/microsoft.web/allversions)
   - Logs and monitoring
-    - Troubleshoot and resolve issues with an agent
-      - [Overview](https://learn.microsoft.com/en-us/azure/app-service/sre-agent-overview)
-      - [Use an SRE agent](https://learn.microsoft.com/en-us/azure/app-service/sre-agent-usage)
-      - [SRE Agent tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-sre-agent)
+    - [Troubleshoot and resolve issues with an agent](https://learn.microsoft.com/en-us/azure/sre-agent/troubleshoot-azure-app-service)
     - [Monitor App Service](https://learn.microsoft.com/en-us/azure/app-service/monitor-app-service)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/app-service/monitor-app-service-reference)
     - [Azure Monitor tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-troubleshoot-monitor)

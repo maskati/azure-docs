@@ -289,9 +289,6 @@
     - Integrate
       - Connect to services
         - [Azure Cosmos DB - portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb)
-        - Azure Cache for Redis
-          - [Get started with VS Code](https://learn.microsoft.com/en-us/azure/redis/tutorial-functions-getting-started?toc=%2fazure%2fazure-functions%2ftoc.json)
-          - [Create a write-behind cache](https://learn.microsoft.com/en-us/azure/redis/tutorial-write-behind?toc=%2fazure%2fazure-functions%2ftoc.json)
         - Storage
           - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-storage-queue-output-binding)
           - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code)
@@ -320,7 +317,6 @@
       - [Customize endpoints with legacy proxies](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api)
       - [Manage on-premises resources](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell)
     - Troubleshoot
-      - [SRE Agent overview](https://learn.microsoft.com/en-us/azure/app-service/sre-agent-overview?toc=/azure/azure-functions/toc.json)
       - [Storage connections](https://learn.microsoft.com/en-us/azure/azure-functions/functions-recover-storage-account)
       - [Azure Cosmos DB bindings](https://learn.microsoft.com/azure/cosmos-db/troubleshoot-changefeed-functions?toc=/azure/azure-functions/toc.json)
       - [Node.js](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-troubleshoot)

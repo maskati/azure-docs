@@ -116,6 +116,7 @@
 [Service Connector documentation](./service-connector.md)
 [Azure startup credit offer documentation](./signups.md)
 [Azure Site Recovery documentation](./site-recovery.md)
+[Azure SRE Agent documentation](./sre-agent.md)
 [Azure Static Web Apps documentation](./static-web-apps.md)
 [storage-actions](./storage-actions.md)
 [Azure Storage Mover documentation](./storage-mover.md)

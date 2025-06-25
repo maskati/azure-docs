@@ -97,9 +97,9 @@
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
     - Troubleshoot and resolve issues with an agent
-      - [Overview](https://learn.microsoft.com/en-us/azure/app-service/sre-agent-overview)
-      - [Use an SRE agent](https://learn.microsoft.com/en-us/azure/app-service/sre-agent-usage)
-      - [Fix app issues with an SRE agent](https://learn.microsoft.com/en-us/azure/container-apps/sre-agent-troubleshoot)
+      - [Overview](https://learn.microsoft.com/en-us/azure/sre-agent/overview)
+      - [Use an SRE agent](https://learn.microsoft.com/en-us/azure/sre-agent/usage)
+      - [Fix app issues with an SRE agent](https://learn.microsoft.com/en-us/azure/sre-agent/troubleshoot-azure-container-apps)
     - [Application logging](https://learn.microsoft.com/en-us/azure/container-apps/logging)
     - [Real time data](https://learn.microsoft.com/en-us/azure/container-apps/aspire-dashboard)
     - [Logging options](https://learn.microsoft.com/en-us/azure/container-apps/log-options)

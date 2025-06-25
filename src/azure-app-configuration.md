@@ -196,6 +196,7 @@
       - Kubernetes
         - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-kubernetes-provider)
       - Go
+        - [Feature reference](https://pkg.go.dev/github.com/Azure/AppConfiguration-GoProvider/azureappconfiguration)
         - [Azure SDK for Go](https://go.microsoft.com/fwlink/?linkid=2270866)
     - Feature management
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-management-overview)

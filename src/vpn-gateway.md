@@ -27,12 +27,10 @@
   - Configuration settings, SKUs & gateways
     - Gateway SKUs
       - [About gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus)
-      - Gateway SKU consolidation & migration
-        - [About SKU consolidation & migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation)
-      - [Resize a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-resize)
-      - [Change a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change)
+      - [About gateway SKU consolidation & migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation)
+      - [Upgrade a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-upgrade)
       - [Manage legacy gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
-    - Public IP addresses
+    - Public IP address SKUs
       - [About Basic SKU public IP address migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-about)
       - [How to migrate a Basic SKU public IP address to Standard](https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-howto)
     - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
@@ -48,8 +46,6 @@
     - Manage gateway SKUs
       - [About gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus)
       - [Gateway SKU consolidation](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation)
-      - [Resize a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-resize)
-      - [Change a gateway SKU](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change)
       - [Manage legacy gateway SKUs](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
     - [Migrate classic gateways to Resource Manager](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration)
     - Active-active mode gateways
