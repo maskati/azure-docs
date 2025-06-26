@@ -24,7 +24,7 @@
     - [Create an IoT Edge job](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics)
   - Samples
     - Code samples
-      - [.NET](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/streamanalytics/Azure.ResourceManager.StreamAnalytics/samples/Generated/Samples)
+      - [.NET](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/streamanalytics/Azure.ResourceManager.StreamAnalytics/tests/Generated/Samples)
       - [Java](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/streamanalytics/azure-resourcemanager-streamanalytics/src/samples/java/com/azure/resourcemanager/streamanalytics/generated)
       - [JavaScript and TypeScript](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/streamanalytics/arm-streamanalytics/samples/v5-beta)
       - [Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/streamanalytics/azure-mgmt-streamanalytics/generated_samples)
@@ -369,4 +369,4 @@
     - [Service updates](https://azure.microsoft.com/updates/?product=stream-analytics)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-stream-analytics)
     - [Videos](https://azure.microsoft.com/resources/videos/index/?services=stream-analytics&sort=newest)
-    - [Customer case studies](https://azure.microsoft.com/case-studies/?service=stream-analytics)
+    - [Customer case studies](https://www.microsoft.com/customers/search?filters=product%3Aazure&q=stream+analytics)

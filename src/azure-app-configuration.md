@@ -218,6 +218,7 @@
     - [Azure CLI](https://learn.microsoft.com/cli/azure/appconfig)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.appconfiguration/)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/azure-app-configuration/policy-reference)
+    - [Azure MCP Server](https://learn.microsoft.com/azure/developer/azure-mcp-server/tools/app-configuration?toc=/azure/azure-app-configuration/TOC.json)
   - Resources
     - [Pricing](https://azure.microsoft.com/pricing/details/app-configuration/)
     - [Roadmap](https://github.com/Azure/AppConfiguration/projects/1)

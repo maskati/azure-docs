@@ -6,15 +6,15 @@
     - [Azure Operator Service Manager Release Notes](https://learn.microsoft.com/en-us/azure/operator-service-manager/release-notes)
   - Concepts
     - Best Practices
-      - [Onboard and deploy a Network Function](https://learn.microsoft.com/en-us/azure/operator-service-manager/best-practices-onboard-deploy)
-      - [Workload Configuration Management](https://learn.microsoft.com/en-us/azure/operator-service-manager/configuration-guide)
-      - [Roles and Interfaces](https://learn.microsoft.com/en-us/azure/operator-service-manager/roles-interfaces)
+      - [Role-Based Persona Model](https://learn.microsoft.com/en-us/azure/operator-service-manager/roles-interfaces)
+      - [Publisher Tenants, Subscriptions and Regions](https://learn.microsoft.com/en-us/azure/operator-service-manager/publisher-resource-preview-management)
       - [Helm Package Requirements](https://learn.microsoft.com/en-us/azure/operator-service-manager/helm-requirements)
-      - [Publisher Tenants, subscriptions, regions and preview management](https://learn.microsoft.com/en-us/azure/operator-service-manager/publisher-resource-preview-management)
+      - [Onboarding and Deployment Considerations](https://learn.microsoft.com/en-us/azure/operator-service-manager/best-practices-onboard-deploy)
+      - [Workload Configuration Management](https://learn.microsoft.com/en-us/azure/operator-service-manager/configuration-guide)
     - Azure Operator Service Manager CLI Extension
       - [About the Azure Operator Service Manager CLI extension](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-about-azure-operator-service-manager-cli)
-      - [CLI container image onboarding](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-cli-containerized-network-function-image-upload)
-      - [Exposing parameters in a configuration group schema](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-expose-parameters-configuration-group-schema)
+      - [Container image onboarding using CLI](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-cli-containerized-network-function-image-upload)
+      - [Exposing parameters via CGS using CLI](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-expose-parameters-configuration-group-schema)
     - Safe Upgrade Practices
       - [Get Started with Safe Upgrade Practices](https://learn.microsoft.com/en-us/azure/operator-service-manager/safe-upgrade-practices)
       - [Control Upgrade Failure Behavior](https://learn.microsoft.com/en-us/azure/operator-service-manager/safe-upgrades-nf-level-rollback)
@@ -43,7 +43,7 @@
       - [Onboard Subscription to Azure Operator Service Manager](https://learn.microsoft.com/en-us/azure/operator-service-manager/quickstart-onboard-subscription-azure-operator-service-manager)
       - [Create a custom role](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-create-custom-role)
       - [Assign a custom role](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-assign-custom-role)
-      - [Create a user assigned managed identity](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-create-user-assigned-managed-identity)
+      - [Create, assign and use a user assigned managed identity](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-create-user-assigned-managed-identity)
     - Onboard network functions and Azure resources
       - [Onboard a containerized network function CNF - CLI](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-onboard-containerized-network-function-cli)
       - [Onboard a virtualized network function VNF - CLI](https://learn.microsoft.com/en-us/azure/operator-service-manager/how-to-onboard-virtualized-network-function-cli)

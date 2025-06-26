@@ -74,6 +74,7 @@
       - [VPN over private peering](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering)
     - [Add or remove a site-to-site connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/add-remove-site-to-site-connections)
     - [Forced tunneling](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-site-to-site-tunneling)
+    - [Custom traffic selectors](https://learn.microsoft.com/en-us/azure/vpn-gateway/custom-traffic-selectors)
     - Configure custom IPsec/IKE connection policies
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipsec-ike-policy-howto)
       - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell)
@@ -180,6 +181,7 @@
     - NAT
       - [About NAT and VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-overview)
       - [Configure NAT for VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-howto)
+    - [Custom traffic selectors](https://learn.microsoft.com/en-us/azure/vpn-gateway/custom-traffic-selectors)
     - Point-to-site routing
       - [Advertise custom routes to P2S clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes)
       - [About point-to-site VPN routing](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-point-to-site-routing)

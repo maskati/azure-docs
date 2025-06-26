@@ -23,6 +23,7 @@
     - [Interconnect Virtual WANs](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-connectivity)
     - [Global transit network architecture](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-global-transit-network-architecture)
     - [SD-WAN connectivity architecture](https://learn.microsoft.com/en-us/azure/virtual-wan/sd-wan-connectivity-architecture)
+    - [Disaster recovery design](https://learn.microsoft.com/en-us/azure/virtual-wan/disaster-recovery-design)
     - [Private Link and DNS architecture for Virtual WAN](https://learn.microsoft.com/azure/architecture//guide/networking/private-link-virtual-wan-dns-guide?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Configure Virtual WAN for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-virtual-wan?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Interconnect with China](https://learn.microsoft.com/en-us/azure/virtual-wan/interconnect-china)
@@ -201,7 +202,7 @@
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
     - [REST](https://learn.microsoft.com/rest/api/azure)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network)
-    - [Python SDK](https://azuresdkdocs.blob.core.windows.net/$web/python/azure-mgmt-network/10.0.0/azure.mgmt.network.v2019_02_01.operations.html)
+    - [Python SDK](https://learn.microsoft.com/python/api/azure-mgmt-network/azure.mgmt.network.operations.virtualwansoperations)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan-reference)
   - Resources
     - [Azure Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)

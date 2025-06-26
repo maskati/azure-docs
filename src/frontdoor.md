@@ -40,7 +40,6 @@
       - [Match conditions](https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-standard-premium)
       - [Actions](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-standard-premium)
       - [Configure a rule set](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-rule-set)
-      - [Configure security headers](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-security-headers?pivots=front-door-standard-premium)
       - [Configure delivery rules](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/front-door-add-rules-cli)
       - [Rules engine scenarios](https://learn.microsoft.com/en-us/azure/frontdoor/rules-engine-scenarios)
       - [Server variables](https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables)
@@ -137,15 +136,14 @@
     - [Price comparison between tiers](https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing)
     - [CDN and Front Door price comparison](https://learn.microsoft.com/en-us/azure/frontdoor/compare-cdn-front-door-price)
   - Troubleshoot
-    - Front Door
-      - [Troubleshooting with RefString](https://learn.microsoft.com/en-us/azure/frontdoor/refstring)
-      - [Troubleshooting Front Door issues](https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-issues)
-      - [Troubleshooting Front Door performance issues](https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-performance-issues)
-      - [Allowed certificate authorities](https://ccadb-public.secure.force.com/microsoft/IncludedCACertificateReportForMSFT)
-      - [File compression](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/troubleshoot-compression)
-      - [Subscription offers and bandwidth throttling](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/subscription-offers)
-      - [Questions & answers](https://learn.microsoft.com/answers/tags/96/azure-front-door)
-  - Legacy CDN
+    - [Troubleshoot with RefString](https://learn.microsoft.com/en-us/azure/frontdoor/refstring)
+    - [Troubleshoot Front Door issues](https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-issues)
+    - [Troubleshoot Front Door performance issues](https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-performance-issues)
+    - [Troubleshoot file compression](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/troubleshoot-compression)
+    - [Allowed certificate authorities](https://ccadb.my.salesforce-sites.com/microsoft/IncludedCACertificateReportForMSFT)
+    - [Subscription offers and bandwidth throttling](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/subscription-offers)
+    - [Questions & answers](https://learn.microsoft.com/answers/tags/96/azure-front-door)
+  - CDN and Front Door classic
     - Get started
       - [What is Azure Front Door classic?](https://learn.microsoft.com/en-us/azure/frontdoor/classic-overview)
       - [What is Azure Content Delivery Network Azure CDN?](https://learn.microsoft.com/en-us/azure/cdn/cdn-overview?toc=/azure/frontdoor/toc.json)
@@ -211,7 +209,7 @@
       - CDN
         - [404 status](https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-endpoint?toc=/azure/frontdoor/toc.json)
         - [File compression](https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-compression?toc=/azure/frontdoor/toc.json)
-        - [Allowed certificate authorities](https://ccadb-public.secure.force.com/microsoft/IncludedCACertificateReportForMSFT)
+        - [Allowed certificate authorities](https://ccadb.my.salesforce-sites.com/microsoft/IncludedCACertificateReportForMSFT)
         - [Subscription offers and bandwidth throttling](https://learn.microsoft.com/en-us/azure/cdn/subscription-offerings?toc=/azure/frontdoor/toc.json)
         - [Questions & answers](https://learn.microsoft.com/answers/tags/155/azure-cdn)
   - Reference
