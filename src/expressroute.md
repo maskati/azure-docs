@@ -3,7 +3,8 @@
   - [ExpressRoute documentation](https://learn.microsoft.com/en-us/azure/expressroute/)
   - Get started
     - [What is ExpressRoute?](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
-    - [Well-Architected for ExpressRoute](https://learn.microsoft.com/azure/well-architected/service-guides/azure-expressroute)
+    - [Architecture best practices for Azure ExpressRoute](https://learn.microsoft.com/azure/well-architected/service-guides/azure-expressroute?toc=/azure/expressroute/toc.jso)
+    - What is hybrid connectivity?
     - Before you start using ExpressRoute
       - [Prerequisites](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-prerequisites)
       - [Understand connectivity models](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-connectivity-models)
@@ -91,14 +92,14 @@
       - Configure a virtual network gateway
         - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-portal-resource-manager)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-resource-manager)
-    - Zone-redundant gateway
-      - [Overview](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways?toc=/azure/expressroute/toc.json)
-      - [Deploy a zone-redundant gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway?toc=/azure/expressroute/toc.json)
-      - Migrate to zone-redundant gateway
-        - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration)
-        - Migrate
-          - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-portal)
-          - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-powershell)
+      - Zone-redundant gateway
+        - [Overview](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways?toc=/azure/expressroute/toc.json)
+        - [Deploy a zone-redundant gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway?toc=/azure/expressroute/toc.json)
+        - Migrate to zone-redundant gateway
+          - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration)
+          - Migrate
+            - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-portal)
+            - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-powershell)
     - Traffic collector
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector)
       - [Configure Traffic Collector](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-traffic-collector)
@@ -174,7 +175,6 @@
     - [Service updates](https://azure.microsoft.com/updates/?product=expressroute&filters=%5B"Azure+ExpressRoute"%5D)
     - [SLA](https://azure.microsoft.com/support/legal/sla/)
     - [ExpressRoute for Cloud Solution Providers CSP](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-for-cloud-solution-providers)
-    - Videos
       - [Videos](https://learn.microsoft.com/shows/Inside-Azure-for-IT/?products=azure-expressroute)
       - [Microsoft Azure hybrid connectivity overview](https://learn.microsoft.com/shows/inside-azure-for-it/microsoft-azure-hybrid-connectivity-overview)
       - [Evolve your network infrastructure for connectivity](https://learn.microsoft.com/events/ignite-2015/brk2481)

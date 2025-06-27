@@ -198,6 +198,7 @@
       - [Troubleshoot NAKS Cluster Node Packet Loss](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-packet-loss)
       - Troubleshoot Nexus Kubernetes Cluster stuck unable to reschedule workloads
         - [Due To Bare Metal Machine Power Failure](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-stuck-workloads-due-to-power-failure)
+      - [Troubleshoot a Kubernetes Cluster Node in NotReady,Scheduling Disabled after Runtime Upgrade](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-node-cordoned)
     - Storage Appliance
       - [Troubleshoot Multiple Storage appliances](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-multiple-storage-appliances)
   - [FAQ](https://learn.microsoft.com/en-us/azure/operator-nexus/azure-operator-nexus-faq)

@@ -26,6 +26,7 @@
       - [Create a private resolver - ARM Template](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-template)
     - Traffic Manager
       - [What is Azure Traffic Manager?](https://learn.microsoft.com/azure/traffic-manager/traffic-manager-overview)
+    - [What is network foundations?](https://learn.microsoft.com/azure/networking/network-foundations-overview)
   - Design
     - Public DNS
       - [Zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-zones-records)
@@ -46,13 +47,6 @@
       - [Endpoints and rulesets](https://learn.microsoft.com/en-us/azure/dns/private-resolver-endpoints-rulesets)
       - [Private resolver architecture](https://learn.microsoft.com/en-us/azure/dns/private-resolver-architecture)
       - [Resiliency in Azure DNS Private Resolver](https://learn.microsoft.com/en-us/azure/dns/private-resolver-reliability)
-  - Security
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-dns-security-baseline?toc=/azure/dns/TOC.json)
-    - [DNS security policy](https://learn.microsoft.com/en-us/azure/dns/dns-security-policy)
-    - [DNSSEC overview](https://learn.microsoft.com/en-us/azure/dns/dnssec)
-    - [Protect public DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-zones-recordsets)
-    - [Protect private DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-private-zones-recordsets)
-    - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Deploy
     - Public DNS
       - [Host your domain in Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-delegate-domain-azure-dns)
@@ -77,6 +71,13 @@
     - Private Resolver
       - [Set up DNS failover using private resolvers](https://learn.microsoft.com/en-us/azure/dns/tutorial-dns-private-resolver-failover)
       - [Resolve Azure and on-premises domains](https://learn.microsoft.com/en-us/azure/dns/private-resolver-hybrid-dns)
+  - Security
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-dns-security-baseline?toc=/azure/dns/TOC.json)
+    - [DNS security policy](https://learn.microsoft.com/en-us/azure/dns/dns-security-policy)
+    - [DNSSEC overview](https://learn.microsoft.com/en-us/azure/dns/dnssec)
+    - [Protect public DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-zones-recordsets)
+    - [Protect private DNS zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-protect-private-zones-recordsets)
+    - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Monitor and manage
     - Monitor and manage DNS traffic
       - [Secure and view DNS traffic](https://learn.microsoft.com/en-us/azure/dns/dns-traffic-log-how-to)

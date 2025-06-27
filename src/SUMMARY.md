@@ -64,7 +64,6 @@
 [Azure Firewall documentation](./firewall.md)
 [Firmware analysis (preview)](./firmware-analysis.md)
 [Azure Front Door and CDN documentation](./frontdoor.md)
-[Azure FXT Edge Filer documentation](./fxt-edge-filer.md)
 [Azure HDInsight documentation](./hdinsight.md)
 [Azure Health Data Services documentation](./healthcare-apis.md)
 [Azure HPC documentation](./high-performance-computing.md)

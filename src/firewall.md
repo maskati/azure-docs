@@ -3,7 +3,8 @@
   - [Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
   - Get started
     - [What is Azure Firewall?](https://learn.microsoft.com/en-us/azure/firewall/overview)
-    - [Well-Architected review of Azure Firewall](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
+    - [Architecture best practices for Azure Firewall](https://learn.microsoft.com/azure/well-architected/service-guides/azure-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
+    - [What is Azure network security?](https://learn.microsoft.com/azure/networking/security/network-security?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
     - [SKU comparison](https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku)
     - [Preview features](https://learn.microsoft.com/en-us/azure/firewall/firewall-preview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq.yml)
@@ -83,11 +84,7 @@
       - [Scale outbound SNAT ports](https://learn.microsoft.com/en-us/azure/firewall/integrate-with-nat-gateway)
     - [Application rules with SQL FQDNs](https://learn.microsoft.com/en-us/azure/firewall/sql-fqdn-filtering)
     - [SNAT private ranges](https://learn.microsoft.com/en-us/azure/firewall/snat-private-range)
-  - Migration and upgrades
-    - [Migrate to Azure Firewall Premium](https://learn.microsoft.com/en-us/azure/firewall/premium-migrate)
-    - [Migrate to Premium using Terraform](https://learn.microsoft.com/azure/developer/terraform/firewall-upgrade-premium?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
-    - [Easy upgrade/downgrade](https://learn.microsoft.com/en-us/azure/firewall/easy-upgrade)
-  - Security
+  - Secure
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/firewall-security-baseline?toc=/azure/firewall/toc.json)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/firewall/roles-permissions)
     - [Microsoft Copilot for Security](https://learn.microsoft.com/en-us/azure/firewall/firewall-copilot)
@@ -98,6 +95,10 @@
       - [Azure Firewall with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/firewall/firewall-sentinel-overview)
       - [Detect malware with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/firewall/detect-malware-with-sentinel)
     - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+  - Migration and upgrades
+    - [Migrate to Azure Firewall Premium](https://learn.microsoft.com/en-us/azure/firewall/premium-migrate)
+    - [Migrate to Premium using Terraform](https://learn.microsoft.com/azure/developer/terraform/firewall-upgrade-premium?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
+    - [Easy upgrade/downgrade](https://learn.microsoft.com/en-us/azure/firewall/easy-upgrade)
   - Operational excellence
     - Monitoring
       - [Logs and metrics](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall)

@@ -11,6 +11,7 @@
       - [FAQ](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-faq.yml)
     - Azure CDN
       - [Web Application Firewall on Azure CDN](https://learn.microsoft.com/en-us/azure/web-application-firewall/cdn/cdn-overview)
+    - [What is Azure network security?](https://learn.microsoft.com/azure/networking/security/network-security?toc=/azure/web-application-firewall/toc.json)
   - Deploy
     - Application Gateway
       - Create Web Application Firewall
@@ -74,7 +75,7 @@
     - [Configure policies using Firewall Manager](https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/manage-policies)
     - [Protect APIs hosted in APIM](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-api-hosted-apim-by-waf)
     - [Protect Azure OpenAI](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai)
-  - Security
+  - Secure
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/web-application-firewall-security-baseline?toc=/azure/web-application-firewall/toc.json)
     - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
     - Sensitive Data Protection

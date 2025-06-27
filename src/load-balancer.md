@@ -6,21 +6,22 @@
     - [Gateway load balancer overview](https://learn.microsoft.com/en-us/azure/load-balancer/gateway-overview)
     - [Global load balancer overview](https://learn.microsoft.com/en-us/azure/load-balancer/cross-region-overview)
     - [Cross-subscription load balancer overview](https://learn.microsoft.com/en-us/azure/load-balancer/cross-subscription-overview)
-    - [Choose a load balancing solution](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview)
+    - [Architecture best practices for Azure Load Balancer](https://learn.microsoft.com/azure/well-architected/service-guides/azure-load-balancer?toc=/azure/load-balancer/toc.json)
     - [Health probes](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-custom-probe-overview)
     - [Administrative state](https://learn.microsoft.com/en-us/azure/load-balancer/admin-state-overview)
     - [SKUs](https://learn.microsoft.com/en-us/azure/load-balancer/skus)
-    - Quickstarts
-      - [Create a public load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
-      - [Create an internal load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal)
-    - [FAQ](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-faqs.yml)
-    - [Load balancer best practices](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-best-practices)
+    - [Create a public load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
+    - [Create an internal load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal)
     - [What's new?](https://learn.microsoft.com/en-us/azure/load-balancer/whats-new)
+    - [What is load balancing and content delivery?](https://learn.microsoft.com/azure/networking/load-balancer-content-delivery/load-balancing-content-delivery-overview)
+    - [Choose a load balancing solution](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/load-balancer/toc.json)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-faqs.yml)
   - Deploy
     - [Portal settings](https://learn.microsoft.com/en-us/azure/load-balancer/manage)
     - [Components](https://learn.microsoft.com/en-us/azure/load-balancer/components)
     - [Load balancing algorithm](https://learn.microsoft.com/en-us/azure/load-balancer/concepts)
     - [Distribution modes](https://learn.microsoft.com/en-us/azure/load-balancer/distribution-mode-concepts)
+    - [Load balancer best practices](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-best-practices)
     - Public load balancer
       - Create a public load balancer
         - [Portal](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
@@ -151,3 +152,4 @@
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Product updates](https://azure.microsoft.com/updates/?product=load-balancer)
     - [Azure Network blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-load-balancer)

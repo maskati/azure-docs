@@ -5,14 +5,17 @@
     - [Application Gateway overview](https://learn.microsoft.com/en-us/azure/application-gateway/overview)
     - [Application Gateway v2](https://learn.microsoft.com/en-us/azure/application-gateway/overview-v2)
     - [Application Gateway for Containers](https://learn.microsoft.com/en-us/azure/application-gateway/for-containers/overview)
+    - [Architecture best practices for Azure Application Gateway v2](https://learn.microsoft.com/azure/well-architected/service-guides/azure-application-gateway?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json)
+    - [What is load balancing and content delivery?](https://learn.microsoft.com/azure/networking/load-balancer-content-delivery/load-balancing-content-delivery-overview)
+    - [Choose a load balancing solution](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/load-balancer/toc.json)
     - [Create Application Gateway - Portal](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-portal)
     - [Create Application Gateway - PowerShell](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-powershell)
     - [Create Application Gateway - Azure CLI](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-cli)
     - [Create Application Gateway - Bicep](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-bicep)
     - [Create Application Gateway - ARM template](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-template)
     - [Create Application Gateway - Terraform](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-terraform)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq.yml)
   - Design
-    - [Architecture best practices for Azure Application Gateway v2](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-application-gateway?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json)
     - Basics
       - [Application Gateway features](https://learn.microsoft.com/en-us/azure/application-gateway/features)
       - [How Application Gateway works](https://learn.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works)
@@ -37,7 +40,6 @@
     - [DNS resolution details](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-dns-resolution)
     - [Ingress for AKS](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview)
     - [Understanding pricing](https://learn.microsoft.com/en-us/azure/application-gateway/understanding-pricing)
-    - [FAQ](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq.yml)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)
     - [Private Deployment](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-private-deployment)

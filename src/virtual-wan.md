@@ -4,6 +4,7 @@
   - Overview
     - [What is Virtual WAN?](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
     - [What's new?](https://learn.microsoft.com/en-us/azure/virtual-wan/whats-new)
+    - What is hybrid connectivity?
     - [Virtual WAN FAQ](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq)
     - [About Virtual WAN pricing](https://learn.microsoft.com/en-us/azure/virtual-wan/pricing-concepts)
     - Quickstarts & Tutorials

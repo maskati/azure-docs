@@ -4,8 +4,9 @@
   - Get started
     - [What is Azure Front Door?](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview)
     - [Front Door and CDN comparison](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-cdn-comparison)
-    - [Well-Architected review of Front Door](https://learn.microsoft.com/azure/well-architected/service-guides/azure-front-door?toc=/azure/frontdoor/toc.json)
+    - [Architecture best practices for Azure Front Door](https://learn.microsoft.com/azure/well-architected/service-guides/azure-front-door?toc=/azure/frontdoor/toc.json)
     - [Front Door best practices](https://learn.microsoft.com/en-us/azure/frontdoor/best-practices)
+    - [What is load balancing and content delivery?](https://learn.microsoft.com/azure/networking/load-balancer-content-delivery/load-balancing-content-delivery-overview?toc=/azure/frontdoor/TOC.json)
     - [Choosing the right load balancer](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/frontdoor/toc.json)
     - [FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-faq.yml)
   - Design & plan
