@@ -42,6 +42,7 @@
     - [Message types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
     - [Real-time notifications](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
     - [Push notifications](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
+    - [Push notifications overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/notifications)
     - [Archive chats](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/chat-sdk/archive-chat-threads)
     - [Government clouds](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/government-cloud)
     - [Translate chats](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/chat-sdk/translating-chats)
@@ -154,7 +155,7 @@
     - [Country availability](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/sub-eligibility-number-capability)
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
     - [Short code program brief filling guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/program-brief-guidelines)
-    - [Ten digit long code 10DLC registration guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/ten-digit-long-code-guidelines)
+    - [10DLC - Ten digit long code registration guidelines](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/ten-digit-long-code-guidelines)
     - [Opt-Out management overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/opt-out-api-concept)
     - Events
       - [Events overview](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services)
@@ -174,7 +175,7 @@
       - [Handle SMS events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/handle-sms-events)
       - [Apply for a short code](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-short-code)
       - [Send short URL](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/sms-url-shortener)
-      - [Apply for 10 digit long code 10DLC registration](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-ten-digit-long-code)
+      - [Apply for 10DLC registration](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-ten-digit-long-code)
       - [Apply for toll-free verification](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-toll-free-verification)
       - [Enable alphanumeric sender ID](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/enable-alphanumeric-sender-id)
       - [Migrate to Android push notifications FCM v1](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-chat-migrate-android-push-fcm-v1)
@@ -220,6 +221,7 @@
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
     - Calling fundamentals
       - [Voice and video terminology](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/about-call-types)
+      - [Push notifications overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/notifications)
       - Connect to a call
         - [Create an access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
         - [Add voice calling to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/getting-started-with-calling)

@@ -211,6 +211,8 @@
         - [API reference](https://microsoft.github.io/FeatureManagement-Python/html/index.html)
       - JavaScript
         - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-management-javascript-reference)
+      - Telemetry
+        - [Feature flag telemetry reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-flag-telemetry-reference)
     - Deployment
       - [ARM template](https://learn.microsoft.com/azure/templates/microsoft.appconfiguration/configurationstores?pivots=deployment-language-arm-template)
       - [Bicep](https://learn.microsoft.com/azure/templates/microsoft.appconfiguration/configurationstores?pivots=deployment-language-bicep)

@@ -142,7 +142,7 @@
     - Security
       - [Azure Disk Encryption](https://learn.microsoft.com/azure/virtual-machines/disks-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - [Azure Key Vault](https://learn.microsoft.com/azure/key-vault/general/disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Key Vault](https://learn.microsoft.com/en-us/azure/reliability/reliability-key-vault)
       - [Microsoft Defender for Cloud DevOps security](https://learn.microsoft.com/en-us/azure/reliability/reliability-defender-devops)
     - Storage
       - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/reliability-backup)
