@@ -172,7 +172,9 @@
       - [Use ASIM](https://learn.microsoft.com/en-us/azure/sentinel/normalization-about-parsers)
       - [Manage ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-manage-parsers)
       - [Modify content to use ASIM](https://learn.microsoft.com/en-us/azure/sentinel/normalization-modify-content)
-    - [Aggregate data with summary rules](https://learn.microsoft.com/en-us/azure/sentinel/summary-rules)
+    - Aggregate data
+      - [Aggregate data with summary rules](https://learn.microsoft.com/en-us/azure/sentinel/summary-rules)
+      - [Aggregate insights from raw data into an Auxiliary table](https://learn.microsoft.com/en-us/azure/sentinel/summary-rules-tutorial)
   - Integrate threat intelligence
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/understand-threat-intelligence)
     - [Threat intelligence integrations](https://learn.microsoft.com/en-us/azure/sentinel/threat-intelligence-integration)

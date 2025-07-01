@@ -89,6 +89,7 @@
       - [Rate limit for ExpressRoute Direct circuit](https://learn.microsoft.com/en-us/azure/expressroute/rate-limit)
     - ExpressRoute gateway
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-virtual-network-gateways)
+      - [About Scalable Gateway](https://learn.microsoft.com/en-us/azure/expressroute/scalable-gateway)
       - Configure a virtual network gateway
         - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-portal-resource-manager)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-resource-manager)
@@ -114,7 +115,6 @@
     - [Resiliency Insights](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-insights)
     - [Resiliency Validation](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-validation)
   - Security
-    - [Secure your Expressroute](https://learn.microsoft.com/en-us/azure/expressroute/secure-expressroute)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/expressroute-security-baseline?toc=/azure/expressroute/TOC.json)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/expressroute/roles-permissions)
     - Encryption
@@ -175,10 +175,15 @@
     - [Service updates](https://azure.microsoft.com/updates/?product=expressroute&filters=%5B"Azure+ExpressRoute"%5D)
     - [SLA](https://azure.microsoft.com/support/legal/sla/)
     - [ExpressRoute for Cloud Solution Providers CSP](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-for-cloud-solution-providers)
-      - [Videos](https://learn.microsoft.com/shows/Inside-Azure-for-IT/?products=azure-expressroute)
-      - [Microsoft Azure hybrid connectivity overview](https://learn.microsoft.com/shows/inside-azure-for-it/microsoft-azure-hybrid-connectivity-overview)
+    - Videos
+      - [Connect a virtual network gateway to a circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-connection-between-your-vpn-gateway-and-expressroute-circuit/)
+      - [Create a virtual network for ExpressRoute](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-virtual-network/)
+      - [Create a virtual network gateway for ExpressRoute](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-vpn-gateway-for-your-virtual-network/)
+      - [Create an ExpressRoute circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-an-expressroute-circuit/)
       - [Evolve your network infrastructure for connectivity](https://learn.microsoft.com/events/ignite-2015/brk2481)
+      - [How to set up private peering for your circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-set-up-azure-private-peering-for-your-expressroute-circuit/)
       - [Hybrid partnerships: Enabling on-premises scenarios](https://learn.microsoft.com/events/ignite-2015/brk1454)
+      - [Set up Microsoft peering for your circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-set-up-microsoft-peering-for-your-expressroute-circuit/)
     - Classic and legacy articles
       - [Modify a circuit](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-classic)
       - [Create and modify peering configuration](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-routing-classic)
