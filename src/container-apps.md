@@ -172,9 +172,8 @@
         - [Microservices communication using Dapr Pub/Sub](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-pubsub)
         - [Event-driven work using Dapr Bindings](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-bindings)
         - [Microservices communication using Dapr Service Invocation](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-service-invoke)
-  - Networking, ingress, and network security
-    - [Architecture overview](https://learn.microsoft.com/en-us/azure/container-apps/networking)
-    - [Use a custom virtual network](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom)
+  - Networking and ingress
+    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/networking)
     - Ingress
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/ingress-overview)
       - [Environment-level configuration](https://learn.microsoft.com/en-us/azure/container-apps/ingress-environment-configuration)
@@ -185,13 +184,17 @@
       - [Blue/Green deployment](https://learn.microsoft.com/en-us/azure/container-apps/blue-green-deployment)
       - [Session affinity](https://learn.microsoft.com/en-us/azure/container-apps/sticky-sessions)
       - [CORS](https://learn.microsoft.com/en-us/azure/container-apps/cors)
-    - Security
+    - [Virtual network configuration](https://learn.microsoft.com/en-us/azure/container-apps/custom-virtual-networks)
+    - [Managing outbound connections with Azure Firewall](https://learn.microsoft.com/en-us/azure/container-apps/use-azure-firewall)
+    - [Private endpoints and DNS](https://learn.microsoft.com/en-us/azure/container-apps/private-endpoints-with-dns)
+    - [Securing a custom VNET with an NSG](https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration)
+    - Tutorials
+      - [Use a custom virtual network](https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom)
       - [Configure WAF Application Gateway](https://learn.microsoft.com/en-us/azure/container-apps/waf-app-gateway)
       - [Enable User Defined Routes UDR](https://learn.microsoft.com/en-us/azure/container-apps/user-defined-routes)
       - Rule based routing
         - [Use rule-based routing](https://learn.microsoft.com/en-us/azure/container-apps/rule-based-routing)
-        - [Configure a custom domain](https://learn.microsoft.com/en-us/azure/container-apps/rule-based-routing-custom-domain)
-      - [Securing a custom VNET with an NSG](https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration)
+        - [Use a custom domain with rule-based routing](https://learn.microsoft.com/en-us/azure/container-apps/rule-based-routing-custom-domain)
       - [Use a private endpoint](https://learn.microsoft.com/en-us/azure/container-apps/how-to-use-private-endpoint)
       - [Use mTLS](https://learn.microsoft.com/en-us/azure/container-apps/mtls)
       - [Integrate with Azure Front Door](https://learn.microsoft.com/en-us/azure/container-apps/how-to-integrate-with-azure-front-door)

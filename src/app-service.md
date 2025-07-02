@@ -30,6 +30,9 @@
         - [Chatbot with OpenAI](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-chatbot-dotnet)
         - [RAG with Azure OpenAI and your data](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-search-dotnet)
         - [RAG Azure OpenAI and Azure SQL](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps-dotnet-to-azure-sql)
+        - [Add MCP server to app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-dotnet)
+        - [AI Foundry Agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-dotnet)
+        - [Agentic web app .NET](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-web-app-semantic-kernel-foundry-dotnet)
         - [Invoke OpenAPI app from Azure AI Agent](https://learn.microsoft.com/en-us/azure/app-service/invoke-openapi-web-app-from-azure-ai-agent-service)
         - [Chatbot with local SLM](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-dotnet)
     - Java
@@ -273,7 +276,7 @@
     - [Service Updates](https://azure.microsoft.com/updates/?product=app-service)
     - [Routine maintenance](https://learn.microsoft.com/en-us/azure/app-service/routine-maintenance)
     - [Routine maintenance, Restarts, and Downtime](https://learn.microsoft.com/en-us/azure/app-service/routine-maintenance-downtime)
-    - [Language support policy](https://learn.microsoft.com/en-us/azure/app-service/language-support-policy)
+    - [Language support policy](https://learn.microsoft.com/en-us/azure/app-service/operating-system-functionality)
     - [OS functionality](https://learn.microsoft.com/en-us/azure/app-service/operating-system-functionality)
     - [Kudu service](https://learn.microsoft.com/en-us/azure/app-service/resources-kudu)
     - [gRPC configuration](https://learn.microsoft.com/en-us/azure/app-service/configure-grpc)

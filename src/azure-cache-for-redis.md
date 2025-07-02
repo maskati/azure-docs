@@ -26,7 +26,7 @@
     - [Migrate to Azure Managed Redis](https://learn.microsoft.com/azure/redis/migrate/migrate-overview)
     - [Migrate to Azure Redis from other caches](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-migration-guide)
   - Azure Cache for Redis
-    - [What's new in Azure Cache for Redis?](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-whats-new)
+    - [About Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
     - Deploy and configure
       - [Choose a cache tier](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
       - [Upgrade to a new version](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-upgrade)

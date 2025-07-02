@@ -126,7 +126,6 @@
 [Traffic Manager documentation](./traffic-manager.md)
 [Trusted Signing](./trusted-signing.md)
 [Azure Update Manager documentation](./update-manager.md)
-[Azure Virtual Desktop documentation](./virtual-desktop.md)
 [Azure Virtual Network Manager documentation](./virtual-network-manager.md)
 [Virtual Network documentation](./virtual-network.md)
 [Virtual WAN documentation](./virtual-wan.md)

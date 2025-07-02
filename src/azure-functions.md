@@ -332,6 +332,7 @@
     - Language version updates
       - [Update language versions](https://learn.microsoft.com/en-us/azure/azure-functions/update-language-versions)
       - [Migrate Node.js to model v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-upgrade-v4)
+    - [Migrate Consumption plan apps to Flex Consumption](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-plan-consumption-to-flex)
     - [Migrate .NET apps to the isolated model](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-dotnet-to-isolated-model)
     - Move resources
       - [Move between subscriptions](https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription?toc=%2Fazure%2Fazure-functions%2Ftoc.json)
