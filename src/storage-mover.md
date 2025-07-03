@@ -4,6 +4,7 @@
   - Overview
     - [What is Azure Storage Mover?](https://learn.microsoft.com/en-us/azure/storage-mover/service-overview)
     - [Cloud migration basics](https://learn.microsoft.com/en-us/azure/storage-mover/migration-basics)
+    - [Get started with cloud-to-cloud migration](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
   - Concepts
     - [Planning for a deployment](https://learn.microsoft.com/en-us/azure/storage-mover/deployment-planning)
     - [Resource hierarchy](https://learn.microsoft.com/en-us/azure/storage-mover/resource-hierarchy)
