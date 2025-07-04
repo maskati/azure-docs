@@ -67,7 +67,7 @@
         - [Enrich data](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-dataflow-enrich)
       - [Use message schemas](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-schema-registry)
       - [Manage data flow profiles](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-dataflow-profile)
-    - Manage layered network
+    - Manage network
       - [Overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/overview-layered-network)
       - [IoT Operations in layered network](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/concept-iot-operations-in-layered-network)
       - [Configure Layered Network Management](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-deploy-aks-layered-network)

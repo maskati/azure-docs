@@ -12,6 +12,7 @@
     - Policy
       - [Policy rule sets](https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets)
       - [Policy Analytics](https://learn.microsoft.com/en-us/azure/firewall/policy-analytics)
+    - [FQDN filtering](https://learn.microsoft.com/en-us/azure/firewall/domain-filtering-overview)
     - [Infrastructure FQDNs](https://learn.microsoft.com/en-us/azure/firewall/infrastructure-fqdns)
     - [IDPS signature rule categories](https://learn.microsoft.com/en-us/azure/firewall/idps-signature-categories)
     - [Web categories](https://learn.microsoft.com/en-us/azure/firewall/web-categories)
@@ -75,6 +76,7 @@
     - [Backup Azure Firewall](https://techcommunity.microsoft.com/t5/azure-network-security-blog/backup-azure-firewall-and-azure-firewall-policy-with-logic-apps/ba-p/3613928)
   - Configure
     - [Add or modify rules using PowerShell](https://learn.microsoft.com/en-us/azure/firewall/deploy-rules-powershell)
+    - [DNAT rule for filtering inbound traffic](https://learn.microsoft.com/en-us/azure/firewall/destination-nat-rules)
     - DNS proxy
       - [Overview](https://learn.microsoft.com/en-us/azure/firewall/dns-details)
       - [DNS proxy settings](https://learn.microsoft.com/en-us/azure/firewall/dns-settings)

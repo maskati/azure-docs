@@ -58,9 +58,7 @@
       - [Secure your origin with Private Link](https://learn.microsoft.com/en-us/azure/frontdoor/private-link)
       - Enable Private Link to secure origins
         - [Connect to an internal load balancer](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-internal-load-balancer)
-        - Connect to Azure Storage Account
-          - [Azure portal](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-storage-account)
-          - [Azure CLI](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-storage-account-cli)
+        - [Connect to Azure Storage account](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-storage-account)
         - [Connect to Azure Storage static website](https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-storage-static-website)
         - Connect to Azure App Service
           - [Azure portal](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-web-app)

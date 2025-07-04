@@ -95,7 +95,7 @@
       - [Azure Logic Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-logic-apps)
     - Internet of Things
       - [Azure Device Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-device-registry)
-      - [Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-ha-dr?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure IoT Hub](https://learn.microsoft.com/en-us/azure/reliability/reliability-iot-hub)
       - [Azure Notification Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs)
     - Media
       - [Azure Media Services](https://learn.microsoft.com/azure/media-services/latest/architecture-high-availability-encoding-concept?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

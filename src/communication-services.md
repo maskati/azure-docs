@@ -259,8 +259,8 @@
       - [Set video constraints in a calling app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-video-constraints)
       - [Local preview mirroring](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/local-preview-mirroring)
       - [Optimize video placement on your web app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/optimizing-video-placement)
-      - [Simulcast](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/simulcast)
-      - [Enable audio noise suppression improvements](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/audio-quality-enhancements/add-noise-supression)
+      - [Understanding Simulcast](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/simulcast)
+      - [Add audio quality improvements](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/audio-quality-enhancements/add-noise-supression)
       - [Enable video background effects](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-video-effects)
       - [Pass user-to-user information UUI data in a header](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/call-context)
       - Data channel
