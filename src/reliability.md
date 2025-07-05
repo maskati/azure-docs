@@ -97,8 +97,6 @@
       - [Azure Device Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-device-registry)
       - [Azure IoT Hub](https://learn.microsoft.com/en-us/azure/reliability/reliability-iot-hub)
       - [Azure Notification Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs)
-    - Media
-      - [Azure Media Services](https://learn.microsoft.com/azure/media-services/latest/architecture-high-availability-encoding-concept?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
     - Management and governance
       - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/reliability-backup)
       - [Azure Guest Configuration](https://learn.microsoft.com/en-us/azure/governance/machine-configuration/overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -176,15 +174,15 @@
     - Migrate to availability zone support
       - [Overview](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-migration-overview)
       - Migration guides by service
+        - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/migrate-search-service)
         - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt)
         - [Azure App Configuration](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration)
-        - [Azure Application Gateway](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2)
         - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
+        - [Azure Application Gateway](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2)
         - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/migrate-functions)
-        - [Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis)
-        - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/migrate-search-service)
         - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
         - [Azure Batch](https://learn.microsoft.com/en-us/azure/reliability/reliability-batch)
+        - [Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis)
         - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
         - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/migrate-container-instances)
         - [Azure Container Registry](https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability)

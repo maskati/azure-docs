@@ -9,8 +9,8 @@
   - Quickstarts
     - [Create Automation account - Azure portal](https://learn.microsoft.com/en-us/azure/automation/quickstarts/create-azure-automation-account-portal)
     - [Create Automation account - Terraform](https://learn.microsoft.com/en-us/azure/automation/quickstarts/create-azure-automation-account-terraform)
-    - [Update runbook from PowerShell 5.1 to PowerShell 7.2](https://learn.microsoft.com/en-us/azure/automation/quickstart-update-runbook-in-runtime-environment)
-    - [Run Azure CLI commands in PowerShell 7.2 runbooks](https://learn.microsoft.com/en-us/azure/automation/quickstart-cli-support-powershell-runbook-runtime-environment)
+    - [Update runbook from PowerShell 7.1 to PowerShell 7.4](https://learn.microsoft.com/en-us/azure/automation/quickstart-update-runbook-in-runtime-environment)
+    - [Run Azure CLI commands in PowerShell 7.4 runbooks](https://learn.microsoft.com/en-us/azure/automation/quickstart-cli-support-powershell-runbook-runtime-environment)
     - [Install Hybrid Worker extension - Azure portal](https://learn.microsoft.com/en-us/azure/automation/quickstarts/install-hybrid-worker-extension)
     - [Enable managed identities - Azure portal](https://learn.microsoft.com/en-us/azure/automation/quickstarts/enable-managed-identity)
     - [Enable Desired State Configuration for a machine](https://learn.microsoft.com/en-us/azure/automation/quickstarts/dsc-configuration)

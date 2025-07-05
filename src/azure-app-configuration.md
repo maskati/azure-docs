@@ -112,6 +112,7 @@
     - Enable telemetry for feature flags
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry-python)
+      - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry-javascript)
   - CI/CD integration
     - [Use configuration files](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-config-file)
     - [Import using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-import-task)
