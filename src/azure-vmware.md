@@ -110,6 +110,7 @@
     - [Configure VMware HCX network extension high availability](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-hcx-network-extension-high-availability)
     - [NSX Scale and Performance Recommendations for VMware HCX](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-nsx-scale-and-performance-recommendations-for-vmware-hcx)
     - [Enable VMware HCX access over the internet](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-hcx-access-over-internet)
+    - [Migrate workloads between Azure VMware Solution private clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/migrate-between-private-clouds)
     - [Upgrade VMware HCX on Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/upgrade-hcx-azure-vmware-solutions)
     - [Use VMware HCX Run Commands](https://learn.microsoft.com/en-us/azure/azure-vmware/use-hcx-run-commands)
     - [Uninstall VMware HCX in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/uninstall-vmware-hcx)

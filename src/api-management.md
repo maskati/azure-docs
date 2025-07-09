@@ -112,12 +112,14 @@
       - [Custom caching](https://learn.microsoft.com/en-us/azure/api-management/api-management-sample-cache-by-key)
   - API management for AI
     - [AI gateway capabilities in API Management](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
-    - [Import Azure AI Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
-    - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
-    - [Import OpenAI-compatible LLM API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-llm-api)
-    - [Authenticate and authorize to Azure OpenAI](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
+    - Import LLM APIs
+      - [Import Azure AI Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
+      - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
+      - [Import language model API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-llm-api)
+      - [Import Google Gemini API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-google-gemini-api)
     - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
     - [Semantic caching for Azure OpenAI API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
+    - [Authenticate and authorize to Azure OpenAI](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
     - [Protect Azure OpenAI keys](https://learn.microsoft.com/semantic-kernel/deploy/use-ai-apis-with-api-management?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
   - Manage APIs with policies
     - [API Management policies overview](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-policies)

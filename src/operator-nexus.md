@@ -171,17 +171,6 @@
       - [Site decommission checklist](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-decommission-nexus-instance-checklist)
       - [Nexus Instance Deployment Template](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-nexus-instance-deployment-template)
   - Troubleshooting
-    - Resource Health
-      - [Troubleshoot Resource Health alerts](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-resource-health-alerts)
-    - Network Fabric
-      - [Troubleshoot Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-isolation-domain)
-      - [Troubleshoot LACP Bonding](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-lacp-bonding)
-      - [Troubleshoot DNS Issues](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-dns-issues)
-      - [Troubleshoot TWAMP UDP not working](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-twamp-udp-not-working)
-    - Cluster
-      - [Troubleshoot Accepted Cluster Resource](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-accepted-cluster-hydration)
-      - [Troubleshoot Control Plane Quorum](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-control-plane-quorum)
-      - [Troubleshoot Cluster heartbeat connection status disconnected](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-cluster-heartbeat-connection-status-disconnected)
     - Bare Metal Machine
       - [Troubleshoot Bare Metal Server Problems](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-reboot-reimage-replace)
       - [Troubleshoot Bare Metal Machine Provisioning](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-bare-metal-machine-provisioning)
@@ -189,6 +178,20 @@
       - [Troubleshoot Degraded status](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-bare-metal-machine-degraded)
       - [Troubleshoot Warning status](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-bare-metal-machine-warning)
       - [Troubleshoot Out of Memory Pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-memory-limits)
+    - Cluster
+      - [Troubleshoot Accepted Cluster Resource](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-accepted-cluster-hydration)
+      - [Troubleshoot Control Plane Quorum](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-control-plane-quorum)
+      - [Troubleshoot Cluster heartbeat connection status disconnected](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-cluster-heartbeat-connection-status-disconnected)
+    - Network Fabric
+      - [Troubleshoot Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-isolation-domain)
+      - [Troubleshoot LACP Bonding](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-lacp-bonding)
+      - [Troubleshoot DNS Issues](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-dns-issues)
+      - [Troubleshoot TWAMP UDP not working](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-twamp-udp-not-working)
+    - Resource Health
+      - [Troubleshoot Resource Health alerts](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-resource-health-alerts)
+      - [Troubleshoot Unhealthy or Degraded Storage Appliance](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-unhealthy-degraded-storage-appliance)
+    - Storage Appliance
+      - [Troubleshoot Multiple Storage appliances](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-multiple-storage-appliances)
     - Tenant Workload
       - Troubleshoot PersistentVolumeClaims
         - [Gather trace IDs for PersistentVolumeClaim failures](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-gather-pvc-trace-id)
@@ -203,8 +206,6 @@
       - Troubleshoot Nexus Kubernetes Cluster stuck unable to reschedule workloads
         - [Due To Bare Metal Machine Power Failure](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-stuck-workloads-due-to-power-failure)
       - [Troubleshoot a Kubernetes Cluster Node in NotReady,Scheduling Disabled after Runtime Upgrade](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-kubernetes-cluster-node-cordoned)
-    - Storage Appliance
-      - [Troubleshoot Multiple Storage appliances](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-multiple-storage-appliances)
   - [FAQ](https://learn.microsoft.com/en-us/azure/operator-nexus/azure-operator-nexus-faq)
   - Reference
     - Nexus Kubernetes service

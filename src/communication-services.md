@@ -582,6 +582,7 @@
       - [Enable breakout rooms](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/breakoutrooms)
       - [Enable Together Mode](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/together-mode)
       - [Control media access](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/media-access)
+      - [Display name changed](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/display-name-changed)
   - Teams Phone extensibility
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-overview)
     - [Cost and connectivity options](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-connectivity-cost)

@@ -597,6 +597,8 @@
       - [Debug issues with the SAP CDC connector](https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-debug-shir-logs)
       - [Manage the SAP CDC process](https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-management)
       - [Advanced topics](https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-advanced-topics)
+  - Security
+    - [Secure your Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/secure-your-azure-data-factory)
   - Workflow Orchestration Manager
     - Tutorials
       - [Run an existing pipeline with Airflow](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-run-existing-pipeline-with-airflow)

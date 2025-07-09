@@ -33,6 +33,7 @@
     - [Reliability and disaster recovery](https://learn.microsoft.com/en-us/azure/networking/disaster-recovery-dns-traffic-manager)
     - [How Traffic Manager works](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works)
     - [FAQs](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-FAQs)
+    - [IPv6 and DNS record types](https://learn.microsoft.com/en-us/azure/traffic-manager/dns-record-types)
   - How-to guides
     - [Use Azure App Gateway with Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-use-with-application-gateway)
     - [Use Azure App Service with Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-use-azure-app-service)
