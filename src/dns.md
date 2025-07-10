@@ -26,7 +26,7 @@
       - [Create a private resolver - ARM Template](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-template)
     - Traffic Manager
       - [What is Azure Traffic Manager?](https://learn.microsoft.com/azure/traffic-manager/traffic-manager-overview)
-    - [What is network foundations?](https://learn.microsoft.com/azure/networking/network-foundations-overview)
+    - [What is network foundations?](https://learn.microsoft.com/azure/networking/foundations/network-foundations-overview)
   - Design
     - Public DNS
       - [Zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-zones-records)

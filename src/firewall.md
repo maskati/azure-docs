@@ -28,8 +28,9 @@
     - [Central management](https://learn.microsoft.com/en-us/azure/firewall/central-management)
     - [Integrate with load balancer](https://learn.microsoft.com/en-us/azure/firewall/integrate-lb)
   - Deploy
-    - [Firewall Basic](https://learn.microsoft.com/en-us/azure/firewall/deploy-firewall-basic-portal-policy)
+    - Firewall Basic
       - [Features](https://learn.microsoft.com/en-us/azure/firewall/basic-features)
+      - [Deploy Basic firewall](https://learn.microsoft.com/en-us/azure/firewall/deploy-firewall-basic-portal-policy)
     - Firewall Standard
       - [Features](https://learn.microsoft.com/en-us/azure/firewall/features)
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy)
@@ -86,7 +87,9 @@
       - [Scale outbound SNAT ports](https://learn.microsoft.com/en-us/azure/firewall/integrate-with-nat-gateway)
     - [Application rules with SQL FQDNs](https://learn.microsoft.com/en-us/azure/firewall/sql-fqdn-filtering)
     - [SNAT private ranges](https://learn.microsoft.com/en-us/azure/firewall/snat-private-range)
+    - [Customer-controlled maintenance](https://learn.microsoft.com/en-us/azure/firewall/customer-controlled-maintenance)
   - Secure
+    - [Secure firewall deployment](https://learn.microsoft.com/en-us/azure/firewall/secure-firewall)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/firewall-security-baseline?toc=/azure/firewall/toc.json)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/firewall/roles-permissions)
     - [Microsoft Copilot for Security](https://learn.microsoft.com/en-us/azure/firewall/firewall-copilot)

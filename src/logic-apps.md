@@ -280,7 +280,7 @@
     - [Resource Manager template reference](https://learn.microsoft.com/azure/templates/microsoft.logic/allversions)
     - [Workflow Definition Language schema](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language)
       - [Trigger and action types reference](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-actions-triggers)
-      - [Functions reference](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference)
+      - [Reference for expression functions](https://learn.microsoft.com/en-us/azure/logic-apps/expression-functions-reference)
     - Standard Automated Test Framework
       - [Standard Automated Test SDK](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/automated-test-sdk)
       - [ActionMock class](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/action-mock-class-definition)

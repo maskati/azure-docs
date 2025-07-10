@@ -7,7 +7,7 @@
     - [Private Link service](https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview)
     - [What is a network security perimeter?](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-concepts)
     - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
-    - [What is network foundations?](https://learn.microsoft.com/azure/networking/network-foundations-overview)
+    - [What is network foundations?](https://learn.microsoft.com/azure/networking/foundations/network-foundations-overview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq.yml)
   - Configure
     - Create a private endpoint

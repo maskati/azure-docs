@@ -99,6 +99,7 @@
       - [Front Door classic retirement FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/classic-retirement-faq)
       - [Edgio retirement FAQ](https://learn.microsoft.com/previous-versions/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/toc.json)
   - Security
+    - [Secure your Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/secure-front-door)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-front-door-security-baseline?toc=/azure/frontdoor/toc.json)
     - [DDoS protection](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos)
     - [End-to-end TLS encryption](https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls)

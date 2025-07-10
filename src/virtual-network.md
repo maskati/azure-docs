@@ -10,7 +10,7 @@
     - [Service endpoints](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview)
     - [Service tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
     - [Architecture best practices for Azure Virtual Network](https://learn.microsoft.com/azure/well-architected/service-guides/virtual-network)
-    - [What is network foundations?](https://learn.microsoft.com/azure/networking/network-foundations-overview)
+    - [What is network foundations?](https://learn.microsoft.com/azure/networking/foundations/network-foundations-overview)
   - Get started
     - [Add, change, or delete a subnet](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet)
     - [Create a virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/quickstart-create-virtual-network)

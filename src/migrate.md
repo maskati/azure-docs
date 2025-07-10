@@ -26,8 +26,10 @@
         - [Support matrix for VMware discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware)
       - Discover Hyper-V estate
         - [Discover Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
+        - [Hyper-V discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v)
       - Discover physical servers
         - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
+        - [Physical server discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical)
       - Appliance configuration
         - [Provide server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
         - [Appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
