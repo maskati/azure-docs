@@ -104,6 +104,7 @@
     - Roll out features to targeted audience
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-aspnet-core)
+      - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-javascript)
     - Use variant feature flags
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-aspnet-core)

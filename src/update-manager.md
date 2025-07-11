@@ -8,6 +8,7 @@
     - Release Notes
       - 2025
         - [March 2025](https://learn.microsoft.com/en-us/azure/update-manager/overview-arc-enabled-vm-extensions)
+        - [July 2025](https://learn.microsoft.com/en-us/azure/update-manager/arc-enabled-vm-extensions)
   - Getting started
     - [Prerequisites](https://learn.microsoft.com/en-us/azure/update-manager/prerequisites)
     - [Roles and Permissions](https://learn.microsoft.com/en-us/azure/update-manager/roles-permissions)

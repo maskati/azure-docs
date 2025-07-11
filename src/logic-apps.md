@@ -6,6 +6,7 @@
   - Quickstarts
     - Consumption logic app workflows
       - [Portal](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-example-consumption-workflow)
+      - [Portal - Templates gallery](https://learn.microsoft.com/en-us/azure/logic-apps/create-workflows-from-templates?tabs=consumption)
       - [Visual Studio](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-with-visual-studio)
       - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-visual-studio-code)
       - [Bicep](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-deploy-bicep)
@@ -14,7 +15,7 @@
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-logic-apps-azure-powershell)
     - Standard logic app workflows
       - [Portal](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-azure-portal)
-      - [Portal - Templates gallery](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-templates)
+      - [Portal - Templates gallery](https://learn.microsoft.com/en-us/azure/logic-apps/create-workflows-from-templates?tabs=standard)
       - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/create-standard-workflows-visual-studio-code)
   - Tutorials
     - [Create Consumption schedule-based workflow](https://learn.microsoft.com/en-us/azure/logic-apps/tutorial-build-schedule-recurring-logic-app-workflow)
