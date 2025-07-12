@@ -11,6 +11,8 @@
     - [Network planning](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-network-plan)
     - [Known issues](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-known-issues)
     - [Support](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-database-support)
+    - Security
+      - [Manage Oracle TDE with Azure Key Vault](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/manage-oracle-transparent-data-encryption-azure-key-vault)
     - Onboarding
       - [Onboard Oracle Database@Azure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/onboard-oracle-database)
     - Design considerations

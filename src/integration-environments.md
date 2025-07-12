@@ -6,5 +6,6 @@
   - How-to guides
     - [Create an integration environment](https://learn.microsoft.com/en-us/azure/integration-environments/create-integration-environment)
     - [Create an application group](https://learn.microsoft.com/en-us/azure/integration-environments/create-application-group)
+    - [Monitor health and performance](https://learn.microsoft.com/en-us/azure/integration-environments/monitor-resources-create-alerts)
   - Reference
     - [REST API](https://learn.microsoft.com/rest/api/integration/)
