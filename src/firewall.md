@@ -127,6 +127,6 @@
   - Resources
     - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
-    - [Community templates](https://azure.microsoft.com/documentation/templates)
+    - [Community templates](https://github.com/Azure/azure-quickstart-templates?tab=readme-ov-file)
     - [Pricing](https://azure.microsoft.com/pricing/details/azure-firewall/)
     - [Regional availability](https://azure.microsoft.com/regions/services/)

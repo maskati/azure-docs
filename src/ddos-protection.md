@@ -33,7 +33,7 @@
     - [Inline L7 DDoS protection with Gateway Load Balancer and partner NVAs](https://learn.microsoft.com/en-us/azure/ddos-protection/inline-protection-glb)
     - [Manage permissions and restrictions](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-permissions)
     - [Onboard partners](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-partner-onboarding)
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-ddos-protection-security-baseline?toc=%2fazure%2fddos-protection%2ftoc.json?toc=/azure/ddos-protection/TOC.json)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-ddos-protection-security-baseline?toc=%2fazure%2fddos-protection%2ftoc.json)
     - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Resiliency
     - [Components of a DDoS response strategy](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-response-strategy)
