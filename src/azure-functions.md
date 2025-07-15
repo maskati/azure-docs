@@ -14,32 +14,32 @@
       - C#
         - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
         - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-csharp)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-csharp)
         - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-csharp)
       - Java
         - [Eclipse](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-eclipse)
         - [Gradle](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-gradle)
         - [IntelliJ IDEA](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij)
-        - [Maven](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-java)
+        - [Maven](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-java)
         - [Quarkus](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-quarkus)
         - [Spring Cloud](https://learn.microsoft.com/azure/developer/java/spring-framework/getting-started-with-spring-cloud-function-in-azure?toc=/azure/azure-functions/toc.json)
         - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-java)
         - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-java)
       - JavaScript
         - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-node)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-node)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-javascript)
         - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-javascript)
       - PowerShell
         - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-powershell)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-powershell)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-powershell)
         - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-powershell)
       - Python
         - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-python)
         - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-python)
       - TypeScript
         - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-typescript)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-typescript)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-typescript)
         - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-typescript)
       - [Other Go/Rust](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-other)
       - Resource Manager
