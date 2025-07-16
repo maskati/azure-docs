@@ -61,6 +61,7 @@
     - [Configure an auto-stop schedule](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-stop-schedule)
     - [Configure stop on disconnect](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-stop-on-disconnect)
     - [Skip or delay an automatic shutdown](https://learn.microsoft.com/en-us/azure/dev-box/how-to-skip-delay-stop)
+    - [Delete unused dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-auto-delete-dev-box)
   - Connect devices to dev boxes
     - [Connect physical devices to a dev box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-connect-devices-to-dev-box)
     - [Configure virtual switch](https://learn.microsoft.com/en-us/azure/dev-box/how-to-connect-dev-box-virtual-switch)
