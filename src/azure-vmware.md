@@ -61,7 +61,7 @@
       - [Enable first-party application service principal for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)
     - Networking
       - [Connectivity to an Azure Virtual Network](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-connectivity)
-      - [Connect to on-premises environment](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-on-premises)
+      - [Connect to an on-premises environment](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-on-premises)
       - [Internet connectivity options](https://learn.microsoft.com/en-us/azure/azure-vmware/native-internet-connectivity-design-considerations)
       - [Connect multiple Gen 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-multiple-private-clouds)
       - [Connect Gen 2 to Gen 1 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-private-cloud-previous-edition)
@@ -189,7 +189,9 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.avs/privateclouds)
     - [Terraform Azure provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/vmware_private_cloud)
     - [Configure VMware Cloud Director Service in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vmware-cloud-director-service-azure-vmware-solution)
-    - [Self service maintenance orchestration preview](https://learn.microsoft.com/en-us/azure/azure-vmware/self-service-maintenance-orchestration)
+    - [Plan self-service maintenance for Azure VMware Solution public preview](https://learn.microsoft.com/en-us/azure/azure-vmware/self-service-maintenance-orchestration)
+    - [Enable VMware Cloud Director Service with Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-cds-with-azure)
+    - [Deploy VMware Cloud Director Availability in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vmware-cloud-director-availability-in-azure-vmware-solution)
   - Resources
     - Learning paths
       - [Introduction to Azure VMware Solution](https://learn.microsoft.com/training/modules/intro-azure-vmware-solution/)

@@ -18,6 +18,7 @@
     - Network Fabric
       - [Network Fabric overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric)
       - [Network Fabric Controller](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-controller)
+      - [Network Fabric management upgrade](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-fabric-management-upgrade)
       - [Network Fabric Services](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-services)
       - [Network Fabric resource update and commit](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-resource-update-commit)
       - [Network Fabric read-only commands](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-network-fabric-read-only-commands)

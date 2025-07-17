@@ -243,6 +243,10 @@
       - [Configure a sidecar container](https://learn.microsoft.com/en-us/azure/app-service/tutorial-custom-container-sidecar)
       - [Deploy app with Azure Container Registry](https://learn.microsoft.com/en-us/azure/app-service/tutorial-custom-container)
       - [Deploy with Azure Pipelines](https://learn.microsoft.com/en-us/azure/app-service/deploy-container-azure-pipelines)
+  - Sidecars
+    - [Overview](https://learn.microsoft.com/en-us/azure/app-service/overview-sidecar)
+    - [Configure sidecars](https://learn.microsoft.com/en-us/azure/app-service/configure-sidecar)
+    - [Migrate from multi-container](https://learn.microsoft.com/en-us/azure/app-service/migrate-sidecar-multi-container-apps)
   - WebJobs
     - [Overview](https://learn.microsoft.com/en-us/azure/app-service/overview-webjobs)
     - [Background jobs best practices](https://learn.microsoft.com/azure/architecture/best-practices/background-jobs?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
