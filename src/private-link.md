@@ -5,6 +5,7 @@
     - [What is Azure Private Link?](https://learn.microsoft.com/en-us/azure/private-link/private-link-overview)
     - [What is a private endpoint?](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
     - [Private Link service](https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview)
+    - [Service endpoints](https://learn.microsoft.com/azure/virtual-network/virtual-network-service-endpoints-overview?toc=/azure/private-link/toc.json)
     - [What is a network security perimeter?](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-concepts)
     - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
     - [What is network foundations?](https://learn.microsoft.com/azure/networking/foundations/network-foundations-overview)
