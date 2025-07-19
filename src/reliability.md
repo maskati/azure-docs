@@ -82,9 +82,7 @@
       - [Sustainability data solutions in Fabric](https://learn.microsoft.com/en-us/azure/reliability/reliability-sustainability-data-solutions-fabric)
     - Integration
       - [Azure Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - Azure API Management
-        - [Availability zones](https://learn.microsoft.com/en-us/azure/api-management/high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-management)
       - [Azure Data Manager for Energy](https://learn.microsoft.com/en-us/azure/reliability/reliability-energy-data-services)
       - [Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy?bc=%2fazure%2freliability%2fbreadcrumb%2ftoc.json&toc=%2fazure%2freliability%2ftoc.json)
       - [Azure Event Grid](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid)
@@ -155,9 +153,7 @@
       - [Azure Storage Mover](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-storage-mover)
     - Web
       - [Azure AI Search](https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - Azure API Management
-        - [Availability zones](https://learn.microsoft.com/en-us/azure/api-management/high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-management)
       - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
       - [Azure Notification Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs)
@@ -223,7 +219,6 @@
         - [Azure Batch Cloud Service Pools](https://learn.microsoft.com/azure/batch/batch-pool-cloud-service-to-virtual-machine-configuration?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Cloud Services classic](https://learn.microsoft.com/azure/cloud-services-extended-support/in-place-migration-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [App Service Environment v1/v2](https://learn.microsoft.com/azure/app-service/environment/migrate?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [API Management](https://learn.microsoft.com/azure/api-management/compute-infrastructure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Azure Redis Cache](https://learn.microsoft.com/azure/azure-cache-for-redis/cache-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Classic Resource Providers](https://learn.microsoft.com/azure/azure-resource-manager/management/deployment-models?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Integration Services Environment](https://learn.microsoft.com/azure/logic-apps/export-from-ise-to-standard-logic-app?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

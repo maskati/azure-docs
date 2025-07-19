@@ -41,9 +41,11 @@
     - Go
       - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-go-console-app)
       - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-go-console-app)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-go-console)
     - Go Gin
       - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-go-web-app)
       - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-gin-web-app)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-go-gin)
     - Azure Functions
       - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-azure-functions-csharp)
       - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-azure-functions-csharp)
@@ -213,6 +215,8 @@
         - [API reference](https://microsoft.github.io/FeatureManagement-Python/html/index.html)
       - JavaScript
         - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-management-javascript-reference)
+      - Go
+        - [Feature reference](https://pkg.go.dev/github.com/microsoft/Featuremanagement-Go/featuremanagement)
       - Telemetry
         - [Feature flag telemetry reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-flag-telemetry-reference)
     - Deployment

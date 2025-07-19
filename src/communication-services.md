@@ -191,6 +191,7 @@
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/pricing)
     - [Advanced messaging for WhatsApp terms of service](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-terms-of-service)
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
+    - [WhatsApp channel prerequisites](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-channel-prerequisites)
     - [WhatsApp business account FAQ](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-business-account-faq)
     - Logging and analytics
       - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)

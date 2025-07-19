@@ -63,10 +63,10 @@
       - [Manage using automation](https://learn.microsoft.com/en-us/azure/api-management/automation-manage-api-management)
       - [Configure using Git](https://learn.microsoft.com/en-us/azure/api-management/api-management-configuration-repository-git)
       - [DevOps and CI/CD](https://learn.microsoft.com/en-us/azure/api-management/devops-api-development-templates)
-    - Resiliency
-      - [High availability features](https://learn.microsoft.com/en-us/azure/api-management/high-availability)
+    - Resiliency and reliability
+      - [Reliability in API Management](https://learn.microsoft.com/azure/reliability/reliability-api-management?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
       - [Deploy to multiple Azure regions](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-deploy-multi-region)
-      - [Enable availability zones](https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
+      - [Enable availability zones](https://learn.microsoft.com/en-us/azure/api-management/enable-availability-zone-support)
       - [Set up DR using backup/restore](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore)
     - Security
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/api-management/security-controls-policy)
