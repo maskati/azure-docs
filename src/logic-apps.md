@@ -198,7 +198,7 @@
       - [IBM Host File](https://learn.microsoft.com/en-us/azure/connectors/integrate-host-files-ibm-mainframe)
       - [IBM i](https://learn.microsoft.com/en-us/azure/connectors/integrate-ibmi-apps-distributed-program-calls)
       - [IBM IMS](https://learn.microsoft.com/en-us/azure/connectors/integrate-ims-apps-ibm-mainframe)
-      - [IBM Informix](https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-informix)
+      - [IBM Informix](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/informix)
       - [IBM MQ](https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-mq)
       - [Integration Account](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-metadata)
       - [Microsoft Dataverse](https://learn.microsoft.com/en-us/azure/connectors/connect-common-data-service)

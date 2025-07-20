@@ -11,9 +11,9 @@
     - [Spin up a new dev box](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-create-dev-box)
     - [Use Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-team-customizations)
   - Concepts
+    - [Key concepts](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-concepts)
     - [Architecture overview](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-architecture)
     - [Network requirements](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-network-requirements)
-    - [Key concepts](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-concepts)
     - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-role-based-access-control)
   - Plan
     - [Microsoft Dev Box deployment guide](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-deployment-guide)
