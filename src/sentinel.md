@@ -109,6 +109,7 @@
           - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-btp-solution-overview)
           - [Security content reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-btp-security-content)
           - [Deploy SAP BTP](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-sap-btp-solution)
+        - [Partner solutions](https://learn.microsoft.com/en-us/azure/sentinel/sap/solution-partner-overview)
       - Integrate Microsoft business applications
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/solution-overview)
         - [Deploy for Power Platform and Microsoft Dynamics 365 Customer Engagement](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/deploy-power-platform-solution)

@@ -41,6 +41,7 @@
     - [Configure user customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-user-customizations)
     - [Configure tasks for customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-customization-tasks)
     - [Connect to Azure resources and repositories](https://learn.microsoft.com/en-us/azure/dev-box/how-to-customizations-connect-resource-repository)
+    - [Add and Manage Catalogs](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-catalog)
   - Create & connect to dev boxes
     - [Manage a dev box through developer portal](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
     - [Connect to your dev box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-create-dev-boxes-developer-portal)
