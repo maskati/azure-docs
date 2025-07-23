@@ -425,7 +425,7 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka)
         - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-trigger)
         - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-output)
-      - MCP tool
+      - MCP
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp)
         - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-trigger)
       - [Mobile Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mobile-apps)

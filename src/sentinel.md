@@ -3,14 +3,27 @@
   - [Microsoft Sentinel Documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
   - Overview
     - [What is Microsoft Sentinel?](https://learn.microsoft.com/en-us/azure/sentinel/overview)
+    - [Microsoft Sentinel data lake overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-overview)
     - [What's new](https://learn.microsoft.com/en-us/azure/sentinel/whats-new)
     - [Best practices](https://learn.microsoft.com/en-us/azure/sentinel/best-practices)
     - [Experience in Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-sentinel-defender-portal)
+  - Data lake exploration
+    - KQL for data lake exploration
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-overview)
+      - [Run KQL queries](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-queries)
+      - [Create KQL jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs)
+      - [Manage KQL jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-manage-jobs)
+      - [Troubleshoot KQL for the lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-troubleshoot)
+    - Notebooks for data lake exploration
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/notebooks-overview)
+      - [Run notebooks](https://learn.microsoft.com/en-us/azure/sentinel/datalake/notebooks)
+      - [Microsoft Sentinel provider class reference](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-provider-class-reference)
+      - [Create and manage notebook jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/notebook-jobs)
+      - [Notebook examples for data lake exploration](https://learn.microsoft.com/en-us/azure/sentinel/datalake/notebook-examples)
   - Plan
     - [Deployment planning guide](https://learn.microsoft.com/en-us/azure/sentinel/deploy-overview)
     - [Prerequisites](https://learn.microsoft.com/en-us/azure/sentinel/prerequisites)
     - Workspace architecture
-      - [Design workspace architecture](https://learn.microsoft.com/azure/azure-monitor/logs/workspace-design?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Review sample workspace designs](https://learn.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
       - [Prepare for multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/prepare-multiple-workspaces)
     - [Prioritize data connectors](https://learn.microsoft.com/en-us/azure/sentinel/prioritize-data-connectors)
@@ -28,6 +41,8 @@
     - [Enable Microsoft Sentinel and initial features and content](https://learn.microsoft.com/en-us/azure/sentinel/enable-sentinel-features-content)
     - [Onboard to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/quickstart-onboard)
     - [Connect Microsoft Sentinel to the Defender portal](https://learn.microsoft.com/unified-secops-platform/microsoft-sentinel-onboard?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+    - [Onboard to Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-onboarding)
+    - [Set up connectors for the Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-connectors)
     - [Configure content](https://learn.microsoft.com/en-us/azure/sentinel/configure-content)
     - [Set up multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/use-multiple-workspaces)
     - [Enable User and Entity Behavior Analytics UEBA](https://learn.microsoft.com/en-us/azure/sentinel/enable-entity-behavior-analytics)
@@ -176,6 +191,9 @@
     - Aggregate data
       - [Aggregate data with summary rules](https://learn.microsoft.com/en-us/azure/sentinel/summary-rules)
       - [Aggregate insights from raw data into an Auxiliary table](https://learn.microsoft.com/en-us/azure/sentinel/summary-rules-tutorial)
+  - Manage data
+    - [Data management overview](https://learn.microsoft.com/en-us/azure/sentinel/manage-data-overview)
+    - [Manage tables, tiers, and retention](https://learn.microsoft.com/en-us/azure/sentinel/manage-table-tiers-retention)
   - Integrate threat intelligence
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/understand-threat-intelligence)
     - [Threat intelligence integrations](https://learn.microsoft.com/en-us/azure/sentinel/threat-intelligence-integration)
@@ -334,8 +352,7 @@
       - [Reduce costs](https://learn.microsoft.com/en-us/azure/sentinel/billing-reduce-costs)
       - [Switch to simplified pricing tiers](https://learn.microsoft.com/en-us/azure/sentinel/enroll-simplified-pricing-tier)
       - [Optimize costs with pre-purchase plan](https://learn.microsoft.com/en-us/azure/sentinel/billing-pre-purchase-plan)
-      - [Manage data retention](https://learn.microsoft.com/azure/azure-monitor/logs/data-retention-configure?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Auxiliary logs use cases](https://learn.microsoft.com/en-us/azure/sentinel/basic-logs-use-cases)
+      - [Data lake use cases](https://learn.microsoft.com/en-us/azure/sentinel/basic-logs-use-cases)
     - Manage multiple workspaces
       - [Workspaces in the Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/workspaces-defender-portal)
       - [Workspace manager in the Azure portal](https://learn.microsoft.com/en-us/azure/sentinel/workspace-manager)
@@ -344,7 +361,7 @@
       - [Manage multiple tenants MSSP](https://learn.microsoft.com/en-us/azure/sentinel/multiple-tenants-service-providers)
       - [Work with incidents in multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/multiple-workspace-view)
       - [Manage your intellectual property in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property)
-    - [Manage workspace access](https://learn.microsoft.com/en-us/azure/sentinel/resource-context-rbac)
+    - [Manage workspace access with resource-context RBAC](https://learn.microsoft.com/en-us/azure/sentinel/resource-context-rbac)
     - [Set up customer-managed keys](https://learn.microsoft.com/en-us/azure/sentinel/customer-managed-keys)
     - [Manage your SOC with incident metrics](https://learn.microsoft.com/en-us/azure/sentinel/manage-soc-with-incident-metrics)
     - Monitor Microsoft Sentinel health
@@ -355,6 +372,7 @@
       - [Monitor and optimize execution of analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/monitor-optimize-analytics-rule-execution)
       - [Audit and monitor the health of analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/monitor-analytics-rule-integrity)
     - [Auditing Microsoft Sentinel with Azure Activity Logs](https://learn.microsoft.com/en-us/azure/sentinel/audit-sentinel-data)
+    - [Audit log for Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/auditing-lake-activities)
     - [Remove Microsoft Sentinel from your workspaces](https://learn.microsoft.com/en-us/azure/sentinel/offboard)
   - Build and publish Microsoft Sentinel solutions
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-integration-guide)
@@ -375,7 +393,8 @@
   - Troubleshoot
     - [Troubleshoot AWS S3 connector issues](https://learn.microsoft.com/en-us/azure/sentinel/aws-s3-troubleshoot)
   - Reference
-    - [Service limits](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-service-limits)
+    - [Microsoft Sentinel service limits](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-service-limits)
+    - [Microsoft Sentinel data lake service limits](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-service-limits)
     - [Microsoft Sentinel REST-API](https://learn.microsoft.com/rest/api/securityinsights/)
     - [OOTB content centralization changes](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-content-centralize)
     - Management references

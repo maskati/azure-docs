@@ -231,7 +231,6 @@
       - [Plan and manage costs](https://learn.microsoft.com/en-us/azure/logic-apps/plan-manage-costs)
       - [Manage Azure resources with automation tasks](https://learn.microsoft.com/en-us/azure/logic-apps/create-automation-tasks-azure-resources)
       - [Move logic app resources](https://learn.microsoft.com/en-us/azure/logic-apps/move-logic-app-resources)
-      - [Update schema for Consumption workflows](https://learn.microsoft.com/en-us/azure/logic-apps/update-workflow-definition-language-schema)
     - Test
       - [Create unit tests from Standard workflow definitions](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/create-unit-tests-standard-workflow-definitions-visual-studio-code)
       - [Create unit tests from Standard workflow runs](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/create-unit-tests-standard-workflow-runs-visual-studio-code)
@@ -278,7 +277,7 @@
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.logicapp)
     - [REST API](https://learn.microsoft.com/rest/api/logic/)
     - [Resource Manager template reference](https://learn.microsoft.com/azure/templates/microsoft.logic/allversions)
-    - [Workflow Definition Language schema](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language)
+    - [Workflow Definition Language schema](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-schema)
       - [Trigger and action types reference](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-actions-triggers)
       - [Reference for expression functions](https://learn.microsoft.com/en-us/azure/logic-apps/expression-functions-reference)
     - Standard Automated Test Framework

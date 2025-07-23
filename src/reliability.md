@@ -198,7 +198,6 @@
         - [Azure SQL Managed Instance](https://learn.microsoft.com/azure/azure-sql/managed-instance/instance-zone-redundancy-configure)
         - [Azure Storage accounts](https://learn.microsoft.com/en-us/azure/reliability/migrate-storage)
         - [Azure Virtual Machines and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/migrate-vm)
-        - [Workload - Azure Kubernetes and MySQL](https://learn.microsoft.com/en-us/azure/reliability/migrate-workload-aks-mysql)
   - Reliability concepts
     - [Business continuity, high availability, and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery)
     - [Redundancy, replication, and backup](https://learn.microsoft.com/en-us/azure/reliability/concept-redundancy-replication-backup)

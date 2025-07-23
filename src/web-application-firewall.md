@@ -5,6 +5,7 @@
     - [What is Azure Web Application Firewall?](https://learn.microsoft.com/en-us/azure/web-application-firewall/overview)
     - Application Gateway
       - [Web Application Firewall on Application Gateway](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview)
+      - [Web Application Firewall on Application Gateway for Containers](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-application-gateway-for-containers-overview)
       - [FAQ](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-faq.yml)
     - Front Door
       - [Web Application Firewall on Azure Front Door](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview)
@@ -108,10 +109,12 @@
     - Azure PowerShell
       - [Front Door](https://learn.microsoft.com/powershell/module/az.frontdoor/)
       - [Application Gateway](https://learn.microsoft.com/powershell/module/az.network/)
+      - [Application Gateway for Containers](https://learn.microsoft.com/powershell/module/az.alb/get-azalbsecuritypolicy)
       - [CDN](https://www.powershellgallery.com/packages/Az.Cdn/1.5.0-preview)
     - Azure CLI
       - [Front Door](https://learn.microsoft.com/cli/azure/network/front-door/waf-policy)
       - [Application Gateway](https://learn.microsoft.com/cli/azure/network/application-gateway)
+      - [Application Gateway for Containers](https://learn.microsoft.com/cli/azure/network/alb/security-policy)
       - [CDN](https://learn.microsoft.com/azure/web-application-firewall/afds/waf-front-door-create-portal)
     - REST API
       - [Front Door](https://learn.microsoft.com/rest/api/frontdoorservice/webapplicationfirewall/policies)
