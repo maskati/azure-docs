@@ -115,7 +115,7 @@
         - [JavaScript SDK - NPM](https://www.npmjs.com/package/@azure/arm-digitaltwins)
         - [JavaScript SDK - Source code](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/digitaltwins/arm-digitaltwins)
         - [Python SDK - PyPi](https://pypi.org/project/azure-mgmt-digitaltwins/)
-        - [Python SDK - Source code](https://github.com/Azure/azure-sdk-for-python/tree/release/v3/sdk/digitaltwins/azure-mgmt-digitaltwins)
+        - [Python SDK - Source code](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/digitaltwins/azure-mgmt-digitaltwins)
         - [Go SDK - GoDoc](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/services/digitaltwins/mgmt)
         - [Go - Source code](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/resourcemanager/digitaltwins)
       - Data plane

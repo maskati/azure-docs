@@ -84,7 +84,6 @@
       - [Automate DevOps build and deployment](https://learn.microsoft.com/en-us/azure/logic-apps/automate-build-deployment-standard)
       - [Deploy Standard logic apps to private storage accounts](https://learn.microsoft.com/en-us/azure/logic-apps/deploy-single-tenant-logic-apps-private-storage-account)
       - [Export Consumption workflows to Standard logic app](https://learn.microsoft.com/en-us/azure/logic-apps/export-from-consumption-to-standard-logic-app)
-      - [Export from integration service environment to Standard logic app](https://learn.microsoft.com/en-us/azure/logic-apps/export-from-ise-to-standard-logic-app)
     - Hybrid deployment for Azure Logic Apps
       - [Set up requirements for hybrid deployment](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-standard-workflows-hybrid-deployment-requirements)
       - [Create Standard workflows for hybrid deployment](https://learn.microsoft.com/en-us/azure/logic-apps/create-standard-workflows-hybrid-deployment)
@@ -260,8 +259,6 @@
       - [Set up cross-region disaster recovery for integration accounts](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-b2b-business-continuity)
     - [Examples, scenarios, and walkthroughs](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-examples-and-scenarios)
       - [Data operations - code examples](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-data-operations-code-samples)
-      - [Monitor social media](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-scenario-social-serverless)
-      - [Create a serverless app - Visual Studio](https://learn.microsoft.com/en-us/azure/logic-apps/create-serverless-apps-visual-studio)
       - [B2B processing](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-b2b)
   - Reference
     - [Billing and pricing models](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing)

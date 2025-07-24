@@ -368,5 +368,5 @@
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=stream-analytics)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-stream-analytics)
-    - [Videos](https://azure.microsoft.com/resources/videos/index/?services=stream-analytics&sort=newest)
+    - [Videos](https://azure.microsoft.com/resources/videos/?services=stream-analytics&sort=newest)
     - [Customer case studies](https://www.microsoft.com/customers/search?filters=product%3Aazure&q=stream+analytics)
