@@ -103,7 +103,7 @@
       - Migrate Hyper-V servers
         - [Assess large number of servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/scale-hyper-v-assessment)
         - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v)
-        - [Migrate to Azure Local](https://learn.microsoft.com/azure/azure-local/migrate/migration-azure-migrate-overview?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
+        - [Migrate to Azure Local](https://learn.microsoft.com/azure/azure-local/migrate/migration-azure-migrate-overview?view=azloc-2507&preserve-view=true&toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
       - Migrate physical servers
         - [Assess Physical servers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-physical)
         - [Migrate Physical servers to Azure](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines)

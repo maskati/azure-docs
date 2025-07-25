@@ -43,9 +43,7 @@
         - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-disaster-recovery?tabs=core2x?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
       - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
-      - Azure Container Registry
-        - [Availability zones](https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/azure/container-registry/container-registry-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Container Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-registry)
       - [Azure Kubernetes Service AKS](https://learn.microsoft.com/en-us/azure/reliability/reliability-aks)
       - Azure Service Fabric
         - [Availability zones](https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

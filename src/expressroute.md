@@ -155,7 +155,6 @@
     - [Resolving network performance issues](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-network-performance)
     - [Reset a failed circuit](https://learn.microsoft.com/en-us/azure/expressroute/reset-circuit)
     - [Getting ARP tables](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-resource-manager)
-    - [Getting ARP tables Classic](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-classic)
     - [Questions & answers](https://learn.microsoft.com/answers/tags/225/azure-expressroute)
   - Reference
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute-reference)
@@ -186,11 +185,5 @@
       - [Hybrid partnerships: Enabling on-premises scenarios](https://learn.microsoft.com/events/ignite-2015/brk1454)
       - [Set up Microsoft peering for your circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-set-up-microsoft-peering-for-your-expressroute-circuit/)
     - Classic and legacy articles
-      - [Modify a circuit](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-classic)
-      - [Create and modify peering configuration](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-routing-classic)
-      - [Link a virtual network to an ExpressRoute circuit](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-classic)
       - [Configure ExpressRoute and S2S coexisting connections](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-classic)
       - Change circuit from classic to Resource Manager
-        - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-move)
-        - [Move a circuit from classic to Resource Manager](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-move-arm)
-        - [Migrate associated virtual networks from classic to Resource Manager](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-migration-classic-resource-manager)
