@@ -103,6 +103,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-aspnet-core)
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-javascript)
+      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-time-window-filter-python)
     - Roll out features to targeted audience
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-aspnet-core)

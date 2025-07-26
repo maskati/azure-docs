@@ -42,10 +42,7 @@
         - Configure BGP community for VNet
           - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-custom-bgp-communities-portal)
           - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-custom-bgp-communities)
-        - Add IPv6 support for private peering
-          - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-ipv6-portal)
-          - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-ipv6-powershell)
-          - [Azure CLI](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-ipv6-cli)
+        - [Add IPv6 support for private peering](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-ipv6)
         - [Connectivity between virtual networks](https://learn.microsoft.com/en-us/azure/expressroute/virtual-network-connectivity-guidance)
       - Microsoft peering
         - [Routing Microsoft 365 traffic over ExpressRoute](https://learn.microsoft.com/microsoft-365/enterprise/azure-expressroute?toc=/azure/expressroute/TOC.json)
