@@ -13,7 +13,6 @@
     - [Service limits](https://learn.microsoft.com/en-us/azure/communication-services/concepts/service-limits)
     - Privacy, compliance, and security
       - [Data residency and user privacy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/privacy)
-      - [Create a Network Security Perimeter NSP](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/network-security-perimeter)
       - [European Union Data Boundary](https://learn.microsoft.com/en-us/azure/communication-services/concepts/european-union-data-boundary)
       - [Azure Government](https://learn.microsoft.com/en-us/azure/communication-services/concepts/government)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-communication-services-security-baseline?toc=/azure/communication-services/toc.json)
@@ -265,6 +264,7 @@
       - [Understanding Simulcast](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/simulcast)
       - [Add audio quality improvements](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/audio-quality-enhancements/add-noise-supression)
       - [Enable video background effects](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-video-effects)
+      - [Enable volume indicator controls](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/get-started-volume-indicator)
       - [Pass user-to-user information UUI data in a header](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/call-context)
       - Data channel
         - [Data Channel overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/data-channel)

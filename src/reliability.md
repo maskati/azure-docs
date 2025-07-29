@@ -192,7 +192,7 @@
         - [Azure Recovery Services vault](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
         - [Azure Service Fabric](https://learn.microsoft.com/en-us/azure/reliability/migrate-service-fabric)
         - [Azure Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-outages-disasters)
-        - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/reliability/migrate-sql-database)
+        - [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/database/enable-zone-redundancy?view=azuresql-db&preserve-view=true&toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Azure SQL Managed Instance](https://learn.microsoft.com/azure/azure-sql/managed-instance/instance-zone-redundancy-configure)
         - [Azure Storage accounts](https://learn.microsoft.com/en-us/azure/reliability/migrate-storage)
         - [Azure Virtual Machines and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/migrate-vm)

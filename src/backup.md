@@ -372,7 +372,7 @@
         - [Unattended installation](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-unattended-install)
       - Protect workloads
         - [Back up Hyper-V virtual machines](https://learn.microsoft.com/en-us/azure/backup/back-up-hyper-v-virtual-machines-mabs)
-        - [Back up Azure Stack HCI virtual machines](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-stack-hyperconverged-infrastructure-virtual-machines)
+        - [Back up Azure Local virtual machines](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-stack-hyperconverged-infrastructure-virtual-machines)
         - [VMware server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-server-vmware)
         - [Exchange](https://learn.microsoft.com/en-us/azure/backup/backup-azure-exchange-mabs)
         - [SharePoint farm](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-sharepoint-mabs)

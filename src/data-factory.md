@@ -50,6 +50,9 @@
         - [New files by last modified data](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-incremental-copy-lastmodified-copy-data-tool)
         - [New files by time partitioned file name](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-incremental-copy-partitioned-file-name-copy-data-tool)
       - [Build a copy pipeline using managed VNet and private endpoints](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-copy-data-portal-private)
+    - Connect to Fabric
+      - [Ingest data into Fabric](https://learn.microsoft.com/en-us/azure/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory)
+      - [Change data capture from SAP to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/data-factory/change-data-capture-from-sap-to-onelake-with-azure-data-factory)
     - Transform data
       - Transform data with mapping data flows
         - [Adventure Works retail example for Synapse pipelines](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-data-flow-adventure-works-retail-template)

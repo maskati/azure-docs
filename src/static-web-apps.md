@@ -83,7 +83,7 @@
       - [Start the API server](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-api-server)
       - [Deploy to Azure](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-deploy)
       - [Configure SWA CLI](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-configuration)
-      - [API Reference](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli.yml)
+      - [API Reference](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli)
   - Relocation
     - [Relocate to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-static-web-apps?toc=/azure/static-web-apps/toc.json)
   - Traffic management
