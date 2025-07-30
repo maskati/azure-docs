@@ -99,10 +99,12 @@
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-aspnet-core)
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-javascript)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-python)
+      - [Go Gin](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-go)
     - Enable features on a schedule
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-aspnet-core)
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-javascript)
+      - [Go Gin](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-go)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-time-window-filter-python)
     - Roll out features to targeted audience
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter)

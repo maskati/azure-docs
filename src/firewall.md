@@ -65,7 +65,7 @@
       - [Bicep](https://learn.microsoft.com/en-us/azure/firewall/deploy-bicep)
       - [Terraform](https://learn.microsoft.com/en-us/azure/firewall/deploy-terraform)
       - [ARM template](https://learn.microsoft.com/en-us/azure/firewall/deploy-template)
-      - [Secured hub customer public IP](https://learn.microsoft.com/en-us/azure/firewall/secured-hub-customer-public-ip)
+    - [Secured hub customer public IP](https://learn.microsoft.com/en-us/azure/firewall/secured-hub-customer-public-ip)
     - Azure policy
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/firewall-azure-policy)
       - [CLI](https://learn.microsoft.com/en-us/azure/firewall/deploy-ps-policy)

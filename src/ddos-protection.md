@@ -6,6 +6,7 @@
     - [Azure DDoS Protection features](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-features)
     - [Tier comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-sku-comparison)
     - [Price comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-pricing-guide)
+    - [Cost optimization principles](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-optimization-guide)
     - [What is Azure network security?](https://learn.microsoft.com/azure/networking/security/network-security?toc=/azure/ddos-protection/toc.json)
     - [FAQ](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-faq.yml)
   - Configure
