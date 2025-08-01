@@ -109,8 +109,7 @@
         - [Availability zones](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
     - Networking
-      - Azure Application Gateway V2
-        - [Availability zones](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Application Gateway v2](https://learn.microsoft.com/en-us/azure/reliability/reliability-application-gateway-v2)
       - [Azure Application Gateway for Containers](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-gateway-containers)
       - [Azure Bastion](https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion)
       - [Azure Communications Gateway](https://learn.microsoft.com/en-us/azure/communications-gateway/reliability-communications-gateway?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

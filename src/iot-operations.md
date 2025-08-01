@@ -9,35 +9,41 @@
     - Deploy Azure IoT Operations to your cluster
       - [Deployment overview](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/overview-deploy)
       - [Prepare a cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-prepare-cluster)
-      - [Deploy to a cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-operations)
+      - [Deploy to a test cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-test-operations)
+      - [Deploy to a production cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-operations)
       - [Manage, update, or uninstall](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-manage-update-uninstall)
       - [Upgrade](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-upgrade)
-      - [Enable secure settings](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-enable-secure-settings)
       - [Production deployment guidelines](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-guidelines)
       - [Production deployment examples](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-examples)
     - Secure your deployment
+      - [Built-in RBAC](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/built-in-rbac)
       - [Manage certificates](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-certificates)
       - [Manage secrets](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-secrets)
       - [Validate images](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-validate-images)
       - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
-    - Discover and manage assets
-      - [Asset management overview](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-manage-assets)
-      - [Understand assets and asset endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-assets-asset-endpoints)
-      - [Discover assets](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-akri)
-      - [Manage your assets](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-manage-assets-remotely)
-      - OPC UA connect to your assets
-        - [What is connector for OPC UA?](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opcua-broker)
-        - [Message format](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-opcua-message-format)
-        - [OPC UA application authentication overview](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opcua-broker-certificates-management)
-        - [Configure OPC UA application authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opcua-certificates-infrastructure)
-        - [Configure OPC UA user authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opcua-authentication-options)
-        - [Configure and use automatic asset discovery](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-autodetect-opc-ua-assets-use-akri)
+      - [Enable secure settings](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-enable-secure-settings)
+    - Discover and manage assets and devices
+      - [Asset and device management overview](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-manage-assets)
+      - [Understand assets and devices](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-assets-devices)
+      - [Understand discovery with Akri services](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-akri)
+      - [Use the operations experience UI](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-manage-assets-devices)
+      - [Use asset endpoints to manage assets](https://learn.microsoft.com/previous-versions/azure/iot-operations/discover-manage-assets/overview-manage-assets)
+      - Connect to OPC UA servers
+        - [Understand the connector for OPC UA](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opc-ua-connector)
+        - [Discover OPC UA assets and devices](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-autodetect-opc-ua-assets-use-akri)
+        - [Configure OPC UA assets and devices](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua)
+        - [Understand OPC UA application authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opc-ua-connector-certificates-management)
+        - [Configure OPC UA application authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-certificates-infrastructure)
+        - [Configure OPC UA user authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-authentication-options)
       - Connect to media sources
-        - [What is the media connector?](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-media-connector)
+        - [Understand the media connector](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-media-connector)
         - [Use the media connector](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-media-connector)
       - Control ONVIF assets
-        - [What is the connector for ONVIF?](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-onvif-connector)
+        - [Understand the connector for ONVIF](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-onvif-connector)
         - [Use the connector for ONVIF](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-onvif-connector)
+      - Connect to HTTP endpoints
+        - [Understand the connector for REST/HTTP](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-http-connector)
+        - [Use the connector for REST/HTTP](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-http-connector)
     - Manage MQTT broker
       - [Broker overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/overview-broker)
       - [Listener](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-brokerlistener)
@@ -45,6 +51,7 @@
       - [Authorization](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-authorization)
       - [Scale and availability](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-availability-scale)
       - [Disk-backed message buffer](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-disk-backed-message-buffer)
+      - [Data persistence](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-broker-persistence)
       - [Diagnostic settings](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-broker-diagnostics)
       - [MQTT client options](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-broker-mqtt-client-options)
       - [Encrypt internal traffic](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-encrypt-internal-traffic)
@@ -59,7 +66,9 @@
         - [Microsoft Fabric Real-Time Intelligence](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-fabric-real-time-intelligence)
         - [Microsoft Fabric OneLake](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-fabric-endpoint)
         - [Azure Data Explorer](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-adx-endpoint)
+        - [OpenTelemetry](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-opentelemetry-endpoint)
         - [Local storage or ACSA](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-local-storage-endpoint)
+        - [Registry endpoint](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-registry-endpoint)
       - [Create a data flow](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-create-dataflow)
       - Transform data
         - [Map data](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-dataflow-mapping)
@@ -67,6 +76,8 @@
         - [Enrich data](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-dataflow-enrich)
       - [Use message schemas](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-schema-registry)
       - [Manage data flow profiles](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-dataflow-profile)
+      - [WASM with data flow graphs](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-dataflow-graph-wasm)
+      - [Develop WASM modules and graphs](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-develop-wasm-modules)
     - Manage network
       - [Overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/overview-layered-network)
       - [IoT Operations in layered network](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/concept-iot-operations-in-layered-network)
@@ -80,16 +91,19 @@
     - Configure observability and monitoring
       - [Deploy observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-configure-observability)
       - [Clean up observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-clean-up-observability-resources)
-    - Create edge apps
-      - [MQTT client app guidance](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/edge-apps-overview)
-      - State store
-        - [State store overview](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/overview-state-store)
-        - [About the state store protocol](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/concept-about-state-store-protocol)
-      - Dapr apps
-        - [Deploy Dapr](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/howto-deploy-dapr)
-        - [Develop Dapr apps](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/howto-develop-dapr-apps)
-        - [Build an event-driven app with Dapr](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/tutorial-event-driven-with-dapr)
-      - [Develop MQTTnet apps](https://learn.microsoft.com/en-us/azure/iot-operations/create-edge-apps/howto-develop-mqttnet-apps)
+    - Develop edge applications
+      - [Azure IoT Operations SDKs](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-iot-operations-sdks)
+      - [Start developing with the SDKs](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/quickstart-get-started-sdks)
+      - Concepts
+        - [Highly available edge apps](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-edge-apps)
+        - [Data persistence in the state store](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-state-store)
+      - Reference
+        - [State store protocol](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/reference-state-store-protocol)
+        - [SDKS reference documentation](https://github.com/Azure/iot-operations-sdks/blob/main/doc/reference/README)
+        - Dapr apps
+          - [Deploy Dapr](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-deploy-dapr)
+          - [Develop Dapr apps](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-develop-dapr-apps)
+          - [Build an event-driven app with Dapr](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/tutorial-event-driven-with-dapr)
     - Tutorials
       - End-to-end sample
         - [Add OPC UA assets to your cluster](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-add-assets)

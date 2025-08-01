@@ -54,6 +54,7 @@
     - [Connect to a VM - IP address](https://learn.microsoft.com/en-us/azure/bastion/connect-ip-address)
     - [Connect to a VM scale set](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-scale-set)
     - [Connect to DevTest Labs VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/enable-browser-connection-lab-virtual-machines?toc=%2fazure%2fbastion%2ftoc.json)
+    - [Connect to an AKS cluster](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-to-aks-private-cluster)
     - Work with a VM session
       - [Copy and paste](https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-copy-paste)
       - [Full screen view](https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-full-screen)

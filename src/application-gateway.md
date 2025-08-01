@@ -35,7 +35,6 @@
     - [TCP/TLS proxy](https://learn.microsoft.com/en-us/azure/application-gateway/tcp-tls-proxy-overview)
     - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fapplication-gateway%2ftoc.json)
     - [High traffic support](https://learn.microsoft.com/en-us/azure/application-gateway/high-traffic-support)
-    - [Autoscaling v2 SKU](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
     - [WebSocket support](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-websocket)
     - [DNS resolution details](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-dns-resolution)
     - [Ingress for AKS](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview)
@@ -52,11 +51,14 @@
     - [SSL certificate management](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management)
     - [TLS 1.0 and 1.1 retirement](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-tls-version-retirement)
     - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+  - Reliability
+    - [Reliability for Application Gateway v2](https://learn.microsoft.com/en-us/azure/reliability/reliability-application-gateway-v2?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json)
+    - [Autoscaling and zone redundancy v2 SKU](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
+    - [Tutorial- Autoscaling and zone redundancy](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-autoscale-ps)
   - Deploy
     - [Host multiple sites](https://learn.microsoft.com/en-us/azure/application-gateway/create-multiple-sites-portal)
     - [Route by URL](https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
     - [Redirect web traffic](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-redirect-cli)
-    - [Autoscaling and zone redundant](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-autoscale-ps)
     - [Deploy Application Gateway with DDoS protection](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway)
     - Configure TCP/TLS proxy
       - [Azure portal](https://learn.microsoft.com/en-us/azure/application-gateway/how-to-tcp-tls-proxy)
@@ -145,7 +147,6 @@
     - [Schedule autoscaling](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-externally-managed-scheduled-autoscaling)
     - Relocate
       - [Relocate to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-app-gateway?toc=/azure/application-gateway/toc.json)
-      - [Migrate to availability zone support](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2?toc=/azure/application-gateway/toc.json)
     - [Proxy buffer configuration](https://learn.microsoft.com/en-us/azure/application-gateway/proxy-buffers)
     - [Using Server-sent events](https://learn.microsoft.com/en-us/azure/application-gateway/use-server-sent-events)
     - [Custom error pages](https://learn.microsoft.com/en-us/azure/application-gateway/custom-error)
@@ -154,7 +155,6 @@
       - [Migrate from v1 to v2](https://learn.microsoft.com/en-us/azure/application-gateway/migrate-v1-v2)
       - [Migration FAQ](https://learn.microsoft.com/en-us/azure/application-gateway/retirement-faq)
     - [Configure alerts](https://learn.microsoft.com/en-us/azure/application-gateway/configure-alerts-with-templates)
-    - [Classic to Resource Manager](https://learn.microsoft.com/en-us/azure/application-gateway/classic-to-resource-manager)
     - [Configure Private Link](https://learn.microsoft.com/en-us/azure/application-gateway/private-link-configure)
   - Health monitoring
     - [Monitor Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/monitor-application-gateway)

@@ -330,7 +330,7 @@
       - [Workspaces preview breaking changes, part 2 March 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/workspaces-breaking-changes-march-2025)
       - [Git configuration retirement March 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/git-configuration-retirement-march-2025)
       - [Direct management API retirement March 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/direct-management-api-retirement-march-2025)
-      - [Managed certificates suspension August 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/managed-certificates-suspension-august-2025)
+      - [Managed certificates suspension August 2025 - March 2026](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/managed-certificates-suspension-august-2025)
       - [ADAL-based identity provider retirement September 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/identity-provider-adal-retirement-sep-2025)
       - [CAPTCHA endpoint update September 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/captcha-endpoint-change-sep-2025)
       - [Built-in analytics dashboard retirement March 2027](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/analytics-dashboard-retirement-march-2027)
