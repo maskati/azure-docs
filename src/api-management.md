@@ -215,7 +215,7 @@
   - Troubleshoot
     - [Diagnose issues in production](https://learn.microsoft.com/en-us/azure/api-management/diagnose-solve-problems)
     - [Troubleshoot failed to update hostnames error](https://learn.microsoft.com/en-us/azure/api-management/api-management-troubleshoot-cannot-add-custom-domain)
-    - [Troubleshoot response timeouts and errors](https://learn.microsoft.com/en-us/azure/api-management/troubleshoot-response-timeout-and-errors)
+    - [Troubleshoot response time-outs and errors](https://learn.microsoft.com/en-us/azure/api-management/troubleshoot-response-timeout-and-errors)
   - Samples
     - [Policy snippets](https://github.com/Azure/api-management-policy-snippets)
     - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/api-management/powershell-samples)

@@ -118,6 +118,7 @@
 [Azure SRE Agent documentation](./sre-agent.md)
 [Azure Static Web Apps documentation](./static-web-apps.md)
 [storage-actions](./storage-actions.md)
+[Azure Storage Discovery documentation](./storage-discovery.md)
 [Azure Storage Mover documentation](./storage-mover.md)
 [StorSimple documentation](./storsimple.md)
 [Azure Stream Analytics documentation](./stream-analytics.md)

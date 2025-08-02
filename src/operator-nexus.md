@@ -189,6 +189,10 @@
       - [Troubleshoot TWAMP UDP not working](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-twamp-udp-not-working)
     - Resource Health
       - [Troubleshoot Resource Health alerts](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-resource-health-alerts)
+      - [Troubleshoot failed volume attachments](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-failed-volume-attachments)
+      - [Troubleshoot storage control plane connectivity issues](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-storage-control-plane-disconnected)
+      - [Troubleshoot unhealthy Container Storage Interface CSI pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-unhealthy-container-storage-interface)
+      - [Troubleshoot Unhealthy Network File System pods](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-network-file-system-unhealthy)
       - [Troubleshoot Unhealthy or Degraded Storage Appliance](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-unhealthy-degraded-storage-appliance)
     - Storage Appliance
       - [Troubleshoot Multiple Storage appliances](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-multiple-storage-appliances)

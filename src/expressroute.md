@@ -21,7 +21,7 @@
       - [Create an ExpressRoute circuit - PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-arm)
       - [Create an ExpressRoute circuit - CLI](https://learn.microsoft.com/en-us/azure/expressroute/howto-circuit-cli)
       - [Create an ExpressRoute circuit - Bicep](https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-bicep)
-      - [Create an ExpressRoute circuit - ARM template](https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-template)
+      - [Create an ExpressRoute circuit - ARM template](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-resource-manager-template)
       - [Create an ExpressRoute circuit - Terraform](https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-terraform)
   - Configure
     - Circuit configuration
@@ -46,10 +46,7 @@
         - [Connectivity between virtual networks](https://learn.microsoft.com/en-us/azure/expressroute/virtual-network-connectivity-guidance)
       - Microsoft peering
         - [Routing Microsoft 365 traffic over ExpressRoute](https://learn.microsoft.com/microsoft-365/enterprise/azure-expressroute?toc=/azure/expressroute/TOC.json)
-        - Configure route filters for Microsoft peering
-          - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-portal)
-          - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-powershell)
-          - [Azure CLI](https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-cli)
+        - [Configure route filters for Microsoft peering](https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-portal)
         - [QoS requirements](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-qos)
         - [Routing Microsoft PSTN traffic over ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/using-expressroute-for-microsoft-pstn)
       - Enable and disable peerings
@@ -78,10 +75,7 @@
     - [ExpressRoute Metro](https://learn.microsoft.com/en-us/azure/expressroute/metro)
     - ExpressRoute Direct
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about)
-      - Configure ExpressRoute Direct
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/how-to-expressroute-direct-portal)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-erdirect)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-expressroute-direct-cli)
+      - [Configure ExpressRoute Direct](https://learn.microsoft.com/en-us/azure/expressroute/how-to-expressroute-direct-portal)
       - [Configure MACsec for ExpressRoute Direct ports](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-macsec)
       - [Rate limit for ExpressRoute Direct circuit](https://learn.microsoft.com/en-us/azure/expressroute/rate-limit)
     - ExpressRoute gateway
@@ -142,9 +136,7 @@
     - Planned maintenance
       - [Guidance](https://learn.microsoft.com/en-us/azure/expressroute/planned-maintenance)
       - [Configure controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/expressroute/customer-controlled-gateway-maintenance)
-    - Work remotely
-      - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/expressroute/toc.json)
-      - [Hybrid connectivity for remote users](https://learn.microsoft.com/en-us/azure/expressroute/work-remotely-support)
+    - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/expressroute/toc.json)
   - Troubleshoot
     - [Troubleshoot gateway migration](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration-error-messaging)
     - [Obtain correlation ID](https://learn.microsoft.com/en-us/azure/expressroute/get-correlation-id)
