@@ -286,6 +286,7 @@
     - [Service Updates](https://azure.microsoft.com/updates/?product=app-service)
     - [Routine maintenance](https://learn.microsoft.com/en-us/azure/app-service/routine-maintenance)
     - [Routine maintenance, Restarts, and Downtime](https://learn.microsoft.com/en-us/azure/app-service/routine-maintenance-downtime)
+    - [App Service Managed Certificate July 2025 Changes](https://learn.microsoft.com/en-us/azure/app-service/app-service-managed-certificate-changes-july-2025)
     - [Language support policy](https://learn.microsoft.com/en-us/azure/app-service/operating-system-functionality)
     - [OS functionality](https://learn.microsoft.com/en-us/azure/app-service/operating-system-functionality)
     - [Kudu service](https://learn.microsoft.com/en-us/azure/app-service/resources-kudu)
