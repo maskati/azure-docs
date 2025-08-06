@@ -112,15 +112,19 @@
       - [Custom caching](https://learn.microsoft.com/en-us/azure/api-management/api-management-sample-cache-by-key)
   - API management for AI
     - [AI gateway capabilities in API Management](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
-    - Import LLM APIs
+    - Manage LLM APIs
       - [Import Azure AI Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
       - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
       - [Import language model API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-llm-api)
       - [Import Google Gemini API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-google-gemini-api)
       - [Import Amazon Bedrock API](https://learn.microsoft.com/en-us/azure/api-management/amazon-bedrock-passthrough-llm-api)
-    - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
-    - [Semantic caching for Azure OpenAI API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
-    - [Authenticate and authorize to Azure OpenAI](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
+      - [Semantic caching for LLM API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
+      - [Authenticate and authorize to Azure OpenAI](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
+    - Manage MCP servers
+      - [MCP server capabilities](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-overview)
+      - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
+      - [Expose existing MCP server](https://learn.microsoft.com/en-us/azure/api-management/expose-existing-mcp-server)
+      - [Secure access to MCP servers](https://learn.microsoft.com/en-us/azure/api-management/secure-mcp-servers)
   - Manage APIs with policies
     - [API Management policies overview](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-policies)
     - [Set or edit policies](https://learn.microsoft.com/en-us/azure/api-management/set-edit-policies)

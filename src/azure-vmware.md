@@ -81,7 +81,7 @@
     - [Request host quota for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/request-host-quota-azure-vmware-solution)
     - [Plan the deployment](https://learn.microsoft.com/en-us/azure/azure-vmware/plan-private-cloud-deployment)
     - [Deploy Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-azure-vmware-solution)
-    - [Azure VMware Solution SDDC maintenance best practices](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-host-remediation)
+    - [Azure VMware Solution SDDC maintenance best practices](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-private-cloud-maintenance-best-practices)
     - [Deploy vSAN stretched clusters](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vsan-stretched-clusters)
     - [Create a placement policy](https://learn.microsoft.com/en-us/azure/azure-vmware/create-placement-policy)
     - [Protect, monitor, and manage VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/integrate-azure-native-services)
@@ -175,6 +175,9 @@
     - [Send syslogs to log management solutions via Azure Logic Apps](https://learn.microsoft.com/en-us/azure/azure-vmware/logs-via-logic-app)
     - [Configure alerts and work with metrics](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-alerts-for-azure-vmware-solution)
     - [Configure Newest Metrics for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-vmware-solution-metrics)
+    - Resource Health for AVS
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-vmware/resource-health-for-azure-vmware-solution-overview)
+      - [Configure Azure Monitor for Resource Health alerts](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-monitor-for-resource-health-for-azure-vmware-solution)
     - Arc-enabled Azure VMware Solution private cloud
       - [Deploy Arc-enabled VMware vSphere for Azure VMware Solution private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-arc-for-azure-vmware-solution)
       - [Enable guest management and install extensions on Arc-enabled VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/arc-enable-guest-management)
