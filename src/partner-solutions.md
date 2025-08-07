@@ -3,6 +3,7 @@
   - Azure Native Integrations documentation
     - [Overview](https://learn.microsoft.com/en-us/azure/partner-solutions/overview)
     - [Partner services](https://learn.microsoft.com/en-us/azure/partner-solutions/partners)
+    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/partner-solutions/faq.yml)
   - Partner services documentation
     - [Arize AI](https://learn.microsoft.com/en-us/azure/partner-solutions/arize-ai/)
     - [Astro](https://learn.microsoft.com/en-us/azure/partner-solutions/astronomer/)
