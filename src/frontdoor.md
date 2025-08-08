@@ -89,6 +89,8 @@
       - Other CDN to Front Door Standard/Premium
         - [Migrate CDN provider](https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/toc.json)
         - [Custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door)
+      - [AFD/CDN Classic migration FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/migration-faq)
+      - [Post migration Dev-Ops experience](https://learn.microsoft.com/en-us/azure/frontdoor/post-migration-dev-ops-experience)
     - Upgrades
       - [Upgrade from Standard to Premium tier - Portal](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade)
       - [Upgrade from Standard to Premium tier - PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade-powershell)

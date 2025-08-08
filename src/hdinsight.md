@@ -445,7 +445,7 @@
         - [HWC and Apache Spark operations](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/apache-hive-warehouse-connector-operations)
         - [HWC integration with Apache Zeppelin](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/apache-hive-warehouse-connector-zeppelin)
         - [HWC 1.0 Supported APIs](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/hive-warehouse-connector-apis)
-        - [HWC 2.0 Supported APIs](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/hive-warehouse-connector-v2-apis)
+        - [HWC 2.1 and 2.0 Supported APIs](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/hive-warehouse-connector-v2-apis)
         - [Apache Hive with Hadoop](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/hdinsight-use-hive)
         - [Use the Apache Hive View](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-use-hive-ambari-view)
         - [Connect to Apache Beeline](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/connect-install-beeline)

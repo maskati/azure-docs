@@ -145,7 +145,7 @@
         - [Disaster recovery](https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Databox](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san)
-      - [Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-manage-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure NetApp Files](https://learn.microsoft.com/en-us/azure/reliability/reliability-netapp-files)
       - [Azure Queue Storage](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-queue)
       - [Azure Storage Actions](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions)
       - [Azure Storage-Disk Storage](https://learn.microsoft.com/azure/virtual-machines/disks-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

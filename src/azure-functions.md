@@ -188,6 +188,7 @@
     - [PowerShell](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
     - Python
       - [Developer reference guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python)
+      - [Updates for Python 3.13+](https://learn.microsoft.com/en-us/azure/azure-functions/python-313-changes)
       - [Programming models](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python)
       - [Binding definitions for Python v2](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python)
       - [Python worker extensions](https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions)
@@ -231,7 +232,7 @@
       - Debug
         - [Debug local PowerShell functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-powershell-local)
         - [Debug Event Grid trigger locally](https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-event-grid-trigger-local)
-      - [Load testing](https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-load-test-function-app?toc=/azure/azure-functions/toc.json)
+      - [Load testing](https://learn.microsoft.com/en-us/azure/app-testing/load-testing/how-to-create-load-test-function-app?toc=/azure/azure-functions/toc.json)
       - [Dependency injection](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection)
       - [Manage connections](https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections)
       - [Error handling and retries](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages)

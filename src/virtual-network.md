@@ -17,6 +17,28 @@
     - [Monitoring](https://learn.microsoft.com/en-us/azure/virtual-network/monitor-virtual-network)
     - [Plan virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm)
     - [Traffic routing](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
+  - Security
+    - [Secure Virtual Network](https://learn.microsoft.com/en-us/azure/virtual-network/secure-virtual-network)
+    - [Azure Kubernetes network policies](https://learn.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies)
+    - [Azure Policy Regulatory Compliance controls](https://learn.microsoft.com/en-us/azure/virtual-network/security-controls-policy)
+    - [Azure security baseline for Virtual Network](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-security-baseline?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
+    - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+    - DDoS protection
+      - [Overview](https://learn.microsoft.com/azure/ddos-protection/ddos-protection-overview?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
+      - [Create and configure](https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
+      - [Partnering with Azure DDoS Protection](https://learn.microsoft.com/azure/ddos-protection/ddos-protection-partner-onboarding?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
+    - Encryption
+      - [Overview](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-encryption-overview)
+      - [Create a virtual network with encryption](https://learn.microsoft.com/en-us/azure/virtual-network/how-to-create-encryption)
+      - [FAQ](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-encryption-faq.yml)
+    - Network security groups
+      - [How network security groups filter traffic](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works)
+      - [Manage network security groups](https://learn.microsoft.com/en-us/azure/virtual-network/manage-network-security-group)
+    - [Service endpoint policies for Azure Storage](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-overview)
+    - Virtual network TAP
+      - [Overview](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-tap-overview)
+      - [Configure virtual network TAP - Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-virtual-network-tap-portal)
+      - [Configure virtual network TAP - Azure CLI](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-tap-virtual-network-cli)
   - Architecture and concepts
     - [Azure services network isolation](https://learn.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services)
     - [Concepts and best practices](https://learn.microsoft.com/en-us/azure/virtual-network/concepts-and-best-practices)
@@ -42,27 +64,6 @@
     - [Filter network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic)
     - [Restrict network access to PaaS resources](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
     - [Route network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table)
-  - Security
-    - [Azure Kubernetes network policies](https://learn.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies)
-    - [Azure Policy Regulatory Compliance controls](https://learn.microsoft.com/en-us/azure/virtual-network/security-controls-policy)
-    - [Azure security baseline for Virtual Network](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-security-baseline?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
-    - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
-    - DDoS protection
-      - [Overview](https://learn.microsoft.com/azure/ddos-protection/ddos-protection-overview?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
-      - [Create and configure](https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
-      - [Partnering with Azure DDoS Protection](https://learn.microsoft.com/azure/ddos-protection/ddos-protection-partner-onboarding?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
-    - Encryption
-      - [Overview](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-encryption-overview)
-      - [Create a virtual network with encryption](https://learn.microsoft.com/en-us/azure/virtual-network/how-to-create-encryption)
-      - [FAQ](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-encryption-faq.yml)
-    - Network security groups
-      - [How network security groups filter traffic](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works)
-      - [Manage network security groups](https://learn.microsoft.com/en-us/azure/virtual-network/manage-network-security-group)
-    - [Service endpoint policies for Azure Storage](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-overview)
-    - Virtual network TAP
-      - [Overview](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-tap-overview)
-      - [Configure virtual network TAP - Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-virtual-network-tap-portal)
-      - [Configure virtual network TAP - Azure CLI](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-tap-virtual-network-cli)
   - Manage connectivity
     - Accelerated networking
       - [Create a VM with Accelerated Networking](https://learn.microsoft.com/en-us/azure/virtual-network/create-virtual-machine-accelerated-networking)

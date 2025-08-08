@@ -28,6 +28,8 @@
         - [MQTT clients](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-clients)
         - [Client groups](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-groups)
         - [Topic spaces](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-topic-spaces)
+        - [MQTT Retain](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-retain)
+        - [HTTP Publish](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-http-publish)
         - [Routing MQTT messages](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-routing)
           - [Routing event schema](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-routing-event-schema)
           - [Filtering routed MQTT messages](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-routing-filtering)
@@ -57,6 +59,7 @@
         - [Send MQTT events to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-events-fabric)
         - [MQTT Request Response messaging](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-request-response-messages)
         - [Assign custom domain name to a namespace](https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name)
+        - [Publish using HTTP](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-how-to-http-publish)
         - Monitor
           - [Monitor Event Grid namespaces](https://learn.microsoft.com/en-us/azure/event-grid/monitor-namespaces)
           - [Monitoring data reference MQTT delivery](https://learn.microsoft.com/en-us/azure/event-grid/monitor-mqtt-delivery-reference)

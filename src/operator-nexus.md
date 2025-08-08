@@ -163,8 +163,6 @@
       - [MDE Runtime Protection](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-mde-runtime-protection)
       - [Configure Network Access Control Lists for SSH Access on Management VPN](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-acls-for-ssh-management-on-access-vpn)
       - [Enable/Disable Vulnerability Scanning](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-disable-vulnerability-scanning)
-      - [Service Principal Best Practices](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-service-principal)
-        - [Service Principal Rotation](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-service-principal-rotation)
     - [Install CLI Extension](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-install-cli-extensions)
     - General
       - [Check runtime version](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-check-runtime-version)

@@ -72,6 +72,7 @@
       - [Set up DNS failover using private resolvers](https://learn.microsoft.com/en-us/azure/dns/tutorial-dns-private-resolver-failover)
       - [Resolve Azure and on-premises domains](https://learn.microsoft.com/en-us/azure/dns/private-resolver-hybrid-dns)
   - Security
+    - [Secure DNS](https://learn.microsoft.com/en-us/azure/dns/secure-dns)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-dns-security-baseline?toc=/azure/dns/TOC.json)
     - [DNS security policy](https://learn.microsoft.com/en-us/azure/dns/dns-security-policy)
     - [DNSSEC overview](https://learn.microsoft.com/en-us/azure/dns/dnssec)

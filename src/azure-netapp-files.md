@@ -88,19 +88,15 @@
         - [Understand application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-oracle-introduction)
         - [Requirements and considerations for application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-oracle-considerations)
     - Data protection and resiliency
+      - [Reliability in Azure NetApp Files](https://learn.microsoft.com/en-us/azure/reliability/reliability-netapp-files?toc=azure/azure-netapp-files/toc.json&bc=/azure/azure-netapp-files/breadcrumb/toc.yml)
       - [Understand data protection and disaster recovery options](https://learn.microsoft.com/en-us/azure/azure-netapp-files/data-protection-disaster-recovery-options)
       - [How Azure NetApp Files snapshots work](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-introduction)
       - Azure NetApp Files backup
         - [Understand Azure NetApp Files backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-introduction)
         - [Requirements and considerations for Azure NetApp Files backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-requirements-considerations)
-      - Disaster recovery with cross-region replication
-        - [Understand cross-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-introduction)
-        - [Requirements and considerations for cross-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-requirements-considerations)
-      - High availability and resiliency with availability zones and cross-zone replication
-        - [Use availability zones for high availability](https://learn.microsoft.com/en-us/azure/azure-netapp-files/use-availability-zones)
-        - [Understand cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-replication-introduction)
-        - [Requirements and considerations for cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-replication-requirements-considerations)
-      - [Understand cross-zone-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-region-replication)
+      - Replication
+        - [Replication in Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/replication)
+        - [Replication requirements and considerations](https://learn.microsoft.com/en-us/azure/azure-netapp-files/replication-requirements)
       - Azure Application Consistent Snapshot AzAcSnap tool
         - What is AzAcSnap?
           - [Introduction to AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-introduction)
