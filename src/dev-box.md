@@ -78,6 +78,7 @@
     - [Troubleshoot Task view issues](https://learn.microsoft.com/en-us/azure/dev-box/how-to-troubleshoot-dev-box-task-view)
     - [Get support for Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/how-to-get-help)
   - Reference
+    - [Microsoft Dev Center Landing Zone Accelerator](https://github.com/Azure/DevBoxAccelerator/tree/main)
     - [Install Azure CLI devcenter extension](https://learn.microsoft.com/en-us/azure/dev-box/how-to-install-dev-box-cli)
     - [Azure CLI - az devcenter](https://learn.microsoft.com/cli/azure/service-page/microsoft dev box and azure deployment environments)
     - [Authenticate to REST APIs](https://learn.microsoft.com/en-us/azure/dev-box/how-to-authenticate)

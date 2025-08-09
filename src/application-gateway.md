@@ -41,6 +41,7 @@
     - [Understanding pricing](https://learn.microsoft.com/en-us/azure/application-gateway/understanding-pricing)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)
+    - [Secure your Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/secure-application-gateway)
     - [Private Deployment](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-private-deployment)
     - [Private Link](https://learn.microsoft.com/en-us/azure/application-gateway/private-link)
     - [Secure with SSL](https://learn.microsoft.com/en-us/azure/application-gateway/create-ssl-portal)
