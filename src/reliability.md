@@ -6,7 +6,7 @@
     - [Overview](https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance)
     - AI and machine learning
       - [Azure AI Health Insights](https://learn.microsoft.com/en-us/azure/reliability/reliability-health-insights)
-      - [Azure AI Search](https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/reliability-ai-search)
       - [Azure Bot Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-bot)
       - [Azure Machine Learning Service](https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
     - Analytics
@@ -22,7 +22,7 @@
       - [Microsoft Purview](https://learn.microsoft.com/en-us/azure/reliability/reliability-microsoft-purview)
     - Compute
       - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
-      - [Azure App Service Environment](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service-environment)
+      - [App Service Environment](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service-environment)
       - [Azure Batch](https://learn.microsoft.com/en-us/azure/reliability/reliability-batch)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
       - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
@@ -140,9 +140,7 @@
       - [Microsoft Defender for Cloud DevOps security](https://learn.microsoft.com/en-us/azure/reliability/reliability-defender-devops)
     - Storage
       - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/reliability-backup)
-      - Azure Blob Storage
-        - [Availability zones](https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Blob Storage](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-blob)
       - [Azure Databox](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san)
       - [Azure NetApp Files](https://learn.microsoft.com/en-us/azure/reliability/reliability-netapp-files)
@@ -151,7 +149,7 @@
       - [Azure Storage-Disk Storage](https://learn.microsoft.com/azure/virtual-machines/disks-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Storage Mover](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-storage-mover)
     - Web
-      - [Azure AI Search](https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/reliability-ai-search)
       - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-management)
       - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
@@ -169,11 +167,12 @@
     - Migrate to availability zone support
       - [Overview](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-migration-overview)
       - Migration guides by service
-        - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/migrate-search-service)
+        - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/reliability-ai-search)
         - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt)
         - [Azure App Configuration](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration)
         - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
         - [Azure Application Gateway](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2)
+        - [Azure Blob Storage](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-blob)
         - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/migrate-functions)
         - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
         - [Azure Batch](https://learn.microsoft.com/en-us/azure/reliability/reliability-batch)
@@ -194,7 +193,6 @@
         - [Azure Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-outages-disasters)
         - [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/database/enable-zone-redundancy?view=azuresql-db&preserve-view=true&toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Azure SQL Managed Instance](https://learn.microsoft.com/azure/azure-sql/managed-instance/instance-zone-redundancy-configure)
-        - [Azure Storage accounts](https://learn.microsoft.com/en-us/azure/reliability/migrate-storage)
         - [Azure Virtual Machines and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/migrate-vm)
   - Reliability concepts
     - [Business continuity, high availability, and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery)

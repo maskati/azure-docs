@@ -82,6 +82,7 @@
       - [DevOps deployment](https://learn.microsoft.com/en-us/azure/logic-apps/devops-deployment-single-tenant-azure-logic-apps)
       - [Set up DevOps deployment](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-devops-deployment-single-tenant-azure-logic-apps)
       - [Automate DevOps build and deployment](https://learn.microsoft.com/en-us/azure/logic-apps/automate-build-deployment-standard)
+      - [Set up CD with Deployment Center](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-cd-deployment-center-standard)
       - [Deploy Standard logic apps to private storage accounts](https://learn.microsoft.com/en-us/azure/logic-apps/deploy-single-tenant-logic-apps-private-storage-account)
       - [Export Consumption workflows to Standard logic app](https://learn.microsoft.com/en-us/azure/logic-apps/export-from-consumption-to-standard-logic-app)
     - Hybrid deployment for Azure Logic Apps
