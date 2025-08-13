@@ -72,7 +72,6 @@
       - [Audit and deploy using Azure Policy](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-policy)
     - NSG flow logs
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview)
-      - [Log VM network traffic](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-tutorial)
       - [Manage NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-manage)
       - Deploy NSG flow logs
         - [ARM template](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-template)

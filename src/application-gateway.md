@@ -157,6 +157,7 @@
       - [Migration FAQ](https://learn.microsoft.com/en-us/azure/application-gateway/retirement-faq)
     - [Configure alerts](https://learn.microsoft.com/en-us/azure/application-gateway/configure-alerts-with-templates)
     - [Configure Private Link](https://learn.microsoft.com/en-us/azure/application-gateway/private-link-configure)
+    - [Migrate application load balancing from AWS to Azure](https://learn.microsoft.com/en-us/azure/application-gateway/application-load-balancing-aws-to-azure-how-to)
   - Health monitoring
     - [Monitor Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/monitor-application-gateway)
     - [Health probe](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-probe-overview)
