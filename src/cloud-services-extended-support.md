@@ -34,7 +34,11 @@
       - [Migrate non-vnet installation to a virtual network](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/non-vnet-migration)
       - [Post migration changes](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/post-migration-changes)
       - [Common errors and known issues](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/in-place-migration-common-errors)
-    - [Feature Support for CSES](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/feature-support-analysis)
+      - [Feature Support for CSES](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/feature-support-analysis)
+    - Migrate from Azure Cloud Services extended support
+      - [Frequently asked questions FAQ](https://learn.microsoft.com/azure/service-fabric/service-fabric-cloud-services-migration-faq?toc=/azure/cloud-services-extended-support/toc.json)
+      - [Migrate to Service Fabric](https://learn.microsoft.com/azure/service-fabric/service-fabric-cloud-services-migration-worker-role-stateless-service?toc=/azure/cloud-services-extended-support/toc.json)
+      - [Compare Cloud Services extended support with Service Fabric](https://learn.microsoft.com/azure/service-fabric/service-fabric-cloud-services-migration-differences?toc=/azure/cloud-services-extended-support/toc.json)
   - How To
     - Apply extensions
       - [Apply Remote Desktop extension](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/enable-rdp)
