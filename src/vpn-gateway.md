@@ -195,6 +195,7 @@
   - Troubleshooting
     - [Troubleshoot VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot)
     - [Troubleshoot using diagnostic logs](https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-vpn-with-azure-diagnostics)
+    - [Troubleshoot digital certificate authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-digital-certificate-authentication)
     - Troubleshoot point-to-site connection issues
       - [Point-to-site connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-vpn-point-to-site-connection-problems)
       - [macOS - native VPN client connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-point-to-site-osx-ikev2)
