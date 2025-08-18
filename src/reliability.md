@@ -148,6 +148,7 @@
       - [Azure Storage Actions](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions)
       - [Azure Storage-Disk Storage](https://learn.microsoft.com/azure/virtual-machines/disks-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Storage Mover](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-storage-mover)
+      - [Azure Table Storage](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-table)
     - Web
       - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/reliability-ai-search)
       - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-management)
