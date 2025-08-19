@@ -40,7 +40,6 @@
     - [Ingress for AKS](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview)
     - [Understanding pricing](https://learn.microsoft.com/en-us/azure/application-gateway/understanding-pricing)
   - Security
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)
     - [Secure your Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/secure-application-gateway)
     - [Private Deployment](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-private-deployment)
     - [Private Link](https://learn.microsoft.com/en-us/azure/application-gateway/private-link)
@@ -51,6 +50,7 @@
     - [Using Key Vault](https://learn.microsoft.com/en-us/azure/application-gateway/key-vault-certs)
     - [SSL certificate management](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management)
     - [TLS 1.0 and 1.1 retirement](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-tls-version-retirement)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)
     - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reliability
     - [Reliability for Application Gateway v2](https://learn.microsoft.com/en-us/azure/reliability/reliability-application-gateway-v2?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json)

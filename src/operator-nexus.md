@@ -27,6 +27,7 @@
       - [Network Packet Broker](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-network-packet-broker)
       - [Commit Workflow v2](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-commit-workflow-v2)
       - Route Policy
+      - [Azure Firewall outbound rules for Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-azure-firewall-outbound-rules-nexus)
         - [Route Policy Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-route-policies-overview)
         - [IP Prefixes Overview](https://learn.microsoft.com/en-us/azure/operator-nexus/concepts-nexus-ip-prefix)
       - Isolation Domains
