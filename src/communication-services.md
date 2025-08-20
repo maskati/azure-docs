@@ -117,6 +117,7 @@
       - Advanced features
         - [Throw an exception when sending tier limit is reached](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/throw-exception-when-tier-limit-reached)
         - [Use email object model for payload](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/use-email-object-model-for-payload)
+        - [Hydrating messageId using EmailClient](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/send-email-advanced/hydrate-email-client-with-message-id)
     - Manage sender reputation
       - [Understand sender reputation](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/sender-reputation-managed-suppression-list)
       - [Manage opt-outs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email/email-optout-management)

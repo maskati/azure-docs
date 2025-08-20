@@ -46,6 +46,7 @@
         - [Find tenant ID and primary domain name](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/find-tenant-id-domain)
         - [Understand spending limit](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/spending-limit)
         - [Track credits for Microsoft Customer Agreement](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-check-azure-credits-balance)
+        - [Manage a Microsoft Azure credit resource](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-azure-credits)
         - [Manage a Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-consumption-commitment)
         - [Track your Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/track-consumption-commitment)
         - [Markup - China](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/markup-china)

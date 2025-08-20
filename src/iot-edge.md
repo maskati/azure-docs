@@ -15,7 +15,6 @@
       - [Filter data with Azure Functions](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function)
       - [Deploy a Stream Analytics module](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics)
       - [Classify images with Custom Vision](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-custom-vision)
-      - [Store data locally with SQL](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-store-data-sql-server)
     - [Create hierarchies of IoT Edge devices](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-nested-iot-edge)
     - [Configure EST server](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-configure-est-server)
     - [Configure, connect, and verify a GPU](https://learn.microsoft.com/en-us/azure/iot-edge/configure-connect-verify-gpu)

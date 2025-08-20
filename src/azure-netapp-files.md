@@ -205,6 +205,7 @@
         - [Edit the Hide Snapshot Path](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-edit-hide-path)
         - [Restore a snapshot to a new volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-new-volume)
         - [Restore individual files using single-file snapshot restore](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-file-single)
+        - [Restore individual files from backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/restore-single-file-backup)
         - [Restore a file from a snapshot using a client](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-file-client)
         - [Restore a volume using snapshot revert](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-revert-volume)
         - [Delete snapshots](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-delete)

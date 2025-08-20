@@ -5,21 +5,11 @@
     - [About Service Connector](https://learn.microsoft.com/en-us/azure/service-connector/overview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/service-connector/faq.yml)
   - Quickstarts
-    - Azure App Service
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-app-service-connection)
-      - [Azure CLI](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-cli-app-service-connection)
-    - Azure Container Apps
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-container-apps)
-      - [Azure CLI](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-cli-container-apps)
-    - Azure Functions
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-functions-connection)
-      - [Azure CLI](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-cli-functions-connection)
-    - Azure Kubernetes Service AKS
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-aks-connection)
-      - [Azure CLI](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-cli-aks-connection)
-    - Azure Spring Apps
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-spring-cloud-connection)
-      - [Azure CLI](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-cli-spring-cloud-connection)
+    - [Azure App Service](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-app-service-connection)
+    - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-container-apps)
+    - [Azure Functions](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-functions-connection)
+    - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-aks-connection)
+    - [Azure Spring Apps](https://learn.microsoft.com/en-us/azure/service-connector/quickstart-portal-spring-cloud-connection)
   - Tutorials
     - Azure App Service
       - [ASP.NET core app to App Configuration](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-connect-web-app-app-configuration)
