@@ -85,13 +85,13 @@
         - [Use Graylog](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-analyze-nsg-flow-logs-graylog?toc=/azure/network-watcher/toc.json)
     - [Read flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-read)
     - [Migrate NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate)
-    - Traffic analytics
-      - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
-      - [Usage scenarios](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-usage-scenarios)
-      - [Schema and data aggregation](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema)
-      - [Apply Zero Trust principles to segment Azure network](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-zero-trust)
-      - [Enable traffic analytics using Azure policy](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)
-      - [FAQ](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-faq.yml)
+  - Traffic analytics
+    - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
+    - [Usage scenarios](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-usage-scenarios)
+    - [Schema and data aggregation](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema)
+    - [Use queries in traffic analytics](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-queries)
+    - [Apply Zero Trust principles to segment Azure network](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-zero-trust)
+    - [Enable traffic analytics using Azure policy](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)
   - Security
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/network-watcher-security-baseline?toc=/azure/network-watcher/toc.json)
     - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)

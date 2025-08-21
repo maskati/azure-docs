@@ -56,7 +56,6 @@
       - [Chat metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/chat-metrics)
       - [Chat logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/chat-logs)
       - [Chat insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/chat-insights)
-      - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
     - Samples and tutorials
       - [Create a chat access token](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
       - [Add chat to your app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/get-started)
@@ -137,7 +136,6 @@
       - [Email logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/email-logs)
       - [Email metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/email-metrics)
       - [Email insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/email-insights)
-      - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
     - Samples and tutorials
       - [Detect sensitive data using Azure AI](https://learn.microsoft.com/en-us/azure/communication-services/samples/email-detect-sensitive-content)
     - References
@@ -169,7 +167,6 @@
       - [SMS logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/sms-logs)
       - [SMS metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/sms-metrics)
       - [SMS insights](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/insights/sms-insights)
-      - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
     - Samples and tutorials
       - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)
       - [Send an SMS message](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/send)
@@ -316,7 +313,6 @@
       - [Rooms logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/rooms-logs)
       - [Rooms metrics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/rooms-metrics)
       - [Closed captions logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/logs/closed-captions-logs)
-      - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
     - Quality and diagnostics
       - [Optimize call quality](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/manage-call-quality)
       - [Call diagnostics](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/call-diagnostics)
@@ -468,7 +464,6 @@
       - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
       - [Query call logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/log-analytics)
       - [Set up call monitoring and alerting](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/set-up-call-monitoring)
-      - [Export SDK telemetry to Application Insights](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telemetry-application-insights)
     - Samples and tutorials
       - [Get a trial phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-trial-phone-number)
       - [Get a phone number](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/telephony/get-phone-number)

@@ -49,6 +49,7 @@
         - [Manage a Microsoft Azure credit resource](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-azure-credits)
         - [Manage a Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-consumption-commitment)
         - [Track your Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/track-consumption-commitment)
+        - [Manage a Microsoft Azure discount resource](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-azure-discount)
         - [Markup - China](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/markup-china)
       - Administer subscriptions
         - [Prepare for classic administrator roles retirement](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/classic-administrator-retire)

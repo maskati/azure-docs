@@ -8,9 +8,11 @@
     - [Best practices](https://learn.microsoft.com/en-us/azure/sentinel/best-practices)
     - [Experience in Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-sentinel-defender-portal)
   - Data lake exploration
+    - [Compare KQL jobs, summary rules, and search jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs-summary-rules-search-jobs)
     - KQL for data lake exploration
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-overview)
       - [Run KQL queries](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-queries)
+      - [Sample KQL queries](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-sample-queries)
       - [Create KQL jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs)
       - [Manage KQL jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-manage-jobs)
       - [Troubleshoot KQL for the lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-troubleshoot)

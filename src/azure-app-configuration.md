@@ -223,6 +223,8 @@
         - [Feature reference](https://pkg.go.dev/github.com/microsoft/Featuremanagement-Go/featuremanagement)
       - Telemetry
         - [Feature flag telemetry reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-flag-telemetry-reference)
+    - Local emulator
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/emulator-overview)
     - Deployment
       - [ARM template](https://learn.microsoft.com/azure/templates/microsoft.appconfiguration/configurationstores?pivots=deployment-language-arm-template)
       - [Bicep](https://learn.microsoft.com/azure/templates/microsoft.appconfiguration/configurationstores?pivots=deployment-language-bicep)
