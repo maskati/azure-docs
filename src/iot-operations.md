@@ -2,6 +2,7 @@
 > A unified data plane for the edge
   - [Azure IoT Operations](https://learn.microsoft.com/en-us/azure/iot-operations/)
     - [Overview](https://learn.microsoft.com/en-us/azure/iot-operations/overview-iot-operations)
+    - [Azure IoT Operations versions and support](https://learn.microsoft.com/en-us/azure/iot-operations/overview-support)
     - Quickstart
       - [Run Azure IoT Operations in Codespaces](https://learn.microsoft.com/en-us/azure/iot-operations/get-started-end-to-end-sample/quickstart-deploy)
       - [Configure your instance](https://learn.microsoft.com/en-us/azure/iot-operations/get-started-end-to-end-sample/quickstart-configure)

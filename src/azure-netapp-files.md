@@ -208,6 +208,7 @@
         - [Restore individual files from backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/restore-single-file-backup)
         - [Restore a file from a snapshot using a client](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-file-client)
         - [Restore a volume using snapshot revert](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-revert-volume)
+        - [Create a short-term clone](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-short-term-clone)
         - [Delete snapshots](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-delete)
       - Manage volume backups
         - Configure backups

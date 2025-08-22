@@ -26,6 +26,8 @@
     - [Understand identifiers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/identifiers)
     - [Credentials best practices](https://learn.microsoft.com/en-us/azure/communication-services/concepts/credentials-best-practices)
     - [Use cases for string identifiers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/raw-id-use-cases)
+    - [Build an authentication service using Azure Functions](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/trusted-service-tutorial)
+    - [Authentication service hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/trusted-auth-sample)
     - [Presence events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-presence-events)
     - References
       - [Identity JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-identity-readme)
@@ -71,12 +73,10 @@
         - [Enable file attachment interop in your chat app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/chat-interop/meeting-interop-features-file-attachment)
       - [Use chat SDK with React Native](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/react-native)
       - [Enable push notifications in your chat app](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/add-chat-push-notifications)
-      - [Build an authentication service using Azure Functions](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/trusted-service-tutorial)
       - [Add a bot to your chat app](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/quickstart-botframework-integration)
       - [Integrate an OpenAI bot with chat](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/openai-chat-bot-integration)
       - [Integrate with data loss prevention policies](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/chat-sdk/data-loss-prevention)
       - [Chat hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/chat-hero-sample)
-      - [Authentication service hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/trusted-auth-sample)
     - References
       - [Chat JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-chat-readme)
       - [Chat .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.chat-readme)

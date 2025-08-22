@@ -76,7 +76,6 @@
       - [Acquire events from Azure Service Bus](https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopyToEventHub)
     - Reliability
       - [Best practices for business continuity and disaster recovery](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-business-continuity-outages-disasters)
-      - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs?toc=/azure/event-hubs/toc.json)
       - [Geo-replication](https://learn.microsoft.com/en-us/azure/event-hubs/geo-replication)
       - [Metadata only geo-disaster recovery](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-geo-dr)
     - Security

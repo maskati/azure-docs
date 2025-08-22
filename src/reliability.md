@@ -14,7 +14,7 @@
       - [Azure Data Explorer](https://learn.microsoft.com/azure/data-explorer/business-continuity-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Data Factory](https://learn.microsoft.com/en-us/azure/reliability/reliability-data-factory)
       - [Azure Data Share](https://learn.microsoft.com/en-us/azure/data-share/disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs)
+      - [Azure Event Hubs](https://learn.microsoft.com/azure/event-hubs/event-hubs-business-continuity-outages-disasters?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure HDInsight](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight)
       - [Azure Machine Learning](https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/stream-analytics/geo-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -165,9 +165,9 @@
   - Azure availability zones
     - [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
     - [Services with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support)
-    - Migrate to availability zone support
-      - [Overview](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-migration-overview)
-      - Migration guides by service
+    - Enable zone resiliency
+      - [Overview](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-enable-zone-resiliency)
+      - Enable zone resiliency by service
         - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/reliability-ai-search)
         - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt)
         - [Azure App Configuration](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration)
