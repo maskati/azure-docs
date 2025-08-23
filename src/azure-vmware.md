@@ -51,7 +51,7 @@
       - [7 - Peer on-premises to private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-expressroute-global-reach-private-cloud)
       - [8 - Scale a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-scale-private-cloud)
       - [9 - Delete a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-delete-private-cloud)
-  - Azure VMware Solution Gen 2 preview
+  - Azure VMware Solution Gen 2
     - [Introduction to Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-introduction)
     - Tutorial
       - [Create a Gen 2 Private Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/native-create-azure-vmware-virtual-network-private-cloud)

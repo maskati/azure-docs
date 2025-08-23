@@ -77,4 +77,3 @@
     - [Service Limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
     - [Service updates](https://azure.microsoft.com/updates/?product=traffic-manager)
     - [SLA](https://azure.microsoft.com/support/legal/sla/traffic-manager/)
-    - [Videos](https://azure.microsoft.com/resources/videos/index/?services=traffic-manager)

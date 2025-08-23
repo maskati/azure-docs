@@ -88,9 +88,6 @@
     - Hybrid deployment for Azure Logic Apps
       - [Set up requirements for hybrid deployment](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-standard-workflows-hybrid-deployment-requirements)
       - [Create Standard workflows for hybrid deployment](https://learn.microsoft.com/en-us/azure/logic-apps/create-standard-workflows-hybrid-deployment)
-    - Azure Arc-enabled Logic Apps
-      - [About Azure Arc-enabled Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/azure-arc-enabled-logic-apps-overview)
-      - [Create and deploy Azure Arc-enabled logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/azure-arc-enabled-logic-apps-create-deploy-workflows)
     - Migrate
       - [Migration from Power Automate](https://learn.microsoft.com/en-us/azure/logic-apps/power-automate-migration)
       - Migration from BizTalk Server

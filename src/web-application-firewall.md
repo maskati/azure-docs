@@ -12,7 +12,7 @@
       - [FAQ](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-faq.yml)
     - Azure CDN
       - [Web Application Firewall on Azure CDN](https://learn.microsoft.com/en-us/azure/web-application-firewall/cdn/cdn-overview)
-    - [What is Azure network security?](https://learn.microsoft.com/azure/networking/security/network-security?toc=/azure/web-application-firewall/toc.json)
+    - [What is Azure network security?](https://learn.microsoft.com/azure/networking/security/network-security?toc=%2fazure%2fweb-application-firewall%2ftoc.json)
   - Deploy
     - Application Gateway
       - Create Web Application Firewall
