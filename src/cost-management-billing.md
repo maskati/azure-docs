@@ -69,6 +69,7 @@
         - [Cancel and delete subscription](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription)
         - [Manage subscription policies](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-azure-subscription-policy)
         - [Filter and view subscriptions](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/filter-view-subscriptions)
+        - [Data transfer fees](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/data-transfer-fees)
       - Transfer billing products
         - [Azure billing product transfers](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/subscription-transfer)
         - [Transfer MOSP subscription ownership](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/billing-subscription-transfer)

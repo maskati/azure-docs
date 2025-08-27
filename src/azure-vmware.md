@@ -66,6 +66,8 @@
       - [Connect multiple Gen 2 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-multiple-private-clouds)
       - [Connect Gen 2 to Gen 1 Private Clouds](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-private-cloud-previous-edition)
       - [Public and Private DNS forward lookup zone configuration](https://learn.microsoft.com/en-us/azure/azure-vmware/native-dns-forward-lookup-zone)
+      - [Route architecture for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-routing-architecture)
+      - [Automatic peering sync for Gen 2 Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-auto-peering-sync)
   - Cost optimization
     - [ESUs for SQL Server and Windows Server in Azure VMware Solution VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/extended-security-updates-windows-sql-server)
     - [License SQL Server, Windows Server and Linux in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/license-sql-windows-in-avs)

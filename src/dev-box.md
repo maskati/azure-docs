@@ -9,7 +9,6 @@
     - [Set up Dev Box service Azure portal](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-service)
     - [Set up Dev Box service ARM template](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-arm-template)
     - [Spin up a new dev box](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-create-dev-box)
-    - [Use Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-team-customizations)
   - Concepts
     - [Key concepts](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-concepts)
     - [Architecture overview](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-architecture)
@@ -35,6 +34,7 @@
     - [Provision a Custom Image with Azure Image Builder](https://learn.microsoft.com/en-us/azure/dev-box/how-to-customize-devbox-azure-image-builder)
   - Customize dev boxes
     - [What are Dev Box customizations](https://learn.microsoft.com/en-us/azure/dev-box/concept-what-are-dev-box-customizations)
+    - [Quickstart:Use Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-team-customizations)
     - [Configure team customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-team-customizations)
     - [Configure dev center imaging](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-dev-center-imaging)
     - [Configure user customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-user-customizations)

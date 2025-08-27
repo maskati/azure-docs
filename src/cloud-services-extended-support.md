@@ -37,6 +37,8 @@
       - [Feature Support for CSES](https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/feature-support-analysis)
     - Migrate from Azure Cloud Services extended support
       - [Frequently asked questions FAQ](https://learn.microsoft.com/azure/service-fabric/service-fabric-cloud-services-migration-faq?toc=/azure/cloud-services-extended-support/toc.json)
+      - [Cloud Services migration decision matrix](https://learn.microsoft.com/azure/service-fabric/cloud-services-migration-decision-matrix?toc=/azure/cloud-services-extended-support/toc.json)
+      - [Migration guide](https://learn.microsoft.com/azure/service-fabric/cloud-services-to-service-fabric-migration-guide?toc=/azure/cloud-services-extended-support/toc.json)
       - [Migrate to Service Fabric](https://learn.microsoft.com/azure/service-fabric/service-fabric-cloud-services-migration-worker-role-stateless-service?toc=/azure/cloud-services-extended-support/toc.json)
       - [Compare Cloud Services extended support with Service Fabric](https://learn.microsoft.com/azure/service-fabric/service-fabric-cloud-services-migration-differences?toc=/azure/cloud-services-extended-support/toc.json)
   - How To
