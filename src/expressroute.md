@@ -80,7 +80,9 @@
       - [Rate limit for ExpressRoute Direct circuit](https://learn.microsoft.com/en-us/azure/expressroute/rate-limit)
     - ExpressRoute gateway
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-virtual-network-gateways)
-      - [About Scalable Gateway](https://learn.microsoft.com/en-us/azure/expressroute/scalable-gateway)
+      - About Scalable Gateway
+        - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/scalable-gateway)
+        - [Configure a scalable gateway](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-scalable-portal)
       - Configure a virtual network gateway
         - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-portal-resource-manager)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-resource-manager)

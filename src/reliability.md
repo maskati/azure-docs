@@ -118,7 +118,7 @@
       - Azure ExpressRoute
         - [Availability zones](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-high-availability-with-expressroute?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - [Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Firewall](https://learn.microsoft.com/en-us/azure/reliability/reliability-firewall)
       - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer)
       - [Azure Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Private 5G Core](https://learn.microsoft.com/en-us/azure/private-5g-core/reliability-private-5g-core?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

@@ -89,6 +89,9 @@
         - [Chatbot with OpenAI](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-chatbot-python)
         - [RAG with Azure OpenAI and your data](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-search-python)
         - [Chatbot with local SLM](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-fastapi)
+        - [Add MCP server to app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-python)
+        - [AI Foundry Agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-python)
+        - [Agentic web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-web-app-langgraph-foundry-python)
         - [Web app from Azure AI Foundry](https://learn.microsoft.com/azure/ai-foundry/tutorials/deploy-chat-web-app?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
     - PHP
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-php)

@@ -9,6 +9,7 @@
     - [Preview features](https://learn.microsoft.com/en-us/azure/firewall/firewall-preview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq.yml)
   - Design & architecture
+    - [Reliability in Azure Firewall](https://learn.microsoft.com/en-us/azure/reliability/reliability-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
     - Policy
       - [Policy rule sets](https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets)
       - [Policy Analytics](https://learn.microsoft.com/en-us/azure/firewall/policy-analytics)
