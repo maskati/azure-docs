@@ -116,6 +116,7 @@
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-aspnet-core)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-python)
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-javascript)
+      - [Go Gin](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-go)
     - Enable telemetry for feature flags
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry-python)

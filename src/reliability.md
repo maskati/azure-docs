@@ -74,8 +74,6 @@
       - Azure Monitor - Log Analytics
         - [Availability zones](https://learn.microsoft.com/azure/azure-monitor/logs/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Azure Monitor - Log Analytics](https://learn.microsoft.com/azure/azure-monitor/logs/logs-data-export?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=portal)
-    - Hybrid + multicloud
-      - [Azure Operator Nexus](https://learn.microsoft.com/en-us/azure/reliability/reliability-operator-nexus)
     - Industry solutions
       - [Microsoft Community Training](https://learn.microsoft.com/en-us/azure/reliability/reliability-community-training)
       - [Sustainability data solutions in Fabric](https://learn.microsoft.com/en-us/azure/reliability/reliability-sustainability-data-solutions-fabric)
@@ -121,7 +119,6 @@
       - [Azure Firewall](https://learn.microsoft.com/en-us/azure/reliability/reliability-firewall)
       - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer)
       - [Azure Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - [Azure Private 5G Core](https://learn.microsoft.com/en-us/azure/private-5g-core/reliability-private-5g-core?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Private Link](https://learn.microsoft.com/en-us/azure/private-link/availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Public IP](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Route Server](https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

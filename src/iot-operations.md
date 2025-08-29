@@ -102,7 +102,7 @@
         - [Data persistence in the state store](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-state-store)
       - Reference
         - [State store protocol](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/reference-state-store-protocol)
-        - [SDKS reference documentation](https://github.com/Azure/iot-operations-sdks/blob/main/doc/reference/README)
+        - [SDKS documentation](https://github.com/Azure/iot-operations-sdks/tree/main/doc)
         - Dapr apps
           - [Deploy Dapr](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-deploy-dapr)
           - [Develop Dapr apps](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-develop-dapr-apps)

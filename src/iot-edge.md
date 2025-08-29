@@ -3,7 +3,7 @@
   - [Azure IoT Edge documentation](https://learn.microsoft.com/en-us/azure/iot-edge/)
   - Overview
     - [About Azure IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge)
-    - [Version / release notes](https://learn.microsoft.com/en-us/azure/iot-edge/version-history)
+    - [Version history and release notes](https://learn.microsoft.com/en-us/azure/iot-edge/version-history)
     - [Supported platforms](https://learn.microsoft.com/en-us/azure/iot-edge/support)
   - Quickstarts
     - [Deploy code to a Linux device](https://learn.microsoft.com/en-us/azure/iot-edge/quickstart-linux)

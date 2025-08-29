@@ -58,7 +58,8 @@
     - Architecture
       - [Design considerations for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
     - Security
-      - [Enable first-party application service principal for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)
+      - [Enable first-party application service principal](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)
+      - [Configure identities role assignments manually](https://learn.microsoft.com/en-us/azure/azure-vmware/native-role-assignment)
     - Networking
       - [Connectivity to an Azure Virtual Network](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-connectivity)
       - [Connect to an on-premises environment](https://learn.microsoft.com/en-us/azure/azure-vmware/native-connect-on-premises)

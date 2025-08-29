@@ -164,6 +164,8 @@
       - [MDE Runtime Protection](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-use-mde-runtime-protection)
       - [Configure Network Access Control Lists for SSH Access on Management VPN](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-configure-acls-for-ssh-management-on-access-vpn)
       - [Enable/Disable Vulnerability Scanning](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-enable-disable-vulnerability-scanning)
+    - Storage Appliance
+      - [Storage Appliance Run-Read Commands](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-storage-run-read)
     - [Install CLI Extension](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-install-cli-extensions)
     - General
       - [Check runtime version](https://learn.microsoft.com/en-us/azure/operator-nexus/howto-check-runtime-version)

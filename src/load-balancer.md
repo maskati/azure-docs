@@ -76,6 +76,7 @@
     - [Using multiple IP configurations](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip)
     - [Move a load balancer across regions](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-azure-load-balancer)
   - Secure
+    - [Secure your load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/secure-load-balancer)
     - [Deploy public load balancer with DDoS protection](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer)
     - [Implement a secure hybrid networking](https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-load-balancer-security-baseline?toc=/azure/load-balancer/TOC.json)
