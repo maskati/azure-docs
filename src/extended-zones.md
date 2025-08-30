@@ -8,6 +8,7 @@
     - [Deploy a VM in an Extended Zone - ARM template](https://learn.microsoft.com/en-us/azure/extended-zones/deploy-vm-arm-template)
   - Tutorials
     - [Back up a virtual machine](https://learn.microsoft.com/en-us/azure/extended-zones/backup-virtual-machine)
+    - [Replicate images with Azure Compute Gallery](https://learn.microsoft.com/en-us/azure/extended-zones/replicate-azure-compute-gallery)
   - Concepts
     - [Extended Zones FAQ](https://learn.microsoft.com/en-us/azure/extended-zones/faq)
   - How-to guides
@@ -15,6 +16,7 @@
     - [Deploy an AKS cluster in an Extended Zone](https://learn.microsoft.com/en-us/azure/extended-zones/deploy-aks-cluster)
     - [Deploy a storage account in an Extended Zone](https://learn.microsoft.com/en-us/azure/extended-zones/create-storage-account)
     - [Request quota increase](https://learn.microsoft.com/en-us/azure/extended-zones/request-quota-increase)
+    - [Purchase reservations and savings plans](https://learn.microsoft.com/en-us/azure/extended-zones/purchase-reservations-savings-plans)
   - Arc-enabled PaaS workloads in Extended Zones
     - [Create Arc-Enabled AKS Clusters in Extended Zones](https://learn.microsoft.com/en-us/azure/extended-zones/arc-enabled-workloads-arc-enabled-aks-cluster)
     - [ContainerApps](https://learn.microsoft.com/en-us/azure/extended-zones/arc-enabled-workloads-container-apps)

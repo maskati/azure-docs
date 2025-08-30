@@ -17,6 +17,6 @@
     - [Neon Serverless Postgres](https://learn.microsoft.com/en-us/azure/partner-solutions/neon/)
     - [New Relic](https://learn.microsoft.com/en-us/azure/partner-solutions/new-relic/)
     - [Palo Alto Network](https://learn.microsoft.com/en-us/azure/partner-solutions/palo-alto/)
-    - [Pure Storage Cloud preview](https://learn.microsoft.com/en-us/azure/partner-solutions/pure-storage/)
+    - [Pure Storage Cloud](https://learn.microsoft.com/en-us/azure/partner-solutions/pure-storage/)
     - [NGINX](https://learn.microsoft.com/en-us/azure/partner-solutions/nginx/)
     - [Qumulo](https://learn.microsoft.com/en-us/azure/partner-solutions/qumulo/)

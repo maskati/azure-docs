@@ -77,12 +77,6 @@
       - [MQTT support](https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-connect-to-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
       - [AMQP support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-amqp-support)
       - [Supporting additional protocols](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway)
-    - Security
-      - [TLS support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-tls-support)
-      - [Virtual networks support](https://learn.microsoft.com/en-us/azure/iot-hub/virtual-network-support)
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/iot-hub-security-baseline?toc=/azure/iot-hub/TOC.json)
-      - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/iot-hub/security-controls-policy)
-      - [IoT security best practices](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security?context=%2fazure%2fiot-hub%2frc%2frc)
   - How-to guides
     - Manage
       - [Create an IoT hub](https://learn.microsoft.com/en-us/azure/iot-hub/create-hub)
@@ -136,6 +130,12 @@
       - [Resolve error codes](https://learn.microsoft.com/en-us/azure/iot-hub/troubleshoot-error-codes)
       - [Capture trace logs](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-collect-device-logs)
     - [Migrate TLS certificate root](https://learn.microsoft.com/en-us/azure/iot-hub/migrate-tls-certificate)
+  - Security and best practices
+    - [Secure your Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/secure-azure-iot-hub)
+    - [Transport Layer Security TLS support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-tls-support)
+    - [Virtual networks support](https://learn.microsoft.com/en-us/azure/iot-hub/virtual-network-support)
+    - [Security baseline for IoT Hub](https://learn.microsoft.com/security/benchmark/azure/baselines/iot-hub-security-baseline?toc=/azure/iot-hub/TOC.json)
+    - [Regulatory compliance controls by Azure Policy](https://learn.microsoft.com/en-us/azure/iot-hub/security-controls-policy)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/azure-cli-reference-for-IoT)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.iothub)
