@@ -45,6 +45,8 @@
     - [Connect Microsoft Sentinel to the Defender portal](https://learn.microsoft.com/unified-secops-platform/microsoft-sentinel-onboard?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - [Onboard to Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-onboarding)
     - [Set up connectors for the Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-connectors)
+    - [Unified connectors overview](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector)
+    - [Integrate with unified connectors](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector-integration)
     - [Configure content](https://learn.microsoft.com/en-us/azure/sentinel/configure-content)
     - [Set up multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/use-multiple-workspaces)
     - [Enable User and Entity Behavior Analytics UEBA](https://learn.microsoft.com/en-us/azure/sentinel/enable-entity-behavior-analytics)
