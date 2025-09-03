@@ -28,6 +28,7 @@
     - [Register APIs - GitHub Actions](https://learn.microsoft.com/en-us/azure/api-center/register-apis-github-actions)
     - [Register and discover MCP servers](https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server)
     - [Export API from API Center to Copilot Studio](https://learn.microsoft.com/en-us/azure/api-center/export-to-copilot-studio.yml)
+    - [Track API dependencies](https://learn.microsoft.com/en-us/azure/api-center/track-resource-dependencies)
   - API governance
     - [Use metadata for governance](https://learn.microsoft.com/en-us/azure/api-center/metadata)
     - [Govern APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/govern-apis-vscode-extension)

@@ -19,7 +19,6 @@
   - Identity
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/identity-model)
     - [Access tokens for end users](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
-    - [Authenticate Microsoft Entra ID users](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/microsoft-entra-id-authentication-integration)
     - [Sign an HTTP Request using HMAC](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/hmac-header-tutorial)
     - [Authenticate services](https://learn.microsoft.com/en-us/azure/communication-services/concepts/authentication)
     - [Enable managed identity](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/managed-identity)
@@ -77,6 +76,9 @@
       - [Integrate an OpenAI bot with chat](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/chat/openai-chat-bot-integration)
       - [Integrate with data loss prevention policies](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/chat-sdk/data-loss-prevention)
       - [Chat hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/chat-hero-sample)
+      - [Authentication service hero sample](https://learn.microsoft.com/en-us/azure/communication-services/samples/trusted-auth-sample)
+      - [Migrate to Android push notifications FCM v1](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-chat-migrate-android-push-fcm-v1)
+      - [Register for Android push notifications FCM v1](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-chat-register-android-push-fcm-v1)
     - References
       - [Chat JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-chat-readme)
       - [Chat .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.chat-readme)
@@ -177,8 +179,6 @@
       - [Apply for 10DLC registration](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-ten-digit-long-code)
       - [Apply for toll-free verification](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-toll-free-verification)
       - [Enable alphanumeric sender ID](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/enable-alphanumeric-sender-id)
-      - [Migrate to Android push notifications FCM v1](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-chat-migrate-android-push-fcm-v1)
-      - [Register for Android push notifications FCM v1](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/call-chat-register-android-push-fcm-v1)
     - References
       - [SMS JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-sms-readme)
       - [SMS .NET](https://learn.microsoft.com/dotnet/api/overview/azure/communication.sms-readme)
