@@ -23,6 +23,7 @@
     - Reliability
       - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
   - Security
+    - [Secure Bastion](https://learn.microsoft.com/en-us/azure/bastion/secure-bastion)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/bastion-security-baseline?toc=/azure/bastion/TOC.json)
     - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - How-to guides

@@ -150,11 +150,11 @@
     - [Ingest data to an auxiliary logs table](https://learn.microsoft.com/azure/azure-monitor/logs/create-custom-table-auxiliary?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - [Find data connector](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
     - Connection instructions by type
-      - General instructions for Microsoft connectors
-        - [Connect Microsoft Sentinel to Microsoft connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-windows-microsoft-services)
-        - [Connect via API-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-api-based)
-        - [Connect via diagnostic settings-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-diagnostic-setting-based)
-        - [Connect via Windows agent-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-windows-based)
+      - Connect Microsoft Sentinel to Microsoft connectors
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-windows-microsoft-services)
+        - [API-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-api-based)
+        - [Diagnostic settings-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-diagnostic-setting-based)
+        - [Windows agent-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-windows-based)
       - [Azure Functions API connection](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-functions-template)
       - CEF/Syslog
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/cef-syslog-ama-overview)
