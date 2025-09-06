@@ -299,6 +299,7 @@
       - [Azure Arc hosting overview](https://learn.microsoft.com/en-us/azure/app-service/overview-arc-integration)
       - [Enable App Service on Azure Arc](https://learn.microsoft.com/en-us/azure/app-service/manage-create-arc-environment)
       - [Create app on Azure Arc](https://learn.microsoft.com/en-us/azure/app-service/quickstart-arc)
+      - [Migrate from App Service on Arc-enabled Kubernetes to Container Apps on Arc-enabled Kubernetes](https://learn.microsoft.com/en-us/azure/app-service/migrate-app-service-arc)
     - [Best practices](https://learn.microsoft.com/en-us/azure/app-service/app-service-best-practices)
     - [Samples](https://azure.microsoft.com/resources/samples/?service=app-service)
     - [Videos](https://learn.microsoft.com/shows/browse?products=azure-app-service)
