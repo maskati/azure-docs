@@ -94,6 +94,7 @@
           - Migrate
             - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-portal)
             - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-powershell)
+          - [Troubleshoot](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration-error-messaging)
     - Traffic collector
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector)
       - [Configure Traffic Collector](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-traffic-collector)

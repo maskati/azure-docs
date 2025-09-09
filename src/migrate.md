@@ -20,6 +20,7 @@
     - [Discovery methods](https://learn.microsoft.com/en-us/azure/migrate/discovery-methods-modes)
     - Discovery using appliance
       - [Appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
+      - [Register appliance using pre-configured Entra app](https://learn.microsoft.com/en-us/azure/migrate/how-to-register-appliance-using-entra-app)
       - Discover VMware
         - [Discover VMware estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
         - [Scoped discovery of VMware estate](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
