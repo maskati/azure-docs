@@ -33,8 +33,7 @@
     - Azure Kubernetes Service AKS
       - [Connect to Azure Key Vault using CSI driver](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-aks-keyvault-csi-driver)
       - [Connect to Azure Storage using workload identity](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-aks-storage-workload-identity)
-      - [Connect to Azure OpenAI using a connection string](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-aks-openai-connection-string)
-      - [Connect to Azure OpenAI using workload identity](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-aks-openai-workload-identity)
+      - [Connect AKS to Azure OpenAI](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-aks-openai-workload-identity)
       - [Connect to Azure SQL Database](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-aks-sql-database-connection-string)
   - Concepts
     - [Service Connector internals](https://learn.microsoft.com/en-us/azure/service-connector/concept-service-connector-internals)

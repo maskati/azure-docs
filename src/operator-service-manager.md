@@ -10,6 +10,7 @@
       - [Publisher Tenants, Subscriptions and Regions](https://learn.microsoft.com/en-us/azure/operator-service-manager/publisher-resource-preview-management)
       - [Helm Package Requirements](https://learn.microsoft.com/en-us/azure/operator-service-manager/helm-requirements)
       - [Onboarding and Deployment Considerations](https://learn.microsoft.com/en-us/azure/operator-service-manager/best-practices-onboard-deploy)
+      - [Publisher Resource Cleanup Management](https://learn.microsoft.com/en-us/azure/operator-service-manager/resource-cleanup-management)
       - [Workload Configuration Management](https://learn.microsoft.com/en-us/azure/operator-service-manager/configuration-guide)
     - Azure Operator Service Manager CLI Extension
       - [About the Azure Operator Service Manager CLI extension](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-about-azure-operator-service-manager-cli)

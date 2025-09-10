@@ -26,9 +26,11 @@
     - [Build and register APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/build-register-apis-vscode-extension)
     - [Design and develop  APIs - GitHub Copilot for Azure](https://learn.microsoft.com/en-us/azure/api-center/design-api-github-copilot-azure)
     - [Register APIs - GitHub Actions](https://learn.microsoft.com/en-us/azure/api-center/register-apis-github-actions)
-    - [Register and discover MCP servers](https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server)
     - [Export API from API Center to Copilot Studio](https://learn.microsoft.com/en-us/azure/api-center/export-to-copilot-studio.yml)
     - [Track API dependencies](https://learn.microsoft.com/en-us/azure/api-center/track-resource-dependencies)
+  - MCP servers
+    - [Register and discover MCP servers](https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server)
+    - [Build and register Logic Apps MCP server](https://learn.microsoft.com/en-us/azure/logic-apps/create-mcp-server-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
   - API governance
     - [Use metadata for governance](https://learn.microsoft.com/en-us/azure/api-center/metadata)
     - [Govern APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/govern-apis-vscode-extension)
@@ -58,3 +60,4 @@
     - [Samples and labs](https://learn.microsoft.com/en-us/azure/api-center/resources)
     - [Building an API security strategy](https://aka.ms/API-Security-EBook)
     - [Azure updates](https://aka.ms/apic/updates)
+    - [MCP Center](https://mcp.azure.com/)
