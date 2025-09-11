@@ -35,6 +35,7 @@
       - [Upgrade and scale](https://learn.microsoft.com/en-us/azure/api-management/upgrade-and-scale)
       - [Configure autoscale](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-autoscale)
       - [Plan and manage costs](https://learn.microsoft.com/en-us/azure/api-management/plan-manage-costs)
+      - [Understand service limits](https://learn.microsoft.com/en-us/azure/api-management/service-limits)
       - [Configure a custom domain](https://learn.microsoft.com/en-us/azure/api-management/configure-custom-domain)
       - [Use an external cache](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-cache-external)
       - [Configure update settings](https://learn.microsoft.com/en-us/azure/api-management/configure-service-update-settings)
