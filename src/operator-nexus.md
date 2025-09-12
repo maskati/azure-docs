@@ -183,6 +183,7 @@
       - [Troubleshoot Accepted Cluster Resource](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-accepted-cluster-hydration)
       - [Troubleshoot Control Plane Quorum](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-control-plane-quorum)
       - [Troubleshoot Cluster heartbeat connection status disconnected](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-cluster-heartbeat-connection-status-disconnected)
+      - [Troubleshoot Nexus logs disrupted post prolonged disconnection period](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-logs-disrupted-post-prolonged-disconnection)
     - Network Fabric
       - [Troubleshoot Isolation Domain](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-isolation-domain)
       - [Troubleshoot LACP Bonding](https://learn.microsoft.com/en-us/azure/operator-nexus/troubleshoot-lacp-bonding)

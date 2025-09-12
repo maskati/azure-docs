@@ -25,7 +25,7 @@
       - [App Service Environment](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service-environment)
       - [Azure Batch](https://learn.microsoft.com/en-us/azure/reliability/reliability-batch)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
-      - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
+      - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-instances)
       - [Azure Data Factory](https://learn.microsoft.com/en-us/azure/reliability/reliability-data-factory)
       - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/reliability-functions)
       - [Azure Kubernetes Service AKS](https://learn.microsoft.com/en-us/azure/reliability/reliability-aks)
@@ -42,7 +42,7 @@
         - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-app-configuration/faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-disaster-recovery?tabs=core2x?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
-      - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-containers)
+      - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-instances)
       - [Azure Container Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-registry)
       - [Azure Kubernetes Service AKS](https://learn.microsoft.com/en-us/azure/reliability/reliability-aks)
       - Azure Service Fabric

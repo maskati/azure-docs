@@ -79,6 +79,7 @@
         - [Deploy data flow graphs](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-dataflow-graph-wasm)
         - [Develop WASM modules](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-develop-wasm-modules)
         - [Configure graph definitions](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-wasm-graph-definitions)
+        - [AI inference with ONNX](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-wasm-onnx-inference)
       - [Use message schemas](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-schema-registry)
       - [Manage data flow profiles](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-dataflow-profile)
     - Manage network
