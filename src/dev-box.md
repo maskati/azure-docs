@@ -50,8 +50,7 @@
   - AI on Dev Box
     - [Configure Serverless GPU](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-dev-box-serverless-gpu)
   - Security
-    - [Provide access to project admins](https://learn.microsoft.com/en-us/azure/dev-box/how-to-project-admin)
-    - [Provide access to dev box users](https://learn.microsoft.com/en-us/azure/dev-box/how-to-dev-box-user)
+    - [Manage project access](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-box-access)
     - [Configure conditional access policies](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-intune-conditional-access-policies)
     - [Configure elevated privilege for dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-elevate-privilege-dev-box)
     - [Enable single sign-on for dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-enable-single-sign-on)

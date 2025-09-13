@@ -37,8 +37,7 @@
     - [Automatically delete an environment](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-schedule-environment-deletion)
     - [Request a quota limit increase](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-request-quota-increase)
   - Security
-    - [Provide access to dev managers](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-project-admin)
-    - [Provide access to developers](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-deployment-environments-user)
+    - [Grant access to Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-manage-deployment-environments-access)
     - [Authenticate to REST APIs](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-authenticate)
   - Automate with CI/CD
     - [Automate with GitHub Actions CI/CD](https://learn.microsoft.com/en-us/azure/deployment-environments/tutorial-deploy-environments-in-cicd-github)
