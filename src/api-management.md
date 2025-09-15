@@ -109,6 +109,7 @@
       - [Backends](https://learn.microsoft.com/en-us/azure/api-management/backends)
       - [Automate API deployments](https://learn.microsoft.com/azure/architecture/example-scenario/devops/automated-api-deployments-apiops?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
     - Cache
+      - [Caching overview](https://learn.microsoft.com/en-us/azure/api-management/caching-overview)
       - [Add caching to improve performance](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-cache)
       - [Custom caching](https://learn.microsoft.com/en-us/azure/api-management/api-management-sample-cache-by-key)
   - API management for AI
