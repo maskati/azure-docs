@@ -60,7 +60,6 @@
       - Dynamic scope
         - [Overview](https://learn.microsoft.com/en-us/azure/update-manager/dynamic-scope-overview)
         - [Manage dynamic scope](https://learn.microsoft.com/en-us/azure/update-manager/manage-dynamic-scoping)
-        - [Schedule patching configuration on Azure VMs for business continuity](https://learn.microsoft.com/en-us/azure/update-manager/prerequsite-for-schedule-patching)
       - Pre and Post Events
         - [Create pre and post events](https://learn.microsoft.com/en-us/azure/update-manager/pre-post-events-schedule-maintenance-configuration)
         - [Manage pre and post events](https://learn.microsoft.com/en-us/azure/update-manager/manage-pre-post-events)
