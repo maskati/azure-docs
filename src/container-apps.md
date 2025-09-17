@@ -110,6 +110,7 @@
     - [Log monitoring](https://learn.microsoft.com/en-us/azure/container-apps/log-monitoring)
     - [Alerts](https://learn.microsoft.com/en-us/azure/container-apps/alerts)
     - [OpenTelemetry agents](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents)
+    - [Grafana dashboards](https://learn.microsoft.com/en-us/azure/container-apps/grafana-dashboards)
   - Scaling & performance
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/scale-app)
     - [Scale a container app](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-scaling)
