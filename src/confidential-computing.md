@@ -32,6 +32,7 @@
       - [Leverage virtual TPMs in Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-leverage-virtual-tpms-in-azure-confidential-vms)
       - [Create a custom image for a confidential VM](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-create-custom-image-confidential-vm)
       - [How to migrate nested confidential VMs from one region to another](https://learn.microsoft.com/en-us/azure/confidential-computing/migrate-nested-confidential-vms)
+      - [Virtual Machine Metablob Disk](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-metablob-disk)
       - Quickly create confidential VMs
         - [Create VM through the Azure portal](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-portal)
         - [Create VM through the Azure Marketplace](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-marketplace)

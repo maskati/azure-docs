@@ -100,7 +100,6 @@
 [Microsoft Playwright Testing Preview documentation](./playwright-testing.md)
 [Azure Private 5G Core documentation](./private-5g-core.md)
 [Private Link documentation](./private-link.md)
-[Azure Programmable Connectivity documentation](./programmable-connectivity.md)
 [Azure Redis Documentation](./redis.md)
 [Azure reliability documentation](./reliability.md)
 [Azure Remote Rendering documentation](./remote-rendering.md)

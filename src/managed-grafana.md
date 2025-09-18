@@ -9,7 +9,6 @@
     - [Create a workspace - Azure CLI](https://learn.microsoft.com/en-us/azure/managed-grafana/quickstart-managed-grafana-cli)
   - Tutorial
     - [Connect to self-hosted Prometheus through managed private endpoint](https://learn.microsoft.com/en-us/azure/managed-grafana/tutorial-mpe-oss-prometheus)
-    - [Call Grafana APIs programmatically](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-api-calls)
   - Concepts
     - [Service reliability](https://learn.microsoft.com/en-us/azure/managed-grafana/high-availability)
     - [Encryption](https://learn.microsoft.com/en-us/azure/managed-grafana/encryption)
