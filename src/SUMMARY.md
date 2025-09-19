@@ -91,7 +91,6 @@
 [Azure networking documentation](./networking.md)
 [Azure Notification Hubs documentation](./notification-hubs.md)
 [operator-insights](./operator-insights.md)
-[Operator Nexus](./operator-nexus.md)
 [Azure Operator Service Manager documentation](./operator-service-manager.md)
 [Oracle on Azure Documentation](./oracle.md)
 [Azure Native Integrations](./partner-solutions.md)

@@ -140,6 +140,7 @@
       - [Azure Blob Storage](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-blob)
       - [Azure Databox](https://learn.microsoft.com/en-us/azure/databox/data-box-disk-faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san)
+      - [Azure Files](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-files)
       - [Azure NetApp Files](https://learn.microsoft.com/en-us/azure/reliability/reliability-netapp-files)
       - [Azure Queue Storage](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-queue)
       - [Azure Storage Actions](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions)
