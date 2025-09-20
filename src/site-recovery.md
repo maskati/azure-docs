@@ -93,6 +93,7 @@
     - About VMware VM disaster recovery
       - [Deprecation of classic experience](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-classic-deprecation)
       - [Failover and failback - Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/failover-failback-overview-modernized)
+        - [Configure on-premise disks for Azure through Hydration](https://learn.microsoft.com/en-us/azure/site-recovery/hydration-process)
       - [VMware to Azure architecture - Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-architecture-modernized)
     - About Hyper-V VM disaster recovery
       - [Hyper-V to Azure architecture](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-architecture)

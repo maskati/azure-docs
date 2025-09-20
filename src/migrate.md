@@ -16,6 +16,7 @@
     - [Credentials:Security best practices](https://learn.microsoft.com/en-us/azure/migrate/best-practices-least-privileged-account)
     - [Requirements for Private endpoints](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
     - [Support Matrix](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix)
+    - [Assessment rules for PostgreSQL](https://learn.microsoft.com/en-us/azure/migrate/assessment-rules-for-postgresql)
   - Discover inventory
     - [Discovery methods](https://learn.microsoft.com/en-us/azure/migrate/discovery-methods-modes)
     - Discovery using appliance
@@ -39,6 +40,7 @@
         - [Discover MySQL database instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-mysql-database-instances)
         - [Discover software, databases, and web apps](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
         - [Create least privileged credentials for SQL discovery](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
+        - [Create least privileged credentials for PostgreSQL discovery](https://learn.microsoft.com/en-us/azure/migrate/postgresql-least-privilege-configuration)
     - Discover using inventory import
       - [CSV import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import)
       - [RVTools import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-import-vmware-using-rvtools-xlsx)
@@ -72,6 +74,10 @@
           - [Create an Azure SQL assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)
           - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-sql-assessment)
+        - Azure Database for PostgreSQL assessment
+          - [Create an Azure Database for PostgreSQL assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-postgresql)
+          - [Review assessment PostgreSQL report](https://learn.microsoft.com/en-us/azure/migrate/tutorial-review-postgresql-report)
+          - [PostgreSQL customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/postgresql-assessment-properties)
         - MySQL assessment
           - [Assessment overview](https://learn.microsoft.com/en-us/azure/migrate/assessments-overview-migrate-to-azure-db-mysql)
           - [Create MySQL assessment](https://learn.microsoft.com/en-us/azure/migrate/create-mysql-assessment)

@@ -34,9 +34,12 @@
       - [How to migrate nested confidential VMs from one region to another](https://learn.microsoft.com/en-us/azure/confidential-computing/migrate-nested-confidential-vms)
       - [Virtual Machine Metablob Disk](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-metablob-disk)
       - Quickly create confidential VMs
-        - [Create VM through the Azure portal](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-portal)
-        - [Create VM through the Azure Marketplace](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-marketplace)
+        - [Create CVM through the Azure portal](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-portal)
+        - [Create CVM through Azure CLI](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-azure-cli)
+        - [Create CVM through ARM template](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-arm)
+        - [Create CVM through the Azure Marketplace](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-marketplace)
         - [Create Hardened VMSS via Azure CLI](https://learn.microsoft.com/en-us/azure/confidential-computing/vmss-deployment-from-hardened-linux-image)
+        - [Sample scripts to create CVMs](https://github.com/Azure-Samples/confidential-computing)
       - Image hardening techniques for deployment
         - [Harden a Linux image to remove sudo users](https://learn.microsoft.com/en-us/azure/confidential-computing/harden-the-linux-image-to-remove-sudo-users)
         - [Harden a Linux image to remove Azure guest agent](https://learn.microsoft.com/en-us/azure/confidential-computing/harden-a-linux-image-to-remove-azure-guest-agent)
@@ -77,11 +80,12 @@
         - [Pricing](https://azure.microsoft.com/pricing/details/virtual-machines/linux/)
         - [Regions](https://azure.microsoft.com/global-infrastructure/services/?products=virtual-machine)
     - Confidential services
+      - [Confidential VMs for Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/flexible-server/security-confidential-computing)
       - [Confidential VMs for Azure Databricks](https://techcommunity.microsoft.com/t5/azure-confidential-computing/confidential-vm-option-for-azure-databricks-preview/ba-p/3827982)
       - [Confidential VMs for Azure Data Explorer preview](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/confidential-vm-option-for-azure-data-explorer-public-preview/ba-p/3827343)
       - [Confidential VMs for Azure Virtual Desktop](https://learn.microsoft.com/azure/virtual-desktop/whats-new)
       - [Azure confidential ledger](https://learn.microsoft.com/azure/confidential-ledger/overview)
-      - [SQL on confidential virtual machines](https://learn.microsoft.com/azure/azure-sql/virtual-machines/windows/sql-vm-create-confidential-vm-how-to)
+      - [Confidential VMs for SQL Server](https://learn.microsoft.com/azure/azure-sql/virtual-machines/windows/sql-vm-create-confidential-vm-how-to)
       - [SQL Always Encrypted with secure enclaves](https://learn.microsoft.com/sql/relational-databases/security/encryption/configure-always-encrypted-enclaves)
     - Partner Solutions
       - [Overview](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/partner-pages-index)

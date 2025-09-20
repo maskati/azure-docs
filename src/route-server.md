@@ -16,11 +16,11 @@
     - [Route Server limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/route-server/toc.json)
     - [Routing preference](https://learn.microsoft.com/en-us/azure/route-server/hub-routing-preference)
     - [Next hop IP support](https://learn.microsoft.com/en-us/azure/route-server/next-hop-ip)
-    - [ExpressRoute and Azure VPN support](https://learn.microsoft.com/en-us/azure/route-server/expressroute-vpn-support)
+    - [Azure Route Server support for ExpressRoute and Azure VPN](https://learn.microsoft.com/en-us/azure/route-server/expressroute-vpn-support)
     - [Dual-homed network](https://learn.microsoft.com/en-us/azure/route-server/about-dual-homed-network)
     - [Path selection](https://learn.microsoft.com/en-us/azure/route-server/path-selection)
     - [Multi-region design](https://learn.microsoft.com/en-us/azure/route-server/multiregion)
-    - [Default route injection in spoke VNets](https://learn.microsoft.com/en-us/azure/route-server/route-injection-in-spokes)
+    - [Route injection in spoke virtual networks](https://learn.microsoft.com/en-us/azure/route-server/route-injection-in-spokes)
     - [IP anycast](https://learn.microsoft.com/en-us/azure/route-server/anycast)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/route-server/roles-permissions)
   - How-to guides
