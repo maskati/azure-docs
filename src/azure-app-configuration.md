@@ -56,7 +56,6 @@
       - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-azure-kubernetes-service)
     - Service integration
       - [App Service & Azure Functions](https://learn.microsoft.com/azure/app-service/app-service-configuration-references)
-      - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-container-apps)
     - Deployment
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-deployment-overview)
       - [Bicep](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-bicep)

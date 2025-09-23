@@ -25,7 +25,6 @@
       - [Python function with Azure Table Storage as output](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-functions-storage-table-as-output)
     - Azure Container Apps
       - [Java Quarkus app to PostgreSQL](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-java-quarkus-connect-managed-identity-postgresql-database?bc=%2fazure%2fservice-connector%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fservice-connector%2fTOC.json)
-      - [ASP.NET Core app to App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-container-apps?bc=%2fazure%2fservice-connector%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fservice-connector%2fTOC.json)
     - Azure Spring Apps
       - [Java app to PostgreSQL](https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/how-to-bind-postgres?bc=%2fazure%2fservice-connector%2fbreadcrumb%2ftoc.json&tabs=Passwordlessflex&toc=%2fazure%2fservice-connector%2fTOC.json)
       - [Spring Boot app to Kafka on Confluent Cloud](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-java-spring-confluent-kafka)

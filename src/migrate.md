@@ -84,15 +84,12 @@
         - Webapp assessment
           - [Create a Webapp assessment](https://learn.microsoft.com/en-us/azure/migrate/create-web-app-assessment)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-web-app-assessment)
-  - Execute Migrations
-    - Server Migrations
-      - [Overview of Migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
-      - Agent-based migrations
-        - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
-        - [Hydration process](https://learn.microsoft.com/en-us/azure/migrate/hydration-process)
-      - Agentless migrations
-        - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
-        - [Agentless migrations using scripts](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-powershell)
+  - Execute migrations
+    - [Overview of migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
+    - Support Matrix
+      - [VMware vSphere migration requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration)
+      - [Physical Agent-based migration requirements](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-support-matrix?toc=/azure/migrate/toc.json)
+      - [Hyper-V migration requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v-migration)
   - Modernize applications
     - Web App Migration and Modernization
       - [Containerize ASP.NET apps and migrate to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-kubernetes)
@@ -102,7 +99,7 @@
       - [CI/CD for Day 2 operations](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-azure-pipeline)
       - [Modernization to App service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-appservice-code)
   - Tutorials
-    - Migration Scenarios
+    - Migration scenarios
       - Migrate VMware servers
         - [Assess VMWare servers](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-access-private-cloud?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
         - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
