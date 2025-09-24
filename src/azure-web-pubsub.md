@@ -45,7 +45,8 @@
       - [Use service tags to control access](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-service-tags)
       - [Use secure private endpoints](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-private-endpoints)
       - [Manage network access control](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-network-access-control)
-      - [Secure outbound traffic through shared private endpoints](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-shared-private-endpoints)
+      - [Secure outbound traffic to Functions through shared private endpoints](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-shared-private-endpoints)
+      - [Secure outbound traffic to Private Link service through shared private endpoints](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-shared-private-endpoints-private-link-service)
       - [Access a key vault through shared private endpoints](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-secure-shared-private-endpoints-key-vault)
       - [Use a managed identity](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-use-managed-identity)
       - Configure Microsoft Entra authorizations

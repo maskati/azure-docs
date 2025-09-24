@@ -44,7 +44,6 @@
     - Deploy
       - [Configure Windows Update client](https://learn.microsoft.com/en-us/azure/update-manager/configure-wu-agent)
     - Manage
-      - Migration from Automation Update Management to Azure Update Manager
       - [Check update compliance](https://learn.microsoft.com/en-us/azure/update-manager/view-updates)
       - [Automate assessment at scale using Policy](https://learn.microsoft.com/en-us/azure/update-manager/periodic-assessment-at-scale)
       - [Deploy updates and track results](https://learn.microsoft.com/en-us/azure/update-manager/deploy-updates)

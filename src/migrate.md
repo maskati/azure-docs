@@ -17,6 +17,9 @@
     - [Requirements for Private endpoints](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
     - [Support Matrix](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix)
     - [Assessment rules for PostgreSQL](https://learn.microsoft.com/en-us/azure/migrate/assessment-rules-for-postgresql)
+    - [Agentless migration architecture](https://learn.microsoft.com/en-us/azure/migrate/concepts-vmware-agentless-migration)
+    - [Hyper-V migration architecture](https://learn.microsoft.com/en-us/azure/migrate/hyper-v-migration-architecture)
+    - [VMware to Azure disaster recovery hyper-v-migration-architecture.md](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-architecture-modernized?toc=/azure/migrate/toc.json)
   - Discover inventory
     - [Discovery methods](https://learn.microsoft.com/en-us/azure/migrate/discovery-methods-modes)
     - Discovery using appliance
