@@ -7,6 +7,7 @@
   - Tutorials
     - [View protectable resources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protectable-resources)
     - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-configure-protection-datasource)
+    - [Reconfigure Backup in an alternate vault](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-reconfigure-backup-alternate-vault)
     - [Recover item](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-recover-deleted-item)
     - [View protected items and perform actions](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protected-items-and-perform-actions)
     - [Review security posture](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-review-security-posture)

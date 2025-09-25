@@ -222,7 +222,8 @@
       - JavaScript
         - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-management-javascript-reference)
       - Go
-        - [Feature reference](https://pkg.go.dev/github.com/microsoft/Featuremanagement-Go/featuremanagement)
+        - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-management-go-reference)
+        - [API reference](https://pkg.go.dev/github.com/microsoft/Featuremanagement-Go/featuremanagement)
       - Telemetry
         - [Feature flag telemetry reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/feature-flag-telemetry-reference)
     - Local emulator
