@@ -59,6 +59,9 @@
           - [To Azure File Sync](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-migration-server-hybrid-databox?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
           - [From HDFS store](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-migrate-on-premises-hdfs-cluster?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
           - [To Azure backup](https://learn.microsoft.com/en-us/azure/backup/offline-backup-azure-data-box?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+          - [Using Commvault](https://learn.microsoft.com/en-us/azure/databox/migrate-commvault-data-box?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+          - [Using Veeam](https://learn.microsoft.com/en-us/azure/databox/migrate-veeam-data-box?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
+          - [Using OpenText Migrate](https://learn.microsoft.com/en-us/azure/databox/migrate-opentext-data-box?toc=/azure/databox/toc.json&bc=/azure/databox/breadcrumb/toc.json)
         - Troubleshoot
           - [Data Box share access](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot-share-access?pivots=dbx-ng)
           - [Data Box copy issues](https://learn.microsoft.com/en-us/azure/databox/data-box-troubleshoot?pivots=dbx-ng)

@@ -138,13 +138,13 @@
       - [Security](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
     - [Compare runtime versions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions)
     - Hosting and scale
-      - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
       - [Flex Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan)
       - [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/functions-premium-plan)
       - [Dedicated plan](https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan)
       - Container hosting
         - [Containerized functions](https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts)
         - [Azure Container Apps hosting](https://learn.microsoft.com/en-us/azure/azure-functions/functions-container-apps-hosting)
+      - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
     - [Deployment options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies)
     - Events and messaging
       - [Connect to services](https://learn.microsoft.com/en-us/azure/azure-functions/event-messaging-bindings)

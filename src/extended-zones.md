@@ -5,6 +5,7 @@
     - [What is Azure Extended Zones?](https://learn.microsoft.com/en-us/azure/extended-zones/overview)
   - Quickstarts
     - [Deploy a VM in an Extended Zone - Portal](https://learn.microsoft.com/en-us/azure/extended-zones/deploy-vm-portal)
+    - [Deploy a VM in an Extended Zone - Azure CLI](https://learn.microsoft.com/en-us/azure/extended-zones/deploy-vm-cli)
     - [Deploy a VM in an Extended Zone - ARM template](https://learn.microsoft.com/en-us/azure/extended-zones/deploy-vm-arm-template)
   - Tutorials
     - [Back up a virtual machine](https://learn.microsoft.com/en-us/azure/extended-zones/backup-virtual-machine)
