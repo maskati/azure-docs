@@ -56,6 +56,7 @@
         - [Standard Load Balancer and Standard SKU Public IP addresses](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-standard-load-balancer)
       - [Delete a lab or VM in a lab](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-delete-lab-vm)
       - [Export or delete personal data](https://learn.microsoft.com/en-us/azure/devtest-labs/personal-data-delete-export)
+      - [Configure lab secrets](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-configure-lab-secrets)
     - Use VMs in a lab
       - Create a VM
         - [Azure portal](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-add-vm)

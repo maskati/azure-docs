@@ -1,6 +1,6 @@
 # Firmware analysis (preview)
-> Analyze your firmware images for security vulnerabilities
-  - [Firmware analysis preview](https://learn.microsoft.com/en-us/azure/firmware-analysis/)
+> Analyze your firmware images for potential security weaknesses and vulnerabilities
+  - [Firmware analysis](https://learn.microsoft.com/en-us/azure/firmware-analysis/)
   - Overview
     - [Overview](https://learn.microsoft.com/en-us/azure/firmware-analysis/overview-firmware-analysis)
     - [FAQ](https://learn.microsoft.com/en-us/azure/firmware-analysis/firmware-analysis-faq)
