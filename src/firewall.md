@@ -25,7 +25,7 @@
     - [Performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-performance)
     - [TCP idle timeout behavior](https://learn.microsoft.com/en-us/azure/firewall/tcp-session-behavior)
     - [Explicit Proxy](https://learn.microsoft.com/en-us/azure/firewall/explicit-proxy)
-    - [Multi hub and spoke](https://learn.microsoft.com/en-us/azure/firewall/firewall-multi-hub-spoke)
+    - [Routing in hub and spoke](https://learn.microsoft.com/en-us/azure/firewall/firewall-multi-hub-spoke)
     - [Central management](https://learn.microsoft.com/en-us/azure/firewall/central-management)
     - [Integrate with load balancer](https://learn.microsoft.com/en-us/azure/firewall/integrate-lb)
   - Deploy
@@ -124,7 +124,7 @@
     - [Python](https://azure.microsoft.com/develop/python/)
     - [REST](https://learn.microsoft.com/rest/api/firewall)
     - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
-    - [Monitoring dataWinRT reference](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall-reference)
+    - [Monitoring Azure Firewall reference](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall-reference)
   - Resources
     - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
     - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)

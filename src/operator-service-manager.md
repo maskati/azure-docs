@@ -5,14 +5,17 @@
     - [What is Azure Operator Service Manager?](https://learn.microsoft.com/en-us/azure/operator-service-manager/azure-operator-service-manager-overview)
     - [Azure Operator Service Manager Release Notes](https://learn.microsoft.com/en-us/azure/operator-service-manager/release-notes)
   - Concepts
-    - Best Practices
+    - Basic Concepts
       - [Role-Based Persona Model](https://learn.microsoft.com/en-us/azure/operator-service-manager/roles-interfaces)
-      - [Publisher Tenants, Subscriptions and Regions](https://learn.microsoft.com/en-us/azure/operator-service-manager/publisher-resource-preview-management)
+      - [Tenants, Subscriptions and Regions](https://learn.microsoft.com/en-us/azure/operator-service-manager/publisher-resource-preview-management)
+      - [Get Started with Onboarding and Deploying](https://learn.microsoft.com/en-us/azure/operator-service-manager/best-practices-onboard-deploy)
+    - Publisher Best Practices
       - [Helm Package Requirements](https://learn.microsoft.com/en-us/azure/operator-service-manager/helm-requirements)
-      - [Onboarding and Deployment Considerations](https://learn.microsoft.com/en-us/azure/operator-service-manager/best-practices-onboard-deploy)
       - [Publisher Resource Cleanup Management](https://learn.microsoft.com/en-us/azure/operator-service-manager/resource-cleanup-management)
+      - [Publisher Artifact Store Resiliency](https://learn.microsoft.com/en-us/azure/operator-service-manager/publisher-artifact-store-resiliency)
+    - Designer Best Practices
       - [Workload Configuration Management](https://learn.microsoft.com/en-us/azure/operator-service-manager/configuration-guide)
-    - Azure Operator Service Manager CLI Extension
+    - Azure CLI Extension
       - [About the Azure Operator Service Manager CLI extension](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-about-azure-operator-service-manager-cli)
       - [Container image onboarding using CLI](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-cli-containerized-network-function-image-upload)
       - [Exposing parameters via CGS using CLI](https://learn.microsoft.com/en-us/azure/operator-service-manager/concepts-expose-parameters-configuration-group-schema)

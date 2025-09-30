@@ -73,9 +73,9 @@
           - [Hand off AI agent tasks with chat continuity](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-handoff-agent-workflow)
         - [Create and register MCP servers and tools](https://learn.microsoft.com/en-us/azure/logic-apps/create-mcp-server-api-center)
         - [Set up Standard logic apps as MCP servers](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-model-context-protocol-server-standard)
+        - [Run Python code in agent workflows](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/code-interpreter-python-container-apps-session)
         - [Parse or chunk content](https://learn.microsoft.com/en-us/azure/logic-apps/parse-document-chunk-text)
         - [Create chat completions with prompt templates](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/create-chat-completions-prompt-template)
-        - [Process files in AI agent workflows](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/code-interpreter-python-container-apps-session)
       - Develop for rules engine integration
         - [Overview for rules engine integration](https://learn.microsoft.com/en-us/azure/logic-apps/rules-engine/rules-engine-overview)
         - [Create business rules](https://learn.microsoft.com/en-us/azure/logic-apps/rules-engine/create-rules)

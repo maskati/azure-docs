@@ -50,7 +50,9 @@
           - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/event-grid/policy-reference)
           - [Network security MQTT](https://learn.microsoft.com/en-us/azure/event-grid/network-security-namespaces)
           - [Transport Layer Security TLS](https://learn.microsoft.com/en-us/azure/event-grid/transport-layer-security)
-        - [Sparkplug support](https://learn.microsoft.com/en-us/azure/event-grid/sparkplug-support)
+        - Use cases
+          - [Automotive Messaging](https://learn.microsoft.com/industry/mobility/architecture/automotive-messaging-data-analytics-content?toc=/azure/event-grid/toc.json)
+          - [Sparkplug B support](https://learn.microsoft.com/en-us/azure/event-grid/sparkplug-support)
       - How-to
         - [Create and manage namespaces](https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-namespaces)
         - [Customer enabled disaster recovery](https://learn.microsoft.com/en-us/azure/event-grid/custom-disaster-recovery-client-side)
