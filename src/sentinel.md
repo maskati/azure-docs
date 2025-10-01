@@ -2,13 +2,297 @@
 > Microsoft Sentinel provides attack detection, threat visibility, proactive hunting, and threat response to help you stop threats before they cause harm.
   - [Microsoft Sentinel Documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
   - Overview
-    - [What is Microsoft Sentinel?](https://learn.microsoft.com/en-us/azure/sentinel/overview)
-    - [Microsoft Sentinel data lake overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-overview)
+    - [What is Microsoft Sentinel?](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-overview)
     - [What's new](https://learn.microsoft.com/en-us/azure/sentinel/whats-new)
-    - [Best practices](https://learn.microsoft.com/en-us/azure/sentinel/best-practices)
-    - [Experience in Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-sentinel-defender-portal)
-  - Data lake exploration
+  - Plan
+    - [Deployment planning guide](https://learn.microsoft.com/en-us/azure/sentinel/deploy-overview)
+    - [Prerequisites](https://learn.microsoft.com/en-us/azure/sentinel/prerequisites)
+    - Workspace architecture
+      - [Review sample workspace designs](https://learn.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
+      - [Prepare for multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/prepare-multiple-workspaces)
+      - [Sample workspace architecture](https://learn.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
+    - [Prioritize data connectors](https://learn.microsoft.com/en-us/azure/sentinel/prioritize-data-connectors)
+    - [Plan roles and permissions](https://learn.microsoft.com/en-us/azure/sentinel/roles)
+    - [Plan data retention](https://learn.microsoft.com/en-us/azure/sentinel/log-plans)
+    - [Plan costs](https://learn.microsoft.com/en-us/azure/sentinel/billing)
+    - Availability and support
+      - [Geographical availability and data residency](https://learn.microsoft.com/en-us/azure/sentinel/geographical-availability-data-residency)
+      - [Support for data types in different clouds](https://learn.microsoft.com/en-us/azure/sentinel/data-type-cloud-support)
+      - [Feature support in different clouds](https://learn.microsoft.com/en-us/azure/sentinel/feature-availability)
+      - [Regional availability](https://azure.microsoft.com/global-infrastructure/services/?products=azure-sentinel)
+      - [Business continuity and disaster recovery](https://learn.microsoft.com/en-us/azure/sentinel/business-continuity-disaster-recovery)
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/sentinel-security-baseline?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+  - Deploy
+    - Deploy Microsoft Sentinel SIEM
+      - [Enable Microsoft Sentinel and initial features and content](https://learn.microsoft.com/en-us/azure/sentinel/enable-sentinel-features-content)
+      - [Onboard to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/quickstart-onboard)
+      - [Connect Microsoft Sentinel to the Defender portal](https://learn.microsoft.com/unified-secops-platform/microsoft-sentinel-onboard?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Configure content](https://learn.microsoft.com/en-us/azure/sentinel/configure-content)
+      - [Set up multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/use-multiple-workspaces)
+      - [Enable User and Entity Behavior Analytics UEBA](https://learn.microsoft.com/en-us/azure/sentinel/enable-entity-behavior-analytics)
+      - [Configure interactive and long-term data retention](https://learn.microsoft.com/en-us/azure/sentinel/configure-data-retention-archive)
+      - [Deploy side-by-side](https://learn.microsoft.com/en-us/azure/sentinel/deploy-side-by-side)
+    - Deploy Microsoft Sentinel platform
+      - [Microsoft Sentinel platform deployment overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-onboarding)
+      - [Onboard to data lake and graph from Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-onboard-defender)
+      - [Onboard to data lake and graph from Microsoft Purview Insider Risk Management](https://learn.microsoft.com/purview/insider-risk-management-data-risk-graph?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Onboard to data lake and graph from Microsoft Purview Data Security Investigations](https://learn.microsoft.com/purview/data-security-investigations-data-risk-graph?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+  - Microsoft Sentinel SIEM
+    - [Microsoft Sentinel SIEM overview](https://learn.microsoft.com/en-us/azure/sentinel/overview)
+    - [Microsoft Sentinel SIEM experience in Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-sentinel-defender-portal)
+    - [SIEM best practices in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/best-practices)
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions)
+      - [Deploy out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy)
+      - [Delete out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-delete)
+      - [Manage solution deprecation lifecycle](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution-deprecation)
+      - SIEM solution catalog
+        - [All Microsoft Sentinel SIEM solutions](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-catalog)
+        - [ASIM-based domain solutions](https://learn.microsoft.com/en-us/azure/sentinel/domain-based-essential-solutions)
+        - [Monitor Zero Trust](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution)
+      - Manage content as code using repositories
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd-custom-content)
+        - [Deploy content as code from your repository](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd)
+        - [Customize repository deployments](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd-custom-deploy)
+      - Protect business applications
+        - Integrate SAP systems
+          - SAP applications
+            - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sap/solution-overview)
+            - Deploy the SAP integration
+              - [Deployment overview](https://learn.microsoft.com/en-us/azure/sentinel/sap/deployment-overview)
+              - [Deployment prerequisites](https://learn.microsoft.com/en-us/azure/sentinel/sap/prerequisites-for-deploying-sap-continuous-threat-monitoring)
+              - [Install the solution for SAP applications](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-sap-security-content)
+              - [Prepare your SAP environment](https://learn.microsoft.com/en-us/azure/sentinel/sap/preparing-sap)
+              - [Connect your SAP system](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-data-connector-agent-container)
+              - [Troubleshoot SAP data connector](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-deploy-troubleshoot)
+              - Extra deployment steps
+                - [Collect SAP HANA audit logs](https://learn.microsoft.com/en-us/azure/sentinel/sap/collect-sap-hana-audit-logs)
+                - [Update the data connector agent](https://learn.microsoft.com/en-us/azure/sentinel/sap/update-sap-data-connector)
+                - [Deploy the agent from the command line](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-command-line)
+                - [Deploy the agent with expert options](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-deploy-alternate)
+              - SAP deployment reference advanced
+                - [Required ABAP permissions](https://learn.microsoft.com/en-us/azure/sentinel/sap/required-abap-authorizations)
+                - [Data connector agent kickstart script reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-kickstart)
+                - [Data connector agent update script reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-update)
+                - [Data connector agent systemconfig.json file reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-systemconfig-json)
+                - [Data connector agent systemconfig.ini file reference legacy](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-systemconfig)
+            - [Enable SAP detections and threat protection](https://learn.microsoft.com/en-us/azure/sentinel/sap/deployment-solution-configuration)
+            - [Integrate SAP across multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/sap/cross-workspace)
+            - Monitor SAP systems
+              - [Monitor SAP system health and role](https://learn.microsoft.com/en-us/azure/sentinel/monitor-sap-system-health)
+              - [Monitor SAP audit logs](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-audit-log-workbook)
+              - [Monitor SAP audit controls](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-audit-controls-workbook)
+            - SAP solution content reference
+              - [SAP security content reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-security-content)
+              - [Monitored SAP security parameters](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-suspicious-configuration-security-parameters)
+              - [SAP solution function reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-function-reference)
+              - [SAP solution log and table reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-log-reference)
+            - [Stop SAP data collection](https://learn.microsoft.com/en-us/azure/sentinel/sap/stop-collection)
+          - SAP BTP
+            - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-btp-solution-overview)
+            - [Security content reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-btp-security-content)
+            - [Deploy SAP BTP](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-sap-btp-solution)
+          - [Partner solutions](https://learn.microsoft.com/en-us/azure/sentinel/sap/solution-partner-overview)
+        - Integrate Microsoft business applications
+          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/solution-overview)
+          - [Deploy for Power Platform and Microsoft Dynamics 365 Customer Engagement](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/deploy-power-platform-solution)
+          - [Power Platform and Microsoft Dynamics 365 Customer Engagement security content reference](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/power-platform-solution-security-content)
+          - [Deploy for Dynamics 365 Finance and Operations](https://learn.microsoft.com/en-us/azure/sentinel/dynamics-365/deploy-dynamics-365-finance-operations-solution)
+          - [Dynamics 365 Finance and Operations security content reference](https://learn.microsoft.com/en-us/azure/sentinel/dynamics-365/dynamics-365-finance-operations-security-content)
+      - Integrate Microsoft Defender for IoT
+        - [Connect Defender for IoT data with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/iot-solution?bc=%2fazure%2fsentinel%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fsentinel%2fTOC.json)
+        - [Investigate Defender for IoT incidents with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/iot-advanced-threat-monitoring?bc=%2fazure%2fsentinel%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fsentinel%2fTOC.json)
+      - [Integrate Microsoft Defender XDR](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-365-defender-sentinel-integration)
+      - [Integrate Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/sentinel/ingest-defender-for-cloud-incidents)
+    - Integrate threat intelligence
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/understand-threat-intelligence)
+      - [Threat intelligence integrations](https://learn.microsoft.com/en-us/azure/sentinel/threat-intelligence-integration)
+      - [Enable MDTI data connector](https://learn.microsoft.com/en-us/azure/sentinel/connect-mdti-data-connector)
+      - [Connect threat intelligence with upload API](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-upload-api)
+      - [Connect threat intelligence platforms](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-tip)
+      - [Connect to STIX/TAXII feeds](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-taxii)
+      - [Add threat intelligence in bulk by file](https://learn.microsoft.com/en-us/azure/sentinel/indicators-bulk-file-import)
+      - [Work with threat intelligence](https://learn.microsoft.com/en-us/azure/sentinel/work-with-threat-indicators)
+      - [Add entity to threat indicators](https://learn.microsoft.com/en-us/azure/sentinel/add-entity-to-threat-intelligence)
+      - [Use threat indicators in analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/use-threat-indicators-in-analytics-rules)
+      - [Use matching analytics to detect threats](https://learn.microsoft.com/en-us/azure/sentinel/use-matching-analytics-to-detect-threats)
+      - [Work with STIX objects and indicators](https://learn.microsoft.com/en-us/azure/sentinel/work-with-stix-objects-indicators)
+    - Detect threats and analyze data
+      - Monitor and visualize data
+        - [View collected data on the Overview dashboard](https://learn.microsoft.com/en-us/azure/sentinel/get-visibility)
+        - [View customized views with workbooks](https://learn.microsoft.com/en-us/azure/sentinel/monitor-your-data)
+        - [Create a Power BI report](https://learn.microsoft.com/en-us/azure/sentinel/powerbi)
+      - Threat detection analytics rules
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/threat-detection)
+        - Scheduled analytics rules
+          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/scheduled-rules-overview)
+          - [Create a scheduled rule from a template](https://learn.microsoft.com/en-us/azure/sentinel/create-analytics-rule-from-template)
+          - [Create a scheduled rule from scratch](https://learn.microsoft.com/en-us/azure/sentinel/create-analytics-rules)
+          - Enhance detections
+            - [Map data fields to entities](https://learn.microsoft.com/en-us/azure/sentinel/map-data-fields-to-entities)
+            - [Surface custom details in alerts](https://learn.microsoft.com/en-us/azure/sentinel/surface-custom-details-in-alerts)
+            - [Customize alert details](https://learn.microsoft.com/en-us/azure/sentinel/customize-alert-details)
+        - Near-real-time NRT analytics rules
+          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/near-real-time-rules)
+          - [Create NRT analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/create-nrt-rules)
+        - Anomaly detection rules
+          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/soc-ml-anomalies)
+          - [Work with out-of-the-box anomaly rules](https://learn.microsoft.com/en-us/azure/sentinel/work-with-anomaly-rules)
+        - Multistage attacks Fusion
+          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/fusion)
+          - [Configure multistage attack Fusion rules](https://learn.microsoft.com/en-us/azure/sentinel/configure-fusion-rules)
+        - [Create incidents from Microsoft Security alerts](https://learn.microsoft.com/en-us/azure/sentinel/create-incidents-from-alerts)
+        - [Export and import analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/import-export-analytics-rules)
+        - [Manage template versions for analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/manage-analytics-rule-templates)
+        - [Handle ingestion delay in analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/ingestion-delay)
+        - [Get fine-tuning recommendations](https://learn.microsoft.com/en-us/azure/sentinel/detection-tuning)
+        - [Troubleshoot analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/troubleshoot-analytics-rules)
+      - [Tutorial - Detect threats using analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-log4j-detection)
+      - [MITRE ATT&CK coverage](https://learn.microsoft.com/en-us/azure/sentinel/mitre-coverage)
+      - Data classification with entities
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/entities)
+        - [Entity pages](https://learn.microsoft.com/en-us/azure/sentinel/entity-pages)
+        - [User and entity behavior analytics UEBA](https://learn.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics)
+        - [Create custom entity activities](https://learn.microsoft.com/en-us/azure/sentinel/customize-entity-activities)
+      - Watchlists
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/watchlists)
+        - [Create watchlists](https://learn.microsoft.com/en-us/azure/sentinel/watchlists-create)
+        - [Build queries or rules](https://learn.microsoft.com/en-us/azure/sentinel/watchlists-queries)
+        - [Manage watchlists](https://learn.microsoft.com/en-us/azure/sentinel/watchlists-manage)
+      - [Deploy and monitor decoy honeytokens](https://learn.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens)
+      - [Handle false positives](https://learn.microsoft.com/en-us/azure/sentinel/false-positives)
+    - Hunt for threats
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/hunting)
+      - [Conduct end-to-end hunts](https://learn.microsoft.com/en-us/azure/sentinel/hunts)
+      - Advanced hunting in the Defender portal
+        - [Overview](https://learn.microsoft.com/defender-xdr/advanced-hunting-microsoft-defender?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Generate queries with Security Copilot](https://learn.microsoft.com/defender-xdr/advanced-hunting-security-copilot?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Use functions, saved queries, custom rules](https://learn.microsoft.com/defender-xdr/advanced-hunting-defender-use-custom-rules?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Use shared queries](https://learn.microsoft.com/defender-xdr/advanced-hunting-shared-queries?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Work with query results](https://learn.microsoft.com/defender-xdr/advanced-hunting-query-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Explore results containing Microsoft Sentinel data](https://learn.microsoft.com/defender-xdr/advanced-hunting-defender-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Hunt using hunting graph](https://learn.microsoft.com/defender-xdr/advanced-hunting-graph?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - Kusto Query Language
+        - [Overview](https://learn.microsoft.com/kusto/query/?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Query best practices](https://learn.microsoft.com/kusto/query/best-practices?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [SQL to KQL cheat sheet](https://learn.microsoft.com/kusto/query/sql-cheat-sheet?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Splunk to KQL cheat sheet](https://learn.microsoft.com/kusto/query/splunk-cheat-sheet?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [KQL quick reference](https://learn.microsoft.com/kusto/query/kql-quick-reference?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Common tasks with KQL for Microsoft Sentinel](https://learn.microsoft.com/kusto/query/tutorials/common-tasks-microsoft-sentinel?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Other KQL resources](https://learn.microsoft.com/kusto/query/kql-learning-resources?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - [Create custom query](https://learn.microsoft.com/en-us/azure/sentinel/hunts-custom-queries)
+      - [Bookmarks](https://learn.microsoft.com/en-us/azure/sentinel/bookmarks)
+      - [Livestream](https://learn.microsoft.com/en-us/azure/sentinel/livestream)
+      - Notebooks
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/notebooks)
+        - [Get started with notebooks and MSTICPy](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
+        - [Launch Jupyter notebook](https://learn.microsoft.com/en-us/azure/sentinel/notebooks-hunt)
+        - [Configure advanced MSTICPy settings](https://learn.microsoft.com/en-us/azure/sentinel/notebooks-msticpy-advanced)
+      - [Bring your own machine learning](https://learn.microsoft.com/en-us/azure/sentinel/bring-your-own-ml)
+    - Investigate incidents
+      - Azure portal
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-investigation)
+        - [Triage and manage your incidents](https://learn.microsoft.com/en-us/azure/sentinel/incident-navigate-triage)
+        - [Investigate incidents in depth](https://learn.microsoft.com/en-us/azure/sentinel/investigate-incidents)
+        - [Tutorial - Investigate with UEBA](https://learn.microsoft.com/en-us/azure/sentinel/investigate-with-ueba)
+        - [Relate alerts to incidents](https://learn.microsoft.com/en-us/azure/sentinel/relate-alerts-to-incidents)
+        - [Create incidents manually](https://learn.microsoft.com/en-us/azure/sentinel/create-incident-manually)
+        - [Delete incidents](https://learn.microsoft.com/en-us/azure/sentinel/delete-incident)
+        - [Remediate threats while investigating](https://learn.microsoft.com/en-us/azure/sentinel/respond-threats-during-investigation)
+        - Manage incident workflow with tasks
+          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-tasks)
+          - [Use tasks to handle incident workflow](https://learn.microsoft.com/en-us/azure/sentinel/work-with-tasks)
+          - [Audit and track changes to incident tasks](https://learn.microsoft.com/en-us/azure/sentinel/audit-track-tasks)
+        - [Collaborate in Microsoft Teams](https://learn.microsoft.com/en-us/azure/sentinel/collaborate-in-microsoft-teams)
+      - Defender portal
+        - [Overview](https://learn.microsoft.com/defender-xdr/incidents-overview?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Plan incident response](https://learn.microsoft.com/unified-secops-platform/plan-incident-response)
+        - [Alerts, incidents, and correlation](https://learn.microsoft.com/defender-xdr/alerts-incidents-correlation?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Manage incidents](https://learn.microsoft.com/defender-xdr/manage-incidents?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - Entities
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/entity-pages)
+        - [Create custom entity activities](https://learn.microsoft.com/en-us/azure/sentinel/customize-entity-activities)
+        - Entity pages in the Defender portal
+          - [User](https://learn.microsoft.com/defender-xdr/investigate-users?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+          - [Device](https://learn.microsoft.com/defender-xdr/entity-page-device?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+          - [IP](https://learn.microsoft.com/defender-xdr/entity-page-ip?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - Security Copilot
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-security-copilot)
+        - [Summarize incidents in Azure portal](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-security-copilot-incident-summary)
+        - Microsoft Copilot in Microsoft Defender
+          - [Overview](https://learn.microsoft.com/defender-xdr/security-copilot-in-microsoft-365-defender?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+          - [Summarize incidents](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-incident-summary?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+          - [Run script analysis](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-script-analysis?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+          - [Analyze files](https://learn.microsoft.com/defender-xdr/copilot-in-defender-file-analysis?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+          - [Create incident reports](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-create-incident-report?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - Large datasets
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/investigate-large-datasets)
+        - [Search large datasets](https://learn.microsoft.com/en-us/azure/sentinel/search-jobs)
+        - [Restore historical data](https://learn.microsoft.com/en-us/azure/sentinel/restore)
+    - Automate responses
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/automation/automation)
+      - [Respond to threats using automation](https://learn.microsoft.com/en-us/azure/sentinel/automation/tutorial-respond-threats-playbook)
+      - [Automatically enrich incident information](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-enrich-ip-information)
+      - [Extract incident entities with non-native actions](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-extract-incident-entities)
+      - Automation rules
+        - [Automation rules](https://learn.microsoft.com/en-us/azure/sentinel/automate-incident-handling-with-automation-rules)
+        - [Create automation rules](https://learn.microsoft.com/en-us/azure/sentinel/create-manage-use-automation-rules)
+        - [Add advanced conditions to automation rules](https://learn.microsoft.com/en-us/azure/sentinel/add-advanced-conditions-to-automation-rules)
+        - [Create incident tasks using automation rules](https://learn.microsoft.com/en-us/azure/sentinel/create-tasks-automation-rule)
+        - [Export and import automation rules](https://learn.microsoft.com/en-us/azure/sentinel/import-export-automation-rules)
+      - Playbooks
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/automation/automate-responses-with-playbooks)
+        - [Recommended and sample playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/playbook-recommendations)
+        - [Customize playbooks from templates](https://learn.microsoft.com/en-us/azure/sentinel/automation/use-playbook-templates)
+        - [Create and manage playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/create-playbooks)
+        - [Supported triggers and actions in playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/playbook-triggers-actions)
+        - [Azure Logic Apps for Microsoft Sentinel playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/logic-apps-playbooks)
+        - [Authenticate playbooks to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/automation/authenticate-playbooks-to-sentinel)
+        - [Automate and run playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/run-playbooks)
+        - Advanced playbook scenarios
+          - [Migrate alert playbooks to automation rules](https://learn.microsoft.com/en-us/azure/sentinel/automation/migrate-playbooks-to-automation-rules)
+          - [Define an access restriction for Standard-plan playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/define-playbook-access-restrictions)
+          - [Create and perform advanced incident tasks using playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/create-tasks-playbook)
+    - [SIEM operations guide](https://learn.microsoft.com/en-us/azure/sentinel/ops-guide)
+    - Migrate your SIEM functionality
+      - [Transition to the Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/move-to-defender)
+      - Migrate to Microsoft Sentinel
+        - Plan and design your migration
+          - [Plan your migration](https://learn.microsoft.com/en-us/azure/sentinel/migration)
+          - [Use the SIEM migration experience](https://learn.microsoft.com/en-us/azure/sentinel/siem-migration)
+          - [Track migration with a workbook](https://learn.microsoft.com/en-us/azure/sentinel/migration-track)
+        - Migrate from ArcSight
+          - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-detection-rules)
+          - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-automation)
+          - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-historical-data)
+        - Migrate from Splunk
+          - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-detection-rules)
+          - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-automation)
+          - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-historical-data)
+        - Migrate from QRadar
+          - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-detection-rules)
+          - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-automation)
+          - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-historical-data)
+        - Ingest historical data
+          - [Select target platform](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
+          - [Select data ingestion tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
+          - [Ingest data](https://learn.microsoft.com/en-us/azure/sentinel/migration-export-ingest)
+        - [Convert dashboards to workbooks](https://learn.microsoft.com/en-us/azure/sentinel/migration-convert-dashboards)
+        - [Update SOC processes](https://learn.microsoft.com/en-us/azure/sentinel/migration-security-operations-center-processes)
+    - [Microsoft Sentinel SIEM service limits](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-service-limits)
+  - Microsoft Sentinel platform
+    - [Microsoft Sentinel data lake overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-overview)
+    - [Microsoft Sentinel graph overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-graph-overview)
     - [Compare KQL jobs, summary rules, and search jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs-summary-rules-search-jobs)
+    - Microsoft Sentinel MCP server
+      - [Microsoft Sentinel MCP server Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-overview)
+      - [Get started with Microsoft Sentinel MCP](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-get-started)
+      - Tool collection in Microsoft Sentinel MCP
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-tools-overview)
+        - [Data exploration](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-data-exploration-tool)
+        - [Agent creation](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-agent-creation-tool)
+      - [Troubleshooting](https://learn.microsoft.com/en-us/azure/sentinel/datalake/troubleshoot-sentinel-mcp)
+      - [Billing, limits, and availability](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-billing)
+      - [Responsible AI FAQs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-responsible-ai-faq)
     - KQL for data lake exploration
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-overview)
       - [Run KQL queries](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-queries)
@@ -22,139 +306,25 @@
       - [Microsoft Sentinel provider class reference](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-provider-class-reference)
       - [Create and manage notebook jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/notebook-jobs)
       - [Notebook examples for data lake exploration](https://learn.microsoft.com/en-us/azure/sentinel/datalake/notebook-examples)
-  - Plan
-    - [Deployment planning guide](https://learn.microsoft.com/en-us/azure/sentinel/deploy-overview)
-    - [Prerequisites](https://learn.microsoft.com/en-us/azure/sentinel/prerequisites)
-    - Workspace architecture
-      - [Review sample workspace designs](https://learn.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
-      - [Prepare for multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/prepare-multiple-workspaces)
-    - [Prioritize data connectors](https://learn.microsoft.com/en-us/azure/sentinel/prioritize-data-connectors)
-    - [Plan roles and permissions](https://learn.microsoft.com/en-us/azure/sentinel/roles)
-    - [Plan interactive and long-term data retention](https://learn.microsoft.com/en-us/azure/sentinel/log-plans)
-    - [Plan costs](https://learn.microsoft.com/en-us/azure/sentinel/billing)
-    - Availability and support
-      - [Geographical availability and data residency](https://learn.microsoft.com/en-us/azure/sentinel/geographical-availability-data-residency)
-      - [Support for data types in different clouds](https://learn.microsoft.com/en-us/azure/sentinel/data-type-cloud-support)
-      - [Feature support in different clouds](https://learn.microsoft.com/en-us/azure/sentinel/feature-availability)
-      - [Regional availability](https://azure.microsoft.com/global-infrastructure/services/?products=azure-sentinel)
-      - [Business continuity and disaster recovery](https://learn.microsoft.com/en-us/azure/sentinel/business-continuity-disaster-recovery)
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/sentinel-security-baseline?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-  - Deploy
-    - [Enable Microsoft Sentinel and initial features and content](https://learn.microsoft.com/en-us/azure/sentinel/enable-sentinel-features-content)
-    - [Onboard to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/quickstart-onboard)
-    - [Connect Microsoft Sentinel to the Defender portal](https://learn.microsoft.com/unified-secops-platform/microsoft-sentinel-onboard?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-    - [Onboard to Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-onboarding)
-    - [Set up connectors for the Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-connectors)
-    - [Unified connectors overview](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector)
-    - [Integrate with unified connectors](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector-integration)
-    - [Configure content](https://learn.microsoft.com/en-us/azure/sentinel/configure-content)
-    - [Set up multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/use-multiple-workspaces)
-    - [Enable User and Entity Behavior Analytics UEBA](https://learn.microsoft.com/en-us/azure/sentinel/enable-entity-behavior-analytics)
-    - [Configure interactive and long-term data retention](https://learn.microsoft.com/en-us/azure/sentinel/configure-data-retention-archive)
-    - [Deploy side-by-side](https://learn.microsoft.com/en-us/azure/sentinel/deploy-side-by-side)
-  - Migrate
-    - [Transition your environment to the Defender portal](https://learn.microsoft.com/en-us/azure/sentinel/move-to-defender)
-    - Migrate to Microsoft Sentinel
-      - Plan and design your migration
-        - [Plan your migration](https://learn.microsoft.com/en-us/azure/sentinel/migration)
-        - [Use the SIEM migration experience](https://learn.microsoft.com/en-us/azure/sentinel/siem-migration)
-        - [Track migration with a workbook](https://learn.microsoft.com/en-us/azure/sentinel/migration-track)
-      - Migrate from ArcSight
-        - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-detection-rules)
-        - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-automation)
-        - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-arcsight-historical-data)
-      - Migrate from Splunk
-        - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-detection-rules)
-        - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-automation)
-        - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-splunk-historical-data)
-      - Migrate from QRadar
-        - [Migrate detection rules](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-detection-rules)
-        - [Migrate SOAR automation](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-automation)
-        - [Export historical data](https://learn.microsoft.com/en-us/azure/sentinel/migration-qradar-historical-data)
-      - Ingest historical data
-        - [Select target platform](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-target-platform)
-        - [Select data ingestion tool](https://learn.microsoft.com/en-us/azure/sentinel/migration-ingestion-tool)
-        - [Ingest data](https://learn.microsoft.com/en-us/azure/sentinel/migration-export-ingest)
-      - [Convert dashboards to workbooks](https://learn.microsoft.com/en-us/azure/sentinel/migration-convert-dashboards)
-      - [Update SOC processes](https://learn.microsoft.com/en-us/azure/sentinel/migration-security-operations-center-processes)
-  - Manage solutions and content
-    - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions)
-    - [Deploy out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy)
-    - [Delete out-of-the-box content](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-delete)
-    - [Manage solution deprecation lifecycle](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution-deprecation)
-    - Solution catalog
-      - [All solutions](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-catalog)
-      - [ASIM-based domain solutions](https://learn.microsoft.com/en-us/azure/sentinel/domain-based-essential-solutions)
-      - [Monitor Zero Trust](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution)
-    - Manage content as code using repositories
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd-custom-content)
-      - [Deploy content as code from your repository](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd)
-      - [Customize repository deployments](https://learn.microsoft.com/en-us/azure/sentinel/ci-cd-custom-deploy)
-    - Protect business applications
-      - Integrate SAP systems
-        - SAP applications
-          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sap/solution-overview)
-          - Deploy the SAP integration
-            - [Deployment overview](https://learn.microsoft.com/en-us/azure/sentinel/sap/deployment-overview)
-            - [Deployment prerequisites](https://learn.microsoft.com/en-us/azure/sentinel/sap/prerequisites-for-deploying-sap-continuous-threat-monitoring)
-            - [Install the solution for SAP applications](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-sap-security-content)
-            - [Prepare your SAP environment](https://learn.microsoft.com/en-us/azure/sentinel/sap/preparing-sap)
-            - [Connect your SAP system](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-data-connector-agent-container)
-            - [Troubleshoot SAP data connector](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-deploy-troubleshoot)
-            - Extra deployment steps
-              - [Collect SAP HANA audit logs](https://learn.microsoft.com/en-us/azure/sentinel/sap/collect-sap-hana-audit-logs)
-              - [Update the data connector agent](https://learn.microsoft.com/en-us/azure/sentinel/sap/update-sap-data-connector)
-              - [Deploy the agent from the command line](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-command-line)
-              - [Deploy the agent with expert options](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-deploy-alternate)
-            - SAP deployment reference advanced
-              - [Required ABAP permissions](https://learn.microsoft.com/en-us/azure/sentinel/sap/required-abap-authorizations)
-              - [Data connector agent kickstart script reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-kickstart)
-              - [Data connector agent update script reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-update)
-              - [Data connector agent systemconfig.json file reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-systemconfig-json)
-              - [Data connector agent systemconfig.ini file reference legacy](https://learn.microsoft.com/en-us/azure/sentinel/sap/reference-systemconfig)
-          - [Enable SAP detections and threat protection](https://learn.microsoft.com/en-us/azure/sentinel/sap/deployment-solution-configuration)
-          - [Integrate SAP across multiple workspaces](https://learn.microsoft.com/en-us/azure/sentinel/sap/cross-workspace)
-          - Monitor SAP systems
-            - [Monitor SAP system health and role](https://learn.microsoft.com/en-us/azure/sentinel/monitor-sap-system-health)
-            - [Monitor SAP audit logs](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-audit-log-workbook)
-            - [Monitor SAP audit controls](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-audit-controls-workbook)
-          - SAP solution content reference
-            - [SAP security content reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-security-content)
-            - [Monitored SAP security parameters](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-suspicious-configuration-security-parameters)
-            - [SAP solution function reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-function-reference)
-            - [SAP solution log and table reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-solution-log-reference)
-          - [Stop SAP data collection](https://learn.microsoft.com/en-us/azure/sentinel/sap/stop-collection)
-        - SAP BTP
-          - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-btp-solution-overview)
-          - [Security content reference](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-btp-security-content)
-          - [Deploy SAP BTP](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-sap-btp-solution)
-        - [Partner solutions](https://learn.microsoft.com/en-us/azure/sentinel/sap/solution-partner-overview)
-      - Integrate Microsoft business applications
-        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/solution-overview)
-        - [Deploy for Power Platform and Microsoft Dynamics 365 Customer Engagement](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/deploy-power-platform-solution)
-        - [Power Platform and Microsoft Dynamics 365 Customer Engagement security content reference](https://learn.microsoft.com/en-us/azure/sentinel/business-applications/power-platform-solution-security-content)
-        - [Deploy for Dynamics 365 Finance and Operations](https://learn.microsoft.com/en-us/azure/sentinel/dynamics-365/deploy-dynamics-365-finance-operations-solution)
-        - [Dynamics 365 Finance and Operations security content reference](https://learn.microsoft.com/en-us/azure/sentinel/dynamics-365/dynamics-365-finance-operations-security-content)
-    - Integrate Microsoft Defender for IoT
-      - [Connect Defender for IoT data with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/iot-solution?bc=%2fazure%2fsentinel%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fsentinel%2fTOC.json)
-      - [Investigate Defender for IoT incidents with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/defender-for-iot/organizations/iot-advanced-threat-monitoring?bc=%2fazure%2fsentinel%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fsentinel%2fTOC.json)
-    - [Integrate Microsoft Defender XDR](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-365-defender-sentinel-integration)
-    - [Integrate Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/sentinel/ingest-defender-for-cloud-incidents)
-  - Collect data
+    - [Microsoft Sentinel data lake service limits](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-service-limits)
+  - Collect and manage data
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/connect-data-sources)
     - [Best practices](https://learn.microsoft.com/en-us/azure/sentinel/best-practices-data)
     - [Tutorial - Forward syslog data to workspace](https://learn.microsoft.com/en-us/azure/sentinel/forward-syslog-monitor-agent)
     - [Connect data sources](https://learn.microsoft.com/en-us/azure/sentinel/configure-data-connector)
+    - [Set up connectors for the Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-connectors)
+    - [Enable asset data Preview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/enable-data-connectors)
+    - [Unified connectors overview](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector)
+    - [Integrate with unified connectors](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector-integration)
     - [Ingestion-time data transformation](https://learn.microsoft.com/en-us/azure/sentinel/data-transformation)
     - [AMA migration for Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/ama-migrate)
-    - [Ingest data to an auxiliary logs table](https://learn.microsoft.com/azure/azure-monitor/logs/create-custom-table-auxiliary?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
     - [Find data connector](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
     - Connection instructions by type
-      - Connect Microsoft Sentinel to Microsoft connectors
-        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-windows-microsoft-services)
-        - [API-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-api-based)
-        - [Diagnostic settings-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-diagnostic-setting-based)
-        - [Windows agent-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-windows-based)
+      - General instructions for Microsoft connectors
+        - [Connect Microsoft Sentinel to Microsoft connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-windows-microsoft-services)
+        - [Connect via API-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-api-based)
+        - [Connect via diagnostic settings-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-diagnostic-setting-based)
+        - [Connect via Windows agent-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-windows-based)
       - [Azure Functions API connection](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-functions-template)
       - CEF/Syslog
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/cef-syslog-ama-overview)
@@ -171,6 +341,7 @@
         - [Connect Microsoft Sentinel to AWS](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-configure-environment)
         - [AWS service logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws)
         - [AWS S3 WAF logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-s3-waf)
+      - [Troubleshoot AWS S3 connector issues](https://learn.microsoft.com/en-us/azure/sentinel/aws-s3-troubleshoot)
       - [Cisco FTD firewall](https://learn.microsoft.com/en-us/azure/sentinel/cisco-ftd-firewall)
       - [Google Cloud Platform connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-google-cloud-platform)
       - [Microsoft Entra](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
@@ -195,157 +366,9 @@
     - Aggregate data
       - [Aggregate data with summary rules](https://learn.microsoft.com/en-us/azure/sentinel/summary-rules)
       - [Aggregate insights from raw data into an Auxiliary table](https://learn.microsoft.com/en-us/azure/sentinel/summary-rules-tutorial)
-  - Manage data
-    - [Data management overview](https://learn.microsoft.com/en-us/azure/sentinel/manage-data-overview)
-    - [Manage tables, tiers, and retention](https://learn.microsoft.com/en-us/azure/sentinel/manage-table-tiers-retention)
-  - Integrate threat intelligence
-    - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/understand-threat-intelligence)
-    - [Threat intelligence integrations](https://learn.microsoft.com/en-us/azure/sentinel/threat-intelligence-integration)
-    - [Enable MDTI data connector](https://learn.microsoft.com/en-us/azure/sentinel/connect-mdti-data-connector)
-    - [Connect threat intelligence with upload API](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-upload-api)
-    - [Connect threat intelligence platforms](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-tip)
-    - [Connect to STIX/TAXII feeds](https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-taxii)
-    - [Add threat intelligence in bulk by file](https://learn.microsoft.com/en-us/azure/sentinel/indicators-bulk-file-import)
-    - [Work with threat intelligence](https://learn.microsoft.com/en-us/azure/sentinel/work-with-threat-indicators)
-    - [Add entity to threat indicators](https://learn.microsoft.com/en-us/azure/sentinel/add-entity-to-threat-intelligence)
-    - [Use threat indicators in analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/use-threat-indicators-in-analytics-rules)
-    - [Use matching analytics to detect threats](https://learn.microsoft.com/en-us/azure/sentinel/use-matching-analytics-to-detect-threats)
-    - [Work with STIX objects and indicators](https://learn.microsoft.com/en-us/azure/sentinel/work-with-stix-objects-indicators)
-  - Detect threats and analyze data
-    - Monitor and visualize data
-      - [View collected data on the Overview dashboard](https://learn.microsoft.com/en-us/azure/sentinel/get-visibility)
-      - [View customized views with workbooks](https://learn.microsoft.com/en-us/azure/sentinel/monitor-your-data)
-      - [Create a Power BI report](https://learn.microsoft.com/en-us/azure/sentinel/powerbi)
-    - Threat detection analytics rules
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/threat-detection)
-      - Scheduled analytics rules
-        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/scheduled-rules-overview)
-        - [Create a scheduled rule from a template](https://learn.microsoft.com/en-us/azure/sentinel/create-analytics-rule-from-template)
-        - [Create a scheduled rule from scratch](https://learn.microsoft.com/en-us/azure/sentinel/create-analytics-rules)
-        - Enhance detections
-          - [Map data fields to entities](https://learn.microsoft.com/en-us/azure/sentinel/map-data-fields-to-entities)
-          - [Surface custom details in alerts](https://learn.microsoft.com/en-us/azure/sentinel/surface-custom-details-in-alerts)
-          - [Customize alert details](https://learn.microsoft.com/en-us/azure/sentinel/customize-alert-details)
-      - Near-real-time NRT analytics rules
-        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/near-real-time-rules)
-        - [Create NRT analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/create-nrt-rules)
-      - Anomaly detection rules
-        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/soc-ml-anomalies)
-        - [Work with out-of-the-box anomaly rules](https://learn.microsoft.com/en-us/azure/sentinel/work-with-anomaly-rules)
-      - Multistage attacks Fusion
-        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/fusion)
-        - [Configure multistage attack Fusion rules](https://learn.microsoft.com/en-us/azure/sentinel/configure-fusion-rules)
-      - [Create incidents from Microsoft Security alerts](https://learn.microsoft.com/en-us/azure/sentinel/create-incidents-from-alerts)
-      - [Export and import analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/import-export-analytics-rules)
-      - [Manage template versions for analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/manage-analytics-rule-templates)
-      - [Handle ingestion delay in analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/ingestion-delay)
-      - [Get fine-tuning recommendations](https://learn.microsoft.com/en-us/azure/sentinel/detection-tuning)
-      - [Troubleshoot analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/troubleshoot-analytics-rules)
-    - [Tutorial - Detect threats using analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-log4j-detection)
-    - [MITRE ATT&CK coverage](https://learn.microsoft.com/en-us/azure/sentinel/mitre-coverage)
-    - Data classification with entities
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/entities)
-      - [Entity pages](https://learn.microsoft.com/en-us/azure/sentinel/entity-pages)
-      - [User and entity behavior analytics UEBA](https://learn.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics)
-      - [Create custom entity activities](https://learn.microsoft.com/en-us/azure/sentinel/customize-entity-activities)
-    - Watchlists
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/watchlists)
-      - [Create watchlists](https://learn.microsoft.com/en-us/azure/sentinel/watchlists-create)
-      - [Build queries or rules](https://learn.microsoft.com/en-us/azure/sentinel/watchlists-queries)
-      - [Manage watchlists](https://learn.microsoft.com/en-us/azure/sentinel/watchlists-manage)
-    - [Deploy and monitor decoy honeytokens](https://learn.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens)
-    - [Handle false positives](https://learn.microsoft.com/en-us/azure/sentinel/false-positives)
-  - Hunt for threats
-    - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/hunting)
-    - [Conduct end-to-end hunts](https://learn.microsoft.com/en-us/azure/sentinel/hunts)
-    - Advanced hunting in the Defender portal
-      - [Overview](https://learn.microsoft.com/defender-xdr/advanced-hunting-microsoft-defender?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Generate queries with Security Copilot](https://learn.microsoft.com/defender-xdr/advanced-hunting-security-copilot?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Use functions, saved queries, custom rules](https://learn.microsoft.com/defender-xdr/advanced-hunting-defender-use-custom-rules?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Use shared queries](https://learn.microsoft.com/defender-xdr/advanced-hunting-shared-queries?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Work with query results](https://learn.microsoft.com/defender-xdr/advanced-hunting-query-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Explore results containing Microsoft Sentinel data](https://learn.microsoft.com/defender-xdr/advanced-hunting-defender-results?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-    - Kusto Query Language
-      - [Overview](https://learn.microsoft.com/kusto/query/?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Query best practices](https://learn.microsoft.com/kusto/query/best-practices?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [SQL to KQL cheat sheet](https://learn.microsoft.com/kusto/query/sql-cheat-sheet?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Splunk to KQL cheat sheet](https://learn.microsoft.com/kusto/query/splunk-cheat-sheet?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [KQL quick reference](https://learn.microsoft.com/kusto/query/kql-quick-reference?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Common tasks with KQL for Microsoft Sentinel](https://learn.microsoft.com/kusto/query/tutorials/common-tasks-microsoft-sentinel?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Other KQL resources](https://learn.microsoft.com/kusto/query/kql-learning-resources?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-    - [Create custom query](https://learn.microsoft.com/en-us/azure/sentinel/hunts-custom-queries)
-    - [Bookmarks](https://learn.microsoft.com/en-us/azure/sentinel/bookmarks)
-    - [Livestream](https://learn.microsoft.com/en-us/azure/sentinel/livestream)
-    - Notebooks
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/notebooks)
-      - [Get started with notebooks and MSTICPy](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)
-      - [Launch Jupyter notebook](https://learn.microsoft.com/en-us/azure/sentinel/notebooks-hunt)
-      - [Configure advanced MSTICPy settings](https://learn.microsoft.com/en-us/azure/sentinel/notebooks-msticpy-advanced)
-    - [Bring your own machine learning](https://learn.microsoft.com/en-us/azure/sentinel/bring-your-own-ml)
-  - Investigate incidents
-    - Azure portal
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-investigation)
-      - [Triage and manage your incidents](https://learn.microsoft.com/en-us/azure/sentinel/incident-navigate-triage)
-      - [Investigate incidents in depth](https://learn.microsoft.com/en-us/azure/sentinel/investigate-incidents)
-      - [Tutorial - Investigate with UEBA](https://learn.microsoft.com/en-us/azure/sentinel/investigate-with-ueba)
-      - [Relate alerts to incidents](https://learn.microsoft.com/en-us/azure/sentinel/relate-alerts-to-incidents)
-      - [Create incidents manually](https://learn.microsoft.com/en-us/azure/sentinel/create-incident-manually)
-      - [Delete incidents](https://learn.microsoft.com/en-us/azure/sentinel/delete-incident)
-      - [Remediate threats while investigating](https://learn.microsoft.com/en-us/azure/sentinel/respond-threats-during-investigation)
-      - Manage incident workflow with tasks
-        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-tasks)
-        - [Use tasks to handle incident workflow](https://learn.microsoft.com/en-us/azure/sentinel/work-with-tasks)
-        - [Audit and track changes to incident tasks](https://learn.microsoft.com/en-us/azure/sentinel/audit-track-tasks)
-      - [Collaborate in Microsoft Teams](https://learn.microsoft.com/en-us/azure/sentinel/collaborate-in-microsoft-teams)
-    - Defender portal
-      - [Overview](https://learn.microsoft.com/defender-xdr/incidents-overview?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Plan incident response](https://learn.microsoft.com/unified-secops-platform/plan-incident-response)
-      - [Alerts, incidents, and correlation](https://learn.microsoft.com/defender-xdr/alerts-incidents-correlation?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-      - [Manage incidents](https://learn.microsoft.com/defender-xdr/manage-incidents?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-    - Entities
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/entity-pages)
-      - [Create custom entity activities](https://learn.microsoft.com/en-us/azure/sentinel/customize-entity-activities)
-      - Entity pages in the Defender portal
-        - [User](https://learn.microsoft.com/defender-xdr/investigate-users?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-        - [Device](https://learn.microsoft.com/defender-xdr/entity-page-device?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-        - [IP](https://learn.microsoft.com/defender-xdr/entity-page-ip?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-    - Security Copilot
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-security-copilot)
-      - [Summarize incidents in Azure portal](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-security-copilot-incident-summary)
-      - Microsoft Copilot in Microsoft Defender
-        - [Overview](https://learn.microsoft.com/defender-xdr/security-copilot-in-microsoft-365-defender?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-        - [Summarize incidents](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-incident-summary?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-        - [Run script analysis](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-script-analysis?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-        - [Analyze files](https://learn.microsoft.com/defender-xdr/copilot-in-defender-file-analysis?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-        - [Create incident reports](https://learn.microsoft.com/defender-xdr/security-copilot-m365d-create-incident-report?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
-    - Large datasets
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/investigate-large-datasets)
-      - [Search large datasets](https://learn.microsoft.com/en-us/azure/sentinel/search-jobs)
-      - [Restore historical data](https://learn.microsoft.com/en-us/azure/sentinel/restore)
-  - Automate responses
-    - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/automation/automation)
-    - [Respond to threats using automation](https://learn.microsoft.com/en-us/azure/sentinel/automation/tutorial-respond-threats-playbook)
-    - [Automatically enrich incident information](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-enrich-ip-information)
-    - [Extract incident entities with non-native actions](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-extract-incident-entities)
-    - Automation rules
-      - [Automation rules](https://learn.microsoft.com/en-us/azure/sentinel/automate-incident-handling-with-automation-rules)
-      - [Create automation rules](https://learn.microsoft.com/en-us/azure/sentinel/create-manage-use-automation-rules)
-      - [Add advanced conditions to automation rules](https://learn.microsoft.com/en-us/azure/sentinel/add-advanced-conditions-to-automation-rules)
-      - [Create incident tasks using automation rules](https://learn.microsoft.com/en-us/azure/sentinel/create-tasks-automation-rule)
-      - [Export and import automation rules](https://learn.microsoft.com/en-us/azure/sentinel/import-export-automation-rules)
-    - Playbooks
-      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/automation/automate-responses-with-playbooks)
-      - [Recommended and sample playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/playbook-recommendations)
-      - [Customize playbooks from templates](https://learn.microsoft.com/en-us/azure/sentinel/automation/use-playbook-templates)
-      - [Create and manage playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/create-playbooks)
-      - [Supported triggers and actions in playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/playbook-triggers-actions)
-      - [Azure Logic Apps for Microsoft Sentinel playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/logic-apps-playbooks)
-      - [Authenticate playbooks to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/automation/authenticate-playbooks-to-sentinel)
-      - [Automate and run playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/run-playbooks)
-      - Advanced playbook scenarios
-        - [Migrate alert playbooks to automation rules](https://learn.microsoft.com/en-us/azure/sentinel/automation/migrate-playbooks-to-automation-rules)
-        - [Define an access restriction for Standard-plan playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/define-playbook-access-restrictions)
-        - [Create and perform advanced incident tasks using playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/create-tasks-playbook)
+    - Manage data
+      - [Data management overview](https://learn.microsoft.com/en-us/azure/sentinel/manage-data-overview)
+      - [Manage tables, tiers, and retention](https://learn.microsoft.com/en-us/azure/sentinel/manage-table-tiers-retention)
   - SOC optimizations
     - [Optimize your security operations](https://learn.microsoft.com/en-us/azure/sentinel/soc-optimization/soc-optimization-access)
     - [Use SOC optimizations programmatically](https://learn.microsoft.com/en-us/azure/sentinel/soc-optimization/soc-optimization-api)
@@ -375,32 +398,36 @@
       - [Monitor automation rules and playbooks health](https://learn.microsoft.com/en-us/azure/sentinel/monitor-automation-health)
       - [Monitor and optimize execution of analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/monitor-optimize-analytics-rule-execution)
       - [Audit and monitor the health of analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/monitor-analytics-rule-integrity)
-    - [Auditing Microsoft Sentinel with Azure Activity Logs](https://learn.microsoft.com/en-us/azure/sentinel/audit-sentinel-data)
-    - [Audit log for Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/auditing-lake-activities)
+    - [Audit Microsoft Sentinel with Azure Activity Logs](https://learn.microsoft.com/en-us/azure/sentinel/audit-sentinel-data)
+    - [Audit Microsoft Sentinel data lake and graph in Purview portal](https://learn.microsoft.com/en-us/azure/sentinel/datalake/auditing-lake-activities)
     - [Remove Microsoft Sentinel from your workspaces](https://learn.microsoft.com/en-us/azure/sentinel/offboard)
   - Build and publish Microsoft Sentinel solutions
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-integration-guide)
-    - [Sentinel solution quality guidelines](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution-quality-guidance)
     - [Partner integrations best practices](https://learn.microsoft.com/en-us/azure/sentinel/partner-integrations)
-    - [Creating codeless data connectors CCF](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector)
-    - [Creating analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-analytic-rules-creation)
-    - [Creating hunting queries](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-hunting-rules-creation)
-    - [Creating summary rules](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-summary-rules-creation)
-    - [Creating workbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-workbook-creation)
-    - [Creating playbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-playbook-creation)
-    - [Creating ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-develop-parsers)
+    - [Sentinel solution quality guidelines](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution-quality-guidance)
+    - [Microsoft Sentinel solution setup essentials](https://learn.microsoft.com/en-us/azure/sentinel/solution-setup-essentials)
+    - Sentinel SIEM content
+      - [Creating codeless data connectors CCF](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector)
+      - [Creating analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-analytic-rules-creation)
+      - [Creating hunting queries](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-hunting-rules-creation)
+      - [Creating summary rules](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-summary-rules-creation)
+      - [Creating workbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-workbook-creation)
+      - [Creating playbooks](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-playbook-creation)
+      - [Creating ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-develop-parsers)
     - [Publish solutions](https://learn.microsoft.com/en-us/azure/sentinel/publish-sentinel-solutions)
+    - [Sentinel SIEM solution lifecycle post publish](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-post-publish-tracking)
+    - [Packaging and publishing a Sentinel platform solution](https://learn.microsoft.com/en-us/azure/sentinel/package-platform-solution)
+    - [Sentinel SIEM solution lifecycle post publish](https://learn.microsoft.com/en-us/azure/sentinel/publish-sentinel-solutions)
     - [Solution lifecycle post publish](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-post-publish-tracking)
+    - [Managing Platform Solutions](https://learn.microsoft.com/en-us/azure/sentinel/manage-platform-solutions)
+    - [Troubleshoot solutions in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/troubleshoot-sentinel-solutions)
     - Remove Microsoft Sentinel from your workspace
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/offboard-implications)
       - [Remove Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/offboard)
-  - Troubleshoot
-    - [Troubleshoot AWS S3 connector issues](https://learn.microsoft.com/en-us/azure/sentinel/aws-s3-troubleshoot)
   - Reference
-    - [Microsoft Sentinel service limits](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-service-limits)
-    - [Microsoft Sentinel data lake service limits](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-service-limits)
     - [Microsoft Sentinel REST-API](https://learn.microsoft.com/rest/api/securityinsights/)
     - [OOTB content centralization changes](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-content-centralize)
+    - [Asset data tables in Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/asset-data-tables)
     - Management references
       - [Microsoft Sentinel Logic Apps connector](https://learn.microsoft.com/connectors/azuresentinel/)
       - [Azure CLI](https://learn.microsoft.com/cli/azure/sentinel)
@@ -443,7 +470,7 @@
       - [GCP data connectors API reference](https://learn.microsoft.com/en-us/azure/sentinel/data-connection-rules-reference-gcp)
       - [Sample API requests for creating Data Collection Rules DCRs](https://learn.microsoft.com/en-us/azure/sentinel/api-dcr-reference)
       - [Microsoft Purview Information Protection reference](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-purview-record-types-activities)
-      - [Microsoft 365 Defender connector data type support](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-365-defender-cloud-support)
+      - [Microsoft Defender XDR connector data type support](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-365-defender-cloud-support)
     - Detection and analysis references
       - [Top Microsoft Sentinel workbooks](https://learn.microsoft.com/en-us/azure/sentinel/top-workbooks)
       - [Entities reference](https://learn.microsoft.com/en-us/azure/sentinel/entities-reference)
@@ -455,13 +482,10 @@
       - [Enrich entities with geolocation data with REST-API](https://learn.microsoft.com/en-us/azure/sentinel/geolocation-data-api)
       - [Threat intelligence upload API reference](https://learn.microsoft.com/en-us/azure/sentinel/stix-objects-api)
       - [Legacy upload indicator API reference](https://learn.microsoft.com/en-us/azure/sentinel/upload-indicators-api)
-    - [Operations guide](https://learn.microsoft.com/en-us/azure/sentinel/ops-guide)
-  - Resources
-    - [Sample workspace architecture](https://learn.microsoft.com/en-us/azure/sentinel/sample-workspace-designs)
-    - [Microsoft Sentinel blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
-    - [Pricing](https://azure.microsoft.com/pricing/details/azure-sentinel/)
-    - Build your skills for Microsoft Sentinel
-      - [Microsoft Applied Skill - Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/)
-      - [Microsoft Sentinel skill-up training](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources)
-      - [Learn modules for Microsoft Sentinel](https://learn.microsoft.com/training/browse/?expanded=azure&products=microsoft-sentinel)
-      - [Learn modules for Kusto Query Language KQL](https://learn.microsoft.com/training/browse/?expanded=azure&terms=kusto query language)
+  - [Microsoft Sentinel blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
+  - [Pricing](https://azure.microsoft.com/pricing/details/azure-sentinel/)
+  - Build your skills for Microsoft Sentinel
+    - [Microsoft Applied Skill - Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/)
+    - [Microsoft Sentinel skill-up training](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources)
+    - [Learn modules for Microsoft Sentinel](https://learn.microsoft.com/training/browse/?expanded=azure&products=microsoft-sentinel)
+    - [Learn modules for Kusto Query Language KQL](https://learn.microsoft.com/training/browse/?expanded=azure&terms=kusto query language)

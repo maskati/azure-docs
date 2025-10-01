@@ -44,6 +44,7 @@
       - [Use role-based access control](https://learn.microsoft.com/en-us/azure/api-management/api-management-role-based-access-control)
       - [Use managed identities for Azure resources](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-use-managed-service-identity)
       - [Send events to Event Grid](https://learn.microsoft.com/en-us/azure/api-management/how-to-event-grid)
+      - [Reduce environmental impact](https://learn.microsoft.com/en-us/azure/api-management/sustainability)
     - Network isolation
       - [Networking options](https://learn.microsoft.com/en-us/azure/api-management/virtual-network-concepts)
       - Network isolation - classic tiers

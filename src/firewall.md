@@ -102,9 +102,8 @@
       - [Detect malware with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/firewall/detect-malware-with-sentinel)
     - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Migration and upgrades
-    - [Migrate to Azure Firewall Premium](https://learn.microsoft.com/en-us/azure/firewall/premium-migrate)
+    - [Change Azure Firewall SKU](https://learn.microsoft.com/en-us/azure/firewall/change-sku)
     - [Migrate to Premium using Terraform](https://learn.microsoft.com/azure/developer/terraform/firewall-upgrade-premium?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
-    - [Easy upgrade/downgrade](https://learn.microsoft.com/en-us/azure/firewall/easy-upgrade)
   - Operational excellence
     - Monitoring
       - [Logs and metrics](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall)
