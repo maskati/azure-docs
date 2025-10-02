@@ -140,6 +140,7 @@
     - [Advanced monitoring](https://learn.microsoft.com/en-us/azure/api-management/api-management-log-to-eventhub-sample)
     - [Advanced request throttling](https://learn.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling)
     - [Using external services](https://learn.microsoft.com/en-us/azure/api-management/api-management-sample-send-request)
+    - [Send messages to Azure Service Bus](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-send-service-bus)
     - [Manage secrets using named values](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-properties)
     - [Configure a GraphQL resolver](https://learn.microsoft.com/en-us/azure/api-management/configure-graphql-resolver)
   - Manage APIs on-premises and in other clouds
@@ -208,6 +209,7 @@
       - [Options to secure developer portal access](https://learn.microsoft.com/en-us/azure/api-management/secure-developer-portal-access)
       - [Authenticate with username and password](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-basic-authentication)
       - [Authenticate with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-aad)
+      - [Authenticate with Microsoft Entra External ID](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-entra-external-id)
       - [Authenticate with Azure AD B2C](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-aad-b2c)
       - [Delegate authentication](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-setup-delegation)
       - [Email notifications and templates](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-configure-notifications)
@@ -290,6 +292,7 @@
       - [return-response](https://learn.microsoft.com/en-us/azure/api-management/return-response-policy)
       - [rewrite-uri](https://learn.microsoft.com/en-us/azure/api-management/rewrite-uri-policy)
       - [send-one-way-request](https://learn.microsoft.com/en-us/azure/api-management/send-one-way-request-policy)
+      - [send-service-bus-message](https://learn.microsoft.com/en-us/azure/api-management/send-service-bus-message-policy)
       - [send-request](https://learn.microsoft.com/en-us/azure/api-management/send-request-policy)
       - [set-backend-service](https://learn.microsoft.com/en-us/azure/api-management/set-backend-service-policy)
       - [set-backend-service Dapr](https://learn.microsoft.com/en-us/azure/api-management/set-backend-service-dapr-policy)

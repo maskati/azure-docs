@@ -3,9 +3,10 @@
   - [Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
   - Get started
     - [What is Azure Firewall?](https://learn.microsoft.com/en-us/azure/firewall/overview)
+    - [Azure Firewall features by SKU](https://learn.microsoft.com/en-us/azure/firewall/features-by-sku)
     - [Architecture best practices for Azure Firewall](https://learn.microsoft.com/azure/well-architected/service-guides/azure-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
     - [What is Azure network security?](https://learn.microsoft.com/azure/networking/security/network-security?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
-    - [SKU comparison](https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku)
+    - [Choose the right SKU](https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku)
     - [Preview features](https://learn.microsoft.com/en-us/azure/firewall/firewall-preview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq.yml)
   - Design & architecture
@@ -30,16 +31,14 @@
     - [Integrate with load balancer](https://learn.microsoft.com/en-us/azure/firewall/integrate-lb)
   - Deploy
     - Firewall Basic
-      - [Features](https://learn.microsoft.com/en-us/azure/firewall/basic-features)
       - [Deploy Basic firewall](https://learn.microsoft.com/en-us/azure/firewall/deploy-firewall-basic-portal-policy)
     - Firewall Standard
-      - [Features](https://learn.microsoft.com/en-us/azure/firewall/features)
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy)
       - [PowerShell](https://learn.microsoft.com/en-us/azure/firewall/deploy-ps)
       - [With Azure CLI](https://learn.microsoft.com/en-us/azure/firewall/deploy-cli)
     - Firewall Premium
       - [Overview](https://learn.microsoft.com/en-us/azure/firewall/premium-portal)
-      - [Features](https://learn.microsoft.com/en-us/azure/firewall/premium-features)
+      - [Implementation guide](https://learn.microsoft.com/en-us/azure/firewall/premium-features)
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy)
       - [Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-certificates)
       - [Enterprise CA Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy-certificates-enterprise-ca)

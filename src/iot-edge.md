@@ -92,8 +92,6 @@
         - [Configure gateways for IoT Edge devices](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-connect-downstream-iot-edge-device)
         - [Configure the API proxy module](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-configure-api-proxy-module)
     - Azure SQL Edge on IoT Edge
-      - [Understand Azure SQL at the edge](https://learn.microsoft.com/en-us/azure/azure-sql-edge/overview?toc=/azure/iot-edge/toc.json&bc=/azure/iot-edge/breadcrumb/toc.json)
-      - [Deploy Azure SQL Edge modules](https://learn.microsoft.com/en-us/azure/azure-sql-edge/deploy-portal?toc=/azure/iot-edge/toc.json&bc=/azure/iot-edge/breadcrumb/toc.json)
     - [Manage with DevOps tools](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-continuous-integration-continuous-deployment)
     - Troubleshoot
       - [Diagnose IoT Edge devices](https://learn.microsoft.com/en-us/azure/iot-edge/troubleshoot)

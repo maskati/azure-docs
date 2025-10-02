@@ -284,7 +284,7 @@
     - [Microsoft Sentinel graph overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-graph-overview)
     - [Compare KQL jobs, summary rules, and search jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs-summary-rules-search-jobs)
     - Microsoft Sentinel MCP server
-      - [Microsoft Sentinel MCP server Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-overview)
+      - [Microsoft Sentinel MCP server overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-overview)
       - [Get started with Microsoft Sentinel MCP](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-get-started)
       - Tool collection in Microsoft Sentinel MCP
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-tools-overview)
@@ -350,7 +350,7 @@
       - [Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
       - [Microsoft Defender XDR](https://learn.microsoft.com/en-us/azure/sentinel/connect-microsoft-365-defender)
       - [Integrate Microsoft Purview](https://learn.microsoft.com/en-us/azure/sentinel/purview-solution)
-      - [Purview Information Protection data](https://learn.microsoft.com/en-us/azure/sentinel/connect-microsoft-purview)
+      - [Microsoft Purview Information Protection data](https://learn.microsoft.com/en-us/azure/sentinel/connect-microsoft-purview)
       - [Windows security events](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
     - [Configure ingestion-time transformation](https://learn.microsoft.com/en-us/azure/sentinel/configure-data-transformation)
     - [Configure RDP login detection](https://learn.microsoft.com/en-us/azure/sentinel/configure-connector-login-detection)
@@ -399,7 +399,7 @@
       - [Monitor and optimize execution of analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/monitor-optimize-analytics-rule-execution)
       - [Audit and monitor the health of analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/monitor-analytics-rule-integrity)
     - [Audit Microsoft Sentinel with Azure Activity Logs](https://learn.microsoft.com/en-us/azure/sentinel/audit-sentinel-data)
-    - [Audit Microsoft Sentinel data lake and graph in Purview portal](https://learn.microsoft.com/en-us/azure/sentinel/datalake/auditing-lake-activities)
+    - [Audit Microsoft Sentinel data lake and graph in Microsoft Purview portal](https://learn.microsoft.com/en-us/azure/sentinel/datalake/auditing-lake-activities)
     - [Remove Microsoft Sentinel from your workspaces](https://learn.microsoft.com/en-us/azure/sentinel/offboard)
   - Build and publish Microsoft Sentinel solutions
     - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-integration-guide)
