@@ -63,7 +63,6 @@
     - Configuration management
       - [Landing zone accelerator](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/app-platform/api-management/landing-zone-accelerator?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
       - [Manage using automation](https://learn.microsoft.com/en-us/azure/api-management/automation-manage-api-management)
-      - [Configure using Git](https://learn.microsoft.com/en-us/azure/api-management/api-management-configuration-repository-git)
       - [DevOps and CI/CD](https://learn.microsoft.com/en-us/azure/api-management/devops-api-development-templates)
     - Resiliency and reliability
       - [Reliability in API Management](https://learn.microsoft.com/azure/reliability/reliability-api-management?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)

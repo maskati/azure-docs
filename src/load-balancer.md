@@ -59,6 +59,8 @@
       - [Upgrade options and guidance](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-basic-upgrade-guidance)
       - [Upgrade from Basic to Standard with PowerShell](https://learn.microsoft.com/en-us/azure/load-balancer/upgrade-basic-standard-with-powershell)
     - [Standard Load Balancer and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-standard-virtual-machine-scale-sets)
+    - Migration to Azure
+      - [Migrate AWS Network Load Balancing](https://learn.microsoft.com/en-us/azure/load-balancer/network-load-balancing-aws-to-azure-how-to)
     - IP-based backend
       - [Create a public load balancer with an IP-based backend - Portal](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-ip-backend-portal)
     - Reliability
@@ -73,6 +75,7 @@
         - [Use Virtual Machine Scale Set instance with an existing Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/configure-vm-scale-set-portal)
     - [Using multiple IP configurations](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip)
     - [Move a load balancer across regions](https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-azure-load-balancer)
+    - Migrate to Azure
   - Secure
     - [Secure your load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/secure-load-balancer)
     - [Deploy public load balancer with DDoS protection](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer)

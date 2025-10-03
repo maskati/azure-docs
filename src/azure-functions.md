@@ -169,7 +169,6 @@
       - [Migrate to a zone-redundant plan](https://learn.microsoft.com/en-us/azure/reliability/migrate-functions?toc=%2fazure%2fazure-functions%2ftoc.json)
     - [Diagnostics](https://learn.microsoft.com/en-us/azure/azure-functions/functions-diagnostics)
     - [Consumption plan costs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-consumption-costs)
-    - [Serverless REST APIs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-proxies)
     - [Networking options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-options)
     - [IP addresses](https://learn.microsoft.com/en-us/azure/azure-functions/ip-addresses)
     - [Custom handlers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-custom-handlers)
@@ -258,7 +257,6 @@
       - [Set the runtime version](https://learn.microsoft.com/en-us/azure/azure-functions/set-runtime-version)
       - [Disable a function](https://learn.microsoft.com/en-us/azure/azure-functions/disable-function)
       - [Networking](https://learn.microsoft.com/en-us/azure/azure-functions/configure-networking-how-to)
-      - [Work with legacy Functions Proxies](https://learn.microsoft.com/en-us/azure/azure-functions/legacy-proxies)
     - Monitor
       - [Monitor Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions)
       - [Monitor function executions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-monitoring)
@@ -308,7 +306,6 @@
         - [API Management integration portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition)
         - [Visual Studio with API Management C#](https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio)
       - [Use a managed identity](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json)
-      - [Customize endpoints with legacy proxies](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api)
       - [Manage on-premises resources](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell)
     - Troubleshoot
       - [Storage connections](https://learn.microsoft.com/en-us/azure/azure-functions/functions-recover-storage-account)
