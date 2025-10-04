@@ -62,7 +62,7 @@
 [Defender External Attack Surface Management](./external-attack-surface-management.md)
 [Azure Firewall Manager documentation](./firewall-manager.md)
 [Azure Firewall documentation](./firewall.md)
-[Firmware analysis (preview)](./firmware-analysis.md)
+[Firmware analysis](./firmware-analysis.md)
 [Azure Front Door and CDN documentation](./frontdoor.md)
 [Azure HDInsight documentation](./hdinsight.md)
 [Azure Health Data Services documentation](./healthcare-apis.md)
