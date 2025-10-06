@@ -170,6 +170,18 @@
         - [Troubleshoot Apache Oozie](https://learn.microsoft.com/en-us/azure/hdinsight/troubleshoot-oozie)
         - [Troubleshoot Apache Sqoop](https://learn.microsoft.com/en-us/azure/hdinsight/troubleshoot-sqoop)
         - [Understand and resolve WebHCat errors](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-templeton-webhcat-debug-errors)
+    - Cluster operations with Entra ID authentication
+      - [Create and manage Entra ID enabled Azure HDInsight clusters](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/create-clusters-with-entra)
+      - [Manage Entra ID enabled clusters with ARM templates](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/manage-entra-id-enabled-azure-hdinsight-clusters-with-arm-templates)
+      - [Manage Entra ID enabled clusters using REST API](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/manage-entra-id-enabled-cluster-with-rest-api)
+      - [Manage Apache Hadoop clusters in Entra Auth enabled clusters by using the .NET SDK](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/manage-hadoop-cluster-dot-net-sdk)
+      - [Run Hadoop jobs on Entra ID enabled clusters using PowerShell](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/run-map-reduce-jobs-entra-id-enabled-using-powershell)
+      - [Run Apache Hive queries using PowerShell on Entra ID enabled clusters](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/run-apache-hive-queries-using-powershell-on-entra-enabled-hdinsight-cluster)
+      - [Run Spark jobs in Entra ID enabled clusters using Rest API](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/run-spark-jobs-using-rest-api)
+      - [Run Apache Hive queries in Entra ID enabled clusters using REST API](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/run-apache-hive-queries-using-rest-api)
+      - [Run MapReduce jobs In Entra ID enabled clusters using REST API](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/run-map-reduce-rest-jobs)
+      - [Run MapReduce jobs Entra ID enabled clusters using .NET SDK](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/run-map-reduce-jobs-dot-net-sdk)
+      - [Run Hive Queries In Entra ID enabled clusters using .NET SDK](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-with-entra-authentication/run-hive-queries-using-dot-net-sdk)
     - Reference
       - [Azure CLI](https://learn.microsoft.com/cli/azure/hdinsight)
       - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.hdinsight)

@@ -133,7 +133,7 @@
     - [Monitoring data reference](https://learn.microsoft.com/azure/redis/monitor-cache-reference)
   - Resources
     - [Azure Redis FAQ](https://learn.microsoft.com/azure/redis/faq)
-    - [Retirements from Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-retired-features)
+    - [Azure Cache for Redis retirement FAQ](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/retirement-faq.yml)
     - [Videos](https://www.youtube.com/results?search_query=azure+cache+redis)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/170/azure-cache-redis)
     - [Pricing](https://azure.microsoft.com/pricing/details/cache/)

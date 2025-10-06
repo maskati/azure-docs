@@ -313,7 +313,7 @@
     - [Tutorial - Forward syslog data to workspace](https://learn.microsoft.com/en-us/azure/sentinel/forward-syslog-monitor-agent)
     - [Connect data sources](https://learn.microsoft.com/en-us/azure/sentinel/configure-data-connector)
     - [Set up connectors for the Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-connectors)
-    - [Enable asset data Preview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/enable-data-connectors)
+    - [Asset data in the Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/enable-data-connectors)
     - [Unified connectors overview](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector)
     - [Integrate with unified connectors](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector-integration)
     - [Ingestion-time data transformation](https://learn.microsoft.com/en-us/azure/sentinel/data-transformation)
