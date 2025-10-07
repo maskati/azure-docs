@@ -113,7 +113,7 @@
       - [Add caching to improve performance](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-cache)
       - [Custom caching](https://learn.microsoft.com/en-us/azure/api-management/api-management-sample-cache-by-key)
   - API management for AI
-    - [AI gateway capabilities in API Management](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
+    - [AI gateway capabilities](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
     - Manage LLM APIs
       - [Import Azure AI Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
       - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)

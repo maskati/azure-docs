@@ -45,8 +45,6 @@
     - [Create and deploy a container app from code](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-deploy-from-code)
     - [Update a container app deployed from code](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-update-from-code)
     - Connect to apps & services
-      - Connect to services
-        - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/services)
       - [Communicate between multiple apps](https://learn.microsoft.com/en-us/azure/container-apps/connect-apps)
       - Connect to a cloud service using Service Connector
         - [.NET app with Blob Storage](https://learn.microsoft.com/en-us/azure/container-apps/service-connector)

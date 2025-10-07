@@ -176,6 +176,7 @@
         - [Create](https://learn.microsoft.com/en-us/azure/business-continuity-center/backup-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
         - [Manage](https://learn.microsoft.com/en-us/azure/business-continuity-center/manage-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-configure-protection-datasource?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Reconfigure backup in an alternate vault](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-reconfigure-backup-alternate-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Recover item](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-recover-deleted-item?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [View protected items and perform actions](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protected-items-and-perform-actions?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Review security posture](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-review-security-posture?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
