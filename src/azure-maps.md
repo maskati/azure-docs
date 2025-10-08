@@ -21,7 +21,6 @@
     - [Azure Maps Event Grid integration](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-event-grid-integration)
     - [Azure Maps geographic scope](https://learn.microsoft.com/en-us/azure/azure-maps/geographic-scope)
     - [Consent management](https://learn.microsoft.com/en-us/azure/azure-maps/consent-management)
-    - [Encryption of data at rest](https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest)
     - [Azure Services that support managed identities](https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
     - Coverage
       - [Coverage](https://learn.microsoft.com/en-us/azure/azure-maps/geographic-coverage)

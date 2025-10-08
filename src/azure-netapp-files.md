@@ -155,6 +155,7 @@
         - [Configure NFSv4.1 ID domain](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-configure-nfsv41-domain)
         - [Configure NFSv4.1 Kerberos encryption](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-kerberos-encryption)
         - [Configure AD DS LDAP with extended groups for NFS](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-ldap-extended-groups)
+        - [Configure LDAP server](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-directory-server)
         - [Configure an NFS client for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-nfs-clients)
         - [Convert an NFS volume between NFSv3 and NFSv4.1](https://learn.microsoft.com/en-us/azure/azure-netapp-files/convert-nfsv3-nfsv41)
         - [Disable showmount](https://learn.microsoft.com/en-us/azure/azure-netapp-files/disable-showmount)
