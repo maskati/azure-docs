@@ -62,9 +62,7 @@
         - [Availability zones](https://learn.microsoft.com/azure/mysql/flexible-server/concepts-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/azure/mysql/flexible-server/how-to-restore-server-portal?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Database for PostgreSQL - Flexible Server](https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server)
-      - Azure SQL Database
-        - [Availability zones](https://learn.microsoft.com/azure/azure-sql/database/high-availability-sla?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-database)
       - [Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-managed-instance)
     - Developer tools
       - [Azure API Center](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-center)
@@ -190,7 +188,7 @@
         - [Azure Recovery Services vault](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
         - [Azure Service Fabric](https://learn.microsoft.com/en-us/azure/reliability/migrate-service-fabric)
         - [Azure Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-outages-disasters)
-        - [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/database/enable-zone-redundancy?view=azuresql-db&preserve-view=true&toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+        - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-database)
         - [Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-managed-instance)
         - [Azure Virtual Machines and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/migrate-vm)
   - Reliability concepts

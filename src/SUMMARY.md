@@ -99,7 +99,6 @@
 [Private Link documentation](./private-link.md)
 [Azure Redis Documentation](./redis.md)
 [Azure reliability documentation](./reliability.md)
-[Azure Remote Rendering documentation](./remote-rendering.md)
 [Azure Resource Mover documentation](./resource-mover.md)
 [Azure RBAC documentation](./role-based-access-control.md)
 [Azure Route Server documentation](./route-server.md)

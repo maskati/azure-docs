@@ -10,6 +10,7 @@
     - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
     - [What is network foundations?](https://learn.microsoft.com/azure/networking/foundations/network-foundations-overview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq.yml)
+    - [Cost optimization](https://learn.microsoft.com/en-us/azure/private-link/private-link-cost-optimization)
   - Configure
     - Create a private endpoint
       - [Create a private endpoint - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal)
