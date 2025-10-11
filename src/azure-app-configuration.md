@@ -195,7 +195,7 @@
       - Java Spring
         - [Feature reference](https://go.microsoft.com/fwlink/?linkid=2180917)
         - [Azure SDK for Java](https://go.microsoft.com/fwlink/?linkid=2098196)
-        - [Migration guide to version 4.7](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-convert-to-the-new-spring-boot)
+        - [Upgrade guide to version 6](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-convert-to-the-new-spring-boot)
       - Python
         - [Feature reference](https://pypi.org/project/azure-appconfiguration-provider/)
         - [Azure SDK for Python](https://go.microsoft.com/fwlink/?linkid=2103727)

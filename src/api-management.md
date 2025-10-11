@@ -177,7 +177,7 @@
       - [Credential manager overview](https://learn.microsoft.com/en-us/azure/api-management/credentials-overview)
       - [Managed connections - process flows](https://learn.microsoft.com/en-us/azure/api-management/credentials-process-flow)
       - [Configure common credential providers](https://learn.microsoft.com/en-us/azure/api-management/credentials-configure-common-providers)
-      - [Configure credential manager - Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/api-management/credentials-how-to-azure-ad)
+      - [Configure credential manager - Microsoft Graph API](https://learn.microsoft.com/en-us/azure/api-management/credentials-how-to-azure-ad)
       - [Configure credential manager - GitHub](https://learn.microsoft.com/en-us/azure/api-management/credentials-how-to-github)
       - [Configure credential manager - user-delegated permissions](https://learn.microsoft.com/en-us/azure/api-management/credentials-how-to-user-delegated)
       - [Configure multiple connections](https://learn.microsoft.com/en-us/azure/api-management/configure-credential-connection)

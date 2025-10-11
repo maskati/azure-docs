@@ -5,10 +5,10 @@
     - [What is Azure Operator Service Manager?](https://learn.microsoft.com/en-us/azure/operator-service-manager/azure-operator-service-manager-overview)
     - [Azure Operator Service Manager Release Notes](https://learn.microsoft.com/en-us/azure/operator-service-manager/release-notes)
   - Concepts
-    - Basic Concepts
+    - Getting Started
       - [Role-Based Persona Model](https://learn.microsoft.com/en-us/azure/operator-service-manager/roles-interfaces)
       - [Tenants, Subscriptions and Regions](https://learn.microsoft.com/en-us/azure/operator-service-manager/publisher-resource-preview-management)
-      - [Get Started with Onboarding and Deploying](https://learn.microsoft.com/en-us/azure/operator-service-manager/best-practices-onboard-deploy)
+      - [Onboarding and Deploying Basics](https://learn.microsoft.com/en-us/azure/operator-service-manager/best-practices-onboard-deploy)
     - Publisher Best Practices
       - [Helm Package Requirements](https://learn.microsoft.com/en-us/azure/operator-service-manager/helm-requirements)
       - [Publisher Resource Cleanup Management](https://learn.microsoft.com/en-us/azure/operator-service-manager/resource-cleanup-management)
