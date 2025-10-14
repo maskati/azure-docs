@@ -30,10 +30,6 @@
     - [Revisions](https://learn.microsoft.com/en-us/azure/container-apps/revisions)
     - [Application lifecycle management](https://learn.microsoft.com/en-us/azure/container-apps/application-lifecycle-management)
     - [Jobs](https://learn.microsoft.com/en-us/azure/container-apps/jobs)
-    - Dynamic sessions
-      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
-      - [Usage](https://learn.microsoft.com/en-us/azure/container-apps/sessions-usage)
-      - [Session pools](https://learn.microsoft.com/en-us/azure/container-apps/session-pool)
     - [Microservices](https://learn.microsoft.com/en-us/azure/container-apps/microservices)
     - [Planned maintenance](https://learn.microsoft.com/en-us/azure/container-apps/planned-maintenance)
     - [Build and deliver apps with Container Apps video](https://youtu.be/OxmVds31qL8)
@@ -92,6 +88,18 @@
         - [Target port](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-target-port-settings)
         - [Container start](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-start-failures)
     - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
+  - AI integration
+    - [AI integration](https://learn.microsoft.com/en-us/azure/container-apps/ai-integration)
+    - GPUs
+      - [Serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview)
+      - [GPU types](https://learn.microsoft.com/en-us/azure/container-apps/gpu-types)
+      - Tutorials
+        - [Generate images with serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation)
+        - [Deploy an NVIDIA Llama3 NIM](https://learn.microsoft.com/en-us/azure/container-apps/serverless-gpu-nim)
+    - Dynamic sessions
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
+      - [Usage](https://learn.microsoft.com/en-us/azure/container-apps/sessions-usage)
+      - [Session pools](https://learn.microsoft.com/en-us/azure/container-apps/session-pool)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
     - Troubleshoot and resolve issues with an agent
@@ -145,12 +153,6 @@
     - Manage workload profiles
       - [CLI](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-cli)
       - [Portal](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-portal)
-  - GPUs
-    - [Serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview)
-    - [GPU types](https://learn.microsoft.com/en-us/azure/container-apps/gpu-types)
-    - Tutorials
-      - [Generate images with serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation)
-      - [Deploy an NVIDIA Llama3 NIM](https://learn.microsoft.com/en-us/azure/container-apps/serverless-gpu-nim)
   - Microservices
     - Developing with Dapr
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview)
