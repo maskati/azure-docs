@@ -12,6 +12,7 @@
       - [Understand NAS](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-storage-concept)
       - [Understand NAS protocols](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-storage-protocols)
       - [Understand SMB support](https://learn.microsoft.com/en-us/azure/azure-netapp-files/sever-message-block-support)
+      - [Understand Object REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/object-rest-api-introduction)
       - Understand NAS permissions
         - [Understand NAS share permissions](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-storage-permissions)
         - [Understand NAS file permissions](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-file-permissions)
@@ -165,6 +166,11 @@
         - [Use DFS-N and DFS Root Consolidation with Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/use-dfs-n-and-dfs-root-consolidation-with-azure-netapp-files)
       - Manage dual-protocol volumes
         - [Create a dual-protocol volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-volumes-dual-protocol)
+      - Manage object REST API access
+        - [Configure object REST API access](https://learn.microsoft.com/en-us/azure/azure-netapp-files/object-rest-api-access-configure)
+        - [Connect to Azure Databricks](https://learn.microsoft.com/en-us/azure/azure-netapp-files/object-rest-api-databricks)
+        - [Connect to OneLake](https://learn.microsoft.com/en-us/azure/azure-netapp-files/object-rest-api-onelake)
+        - [Access volumes with an S3-compatible client](https://learn.microsoft.com/en-us/azure/azure-netapp-files/object-rest-api-browser)
       - [Migrate volumes to Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/migrate-volumes)
       - Manage volume access and encryption
         - [Configure export policy for NFS or dual protocol](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-configure-export-policy)

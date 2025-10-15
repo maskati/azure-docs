@@ -47,6 +47,7 @@
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal-policy)
       - [PowerShell](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-ps)
     - [Firewall with inbound DNAT rules](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat-policy)
+    - [Private IP DNAT for overlapped and non-routable networks](https://learn.microsoft.com/en-us/azure/firewall/tutorial-private-ip-dnat)
     - [Firewall with DDoS protection](https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall)
     - [Integrate NAT gateway with Azure Firewall](https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-hub-spoke-nat-firewall?toc=%2fazure%2ffirewall%2ftoc.json)
     - Deploy with IP Groups
@@ -107,6 +108,7 @@
     - Monitoring
       - [Logs and metrics](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall)
       - [Azure Firewall Workbooks](https://learn.microsoft.com/en-us/azure/firewall/firewall-workbook)
+      - [Track rule set changes](https://learn.microsoft.com/en-us/azure/firewall/rule-set-change-tracking)
     - [Threat intelligence](https://learn.microsoft.com/en-us/azure/firewall/threat-intel)
     - [Best practices for performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-best-practices)
     - [Relocate to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
