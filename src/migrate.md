@@ -25,25 +25,28 @@
     - Discovery using appliance
       - [Appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
       - [Register appliance using pre-configured Entra app](https://learn.microsoft.com/en-us/azure/migrate/how-to-register-appliance-using-entra-app)
-      - Discover VMware
-        - [Discover VMware estate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
-        - [Scoped discovery of VMware estate](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
-        - [Support matrix for VMware discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware)
-      - Discover Hyper-V estate
-        - [Discover Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
-        - [Hyper-V discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v)
-      - Discover physical servers
-        - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
-        - [Physical server discovery support](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical)
       - Appliance configuration
         - [Provide server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
         - [Appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
-      - Discover workloads
-        - [Discover SQL servers and Webapps](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-sql-existing-project)
-        - [Discover MySQL database instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-mysql-database-instances)
-        - [Discover software, databases, and web apps](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
-        - [Create least privileged credentials for SQL discovery](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
-        - [Create least privileged credentials for PostgreSQL discovery](https://learn.microsoft.com/en-us/azure/migrate/postgresql-least-privilege-configuration)
+      - Discover VMware
+        - [Discover VMware Virtual Machines](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
+        - [Scoped discovery of VMware hosted VMs](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
+        - [Support matrix for VMware discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware)
+      - Discover Hyper-V Virtual Machines
+        - [Discover Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
+        - [Support matrix for Hyper-V discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v)
+      - Discover physical servers
+        - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
+        - [Support matrix for Physical server discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical)
+      - [Discover softwares and workloads](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
+      - Deep discover database workloads
+        - SQL instances
+          - [Discover SQL servers](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-sql-existing-project)
+          - [Create least privileged credentials for SQL discovery](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
+        - PgSQL instances
+          - [Create least privileged credentials for PostgreSQL discovery](https://learn.microsoft.com/en-us/azure/migrate/postgresql-least-privilege-configuration)
+        - MySQL instances
+          - [Discover MySQL database instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-mysql-database-instances)
     - Discover using inventory import
       - [CSV import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import)
       - [RVTools import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-import-vmware-using-rvtools-xlsx)
@@ -87,6 +90,10 @@
         - Webapp assessment
           - [Create a Webapp assessment](https://learn.microsoft.com/en-us/azure/migrate/create-web-app-assessment)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-web-app-assessment)
+        - AVS assessment
+          - [Create an AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
+          - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)
+          - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-azure-vmware-solution-assessment)
   - Execute migrations
     - [Overview of migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
     - Support Matrix

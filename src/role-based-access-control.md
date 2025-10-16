@@ -35,15 +35,15 @@
   - How-to guides
     - [List role definitions](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-definitions-list.yml)
     - List role assignments
-      - [Portal](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-portal.yml)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-powershell.yml)
-      - [CLI](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-cli.yml)
+      - [Portal](https://learn.microsoft.com/azure/role-based-access-control/role-assignments-list-portal)
+      - [PowerShell](https://learn.microsoft.com/azure/role-based-access-control/role-assignments-list-powershell)
+      - [CLI](https://learn.microsoft.com/azure/role-based-access-control/role-assignments-list-cli)
       - [REST API](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-rest)
     - Assign roles
       - [Steps to assign a role](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-steps)
       - Portal
-        - [Assign roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal.yml)
-        - [Managed identity](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal-managed-identity.yml)
+        - [Assign roles](https://learn.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+        - [Managed identity](https://learn.microsoft.com/azure/role-based-access-control/role-assignments-portal-managed-identity)
         - [External users](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-external-users)
       - [PowerShell](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-powershell)
       - [CLI](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-cli)
@@ -53,7 +53,7 @@
       - [Eligible and time-bound](https://learn.microsoft.com/en-us/azure/role-based-access-control/pim-integration)
       - [Activate eligible roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-eligible-activate)
     - Delegate
-      - [Subscription administrator with conditions](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal-subscription-admin.yml)
+      - [Subscription administrator with conditions](https://learn.microsoft.com/azure/role-based-access-control/role-assignments-portal-subscription-admin)
       - [Delegate role assignment management with conditions](https://learn.microsoft.com/en-us/azure/role-based-access-control/delegate-role-assignments-portal)
     - Add or edit ABAC conditions
       - [Portal](https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-role-assignments-portal)

@@ -211,7 +211,6 @@
       - [Site-to-site error codes and solutions](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-error-codes)
       - [Site-to-site connection disconnects intermittently](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-disconnected-intermittently)
     - [Validate VPN throughput to a VNet](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-validate-throughput-to-vnet)
-    - [Community-suggested VPN or firewall device settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-third-party-settings)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
     - [REST](https://learn.microsoft.com/rest/api/network/virtualnetworkgateways)
