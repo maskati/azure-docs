@@ -228,6 +228,7 @@
       - [Secure logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app)
       - [Secure agent workflows with Easy Auth](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-authentication-agent-workflows)
       - [Authenticate with managed identities](https://learn.microsoft.com/en-us/azure/logic-apps/authenticate-with-managed-identity)
+      - [Authorize agent access to resources with OBO](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-on-behalf-of-user-flow)
       - [Block connector usage](https://learn.microsoft.com/en-us/azure/logic-apps/block-connections-connectors)
       - [Block connections across tenants](https://learn.microsoft.com/en-us/azure/logic-apps/block-connections-across-tenants)
     - Manage

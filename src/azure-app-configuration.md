@@ -90,6 +90,7 @@
     - Chat completion
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-chat-completion-config)
       - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-chat-completion-dotnet)
+      - [Go](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-chat-completion-go)
   - Feature management
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
     - [Experimentation](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-experimentation)
