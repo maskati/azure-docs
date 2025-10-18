@@ -198,7 +198,8 @@
         - [Azure SDK for Java](https://go.microsoft.com/fwlink/?linkid=2098196)
         - [Upgrade guide to version 6](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-convert-to-the-new-spring-boot)
       - Python
-        - [Feature reference](https://pypi.org/project/azure-appconfiguration-provider/)
+        - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-python-provider)
+        - [Pypi](https://pypi.org/project/azure-appconfiguration-provider/)
         - [Azure SDK for Python](https://go.microsoft.com/fwlink/?linkid=2103727)
       - JavaScript
         - [Feature reference](https://learn.microsoft.com/en-us/azure/azure-app-configuration/reference-javascript-provider)
