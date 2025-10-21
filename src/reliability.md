@@ -79,6 +79,7 @@
       - [Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy?bc=%2fazure%2freliability%2fbreadcrumb%2ftoc.json&toc=%2fazure%2freliability%2ftoc.json)
       - [Azure Data Manager for Energy](https://learn.microsoft.com/en-us/azure/reliability/reliability-energy-data-services)
       - [Azure Event Grid](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid)
+      - [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs)
       - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/reliability-functions)
       - Azure Health Data Services
         - [Workspace services FHIR, DICOM, MedTech](https://learn.microsoft.com/azure/healthcare-apis/business-continuity-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

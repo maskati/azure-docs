@@ -14,9 +14,9 @@
       - [Create an API center - ARM template](https://learn.microsoft.com/en-us/azure/api-center/set-up-api-center-arm-template)
       - [Create an API center - Visual Studio Code](https://learn.microsoft.com/en-us/azure/api-center/set-up-api-center-vs-code-extension)
     - Tutorials
-      - [1 - Define custom metadata](https://learn.microsoft.com/en-us/azure/api-center/add-metadata-properties)
-      - [2 - Add APIs to the inventory](https://learn.microsoft.com/en-us/azure/api-center/register-apis)
-      - [3 - Add environments and deployments](https://learn.microsoft.com/en-us/azure/api-center/configure-environments-deployments)
+      - [1 - Define custom metadata](https://learn.microsoft.com/en-us/azure/api-center/tutorials/add-metadata-properties)
+      - [2 - Add APIs to the inventory](https://learn.microsoft.com/en-us/azure/api-center/tutorials/register-apis)
+      - [3 - Add environments and deployments](https://learn.microsoft.com/en-us/azure/api-center/tutorials/configure-environments-deployments)
   - API inventory
     - [Manage inventory - Azure CLI](https://learn.microsoft.com/en-us/azure/api-center/manage-apis-azure-cli)
     - [Import APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/import-api-management-apis)
