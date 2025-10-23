@@ -111,6 +111,7 @@
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-aspnet-core)
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-javascript)
       - [Go Gin](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-targetingfilter-go)
+      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-targeting-filter-python)
     - Use variant feature flags
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-aspnet-core)

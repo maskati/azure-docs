@@ -130,6 +130,7 @@
     - [PowerShell](https://learn.microsoft.com/powershell/module/az.devtestlabs)
     - [PowerShell - sample Az.DevTestLabs2 module](https://github.com/Azure/azure-devtestlab/tree/master/samples/DevTestLabs/Modules/Library)
     - [REST API](https://learn.microsoft.com/rest/api/dtl/)
+    - [Deploy a DevTest Lab](https://github.com/Azure/bicep-registry-modules/tree/main/avm/res/dev-test-lab/lab)
     - [ARM templates](https://learn.microsoft.com/azure/templates/microsoft.devtestlab/allversions)
   - Resources
     - [Azure updates](https://azure.microsoft.com/updates/?product=devtest-lab)

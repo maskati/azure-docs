@@ -19,7 +19,6 @@
     - [Assessment rules for PostgreSQL](https://learn.microsoft.com/en-us/azure/migrate/assessment-rules-for-postgresql)
     - [Agentless migration architecture](https://learn.microsoft.com/en-us/azure/migrate/concepts-vmware-agentless-migration)
     - [Hyper-V migration architecture](https://learn.microsoft.com/en-us/azure/migrate/hyper-v-migration-architecture)
-    - [VMware to Azure disaster recovery hyper-v-migration-architecture.md](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-architecture-modernized?toc=/azure/migrate/toc.json)
   - Discover inventory
     - [Discovery methods](https://learn.microsoft.com/en-us/azure/migrate/discovery-methods-modes)
     - Discovery using appliance
@@ -96,6 +95,8 @@
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-azure-vmware-solution-assessment)
   - Execute migrations
     - [Overview of migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
+    - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
+    - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
     - Support Matrix
       - [VMware vSphere migration requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration)
       - [Physical Agent-based migration requirements](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-support-matrix?toc=/azure/migrate/toc.json)
@@ -111,7 +112,7 @@
   - Tutorials
     - Migration scenarios
       - Migrate VMware servers
-        - [Assess VMWare servers](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-access-private-cloud?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
+        - [Assess VMware servers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vm)
         - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
         - [Migrate to Azure Local](https://learn.microsoft.com/azure/azure-local/migrate/migration-azure-migrate-vmware-overview?toc=/azure/migrate/toc.json)
       - Migrate Hyper-V servers
