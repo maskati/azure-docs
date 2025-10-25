@@ -4,15 +4,18 @@
   - Overview
     - [What is Azure Storage Mover?](https://learn.microsoft.com/en-us/azure/storage-mover/service-overview)
     - [Cloud migration basics](https://learn.microsoft.com/en-us/azure/storage-mover/migration-basics)
-    - [Get started with cloud-to-cloud migration](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
   - Concepts
-    - [Planning for a deployment](https://learn.microsoft.com/en-us/azure/storage-mover/deployment-planning)
     - [Resource hierarchy](https://learn.microsoft.com/en-us/azure/storage-mover/resource-hierarchy)
     - [Migration costs](https://learn.microsoft.com/en-us/azure/storage-mover/billing)
-    - [Performance targets](https://learn.microsoft.com/en-us/azure/storage-mover/performance-targets)
   - How-To
-    - Deploy
+    - Plan
+      - [Planning for a deployment](https://learn.microsoft.com/en-us/azure/storage-mover/deployment-planning)
+      - [Service prerequisites](https://learn.microsoft.com/en-us/azure/storage-mover/service-prerequisites)
+      - [Network prerequisites](https://learn.microsoft.com/en-us/azure/storage-mover/network-prerequisites)
+      - [Performance targets](https://learn.microsoft.com/en-us/azure/storage-mover/performance-targets)
+    - Deploy and execute
       - [Create a storage mover resource](https://learn.microsoft.com/en-us/azure/storage-mover/storage-mover-create)
+      - [Migrate from Amazon S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
       - [Deploy a storage mover agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy)
       - [Register an agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-register)
       - [Create endpoints](https://learn.microsoft.com/en-us/azure/storage-mover/endpoint-manage)
@@ -23,6 +26,7 @@
     - Decommission
       - [Unregister an agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy)
     - Troubleshoot
+      - [Troubleshoot network issues](https://learn.microsoft.com/en-us/azure/storage-mover/network-troubleshooting)
       - [Job run error codes](https://learn.microsoft.com/en-us/azure/storage-mover/status-code)
       - [Collect a support bundle](https://learn.microsoft.com/en-us/azure/storage-mover/troubleshooting)
   - Resources

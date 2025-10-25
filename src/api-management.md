@@ -29,6 +29,7 @@
       - [8 - Add multiple versions](https://learn.microsoft.com/en-us/azure/api-management/api-management-get-started-publish-versions)
       - [9 - Customize developer portal](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-developer-portal-customize)
       - [10 - Manage APIs in Visual Studio Code](https://learn.microsoft.com/en-us/azure/api-management/visual-studio-code-tutorial)
+      - [11 - Link to an API Center](https://learn.microsoft.com/en-us/azure/api-management/tutorials/link-api-center)
   - Deployment and operations
     - Provision and scale
       - [Use capacity for scaling decisions](https://learn.microsoft.com/en-us/azure/api-management/api-management-capacity)

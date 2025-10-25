@@ -33,7 +33,7 @@
     - Security
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/role-based-access-control/security-controls-policy)
   - How-to guides
-    - [List role definitions](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-definitions-list.yml)
+    - [List role definitions](https://learn.microsoft.com/azure/role-based-access-control/role-definitions-list)
     - List role assignments
       - [Portal](https://learn.microsoft.com/azure/role-based-access-control/role-assignments-list-portal)
       - [PowerShell](https://learn.microsoft.com/azure/role-based-access-control/role-assignments-list-powershell)
@@ -65,7 +65,7 @@
       - [ABAC for Log Analytics](https://go.microsoft.com/fwlink/?linkid=2324519)
       - [ABAC for Container Registry](https://go.microsoft.com/fwlink/?linkid=2324520)
       - [Conditions and custom security attributes](https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-custom-security-attributes)
-    - [Remove role assignments](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-remove.yml)
+    - [Remove role assignments](https://learn.microsoft.com/azure/role-based-access-control/role-assignments-remove)
     - [List deny assignments](https://learn.microsoft.com/en-us/azure/role-based-access-control/deny-assignments)
     - Create custom roles
       - [Overview](https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles)

@@ -82,6 +82,7 @@
     - DNS proxy
       - [Overview](https://learn.microsoft.com/en-us/azure/firewall/dns-details)
       - [DNS proxy settings](https://learn.microsoft.com/en-us/azure/firewall/dns-settings)
+    - [Prescaling](https://learn.microsoft.com/en-us/azure/firewall/prescaling)
     - Tags
       - [FQDN tags](https://learn.microsoft.com/en-us/azure/firewall/fqdn-tags)
       - [Service tags](https://learn.microsoft.com/en-us/azure/firewall/service-tags)
@@ -105,7 +106,6 @@
     - [Change Azure Firewall SKU](https://learn.microsoft.com/en-us/azure/firewall/change-sku)
     - [Migrate to Premium using Terraform](https://learn.microsoft.com/azure/developer/terraform/firewall-upgrade-premium?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
   - Operational excellence
-    - [Prescaling](https://learn.microsoft.com/en-us/azure/firewall/prescaling)
     - Monitoring
       - [Logs and metrics](https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall)
       - [Azure Firewall Workbooks](https://learn.microsoft.com/en-us/azure/firewall/firewall-workbook)

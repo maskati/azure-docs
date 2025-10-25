@@ -17,6 +17,7 @@
       - [1 - Define custom metadata](https://learn.microsoft.com/en-us/azure/api-center/tutorials/add-metadata-properties)
       - [2 - Add APIs to the inventory](https://learn.microsoft.com/en-us/azure/api-center/tutorials/register-apis)
       - [3 - Add environments and deployments](https://learn.microsoft.com/en-us/azure/api-center/tutorials/configure-environments-deployments)
+      - [4 - Link an API Management instance](https://learn.microsoft.com/en-us/azure/api-management/tutorials/link-api-center)
   - API inventory
     - [Manage inventory - Azure CLI](https://learn.microsoft.com/en-us/azure/api-center/manage-apis-azure-cli)
     - [Import APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/import-api-management-apis)
