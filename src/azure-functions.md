@@ -10,80 +10,36 @@
     - [Serverless comparison](https://learn.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs)
     - [Hosting plan options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale)
   - Quickstarts
-    - Create your first function
-      - C#
-        - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-vs-code?pivots=programming-language-csharp)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-csharp)
-        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-csharp)
-      - Java
+    - Scenarios
+      - [Scalable web API](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
+      - Respond to database changes
+        - [Azure Cosmos DB NoSQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-cosmosdb)
+        - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-sqldb)
+    - Developer tools
+      - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
+      - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli)
+      - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-vs-code)
+      - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
+      - Other
         - [Eclipse](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-eclipse)
         - [Gradle](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-gradle)
         - [IntelliJ IDEA](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij)
-        - [Maven](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-java)
         - [Quarkus](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-quarkus)
         - [Spring Cloud](https://learn.microsoft.com/azure/developer/java/spring-framework/getting-started-with-spring-cloud-function-in-azure?toc=/azure/azure-functions/toc.json)
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-vs-code?pivots=programming-language-java)
-        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-java)
-      - JavaScript
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-vs-code?pivots=programming-language-javascript)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-javascript)
-        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-javascript)
-      - PowerShell
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-vs-code?pivots=programming-language-powershell)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-powershell)
-        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-powershell)
-      - Python
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-vs-code?pivots=programming-language-python)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-python)
-        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-python)
-      - TypeScript
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-vs-code?pivots=programming-language-typescript)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-typescript)
-        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-typescript)
-      - [Other Go/Rust](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-other)
-      - Resource Manager
-        - [Bicep](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-bicep)
-        - [ARM template](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-resource-manager)
-        - [Terraform](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-terraform)
-      - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container-apps)
-    - Connect to storage
-      - C#
+    - Resource Manager
+      - [Bicep](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-bicep)
+      - [ARM template](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-resource-manager)
+      - [Terraform](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-terraform)
+      - [Custom handlers Go/Rust](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-other)
+    - Connect to services
+      - Storage
         - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs)
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-csharp)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-csharp)
-      - Java
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-java)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-java)
-      - JavaScript
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-javascript)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-javascript)
-      - PowerShell
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-powershell)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-powershell)
-      - Python
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-python)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-python)
-      - TypeScript
-        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-typescript)
-        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-typescript)
-    - Connect to a database
-      - C#
-        - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-csharp)
-        - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-csharp)
-      - JavaScript
-        - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-javascript)
-        - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-javascript)
-      - Python
-        - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-python)
-        - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-python)
-    - Connect to OpenAI
-      - [C#](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-csharp)
-      - [Java](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-java)
-      - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-javascript)
-      - [PowerShell](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-powershell)
-      - [Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-python)
-      - [TypeScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-typescript)
+        - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code)
+        - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli)
+      - Databases
+        - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code)
+        - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code)
+      - [OpenAI](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion)
   - Tutorials
     - [Functions with Logic Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-twitter-email)
     - [Develop Python functions with VS Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
@@ -216,7 +172,6 @@
           - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-app-service-plan)
           - [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-premium-plan)
           - [Linux container Premium](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container)
-        - [Azure Cosmos DB trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function)
         - [Blob storage trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
         - [Queue storage trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-queue-triggered-function)
         - [Timer trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function)
@@ -245,6 +200,7 @@
         - [Work with containers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-custom-container)
         - [Create functions in containers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-container-registry)
         - [Functions in Kubernetes](https://learn.microsoft.com/en-us/azure/azure-functions/functions-kubernetes-keda)
+        - [Azure Container Apps hosting legacy](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container-apps)
       - [Build and deploy using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops)
       - [Build and deploy using GitHub Actions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions)
       - [Zip deployment](https://learn.microsoft.com/en-us/azure/azure-functions/deployment-zip-push)
@@ -300,7 +256,6 @@
           - [Python](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-python?toc=/azure/azure-functions/toc.json)
         - [Web PubSub](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-serverless-notification?toc=/azure/azure-functions/toc.json)
         - [Work with Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/event-grid-how-tos)
-      - [Connect to SQL Database](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenario-database-table-cleanup)
       - [Connect to a virtual Network](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet)
       - Create OpenAPI definitions
         - [API Management integration portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition)
