@@ -146,8 +146,13 @@
         - [Handle ingestion delay in analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/ingestion-delay)
         - [Get fine-tuning recommendations](https://learn.microsoft.com/en-us/azure/sentinel/detection-tuning)
         - [Troubleshoot analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/troubleshoot-analytics-rules)
-      - [Tutorial - Detect threats using analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-log4j-detection)
-      - [MITRE ATT&CK coverage](https://learn.microsoft.com/en-us/azure/sentinel/mitre-coverage)
+        - [Tutorial - Detect threats using analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-log4j-detection)
+        - [MITRE ATT&CK coverage](https://learn.microsoft.com/en-us/azure/sentinel/mitre-coverage)
+        - [Compare analytics rules and custom detections](https://learn.microsoft.com/en-us/azure/sentinel/compare-analytics-rules-custom-detections)
+      - Custom detections in the Defender portal
+        - [Overview](https://learn.microsoft.com/defender-xdr/custom-detections-overview?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Create detection rules](https://learn.microsoft.com/defender-xdr/custom-detection-rules?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+        - [Manage detection rules](https://learn.microsoft.com/defender-xdr/custom-detection-manage?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - Data classification with entities
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/entities)
         - [Entity pages](https://learn.microsoft.com/en-us/azure/sentinel/entity-pages)

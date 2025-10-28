@@ -37,7 +37,7 @@
       - Discover physical servers
         - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
         - [Support matrix for Physical server discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical)
-      - [Discover softwares and workloads](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
+      - [Discover software and workloads](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
       - Deep discover database workloads
         - SQL instances
           - [Discover SQL servers](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-sql-existing-project)
@@ -53,6 +53,7 @@
     - [Discovered metadata](https://learn.microsoft.com/en-us/azure/migrate/discovered-metadata)
     - [Review discovered inventory](https://learn.microsoft.com/en-us/azure/migrate/how-to-review-discovered-inventory)
     - [Tags](https://learn.microsoft.com/en-us/azure/migrate/resource-tagging)
+    - [Insights](https://learn.microsoft.com/en-us/azure/migrate/insights-overview)
   - Create Business case
     - [Business case overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-business-case-calculation)
     - [Build a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
