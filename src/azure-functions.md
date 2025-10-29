@@ -62,7 +62,7 @@
     - [Functions on IoT Edge device](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function?toc=/azure/azure-functions/toc.json)
     - [Java with Azure Cosmos DB and Event Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-hub-cosmos-db)
   - Samples
-    - [Azure Serverless Community Library](https://www.serverlesslibrary.net/)
+    - [Azure Functions Samples in Github](https://github.com/search?q=topic%3Aazure-functions+org%3AAzure-Samples+fork%3Atrue&type=repositories)
     - Azure Samples
       - [C#](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=csharp)
       - [Java](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=java)

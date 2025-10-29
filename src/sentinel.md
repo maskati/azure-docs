@@ -65,6 +65,7 @@
               - [Connect your SAP system](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-data-connector-agent-container)
               - [Troubleshoot SAP data connector](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-deploy-troubleshoot)
               - Extra deployment steps
+                - [Migrate agent to agentless connector](https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-agent-migrate)
                 - [Collect SAP HANA audit logs](https://learn.microsoft.com/en-us/azure/sentinel/sap/collect-sap-hana-audit-logs)
                 - [Update the data connector agent](https://learn.microsoft.com/en-us/azure/sentinel/sap/update-sap-data-connector)
                 - [Deploy the agent from the command line](https://learn.microsoft.com/en-us/azure/sentinel/sap/deploy-command-line)

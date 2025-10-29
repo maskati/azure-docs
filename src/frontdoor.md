@@ -46,6 +46,7 @@
       - [Server variables](https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables)
       - [URL rewrite](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium)
       - [URL redirect](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-standard-premium)
+      - [Configure signed URLs](https://learn.microsoft.com/en-us/azure/frontdoor/signed-request)
       - [Cross-Origin Resource Sharing CORS](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/troubleshoot-cross-origin-resources)
     - Origins
       - [Origins and origin groups](https://learn.microsoft.com/en-us/azure/frontdoor/origin)
@@ -203,7 +204,7 @@
     - Operation excellence
       - CDN classic from Microsoft
         - [HTTP/2 support](https://learn.microsoft.com/en-us/azure/cdn/cdn-http2?toc=/azure/frontdoor/toc.json)
-        - [Retrieve POP IP's](https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-list-api?toc=/azure/frontdoor/toc.json)
+        - [Retrieve POP IPs](https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-list-api?toc=/azure/frontdoor/toc.json)
         - [China content delivery](https://learn.microsoft.com/en-us/azure/cdn/cdn-china-delivery?toc=/azure/frontdoor/toc.json)
     - Troubleshoot
       - CDN
