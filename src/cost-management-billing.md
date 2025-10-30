@@ -13,6 +13,7 @@
     - [What is a cloud subscription](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cloud-subscription)
     - [Individual subscription usage terms](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/understand-usage)
     - [Individual subscription invoice terms](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/understand-invoice)
+    - [Understand the billing and tenant relationship](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/understand-billing-tenant-relationship)
     - [Microsoft Customer Agreement usage terms](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-understand-your-usage)
     - [Microsoft Customer Agreement invoice terms](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-understand-your-invoice)
     - [Microsoft Customer Agreement price sheet terms](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-understand-pricesheet)

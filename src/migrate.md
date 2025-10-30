@@ -27,14 +27,14 @@
       - Appliance configuration
         - [Provide server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
         - [Appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
-      - Discover VMware
-        - [Discover VMware Virtual Machines](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
+      - Discover VMware estate
+        - [Discover Virtual Machines](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
         - [Scoped discovery of VMware hosted VMs](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
         - [Support matrix for VMware discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware)
-      - Discover Hyper-V Virtual Machines
-        - [Discover Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
+      - Discover Hyper-V estate
+        - [Discover Virtual Machines](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v)
         - [Support matrix for Hyper-V discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v)
-      - Discover physical servers
+      - Discover Physical or Public-cloud estate
         - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
         - [Support matrix for Physical server discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical)
       - [Discover software and workloads](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
@@ -65,11 +65,13 @@
       - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/assessment-report)
       - [Cost and savings calculations](https://learn.microsoft.com/en-us/azure/migrate/cost-estimation)
       - [Target right-sizing](https://learn.microsoft.com/en-us/azure/migrate/target-right-sizing)
-      - [Confidence rating](https://learn.microsoft.com/en-us/azure/migrate/confidence-ratings)
+      - [Performance coverage](https://learn.microsoft.com/en-us/azure/migrate/confidence-ratings)
       - Application assessment
         - [Create assessment](https://learn.microsoft.com/en-us/azure/migrate/create-application-assessment)
         - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)
         - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-application-assessment)
+        - Code level insights
+          - [Integrate with CAST highlights](https://learn.microsoft.com/en-us/azure/migrate/cast-highlights-integration)
       - Workload specific assessments
         - Azure VM assessment
           - [Create an Azure VM assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-assessment)
