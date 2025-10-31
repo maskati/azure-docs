@@ -199,6 +199,7 @@
     - [RVTools XLSX import](https://learn.microsoft.com/en-us/azure/migrate/common-questions-import)
     - [Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/common-questions-appliance)
     - [Discovery and dependency analysis](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-dependency-analysis)
+    - [Software and Insights](https://learn.microsoft.com/en-us/azure/migrate/software-insights-faq.yml)
     - [Assessment](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-assessment)
     - [Business case](https://learn.microsoft.com/en-us/azure/migrate/common-questions-business-case)
     - [Migration and modernization tool](https://learn.microsoft.com/en-us/azure/migrate/common-questions-server-migration)

@@ -45,6 +45,7 @@
     - Authorization with Microsoft Entra ID
       - [Overview of Microsoft Entra ID for Azure SignalR Service](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-authorize-azure-active-directory)
     - [Event handling](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-event-grid-integration)
+    - [Disconnections and reconnections](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-client-disconnections)
     - Security
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/signalr-security-baseline?toc=/azure/azure-signalr/TOC.json)
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/azure-signalr/security-controls-policy)
