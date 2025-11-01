@@ -87,7 +87,6 @@
         - [Storage mount](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-storage-mount-failures)
         - [Target port](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-target-port-settings)
         - [Container start](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-start-failures)
-    - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
   - AI integration
     - [AI integration](https://learn.microsoft.com/en-us/azure/container-apps/ai-integration)
     - GPUs
@@ -147,7 +146,8 @@
     - [Service discovery resiliency](https://learn.microsoft.com/en-us/azure/container-apps/service-discovery-resiliency)
     - [Dapr component resiliency](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
   - Reliability
-    - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps)
+    - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
+    - [Create a zone redundant container app](https://learn.microsoft.com/en-us/azure/container-apps/how-to-zone-redundancy)
   - Dedicated compute
     - [Workload profiles](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-overview)
     - Manage workload profiles

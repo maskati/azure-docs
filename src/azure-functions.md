@@ -101,7 +101,9 @@
         - [Containerized functions](https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts)
         - [Azure Container Apps hosting](https://learn.microsoft.com/en-us/azure/azure-functions/functions-container-apps-hosting)
       - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
-    - [Deployment options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies)
+    - Deployment
+      - [Deployment options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies)
+      - [Flex Consumption update strategies](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-site-updates)
     - Events and messaging
       - [Connect to services](https://learn.microsoft.com/en-us/azure/azure-functions/event-messaging-bindings)
       - [Event-driven scaling](https://learn.microsoft.com/en-us/azure/azure-functions/event-driven-scaling)
