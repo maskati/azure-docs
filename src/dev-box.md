@@ -11,8 +11,7 @@
     - [Set up Dev Box service ARM template](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-arm-template)
     - [Spin up a new dev box](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-create-dev-box)
   - Concepts
-    - [Key concepts](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-concepts)
-    - [Architecture overview](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-architecture)
+    - [Architecture and key concepts](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-architecture)
     - [Network requirements](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-network-requirements)
     - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/dev-box/concept-dev-box-role-based-access-control)
   - Plan
