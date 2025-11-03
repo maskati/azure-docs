@@ -673,7 +673,6 @@
       - Manage and monitor
         - [Pipeline runs](https://learn.microsoft.com/en-us/azure/synapse-analytics/monitoring/how-to-monitor-pipeline-runs)
         - [Send email from a pipeline](https://learn.microsoft.com/en-us/azure/data-factory/how-to-send-email?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics)
-        - [Send Microsoft Teams notifications from a pipeline](https://learn.microsoft.com/en-us/azure/data-factory/how-to-send-notifications-to-teams?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics)
       - Create integration runtime
         - [Azure integration runtime](https://learn.microsoft.com/en-us/azure/data-factory/create-azure-integration-runtime?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics)
         - [Self-hosted integration runtime](https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics)

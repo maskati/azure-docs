@@ -428,7 +428,6 @@
       - [Monitor with SDKs](https://learn.microsoft.com/en-us/azure/data-factory/monitor-programmatically)
       - [Pipeline failure and error handling](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-pipeline-failure-error-handling)
       - [Monitor pipelines with email notifications](https://learn.microsoft.com/en-us/azure/data-factory/how-to-send-email)
-      - [Monitor pipelines with Microsoft Teams notifications](https://learn.microsoft.com/en-us/azure/data-factory/how-to-send-notifications-to-teams)
       - [Monitor integration runtime](https://learn.microsoft.com/en-us/azure/data-factory/monitor-integration-runtime)
       - [Monitor managed virtual network integration runtime](https://learn.microsoft.com/en-us/azure/data-factory/monitor-managed-virtual-network-integration-runtime)
       - [Monitor Azure-SSIS integration runtime](https://learn.microsoft.com/en-us/azure/data-factory/monitor-integration-runtime)
@@ -495,7 +494,6 @@
       - [Discover and explore data in ADF using Microsoft Purview](https://learn.microsoft.com/en-us/azure/data-factory/how-to-discover-explore-purview-data)
     - Scenarios
       - [Send email from a pipeline](https://learn.microsoft.com/en-us/azure/data-factory/how-to-send-email)
-      - [Send Microsoft Teams notifications from a pipeline](https://learn.microsoft.com/en-us/azure/data-factory/how-to-send-notifications-to-teams)
       - Data migration for data lake & EDW
         - [Why Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/data-migration-guidance-overview)
         - [Migrate data from AWS S3 to Azure](https://learn.microsoft.com/en-us/azure/data-factory/data-migration-guidance-s3-azure-storage)
