@@ -9,6 +9,7 @@
     - [Astro](https://learn.microsoft.com/en-us/azure/partner-solutions/astronomer/)
     - [Confluent](https://learn.microsoft.com/en-us/azure/partner-solutions/apache-kafka-confluent-cloud/)
     - [Datadog](https://learn.microsoft.com/en-us/azure/partner-solutions/datadog/)
+    - [Dell PowerScale Preview](https://learn.microsoft.com/en-us/azure/partner-solutions/dell/)
     - [Dynatrace](https://learn.microsoft.com/en-us/azure/partner-solutions/dynatrace/)
     - [Elastic](https://learn.microsoft.com/en-us/azure/partner-solutions/elastic/)
     - [Informatica](https://learn.microsoft.com/en-us/azure/partner-solutions/informatica/)
