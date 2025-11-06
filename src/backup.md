@@ -52,7 +52,6 @@
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/quick-restore-hana-cli)
     - [Restore the entire SAP HANA system to snapshot restore point](https://learn.microsoft.com/en-us/azure/backup/quick-sap-hana-database-instance-restore)
     - [Run preregistration script for SAP ASE database backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup-run-preregistration-quickstart)
-    - [Enable enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-enable-enhanced-soft-delete)
   - Tutorials
     - [Back up multiple Azure VMs](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-vm-at-scale)
     - [Back up Azure VMs with PowerShell](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-azure-vm)
@@ -80,7 +79,6 @@
     - [Back up SAP ASE database on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup-tutorial)
     - [Back up Azure Managed Disks](https://learn.microsoft.com/en-us/azure/backup/back-up-managed-disks-tutorial)
     - [Configure Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-tutorial)
-    - [Recover soft deleted items with enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-tutorial)
   - Concepts
     - Reliability
       - [Availability zone and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-backup?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
@@ -456,7 +454,6 @@
       - [Configure Multi-user authorization using Resource Guard](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization)
       - [Manage Immutable vaults](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-how-to-manage)
       - Soft delete
-        - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-security-feature-cloud)
         - [For virtual machines](https://learn.microsoft.com/en-us/azure/backup/soft-delete-virtual-machines)
         - [For SQL Server and SAP HANA in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/soft-delete-sql-saphana-in-azure-vm)
       - [Configure and manage enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-configure-manage)

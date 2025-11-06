@@ -99,6 +99,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
       - [Usage](https://learn.microsoft.com/en-us/azure/container-apps/sessions-usage)
       - [Session pools](https://learn.microsoft.com/en-us/azure/container-apps/session-pool)
+    - [Modernize .NET & Java apps](https://learn.microsoft.com/en-us/azure/container-apps/modernize-ai)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
     - Troubleshoot and resolve issues with an agent

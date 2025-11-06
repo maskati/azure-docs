@@ -73,7 +73,6 @@
         - [Azure Monitor - Log Analytics](https://learn.microsoft.com/azure/azure-monitor/logs/logs-data-export?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=portal)
     - Industry solutions
       - [Microsoft Community Training](https://learn.microsoft.com/en-us/azure/reliability/reliability-community-training)
-      - [Sustainability data solutions in Fabric](https://learn.microsoft.com/en-us/azure/reliability/reliability-sustainability-data-solutions-fabric)
     - Integration
       - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-management)
       - [Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy?bc=%2fazure%2freliability%2fbreadcrumb%2ftoc.json&toc=%2fazure%2freliability%2ftoc.json)

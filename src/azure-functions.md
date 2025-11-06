@@ -236,6 +236,7 @@
       - [Work with tokens](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-oauth-tokens?toc=/azure/azure-functions/toc.json)
       - [Manage API versions](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-api-version?toc=/azure/azure-functions/toc.json)
       - [File-based configuration](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-file-based?toc=/azure/azure-functions/toc.json)
+      - [MCP server authorization](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp?toc=/azure/azure-functions/toc.json)
     - Secure
       - [Work with access keys](https://learn.microsoft.com/en-us/azure/azure-functions/function-keys-how-to)
       - [Add SSL cert](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?toc=/azure/azure-functions/toc.json)

@@ -132,7 +132,10 @@
     - Monitoring
       - [Monitor ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute)
       - [Network Insights](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-network-insights)
-      - [Configure Connection Monitoring for ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-connection-monitor)
+      - Connection Monitor
+        - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/connection-monitor-overview)
+        - [Configure Connection Monitor](https://learn.microsoft.com/en-us/azure/expressroute/configure-connection-monitor)
+        - [Configure alerts](https://learn.microsoft.com/en-us/azure/expressroute/connection-monitor-alerts)
       - [Configure ExpressRoute Traffic Collector](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-traffic-collector)
       - [View and configure maintenance alerts](https://learn.microsoft.com/en-us/azure/expressroute/maintenance-alerts)
       - [Configure custom alerts to monitor advertised routes](https://learn.microsoft.com/en-us/azure/expressroute/how-to-custom-route-alert)
