@@ -99,6 +99,7 @@
         - Webapp assessment
           - [Create a Webapp assessment](https://learn.microsoft.com/en-us/azure/migrate/create-web-app-assessment)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-web-app-assessment)
+          - [Enhance web app assessment by adding code scan report](https://learn.microsoft.com/en-us/azure/migrate/add-copilot-code-insights)
         - AVS assessment
           - [Create an AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
           - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)

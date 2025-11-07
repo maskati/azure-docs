@@ -78,6 +78,7 @@
         - [Testing methodology](https://learn.microsoft.com/en-us/azure/azure-netapp-files/testing-methodology)
         - [Regular volume performance benchmarks for Linux](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-benchmarks-linux)
         - [Large volume performance benchmarks for Linux](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-large-volumes-linux)
+        - [Large volume breakthrough mode performance benchmarks for Linux](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-large-volume-breakthrough-mode-linux)
         - [Oracle database performance on Azure NetApp Files single volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-oracle-single-volumes)
         - [Oracle database performance on Azure NetApp Files multiple volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-oracle-multiple-volumes)
         - [Azure NetApp Files datastore performance benchmarks for AVS](https://learn.microsoft.com/en-us/azure/azure-netapp-files/performance-benchmarks-azure-vmware-solution)
@@ -89,10 +90,12 @@
       - Application volume groups for Oracle
         - [Understand application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-oracle-introduction)
         - [Requirements and considerations for application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-oracle-considerations)
-    - Data protection and resiliency
+    - Hybrid data mobility and protection
       - [Reliability in Azure NetApp Files](https://learn.microsoft.com/en-us/azure/reliability/reliability-netapp-files?toc=azure/azure-netapp-files/toc.json&bc=/azure/azure-netapp-files/breadcrumb/toc.json)
       - [Understand data protection and disaster recovery options](https://learn.microsoft.com/en-us/azure/azure-netapp-files/data-protection-disaster-recovery-options)
       - [How Azure NetApp Files snapshots work](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-introduction)
+      - Understand caching
+        - [Understand Azure NetApp Files cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cache-volumes)
       - Azure NetApp Files backup
         - [Understand Azure NetApp Files backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-introduction)
         - [Requirements and considerations for Azure NetApp Files backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-requirements-considerations)
@@ -172,6 +175,7 @@
         - [Connect to OneLake](https://learn.microsoft.com/en-us/azure/azure-netapp-files/object-rest-api-onelake)
         - [Access volumes with an S3-compatible client](https://learn.microsoft.com/en-us/azure/azure-netapp-files/object-rest-api-browser)
       - [Migrate volumes to Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/migrate-volumes)
+      - [Configure a cache volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-cache-volumes)
       - Manage volume access and encryption
         - [Configure export policy for NFS or dual protocol](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-configure-export-policy)
         - [Configure Unix permissions and change ownership mode](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-unix-permissions-change-ownership-mode)
@@ -207,7 +211,7 @@
         - [Configure application volume group for Oracle using REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-application-volume-oracle-api)
         - [Deploy application volume group for Oracle using Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-application-volume-oracle-azure-resource-manager)
       - [Delete an application volume group](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-delete)
-    - Manage data protection
+    - Manage hybrid data mobility and protection
       - Manage volume snapshots
         - [Create an on-demand snapshot](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-manage-snapshots)
         - [Manage snapshot policies](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-manage-policy)

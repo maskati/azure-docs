@@ -19,6 +19,7 @@
   - Identity
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/identity-model)
     - [Access tokens for end users](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/access-tokens)
+    - [Authenticate Microsoft Entra ID users](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/identity/microsoft-entra-id-authentication-integration)
     - [Sign an HTTP Request using HMAC](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/hmac-header-tutorial)
     - [Authenticate services](https://learn.microsoft.com/en-us/azure/communication-services/concepts/authentication)
     - [Enable managed identity](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/managed-identity)
