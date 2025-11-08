@@ -12,6 +12,8 @@
   - Quickstarts
     - Scenarios
       - [Scalable web API](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
+      - AI tools and MCP
+        - [MCP server extension](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
       - Respond to database changes
         - [Azure Cosmos DB NoSQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-cosmosdb)
         - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-sqldb)

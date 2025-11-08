@@ -104,6 +104,12 @@
           - [Create an AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
           - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-azure-vmware-solution-assessment)
+    - Wave planning
+      - [Overview](https://learn.microsoft.com/en-us/azure/migrate/overview)
+      - [Plan and create waves](https://learn.microsoft.com/en-us/azure/migrate/how-to-plan-create-waves)
+      - [Complete a wave plan](https://learn.microsoft.com/en-us/azure/migrate/how-to-complete-wave-plan)
+      - [Execute and track waves](https://learn.microsoft.com/en-us/azure/migrate/how-to-execute-track-waves)
+      - [Wave planning](https://learn.microsoft.com/en-us/azure/migrate/common-questions-wave-planning)
   - Execute migrations
     - [Overview of migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
     - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)

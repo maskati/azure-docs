@@ -13,6 +13,7 @@
 [Avere vFXT for Azure documentation](./avere-vfxt.md)
 [Azure App Configuration documentation](./azure-app-configuration.md)
 [Azure Cache for Redis Documentation](./azure-cache-for-redis.md)
+[Azure Change Tracking and Inventory documentation](./azure-change-tracking-inventory.md)
 [azure-compute-fleet](./azure-compute-fleet.md)
 [Azure Edge Hardware Center documentation](./azure-edge-hardware-center.md)
 [Azure Fluid Relay documentation](./azure-fluid-relay.md)

@@ -38,6 +38,8 @@
       - [Using Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-blob-vaulted-backup-cli)
       - [Using ARM template](https://learn.microsoft.com/en-us/azure/backup/backup-blobs-storage-account-arm-template)
       - [Using Bicep](https://learn.microsoft.com/en-us/azure/backup/backup-blobs-storage-account-bicep)
+    - [Create a vaulted backup policy for Azure Data Lake Storage using Azure portal/ PowerShell/ Azure CLI](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-create-policy-quickstart)
+    - [Configure Azure Data Lake Storage vaulted backup using ARM/ Bicep template](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-configure-quickstart-arm-bicep)
     - [Install Backup extension in AKS cluster](https://learn.microsoft.com/en-us/azure/backup/quick-install-backup-extension)
     - [Create a backup policy for Azure Files](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-portal)
     - Configure vaulted backup for Azure Files
@@ -67,6 +69,7 @@
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-postgresql-flex)
     - [Configure item level backup of an AKS cluster](https://learn.microsoft.com/en-us/azure/backup/tutorial-configure-backup-aks)
     - [Configure vaulted backup for Azure Blob](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-tutorial)
+    - [Back up Azure Data Lake Storage](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-tutorial)
     - [Restore vaulted backups for AKS clusters in a secondary region](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-aks-backups-across-regions)
     - [Back up Azure Files using Azure portal](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-azure-files-vault-tier-portal)
     - [Back up Windows Server](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-windows-server-to-azure)
@@ -97,7 +100,7 @@
       - [Azure Elastic SAN backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-support-matrix)
       - [Azure Disk Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/disk-backup-support-matrix)
       - [Azure Blobs backup support matrix](https://learn.microsoft.com/en-us/azure/backup/blob-backup-support-matrix)
-      - [Azure Data Lake Storage backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-support-matrix)
+      - [Azure Data Lake Storage vaulted backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-support-matrix)
       - [Active Directory domain controllers](https://learn.microsoft.com/en-us/azure/backup/active-directory-backup-restore)
       - [Supported VM SKUs for Azure Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-policy-supported-skus)
       - [Azure Database for PostgreSQL backup support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-support-matrix)
@@ -137,7 +140,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-overview)
       - [Prerequisites](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-concept)
     - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/blob-backup-overview)
-    - [Azure Data Lake Storage backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-overview)
+    - [Azure Data Lake Storage vaulted backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-overview)
     - [Azure Elastic SAN backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-overview)
     - [Azure Files backup](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)
     - Windows backup using MARS agent
@@ -319,8 +322,8 @@
         - [Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-create-update-blob-policy)
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-backup-blobs)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-restore-blobs)
-    - Azure Data Lake Storage backup
-      - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-configure-backup)
+    - Azure Data Lake Storage vaulted backup
+      - [Configure vaulted backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-configure-backup)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-restore)
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-manage)
     - Azure Files backup
@@ -484,7 +487,7 @@
       - [Encrypted Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-encrypted-vm-troubleshoot)
       - [Azure Backup agent](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mars-troubleshoot)
       - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-blob-backup)
-      - [Azure Data Lake Storage backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-troubleshoot)
+      - [Azure Data Lake Storage vaulted backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-troubleshoot)
       - [Files and folders backup is slow](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-slow-backup-performance-issue)
       - [Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mabs-troubleshoot)
       - [Azure Backup Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-vault-troubleshoot)
