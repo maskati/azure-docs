@@ -243,6 +243,7 @@
         - [Show transcription state](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/call-transcription)
         - [Show active speakers](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/dominant-speaker)
         - [Transfer calls](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/transfer-calls)
+        - [Active Call Transfer](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/active-call-transfer)
         - [Get local capabilities](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/capabilities)
         - [View PowerPoint Live](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/calling-sdk/powerpoint-live)
         - [Shared Line appearance](https://learn.microsoft.com/en-us/azure/communication-services/how-tos/cte-calling-sdk/shared-line-appearance)
