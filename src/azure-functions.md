@@ -136,7 +136,7 @@
     - [Supported languages](https://learn.microsoft.com/en-us/azure/azure-functions/supported-languages)
     - C#
       - [Isolated worker model](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide)
-      - [.NET Aspire integration Preview](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-aspire-integration)
+      - [Aspire integration](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-aspire-integration)
       - Legacy models
         - [Execution mode comparison](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-in-process-differences)
         - [In-process model](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library)

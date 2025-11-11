@@ -61,6 +61,7 @@
     - [Review discovered inventory](https://learn.microsoft.com/en-us/azure/migrate/how-to-review-discovered-inventory)
     - [Tags](https://learn.microsoft.com/en-us/azure/migrate/resource-tagging)
     - [Insights](https://learn.microsoft.com/en-us/azure/migrate/insights-overview)
+    - [Define and manage applications](https://learn.microsoft.com/en-us/azure/migrate/define-manage-applications)
   - Create Business case
     - [Business case overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-business-case-calculation)
     - [Build a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
@@ -114,6 +115,7 @@
     - [Overview of migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
     - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
     - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
+    - [Redeploy servers using IaC](https://learn.microsoft.com/en-us/azure/migrate/server-redeploy)
     - Support Matrix
       - [VMware vSphere migration requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration)
       - [Physical Agent-based migration requirements](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-support-matrix?toc=/azure/migrate/toc.json)

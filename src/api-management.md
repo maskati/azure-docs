@@ -73,6 +73,8 @@
     - Security
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/api-management/security-controls-policy)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/api-management-security-baseline?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
+    - Migration
+      - [Migrate Amazon API Gateway to Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/migrate-amazon-api-gateway-to-api-management)
   - Logs and monitoring
     - [Observability](https://learn.microsoft.com/en-us/azure/api-management/observability)
     - [Monitor API Management](https://learn.microsoft.com/en-us/azure/api-management/monitor-api-management)

@@ -82,6 +82,8 @@
     - [Back up SAP ASE database on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup-tutorial)
     - [Back up Azure Managed Disks](https://learn.microsoft.com/en-us/azure/backup/back-up-managed-disks-tutorial)
     - [Configure Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-tutorial)
+    - [Recover soft deleted items with enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-tutorial)
+    - [Configure Threat Detection and manage health of Azure VM Backups](https://learn.microsoft.com/en-us/azure/backup/threat-detection-configure-monitor-tutorial)
   - Concepts
     - Reliability
       - [Availability zone and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-backup?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
@@ -155,6 +157,7 @@
       - Private endpoints
         - [V1 experience](https://learn.microsoft.com/en-us/azure/backup/private-endpoints-overview)
         - [V2 experience](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-concept)
+      - [Threat Detection with Microsoft Defender for Cloud integration](https://learn.microsoft.com/en-us/azure/backup/threat-detection-overview)
     - [Backup architecture](https://learn.microsoft.com/en-us/azure/backup/backup-architecture)
     - [Guidance and best practices](https://learn.microsoft.com/en-us/azure/backup/guidance-best-practices)
     - [Glossary of terms](https://learn.microsoft.com/en-us/azure/backup/azure-backup-glossary)

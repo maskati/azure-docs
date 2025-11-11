@@ -90,6 +90,7 @@
     - [Application rules with SQL FQDNs](https://learn.microsoft.com/en-us/azure/firewall/sql-fqdn-filtering)
     - [SNAT private ranges](https://learn.microsoft.com/en-us/azure/firewall/snat-private-range)
     - [Customer-controlled maintenance](https://learn.microsoft.com/en-us/azure/firewall/customer-controlled-maintenance)
+    - [Packet capture on Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/packet-capture)
   - Secure
     - [Secure firewall deployment](https://learn.microsoft.com/en-us/azure/firewall/secure-firewall)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/firewall-security-baseline?toc=/azure/firewall/toc.json)
