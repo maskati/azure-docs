@@ -43,6 +43,7 @@
           - [Azure portal](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-portal)
           - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-powershell)
           - [Azure CLI](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-cli)
+      - [HTTP DDoS protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/ddos-ruleset)
       - Bot protection
         - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/bot-protection-overview)
         - [Configure bot protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/bot-protection)
@@ -64,6 +65,7 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs)
         - [Exclusion lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-exclusion)
         - [Configure exclusion lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-exclusion-configure)
+      - [HTTP DDoS protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/http-ddos-ruleset)
       - [Configure bot protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-policy-configure-bot-protection)
       - Custom rules
         - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules)

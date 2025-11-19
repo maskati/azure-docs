@@ -29,6 +29,9 @@
     - [Register APIs - GitHub Actions](https://learn.microsoft.com/en-us/azure/api-center/register-apis-github-actions)
     - [Export API from API Center to Copilot Studio](https://learn.microsoft.com/en-us/azure/api-center/export-to-copilot-studio.yml)
     - [Track API dependencies](https://learn.microsoft.com/en-us/azure/api-center/track-resource-dependencies)
+  - Agent-to-Agent
+    - [Overview](https://learn.microsoft.com/en-us/azure/api-center/agent-to-agent-overview)
+    - [Register and manage agents](https://learn.microsoft.com/en-us/azure/api-center/register-manage-agents)
   - MCP servers
     - [Register and discover MCP servers](https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server)
     - [Build and register Logic Apps MCP server](https://learn.microsoft.com/en-us/azure/logic-apps/create-mcp-server-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)

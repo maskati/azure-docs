@@ -215,7 +215,6 @@
         - [Exclude disks from replication](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-exclude-disk)
       - Manage
         - [Deprecation of Site Recovery data encryption](https://learn.microsoft.com/en-us/azure/site-recovery/encryption-feature-deprecation)
-        - [Upgrade Windows Servers configured with Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/upgrade-2012R2-to-2016)
         - [Manage Site Recovery updates](https://learn.microsoft.com/en-us/azure/site-recovery/service-updates-how-to)
         - [Remove servers and disable protection](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-manage-registration-and-protection)
         - [Delete a vault](https://learn.microsoft.com/en-us/azure/site-recovery/delete-vault)

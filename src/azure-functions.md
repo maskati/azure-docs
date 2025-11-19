@@ -12,11 +12,14 @@
   - Quickstarts
     - Scenarios
       - [Scalable web API](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
+      - [Process file uploads](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-blob-storage-events)
       - AI tools and MCP
-        - [MCP server extension](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
+        - [Custom remote MCP server](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
+        - [Host MCP server using SDKs](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-host-mcp-server-sdks)
       - Respond to database changes
         - [Azure Cosmos DB NoSQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-cosmosdb)
         - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-sqldb)
+      - [Run scheduled tasks](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-scheduled-tasks)
     - Developer tools
       - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
       - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli)
@@ -44,8 +47,10 @@
       - [OpenAI](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion)
   - Tutorials
     - [Functions with Logic Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-twitter-email)
+    - [Host MCP servers for AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-tutorial)
     - [Develop Python functions with VS Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
     - [Create serverless APIs using Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio)
+    - [OpenTelemetry distributed tracing](https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions-opentelemetry-distributed-tracing)
     - Networking
       - [Connect to a Virtual Network](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet)
       - [Establish private site access](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-private-site-access)
@@ -103,6 +108,7 @@
         - [Containerized functions](https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts)
         - [Azure Container Apps hosting](https://learn.microsoft.com/en-us/azure/azure-functions/functions-container-apps-hosting)
       - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
+      - [MCP server hosting](https://learn.microsoft.com/en-us/azure/azure-functions/self-hosted-mcp-servers)
     - Deployment
       - [Deployment options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies)
       - [Flex Consumption update strategies](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-site-updates)
@@ -132,6 +138,7 @@
     - [Networking options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-options)
     - [IP addresses](https://learn.microsoft.com/en-us/azure/azure-functions/ip-addresses)
     - [Custom handlers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-custom-handlers)
+    - [Self-hosted MCP servers](https://learn.microsoft.com/en-us/azure/azure-functions/self-hosted-mcp-servers)
   - Languages
     - [Supported languages](https://learn.microsoft.com/en-us/azure/azure-functions/supported-languages)
     - C#
@@ -265,6 +272,7 @@
       - Create OpenAPI definitions
         - [API Management integration portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition)
         - [Visual Studio with API Management C#](https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio)
+      - [Register an MCP server in API Center](https://learn.microsoft.com/en-us/azure/azure-functions/register-mcp-server-api-center)
       - [Use a managed identity](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json)
       - [Manage on-premises resources](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell)
     - Troubleshoot

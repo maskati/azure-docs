@@ -29,7 +29,9 @@
       - [URL routing](https://learn.microsoft.com/en-us/azure/application-gateway/url-route-overview)
       - [Redirection](https://learn.microsoft.com/en-us/azure/application-gateway/redirect-overview)
       - [Rewrite HTTP headers and URL](https://learn.microsoft.com/en-us/azure/application-gateway/rewrite-http-headers-url)
-    - [TCP/TLS proxy](https://learn.microsoft.com/en-us/azure/application-gateway/tcp-tls-proxy-overview)
+    - TCP/TLS proxy
+      - [Overview](https://learn.microsoft.com/en-us/azure/application-gateway/tcp-tls-proxy-overview)
+      - [Client IP preservation](https://learn.microsoft.com/en-us/azure/application-gateway/proxy-protocol-header)
     - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fapplication-gateway%2ftoc.json)
     - [High traffic support](https://learn.microsoft.com/en-us/azure/application-gateway/high-traffic-support)
     - [Autoscaling v2 SKU](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
@@ -76,6 +78,7 @@
       - Mutual authentication
         - [Mutual authentication - Portal](https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-portal)
         - [Mutual authentication - PowerShell](https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-powershell)
+        - [Mutual authentication - Template](https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-arm-template)
       - Manage certificates
         - [Certificates for the backend](https://learn.microsoft.com/en-us/azure/application-gateway/certificates-for-backend-authentication)
         - [Renew certificates](https://learn.microsoft.com/en-us/azure/application-gateway/renew-certificates)

@@ -168,7 +168,9 @@
       - [Configure Route-maps to tag routes](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-tag-routes)
       - [Configure Route-maps to summarize routes from an NVA](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-summarize-from-device-spoke-vnet-nva)
     - [View virtual hub effective routes](https://learn.microsoft.com/en-us/azure/virtual-wan/effective-routes-virtual-hub)
-    - [Configure routing intent and policies](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
+    - Routing intent and policies
+      - [Configure routing intent](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
+      - [Internet access with routing intent](https://learn.microsoft.com/en-us/azure/virtual-wan/about-internet-routing)
     - [Next hop IP support](https://learn.microsoft.com/en-us/azure/virtual-wan/next-hop-ip)
     - Route traffic from a virtual hub to an NVA legacy
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-route-table-nva-portal)
@@ -181,7 +183,6 @@
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/nat-rules-vpn-gateway-powershell)
     - [Configure P2S forced tunneling](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-forced-tunnel)
   - Security
-    - [Secure virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/secure-virtual-wan)
     - [Apply Zero Trust principles](https://learn.microsoft.com/security/zero-trust/azure-virtual-wan?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Secured virtual hubs](https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-wan-security-baseline?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)

@@ -1,141 +1,146 @@
 # Azure IoT Hub Documentation
   - [IoT Hub documentation](https://learn.microsoft.com/en-us/azure/iot-hub/)
   - Overview
-    - [IoT concepts and Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub)
+    - [What is IoT Hub?](https://learn.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub)
+  - What's new Preview?
+    - [Overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-what-is-new)
+    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-faq)
+    - [Integration with Azure Device Registry Preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-registry-overview)
+    - Certificate management Preview
+      - [Overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-certificate-management-overview)
+      - [Key concepts for certificate management](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-certificate-management-concepts)
+    - [Get started with IoT Hub Preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-registry-setup)
   - Quickstarts
-    - [Codeless quickstart using CLI](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-cli)
-    - [Send telemetry using SDK](https://learn.microsoft.com/en-us/azure/iot/tutorial-send-telemetry-iot-hub)
-    - [Control a device](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-control-device)
-    - [Auto-route messages using Bicep](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-bicep-route-messages)
-    - [Auto-route messages using an ARM template](https://learn.microsoft.com/en-us/azure/iot-hub/horizontal-arm-route-messages)
-  - Tutorials
-    - [Route device messages to storage](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-routing)
-    - [Message enrichments](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-message-enrichments)
-    - [Use metrics and logs](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-use-metrics-and-diags)
-    - [Perform manual failover](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-manual-failover)
-    - [Configure your devices](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-device-twins)
-    - [Manage device updates](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-raspberry-pi)
-    - [Test device connectivity](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-connectivity)
-    - [Create and upload certificates for testing](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-x509-test-certs)
-    - Integrate with other services
-      - [Visualize data in Power BI](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi)
-      - [Visualize data in App Service web apps](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-web-apps)
-      - [Monitor and notify with Logic Apps](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps)
+    - [Create an IoT hub no ADR integration](https://learn.microsoft.com/en-us/azure/iot-hub/create-hub)
+    - [Send telemetry using CLI](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-cli)
   - Concepts
-    - [IoT Hub concepts overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide)
-    - [Device-to-cloud feature guide](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-d2c-guidance)
-    - [Cloud-to-device feature guide](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-c2d-guidance)
-    - Manage
-      - [Choose the right IoT Hub tier](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-scaling)
-      - [Quotas and throttling](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-quotas-throttling)
-      - [Pricing examples](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-pricing)
-    - Develop
-      - [Understand device twins](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-device-twins)
-      - [Understand module twins](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-module-twins)
-      - [Invoke direct methods on a device](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-direct-methods)
-      - [Schedule jobs on multiple devices](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-jobs)
-      - [IoT Hub endpoints](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-endpoints)
-      - Queries
-        - [Query language overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-query-language)
-        - [Device and module twin queries](https://learn.microsoft.com/en-us/azure/iot-hub/query-twins)
-        - [Job queries](https://learn.microsoft.com/en-us/azure/iot-hub/query-jobs)
-      - [Compare IoT Hub and Event Hubs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-compare-event-hubs)
-      - [React to IoT Hub events with Event Grid](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-event-grid)
-      - [Upload files from a device](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-file-upload)
-      - [Overview of IoT Hub device streams preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-streams-overview)
-    - Messaging
-      - [Send and receive messages](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messaging)
-      - [Create and read IoT Hub messages](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-construct)
-      - [Non-telemetry event schemas](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-non-telemetry-event-schema)
-      - [Send cloud-to-device messages from IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-c2d)
-      - [Choose a device communication protocol](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-protocols)
-      - [Read device-to-cloud messages from the built-in endpoint](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-read-builtin)
-      - [Message enrichments overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-message-enrichments-overview)
-    - Message routing
-      - [Route device-to-cloud messages to Azure services](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-d2c)
-      - [Add queries to message routes](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-routing-query-syntax)
-      - [Compare message and event routing](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-event-grid-routing-comparison)
-    - Device management
-      - [Overview of device management](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-management-overview)
-      - [Manage device identities](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-identity-registry)
-      - [Monitor device connection status](https://learn.microsoft.com/en-us/azure/iot-hub/monitor-device-connection-state)
-      - [Device configuration best practices](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configuration-best-practices)
-    - Connectivity
-      - [Understanding IoT hub IP address](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-understand-ip-address)
-    - Reliability and scaling
-      - [Best practices for large-scale IoT device deployments](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-deploy-at-scale?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
-      - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
-      - [Disable disaster recovery](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-disable-dr)
-    - Authentication and authorization
-      - [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-azure-ad)
-      - [Shared access signatures](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-sas)
-      - [X.509 certificates](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-x509)
-    - IoT Hub SDKs
-      - [SDK overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
-      - [Develop without the SDK](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-no-sdk)
+    - [Understand IoT Hub endpoints](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-endpoints)
+    - [Understanding IoT hub IP address](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-understand-ip-address)
+    - [Choose an IoT Hub SDK](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
     - Protocol support
       - [MQTT support](https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-connect-to-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
       - [AMQP support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-amqp-support)
       - [Supporting additional protocols](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway)
+    - [Compare IoT Hub and Event Hubs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-compare-event-hubs)
   - How-to guides
-    - Manage
-      - [Create an IoT hub](https://learn.microsoft.com/en-us/azure/iot-hub/create-hub)
+    - Plan and scale your IoT Hub
+      - [Choose the right IoT Hub tier](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-scaling)
+      - [Quotas and throttling](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-quotas-throttling)
+      - [Pricing examples](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-pricing)
+    - Connect a device
       - [Create and connect a device](https://learn.microsoft.com/en-us/azure/iot-hub/create-connect-device)
-      - [Manage device twins](https://learn.microsoft.com/en-us/azure/iot-hub/manage-device-twins)
-      - Create message routes and endpoints
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-routing-portal)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-routing-azure-cli)
-        - [PowerShell](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-routing-powershell)
-        - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-routing-arm)
-      - [Configure managed identities](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-managed-identity)
-      - Configure file upload
-        - [Use Azure portal](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configure-file-upload)
-        - [Use Azure PowerShell](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configure-file-upload-powershell)
-        - [Use Azure CLI](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configure-file-upload-cli)
-      - Upgrade or migrate an IoT hub
-        - [Upgrade an IoT hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-upgrade)
-        - [Automatically migrate an IoT hub using CLI](https://learn.microsoft.com/en-us/azure/iot-hub/migrate-hub-state-cli)
-        - [Manually migrate an IoT hub using ARM](https://learn.microsoft.com/en-us/azure/iot-hub/migrate-hub-arm)
-        - [Bulk import and export IoT devices](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-bulk-identity-mgmt)
-      - [Configure IP filtering](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-ip-filtering)
-      - [Manage public network access](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-public-network-access)
-      - [Restrict outbound network access](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-restrict-outbound-network-access)
-      - Automatic device management at scale
-        - [Use Azure portal](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-automatic-device-management)
-        - [Use Azure CLI](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-automatic-device-management-cli)
-      - [Schedule bulk operations with jobs](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-cli)
-      - [Regenerate keys](https://learn.microsoft.com/en-us/azure/iot-hub/regenerate-keys)
+      - [Test device connectivity](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-connectivity)
+      - [Connect Raspberry Pi to run samples](https://learn.microsoft.com/en-us/azure/iot-hub/raspberry-pi-get-started)
     - Develop
-      - [Send cloud-to-device messages](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-cloud-to-device-messaging)
-      - [Upload files from devices](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-file-upload)
-      - [Get started with device twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-device-twins)
-      - [Get started with module twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-module-twins)
+      - [Understand job scheduling](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-jobs)
+      - [Create back-end app to schedule jobs](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-schedule-broadcast-jobs)
+      - [Schedule bulk operations with jobs](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-cli)
+      - Queries
+        - [Query language overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-query-language)
+        - [Query Avro data from a hub route](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-query-avro-data)
+        - [Device and module twin queries](https://learn.microsoft.com/en-us/azure/iot-hub/query-twins)
+        - [Job queries](https://learn.microsoft.com/en-us/azure/iot-hub/query-jobs)
+    - Manage devices
+      - [Overview of device management](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-management-overview)
+      - [Manage device identities](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-identity-registry)
       - [Get started with device management](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-device-management)
-      - [Schedule and broadcast jobs](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-schedule-broadcast-jobs)
-      - [Query Avro data from a hub route](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-query-avro-data)
-      - [Use Raspberry Pi to run samples](https://learn.microsoft.com/en-us/azure/iot-hub/raspberry-pi-get-started)
+      - [Monitor device connection status](https://learn.microsoft.com/en-us/azure/iot-hub/monitor-device-connection-state)
+      - [Automatic device management at scale](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-automatic-device-management)
+      - [Device configuration best practices](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configuration-best-practices)
     - Monitor
       - [Monitor IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/monitor-iot-hub)
       - [Enable message tracing](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-distributed-tracing)
       - [IoT Hub service and resource health](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-azure-service-health-integration)
       - [Order device connection state events from Event Grid](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-how-to-order-connection-state-events)
-    - Deploy updates
+      - [Use metrics and logs to monitor IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-use-metrics-and-diags)
+      - Integration with other services
+        - [Visualize data in Power BI](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi)
+        - [Visualize data in App Service web apps](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-web-apps)
+        - [Monitor and notify with Logic Apps](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps)
+        - [React to IoT Hub events with Event Grid](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-event-grid)
+    - Deploy updates with Azure Device Update
       - [Create a device update account](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/create-device-update-account)
       - [Import an update](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/import-update)
       - [Create an update group](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/create-update-group)
       - [Deploy an update](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/deploy-update)
-    - Troubleshoot and resolve problems
-      - [Troubleshoot device connectivity](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-troubleshoot-connectivity)
-      - [Troubleshoot message routing](https://learn.microsoft.com/en-us/azure/iot-hub/troubleshoot-message-routing)
-      - [Resolve error codes](https://learn.microsoft.com/en-us/azure/iot-hub/troubleshoot-error-codes)
-      - [Capture trace logs](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-collect-device-logs)
-    - [Migrate TLS certificate root](https://learn.microsoft.com/en-us/azure/iot-hub/migrate-tls-certificate)
+      - [Manage device updates for Raspberry Pi images](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/device-update-raspberry-pi)
+    - Upgrade or migrate an IoT hub
+      - [Upgrade an IoT hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-upgrade)
+      - [Automatically migrate an IoT hub using CLI](https://learn.microsoft.com/en-us/azure/iot-hub/migrate-hub-state-cli)
+      - [Manually migrate an IoT hub using ARM](https://learn.microsoft.com/en-us/azure/iot-hub/migrate-hub-arm)
+      - [Bulk import and export IoT devices](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-bulk-identity-mgmt)
+  - Device-to-cloud communications
+    - [Understand device-to-cloud guidance](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-d2c-guidance)
+    - Device-to-cloud messaging
+      - [Route device-to-cloud messages to Azure services](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-d2c)
+      - [Add queries to message routes](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-routing-query-syntax)
+      - Create message routes and endpoints
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-routing-portal)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-routing-azure-cli)
+        - [PowerShell](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-routing-powershell)
+        - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-routing-arm)
+      - [Compare message and event routing](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-event-grid-routing-comparison)
+      - Tutorials
+        - [Auto-route messages using Bicep](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-bicep-route-messages)
+        - [Auto-route messages using an ARM template](https://learn.microsoft.com/en-us/azure/iot-hub/horizontal-arm-route-messages)
+        - [Route device messages to storage](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-routing)
+    - Upload files with IoT Hub
+      - [Understand file upload](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-file-upload)
+      - [Upload files from devices](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-file-upload)
+      - [Configure file upload](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configure-file-upload)
+  - Cloud-to-device communications
+    - [Understand cloud-to-device guidance](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-c2d-guidance)
+    - [Invoke direct methods on a device](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-direct-methods)
+    - [Send cloud-to-device messages](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-cloud-to-device-messaging)
+    - [Overview of IoT Hub device streams preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-streams-overview)
+    - [Control a device connected to an IoT hub](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-control-device)
+  - Device twins and module twins
+    - Device twins
+      - [Understand device twins](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-device-twins)
+      - [Get started with device twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-device-twins)
+      - [Synchronize device state with device twins](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-device-twins)
+      - [Manage device twins](https://learn.microsoft.com/en-us/azure/iot-hub/manage-device-twins)
+    - Module twins
+      - [Understand module twins](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-module-twins)
+      - [Get started with module twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-module-twins)
+  - Messaging
+    - [Create and read IoT Hub messages](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-construct)
+    - [Understand non-telemetry event schemas](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-non-telemetry-event-schema)
+    - [Send cloud-to-device messages from IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-c2d)
+    - [Choose a device communication protocol](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-protocols)
+    - [Read device-to-cloud messages from the built-in endpoint](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-read-builtin)
+    - [Understand message enrichments](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-message-enrichments-overview)
+    - [Use message enrichments](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-message-enrichments)
+  - Authentication and authorization
+    - [Built-in RBAC roles for IoT](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles/internet-of-things?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+    - [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-azure-ad)
+    - [Configure managed identities](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-managed-identity)
+    - [Shared access signatures](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-sas)
+    - [Regenerate access keys](https://learn.microsoft.com/en-us/azure/iot-hub/regenerate-keys)
+    - [Third-party X.509 certificates](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-x509)
+    - [Create and upload certificates for testing](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-x509-test-certs)
   - Security and best practices
     - [Secure your Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/secure-azure-iot-hub)
     - [Transport Layer Security TLS support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-tls-support)
-    - [Virtual networks support](https://learn.microsoft.com/en-us/azure/iot-hub/virtual-network-support)
+    - [Migrate to a new TLS certificate root](https://learn.microsoft.com/en-us/azure/iot-hub/migrate-tls-certificate)
+    - [Virtual networks support with Azure Private Link](https://learn.microsoft.com/en-us/azure/iot-hub/virtual-network-support)
+    - Network access control
+      - [Configure IP filtering](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-ip-filtering)
+      - [Manage public network access](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-public-network-access)
+      - [Restrict outbound network access](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-restrict-outbound-network-access)
     - [Security baseline for IoT Hub](https://learn.microsoft.com/security/benchmark/azure/baselines/iot-hub-security-baseline?toc=/azure/iot-hub/TOC.json)
     - [Regulatory compliance controls by Azure Policy](https://learn.microsoft.com/en-us/azure/iot-hub/security-controls-policy)
+  - Reliability and scaling
+    - [Best practices for large-scale IoT device deployments](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-deploy-at-scale?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+    - [Reliability in IoT Hub](https://learn.microsoft.com/en-us/azure/reliability/reliability-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+    - [Reliability in Azure Device Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-device-registry?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+    - [Disable disaster recovery](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-disable-dr)
+    - [Perform manual failover](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-manual-failover)
+  - Troubleshooting
+    - [Troubleshoot device connectivity](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-troubleshoot-connectivity)
+    - [Troubleshoot message routing](https://learn.microsoft.com/en-us/azure/iot-hub/troubleshoot-message-routing)
+    - [Troubleshoot error codes](https://learn.microsoft.com/en-us/azure/iot-hub/troubleshoot-error-codes)
+    - [Capture trace logs](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-collect-device-logs)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/azure-cli-reference-for-IoT)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.iothub)

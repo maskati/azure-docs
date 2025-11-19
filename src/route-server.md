@@ -17,6 +17,7 @@
     - [Routing preference](https://learn.microsoft.com/en-us/azure/route-server/hub-routing-preference)
     - [Next hop IP support](https://learn.microsoft.com/en-us/azure/route-server/next-hop-ip)
     - [Azure Route Server support for ExpressRoute and Azure VPN](https://learn.microsoft.com/en-us/azure/route-server/expressroute-vpn-support)
+    - [Azure Route Server Capacity](https://learn.microsoft.com/en-us/azure/route-server/route-server-capacity)
     - [Dual-homed network](https://learn.microsoft.com/en-us/azure/route-server/about-dual-homed-network)
     - [Path selection](https://learn.microsoft.com/en-us/azure/route-server/path-selection)
     - [Multi-region design](https://learn.microsoft.com/en-us/azure/route-server/multiregion)

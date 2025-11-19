@@ -5,6 +5,7 @@
     - [About App Service](https://learn.microsoft.com/en-us/azure/app-service/overview)
     - [About App Service Environments](https://learn.microsoft.com/en-us/azure/app-service/environment/overview)
     - [Compare web hosting options](https://learn.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
+    - [Managed Instance overview](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-instance)
   - [Integrate AI with App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-ai-integration)
   - Get started
     - [Get started](https://learn.microsoft.com/en-us/azure/app-service/getting-started)
@@ -26,6 +27,7 @@
         - [Discover .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-migration-discover-net)
         - [Migrate .NET](https://learn.microsoft.com/en-us/azure/app-service/app-service-asp-net-migration)
         - [Migrate containerized .NET](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service?bc=/azure/bread/toc.json&toc=/azure/app-service/toc.json)
+        - [Migrate to Managed Instance](https://learn.microsoft.com/en-us/azure/app-service/quickstart-managed-instance)
       - AI
         - [Chatbot with OpenAI](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-chatbot-dotnet)
         - [RAG with Azure OpenAI and your data](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-search-dotnet)
@@ -106,6 +108,8 @@
       - [Customize API Management developer portal](https://learn.microsoft.com/azure/api-management/developer-portal-wordpress-plugin?toc=%2Fazure%2Fapp-service%2Ftoc.json&bc=%2Fazure%2Fapp-service%2Fbreadcrumb%2Ftoc.json)
       - [WordPress FAQ](https://learn.microsoft.com/en-us/azure/app-service/wordpress-faq)
   - Deployment and configuration
+    - [Deploy Managed Instance](https://learn.microsoft.com/en-us/azure/app-service/quickstart-managed-instance)
+    - [Configure a Managed Instance](https://learn.microsoft.com/en-us/azure/app-service/configure-managed-instance)
     - [Deployment best practices](https://learn.microsoft.com/en-us/azure/app-service/deploy-best-practices)
     - [Deploy using ARM template](https://learn.microsoft.com/en-us/azure/app-service/quickstart-arm-template)
     - [Deploy a REST API tutorial](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api)

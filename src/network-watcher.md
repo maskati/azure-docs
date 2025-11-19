@@ -69,6 +69,8 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-overview)
       - [Log network traffic](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-tutorial)
       - [Manage VNet flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-manage)
+      - [VNet flow logs managed identity](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-managed-identity)
+      - [VNet flow logs filtering](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-filtering)
       - [Audit and deploy using Azure Policy](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-policy)
     - NSG flow logs
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview)

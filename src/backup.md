@@ -127,7 +127,7 @@
     - Vaults
       - [Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview)
       - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/backup-vault-overview)
-    - [Azure Business Continuity center](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-overview?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+    - [Resiliency](https://learn.microsoft.com/en-us/azure/resiliency/resiliency-overview?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
     - [Backup center](https://learn.microsoft.com/en-us/azure/backup/backup-center-overview)
     - Azure VM backup
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
@@ -171,24 +171,24 @@
       - Backup vault
         - [Create and delete](https://learn.microsoft.com/en-us/azure/backup/create-manage-backup-vault)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-backup-vault)
-    - Azure Business Continuity Center
-      - [View protectable resources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protectable-resources?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+    - Resiliency
+      - [View protectable resources](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-view-protectable-resources?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - Create and manage vaults
-        - [Create](https://learn.microsoft.com/en-us/azure/business-continuity-center/backup-vaults?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-        - [Manage](https://learn.microsoft.com/en-us/azure/business-continuity-center/manage-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Create](https://learn.microsoft.com/en-us/azure/resiliency/backup-vaults?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Manage](https://learn.microsoft.com/en-us/azure/resiliency/manage-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - Create and manage protection policy
-        - [Create](https://learn.microsoft.com/en-us/azure/business-continuity-center/backup-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-        - [Manage](https://learn.microsoft.com/en-us/azure/business-continuity-center/manage-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-configure-protection-datasource?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Reconfigure backup in an alternate vault](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-reconfigure-backup-alternate-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Recover item](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-recover-deleted-item?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [View protected items and perform actions](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-view-protected-items-and-perform-actions?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Review security posture](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-review-security-posture?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Monitor jobs](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-operate?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Monitor alerts and metrics](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-alerts-metrics?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Monitoring protection summary](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-monitor-protection-summary?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Govern and view compliance](https://learn.microsoft.com/en-us/azure/business-continuity-center/tutorial-govern-monitor-compliance?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Support Matrices](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-support-matrix?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Create](https://learn.microsoft.com/en-us/azure/resiliency/backup-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Manage](https://learn.microsoft.com/en-us/azure/resiliency/manage-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-configure-protection-datasource?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Reconfigure backup in an alternate vault](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-reconfigure-backup-alternate-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Recover item](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-recover-deleted-item?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [View protected items and perform actions](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-view-protected-items-and-perform-actions?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Review security posture](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-review-security-posture?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Monitor jobs](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-monitor-operate?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Monitor alerts and metrics](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-monitor-alerts-metrics?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Monitoring protection summary](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-monitor-protection-summary?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Govern and view compliance](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-govern-monitor-compliance?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Support Matrices](https://learn.microsoft.com/en-us/azure/resiliency/resiliency-support-matrix?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
     - Backup center
       - [Monitor and Operate](https://learn.microsoft.com/en-us/azure/backup/backup-center-monitor-operate)
       - [Obtain insights](https://learn.microsoft.com/en-us/azure/backup/backup-center-obtain-insights)

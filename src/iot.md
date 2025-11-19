@@ -25,7 +25,6 @@
     - [IoT device types](https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-types)
     - [C SDK and Embedded C SDK usage scenarios](https://learn.microsoft.com/en-us/azure/iot/concepts-using-c-sdk-and-embedded-c-sdk)
     - [Manage device reconnections](https://learn.microsoft.com/en-us/azure/iot/concepts-manage-device-reconnections)
-    - [IoT device selection](https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-selection)
   - Integrate using IoT Plug and Play
     - [Overview](https://learn.microsoft.com/en-us/azure/iot/overview-iot-plug-and-play)
     - [Architecture](https://learn.microsoft.com/en-us/azure/iot/concepts-architecture)

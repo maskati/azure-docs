@@ -3,6 +3,7 @@
   - [Azure Government Documentation](https://learn.microsoft.com/en-us/azure/azure-government/)
   - Overview
     - [What is Azure Government?](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-welcome)
+    - [Azure Government product General Availability](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-product-roadmap)
     - [Compare Azure Government and global Azure](https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure)
   - Quickstarts
     - [Azure Government portal](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-get-started-connect-with-portal)

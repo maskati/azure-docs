@@ -35,7 +35,6 @@
       - [About Basic SKU public IP address migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-about)
       - [How to migrate a Basic SKU public IP address to Standard](https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-howto)
     - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
-    - [About zone-redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
     - [VPN Gateway configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
     - [IPv6 configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipv6-configuration)
   - Create & manage a VPN gateway
@@ -52,9 +51,6 @@
     - Active-active mode gateways
       - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
       - [Change a gateway to active-active or active-standby](https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-change-active-active)
-    - Zone-redundant gateways
-      - [About zone-redundant gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
-      - [Configure a zone redundant gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway)
     - Delete a VPN gateway
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-powershell)
@@ -176,6 +172,10 @@
     - [About cryptographic requirements](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-compliance-crypto)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/vpn-gateway/roles-permissions)
     - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+  - Reliability
+    - [Reliability in VPN Gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network-gateway?pivot=vpn&toc=/azure/vpn-gateway/TOC.json)
+    - [Configure a zone redundant gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway)
+    - [Design highly available gateway connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
   - Routing
     - [Forced tunneling](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-tunneling)
     - [Gateway transit for VNet peering](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-peering-gateway-transit)

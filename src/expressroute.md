@@ -98,16 +98,26 @@
     - Traffic collector
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector)
       - [Configure Traffic Collector](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-traffic-collector)
-  - Resiliency
-    - Design and architecture
+  - Reliability
+    - Design for resiliency
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/design-architecture-for-resiliency)
-      - [High Availability](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-high-availability-with-expressroute)
-      - Disaster recovery
-        - [Private peering](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering)
-        - [Using VPN as a backup](https://learn.microsoft.com/en-us/azure/expressroute/use-s2s-vpn-as-backup-for-expressroute-privatepeering)
-    - [Evaluate ExpressRoute circuit resiliency](https://learn.microsoft.com/en-us/azure/expressroute/evaluate-circuit-resiliency)
-    - [Resiliency Insights](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-insights)
-    - [Resiliency Validation](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-validation)
+      - [Design for high availability](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-high-availability-with-expressroute)
+      - Private Peering
+        - [Design with private peering](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering)
+        - [Design VPN as private peering backup](https://learn.microsoft.com/en-us/azure/expressroute/use-s2s-vpn-as-backup-for-expressroute-privatepeering)
+    - ExpressRoute gateway
+      - [Reliability in ExpressRoute gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network-gateway?pivot=expressroute?toc=/azure/expressroute/toc.json)
+      - Zone-redundant gateway
+        - [Deploy a zone-redundant gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway?toc=/azure/expressroute/toc.json)
+        - Migrate to zone-redundant gateway
+          - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration)
+          - Migrate
+            - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-portal)
+            - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-powershell)
+          - [Troubleshoot](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration-error-messaging)
+      - [Evaluate ExpressRoute circuit resiliency](https://learn.microsoft.com/en-us/azure/expressroute/evaluate-circuit-resiliency)
+      - [Resiliency Insights](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-insights)
+      - [Resiliency Validation](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-validation)
   - Security
     - [Secure ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/secure-expressroute)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/expressroute-security-baseline?toc=/azure/expressroute/TOC.json)

@@ -215,13 +215,11 @@
       - Manage volume snapshots
         - [Create an on-demand snapshot](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-manage-snapshots)
         - [Manage snapshot policies](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-manage-policy)
-        - [Edit the Hide Snapshot Path](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-edit-hide-path)
+        - [Create a short-term clone](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-short-term-clone)
         - [Restore a snapshot to a new volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-new-volume)
         - [Restore individual files using single-file snapshot restore](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-file-single)
-        - [Restore individual files from backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/restore-single-file-backup)
         - [Restore a file from a snapshot using a client](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-file-client)
         - [Restore a volume using snapshot revert](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-revert-volume)
-        - [Create a short-term clone](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-short-term-clone)
         - [Delete snapshots](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-delete)
       - Manage volume backups
         - Configure backups
@@ -230,7 +228,8 @@
         - [Manage a backup vault](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-vault-manage)
         - [Manage backup policies](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-manage-policies)
         - [Search backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-search)
-        - [Restore a backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-restore-new-volume)
+        - [Restore a backup to a new volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-restore-new-volume)
+        - [Restore individual files from a backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/restore-single-file-backup)
         - [Delete backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-delete)
       - Manage replication
         - [Create volume replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-create-peering)

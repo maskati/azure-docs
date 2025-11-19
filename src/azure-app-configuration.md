@@ -56,6 +56,7 @@
       - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-azure-kubernetes-service)
     - Service integration
       - [App Service & Azure Functions](https://learn.microsoft.com/azure/app-service/app-service-configuration-references)
+      - [Azure Front Door](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-connect-azure-front-door)
     - Deployment
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-deployment-overview)
       - [Bicep](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-bicep)
@@ -138,7 +139,6 @@
     - [Move a resource between subscriptions or resource groups](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-move-resource-between-subscriptions-resource-groups)
     - [Preview API life cycle](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-preview-api-life-cycle)
   - Security
-    - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/secure-azure-app-configuration)
     - Authentication
       - [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-enable-rbac)
       - [Access keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-disable-access-key-authentication)

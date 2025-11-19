@@ -54,6 +54,7 @@
       - [GitHub Actions with Azure CLI](https://learn.microsoft.com/en-us/azure/container-apps/github-actions-cli)
       - [Deploy self-hosted CI/CD runners with jobs](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-ci-cd-runners-jobs)
     - [Revision management](https://learn.microsoft.com/en-us/azure/container-apps/revisions-manage)
+    - [Deployment labels](https://learn.microsoft.com/en-us/azure/container-apps/deployment-labels)
     - [Environment Variables](https://learn.microsoft.com/en-us/azure/container-apps/environment-variables)
     - [Use health probes](https://learn.microsoft.com/en-us/azure/container-apps/health-probes)
     - Storage mounts
@@ -62,6 +63,7 @@
     - Use Azure Functions
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/functions-overview)
       - [Create a Functions app](https://learn.microsoft.com/en-us/azure/container-apps/functions-usage)
+      - [Create your Azure functions on Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/functions-container-apps)
     - Use dynamic sessions
       - Code interpreter sessions
         - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
@@ -72,7 +74,10 @@
             - [LlamaIndex](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex)
             - [Semantic Kernel](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel)
           - Use the REST API
-            - [JavaScript Code interpreter preview](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs)
+            - [JavaScript code interpreter](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs)
+            - [Shell session](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell)
+            - [Shell session with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell-mcp)
+            - [Python code interpreter with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-python-mcp)
       - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
     - Event-driven processing
       - [With a job](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs)
@@ -88,7 +93,8 @@
         - [Target port](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-target-port-settings)
         - [Container start](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-start-failures)
   - AI integration
-    - [AI integration](https://learn.microsoft.com/en-us/azure/container-apps/ai-integration)
+    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/ai-integration)
+    - [Compose for agents](https://learn.microsoft.com/en-us/azure/container-apps/compose-agent)
     - GPUs
       - [Serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview)
       - [GPU types](https://learn.microsoft.com/en-us/azure/container-apps/gpu-types)
@@ -197,6 +203,7 @@
       - Rule based routing
         - [Use rule-based routing](https://learn.microsoft.com/en-us/azure/container-apps/rule-based-routing)
         - [Use a custom domain with rule-based routing](https://learn.microsoft.com/en-us/azure/container-apps/rule-based-routing-custom-domain)
+      - [Use premium ingress](https://learn.microsoft.com/en-us/azure/container-apps/premium-ingress)
       - [Use a private endpoint](https://learn.microsoft.com/en-us/azure/container-apps/how-to-use-private-endpoint)
       - [Use mTLS](https://learn.microsoft.com/en-us/azure/container-apps/mtls)
       - [Integrate with Azure Front Door](https://learn.microsoft.com/en-us/azure/container-apps/how-to-integrate-with-azure-front-door)

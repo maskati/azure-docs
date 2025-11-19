@@ -126,15 +126,16 @@
       - [Semantic caching for LLM API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
       - [Authenticate and authorize to Azure OpenAI](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-azure-openai)
       - [Log LLM tokens, requests, and responses](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-llm-logs)
-    - Manage MCP servers
+    - Manage AI tools and agents
       - [MCP server capabilities](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-overview)
       - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
       - [Expose existing MCP server](https://learn.microsoft.com/en-us/azure/api-management/expose-existing-mcp-server)
       - [Secure access to MCP servers](https://learn.microsoft.com/en-us/azure/api-management/secure-mcp-servers)
+      - [Import A2A agent API](https://learn.microsoft.com/en-us/azure/api-management/agent-to-agent-api)
   - Manage APIs with policies
     - [API Management policies overview](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-policies)
     - [Set or edit policies](https://learn.microsoft.com/en-us/azure/api-management/set-edit-policies)
-    - [Author policies using Microsoft Copilot in Azure](https://learn.microsoft.com/azure/copilot/author-api-management-policies?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
+    - [Author policies using Azure Copilot](https://learn.microsoft.com/azure/copilot/author-api-management-policies?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
     - [Create and debug policies in VS Code](https://learn.microsoft.com/en-us/azure/api-management/api-management-debug-policies)
     - [Policy expressions](https://learn.microsoft.com/en-us/azure/api-management/api-management-policy-expressions)
     - [Reuse policy configurations](https://learn.microsoft.com/en-us/azure/api-management/policy-fragments)

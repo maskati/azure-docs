@@ -194,6 +194,7 @@
         - [Launch Jupyter notebook](https://learn.microsoft.com/en-us/azure/sentinel/notebooks-hunt)
         - [Configure advanced MSTICPy settings](https://learn.microsoft.com/en-us/azure/sentinel/notebooks-msticpy-advanced)
       - [Bring your own machine learning](https://learn.microsoft.com/en-us/azure/sentinel/bring-your-own-ml)
+    - [Track and respond to threats with threat analytics](https://learn.microsoft.com/en-us/azure/sentinel/threat-analytics-sentinel)
     - Investigate incidents
       - Azure portal
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-investigation)
@@ -291,11 +292,18 @@
     - [Compare KQL jobs, summary rules, and search jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs-summary-rules-search-jobs)
     - Microsoft Sentinel MCP server
       - [Microsoft Sentinel MCP server overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-overview)
-      - [Get started with Microsoft Sentinel MCP](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-get-started)
+      - Get started with Microsoft Sentinel MCP
+        - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-get-started)
+        - [Use Sentinel MCP tools in Security Copilot](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-security-copilot)
+        - [Use Sentinel MCP tools in Copilot Studio](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-copilot-studio)
+        - [Use Sentinel MCP tools in Azure AI Foundry](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-azure-ai-foundry)
+        - [Use Sentinel MCP tools in Visual Studio Code](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-visual-studio-code)
+        - [Use Sentinel MCP connector in ChatGPT](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-chatgpt-connector)
       - Tool collection in Microsoft Sentinel MCP
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-tools-overview)
         - [Data exploration](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-data-exploration-tool)
         - [Agent creation](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-agent-creation-tool)
+        - [Create your own custom tool](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-create-custom-tool)
       - [Troubleshooting](https://learn.microsoft.com/en-us/azure/sentinel/datalake/troubleshoot-sentinel-mcp)
       - [Billing, limits, and availability](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-billing)
       - [Responsible AI FAQs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-responsible-ai-faq)

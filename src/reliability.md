@@ -110,9 +110,7 @@
       - [Azure Communications Gateway](https://learn.microsoft.com/en-us/azure/communications-gateway/reliability-communications-gateway?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure DNS](https://learn.microsoft.com/en-us/azure/reliability/reliability-dns)
       - [Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/reliability/reliability-ddos)
-      - Azure ExpressRoute
-        - [Availability zones](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-high-availability-with-expressroute?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure ExpressRoute gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network-gateway?pivot=expressroute)
       - [Azure Firewall](https://learn.microsoft.com/en-us/azure/reliability/reliability-firewall)
       - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer)
       - [Azure Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -124,9 +122,7 @@
       - Azure Virtual WAN
         - [Availability zones](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - Azure VPN Gateway
-        - [Availability zones](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure VPN Gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network-gateway?pivot=vpn)
     - Security
       - [Azure Disk Encryption](https://learn.microsoft.com/azure/virtual-machines/disks-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
