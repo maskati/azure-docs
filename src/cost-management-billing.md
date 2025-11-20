@@ -81,6 +81,7 @@
         - [Transfer CSP subscriptions](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp.yml)
         - [Transfer Microsoft Customer Agreement ownership](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-request-billing-ownership)
         - [Transfer Microsoft Partner Agreement ownership](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mpa-request-ownership)
+        - [To update COCP in Azure portal](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/change-of-channel-partner)
     - Perform key billing administration tasks
       - [Enable Azure Marketplace purchases](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/enable-marketplace-purchases)
       - Create subscriptions programmatically

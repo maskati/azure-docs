@@ -77,6 +77,7 @@
     - Snapshots
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-snapshots)
       - [Create and use snapshots](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-create-snapshots)
+      - [Snapshot references](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-snapshot-references)
     - Push notifications
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-app-configuration-event)
       - [Use Event Grid for data change notifications](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-app-configuration-event)

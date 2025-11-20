@@ -29,6 +29,7 @@
       - [Generate client access URL](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-generate-client-access-url)
       - [Configure event handler](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-eventhandler)
       - [Develop with local tunnel tool](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-web-pubsub-tunnel-tool)
+      - [Write an upstream server](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-web-pubsub-write-upstream-server)
       - [Send client events to Event Hubs](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-event-listener)
       - Use server SDK with Azure Identity
         - [Use server SDK with Azure Identity and .NET](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-create-serviceclient-with-net-and-azure-identity)

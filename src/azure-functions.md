@@ -59,6 +59,7 @@
       - [Use identity for host connections](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial)
       - [Use identity for triggers and bindings](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial-2)
       - [Access Azure SQL with managed identity](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity)
+      - [Access MCP server with agent identity](https://learn.microsoft.com/en-us/azure/app-service/overview-agent-identity?toc=/azure/azure-functions/toc.json)
     - [Low-latency Blob trigger using Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-grid-blob-trigger)
     - [Image resize with Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=/azure/azure-functions/toc.json)
     - [Create a serverless web app](https://learn.microsoft.com/training/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/)

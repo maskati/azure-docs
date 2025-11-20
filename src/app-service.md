@@ -178,6 +178,7 @@
       - [Connect to databases with managed identity](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-msi-azure-database)
       - [Connect to another app as user](https://learn.microsoft.com/en-us/azure/app-service/tutorial-auth-aad)
       - [App to app to another Azure service as user](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-app-app-graph-javascript)
+    - [Connect by using agent identity](https://learn.microsoft.com/en-us/azure/app-service/overview-agent-identity)
   - Scaling and performance
     - [Scale up server capacity](https://learn.microsoft.com/en-us/azure/app-service/manage-scale-up)
     - [Scale out automatically](https://learn.microsoft.com/en-us/azure/app-service/manage-automatic-scaling)
