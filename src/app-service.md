@@ -205,6 +205,9 @@
     - [Manage API versions](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-api-version)
     - [Use file-based configuration](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-file-based)
     - [Authenticate AI Foundry tool calls](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-ai-foundry-openapi-tool)
+    - Authentication for MCP servers
+      - [Overview](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp)
+      - [Secure calls from Visual Studio Code](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp-server-vscode)
   - Security and networking
     - [Security overview](https://learn.microsoft.com/en-us/azure/app-service/overview-security)
     - [Deploy a multi-region app tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-multi-region-app)

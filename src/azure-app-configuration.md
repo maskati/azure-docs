@@ -122,6 +122,7 @@
       - [Go Gin](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-variant-feature-flags-go)
     - Enable telemetry for feature flags
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry)
+      - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-telemetry-aspnet-core)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry-python)
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry-javascript)
   - CI/CD integration

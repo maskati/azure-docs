@@ -316,18 +316,17 @@
         - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-input)
         - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-output)
       - Azure Cosmos DB
-        - API for NoSQL
-          - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2)
-          - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-trigger)
-          - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-input)
-          - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-output)
-          - [Functions 1.x legacy](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb)
-          - [Migrate version 3.x to 4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-cosmos-db-version-3-version-4)
-        - API for MongoDB vCore
-          - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mongodb-vcore)
-          - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mongodb-vcore-trigger)
-          - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mongodb-vcore-input)
-          - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mongodb-vcore-output)
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-trigger)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-output)
+        - [Functions 1.x legacy](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb)
+        - [Migrate version 3.x to 4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-cosmos-db-version-3-version-4)
+      - Azure DocumentDB
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-documentdb)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-documentdb-trigger)
+        - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-documentdb-input)
+        - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-documentdb-output)
       - Azure Data Explorer
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer)
         - [Input](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer-input)

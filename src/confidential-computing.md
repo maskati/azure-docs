@@ -18,7 +18,7 @@
     - [It's the future](https://azure.microsoft.com/blog/key-foundations-for-protecting-your-data-with-azure-confidential-computing/)
     - [Confidential AI](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-ai)
   - How do I get it?
-    - Confidential virtual machines
+    - Confidential virtual machines VMs
       - [About Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-vm-overview)
       - [Azure confidential VM options](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-options)
       - [FAQ for confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-vm-faq.yml)
@@ -26,20 +26,20 @@
       - [Guest attestation Design for confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/guest-attestation-confidential-virtual-machines-design)
       - [About Azure confidential GPUs](https://learn.microsoft.com/en-us/azure/confidential-computing/gpu-options)
       - [Microsoft Defender for Cloud integration](https://learn.microsoft.com/en-us/azure/confidential-computing/guest-attestation-defender-for-cloud)
-      - [Virtual TPMs in Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-tpms-in-azure-confidential-vm)
+      - [Virtual Trusted Platform Modules TPMs in Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-tpms-in-azure-confidential-vm)
       - [Key rotation for Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/key-rotation-offline)
       - [Use sample app with guest attestation](https://learn.microsoft.com/en-us/azure/confidential-computing/guest-attestation-example)
-      - [Leverage virtual TPMs in Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-leverage-virtual-tpms-in-azure-confidential-vms)
+      - [Use virtual TPMs in Azure confidential VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-leverage-virtual-tpms-in-azure-confidential-vms)
       - [Create a custom image for a confidential VM](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-create-custom-image-confidential-vm)
       - [How to migrate nested confidential VMs from one region to another](https://learn.microsoft.com/en-us/azure/confidential-computing/migrate-nested-confidential-vms)
       - [Virtual Machine Metablob Disk](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-metablob-disk)
       - Quickly create confidential VMs
-        - [Create CVM through the Azure portal](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-portal)
-        - [Create CVM through Azure CLI](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-azure-cli)
-        - [Create CVM through ARM template](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-arm)
-        - [Create CVM through the Azure Marketplace](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-marketplace)
-        - [Create Hardened VMSS via Azure CLI](https://learn.microsoft.com/en-us/azure/confidential-computing/vmss-deployment-from-hardened-linux-image)
-        - [Sample scripts to create CVMs](https://github.com/Azure-Samples/confidential-computing)
+        - [Create a Confidential VM through the Azure portal](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-portal)
+        - [Create a Confidential VM through Azure CLI](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-azure-cli)
+        - [Create a Confidential VM through ARM template](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-arm)
+        - [Create a Confidential VM through Azure Marketplace](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-marketplace)
+        - [Create a Hardened Virtual Machine Scale Set VMSS via Azure CLI](https://learn.microsoft.com/en-us/azure/confidential-computing/vmss-deployment-from-hardened-linux-image)
+        - [Sample scripts to create ConfidentialVMs](https://github.com/Azure-Samples/confidential-computing)
       - Image hardening techniques for deployment
         - [Harden a Linux image to remove sudo users](https://learn.microsoft.com/en-us/azure/confidential-computing/harden-the-linux-image-to-remove-sudo-users)
         - [Harden a Linux image to remove Azure guest agent](https://learn.microsoft.com/en-us/azure/confidential-computing/harden-a-linux-image-to-remove-azure-guest-agent)
@@ -54,7 +54,7 @@
         - [Enclave development overview](https://learn.microsoft.com/en-us/azure/confidential-computing/confidential-computing-enclaves)
         - [Attesting application enclaves](https://learn.microsoft.com/en-us/azure/confidential-computing/attestation)
         - [Open-source projects for development](https://learn.microsoft.com/en-us/azure/confidential-computing/enclave-development-oss)
-        - [Deploying Intel SGX virtual machines](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-solutions-sgx)
+        - [Deploying Intel Software Guard Extensions SGX VMs](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-solutions-sgx)
         - [Application enclave VM FAQ](https://learn.microsoft.com/en-us/azure/confidential-computing/faq-application-enclaves.yml)
     - Container compute
       - [Container solutions overview](https://learn.microsoft.com/en-us/azure/confidential-computing/choose-confidential-containers-offerings)
@@ -89,6 +89,7 @@
       - [SQL Always Encrypted with secure enclaves](https://learn.microsoft.com/sql/relational-databases/security/encryption/configure-always-encrypted-enclaves)
     - Partner Solutions
       - [Overview](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/partner-pages-index)
+      - [Acompany](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/acompany)
       - [Anjuna](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/anjuna)
       - [BeeKeeperAI](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/beekeeperai)
       - [Decentriq](https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/decentriq)

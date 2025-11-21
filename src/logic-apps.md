@@ -50,7 +50,7 @@
       - [Navigate the Standard workflow designer](https://learn.microsoft.com/en-us/azure/logic-apps/designer-overview)
       - [Built-in versus Azure connector operations](https://learn.microsoft.com/en-us/azure/connectors/compare-built-in-azure-connectors)
       - [Estimate storage costs](https://learn.microsoft.com/en-us/azure/logic-apps/estimate-storage-costs)
-      - [Set up SQL storage](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-sql-db-storage-single-tenant-standard-workflows)
+      - [Set up SQL database storage](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-sql-database-storage-standard)
       - [Create Standard workflows - Portal](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-azure-portal)
       - [Create Standard workflows from templates - Portal](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-templates)
       - [Create Standard workflows - Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-visual-studio-code)

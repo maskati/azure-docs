@@ -156,6 +156,7 @@
   - Azure availability zones
     - [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview)
     - [Services with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support)
+    - [Single zone zonal resources](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-zonal-resource-resiliency)
     - Enable zone resiliency
       - [Overview](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-enable-zone-resiliency)
       - Enable zone resiliency by service

@@ -356,7 +356,7 @@
         - [AWS service logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws)
         - [AWS S3 WAF logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-s3-waf)
       - [Troubleshoot AWS S3 connector issues](https://learn.microsoft.com/en-us/azure/sentinel/aws-s3-troubleshoot)
-      - [Cisco FTD firewall](https://learn.microsoft.com/en-us/azure/sentinel/cisco-ftd-firewall)
+      - [Cisco firewalls](https://learn.microsoft.com/en-us/azure/sentinel/cisco-ftd-firewall)
       - [Google Cloud Platform connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-google-cloud-platform)
       - [Microsoft Entra](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory)
       - [Azure Stack VMs](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-stack)
@@ -457,6 +457,9 @@
       - [ASIM common fields](https://learn.microsoft.com/en-us/azure/sentinel/normalization-common-fields)
       - [ASIM helper functions](https://learn.microsoft.com/en-us/azure/sentinel/normalization-functions)
       - [ASIM known issues](https://learn.microsoft.com/en-us/azure/sentinel/normalization-known-issues)
+      - ASIM entities
+        - [ASIM user entity](https://learn.microsoft.com/en-us/azure/sentinel/normalization-entity-user)
+        - [ASIM device entity](https://learn.microsoft.com/en-us/azure/sentinel/normalization-entity-device)
       - ASIM schemas
         - [ASIM alert event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-alert)
         - [ASIM audit event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-audit)
