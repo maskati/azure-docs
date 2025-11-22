@@ -4,6 +4,7 @@
   - Overview
     - [What is Azure Bastion?](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
     - [What's new in Bastion?](https://learn.microsoft.com/en-us/azure/bastion/whats-new)
+    - [Cost optimization principles](https://learn.microsoft.com/en-us/azure/bastion/cost-optimization)
   - Quickstarts & Tutorials
     - [Deploy Bastion Developer](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer)
     - [Deploy Bastion - Standard SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
