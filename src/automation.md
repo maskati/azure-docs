@@ -1,5 +1,5 @@
 # Azure Automation documentation
-  - [Azure Automation User Documentation](https://learn.microsoft.com/en-us/azure/automation/)
+  - [Azure Automation Documentation](https://learn.microsoft.com/en-us/azure/automation/)
   - Overview
     - [What is Azure Automation?](https://learn.microsoft.com/en-us/azure/automation/overview)
     - [What are the various Automation services in Azure?](https://learn.microsoft.com/en-us/azure/automation/automation-services)
@@ -130,13 +130,12 @@
         - [Troubleshoot State Configuration issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration)
     - Change Tracking and Inventory using AMA
       - [About Change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview-monitoring-agent)
-      - [Change tracking extension version](https://learn.microsoft.com/en-us/azure/automation/change-tracking/extension-version-details)
       - [Supported regions](https://learn.microsoft.com/en-us/azure/automation/change-tracking/region-mappings-monitoring-agent)
       - Enable change tracking and inventory
         - [At scale using Azure portal - Machines blade New](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-change-tracking-at-scale-machines-blade)
         - [At scale using Azure Policy](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-change-tracking-at-scale-policy)
-        - [At scale using Azure portal - Virtual machines](https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-vms-monitoring-agent)
-      - [Manage change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-change-tracking-monitoring-agent)
+        - [Quickstart - Enable Azure Change Tracking and Inventory](https://learn.microsoft.com/azure/azure-change-tracking-inventory/quickstart-monitor-changes-collect-inventory-azure-change-tracking-inventory?pivots=single-portal)
+      - [Tutorial - Change a workspace and configure Data Collection Rule](https://learn.microsoft.com/azure/azure-change-tracking-inventory/tutorial-change-workspace-configure-data-collection-rule?tabs=windows%2Csa-mi)
     - Migration from Change Tracking and Inventory using LA to Change Tracking using AMA
       - [Migration from Log Analytics to Azure Monitoring Agent version](https://learn.microsoft.com/en-us/azure/automation/change-tracking/guidance-migration-log-analytics-monitoring-agent)
     - Scenarios

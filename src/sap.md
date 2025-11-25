@@ -6,3 +6,4 @@
   - [Azure Center for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/center-sap-solutions/toc.yml)
   - [SAP on Azure automation framework](https://learn.microsoft.com/en-us/azure/sap/automation/toc.yml)
   - [Azure Monitor for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/monitor/toc.yml)
+  - [Business Process Solutions](https://learn.microsoft.com/en-us/azure/sap/business-process-solutions/toc.yml)
