@@ -97,7 +97,7 @@
 [Microsoft Planetary Computer Pro](./planetary-computer.md)
 [Microsoft Playwright Testing Preview documentation](./playwright-testing.md)
 [Private Link documentation](./private-link.md)
-[Azure Redis Documentation](./redis.md)
+[Azure Managed Redis Documentation](./redis.md)
 [Azure reliability documentation](./reliability.md)
 [Resiliency documentation](./resiliency.md)
 [Azure Resource Mover documentation](./resource-mover.md)

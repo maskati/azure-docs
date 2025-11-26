@@ -164,8 +164,6 @@
         - [VM image upload](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-troubleshoot-virtual-machine-image-upload)
         - [VM deployment](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-troubleshoot-virtual-machine-provisioning)
         - [GPU extension issues](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-troubleshoot-virtual-machine-gpu-extension-installation)
-    - Azure Kubernetes service
-      - [Deploy AKS on Azure Stack Edge](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-deploy-aks-on-azure-stack-edge)
     - Kubernetes
       - [What is Kubernetes?](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-kubernetes-overview)
       - [Kubernetes storage](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-kubernetes-storage)
@@ -247,7 +245,8 @@
         - [Enable remote support](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-remote-support-diagnostics-repair)
         - [Contact Microsoft Support](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-contact-microsoft-support)
     - Shared release notes
-      - [2506 - Current](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2506-release-notes)
+      - [2510 - Current](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2510-release-notes)
+      - [2506](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2506-release-notes)
       - [2501](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2501-release-notes)
       - [2407](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2407-release-notes)
       - [2403](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2403-release-notes)

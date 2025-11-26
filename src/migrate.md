@@ -86,8 +86,8 @@
           - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/vm-assessment-properties)
           - [Target right-sizing](https://learn.microsoft.com/en-us/azure/migrate/target-right-sizing)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-assessment)
-        - AVS assessment
-          - [Create an AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
+        - Azure VMware Solution AVS assessment
+          - [Create an Azure VMware Solution AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
           - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-azure-vmware-solution-assessment)
         - Azure SQL assessment

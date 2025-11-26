@@ -296,7 +296,7 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-get-started)
         - [Use Sentinel MCP tools in Security Copilot](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-security-copilot)
         - [Use Sentinel MCP tools in Copilot Studio](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-copilot-studio)
-        - [Use Sentinel MCP tools in Azure AI Foundry](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-azure-ai-foundry)
+        - [Use Sentinel MCP tools in Microsoft Foundry](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-azure-ai-foundry)
         - [Use Sentinel MCP tools in Visual Studio Code](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-visual-studio-code)
         - [Use Sentinel MCP connector in ChatGPT](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-chatgpt-connector)
       - Tool collection in Microsoft Sentinel MCP

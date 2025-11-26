@@ -118,7 +118,7 @@
   - API management for AI
     - [AI gateway capabilities](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
     - Manage LLM APIs
-      - [Import Azure AI Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
+      - [Import Microsoft Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
       - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
       - [Import language model API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-llm-api)
       - [Import Google Gemini API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-google-gemini-api)
