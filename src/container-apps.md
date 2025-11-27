@@ -64,24 +64,8 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/functions-overview)
       - [Create a Functions app](https://learn.microsoft.com/en-us/azure/container-apps/functions-usage)
       - [Create your Azure functions on Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/functions-container-apps)
-      - [Manage with Azure CLI](https://learn.microsoft.com/en-us/azure/container-apps/functions-cli)
       - [Migrate from Functions v1 to v2](https://learn.microsoft.com/en-us/azure/container-apps/migrate-functions)
       - [Run event-driven and batch workloads](https://learn.microsoft.com/en-us/azure/container-apps/functions-unified-platform)
-    - Use dynamic sessions
-      - Code interpreter sessions
-        - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
-        - Tutorials
-          - Use a LLM agent
-            - [AutoGen](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen)
-            - [LangChain](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain)
-            - [LlamaIndex](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex)
-            - [Semantic Kernel](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel)
-          - Use the REST API
-            - [JavaScript code interpreter](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs)
-            - [Shell session](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell)
-            - [Shell session with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell-mcp)
-            - [Python code interpreter with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-python-mcp)
-      - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
     - Event-driven processing
       - [With a job](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs)
     - [Workflow](https://learn.microsoft.com/en-us/azure/container-apps/workflows-overview)
@@ -108,6 +92,17 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
       - [Usage](https://learn.microsoft.com/en-us/azure/container-apps/sessions-usage)
       - [Session pools](https://learn.microsoft.com/en-us/azure/container-apps/session-pool)
+      - [Code interpreter sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
+      - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
+      - Tutorials
+        - [AutoGen](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen)
+        - [LangChain](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain)
+        - [LlamaIndex](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex)
+        - [Semantic Kernel](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel)
+        - [JavaScript code interpreter](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs)
+        - [Shell session](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell)
+        - [Shell session with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell-mcp)
+        - [Python code interpreter with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-python-mcp)
     - [Modernize .NET & Java apps](https://learn.microsoft.com/en-us/azure/container-apps/modernize-ai)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
