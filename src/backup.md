@@ -375,6 +375,9 @@
         - [Release notes MABS](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-release-notes-v3)
         - [Turn on/off telemetry settings](https://learn.microsoft.com/en-us/azure/backup/manage-telemetry)
         - [Unattended installation](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-unattended-install)
+      - Configure and manage private endpoint in Recovery Services vault for backup
+        - [Configure private endpoint](https://learn.microsoft.com/en-us/azure/backup/private-endpoint-configure-vault-backup-server)
+        - [Re-register MABS using public access](https://learn.microsoft.com/en-us/azure/backup/register-public-access-vault-backup-server)
       - Protect workloads
         - [Back up Hyper-V virtual machines](https://learn.microsoft.com/en-us/azure/backup/back-up-hyper-v-virtual-machines-mabs)
         - [Back up Azure Local virtual machines](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-stack-hyperconverged-infrastructure-virtual-machines)
