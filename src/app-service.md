@@ -33,7 +33,7 @@
         - [RAG with Azure OpenAI and your data](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-search-dotnet)
         - [RAG Azure OpenAI and Azure SQL](https://learn.microsoft.com/en-us/azure/app-service/deploy-intelligent-apps-dotnet-to-azure-sql)
         - [Add MCP server to app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-dotnet)
-        - [AI Foundry Agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-dotnet)
+        - [Foundry agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-dotnet)
         - [Agentic web app .NET](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-web-app-semantic-kernel-foundry-dotnet)
         - [Invoke OpenAPI app from Azure AI Agent](https://learn.microsoft.com/en-us/azure/app-service/invoke-openapi-web-app-from-azure-ai-agent-service)
         - [Chatbot with local SLM](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-dotnet)
@@ -62,7 +62,7 @@
         - [RAG with Azure OpenAI with your data](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-search-java)
         - [Chatbot with local SLM](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-spring-boot)
         - [Add MCP server to app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-java)
-        - [AI Foundry Agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-java)
+        - [Foundry agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-java)
         - [Agentic web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-web-app-semantic-kernel-java)
     - Node.js
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs)
@@ -77,7 +77,7 @@
         - [RAG with Azure OpenAI and your data](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-search-nodejs)
         - [Chatbot with local SLM](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-expressjs)
         - [Add MCP server to app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-node)
-        - [AI Foundry Agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-node)
+        - [Foundry agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-node)
         - [Agentic web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-web-app-langgraph-foundry-node)
     - Python
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python)
@@ -92,9 +92,9 @@
         - [RAG with Azure OpenAI and your data](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-search-python)
         - [Chatbot with local SLM](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-fastapi)
         - [Add MCP server to app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-python)
-        - [AI Foundry Agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-python)
+        - [Foundry agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-python)
         - [Agentic web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-web-app-langgraph-foundry-python)
-        - [Web app from Azure AI Foundry](https://learn.microsoft.com/azure/ai-foundry/tutorials/deploy-chat-web-app?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
+        - [Web app from Microsoft Foundry](https://learn.microsoft.com/azure/ai-foundry/tutorials/deploy-chat-web-app?toc=/azure/app-service/toc.json&bc=/azure/bread/toc.json)
     - PHP
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-php)
       - [Configure](https://learn.microsoft.com/en-us/azure/app-service/configure-language-php)
@@ -204,7 +204,7 @@
     - [Work with tokens](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-oauth-tokens)
     - [Manage API versions](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-api-version)
     - [Use file-based configuration](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-file-based)
-    - [Authenticate AI Foundry tool calls](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-ai-foundry-openapi-tool)
+    - [Authenticate Microsoft Foundry tool calls](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-ai-foundry-openapi-tool)
     - Authentication for MCP servers
       - [Overview](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp)
       - [Secure calls from Visual Studio Code](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp-server-vscode)
