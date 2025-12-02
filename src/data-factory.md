@@ -140,6 +140,8 @@
     - [Naming rules](https://learn.microsoft.com/en-us/azure/data-factory/naming-rules)
     - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-data-factory?toc=/azure/data-factory/toc.json)
   - How-to guides
+    - Migration
+      - [Pipeline assessment tool](https://learn.microsoft.com/en-us/azure/data-factory/how-to-assess-your-azure-data-factory-to-fabric-data-factory-migration)
     - [Create a data factory in UI](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory)
     - Create Data Factory Programmatically
       - [Create data factory - Azure CLI](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-azure-cli)
