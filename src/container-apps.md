@@ -62,7 +62,7 @@
       - [Create an Azure Files storage mount](https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts-azure-files)
     - Use Azure Functions
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/functions-overview)
-      - [Create a Functions app](https://learn.microsoft.com/en-us/azure/container-apps/functions-usage)
+      - [Manage a Functions app through the portal and CLI](https://learn.microsoft.com/en-us/azure/container-apps/functions-usage)
       - [Create your Azure functions on Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/functions-container-apps)
       - [Migrate from Functions v1 to v2](https://learn.microsoft.com/en-us/azure/container-apps/migrate-functions)
       - [Run event-driven and batch workloads](https://learn.microsoft.com/en-us/azure/container-apps/functions-unified-platform)

@@ -188,7 +188,8 @@
         - [Azure Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-outages-disasters)
         - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-database)
         - [Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-managed-instance)
-        - [Azure Virtual Machines and Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/migrate-vm)
+        - [Azure Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machine-scale-sets)
+        - [Azure Virtual Machines](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machines)
   - Reliability concepts
     - [Business continuity, high availability, and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery)
     - [Redundancy, replication, and backup](https://learn.microsoft.com/en-us/azure/reliability/concept-redundancy-replication-backup)

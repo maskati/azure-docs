@@ -36,7 +36,6 @@
 [Azure Cloud Services (extended support) documentation](./cloud-services-extended-support.md)
 [cloud-shell](./cloud-shell.md)
 [Azure Communication Services documentation](./communication-services.md)
-[Azure Communications Gateway documentation](./communications-gateway.md)
 [Azure confidential computing](./confidential-computing.md)
 [Azure Container Apps documentation](./container-apps.md)
 [Cost Management + Billing documentation](./cost-management-billing.md)
