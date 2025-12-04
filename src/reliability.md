@@ -54,7 +54,6 @@
         - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-db-nosql)
-      - [Azure Cosmos DB for MongoDB vCore](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-mongodb)
       - Azure Cosmos DB for PostgreSQL
         - [Availability zones](https://learn.microsoft.com/azure/cosmos-db/postgresql/concepts-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/azure/cosmos-db/postgresql/concepts-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -63,6 +62,7 @@
         - [Availability zones](https://learn.microsoft.com/azure/mysql/flexible-server/concepts-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/azure/mysql/flexible-server/how-to-restore-server-portal?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-database-postgresql)
+      - [Azure DocumentDB](https://learn.microsoft.com/en-us/azure/reliability/reliability-documentdb)
       - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-database)
       - [Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-managed-instance)
     - Developer tools

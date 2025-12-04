@@ -22,7 +22,7 @@
       - [Run scheduled tasks](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-scheduled-tasks)
     - Developer tools
       - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
-      - [Command line](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli)
+      - [Command line Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli)
       - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-vs-code)
       - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
       - Other
@@ -35,7 +35,6 @@
       - [Bicep](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-bicep)
       - [ARM template](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-resource-manager)
       - [Terraform](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-terraform)
-      - [Custom handlers Go/Rust](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-other)
     - Connect to services
       - Storage
         - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs)

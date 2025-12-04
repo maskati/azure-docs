@@ -27,6 +27,7 @@
     - [Plans](https://learn.microsoft.com/en-us/azure/container-apps/plans)
     - [Environment](https://learn.microsoft.com/en-us/azure/container-apps/environment)
     - [Containers](https://learn.microsoft.com/en-us/azure/container-apps/containers)
+    - [Functions](https://learn.microsoft.com/en-us/azure/container-apps/functions-overview)
     - [Revisions](https://learn.microsoft.com/en-us/azure/container-apps/revisions)
     - [Application lifecycle management](https://learn.microsoft.com/en-us/azure/container-apps/application-lifecycle-management)
     - [Jobs](https://learn.microsoft.com/en-us/azure/container-apps/jobs)
@@ -40,6 +41,7 @@
     - [Create and deploy a container app using the CLI](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-deploy-first-app-cli)
     - [Create and deploy a container app from code](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-deploy-from-code)
     - [Update a container app deployed from code](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-update-from-code)
+    - [Create a functions app deployed from code](https://learn.microsoft.com/en-us/azure/container-apps/functions-container-apps)
     - Connect to apps & services
       - [Communicate between multiple apps](https://learn.microsoft.com/en-us/azure/container-apps/connect-apps)
       - Connect to a cloud service using Service Connector
@@ -68,6 +70,7 @@
       - [Run event-driven and batch workloads](https://learn.microsoft.com/en-us/azure/container-apps/functions-unified-platform)
     - Event-driven processing
       - [With a job](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs)
+      - [With Azure Functions](https://learn.microsoft.com/en-us/azure/container-apps/functions-unified-platform)
     - [Workflow](https://learn.microsoft.com/en-us/azure/container-apps/workflows-overview)
     - Troubleshooting
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting)
@@ -152,7 +155,7 @@
     - [Dapr component resiliency](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
   - Reliability
     - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
-    - [Create a zone redundant container app](https://learn.microsoft.com/en-us/azure/container-apps/how-to-zone-redundancy)
+    - [Create a zone-redundant container app](https://learn.microsoft.com/en-us/azure/container-apps/how-to-zone-redundancy)
   - Dedicated compute
     - [Workload profiles](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-overview)
     - Manage workload profiles
