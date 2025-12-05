@@ -305,6 +305,7 @@
       - [TestWorkflowStatus enum](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/test-workflow-status-enum-definition)
       - [TriggerMock class](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/trigger-mock-class-definition)
       - [UnitTestExecutor class](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/unit-test-executor-class-definition)
+      - [DataMapTestExecutor class](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/data-map-test-executor-class-definition)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/logic-apps/policy-reference)
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/?products=azure-logic-apps)
