@@ -39,7 +39,7 @@
         - [Create a Confidential VM through ARM template](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-arm)
         - [Create a Confidential VM through Azure Marketplace](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-marketplace)
         - [Create a Hardened Virtual Machine Scale Set VMSS via Azure CLI](https://learn.microsoft.com/en-us/azure/confidential-computing/vmss-deployment-from-hardened-linux-image)
-        - [Sample scripts to create ConfidentialVMs](https://github.com/Azure-Samples/confidential-computing)
+        - [Sample scripts to create Confidential VMs](https://github.com/Azure-Samples/confidential-computing)
       - Image hardening techniques for deployment
         - [Harden a Linux image to remove sudo users](https://learn.microsoft.com/en-us/azure/confidential-computing/harden-the-linux-image-to-remove-sudo-users)
         - [Harden a Linux image to remove Azure guest agent](https://learn.microsoft.com/en-us/azure/confidential-computing/harden-a-linux-image-to-remove-azure-guest-agent)
