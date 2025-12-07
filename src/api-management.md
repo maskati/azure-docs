@@ -347,6 +347,7 @@
       - [Managed certificates suspension August 2025 - March 2026](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/managed-certificates-suspension-august-2025)
       - [ADAL-based identity provider retirement September 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/identity-provider-adal-retirement-sep-2025)
       - [CAPTCHA endpoint update September 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/captcha-endpoint-change-sep-2025)
+      - [Trusted service connectivity retirement March 2026](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/trusted-service-connectivity-retirement-march-2026)
       - [Built-in analytics dashboard retirement March 2027](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/analytics-dashboard-retirement-march-2027)
     - [Regional availability](https://learn.microsoft.com/en-us/azure/api-management/api-management-region-availability)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/29/azure-api-management)
