@@ -88,7 +88,6 @@
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-assessment)
         - Azure VMware Solution AVS assessment
           - [Create an Azure VMware Solution AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
-          - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-azure-vmware-solution-assessment)
         - Azure SQL assessment
           - [Create an Azure SQL assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)
