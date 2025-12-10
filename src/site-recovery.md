@@ -291,12 +291,17 @@
     - [Configure Site Recovery reports](https://learn.microsoft.com/en-us/azure/site-recovery/report-site-recovery)
   - Troubleshooting
     - Troubleshoot Azure VMs
-      - [Azure VM replication errors](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-troubleshoot-errors)
+      - Azure VM replication errors
+        - [Protection errors](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-protection-errors)
+        - [Virtual Machine errors](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-virtual-machine-errors)
+        - [Other errors](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-troubleshoot-errors)
       - [Azure VM connectivity issues](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-troubleshoot-network-connectivity)
       - [Azure VM disaster recovery replication errors](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-troubleshoot-replication)
       - [Azure VM extension issues](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-extension-troubleshoot)
     - Troubleshoot VMware VMs/physical servers
-      - [VMware VM/physical server replication errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-replication)
+      - VMware VM/physical server
+        - [Replication errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-replication)
+        - [Error ID 78144](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-replication-vss-installation-failure-behaviors)
       - [Configuration server errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-configuration-server)
       - [Process server errors Classic](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-troubleshoot-process-server)
       - [Replication appliance health](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-troubleshoot-appliance-health-issue)
