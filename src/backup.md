@@ -115,6 +115,7 @@
       - [FAQ-Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vm-backup-faq.yml)
       - [FAQ-MARS agent](https://learn.microsoft.com/en-us/azure/backup/backup-azure-file-folder-backup-faq.yml)
       - [FAQ-Back up Azure Files](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files-faq.yml)
+      - [FAQ-Back up Azure Blob](https://learn.microsoft.com/en-us/azure/backup/blob-backup-faq.yml)
       - [FAQ-Azure Disk Backup](https://learn.microsoft.com/en-us/azure/backup/disk-backup-faq.yml)
       - [FAQ-Azure Backup for AKS](https://learn.microsoft.com/en-us/azure/backup/aks-backup-faq.yml)
       - [FAQ-Back up SQL Server databases on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/faq-backup-sql-server.yml)
