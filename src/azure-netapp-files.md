@@ -244,6 +244,7 @@
         - [Manage availability zone volume placement](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-availability-zone-volume-placement)
         - [Create cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-cross-zone-replication)
       - [Configure cross-zone-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-region-replication-configure)
+      - [Configure ransomware protection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/ransomware-configure)
     - Relocate
       - [Relocate volume to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-netapp?toc=/azure/azure-netapp-files/toc.json)
     - Develop
