@@ -35,7 +35,6 @@
         - [Add MCP server to app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-dotnet)
         - [Foundry agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-dotnet)
         - [Agentic web app .NET](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-web-app-semantic-kernel-foundry-dotnet)
-        - [Invoke OpenAPI app from Azure AI Agent](https://learn.microsoft.com/en-us/azure/app-service/invoke-openapi-web-app-from-azure-ai-agent-service)
         - [Chatbot with local SLM](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-dotnet)
     - Java
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-java)

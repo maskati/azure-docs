@@ -6,6 +6,27 @@
     - [Introduction to Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/introduction)
     - [What's new recent months](https://learn.microsoft.com/en-us/azure/data-factory/whats-new)
     - [What's new archived months](https://learn.microsoft.com/en-us/azure/data-factory/whats-new-archive)
+  - Migrate to Fabric
+    - [Compare Azure Data Factory to Data Factory in Fabric](https://learn.microsoft.com/fabric/data-factory/compare-fabric-data-factory-and-azure-data-factory?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+    - [Pipeline assessment tool](https://learn.microsoft.com/en-us/azure/data-factory/how-to-assess-your-azure-data-factory-to-fabric-data-factory-migration)
+    - [Connector capability comparison](https://learn.microsoft.com/fabric/data-factory/connector-parity?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+    - [Migration best practices](https://learn.microsoft.com/fabric/data-factory/migration-best-practices?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+    - Pipelines
+      - [Migrate from Azure Data Factory to Data Factory in Microsoft Fabric](https://learn.microsoft.com/fabric/data-factory/migrate-from-azure-data-factory?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+      - [Bring your Azure Data Factory to Fabric](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-azure-data-factory-item?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+      - [Planning your migration from Azure Data Factory to Fabric](https://learn.microsoft.com/fabric/data-factory/migrate-planning-azure-data-factory?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+      - Migrate pipelines with PowerShell
+        - [Pipeline migration with PowerShell overview](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-powershell-upgrade-module-for-azure-data-factory-to-fabric?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+        - [Tutorial PowerShell pipeline migration](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-powershell-upgrade-module-tutorial?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+        - [Build your resolutions file](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-how-to-add-connections-to-resolutions-file?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+        - [Find your Fabric workspace ID](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-how-to-find-your-fabric-workspace-id?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+      - [Fabric dataflows for mapping data flow users](https://learn.microsoft.com/fabric/data-factory/guide-to-dataflows-for-mapping-data-flow-users?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+      - [How to ingest data from Azure Data Factory to Fabric](https://learn.microsoft.com/en-us/azure/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory)
+    - Dataflows
+      - [Migrate from Dataflow Gen1 to Dataflow Gen2](https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+      - [Migrate to Dataflow Gen2 scenarios](https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1-scenarios?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+      - [Move queries from Dataflow Gen1 to Gen2](https://learn.microsoft.com/fabric/data-factory/move-dataflow-gen1-to-dataflow-gen2?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+      - [Migrate to Dataflow Gen2 using Save As](https://learn.microsoft.com/fabric/data-factory/migrate-to-dataflow-gen2-using-save-as?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
   - Quickstarts
     - [Get started with Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-get-started)
     - [Create a data factory](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory)
@@ -140,8 +161,6 @@
     - [Naming rules](https://learn.microsoft.com/en-us/azure/data-factory/naming-rules)
     - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-data-factory?toc=/azure/data-factory/toc.json)
   - How-to guides
-    - Migration
-      - [Pipeline assessment tool](https://learn.microsoft.com/en-us/azure/data-factory/how-to-assess-your-azure-data-factory-to-fabric-data-factory-migration)
     - [Create a data factory in UI](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory)
     - Create Data Factory Programmatically
       - [Create data factory - Azure CLI](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-azure-cli)
