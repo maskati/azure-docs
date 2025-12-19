@@ -16,6 +16,7 @@
     - Deploy and execute
       - [Create a storage mover resource](https://learn.microsoft.com/en-us/azure/storage-mover/storage-mover-create)
       - [Migrate from Amazon S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
+      - [Transfer from Azure Blob to Blob](https://learn.microsoft.com/en-us/azure/storage-mover/azure-to-azure-migration)
       - [Deploy a storage mover agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy)
       - [Register an agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-register)
       - [Create endpoints](https://learn.microsoft.com/en-us/azure/storage-mover/endpoint-manage)
