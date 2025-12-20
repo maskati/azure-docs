@@ -150,6 +150,7 @@
     - Managed identities
       - [Use managed identities](https://learn.microsoft.com/en-us/azure/container-apps/managed-identity)
       - [Azure Container Registry image pull with managed identity](https://learn.microsoft.com/en-us/azure/container-apps/managed-identity-image-pull)
+    - [Secure deployments](https://learn.microsoft.com/en-us/azure/container-apps/secure-deployment)
   - Resiliency preview
     - [Service discovery resiliency](https://learn.microsoft.com/en-us/azure/container-apps/service-discovery-resiliency)
     - [Dapr component resiliency](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)

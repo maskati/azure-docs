@@ -4,6 +4,7 @@
   - Overview
     - [What is Azure Bastion?](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
     - [What's new in Bastion?](https://learn.microsoft.com/en-us/azure/bastion/whats-new)
+    - [Bastion SKU comparison](https://learn.microsoft.com/en-us/azure/bastion/bastion-sku-comparison)
     - [Cost optimization principles](https://learn.microsoft.com/en-us/azure/bastion/cost-optimization)
   - Quickstarts & Tutorials
     - [Deploy Bastion Developer](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer)
@@ -12,12 +13,12 @@
     - [Deploy Bastion - ARM template](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-arm-template)
     - [Deploy Bastion - Terraform](https://learn.microsoft.com/en-us/azure/bastion/quickstart-deploy-terraform)
   - Concepts
+    - [Bastion configuration settings](https://learn.microsoft.com/en-us/azure/bastion/configuration-settings)
     - Work remotely
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fbastion%2ftoc.json)
       - [Leverage Bastion for remote working](https://learn.microsoft.com/en-us/azure/bastion/work-remotely-support)
     - [Bastion FAQ](https://learn.microsoft.com/en-us/azure/bastion/bastion-faq)
     - [Design architecture](https://learn.microsoft.com/en-us/azure/bastion/design-architecture)
-    - [Bastion configuration settings](https://learn.microsoft.com/en-us/azure/bastion/configuration-settings)
     - [VM connections and features](https://learn.microsoft.com/en-us/azure/bastion/vm-about)
     - [Bastion and VNet peering](https://learn.microsoft.com/en-us/azure/bastion/vnet-peering)
     - [Work with NSGs](https://learn.microsoft.com/en-us/azure/bastion/bastion-nsg)
