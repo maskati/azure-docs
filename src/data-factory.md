@@ -584,6 +584,8 @@
         - [FTP, SFTP, and HTTP](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-ftp-sftp-http)
         - [Google Ads](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-google-ads)
         - [Hive](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-hive)
+        - [Microsoft Fabric Lakehouse](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-microsoft-fabric-lakehouse)
+        - [Microsoft Fabric Warehouse](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-microsoft-fabric-warehouse)
         - [MongoDB](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-mongodb)
         - [Oracle](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-oracle)
         - [ORC format](https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-orc)
