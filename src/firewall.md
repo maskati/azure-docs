@@ -15,7 +15,6 @@
       - [Policy rule sets](https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets)
       - [Policy Analytics](https://learn.microsoft.com/en-us/azure/firewall/policy-analytics)
     - [FQDN filtering](https://learn.microsoft.com/en-us/azure/firewall/domain-filtering-overview)
-    - [Infrastructure FQDNs](https://learn.microsoft.com/en-us/azure/firewall/infrastructure-fqdns)
     - [IDPS signature rule categories](https://learn.microsoft.com/en-us/azure/firewall/idps-signature-categories)
     - [Web categories](https://learn.microsoft.com/en-us/azure/firewall/web-categories)
     - [Rule processing logic](https://learn.microsoft.com/en-us/azure/firewall/rule-processing)
@@ -27,7 +26,6 @@
     - [TCP idle timeout behavior](https://learn.microsoft.com/en-us/azure/firewall/tcp-session-behavior)
     - [Explicit Proxy](https://learn.microsoft.com/en-us/azure/firewall/explicit-proxy)
     - [Routing in hub and spoke](https://learn.microsoft.com/en-us/azure/firewall/firewall-multi-hub-spoke)
-    - [Central management](https://learn.microsoft.com/en-us/azure/firewall/central-management)
     - [Integrate with load balancer](https://learn.microsoft.com/en-us/azure/firewall/integrate-lb)
   - Deploy
     - Firewall Basic
@@ -47,7 +45,7 @@
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal-policy)
       - [PowerShell](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-ps)
     - [Firewall with inbound DNAT rules](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat-policy)
-    - [Private IP DNAT for overlapped and non-routable networks](https://learn.microsoft.com/en-us/azure/firewall/tutorial-private-ip-dnat)
+    - [Private IP DNAT for overlapped and nonroutable networks](https://learn.microsoft.com/en-us/azure/firewall/tutorial-private-ip-dnat)
     - [Firewall with DDoS protection](https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall)
     - [Integrate NAT gateway with Azure Firewall](https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-hub-spoke-nat-firewall?toc=%2fazure%2ffirewall%2ftoc.json)
     - Deploy with IP Groups

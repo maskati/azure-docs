@@ -13,6 +13,10 @@
       - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-aspnet-core-app)
       - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-core)
       - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core)
+    - Aspire
+      - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-aspire)
+      - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-aspire)
+      - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspire)
     - .NET
       - [Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-dotnet-core-app)
       - [Dynamic configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-core)

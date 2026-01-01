@@ -623,6 +623,7 @@
       - [Advanced topics](https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-advanced-topics)
   - Security
     - [Secure your Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/secure-your-azure-data-factory)
+    - [Business continuity and disaster recovery](https://learn.microsoft.com/en-us/azure/data-factory/pipelines-disaster-recovery)
   - Workflow Orchestration Manager
     - Tutorials
       - [Run an existing pipeline with Airflow](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-run-existing-pipeline-with-airflow)
