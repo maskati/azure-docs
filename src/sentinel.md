@@ -378,6 +378,7 @@
       - [Ingest-time normalization](https://learn.microsoft.com/en-us/azure/sentinel/normalization-ingest-time)
       - [Use ASIM](https://learn.microsoft.com/en-us/azure/sentinel/normalization-about-parsers)
       - [Manage ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-manage-parsers)
+      - [Develop ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-develop-parsers)
       - [Modify content to use ASIM](https://learn.microsoft.com/en-us/azure/sentinel/normalization-modify-content)
     - Aggregate data
       - [Aggregate data with summary rules](https://learn.microsoft.com/en-us/azure/sentinel/summary-rules)
