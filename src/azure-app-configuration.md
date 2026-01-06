@@ -60,7 +60,6 @@
       - [Feature management](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-azure-kubernetes-service)
     - Service integration
       - [App Service & Azure Functions](https://learn.microsoft.com/azure/app-service/app-service-configuration-references)
-      - [Azure Front Door](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-connect-azure-front-door)
     - Deployment
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-deployment-overview)
       - [Bicep](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-bicep)
@@ -129,6 +128,10 @@
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-telemetry-aspnet-core)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry-python)
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry-javascript)
+  - Hyperscale configuration
+    - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-hyperscale-client-configuration)
+    - [Connect to Azure Front Door](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-connect-azure-front-door)
+    - [Load Configuration from Azure Front Door](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-load-azure-front-door-configuration-provider)
   - CI/CD integration
     - [Use configuration files](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-config-file)
     - [Import using Azure Pipelines](https://learn.microsoft.com/en-us/azure/azure-app-configuration/azure-pipeline-import-task)

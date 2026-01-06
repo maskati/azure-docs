@@ -377,6 +377,7 @@
       - [ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-parsers-overview)
       - [Ingest-time normalization](https://learn.microsoft.com/en-us/azure/sentinel/normalization-ingest-time)
       - [Use ASIM](https://learn.microsoft.com/en-us/azure/sentinel/normalization-about-parsers)
+      - [Workspace deployed parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-about-workspace-parsers)
       - [Manage ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-manage-parsers)
       - [Develop ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-develop-parsers)
       - [Modify content to use ASIM](https://learn.microsoft.com/en-us/azure/sentinel/normalization-modify-content)
@@ -463,6 +464,7 @@
       - ASIM entities
         - [ASIM user entity](https://learn.microsoft.com/en-us/azure/sentinel/normalization-entity-user)
         - [ASIM device entity](https://learn.microsoft.com/en-us/azure/sentinel/normalization-entity-device)
+        - [ASIM application entity](https://learn.microsoft.com/en-us/azure/sentinel/normalization-entity-application)
       - ASIM schemas
         - [ASIM alert event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-alert)
         - [ASIM audit event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-audit)
