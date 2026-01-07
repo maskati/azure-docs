@@ -156,6 +156,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-private-endpoint)
       - [Set up Private Endpoints](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-set-up-private-access)
       - [Disable public network access](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-disable-public-access)
+      - [Network access errors](https://learn.microsoft.com/en-us/azure/azure-app-configuration/network-access-errors)
     - Data encryption
       - [Add Managed Identities](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview-managed-identity)
       - [Encrypt data using customer-managed keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-customer-managed-keys)

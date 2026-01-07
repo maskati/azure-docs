@@ -84,7 +84,7 @@
       - [Deploy observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-configure-observability)
       - [Clean up observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-clean-up-observability-resources)
     - Develop edge applications
-      - [Azure IoT Operations SDKs](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-iot-operations-sdks)
+      - [Developer guide](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-iot-operations-development)
       - [Start developing with the SDKs](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/quickstart-get-started-sdks)
       - [Build WASM modules with VS Code extension](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-build-wasm-modules-vscode)
       - [Build WASM modules](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-develop-wasm-modules)

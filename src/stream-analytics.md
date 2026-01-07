@@ -36,6 +36,10 @@
     - [Choose a streaming analytics technology](https://learn.microsoft.com/en-us/azure/stream-analytics/streaming-technologies)
     - [Choose a job development tool](https://learn.microsoft.com/en-us/azure/stream-analytics/feature-comparison)
     - [Develop locally](https://learn.microsoft.com/en-us/azure/stream-analytics/develop-locally)
+    - Reliability
+      - [Reliability in Stream Analytics](https://learn.microsoft.com/en-us/azure/reliability/reliability-stream-analytics?toc=/azure/stream-analytics/TOC.json)
+      - [Pair jobs for reliability](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-reliability)
+      - [Geo-redundancy](https://learn.microsoft.com/en-us/azure/stream-analytics/geo-redundancy)
     - Security
       - [Connect jobs to Azure Virtual Network VNet](https://learn.microsoft.com/en-us/azure/stream-analytics/connect-job-to-vnet)
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/stream-analytics/security-controls-policy)

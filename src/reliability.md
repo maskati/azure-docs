@@ -19,7 +19,7 @@
       - [Azure Event Hubs](https://learn.microsoft.com/azure/event-hubs/event-hubs-business-continuity-outages-disasters?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure HDInsight](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight)
       - [Azure Machine Learning](https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/stream-analytics/geo-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/reliability/reliability-stream-analytics)
       - [Microsoft Fabric](https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric)
       - [Microsoft Purview](https://learn.microsoft.com/en-us/azure/reliability/reliability-microsoft-purview)
     - Compute
@@ -37,7 +37,7 @@
       - [Azure Virtual Machines](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machines)
       - [Azure Virtual Machine Image Builder](https://learn.microsoft.com/en-us/azure/reliability/reliability-image-builder)
       - [Azure Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machine-scale-sets)
-      - [Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-disaster-recovery-using-vmware-hcx?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure VMware Solution](https://learn.microsoft.com/azure/azure-vmware/deploy-disaster-recovery-using-vmware-hcx?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
     - Containers
       - Azure App Configuration
         - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-app-configuration/faq.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -93,7 +93,7 @@
       - [Azure Notification Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs)
     - Management and governance
       - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/reliability-backup)
-      - [Azure Guest Configuration](https://learn.microsoft.com/en-us/azure/governance/machine-configuration/overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Guest Configuration](https://learn.microsoft.com/azure/governance/machine-configuration/overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - Azure Monitor - Log Analytics
         - [Availability zones](https://learn.microsoft.com/azure/azure-monitor/logs/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Azure Monitor - Log Analytics](https://learn.microsoft.com/azure/azure-monitor/logs/logs-data-export?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=portal)
