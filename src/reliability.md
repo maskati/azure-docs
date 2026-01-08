@@ -5,7 +5,6 @@
   - Reliability guides by service
     - [Overview](https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance)
     - AI and machine learning
-      - [Azure AI Health Insights](https://learn.microsoft.com/en-us/azure/reliability/reliability-health-insights)
       - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/reliability-ai-search)
       - [Azure Bot Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-bot)
       - [Azure Databricks](https://learn.microsoft.com/en-us/azure/reliability/reliability-databricks)
@@ -115,6 +114,7 @@
       - [Azure ExpressRoute gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network-gateway?pivot=expressroute)
       - [Azure Firewall](https://learn.microsoft.com/en-us/azure/reliability/reliability-firewall)
       - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer)
+      - [Azure NAT Gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-nat-gateway)
       - [Azure Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions.yml?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Private Link](https://learn.microsoft.com/en-us/azure/private-link/availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Public IP](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)

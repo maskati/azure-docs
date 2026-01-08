@@ -66,15 +66,12 @@
         - [Azure Data Explorer](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-adx-endpoint)
         - [OpenTelemetry](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-opentelemetry-endpoint)
         - [Local storage or ACSA](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-local-storage-endpoint)
-        - [Registry endpoint](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-registry-endpoint)
       - [Create a data flow](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-create-dataflow)
       - Transform data
         - [Map data](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-dataflow-mapping)
         - [Convert data](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-dataflow-conversions)
         - [Enrich data](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-dataflow-enrich)
-      - Use WASM data flow graphs
-        - [Deploy data flow graphs](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-dataflow-graph-wasm)
-        - [Configure graph definitions](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-wasm-graph-definitions)
+        - [Use WASM data flow graphs](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-dataflow-graph-wasm)
       - [Use message schemas](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-schema-registry)
       - [Manage data flow profiles](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-dataflow-profile)
     - Manage network
@@ -86,9 +83,13 @@
     - Develop edge applications
       - [Developer guide](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-iot-operations-development)
       - [Start developing with the SDKs](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/quickstart-get-started-sdks)
-      - [Build WASM modules with VS Code extension](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-build-wasm-modules-vscode)
-      - [Build WASM modules](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-develop-wasm-modules)
-      - [AI inference with ONNX](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-wasm-onnx-inference)
+      - Define custom processing with WASM
+        - [Build WASM modules with VS Code extension](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-build-wasm-modules-vscode)
+        - [Build WASM modules](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-develop-wasm-modules)
+        - [Configure graph definitions](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-configure-wasm-graph-definitions)
+        - [Configure registry endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-configure-registry-endpoint)
+        - [Deploy graph definitions](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-deploy-wasm-graph-definitions)
+        - [AI inference with ONNX](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-wasm-onnx-inference)
       - [Build Akri connectors with VS Code extension](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-build-akri-connectors-vscode)
       - Concepts
         - [Highly available edge apps](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-edge-apps)

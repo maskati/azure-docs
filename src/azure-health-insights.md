@@ -10,6 +10,6 @@
   - How-To
     - [How to Use Azure AI Health Insights with containers](https://learn.microsoft.com/en-us/azure/azure-health-insights/use-containers)
     - [How to configure the containers](https://learn.microsoft.com/en-us/azure/azure-health-insights/configure-containers)
-    - [Reliability in Azure Health Insights](https://learn.microsoft.com/en-us/azure/reliability/reliability-health-insights?toc=/azure/health-insights/toc.json)
+    - [Reliability in Azure Health Insights](https://learn.microsoft.com/en-us/azure/azure-health-insights/reliability-health-insights)
   - Responsible use of AI
     - [Data, privacy, and security](https://learn.microsoft.com/en-us/azure/azure-health-insights/responsible-ai/data-privacy-security)
