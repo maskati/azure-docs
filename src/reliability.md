@@ -67,7 +67,6 @@
     - Developer tools
       - [Azure API Center](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-center)
     - DevOps
-      - [Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/reliability/reliability-deployment-environments?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure DevOps](https://learn.microsoft.com/azure/devops/organizations/security/data-protection?view=azure-devops.md&preserve-view=true)
       - Azure Monitor - Log Analytics
         - [Availability zones](https://learn.microsoft.com/azure/azure-monitor/logs/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -127,7 +126,7 @@
       - [Azure VPN Gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network-gateway?pivot=vpn)
     - Security
       - [Azure Disk Encryption](https://learn.microsoft.com/azure/virtual-machines/disks-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-      - [Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
+      - [Azure Firewall](https://learn.microsoft.com/en-us/azure/reliability/reliability-firewall)
       - [Azure Key Vault](https://learn.microsoft.com/en-us/azure/reliability/reliability-key-vault)
       - [Microsoft Defender for Cloud DevOps security](https://learn.microsoft.com/en-us/azure/reliability/reliability-defender-devops)
     - Storage
@@ -163,10 +162,10 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-enable-zone-resiliency)
       - Enable zone resiliency by service
         - [Azure AI Search](https://learn.microsoft.com/en-us/azure/reliability/reliability-ai-search)
-        - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt)
+        - [Azure API Management](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-management)
         - [Azure App Configuration](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration)
         - [Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service)
-        - [Azure Application Gateway](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2)
+        - [Azure Application Gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-application-gateway-v2)
         - [Azure Blob Storage](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-blob)
         - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/migrate-functions)
         - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
@@ -174,14 +173,14 @@
         - [Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis)
         - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-apps)
         - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/migrate-container-instances)
-        - [Azure Container Registry](https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability)
+        - [Azure Container Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-registry)
         - [Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/reliability/migrate-cosmos-nosql)
         - [Azure Database for MySQL - Flexible Server](https://learn.microsoft.com/en-us/azure/reliability/migrate-database-mysql-flex)
         - [Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal?toc=/azure/reliability)
         - [Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san)
         - [Azure HDInsight](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight)
         - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-aks)
-        - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer)
+        - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer)
         - [Log Analytics Dedicated Cluster workspaces](https://learn.microsoft.com/en-us/azure/reliability/migrate-monitor-log-analytics)
         - [Azure Recovery Services vault](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
         - [Azure Service Fabric](https://learn.microsoft.com/en-us/azure/reliability/migrate-service-fabric)

@@ -3,8 +3,8 @@
   - [ExpressRoute documentation](https://learn.microsoft.com/en-us/azure/expressroute/)
   - Get started
     - [What is ExpressRoute?](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
-    - [Architecture best practices for Azure ExpressRoute](https://learn.microsoft.com/azure/well-architected/service-guides/azure-expressroute?toc=/azure/expressroute/toc.jso)
-    - What is hybrid connectivity?
+    - [Architecture best practices for Azure ExpressRoute](https://learn.microsoft.com/azure/well-architected/service-guides/azure-expressroute?toc=/azure/expressroute/toc.json)
+    - [What is hybrid connectivity?](https://learn.microsoft.com/en-us/azure/networking/hybrid-connectivity/hybrid-connectivity)
     - Before you start using ExpressRoute
       - [Prerequisites](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-prerequisites)
       - [Understand connectivity models](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-connectivity-models)
