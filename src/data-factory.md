@@ -11,6 +11,7 @@
     - [Pipeline assessment tool](https://learn.microsoft.com/en-us/azure/data-factory/how-to-assess-your-azure-data-factory-to-fabric-data-factory-migration)
     - [Connector capability comparison](https://learn.microsoft.com/fabric/data-factory/connector-parity?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
     - [Migration planning](https://learn.microsoft.com/fabric/data-factory/migrate-planning-azure-data-factory?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+    - [Migrate global parameters to variable libraries](https://learn.microsoft.com/fabric/data-factory/convert-global-parameters-to-variable-libraries?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
     - [Migration best practices](https://learn.microsoft.com/fabric/data-factory/migration-best-practices?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
     - [Bring your Azure Data Factory to Fabric](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-azure-data-factory-item?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
     - Migrate pipelines with PowerShell
