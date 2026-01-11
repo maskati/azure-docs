@@ -11,7 +11,7 @@
     - [Key concepts](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-environments-key-concepts)
     - [Parameters and data types in environment.yaml](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-environment-yaml)
     - [Best practices for designing catalogs](https://learn.microsoft.com/en-us/azure/deployment-environments/best-practice-catalog-structure)
-    - [Reliability in Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/reliability/reliability-deployment-environments?toc=/azure/deployment-environments/toc.json&bc=/azure/deployment-environments/breadcrumb/toc.json)
+    - [Reliability in Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-reliability-deployment-environments)
     - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-deployment-environments-role-based-access-control)
   - Configure resources
     - [Add & configure a catalog](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-configure-catalog)
