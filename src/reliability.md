@@ -62,6 +62,7 @@
         - [Disaster recovery](https://learn.microsoft.com/azure/mysql/flexible-server/how-to-restore-server-portal?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-database-postgresql)
       - [Azure DocumentDB](https://learn.microsoft.com/en-us/azure/reliability/reliability-documentdb)
+      - [Azure Managed Redis](https://learn.microsoft.com/en-us/azure/reliability/reliability-managed-redis)
       - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-database)
       - [Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/reliability/reliability-sql-managed-instance)
     - Developer tools

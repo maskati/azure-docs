@@ -5,9 +5,10 @@
     - [What is Azure NAT Gateway?](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview)
     - [Create and validate a Standard Azure NAT Gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway)
     - [Create and validate a Standard V2 Azure NAT Gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway-v2)
-    - [Availability zones](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-availability-zones)
     - [NAT gateway resource](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-resource)
     - [NAT Gateway SKUs](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-sku)
+  - Reliability
+    - [Reliability in Azure NAT Gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-nat-gateway?toc=/azure/nat-gateway/toc.json&bc=/azure/nat-gateway/breadcrumb/toc.json)
   - Deploy
     - [NAT gateway design guidance](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-design)
     - [Use a NAT gateway with a hub and spoke network](https://learn.microsoft.com/en-us/azure/nat-gateway/tutorial-hub-spoke-route-nat)
