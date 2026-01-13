@@ -3,7 +3,7 @@
   - [Azure Resource Mover Documentation](https://learn.microsoft.com/en-us/azure/resource-mover/)
   - Overview
     - [About Azure Resource Mover](https://learn.microsoft.com/en-us/azure/resource-mover/overview)
-    - [Select a tool to move resources](https://learn.microsoft.com/en-us/azure/resource-mover/select-move-tool)
+    - [Select options to move resources](https://learn.microsoft.com/en-us/azure/resource-mover/select-options-to-move-resources)
     - [Common questions](https://learn.microsoft.com/en-us/azure/resource-mover/common-questions)
     - [What's new](https://learn.microsoft.com/en-us/azure/resource-mover/whats-new)
   - Tutorials

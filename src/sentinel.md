@@ -158,6 +158,7 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/entities)
         - [Entity pages](https://learn.microsoft.com/en-us/azure/sentinel/entity-pages)
         - [User and entity behavior analytics UEBA](https://learn.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics)
+        - [Aggregate behavioral insights from raw logs](https://learn.microsoft.com/en-us/azure/sentinel/entity-behaviors-layer)
         - [Create custom entity activities](https://learn.microsoft.com/en-us/azure/sentinel/customize-entity-activities)
       - Watchlists
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/watchlists)
@@ -345,8 +346,9 @@
       - CEF/Syslog
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/cef-syslog-ama-overview)
         - [CEF and Syslog via AMA](https://learn.microsoft.com/en-us/azure/sentinel/connect-cef-syslog-ama)
-        - [CEF - configure security device](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector-cef-device)
+        - [Device configuration for CEF via AMA](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector-cef-device)
         - [Syslog - configure security device](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector-syslog-device)
+        - [Troubleshoot CEF and Syslog via AMA](https://learn.microsoft.com/en-us/azure/sentinel/cef-syslog-ama-troubleshooting)
       - Custom log sources text files
         - [Collect logs from text files via AMA](https://learn.microsoft.com/en-us/azure/sentinel/connect-custom-logs-ama)
         - [Custom logs - configure security device](https://learn.microsoft.com/en-us/azure/sentinel/unified-connector-custom-device)
@@ -504,6 +506,9 @@
       - [Enrich entities with geolocation data with REST-API](https://learn.microsoft.com/en-us/azure/sentinel/geolocation-data-api)
       - [Threat intelligence upload API reference](https://learn.microsoft.com/en-us/azure/sentinel/stix-objects-api)
       - [Legacy upload indicator API reference](https://learn.microsoft.com/en-us/azure/sentinel/upload-indicators-api)
+  - Responsible AI
+    - [Responsible AI FAQ for UEBA behaviors layer](https://learn.microsoft.com/en-us/azure/sentinel/entity-behaviors-layer-rai-faqs)
+    - [Responsible AI FAQ for Microsoft Sentinel MCP](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-responsible-ai-faq)
   - [Microsoft Sentinel blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)
   - [Pricing](https://azure.microsoft.com/pricing/details/azure-sentinel/)
   - Build your skills for Microsoft Sentinel

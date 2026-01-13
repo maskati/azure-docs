@@ -193,11 +193,8 @@
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)
     - [WhatsApp channel prerequisites](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-channel-prerequisites)
     - [WhatsApp business account FAQ](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-business-account-faq)
-    - Logging and analytics
-      - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
-      - [Advanced Messaging logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/logs)
-      - [Message analysis](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/message-analysis/message-analysis)
-      - [Message analysis transparency FAQ](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/message-analysis/message-analysis-transparency-faq)
+    - [Enable logging with Azure Monitor](https://learn.microsoft.com/en-us/azure/communication-services/concepts/analytics/enable-logging)
+    - [Advanced Messaging logs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/logs)
     - Samples and tutorials
       - [Try Advanced Messaging Sandbox](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-sandbox-quickstart)
       - [Register WhatsApp Business Account](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/connect-whatsapp-business-account)
@@ -210,7 +207,6 @@
       - [Handle Advanced messaging events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/handle-advanced-messaging-events)
       - [Download media payload](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/download-media)
       - [WhatsApp business account FAQ](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/whatsapp/whatsapp-business-account-faq)
-      - [Enable Message Analysis With Azure OpenAI](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/advanced-messaging/message-analysis/message-analysis-with-azure-openai-quickstart)
     - References
       - [Messages Java](https://learn.microsoft.com/java/api/overview/azure/communication-messages-readme)
       - [Messages JavaScript](https://learn.microsoft.com/javascript/api/overview/azure/communication-messages-rest-readme)
