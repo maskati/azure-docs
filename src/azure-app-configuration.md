@@ -96,6 +96,9 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-chat-completion-config)
       - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-chat-completion-dotnet)
       - [Go](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-chat-completion-go)
+    - Agent framework
+      - [Get started](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-ai-agent-config)
+      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-ai-agent-config-python)
   - Feature management
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
     - [Experimentation](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-experimentation)
