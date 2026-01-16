@@ -203,4 +203,3 @@
     - [Azure Reliability feature page](https://azure.microsoft.com/explore/reliability/)
     - [Reliability testing - Chaos engineering](https://learn.microsoft.com/azure/well-architected/resiliency/chaos-engineering)
     - [Reliability in Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/reliability)
-    - [Azure Service Manager retirement](https://learn.microsoft.com/en-us/azure/reliability/asm-retirement)
