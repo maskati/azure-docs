@@ -5,6 +5,9 @@
     - [About Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview)
     - [Site Recovery - FAQ](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-faq.yml)
     - [Manage Site Recovery updates](https://learn.microsoft.com/en-us/azure/site-recovery/service-updates-how-to)
+    - Pricing
+      - [Azure to Azure - Costs](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-cost)
+      - [About Azure Site Recovery deployment planner](https://learn.microsoft.com/en-us/azure/site-recovery/deployment-planner-cost-estimation)
   - What's New
     - [Release notes](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-whats-new)
     - [Feature releases](https://learn.microsoft.com/en-us/azure/site-recovery/feature-updates-whats-new)
@@ -83,7 +86,6 @@
     - About Azure VM disaster recovery
       - [Azure to Azure disaster recovery architecture](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-architecture)
       - [Azure trusted launch VMs](https://learn.microsoft.com/en-us/azure/site-recovery/concepts-trusted-vm)
-      - [Azure to Azure - Costs](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-cost)
       - [Configure Failover for Multiple IP addresses](https://learn.microsoft.com/en-us/azure/site-recovery/concepts-multiple-ip-address-failover)
       - [Configure Mobility Service Proxy Settings](https://learn.microsoft.com/en-us/azure/site-recovery/configure-mobility-service-proxy-settings)
       - [Accelerated networking for Azure VM disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/azure-vm-disaster-recovery-with-accelerated-networking)
@@ -162,8 +164,8 @@
         - Deployment Planner tool for VMware replication to Azure
           - [Overview and prerequisites](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-deployment-planner)
           - [Deployment Planner version history](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-deployment-planner-history)
-          - [Run the Deployment Planner tool](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-vmware-deployment-planner-run)
-          - [Analyze the generated report](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-vmware-deployment-planner-analyze-report)
+          - [Run the Deployment Planner tool and generate a cost report](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-vmware-deployment-planner-run)
+          - [Analyze the generated cost report](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-vmware-deployment-planner-analyze-report)
           - [Analyze the cost estimation report](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-vmware-deployment-planner-cost-estimation)
       - Set up disaster recovery
         - [Set up the source environment](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-set-up-source)
@@ -228,8 +230,8 @@
         - Deployment Planner tool for Hyper-V replication to Azure
           - [Overview and prerequisites](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-deployment-planner-overview)
           - [Deployment Planner version history](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-deployment-planner-history)
-          - [Run the Deployment Planner tool](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-deployment-planner-run)
-          - [Analyze the generated report](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-deployment-planner-analyze-report)
+          - [Run the Deployment Planner tool and generate a cost report](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-deployment-planner-run)
+          - [Analyze the generated cost report](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-deployment-planner-analyze-report)
           - [Analyze the cost estimation report](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-deployment-planner-cost-estimation)
     - Azure Stack VM disaster recovery
       - [Walkthrough-Set up disaster recovery for Azure Stack Hub](https://learn.microsoft.com/en-us/azure/site-recovery/azure-stack-site-recovery)
@@ -326,9 +328,10 @@
     - [Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/)
   - Resources
     - [Azure updates](https://azure.microsoft.com/updates/?searchterms=Azure+Site+Recovery)
+    - Pricing
+      - [Azure Site Recovery Pricing](https://azure.microsoft.com/pricing/details/site-recovery/)
+      - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Blog](https://azure.microsoft.com/blog/tag/azure-site-recovery/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-site-recovery.html)
     - [Learning path](https://learn.microsoft.com/training/azure/)
-    - [Pricing](https://azure.microsoft.com/pricing/details/site-recovery/)
-    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
     - [Service updates](https://azure.microsoft.com/updates/?product=site-recovery)

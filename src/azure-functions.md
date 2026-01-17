@@ -154,16 +154,14 @@
     - [PowerShell](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
     - Python
       - [Developer reference guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python)
-      - [Updates for Python 3.13+](https://learn.microsoft.com/en-us/azure/azure-functions/python-313-changes)
-      - [Programming models](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python)
-      - [Binding definitions for Python v2](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python)
-      - [Python worker extensions](https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions)
+      - [Build Options](https://learn.microsoft.com/en-us/azure/azure-functions/python-build-options)
       - [Scale and performance recommendations](https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference)
+      - [Samples](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=python)
+      - [Python worker extensions](https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions)
       - Troubleshooting
         - [General troubleshooting](https://learn.microsoft.com/en-us/azure/azure-functions/recover-python-functions)
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
-      - [Python library API reference for Functions](https://learn.microsoft.com/python/api/azure-functions/azure.functions)
-      - [Samples](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=python)
+      - [Python SDK API reference](https://learn.microsoft.com/python/api/azure-functions/azure.functions)
   - How-to guides
     - Develop
       - [Developer guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference)
