@@ -49,9 +49,6 @@
         - [Availability zones](https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
         - [Disaster recovery](https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
     - Databases
-      - Azure Cache for Redis
-        - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
-        - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
       - [Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-db-nosql)
       - Azure Cosmos DB for PostgreSQL
         - [Availability zones](https://learn.microsoft.com/azure/cosmos-db/postgresql/concepts-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json)
@@ -171,7 +168,6 @@
         - [Azure Functions](https://learn.microsoft.com/en-us/azure/reliability/migrate-functions)
         - [Azure Backup](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
         - [Azure Batch](https://learn.microsoft.com/en-us/azure/reliability/reliability-batch)
-        - [Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis)
         - [Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-apps)
         - [Azure Container Instances](https://learn.microsoft.com/en-us/azure/reliability/migrate-container-instances)
         - [Azure Container Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-registry)

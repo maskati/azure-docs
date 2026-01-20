@@ -84,7 +84,7 @@
     - [Request host quota for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/request-host-quota-azure-vmware-solution)
     - [Plan the deployment](https://learn.microsoft.com/en-us/azure/azure-vmware/plan-private-cloud-deployment)
     - [Deploy Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-azure-vmware-solution)
-    - [Azure VMware Solution private cloud maintenance best practices](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-private-cloud-maintenance-best-practices)
+    - [Azure VMware Solution private cloud maintenance](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-private-cloud-maintenance)
     - [Deploy vSAN stretched clusters](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vsan-stretched-clusters)
     - [Create a placement policy](https://learn.microsoft.com/en-us/azure/azure-vmware/create-placement-policy)
     - [Protect, monitor, and manage VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/integrate-azure-native-services)
@@ -194,7 +194,7 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.avs/privateclouds)
     - [Terraform Azure provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/vmware_private_cloud)
     - [Configure VMware Cloud Director Service in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vmware-cloud-director-service-azure-vmware-solution)
-    - [Plan self-service maintenance for Azure VMware Solution public preview](https://learn.microsoft.com/en-us/azure/azure-vmware/self-service-maintenance-orchestration)
+    - [Plan self-service maintenance for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/self-service-maintenance-orchestration)
     - [Enable VMware Cloud Director Service with Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-cds-with-azure)
     - [Deploy VMware Cloud Director Availability in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vmware-cloud-director-availability-in-azure-vmware-solution)
   - Resources
