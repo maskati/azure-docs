@@ -212,6 +212,7 @@
             - [Health Resources](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-health-resources)
             - [Azure Resource Management](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-resources)
             - [Container Service Event Resources](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-containerservice-resources)
+            - [AKS resources](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-aks-resources)
           - [Azure Service Bus](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-service-bus)
           - [Azure SignalR](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-azure-signalr)
           - [Azure Storage Actions](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-storage-actions)
@@ -306,6 +307,7 @@
       - [Subscribe to Azure Resource Notifications - Health Resources events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-resource-notifications-health-resources-events)
       - [Subscribe to Azure Resource Notifications - Resource Management events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-resource-notifications-resources-events)
       - [Subscribe to Azure Resource Notifications - Container Service events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-resource-notifications-containerservice-events)
+      - [Subscribe to Azure Resource Notifications - AKS events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-resource-notifications-aks-resources-events)
       - [Track asynchronous REST operations](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/async-operations?toc=/azure/event-grid/toc.json)
       - Relocate
         - [Relocate system topics across regions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-event-grid-system-topics?toc=/azure/event-grid/toc.json)
