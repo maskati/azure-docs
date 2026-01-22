@@ -6,6 +6,7 @@
     - [What's new in Bastion?](https://learn.microsoft.com/en-us/azure/bastion/whats-new)
     - [Bastion SKU comparison](https://learn.microsoft.com/en-us/azure/bastion/bastion-sku-comparison)
     - [Cost optimization principles](https://learn.microsoft.com/en-us/azure/bastion/cost-optimization)
+    - [Bastion FAQ](https://learn.microsoft.com/en-us/azure/bastion/bastion-faq)
   - Quickstarts & Tutorials
     - [Deploy Bastion Developer](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer)
     - [Deploy Bastion - Standard SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
@@ -17,13 +18,11 @@
     - Work remotely
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fbastion%2ftoc.json)
       - [Leverage Bastion for remote working](https://learn.microsoft.com/en-us/azure/bastion/work-remotely-support)
-    - [Bastion FAQ](https://learn.microsoft.com/en-us/azure/bastion/bastion-faq)
     - [Design architecture](https://learn.microsoft.com/en-us/azure/bastion/design-architecture)
     - [VM connections and features](https://learn.microsoft.com/en-us/azure/bastion/vm-about)
     - [Bastion and VNet peering](https://learn.microsoft.com/en-us/azure/bastion/vnet-peering)
     - [Work with NSGs](https://learn.microsoft.com/en-us/azure/bastion/bastion-nsg)
-    - Reliability
-      - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
+    - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
   - Security
     - [Secure Bastion](https://learn.microsoft.com/en-us/azure/bastion/secure-bastion)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/bastion-security-baseline?toc=/azure/bastion/TOC.json)

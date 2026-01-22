@@ -90,7 +90,10 @@
         - [Configure registry endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-configure-registry-endpoint)
         - [Deploy graph definitions](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-deploy-wasm-graph-definitions)
         - [AI inference with ONNX](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-wasm-onnx-inference)
-      - [Build Akri connectors with VS Code extension](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-build-akri-connectors-vscode)
+      - Create custom connectors
+        - [Develop custom connectors](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-akri-connectors)
+        - [Create a custom Akri connector with .NET](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-develop-akri-connectors)
+        - [Build Akri connectors with VS Code extension](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-build-akri-connectors-vscode)
       - Concepts
         - [Highly available edge apps](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-edge-apps)
         - [Data persistence in the state store](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-state-store)

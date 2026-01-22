@@ -58,8 +58,8 @@
       - Analyze a packet capture
         - [Inspect to find anomalies](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-inspect)
         - [Proactive network monitoring with Azure Functions](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-alert-triggered)
-        - [Perform intrusion detection using open source tools](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-intrusion-detection-open-source-tools)
-        - [Visualize network traffic patterns using open source tools](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-using-open-source-tools)
+        - [Perform intrusion detection using open source tools](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-intrusion-detection-open-source-tools?toc=/azure/network-watcher/toc.json)
+        - [Visualize network traffic patterns using open source tools](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-using-open-source-tools?toc=/azure/network-watcher/toc.json)
     - Connection troubleshoot
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-overview)
       - [Troubleshoot outbound connections](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-manage)

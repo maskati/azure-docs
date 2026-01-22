@@ -147,7 +147,7 @@
       - [The Azure Maps Power BI visual](https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-get-started)
       - [Geocoding in Azure Maps Power BI Visual](https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-geocode)
       - [Understanding layers](https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-understanding-layers)
-      - [Add a bubble layer](https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-add-bubble-layer)
+      - [Add a marker layer](https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-add-marker-layer)
       - [Add a cluster bubble layer](https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-cluster-bubbles)
       - [Add a pie chart layer](https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-add-pie-chart-layer)
       - [Add a 3D column layer](https://learn.microsoft.com/en-us/azure/azure-maps/power-bi-visual-add-3d-column-layer)
