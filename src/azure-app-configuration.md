@@ -170,7 +170,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-geo-replication)
       - [Enable geo-replication](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-geo-replication)
     - [Resiliency and disaster recovery](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-disaster-recovery)
-    - [Availability zone support](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration)
+    - [Availability zone support](https://learn.microsoft.com/azure/reliability/migrate-app-configuration)
   - Samples
     - [Azure CLI](https://learn.microsoft.com/en-us/azure/azure-app-configuration/cli-samples)
     - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/azure-app-configuration/powershell-samples)

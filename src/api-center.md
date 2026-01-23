@@ -49,7 +49,7 @@
     - [Self-host Azure API Center portal](https://learn.microsoft.com/en-us/azure/api-center/self-host-api-center-portal)
     - [Discover and consume APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/discover-apis-vscode-extension)
   - API center management and operations
-    - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
+    - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/apic)
     - [REST API](https://learn.microsoft.com/rest/api/apicenter/)

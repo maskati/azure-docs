@@ -132,8 +132,8 @@
     - [Regulatory compliance controls by Azure Policy](https://learn.microsoft.com/en-us/azure/iot-hub/security-controls-policy)
   - Reliability and scaling
     - [Best practices for large-scale IoT device deployments](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-deploy-at-scale?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
-    - [Reliability in IoT Hub](https://learn.microsoft.com/en-us/azure/reliability/reliability-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
-    - [Reliability in Azure Device Registry](https://learn.microsoft.com/en-us/azure/reliability/reliability-device-registry?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+    - [Reliability in IoT Hub](https://learn.microsoft.com/azure/reliability/reliability-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+    - [Reliability in Azure Device Registry](https://learn.microsoft.com/azure/reliability/reliability-device-registry?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
     - [Disable disaster recovery](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-disable-dr)
     - [Perform manual failover](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-manual-failover)
   - Troubleshooting

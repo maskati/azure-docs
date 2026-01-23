@@ -36,7 +36,7 @@
     - [PowerShell](https://learn.microsoft.com/en-us/azure/notification-hubs/samples-powershell)
     - [UWP React Native sample overview](https://learn.microsoft.com/en-us/azure/notification-hubs/uwp-react)
   - Concepts
-    - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs?toc=/azure/reliability/toc.json)
+    - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-notification-hubs?toc=/azure/reliability/toc.json)
     - [EU Data Boundary](https://learn.microsoft.com/en-us/azure/notification-hubs/eu-data-boundary)
     - [Data encryption at rest](https://learn.microsoft.com/en-us/azure/notification-hubs/encrypt-at-rest)
     - [Transport Layer Security TLS](https://learn.microsoft.com/en-us/azure/notification-hubs/notification-hubs-tls12)

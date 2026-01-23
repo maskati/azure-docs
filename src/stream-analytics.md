@@ -37,7 +37,7 @@
     - [Choose a job development tool](https://learn.microsoft.com/en-us/azure/stream-analytics/feature-comparison)
     - [Develop locally](https://learn.microsoft.com/en-us/azure/stream-analytics/develop-locally)
     - Reliability
-      - [Reliability in Stream Analytics](https://learn.microsoft.com/en-us/azure/reliability/reliability-stream-analytics?toc=/azure/stream-analytics/TOC.json)
+      - [Reliability in Stream Analytics](https://learn.microsoft.com/azure/reliability/reliability-stream-analytics?toc=/azure/stream-analytics/TOC.json)
       - [Pair jobs for reliability](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-reliability)
       - [Geo-redundancy](https://learn.microsoft.com/en-us/azure/stream-analytics/geo-redundancy)
     - Security

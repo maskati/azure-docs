@@ -39,7 +39,7 @@
   - Resiliency
     - [Components of a DDoS response strategy](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-response-strategy)
     - [Fundamental best practices](https://learn.microsoft.com/en-us/azure/ddos-protection/fundamental-best-practices)
-    - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-ddos?toc=/azure/ddos-protection/TOC.json)
+    - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-ddos?toc=/azure/ddos-protection/TOC.json)
     - [Reference architectures](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-reference-architectures)
     - [Types of attacks](https://learn.microsoft.com/en-us/azure/ddos-protection/types-of-attacks)
   - Operational excellence

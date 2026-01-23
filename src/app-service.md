@@ -275,7 +275,7 @@
     - [Get started with WebJobs SDK](https://learn.microsoft.com/en-us/azure/app-service/webjobs-sdk-get-started)
     - [Use WebJobs SDK](https://learn.microsoft.com/en-us/azure/app-service/webjobs-sdk-how-to)
   - Reliability
-    - [Reliability in Azure App Service](https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
+    - [Reliability in Azure App Service](https://learn.microsoft.com/azure/reliability/reliability-app-service?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
     - [Configure App Service for zone redundancy](https://learn.microsoft.com/en-us/azure/app-service/configure-zone-redundancy)
   - Samples
     - [Azure CLI](https://learn.microsoft.com/en-us/azure/app-service/samples-cli)

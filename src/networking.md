@@ -12,8 +12,8 @@
       - [Highly available network virtual appliances](https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/nva-ha)
       - [Combine load balancing methods](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-load-balancing-azure?toc=%2fazure%2fnetworking%2ftoc.json)
       - Reliability
-        - [Reliability in Azure DNS](https://learn.microsoft.com/en-us/azure/reliability/reliability-dns?toc=%2fazure%2fnetworking%2ftoc.json)
-        - [Reliability in Traffic Manager](https://learn.microsoft.com/en-us/azure/reliability/reliability-traffic-manager?toc=%2fazure%2fnetworking%2ftoc.json)
+        - [Reliability in Azure DNS](https://learn.microsoft.com/azure/reliability/reliability-dns?toc=%2fazure%2fnetworking%2ftoc.json)
+        - [Reliability in Traffic Manager](https://learn.microsoft.com/azure/reliability/reliability-traffic-manager?toc=%2fazure%2fnetworking%2ftoc.json)
       - [Choose a secure network topology](https://learn.microsoft.com/en-us/azure/networking/secure-network-topology)
       - [Choose a secure application delivery service](https://learn.microsoft.com/en-us/azure/networking/secure-application-delivery)
     - Plan and design

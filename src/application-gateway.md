@@ -147,7 +147,7 @@
     - [Schedule autoscaling](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-externally-managed-scheduled-autoscaling)
     - Relocate
       - [Relocate to another region](https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-app-gateway?toc=/azure/application-gateway/toc.json)
-      - [Migrate to availability zone support](https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2?toc=/azure/application-gateway/toc.json)
+      - [Migrate to availability zone support](https://learn.microsoft.com/azure/reliability/migrate-app-gateway-v2?toc=/azure/application-gateway/toc.json)
     - [Proxy buffer configuration](https://learn.microsoft.com/en-us/azure/application-gateway/proxy-buffers)
     - [Custom error pages](https://learn.microsoft.com/en-us/azure/application-gateway/custom-error)
     - Migrate to v2 SKU

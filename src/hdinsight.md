@@ -37,7 +37,7 @@
       - [Cluster capacity planning](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-capacity-planning)
       - [Cluster management best practices](https://learn.microsoft.com/en-us/azure/hdinsight/cluster-management-best-practices)
       - Reliability and Business continuity
-        - [Reliability in HDInsight](https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight?toc=/azure/hdinsight/toc.json&bc=/azure/hdinsight/breadcrumb/toc.json)
+        - [Reliability in HDInsight](https://learn.microsoft.com/azure/reliability/reliability-hdinsight?toc=/azure/hdinsight/toc.json&bc=/azure/hdinsight/breadcrumb/toc.json)
         - [Business continuity architecture](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-business-continuity-architecture)
         - [High availability case study](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-high-availability-case-study)
       - [Understand managed identities](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-managed-identities)

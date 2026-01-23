@@ -39,7 +39,7 @@
     - [B2B integration & EDI processing](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview)
     - [Mainframe modernization](https://learn.microsoft.com/en-us/azure/logic-apps/mainframe-modernization-overview)
     - Reliability
-      - [Reliability in Azure Logic Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-logic-apps?toc=/azure/logic-apps/toc.json)
+      - [Reliability in Azure Logic Apps](https://learn.microsoft.com/azure/reliability/reliability-logic-apps?toc=/azure/logic-apps/toc.json)
       - [Multi-region deployments for disaster recovery](https://learn.microsoft.com/en-us/azure/logic-apps/multi-region-disaster-recovery)
     - Security
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/logic-apps/security-controls-policy)

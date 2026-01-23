@@ -43,7 +43,7 @@
           - [Microsoft Entra JWT authentication and RBAC authorization for clients](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac)
           - [OAuth 2.0 JSON Web Token authentication and authorization for clients](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-custom-jwt)
           - [Transport Layer Security connection with MQTT broker](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-transport-layer-security-flow)
-        - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json)
+        - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json)
         - Security
           - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/event-grid-security-baseline?toc=/azure/event-grid/toc.json)
           - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/event-grid/security-controls-policy)
@@ -254,7 +254,7 @@
         - [Endpoint validation with Event Grid event schema](https://learn.microsoft.com/en-us/azure/event-grid/end-point-validation-event-grid-events-schema)
         - [Event schema compatibility](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-compatibility)
         - [Custom delivery properties](https://learn.microsoft.com/en-us/azure/event-grid/delivery-properties)
-      - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json)
+      - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json)
       - Security
         - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/event-grid-security-baseline?toc=/azure/event-grid/toc.json)
         - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/event-grid/security-controls-policy)

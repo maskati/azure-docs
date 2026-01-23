@@ -173,7 +173,7 @@
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/vpn-gateway/roles-permissions)
     - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reliability
-    - [Reliability in VPN Gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network-gateway?pivot=vpn&toc=/azure/vpn-gateway/TOC.json)
+    - [Reliability in VPN Gateway](https://learn.microsoft.com/azure/reliability/reliability-virtual-network-gateway?pivots=vpn&toc=/azure/vpn-gateway/TOC.json)
     - [Configure a zone redundant gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway)
     - [Design highly available gateway connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
   - Routing

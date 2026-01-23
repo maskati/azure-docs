@@ -75,7 +75,7 @@
       - [Send events to Azure Service Bus](https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/EventHubCopyToServiceBus)
       - [Acquire events from Azure Service Bus](https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopyToEventHub)
     - Reliability
-      - [Reliability in Event Hubs](https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs?toc=/azure/event-hubs/TOC.json&maintainContext=true)
+      - [Reliability in Event Hubs](https://learn.microsoft.com/azure/reliability/reliability-event-hubs?toc=/azure/event-hubs/TOC.json&maintainContext=true)
       - [Geo-replication](https://learn.microsoft.com/en-us/azure/event-hubs/geo-replication)
       - [Metadata only geo-disaster recovery](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-geo-dr)
     - Security

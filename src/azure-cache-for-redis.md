@@ -91,7 +91,7 @@
       - [Set up Enterprise active geo-replication](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-active-geo-replication)
       - [Configure your cache for high availability](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-high-availability)
       - [Failover and patching](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-failover)
-      - [Migrate to availability zone support](https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis)
+      - [Migrate to availability zone support](https://learn.microsoft.com/azure/reliability/migrate-cache-redis)
     - Diagnose and troubleshoot
       - [Troubleshoot connectivity issues](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-troubleshoot-connectivity)
       - [Troubleshoot latency and timeouts](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-troubleshoot-timeouts)

@@ -106,7 +106,7 @@
         - [Design with private peering](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering)
         - [Design VPN as private peering backup](https://learn.microsoft.com/en-us/azure/expressroute/use-s2s-vpn-as-backup-for-expressroute-privatepeering)
     - ExpressRoute gateway
-      - [Reliability in ExpressRoute gateway](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network-gateway?pivot=expressroute?toc=/azure/expressroute/toc.json)
+      - [Reliability in ExpressRoute gateway](https://learn.microsoft.com/azure/reliability/reliability-virtual-network-gateway?pivot=expressroute?toc=/azure/expressroute/toc.json)
       - Zone-redundant gateway
         - [Deploy a zone-redundant gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway?toc=/azure/expressroute/toc.json)
         - Migrate to zone-redundant gateway

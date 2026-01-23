@@ -115,7 +115,7 @@
       - [Network interfaces](https://learn.microsoft.com/azure/resource-mover/tutorial-move-region-virtual-machines?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
       - [Network security groups NSG](https://learn.microsoft.com/azure/resource-mover/tutorial-move-region-virtual-machines?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
       - [Virtual networks](https://learn.microsoft.com/azure/resource-mover/tutorial-move-region-virtual-machines?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
-    - [Azure Virtual Network reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-network?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
+    - [Azure Virtual Network reliability](https://learn.microsoft.com/azure/reliability/reliability-virtual-network?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
   - Troubleshoot
     - [Configure reverse lookup zones for an SMTP banner check](https://learn.microsoft.com/en-us/azure/virtual-network/create-ptr-for-smtp-service)
     - [Diagnose a virtual machine network traffic filter problem](https://learn.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem)

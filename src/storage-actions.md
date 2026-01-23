@@ -20,7 +20,7 @@
     - Storage task assignment
       - [Storage task assignment](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-assignment)
       - [Azure roles for assignments](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-authorization-roles-assign)
-    - [Reliability](https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions?toc=/azure/storage-actions/toc.json)
+    - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-storage-actions?toc=/azure/storage-actions/toc.json)
     - [Costs and billing](https://learn.microsoft.com/en-us/azure/storage-actions/storage-actions-plan-manage-costs)
   - How-to
     - [Create a storage task](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-create)

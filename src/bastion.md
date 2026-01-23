@@ -22,7 +22,7 @@
     - [VM connections and features](https://learn.microsoft.com/en-us/azure/bastion/vm-about)
     - [Bastion and VNet peering](https://learn.microsoft.com/en-us/azure/bastion/vnet-peering)
     - [Work with NSGs](https://learn.microsoft.com/en-us/azure/bastion/bastion-nsg)
-    - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
+    - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
   - Security
     - [Secure Bastion](https://learn.microsoft.com/en-us/azure/bastion/secure-bastion)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/bastion-security-baseline?toc=/azure/bastion/TOC.json)

@@ -113,7 +113,7 @@
     - [About recovery plans](https://learn.microsoft.com/en-us/azure/site-recovery/recovery-plan-overview)
     - Migrate
       - [Migrate to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/migrate-overview)
-      - [Migration to availability zones](https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault)
+      - [Migration to availability zones](https://learn.microsoft.com/azure/reliability/migrate-recovery-services-vault)
     - Security
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/site-recovery-security-baseline?toc=/azure/site-recovery/toc.json)
       - [Transport Layer Security](https://learn.microsoft.com/en-us/azure/site-recovery/transport-layer-security)

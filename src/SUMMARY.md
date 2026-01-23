@@ -98,7 +98,6 @@
 [Microsoft Playwright Testing Preview documentation](./playwright-testing.md)
 [Private Link documentation](./private-link.md)
 [Azure Managed Redis Documentation](./redis.md)
-[Azure reliability documentation](./reliability.md)
 [Resiliency documentation](./resiliency.md)
 [Azure Resource Mover documentation](./resource-mover.md)
 [Azure RBAC documentation](./role-based-access-control.md)

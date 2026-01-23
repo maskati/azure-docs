@@ -91,7 +91,7 @@
         - [Understand application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-oracle-introduction)
         - [Requirements and considerations for application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-oracle-considerations)
     - Hybrid data mobility and protection
-      - [Reliability in Azure NetApp Files](https://learn.microsoft.com/en-us/azure/reliability/reliability-netapp-files?toc=azure/azure-netapp-files/toc.json&bc=/azure/azure-netapp-files/breadcrumb/toc.json)
+      - [Reliability in Azure NetApp Files](https://learn.microsoft.com/azure/reliability/reliability-netapp-files?toc=azure/azure-netapp-files/toc.json&bc=/azure/azure-netapp-files/breadcrumb/toc.json)
       - [Understand data protection and disaster recovery options](https://learn.microsoft.com/en-us/azure/azure-netapp-files/data-protection-disaster-recovery-options)
       - [How Azure NetApp Files snapshots work](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-introduction)
       - Azure NetApp Files caching

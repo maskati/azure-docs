@@ -131,8 +131,8 @@
       - [Security overview](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/functions-security-baseline?toc=/azure/azure-functions/TOC.json)
     - Reliability
-      - [Availability zones and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/reliability-functions?toc=/azure/azure-functions/TOC.json)
-      - [Migrate to a zone-redundant plan](https://learn.microsoft.com/en-us/azure/reliability/migrate-functions?toc=%2fazure%2fazure-functions%2ftoc.json)
+      - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-functions?toc=/azure/azure-functions/TOC.json)
+      - [Migrate to a zone-redundant plan](https://learn.microsoft.com/azure/reliability/migrate-functions?toc=%2fazure%2fazure-functions%2ftoc.json)
     - [Diagnostics](https://learn.microsoft.com/en-us/azure/azure-functions/functions-diagnostics)
     - [Consumption plan costs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-consumption-costs)
     - [Networking options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-options)

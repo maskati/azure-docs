@@ -28,7 +28,7 @@
     - [Authentication](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-authentication)
     - [Entitlements](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-entitlements)
     - Reliability
-      - [Reliability overview](https://learn.microsoft.com/en-us/azure/reliability/reliability-energy-data-services?toc=/azure/energy-data-services/toc.json&bc=/azure/energy-data-services/breadcrumb/toc.json)
+      - [Reliability overview](https://learn.microsoft.com/azure/reliability/reliability-energy-data-services?toc=/azure/energy-data-services/toc.json&bc=/azure/energy-data-services/breadcrumb/toc.json)
     - [Tier details](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-tier-details)
     - [Syncing Reference data values](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-reference-data-values)
   - How-to guides

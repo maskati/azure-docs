@@ -160,7 +160,7 @@
     - [Service discovery resiliency](https://learn.microsoft.com/en-us/azure/container-apps/service-discovery-resiliency)
     - [Dapr component resiliency](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
   - Reliability
-    - [Reliability in Azure Container Apps](https://learn.microsoft.com/en-us/azure/reliability/reliability-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
+    - [Reliability in Azure Container Apps](https://learn.microsoft.com/azure/reliability/reliability-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
     - [Create a zone-redundant container app](https://learn.microsoft.com/en-us/azure/container-apps/how-to-zone-redundancy)
   - Dedicated compute
     - [Workload profiles](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-overview)
