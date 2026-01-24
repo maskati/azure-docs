@@ -125,7 +125,6 @@
       - [IoT Hub Device Provisioning Service](https://learn.microsoft.com/en-us/azure/iot-dps/)
       - [IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/)
       - [Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/)
-      - [Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/)
     - Azure IoT SDKs
       - [IoT Service SDKs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
       - [IoT Device SDKs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)

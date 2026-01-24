@@ -63,4 +63,3 @@
       - [IoT Central](https://learn.microsoft.com/en-us/azure/iot-central/)
       - [IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/)
       - [Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/)
-      - [Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/)

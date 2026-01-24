@@ -116,7 +116,6 @@
 [Azure Storage Mover documentation](./storage-mover.md)
 [Azure Stream Analytics documentation](./stream-analytics.md)
 [Azure Synapse Analytics](./synapse-analytics.md)
-[Azure Time Series Insights Documentation](./time-series-insights.md)
 [Traffic Manager documentation](./traffic-manager.md)
 [Azure Update Manager documentation](./update-manager.md)
 [Azure Virtual Network Manager documentation](./virtual-network-manager.md)

@@ -75,7 +75,6 @@
       - [IoT Central](https://learn.microsoft.com/en-us/azure/iot-central/)
       - [IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/)
       - [Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/)
-      - [Time Series Insights](https://learn.microsoft.com/en-us/azure/time-series-insights/)
     - Terraform modules
       - [Device Update account resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/iothub_device_update_account)
       - [Device Update instance resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/iothub_device_update_instance)
