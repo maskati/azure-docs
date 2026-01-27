@@ -97,6 +97,7 @@
       - [CDN classic retirement FAQ](https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq)
       - [Front Door classic retirement FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/classic-retirement-faq)
       - [Edgio retirement FAQ](https://learn.microsoft.com/previous-versions/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/toc.json)
+      - [DHE Cipher FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/diffie-hellman-ciphers)
   - Security
     - [Secure your Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/secure-front-door)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-front-door-security-baseline?toc=/azure/frontdoor/toc.json)

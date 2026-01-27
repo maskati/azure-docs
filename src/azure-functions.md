@@ -282,6 +282,9 @@
         - [General troubleshooting](https://learn.microsoft.com/en-us/azure/azure-functions/recover-python-functions)
         - [Scale and performance](https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference)
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
+  - AI
+    - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+    - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
   - Migration guides
     - [Migrate from AWS Lambda](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-aws-lambda-to-azure-functions)
     - Upgrade runtime versions
