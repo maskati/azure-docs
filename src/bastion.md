@@ -6,23 +6,52 @@
     - [What's new in Bastion?](https://learn.microsoft.com/en-us/azure/bastion/whats-new)
     - [Bastion SKU comparison](https://learn.microsoft.com/en-us/azure/bastion/bastion-sku-comparison)
     - [Cost optimization principles](https://learn.microsoft.com/en-us/azure/bastion/cost-optimization)
-    - [Bastion FAQ](https://learn.microsoft.com/en-us/azure/bastion/bastion-faq)
   - Quickstarts & Tutorials
     - [Deploy Bastion Developer](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer)
     - [Deploy Bastion - Standard SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
     - [Deploy Bastion - specify settings and SKU](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
     - [Deploy Bastion - ARM template](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-arm-template)
     - [Deploy Bastion - Terraform](https://learn.microsoft.com/en-us/azure/bastion/quickstart-deploy-terraform)
+    - [Bastion FAQ](https://learn.microsoft.com/en-us/azure/bastion/bastion-faq)
   - Concepts
+    - Identity & authentication
+      - [Configure Kerberos authentication](https://learn.microsoft.com/en-us/azure/bastion/kerberos-authentication-portal)
+      - Connect to a virtual machine
+        - Windows VM
+          - [RDP connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-rdp-windows)
+          - [SSH connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-ssh-windows)
+        - Linux VM
+          - [SSH connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-ssh-linux)
+          - [RDP connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-linux-rdp)
+    - Connectivity & Access Methods
+      - [Bastion and VNet peering](https://learn.microsoft.com/en-us/azure/bastion/vnet-peering)
+      - [Connect to an AKS cluster](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-to-aks-private-cluster)
+      - [Configure native client support](https://learn.microsoft.com/en-us/azure/bastion/native-client)
+        - [Connect from Windows native client](https://learn.microsoft.com/en-us/azure/bastion/connect-vm-native-client-windows)
+        - [Connect from Linux native client](https://learn.microsoft.com/en-us/azure/bastion/connect-vm-native-client-linux)
+        - [Transfer files - native client](https://learn.microsoft.com/en-us/azure/bastion/vm-upload-download-native)
+      - [Connect to a VM - IP address](https://learn.microsoft.com/en-us/azure/bastion/connect-ip-address)
+      - [Connect to a VM scale set](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-scale-set)
+      - [Connect to DevTest Labs VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/enable-browser-connection-lab-virtual-machines?toc=%2fazure%2fbastion%2ftoc.json)
+      - [Configure a shareable link](https://learn.microsoft.com/en-us/azure/bastion/shareable-link)
+      - [Deploy private-only Bastion](https://learn.microsoft.com/en-us/azure/bastion/private-only-deployment)
+    - Authorization & Privileged Access
+      - [Work with NSGs](https://learn.microsoft.com/en-us/azure/bastion/bastion-nsg)
+    - Session controls, auditing, and monitoring
+      - [Monitor Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/monitor-bastion)
+      - [Monitor and manage sessions](https://learn.microsoft.com/en-us/azure/bastion/session-monitoring)
+      - [Configure session recording](https://learn.microsoft.com/en-us/azure/bastion/session-recording)
+    - Platform
+      - Configure host scaling
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling-powershell)
+      - [Design architecture](https://learn.microsoft.com/en-us/azure/bastion/design-architecture)
+      - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
     - [Bastion configuration settings](https://learn.microsoft.com/en-us/azure/bastion/configuration-settings)
     - Work remotely
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fbastion%2ftoc.json)
       - [Leverage Bastion for remote working](https://learn.microsoft.com/en-us/azure/bastion/work-remotely-support)
-    - [Design architecture](https://learn.microsoft.com/en-us/azure/bastion/design-architecture)
     - [VM connections and features](https://learn.microsoft.com/en-us/azure/bastion/vm-about)
-    - [Bastion and VNet peering](https://learn.microsoft.com/en-us/azure/bastion/vnet-peering)
-    - [Work with NSGs](https://learn.microsoft.com/en-us/azure/bastion/bastion-nsg)
-    - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
   - Security
     - [Secure Bastion](https://learn.microsoft.com/en-us/azure/bastion/secure-bastion)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/bastion-security-baseline?toc=/azure/bastion/TOC.json)
@@ -32,38 +61,12 @@
       - [Azure portal](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/bastion-create-host-powershell)
       - [Azure CLI](https://learn.microsoft.com/en-us/azure/bastion/create-host-cli)
-      - [Developer SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer-sku)
-    - [Deploy private-only Bastion](https://learn.microsoft.com/en-us/azure/bastion/private-only-deployment)
+      - [Developer SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer)
     - Configure Bastion settings
       - [View or upgrade SKU](https://learn.microsoft.com/en-us/azure/bastion/upgrade-sku)
-      - [Configure native client support](https://learn.microsoft.com/en-us/azure/bastion/native-client)
-      - Configure host scaling
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling-powershell)
-      - [Configure a shareable link](https://learn.microsoft.com/en-us/azure/bastion/shareable-link)
-      - [Configure Kerberos authentication](https://learn.microsoft.com/en-us/azure/bastion/kerberos-authentication-portal)
-      - [Configure session recording](https://learn.microsoft.com/en-us/azure/bastion/session-recording)
-    - Connect to a virtual machine
-      - Windows VM
-        - [RDP connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-rdp-windows)
-        - [SSH connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-ssh-windows)
-      - Linux VM
-        - [SSH connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-ssh-linux)
-        - [RDP connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-linux-rdp)
-    - Connect to a VM - native client
-      - [Connect from Windows client](https://learn.microsoft.com/en-us/azure/bastion/connect-vm-native-client-windows)
-      - [Connect from Linux client](https://learn.microsoft.com/en-us/azure/bastion/connect-vm-native-client-linux)
-    - [Connect to a VM - IP address](https://learn.microsoft.com/en-us/azure/bastion/connect-ip-address)
-    - [Connect to a VM scale set](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-scale-set)
-    - [Connect to DevTest Labs VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/enable-browser-connection-lab-virtual-machines?toc=%2fazure%2fbastion%2ftoc.json)
-    - [Connect to an AKS cluster](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-to-aks-private-cluster)
     - Work with a VM session
       - [Copy and paste](https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-copy-paste)
       - [Full screen view](https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-full-screen)
-      - [Transfer files - native client](https://learn.microsoft.com/en-us/azure/bastion/vm-upload-download-native)
-    - Monitoring
-      - [Monitor Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/monitor-bastion)
-      - [Monitor and manage sessions](https://learn.microsoft.com/en-us/azure/bastion/session-monitoring)
     - [Troubleshoot](https://learn.microsoft.com/en-us/azure/bastion/troubleshoot)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/)
