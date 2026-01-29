@@ -61,6 +61,7 @@
       - [Retrieve IP addresses](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-ip-addresses)
       - [Defend against DDoS attacks](https://learn.microsoft.com/en-us/azure/api-management/protect-with-ddos-protection)
       - [Configure Front Door](https://learn.microsoft.com/en-us/azure/api-management/front-door-api-management)
+      - [Access resource protected by network security perimeter](https://learn.microsoft.com/en-us/azure/api-management/using-network-security-perimeter)
     - Configuration management
       - [Landing zone accelerator](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/app-platform/api-management/landing-zone-accelerator?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
       - [Manage using automation](https://learn.microsoft.com/en-us/azure/api-management/automation-manage-api-management)

@@ -6,14 +6,15 @@
     - [What's new in Bastion?](https://learn.microsoft.com/en-us/azure/bastion/whats-new)
     - [Bastion SKU comparison](https://learn.microsoft.com/en-us/azure/bastion/bastion-sku-comparison)
     - [Cost optimization principles](https://learn.microsoft.com/en-us/azure/bastion/cost-optimization)
-  - Quickstarts & Tutorials
-    - [Deploy Bastion Developer](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer)
-    - [Deploy Bastion - Standard SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
-    - [Deploy Bastion - specify settings and SKU](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
+    - [Bastion FAQ](https://learn.microsoft.com/en-us/azure/bastion/bastion-faq)
+  - Get Started
+    - [Deploy Bastion - Azure portal](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
+    - [Deploy private-only Bastion](https://learn.microsoft.com/en-us/azure/bastion/private-only-deployment)
     - [Deploy Bastion - ARM template](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-arm-template)
     - [Deploy Bastion - Terraform](https://learn.microsoft.com/en-us/azure/bastion/quickstart-deploy-terraform)
-    - [Bastion FAQ](https://learn.microsoft.com/en-us/azure/bastion/bastion-faq)
-  - Concepts
+    - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/bastion-create-host-powershell)
+    - [Azure CLI](https://learn.microsoft.com/en-us/azure/bastion/create-host-cli)
+  - Design & Architecture
     - Identity & authentication
       - [Configure Kerberos authentication](https://learn.microsoft.com/en-us/azure/bastion/kerberos-authentication-portal)
       - Connect to a virtual machine
@@ -56,12 +57,7 @@
     - [Secure Bastion](https://learn.microsoft.com/en-us/azure/bastion/secure-bastion)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/bastion-security-baseline?toc=/azure/bastion/TOC.json)
     - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
-  - How-to guides
-    - Deploy Bastion
-      - [Azure portal](https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal)
-      - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/bastion-create-host-powershell)
-      - [Azure CLI](https://learn.microsoft.com/en-us/azure/bastion/create-host-cli)
-      - [Developer SKU](https://learn.microsoft.com/en-us/azure/bastion/quickstart-developer)
+  - Configure
     - Configure Bastion settings
       - [View or upgrade SKU](https://learn.microsoft.com/en-us/azure/bastion/upgrade-sku)
     - Work with a VM session

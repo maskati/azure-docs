@@ -122,6 +122,7 @@
       - [Configure IP restriction](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction?toc=/azure/frontdoor/toc.json)
     - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Operational excellence
+    - [High availability implementation guide](https://learn.microsoft.com/en-us/azure/frontdoor/high-availability)
     - [WebSocket](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/websocket)
     - [HTTP/2](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2)
     - [Compression](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-compression)
