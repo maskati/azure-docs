@@ -429,6 +429,7 @@
     - [Microsoft Sentinel solution setup essentials](https://learn.microsoft.com/en-us/azure/sentinel/solution-setup-essentials)
     - Sentinel SIEM content
       - [Creating codeless data connectors CCF](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector)
+      - [Creating push codeless data connectors CCF](https://learn.microsoft.com/en-us/azure/sentinel/create-push-codeless-connector)
       - [Creating analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-analytic-rules-creation)
       - [Creating hunting queries](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-hunting-rules-creation)
       - [Creating summary rules](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-summary-rules-creation)
