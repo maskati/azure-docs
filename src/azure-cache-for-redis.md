@@ -6,20 +6,12 @@
     - Quickstarts
       - Create a cache
         - [Create an Azure Cache for Redis instance in the Basic, Standard and Premium tiers](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/quickstart-create-redis)
-        - [Create and manage with Azure PowerShell](https://learn.microsoft.com/azure/redis/how-to-manage-redis-cache-powershell)
-        - [Create and manage with Azure CLI](https://learn.microsoft.com/azure/redis/scripts/create-manage-cache?pivots=azure-cache-redis)
+        - [Create and manage with Azure PowerShell](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/how-to-manage-redis-cache-powershell)
+        - [Create and manage with Azure CLI](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/scripts/create-manage-cache)
         - [Create and manage premium cache with Azure CLI](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/scripts/create-manage-premium-cache-cluster)
-        - [Create Redis cache - Bicep](https://learn.microsoft.com/azure/redis/redis-cache-bicep-provision)
-        - [Create Redis cache - ARM template](https://learn.microsoft.com/azure/redis/redis-cache-arm-provision)
-      - Use a cache
-        - [ASP.NET app](https://learn.microsoft.com/azure/redis/web-app-cache-howto)
-        - [ASP.NET Core app](https://learn.microsoft.com/azure/redis/web-app-aspnet-core-howto)
-        - [.NET Core app](https://learn.microsoft.com/azure/redis/dotnet-core-quickstart)
-        - [.NET app](https://learn.microsoft.com/azure/redis/dotnet-how-to-use-azure-redis-cache)
+        - [Create Redis cache - Bicep](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/redis-cache-bicep-provision)
+        - [Create Redis cache - ARM template](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/redis-cache-arm-provision)
         - [Java app](https://learn.microsoft.com/azure/redis/java-get-started)
-        - [Node.js app](https://learn.microsoft.com/azure/redis/nodejs-get-started)
-        - [Python app](https://learn.microsoft.com/azure/redis/python-get-started)
-        - [Go app](https://learn.microsoft.com/azure/redis/go-get-started)
   - Migration
     - [Migrate to Azure Managed Redis](https://learn.microsoft.com/azure/redis/migrate/migrate-overview)
     - [Migrate to Azure Redis from other caches](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-migration-guide)
@@ -33,7 +25,7 @@
       - [Planning FAQs](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-planning-faq.yml)
       - [Redis modules](https://learn.microsoft.com/azure/redis/redis-modules)
       - [Caching architecture](https://learn.microsoft.com/azure/architecture/best-practices/caching?toc=/azure/redis-cache/toc.json)
-      - [Create and manage with Azure PowerShell](https://learn.microsoft.com/azure/redis/how-to-manage-redis-cache-powershell)
+      - [Create and manage with Azure PowerShell](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/how-to-manage-redis-cache-powershell)
       - [Connect an AKS application to a cache](https://learn.microsoft.com/azure/redis/tutorial-aks-get-started)
       - Use Azure CLI
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cli-samples)
