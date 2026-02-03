@@ -203,6 +203,8 @@
       - [PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/packet-capture-site-to-site-powershell)
     - [Advanced Monitoring for P2S VPN](https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-point-to-site-connections)
     - [Configure customer-controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/virtual-wan/customer-controlled-gateway-maintenance)
+  - Troubleshoot
+    - [Troubleshooting for Virtual WAN - Getting started](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-troubleshooting-overview)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
     - [REST](https://learn.microsoft.com/rest/api/azure)

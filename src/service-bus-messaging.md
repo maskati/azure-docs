@@ -78,6 +78,7 @@
       - [Replicate events between Service Bus entities](https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopy)
       - [Replicate messages to Event Hubs](https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopyToEventHub)
       - [Acquire messages from Event Hubs](https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/EventHubCopyToServiceBus)
+    - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-service-bus?toc=/azure/service-bus-messaging/TOC.json)
     - Security
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/service-bus-messaging-security-baseline?toc=/azure/service-bus-messaging/TOC.json)
       - [Authentication and authorization](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-authentication-and-authorization)

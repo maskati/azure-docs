@@ -47,11 +47,6 @@
         - [Pay using strong customer authentication](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/open-banking-strong-customer-authentication)
         - [Find tenant ID and primary domain name](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/find-tenant-id-domain)
         - [Understand spending limit](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/spending-limit)
-        - [Track credits for Microsoft Customer Agreement](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-check-azure-credits-balance)
-        - [Manage a Microsoft Azure credit resource](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-azure-credits)
-        - [Manage a Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-consumption-commitment)
-        - [Track your Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/track-consumption-commitment)
-        - [Manage a Microsoft Azure discount resource](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-azure-discount)
         - [Markup - China](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/markup-china)
       - Administer subscriptions
         - [Prepare for classic administrator roles retirement](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/classic-administrator-retire)
@@ -124,6 +119,16 @@
       - [Add, update, or delete payment method](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/change-credit-card)
       - [Supported payment methods](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/supported-payment-methods)
       - [View payment history](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/view-payment-history)
+    - Manage billing benefits
+      - [Overview](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/overview)
+      - Manage credits
+        - [Track credits for Microsoft Customer Agreement](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/credits/mca-check-azure-credits-balance)
+        - [Manage a Microsoft Azure credit resource](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/credits/manage-azure-credits)
+      - Manage discounts
+        - [Manage a Microsoft discount resource](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/discounts/manage-azure-discount)
+      - Manage Microsoft Azure Consumption Commitment
+        - [Track your Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/macc/track-consumption-commitment)
+        - [Manage a Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/macc/manage-consumption-commitment)
     - Troubleshoot billing
       - [Can't view or find invoices](https://learn.microsoft.com/en-us/azure/cost-management-billing/troubleshoot-billing/troubleshoot-cant-find-invoice)
       - [View billing account](https://learn.microsoft.com/en-us/azure/cost-management-billing/troubleshoot-billing/troubleshoot-account-not-found)

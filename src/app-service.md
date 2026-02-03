@@ -6,14 +6,23 @@
     - [About App Service Environments](https://learn.microsoft.com/en-us/azure/app-service/environment/overview)
     - [Compare web hosting options](https://learn.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
     - [Managed Instance overview](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-instance)
-  - [Integrate AI with App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-ai-integration)
+  - Integrate AI with App Service
+    - [Overview](https://learn.microsoft.com/en-us/azure/app-service/overview-ai-integration)
+    - [Chatbots and RAG applications](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-chatbot-retrieval-augmented-generation)
+    - [Agentic web applications](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-agentic-web-apps)
+    - [OpenAPI tools for Foundry agents](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-openapi-tool)
+    - [Model Context Protocol servers](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-model-context-protocol-server)
+    - [Local small language models](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-local-small-language-model)
+    - [Secure AI applications](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-authentication)
   - Get started
     - [Get started](https://learn.microsoft.com/en-us/azure/app-service/getting-started)
     - .NET
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore)
+      - [Aspire Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnet-aspire)
       - Configure
         - [ASP.NET](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnet-framework)
         - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnetcore)
+        - [Aspire](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnet-aspire)
       - Connect
         - [ASP.NET Core with SQL DB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app)
         - [ASP.NET with SQL DB](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnet-sqldatabase)
