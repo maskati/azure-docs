@@ -204,6 +204,7 @@
         - [Back up Azure VM with agentless multi-disk crash-consistent backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-agentless-multi-disk-crash-consistent)
         - [Back up an Azure VM from VM settings](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-first-look-arm)
         - [Set up a vault and enable backup for Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-vms-prepare)
+        - [Back up Confidential VMs](https://learn.microsoft.com/en-us/azure/backup/confidential-vm-backup)
         - [Back up encrypted Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-encryption)
         - [Configure app-consistent backups of Azure VMs running Linux](https://learn.microsoft.com/en-us/azure/backup/backup-azure-linux-app-consistent)
         - [Selective disk backup](https://learn.microsoft.com/en-us/azure/backup/selective-disk-backup-restore)
@@ -212,6 +213,7 @@
         - [About Azure VM restore](https://learn.microsoft.com/en-us/azure/backup/about-azure-vm-restore)
         - [Restore Azure VMs in the portal](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-restore-vms)
         - [Recover files from Azure VM backups](https://learn.microsoft.com/en-us/azure/backup/backup-azure-restore-files-from-vm)
+        - [Restore Confidential VMs](https://learn.microsoft.com/en-us/azure/backup/confidential-vm-restore)
         - [Restore encrypted VMs](https://learn.microsoft.com/en-us/azure/backup/restore-azure-encrypted-virtual-machines)
         - [Restore keys and secret for encrypted VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-restore-key-secret)
       - Manage

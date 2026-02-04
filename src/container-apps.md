@@ -96,6 +96,7 @@
       - Tutorials
         - [Generate images with serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation)
         - [Deploy an NVIDIA Llama3 NIM](https://learn.microsoft.com/en-us/azure/container-apps/serverless-gpu-nim)
+        - [Deploy OpenAI GPT with OSS Ollama](https://learn.microsoft.com/en-us/azure/container-apps/deploy-openai-gpt-oss-ollama)
     - Dynamic sessions
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
       - [Usage](https://learn.microsoft.com/en-us/azure/container-apps/sessions-usage)
