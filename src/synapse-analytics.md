@@ -276,13 +276,12 @@
           - [Add an Azure Stream Analytics job](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-integrate-azure-stream-analytics?context=/azure/synapse-analytics/context/context)
       - Connect with tools and applications
         - [Overview](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/connect-overview)
-        - [Query with Azure Data Studio](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/get-started-azure-data-studio)
         - [Connection strings](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/connection-strings)
         - [Query with SSMS](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/get-started-ssms)
         - [Connect to Power BI Desktop](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/get-started-power-bi-professional)
         - [Query with Visual Studio SSDT](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/get-started-visual-studio)
         - [Query using .NET Core](https://learn.microsoft.com/azure/azure-sql/database/connect-query-dotnet-core?context=/azure/synapse-analytics/context/context)
-        - [Query using Visual Studio .NET](https://learn.microsoft.com/azure/azure-sql/database/connect-query-dotnet-visual-studio?context=/azure/synapse-analytics/context/context)
+        - [Query using Visual Studio](https://learn.microsoft.com/azure/azure-sql/database/connect-query-dotnet-visual-studio?context=/azure/synapse-analytics/context/context)
         - [Query using Python](https://learn.microsoft.com/azure/azure-sql/database/connect-query-python?context=/azure/synapse-analytics/context/context)
         - [Query with sqlcmd](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/get-started-connect-sqlcmd)
       - Troubleshoot serverless SQL pools

@@ -489,6 +489,7 @@
       - [Data source schema reference](https://learn.microsoft.com/en-us/azure/sentinel/data-source-schema-reference)
       - [Sentinel tables and connectors](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-tables-connectors-reference)
       - [Security alert schema reference](https://learn.microsoft.com/en-us/azure/sentinel/security-alert-schema)
+      - [Standalone vs XDR alert schema reference](https://learn.microsoft.com/en-us/azure/sentinel/security-alert-schema-differences)
       - [CEF log field mapping](https://learn.microsoft.com/en-us/azure/sentinel/cef-name-mapping)
       - [Windows security event sets](https://learn.microsoft.com/en-us/azure/sentinel/windows-security-event-id-reference)
       - [DNS over AMA reference](https://learn.microsoft.com/en-us/azure/sentinel/dns-ama-fields)

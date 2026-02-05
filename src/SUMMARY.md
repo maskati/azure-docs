@@ -20,7 +20,6 @@
 [Azure Fluid Relay documentation](./azure-fluid-relay.md)
 [Azure Functions documentation](./azure-functions.md)
 [Azure Government documentation](./azure-government.md)
-[Azure AI Health Insights](./azure-health-insights.md)
 [Azure Large Instances](./azure-large-instances.md)
 [Azure Maps Documentation](./azure-maps.md)
 [Azure NetApp Files documentation](./azure-netapp-files.md)

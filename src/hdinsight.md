@@ -323,7 +323,6 @@
           - [Analyze using Power Query](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-excel-power-query)
           - [Connect Power BI to Interactive Query](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/apache-hadoop-connect-hive-power-bi-directquery)
           - [Connect Power BI to Apache Hadoop](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-hive-power-bi)
-          - [Connect Excel to Apache Hadoop](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-excel-hive-odbc-driver)
           - [Connect using the Apache Hive JDBC driver](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-hive-jdbc-driver)
           - [Analyze stored tweets](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-analyze-twitter-data-linux)
           - [Generate recommendations with Apache Mahout](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-mahout-linux-mac)
@@ -471,7 +470,6 @@
         - [Use SDK for .NET](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-use-hive-dotnet-sdk)
         - [Use the HDInsight tools for Visual Studio](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-use-hive-visual-studio)
         - [Use a Java UDF with Apache Hive](https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-hive-java-udf)
-        - [Query Hive with PowerShell and ODBC](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/apache-hive-query-odbc-driver-powershell)
         - [Enable Hive LLAP Workload Management feature](https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/hive-workload-management)
       - Manage
         - [Optimize Apache Hive queries](https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-optimize-hive-query)

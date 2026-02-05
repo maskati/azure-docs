@@ -164,6 +164,7 @@
       - [Allow access from specific IP addresses](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-ip-filtering)
       - [Allow access from specific virtual networks](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-service-endpoints)
       - [Allow access via private endpoints](https://learn.microsoft.com/en-us/azure/event-hubs/private-link-service)
+      - [Associate a network security perimeter](https://learn.microsoft.com/en-us/azure/event-hubs/associate-network-security-perimeter)
       - [Encrypt data using customer-managed keys](https://learn.microsoft.com/en-us/azure/event-hubs/configure-customer-managed-key)
       - [Configure minimum required TLS version](https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-configure-minimum-version)
       - [Audit minimum required TLS version](https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-audit-minimum-version)
