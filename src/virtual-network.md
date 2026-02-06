@@ -11,12 +11,14 @@
     - [Service tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
     - [Architecture best practices for Azure Virtual Network](https://learn.microsoft.com/azure/well-architected/service-guides/virtual-network)
     - [What is network foundations?](https://learn.microsoft.com/azure/networking/foundations/network-foundations-overview)
+    - [Virtual network routing appliance](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-routing-appliance-overview)
   - Get started
     - [Add, change, or delete a subnet](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet)
     - [Create a virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/quickstart-create-virtual-network)
     - [Monitoring](https://learn.microsoft.com/en-us/azure/virtual-network/monitor-virtual-network)
     - [Plan virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm)
     - [Traffic routing](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
+    - [Create a virtual network routing appliance](https://learn.microsoft.com/en-us/azure/virtual-network/how-to-create-virtual-network-routing-appliance)
   - Security
     - [Secure Virtual Network](https://learn.microsoft.com/en-us/azure/virtual-network/secure-virtual-network)
     - [Azure Kubernetes network policies](https://learn.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies)

@@ -19,7 +19,7 @@
       - Respond to database changes
         - [Azure Cosmos DB NoSQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-cosmosdb)
         - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-sqldb)
-      - [Build a serverless workflow](https://learn.microsoft.com/en-us/azure/azure-functions/durable/scenario-build-serverless-workflow?toc=/azure/azure-functions/toc.json)
+      - [Build a serverless workflow](https://learn.microsoft.com/en-us/azure/azure-functions/durable/scenario-build-serverless-workflow?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Run scheduled tasks](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-scheduled-tasks)
     - Developer tools
       - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
@@ -31,7 +31,7 @@
         - [Gradle](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-gradle)
         - [IntelliJ IDEA](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij)
         - [Quarkus](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-quarkus)
-        - [Spring Cloud](https://learn.microsoft.com/azure/developer/java/spring-framework/getting-started-with-spring-cloud-function-in-azure?toc=/azure/azure-functions/toc.json)
+        - [Spring Cloud](https://learn.microsoft.com/azure/developer/java/spring-framework/getting-started-with-spring-cloud-function-in-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - Resource Manager
       - [Bicep](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-bicep)
       - [ARM template](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-resource-manager)
@@ -60,13 +60,13 @@
       - [Use identity for triggers and bindings](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial-2)
       - [Access Azure SQL with managed identity](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity)
     - [Low-latency Blob trigger using Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-grid-blob-trigger)
-    - [Image resize with Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=/azure/azure-functions/toc.json)
+    - [Image resize with Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [Create a serverless web app](https://learn.microsoft.com/training/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/)
     - Data + AI
       - [Azure OpenAI for text completion](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion)
       - [Machine learning with TensorFlow](https://learn.microsoft.com/en-us/azure/azure-functions/functions-machine-learning-tensorflow)
       - [Image classification with PyTorch](https://learn.microsoft.com/en-us/azure/azure-functions/machine-learning-pytorch)
-    - [Functions on IoT Edge device](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function?toc=/azure/azure-functions/toc.json)
+    - [Functions on IoT Edge device](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [Java with Azure Cosmos DB and Event Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-hub-cosmos-db)
   - Samples
     - [Azure Functions Samples in Github](https://github.com/search?q=topic%3Aazure-functions+org%3AAzure-Samples+fork%3Atrue&type=repositories)
@@ -108,7 +108,7 @@
         - [Containerized functions](https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts)
         - [Azure Container Apps hosting](https://learn.microsoft.com/en-us/azure/azure-functions/functions-container-apps-hosting)
       - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
-      - [MCP server hosting](https://learn.microsoft.com/en-us/azure/azure-functions/self-hosted-mcp-servers)
+      - [Host MCP servers](https://learn.microsoft.com/en-us/azure/azure-functions/self-hosted-mcp-servers)
     - Deployment
       - [Deployment options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies)
       - [Flex Consumption update strategies](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-site-updates)
@@ -129,16 +129,15 @@
       - [Express.js](https://learn.microsoft.com/en-us/azure/azure-functions/shift-expressjs)
     - Security
       - [Security overview](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/functions-security-baseline?toc=/azure/azure-functions/TOC.json)
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/functions-security-baseline?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - Reliability
-      - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-functions?toc=/azure/azure-functions/TOC.json)
+      - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Migrate to a zone-redundant plan](https://learn.microsoft.com/azure/reliability/migrate-functions?toc=%2fazure%2fazure-functions%2ftoc.json)
     - [Diagnostics](https://learn.microsoft.com/en-us/azure/azure-functions/functions-diagnostics)
     - [Consumption plan costs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-consumption-costs)
     - [Networking options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-options)
     - [IP addresses](https://learn.microsoft.com/en-us/azure/azure-functions/ip-addresses)
     - [Custom handlers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-custom-handlers)
-    - [Self-hosted MCP servers](https://learn.microsoft.com/en-us/azure/azure-functions/self-hosted-mcp-servers)
   - Languages
     - [Supported languages](https://learn.microsoft.com/en-us/azure/azure-functions/supported-languages)
     - C#
@@ -195,7 +194,7 @@
       - Debug
         - [Debug local PowerShell functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-powershell-local)
         - [Debug Event Grid trigger locally](https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-event-grid-trigger-local)
-      - [Load testing](https://learn.microsoft.com/en-us/azure/app-testing/load-testing/how-to-create-load-test-function-app?toc=/azure/azure-functions/toc.json)
+      - [Load testing](https://learn.microsoft.com/en-us/azure/app-testing/load-testing/how-to-create-load-test-function-app?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Dependency injection](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection)
       - [Manage connections](https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections)
       - [Error handling and retries](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages)
@@ -214,7 +213,7 @@
       - [Build and deploy using GitHub Actions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions)
       - [Zip deployment](https://learn.microsoft.com/en-us/azure/azure-functions/deployment-zip-push)
       - [Run from package](https://learn.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package)
-      - [Deploy using the Jenkins plugin](https://learn.microsoft.com/azure/developer/jenkins/deploy-to-azure-functions?toc=/azure/azure-functions/toc.json)
+      - [Deploy using the Jenkins plugin](https://learn.microsoft.com/azure/developer/jenkins/deploy-to-azure-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - Configure
       - [Manage a function app](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings)
       - [Work with Flex Consumption apps](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-how-to)
@@ -231,26 +230,26 @@
       - [Work with OpenTelemetry](https://learn.microsoft.com/en-us/azure/azure-functions/opentelemetry-howto)
     - Authenticate
       - Configure auth providers
-        - [Authenticate with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad?toc=/azure/azure-functions/toc.json)
-        - [Authenticate with Facebook](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-facebook?toc=/azure/azure-functions/toc.json)
-        - [Authenticate with GitHub](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-github?toc=/azure/azure-functions/toc.json)
-        - [Authenticate with Google](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-google?toc=/azure/azure-functions/toc.json)
-        - [Authenticate with X](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-twitter?toc=/azure/azure-functions/toc.json)
-        - [Authenticate with an OpenID Connect provider](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-openid-connect?toc=/azure/azure-functions/toc.json)
-        - [Authenticate using Sign in with Apple Preview](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-apple?toc=/azure/azure-functions/toc.json)
-      - [Customize sign-ins/outs](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-customize-sign-in-out?toc=/azure/azure-functions/toc.json)
-      - [Access user identities](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-user-identities?toc=/azure/azure-functions/toc.json)
-      - [Work with tokens](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-oauth-tokens?toc=/azure/azure-functions/toc.json)
-      - [Manage API versions](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-api-version?toc=/azure/azure-functions/toc.json)
-      - [File-based configuration](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-file-based?toc=/azure/azure-functions/toc.json)
-      - [MCP server authorization](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp?toc=/azure/azure-functions/toc.json)
+        - [Authenticate with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+        - [Authenticate with Facebook](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-facebook?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+        - [Authenticate with GitHub](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-github?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+        - [Authenticate with Google](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-google?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+        - [Authenticate with X](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-twitter?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+        - [Authenticate with an OpenID Connect provider](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-openid-connect?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+        - [Authenticate using Sign in with Apple Preview](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-apple?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Customize sign-ins/outs](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-customize-sign-in-out?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Access user identities](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-user-identities?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Work with tokens](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-oauth-tokens?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Manage API versions](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-api-version?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [File-based configuration](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-file-based?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [MCP server authorization](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - Secure
       - [Work with access keys](https://learn.microsoft.com/en-us/azure/azure-functions/function-keys-how-to)
-      - [Add SSL cert](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?toc=/azure/azure-functions/toc.json)
-      - [Restrict IPs](https://learn.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions?toc=/azure/azure-functions/toc.json)
-      - [Use a managed identity](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json)
-      - [Use an agent identity](https://learn.microsoft.com/en-us/azure/app-service/overview-agent-identity?toc=/azure/azure-functions/toc.json)
-      - [Reference secrets from Key Vault](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?toc=/azure/azure-functions/toc.json)
+      - [Add SSL cert](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Restrict IPs](https://learn.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Use a managed identity](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Use an agent identity](https://learn.microsoft.com/en-us/azure/app-service/overview-agent-identity?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Reference secrets from Key Vault](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Encrypt site data](https://learn.microsoft.com/en-us/azure/azure-functions/configure-encrypt-at-rest-using-cmk)
     - Integrate
       - Connect to services
@@ -261,28 +260,35 @@
           - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs)
           - [Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-python)
         - SignalR
-          - [C#](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-csharp?toc=/azure/azure-functions/toc.json)
-          - [Java](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-java?toc=/azure/azure-functions/toc.json)
-          - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-javascript?toc=/azure/azure-functions/toc.json)
-          - [Python](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-python?toc=/azure/azure-functions/toc.json)
-        - [Web PubSub](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-serverless-notification?toc=/azure/azure-functions/toc.json)
+          - [C#](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-csharp?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+          - [Java](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-java?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+          - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-javascript?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+          - [Python](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-python?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+        - [Web PubSub](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-serverless-notification?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
         - [Work with Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/event-grid-how-tos)
       - [Connect to a virtual Network](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet)
       - Create OpenAPI definitions
         - [API Management integration portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition)
         - [Visual Studio with API Management C#](https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio)
-      - [Register an MCP server in API Center](https://learn.microsoft.com/en-us/azure/azure-functions/register-mcp-server-api-center)
-      - [Use a managed identity](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json)
+      - [Use a managed identity](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Manage on-premises resources](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell)
     - Troubleshoot
       - [Storage connections](https://learn.microsoft.com/en-us/azure/azure-functions/functions-recover-storage-account)
-      - [Azure Cosmos DB bindings](https://learn.microsoft.com/azure/cosmos-db/troubleshoot-changefeed-functions?toc=/azure/azure-functions/toc.json)
+      - [Azure Cosmos DB bindings](https://learn.microsoft.com/azure/cosmos-db/troubleshoot-changefeed-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Node.js](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-troubleshoot)
       - Python
         - [General troubleshooting](https://learn.microsoft.com/en-us/azure/azure-functions/recover-python-functions)
         - [Scale and performance](https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference)
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
   - AI
+    - [Create AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-ai-enabled-apps)
+    - Custom remote MCP servers
+      - [MCP extension quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
+      - [Custom remote MCP tutorial](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-tutorial)
+      - [Self-hosted MCP servers](https://learn.microsoft.com/en-us/azure/azure-functions/self-hosted-mcp-servers)
+      - [MCP server authorization](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Connect to Foundry Agent Service](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-foundry-tools)
+      - [Register an MCP server in API Center](https://learn.microsoft.com/en-us/azure/azure-functions/register-mcp-server-api-center)
     - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
   - Migration guides

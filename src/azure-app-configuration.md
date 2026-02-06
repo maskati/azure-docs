@@ -145,7 +145,6 @@
     - [Deploy to Kubernetes using Helm](https://learn.microsoft.com/en-us/azure/azure-app-configuration/integrate-kubernetes-deployment-helm)
   - Monitoring
     - [Monitor App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration)
-    - [Reference for monitoring data](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration-reference)
   - Resource management
     - [Move a resource between Azure regions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-move-resource-between-regions)
     - [Move a resource between subscriptions or resource groups](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-move-resource-between-subscriptions-resource-groups)
