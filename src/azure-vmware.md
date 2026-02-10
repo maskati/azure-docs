@@ -125,7 +125,6 @@
     - [Enable VMware Cloud Director with Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-vcd-with-azure)
     - [VMware Cloud Director on Azure VMware Solution network scenarios](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-vcd-with-azure-network)
     - [Deploy VMware Cloud Director Availability in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vmware-cloud-director-availability-in-azure-vmware-solution)
-    - [Enable VMware Cloud Director Service with Azure VMware solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-cds-with-azure)
   - Virtual machines
     - [Operating system support for VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-os-vms)
     - [Configure vTPM on a Virtual Machine](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-virtual-trusted-platform-module)

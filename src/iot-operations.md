@@ -121,6 +121,7 @@
       - [Azure IoT Operations release notes](https://github.com/Azure/azure-iot-operations/releases)
       - [Azure IoT Operations CLI](https://learn.microsoft.com/cli/azure/iot/ops)
       - [Azure IoT Operations REST API](https://learn.microsoft.com/rest/api/iotoperations)
+      - [Device Registry REST API](https://learn.microsoft.com/rest/api/deviceregistry/)
       - [Custom RBAC](https://learn.microsoft.com/en-us/azure/iot-operations/reference/custom-rbac)
       - Available metrics for observability
         - [MQTT broker](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-mqtt-broker)

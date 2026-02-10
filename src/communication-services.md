@@ -248,6 +248,7 @@
         - [Call networking internals](https://learn.microsoft.com/en-us/azure/communication-services/concepts/call-flows)
         - [Call flow topologies](https://learn.microsoft.com/en-us/azure/communication-services/concepts/detailed-call-flows)
         - [Integrate with Azure ExpressRoute](https://learn.microsoft.com/en-us/azure/communication-services/tutorials/integrate-express-route)
+      - [Use VDI to make audio calls from Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/voice-video-calling/calling-from-virtual-desktop-infrastructure)
     - Advanced audio and video features
       - [Music mode](https://learn.microsoft.com/en-us/azure/communication-services/concepts/voice-video-calling/music-mode)
       - Edit audio and video media from the client
