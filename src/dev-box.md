@@ -34,7 +34,6 @@
     - [Provision a Custom Image with Azure Image Builder](https://learn.microsoft.com/en-us/azure/dev-box/how-to-customize-devbox-azure-image-builder)
   - Customize dev boxes
     - [What are Dev Box customizations](https://learn.microsoft.com/en-us/azure/dev-box/concept-what-are-dev-box-customizations)
-    - [Quickstart:Use Team Customizations](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-team-customizations)
     - [Configure team customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-team-customizations)
     - [Configure dev center imaging](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-dev-center-imaging)
     - [Configure user customizations](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-user-customizations)

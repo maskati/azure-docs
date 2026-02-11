@@ -140,6 +140,11 @@
     - [Create and debug policies in VS Code](https://learn.microsoft.com/en-us/azure/api-management/api-management-debug-policies)
     - [Policy expressions](https://learn.microsoft.com/en-us/azure/api-management/api-management-policy-expressions)
     - [Reuse policy configurations](https://learn.microsoft.com/en-us/azure/api-management/policy-fragments)
+    - Build advanced execution pipeline
+      - [Architecture using policy fragments](https://learn.microsoft.com/en-us/azure/api-management/fragment-pipeline-architecture)
+      - [Variable management in execution pipeline](https://learn.microsoft.com/en-us/azure/api-management/fragment-variable-management)
+      - [Central metadata cache for policy fragments](https://learn.microsoft.com/en-us/azure/api-management/fragment-metadata-cache)
+      - [Policy fragment injection and coordination](https://learn.microsoft.com/en-us/azure/api-management/fragment-policy-coordination)
     - [Error handling](https://learn.microsoft.com/en-us/azure/api-management/api-management-error-handling-policies)
     - [Advanced monitoring](https://learn.microsoft.com/en-us/azure/api-management/api-management-log-to-eventhub-sample)
     - [Advanced request throttling](https://learn.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling)
