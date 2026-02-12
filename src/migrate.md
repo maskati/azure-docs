@@ -179,6 +179,7 @@
       - [Migrate VMware VMs to encrypted Azure VMs](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate-vmware-vms-with-cmk-disks)
       - [Test migration](https://learn.microsoft.com/en-us/azure/migrate/how-to-test-replicating-virtual-machines)
       - [Upgrade Windows OS](https://learn.microsoft.com/en-us/azure/migrate/how-to-upgrade-windows)
+      - [Automate agent-based migrations using REST API](https://learn.microsoft.com/en-us/azure/migrate/how-to-automate-vmware-to-azure-migration-rest-api)
       - Scale migration
         - [How to migrate VMware VMs at scale using the agentless replication method](https://learn.microsoft.com/en-us/azure/migrate/how-to-scale-out-for-migration)
         - [Automate migration of large number of VMs](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate-at-scale)

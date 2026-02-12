@@ -29,7 +29,7 @@
     - Develop
       - [Guidance for developers](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-developer-guide)
       - [Azure Storage](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-get-started-connect-to-storage)
-      - [Azure AI services](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-cognitiveservices)
+      - [Foundry Tools](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-cognitiveservices)
       - [Integrate Microsoft Entra authentication](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-aad-auth-qs)
       - [SQL Server Management Studio](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-connect-ssms)
     - Secure

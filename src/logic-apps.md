@@ -104,7 +104,6 @@
       - [Migration from Power Automate](https://learn.microsoft.com/en-us/azure/logic-apps/power-automate-migration)
       - Migration from BizTalk Server
         - [Why migrate from BizTalk Server?](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-overview)
-        - [Which integration services to choose](https://learn.microsoft.com/en-us/azure/logic-apps/azure-integration-services-choose-capabilities)
         - [Migration options and best practices](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-approaches)
     - Develop
       - [Add a trigger or action to a workflow](https://learn.microsoft.com/en-us/azure/logic-apps/add-trigger-action-workflow)

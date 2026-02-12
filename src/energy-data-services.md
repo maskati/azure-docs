@@ -39,8 +39,8 @@
       - [Manage data partitions](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-add-more-data-partitions)
       - [Deploy Geospatial Consumption Zone GCZ](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-deploy-gcz)
       - [Deploy OSDU Admin UI](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-deploy-osdu-admin-ui)
-      - [How to enable External Data Sources EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-external-data-sources)
-      - [How to register External Data Sources EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-register-external-data-sources)
+      - [How to enable External Data Services EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-external-data-services)
+      - [How to register External Data Services EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-register-external-data-services)
       - [How to enable legal tags restricted COO Country of Origin](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-legal-tags-restricted-country-of-origin)
       - [How to enable Reservoir DDMS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-reservoir-ddms)
     - Monitoring
