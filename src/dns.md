@@ -67,6 +67,7 @@
       - [Virtual network links](https://learn.microsoft.com/en-us/azure/dns/private-dns-virtual-network-links)
       - [Autoregistration](https://learn.microsoft.com/en-us/azure/dns/private-dns-autoregistration)
       - [Private DNS scenarios](https://learn.microsoft.com/en-us/azure/dns/private-dns-scenarios)
+      - [Sharding private DNS zones](https://learn.microsoft.com/en-us/azure/dns/sharding-private-dns-zones)
       - [DNS resolution in virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances?toc=%2fazure%2fdns%2ftoc.json)
       - [Private DNS resiliency](https://learn.microsoft.com/en-us/azure/dns/private-dns-resiliency)
       - [FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq-private.yml)

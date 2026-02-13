@@ -696,7 +696,7 @@
       - [Use the Retail AI solution](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/quickstart-industry-ai-solutions)
       - Create a linked service
         - [Azure Machine Learning](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/quickstart-integrate-azure-machine-learning)
-        - [Azure AI services](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-configure-cognitive-services-synapse)
+        - [Foundry Tools](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-configure-cognitive-services-synapse)
     - Concepts
       - [Train machine learning models](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-training)
       - [Deep learning deprecated](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/concept-deep-learning)
@@ -714,7 +714,7 @@
       - Score a model
         - [Use the scoring wizard for dedicated SQL pools](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-sql-pool-model-scoring-wizard)
         - [PREDICT score in Synapse spark using model registered in AML or ADLS](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-score-model-predict-spark-pool)
-        - With Azure AI services
+        - With Foundry Tools
           - [Overview](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/overview-cognitive-services)
           - [Setup environment](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/setup-environment-cognitive-services)
           - [Sentiment analysis wizard](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-cognitive-services-sentiment)

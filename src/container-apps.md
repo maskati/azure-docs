@@ -87,6 +87,9 @@
         - [Storage mount](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-storage-mount-failures)
         - [Target port](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-target-port-settings)
         - [Container start](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-start-failures)
+    - Migration
+      - [Heroku migration overview](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku-overview)
+      - [Migrate from Heroku](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku)
   - AI integration
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/ai-integration)
     - [Compose for agents](https://learn.microsoft.com/en-us/azure/container-apps/compose-agent)
@@ -94,7 +97,7 @@
       - [Serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview)
       - [GPU types](https://learn.microsoft.com/en-us/azure/container-apps/gpu-types)
       - Tutorials
-        - [Generate images with serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation)
+        - [Deploy AI image generation with serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-gpu-image-generation)
         - [Deploy an NVIDIA Llama3 NIM](https://learn.microsoft.com/en-us/azure/container-apps/serverless-gpu-nim)
         - [Deploy OpenAI GPT with OSS Ollama](https://learn.microsoft.com/en-us/azure/container-apps/deploy-openai-gpt-oss-ollama)
     - Dynamic sessions
@@ -178,7 +181,7 @@
         - [Deploy using the Dapr extension for Azure Functions](https://learn.microsoft.com/en-us/azure/container-apps/dapr-functions-extension)
       - Components
         - [Components overview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-components)
-        - [Connect to Azure or third-party services](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connect-services)
+        - [Connect to Azure or partner services](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connect-services)
         - [Connect to Azure services via Azure portal](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connection)
       - Configure
         - [Set up Dapr resiliency policies preview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
