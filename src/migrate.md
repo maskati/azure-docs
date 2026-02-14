@@ -28,7 +28,6 @@
       - [Register appliance using pre-configured Entra app](https://learn.microsoft.com/en-us/azure/migrate/how-to-register-appliance-using-entra-app)
       - Appliance configuration
         - [Provide server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
-        - [Appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
       - Discover VMware estate
         - [Discover Virtual Machines](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware)
         - [Scoped discovery of VMware hosted VMs](https://learn.microsoft.com/en-us/azure/migrate/set-discovery-scope)
@@ -39,7 +38,6 @@
       - Discover Physical or Public-cloud estate
         - [Discover physical servers and servers running in AWS and GCP](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical)
         - [Support matrix for Physical server discovery](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-physical)
-      - [Discover software and workloads](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-applications)
       - Deep discover database workloads
         - SQL instances
           - [Discover SQL servers](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-sql-existing-project)
@@ -126,7 +124,6 @@
     - [Containerize Java web apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-app-service)
     - [Modernize ASP.NET web apps to App Service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-appservice-code)
     - [CI/CD for Day 2 operations](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-azure-pipeline)
-    - [Modernization to App service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-appservice-code)
   - Tutorials
     - Migration scenarios
       - Migrate VMware servers
@@ -145,17 +142,12 @@
         - [Discover GCP inventory](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-gcp)
         - [Migrate AWS EC2 to Azure](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-aws-virtual-machines)
       - Modernize applications
-        - [Containerize ASP.NET apps and migrate to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-kubernetes)
-        - [Containerize Java web apps and migrate to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-kubernetes)
         - [Containerize ASP.NET apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service)
         - [Containerize Java web apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-app-service)
         - [Modernize ASP.NET web apps to App Service code](https://learn.microsoft.com/en-us/azure/migrate/tutorial-modernize-asp-net-appservice-code)
-        - [CI/CD for Day 2 operations](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-azure-pipeline)
   - How-to
-    - [Create project with private endpoint](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
     - [Discover and assess using Azure Private Link](https://learn.microsoft.com/en-us/azure/migrate/discover-and-assess-using-private-endpoints)
     - [Migrate servers to Azure using Private Link](https://learn.microsoft.com/en-us/azure/migrate/migrate-servers-to-azure-using-private-link)
-    - [Troubleshoot network connectivity for private endpoint](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-network-connectivity)
     - [Simplified experience for Azure migrate](https://learn.microsoft.com/en-us/azure/migrate/simplified-experience-for-azure-migrate)
     - Discovery
       - Deploy appliance
@@ -164,12 +156,12 @@
       - [Deploy appliance in Azure Government](https://learn.microsoft.com/en-us/azure/migrate/deploy-appliance-script-government)
       - [Create least privilege credentials for SQL Server discovery](https://learn.microsoft.com/en-us/azure/migrate/least-privilege-credentials)
       - [Enable Arc on discovered items](https://learn.microsoft.com/en-us/azure/migrate/how-to-arc-enable-inventory)
-      - [How to add server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
       - [Migrate to Azure Monitor agent](https://learn.microsoft.com/en-us/azure/migrate/azure-monitor-agent-migration)
       - [Analyze machine dependencies agent-based](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies)
       - [Analyze machine dependencies agentless](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies-agentless)
     - Assessment
       - [Enable application and code assessment](https://learn.microsoft.com/en-us/azure/migrate/appcat/)
+      - Scale assessment
         - [Assess large number of servers in VMware environment](https://learn.microsoft.com/en-us/azure/migrate/scale-vmware-assessment)
         - [Assess large numbers of physical servers](https://learn.microsoft.com/en-us/azure/migrate/scale-physical-assessment)
     - Migrate
