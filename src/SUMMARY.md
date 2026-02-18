@@ -102,7 +102,6 @@
 [Azure RBAC documentation](./role-based-access-control.md)
 [Azure Route Server documentation](./route-server.md)
 [SAP on Azure documentation](./sap.md)
-[Azure Scheduler documentation](./scheduler.md)
 [Microsoft Sentinel documentation](./sentinel.md)
 [Azure Service Bus Messaging documentation](./service-bus-messaging.md)
 [Service Connector documentation](./service-connector.md)

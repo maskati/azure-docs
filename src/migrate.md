@@ -18,9 +18,12 @@
     - [Credentials:Security best practices](https://learn.microsoft.com/en-us/azure/migrate/best-practices-least-privileged-account)
     - [Requirements for Private endpoints](https://learn.microsoft.com/en-us/azure/migrate/how-to-use-azure-migrate-with-private-endpoints)
     - [Support Matrix](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix)
+    - [Dependency analysis](https://learn.microsoft.com/en-us/azure/migrate/concepts-dependency-visualization)
     - [Assessment rules for PostgreSQL](https://learn.microsoft.com/en-us/azure/migrate/assessment-rules-for-postgresql)
     - [Agentless migration architecture](https://learn.microsoft.com/en-us/azure/migrate/concepts-vmware-agentless-migration)
     - [Hyper-V migration architecture](https://learn.microsoft.com/en-us/azure/migrate/hyper-v-migration-architecture)
+    - [VMware agentless migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-agentless-migration)
+    - [Hydration process workflow](https://learn.microsoft.com/en-us/azure/migrate/hydration-process)
   - Discover inventory
     - [Discovery methods](https://learn.microsoft.com/en-us/azure/migrate/discovery-methods-modes)
     - Discovery using appliance
@@ -130,6 +133,7 @@
       - Migrate VMware servers
         - [Assess VMware servers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vm)
         - [Migrate to Azure Cloud](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
+        - [Migrate VMware VMs to Azure using PowerShell agentless](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-powershell)
         - [Migrate to Azure Local](https://learn.microsoft.com/azure/azure-local/migrate/migration-azure-migrate-vmware-overview?toc=/azure/migrate/toc.json)
       - Migrate Hyper-V servers
         - [Assess large number of servers in Hyper-V environment](https://learn.microsoft.com/en-us/azure/migrate/scale-hyper-v-assessment)
