@@ -54,7 +54,6 @@
         - [Using user-assigned managed identity](https://learn.microsoft.com/en-us/azure/automation/add-user-assigned-identity)
         - [Disable system-assigned managed identity](https://learn.microsoft.com/en-us/azure/automation/disable-managed-identity-for-automation)
         - [Remove user-assigned managed identity](https://learn.microsoft.com/en-us/azure/automation/remove-user-assigned-identity)
-        - [Troubleshoot managed identity](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/managed-identity)
       - Run As account
         - [Delete Run As account](https://learn.microsoft.com/en-us/azure/automation/delete-run-as-account)
         - [Migrate Run As account to managed identity](https://learn.microsoft.com/en-us/azure/automation/migrate-run-as-accounts-managed-identity)
@@ -81,7 +80,6 @@
       - [Manage variables](https://learn.microsoft.com/en-us/azure/automation/shared-resources/variables)
       - [Manage Python 2 packages](https://learn.microsoft.com/en-us/azure/automation/python-packages)
       - [Manage Python 3 packages](https://learn.microsoft.com/en-us/azure/automation/python-3-packages)
-      - [Troubleshoot shared resources](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/shared-resources)
     - Process automation
       - [Use existing runbooks and modules](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-gallery)
       - [Learn PowerShell Workflow](https://learn.microsoft.com/en-us/azure/automation/automation-powershell-workflow)
@@ -101,9 +99,6 @@
         - [Configure runbook output](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-output-and-messages)
         - [Handle errors in graphical runbooks](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-graphical-error-handling)
         - [Forward Azure Automation diagnostic logs to Azure Monitor](https://learn.microsoft.com/en-us/azure/automation/automation-manage-send-joblogs-log-analytics)
-      - Troubleshoot runbooks
-        - [Troubleshoot runbook issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/runbooks)
-        - [Data to collect when opening a case for Microsoft Azure Automation](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/collect-data-microsoft-azure-automation-case)
       - Work with Hybrid Runbook Worker
         - [Deploy extension-based worker](https://learn.microsoft.com/en-us/azure/automation/extension-based-hybrid-runbook-worker-install)
         - [Migrate existing Agent-based Hybrid Workers to Extension-based Workers](https://learn.microsoft.com/en-us/azure/automation/migrate-existing-agent-based-hybrid-worker-to-extension-based-workers)
@@ -111,8 +106,6 @@
         - [Deploy agent-based Linux worker](https://learn.microsoft.com/en-us/azure/automation/automation-linux-hrw-install)
         - [Run runbooks on Hybrid Runbook Worker](https://learn.microsoft.com/en-us/azure/automation/automation-hrw-run-runbooks)
         - [Use Azure Policy to enforce job execution](https://learn.microsoft.com/en-us/azure/automation/enforce-job-execution-hybrid-worker)
-        - [Troubleshoot extension-based worker issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/extension-based-hybrid-runbook-worker)
-        - [Troubleshoot agent-based worker issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/hybrid-runbook-worker)
       - [Use source control integration](https://learn.microsoft.com/en-us/azure/automation/source-control-integration)
     - Configuration Management
       - Azure Automation State Configuration
@@ -127,7 +120,6 @@
         - [Set up continuous deployment with Chocolatey](https://learn.microsoft.com/en-us/azure/automation/automation-dsc-cd-chocolatey)
         - [Integrate with Azure Monitor Logs](https://learn.microsoft.com/en-us/azure/automation/automation-dsc-diagnostics)
         - [Work with State Configuration extension version history](https://learn.microsoft.com/en-us/azure/automation/automation-dsc-extension-history)
-        - [Troubleshoot State Configuration issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration)
     - Change Tracking and Inventory using AMA
       - [About Change tracking and inventory](https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview-monitoring-agent)
       - [Supported regions](https://learn.microsoft.com/en-us/azure/automation/change-tracking/region-mappings-monitoring-agent)
@@ -148,6 +140,15 @@
       - [Deploy Resource Manager template with runbook](https://learn.microsoft.com/en-us/azure/automation/automation-deploy-template-runbook)
       - [Integrate with Event Grid and Microsoft Teams](https://learn.microsoft.com/en-us/azure/event-grid/ensure-tags-exists-on-new-virtual-machines)
       - [Automate start/stop of Azure-SSIS IR](https://learn.microsoft.com/en-us/azure/data-factory/how-to-schedule-azure-ssis-integration-runtime)
+  - Troubleshoot
+    - [Troubleshoot Managed Identity Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/managed-identity)
+    - [Troubleshoot Shared Resources Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/shared-resources)
+    - [Troubleshoot Runbook Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/runbooks)
+    - Troubleshoot Hybrid Runbook Worker Issues
+      - [Troubleshoot Extension-based Hybrid Runbook Worker Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/extension-based-hybrid-runbook-worker)
+      - [Troubleshoot Agent-based Hybrid Runbook Worker Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/hybrid-runbook-worker)
+    - [Troubleshoot State Configuration Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration)
+    - [Data to Collect when Opening a Case for Microsoft Azure Automation](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/collect-data-microsoft-azure-automation-case)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/automation)
     - [Azure PowerShell Az](https://learn.microsoft.com/powershell/module/az.automation/)
