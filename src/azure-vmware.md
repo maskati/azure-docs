@@ -56,6 +56,7 @@
     - Tutorial
       - [Create a Gen 2 Private Cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/native-create-azure-vmware-virtual-network-private-cloud)
     - Architecture
+      - [Reliability in Azure VMware Solution](https://learn.microsoft.com/azure/reliability/reliability-vmware-solution?pivots=avs-gen1)
       - [Design considerations for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-design-consideration)
     - Security
       - [Enable first-party application service principal](https://learn.microsoft.com/en-us/azure/azure-vmware/native-first-party-principle-security)

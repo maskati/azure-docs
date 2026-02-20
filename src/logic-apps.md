@@ -34,7 +34,7 @@
     - [Scheduled recurring workflows](https://learn.microsoft.com/en-us/azure/logic-apps/concepts-schedule-automated-recurring-tasks-workflows)
     - [Serverless with Azure](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-serverless-overview)
     - [AI playbook and solution development](https://learn.microsoft.com/en-us/azure/logic-apps/ai-resources)
-    - [AI agent workflows](https://learn.microsoft.com/en-us/azure/logic-apps/agent-workflows-concepts)
+    - [Agentic workflows](https://learn.microsoft.com/en-us/azure/logic-apps/agent-workflows-concepts)
     - [Business rules engine integration](https://learn.microsoft.com/en-us/azure/logic-apps/rules-engine/rules-engine-overview)
     - [B2B integration & EDI processing](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview)
     - [Mainframe modernization](https://learn.microsoft.com/en-us/azure/logic-apps/mainframe-modernization-overview)
@@ -65,19 +65,19 @@
       - [Secure traffic between Standard workflows and virtual networks](https://learn.microsoft.com/en-us/azure/logic-apps/secure-single-tenant-workflow-virtual-network-private-endpoint)
       - AI scenarios
         - [Get AI-powered help from the workflow assistant](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-assistant-standard)
-        - [Create autonomous agent workflows](https://learn.microsoft.com/en-us/azure/logic-apps/create-autonomous-agent-workflows)
-        - [Create conversational agent workflows](https://learn.microsoft.com/en-us/azure/logic-apps/create-conversational-agent-workflows)
+        - [Create autonomous agentic workflows](https://learn.microsoft.com/en-us/azure/logic-apps/create-autonomous-agent-workflows)
+        - [Create conversational agentic workflows](https://learn.microsoft.com/en-us/azure/logic-apps/create-conversational-agent-workflows)
         - [Add agent tools in Foundry backed by connectors](https://learn.microsoft.com/en-us/azure/logic-apps/add-agent-tools-connector-actions)
         - [Add agent actions in Foundry backed by workflows](https://learn.microsoft.com/en-us/azure/logic-apps/add-agent-action-create-run-workflow)
         - [Create MCP servers and tools from connectors](https://learn.microsoft.com/en-us/azure/logic-apps/create-mcp-server-api-center)
         - [Set up Standard logic apps as MCP servers](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-model-context-protocol-server-standard)
-        - [Run Python code in agent workflows](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/code-interpreter-python-container-apps-session)
+        - [Run Python code in agentic workflows](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/code-interpreter-python-container-apps-session)
         - [Parse or chunk content](https://learn.microsoft.com/en-us/azure/logic-apps/parse-document-chunk-text)
         - [Create chat completions with prompt templates](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/create-chat-completions-prompt-template)
-        - Multiagent scenarios
-          - [Single agent versus multiple agents](https://learn.microsoft.com/en-us/azure/logic-apps/single-versus-multiple-agents)
-          - [Call AI agents sequentially](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-prompt-chain-agent-workflow)
-          - [Hand off AI agent tasks with chat continuity](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-handoff-agent-workflow)
+        - Multiagentic scenarios
+          - [Single agent loop versus multiple agent loops](https://learn.microsoft.com/en-us/azure/logic-apps/single-versus-multiple-agents)
+          - [Call AI agent loop sequentially](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-prompt-chain-agent-workflow)
+          - [Hand off AI agent loop tasks with chat continuity](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-handoff-agent-workflow)
       - Develop for rules engine integration
         - [Overview for rules engine integration](https://learn.microsoft.com/en-us/azure/logic-apps/rules-engine/rules-engine-overview)
         - [Create business rules](https://learn.microsoft.com/en-us/azure/logic-apps/rules-engine/create-rules)
@@ -228,9 +228,9 @@
       - [XML Validation](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-xml-validation)
     - Secure
       - [Secure logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app)
-      - [Secure agent workflows with Easy Auth](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-authentication-agent-workflows)
+      - [Secure agentic workflows with Easy Auth](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-authentication-agent-workflows)
       - [Authenticate with managed identities](https://learn.microsoft.com/en-us/azure/logic-apps/authenticate-with-managed-identity)
-      - [Authorize agent access to resources with OBO](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-on-behalf-of-user-flow)
+      - [Authorize agent loop access to resources with OBO](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-on-behalf-of-user-flow)
       - [Block connector usage](https://learn.microsoft.com/en-us/azure/logic-apps/block-connections-connectors)
       - [Block connections across tenants](https://learn.microsoft.com/en-us/azure/logic-apps/block-connections-across-tenants)
     - Manage
