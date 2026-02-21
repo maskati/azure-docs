@@ -103,6 +103,7 @@
     - Application Gateway
       - [Best practices](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/best-practices)
       - [Monitoring and logging](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-metrics)
+      - [WAF insights dashboards](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/insights)
       - [Resource logs](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/web-application-firewall-logs)
       - [Log Analytics](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/log-analytics)
       - [Troubleshoot](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/web-application-firewall-troubleshoot)
