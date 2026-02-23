@@ -193,9 +193,13 @@
       - [Configure cloud metrics and logs for self-hosted gateway](https://learn.microsoft.com/en-us/azure/api-management/how-to-configure-cloud-metrics-logs)
       - [Configure local metrics and logs for self-hosted gateway](https://learn.microsoft.com/en-us/azure/api-management/how-to-configure-local-metrics-logs)
       - [Enable Dapr support on self-hosted gateway](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-enable-dapr)
-      - [Use Microsoft Entra authentication on self-hosted gateway](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-enable-azure-ad)
-    - [Run self-hosted gateway in production](https://learn.microsoft.com/en-us/azure/api-management/how-to-self-hosted-gateway-on-kubernetes-in-production)
-    - [Self-hosted gateway support policy](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-support-policies)
+      - Configure authentication to cloud instance
+        - [Self-hosted gateway authentication options](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-authentication-options)
+        - [Authenticate with Microsoft Entra ID - workload identity](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-enable-workload-identity)
+        - [Authenticate with Microsoft Entra ID - client secret](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-enable-azure-ad)
+        - [Authenticate with an access token](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-default-authentication)
+      - [Run self-hosted gateway in production](https://learn.microsoft.com/en-us/azure/api-management/how-to-self-hosted-gateway-on-kubernetes-in-production)
+      - [Self-hosted gateway support policy](https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-support-policies)
   - Developer portal and publishing
     - Manage users, groups, and subscriptions
       - [Manage user accounts](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-create-or-invite-developers)
