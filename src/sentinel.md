@@ -252,6 +252,7 @@
         - [Recommended and sample playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/playbook-recommendations)
         - [Customize playbooks from templates](https://learn.microsoft.com/en-us/azure/sentinel/automation/use-playbook-templates)
         - [Create and manage playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/create-playbooks)
+        - [Generate playbooks using AI](https://learn.microsoft.com/en-us/azure/sentinel/automation/generate-playbook)
         - [Supported triggers and actions in playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/playbook-triggers-actions)
         - [Azure Logic Apps for Microsoft Sentinel playbooks](https://learn.microsoft.com/en-us/azure/sentinel/automation/logic-apps-playbooks)
         - [Authenticate playbooks to Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/automation/authenticate-playbooks-to-sentinel)

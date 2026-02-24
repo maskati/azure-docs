@@ -99,12 +99,14 @@
           - [Review assessment PostgreSQL report](https://learn.microsoft.com/en-us/azure/migrate/tutorial-review-postgresql-report)
           - [PostgreSQL customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/postgresql-assessment-properties)
         - MySQL assessment
-          - [Assessment overview](https://learn.microsoft.com/en-us/azure/migrate/assessments-overview-migrate-to-azure-db-mysql)
-          - [Create MySQL assessment](https://learn.microsoft.com/en-us/azure/migrate/create-mysql-assessment)
+          - [Create and Review MySQL assessment](https://learn.microsoft.com/en-us/azure/migrate/create-mysql-assessment)
         - Webapp assessment
           - [Create a Webapp assessment](https://learn.microsoft.com/en-us/azure/migrate/create-web-app-assessment)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-web-app-assessment)
           - [Enhance web app assessment by adding code scan report](https://learn.microsoft.com/en-us/azure/migrate/add-copilot-code-insights)
+        - File share assessment
+          - [Create a file share assessment](https://learn.microsoft.com/en-us/azure/migrate/create-file-share-assessment)
+          - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-file-share-assessment)
     - Wave planning
       - [Overview](https://learn.microsoft.com/en-us/azure/migrate/overview)
       - [Plan and create waves](https://learn.microsoft.com/en-us/azure/migrate/how-to-plan-create-waves)

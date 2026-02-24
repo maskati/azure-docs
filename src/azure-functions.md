@@ -15,6 +15,7 @@
       - [Process file uploads](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-blob-storage-events)
       - AI tools and MCP
         - [Custom remote MCP server](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
+        - [MCP Apps](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
         - [Host MCP server using SDKs](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-host-mcp-server-sdks)
       - Respond to database changes
         - [Azure Cosmos DB NoSQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-cosmosdb)
@@ -284,6 +285,7 @@
     - [Create AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-ai-enabled-apps)
     - Custom remote MCP servers
       - [MCP extension quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
+      - [MCP Apps quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
       - [Custom remote MCP tutorial](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-tutorial)
       - [Self-hosted MCP servers](https://learn.microsoft.com/en-us/azure/azure-functions/self-hosted-mcp-servers)
       - [MCP server authorization](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
@@ -400,7 +402,8 @@
         - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-output)
       - MCP
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp)
-        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-trigger)
+        - [Tool trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-tool-trigger)
+        - [Resource trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-resource-trigger)
       - [Mobile Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mobile-apps)
       - [Notification Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-notification-hubs)
       - Queue storage
