@@ -178,12 +178,12 @@
     - [SLA](https://azure.microsoft.com/support/legal/sla/)
     - [ExpressRoute for Cloud Solution Providers CSP](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-for-cloud-solution-providers)
     - Videos
-      - [Connect a virtual network gateway to a circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-connection-between-your-vpn-gateway-and-expressroute-circuit/)
-      - [Create a virtual network for ExpressRoute](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-virtual-network/)
-      - [Create a virtual network gateway for ExpressRoute](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-vpn-gateway-for-your-virtual-network/)
+      - [Connect a virtual network gateway to a circuit](https://learn.microsoft.com/shows/azure/expressroute-how-to-create-connection-between-your-vpn-gateway-expressroute-circuit)
+      - [Create a virtual network for ExpressRoute](https://learn.microsoft.com/shows/azure/expressroute-how-to-create-virtual-network)
+      - [Create a virtual network gateway for ExpressRoute](https://learn.microsoft.com/shows/azure/expressroute-how-to-create-vpn-gateway-your-virtual-network)
       - [Create an ExpressRoute circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-an-expressroute-circuit/)
       - [Evolve your network infrastructure for connectivity](https://learn.microsoft.com/events/ignite-2015/brk2481)
-      - [How to set up private peering for your circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-set-up-azure-private-peering-for-your-expressroute-circuit/)
+      - [How to set up private peering for your circuit](https://learn.microsoft.com/azure/expressroute/configure-expressroute-private-peering)
       - [Hybrid partnerships: Enabling on-premises scenarios](https://learn.microsoft.com/events/ignite-2015/brk1454)
       - [Set up Microsoft peering for your circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-set-up-microsoft-peering-for-your-expressroute-circuit/)
     - Classic and legacy articles

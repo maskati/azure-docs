@@ -104,6 +104,7 @@
       - [Use LetsEncrypt.org with Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-letsencrypt-certificate-application-gateway)
       - [Expose WebSocket to Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-expose-websocket-server)
       - [Autoscale AKS pods with Application Gateway metrics](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-autoscale-pods)
+    - [Integration with Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/waf-app-gateway?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json)
     - Route by URL
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-route-powershell)
       - [Azure CLI](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-route-cli)

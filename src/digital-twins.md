@@ -107,7 +107,7 @@
     - [Customer data requests](https://learn.microsoft.com/en-us/azure/digital-twins/resources-customer-data-requests)
     - APIs and SDKs
       - Control plane
-        - [Control plane Swagger](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/digitaltwins/resource-manager/Microsoft.DigitalTwins/stable)
+        - [Control plane Swagger](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/digitaltwins/resource-manager/Microsoft.DigitalTwins/DigitalTwins/stable)
         - [.NET C# SDK - NuGet](https://www.nuget.org/packages/Azure.ResourceManager.DigitalTwins)
         - [.NET C# SDK - Source code](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/digitaltwins/Azure.ResourceManager.DigitalTwins)
         - [Java SDK - Maven](https://search.maven.org/search?q=a:azure-mgmt-digitaltwins)
@@ -119,7 +119,7 @@
         - [Go SDK - GoDoc](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/services/digitaltwins/mgmt)
         - [Go - Source code](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/resourcemanager/digitaltwins)
       - Data plane
-        - [Data plane Swagger](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/digitaltwins/data-plane/Microsoft.DigitalTwins)
+        - [Data plane Swagger](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/digitaltwins/data-plane/DigitalTwins)
         - [.NET C# SDK - NuGet](https://www.nuget.org/packages/Azure.DigitalTwins.Core)
         - [.NET C# SDK - Source code](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/digitaltwins/Azure.DigitalTwins.Core)
         - [Java SDK - Maven](https://search.maven.org/artifact/com.azure/azure-digitaltwins-core/1.0.0/jar)

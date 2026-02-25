@@ -4,6 +4,7 @@
   - Overview
     - [What is Azure Virtual Network?](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq)
+    - [Cost optimization](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-cost-optimization)
     - [Accelerated Networking](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-overview)
     - [Application security groups](https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups)
     - [Network security groups](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)

@@ -58,6 +58,7 @@
     - Network security perimeter
       - [Role-based access control permissions](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements)
   - Operational excellence
+    - [Reliability in Azure Private Link](https://learn.microsoft.com/azure/reliability/reliability-private-link-service?toc=/azure/private-link/toc.json)
     - [Monitor Private Link](https://learn.microsoft.com/en-us/azure/private-link/monitor-private-link)
     - [Manage network policies for private endpoints](https://learn.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy)
     - [Disable network policies for a Private Link service](https://learn.microsoft.com/en-us/azure/private-link/disable-private-link-service-network-policy)

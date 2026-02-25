@@ -2,18 +2,16 @@
   - [IoT Hub documentation](https://learn.microsoft.com/en-us/azure/iot-hub/)
   - Overview
     - [What is IoT Hub?](https://learn.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub)
-  - What's new Preview?
-    - [Overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-what-is-new)
+    - [What's new?](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-what-is-new)
     - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-faq)
-    - [Integration with Azure Device Registry Preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-registry-overview)
-    - Certificate management Preview
-      - [Overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-certificate-management-overview)
-      - [Key concepts for certificate management](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-certificate-management-concepts)
-    - [Get started with IoT Hub Preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-registry-setup)
   - Quickstarts
+    - [Get started ADR integration](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-registry-setup)
     - [Create an IoT hub no ADR integration](https://learn.microsoft.com/en-us/azure/iot-hub/create-hub)
     - [Send telemetry using CLI](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-cli)
   - Concepts
+    - [Azure Device Registry integration preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-registry-overview)
+    - [Certificate management preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-certificate-management-overview)
+    - [Key concepts for certificate management](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-certificate-management-concepts)
     - [Understand IoT Hub endpoints](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-endpoints)
     - [Understanding IoT hub IP address](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-understand-ip-address)
     - [Choose an IoT Hub SDK](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)

@@ -22,6 +22,32 @@
       - Run a job
         - [Azure portal](https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-portal)
         - [Command line](https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-cli)
+  - AI integration
+    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/ai-integration)
+    - [Compose for agents](https://learn.microsoft.com/en-us/azure/container-apps/compose-agent)
+    - GPUs
+      - [Serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview)
+      - [GPU types](https://learn.microsoft.com/en-us/azure/container-apps/gpu-types)
+      - Tutorials
+        - [Deploy AI image generation with serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-gpu-image-generation)
+        - [Deploy an NVIDIA Llama3 NIM](https://learn.microsoft.com/en-us/azure/container-apps/serverless-gpu-nim)
+        - [Deploy OpenAI GPT with OSS Ollama](https://learn.microsoft.com/en-us/azure/container-apps/deploy-openai-gpt-oss-ollama)
+    - Dynamic sessions
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
+      - [Usage](https://learn.microsoft.com/en-us/azure/container-apps/sessions-usage)
+      - [Session pools](https://learn.microsoft.com/en-us/azure/container-apps/session-pool)
+      - [Code interpreter sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
+      - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
+      - Tutorials
+        - [AutoGen](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen)
+        - [LangChain](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain)
+        - [LlamaIndex](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex)
+        - [Semantic Kernel](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel)
+        - [JavaScript code interpreter](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs)
+        - [Shell session](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell)
+        - [Shell session with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell-mcp)
+        - [Python code interpreter with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-python-mcp)
+    - [Modernize .NET & Java apps](https://learn.microsoft.com/en-us/azure/container-apps/modernize-ai)
   - Key concepts
     - Compute and billing structures
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/structure)
@@ -90,32 +116,6 @@
     - Migration
       - [Heroku migration overview](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku-overview)
       - [Migrate from Heroku](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku)
-  - AI integration
-    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/ai-integration)
-    - [Compose for agents](https://learn.microsoft.com/en-us/azure/container-apps/compose-agent)
-    - GPUs
-      - [Serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview)
-      - [GPU types](https://learn.microsoft.com/en-us/azure/container-apps/gpu-types)
-      - Tutorials
-        - [Deploy AI image generation with serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-gpu-image-generation)
-        - [Deploy an NVIDIA Llama3 NIM](https://learn.microsoft.com/en-us/azure/container-apps/serverless-gpu-nim)
-        - [Deploy OpenAI GPT with OSS Ollama](https://learn.microsoft.com/en-us/azure/container-apps/deploy-openai-gpt-oss-ollama)
-    - Dynamic sessions
-      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sessions)
-      - [Usage](https://learn.microsoft.com/en-us/azure/container-apps/sessions-usage)
-      - [Session pools](https://learn.microsoft.com/en-us/azure/container-apps/session-pool)
-      - [Code interpreter sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter)
-      - [Custom container sessions](https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container)
-      - Tutorials
-        - [AutoGen](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen)
-        - [LangChain](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain)
-        - [LlamaIndex](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex)
-        - [Semantic Kernel](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel)
-        - [JavaScript code interpreter](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs)
-        - [Shell session](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell)
-        - [Shell session with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell-mcp)
-        - [Python code interpreter with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-python-mcp)
-    - [Modernize .NET & Java apps](https://learn.microsoft.com/en-us/azure/container-apps/modernize-ai)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
     - Troubleshoot and resolve issues with an agent

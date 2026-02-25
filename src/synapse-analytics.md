@@ -384,7 +384,7 @@
         - [Analytical Store Overview](https://learn.microsoft.com/azure/cosmos-db/analytical-store-introduction?context=/azure/synapse-analytics/context/context)
         - [Synapse Link supported features](https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-link/concept-synapse-link-cosmos-db-support)
         - [Azure Cosmos DB FAQ](https://learn.microsoft.com/azure/cosmos-db/synapse-link-frequently-asked-questions?context=/azure/synapse-analytics/context/context)
-        - [Synapse Link use cases](https://learn.microsoft.com/azure/cosmos-db/synapse-link-use-cases?context=/azure/synapse-analytics/context/context)
+        - [Synapse Link use cases](https://learn.microsoft.com/azure/cosmos-db/synapse-link)
       - SQL Database
         - [Synapse Link for Azure SQL Database](https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-link/sql-database-synapse-link)
         - [SQL FAQ](https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-link/faq.yml)
