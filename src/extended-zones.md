@@ -22,7 +22,6 @@
   - Arc-enabled PaaS workloads in Extended Zones
     - [Create Arc-Enabled AKS Clusters in Extended Zones](https://learn.microsoft.com/en-us/azure/extended-zones/arc-enabled-workloads-arc-enabled-aks-cluster)
     - [ContainerApps](https://learn.microsoft.com/en-us/azure/extended-zones/arc-enabled-workloads-container-apps)
-    - [PostgreSQL](https://learn.microsoft.com/en-us/azure/extended-zones/arc-enabled-workloads-postgre-sql)
     - [ManagedSQL](https://learn.microsoft.com/en-us/azure/extended-zones/arc-enabled-workloads-managed-sql)
   - Security
     - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)

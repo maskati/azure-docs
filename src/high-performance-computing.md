@@ -1,36 +1,38 @@
 # Azure HPC documentation
 > Official Azure high-performance computing (HPC) documentation. Learn about Azure HPC's various workload orchestration services that integrate with compute, network, and storage resources.
-  - [High-Performance Computing on-premises to cloud lift and shift](https://learn.microsoft.com/en-us/azure/high-performance-computing/)
-  - Get started
-    - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-overview)
-  - Migration guide
-    - [Proof-of-concept migration guide](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-proof-of-concept)
-    - Production-level environment migration guide
-      - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-production-level-overview)
-      - Deployment step 1 - Basic infrastructure
+  - [High-Performance Computing on Azure](https://learn.microsoft.com/en-us/azure/high-performance-computing/)
+  - Migrate HPC workloads to Azure
+    - Get started
+      - [Plan your on-premises HPC migration to Azure](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-overview)
+    - Migration guide
+      - [Build a proof-of-concept HPC cluster on Azure](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-proof-of-concept)
+      - Production deployment guide
         - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-overview)
-        - [Resource group](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-resource-group)
-        - [Network access](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-networking)
-        - [Storage](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-storage)
-      - Deployment step 2 - Base services
-        - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-overview)
-        - [Job scheduler](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-job-scheduler)
-        - [Resource orchestrator](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-resource-orchestrator)
-        - [Identity management](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-identity)
-        - [Accounting](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-accounting)
-        - [Monitoring](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-monitor)
-      - Deployment step 3 - Storage
-        - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-3-overview)
-        - [Storage](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-3-storage)
-        - [Data migration](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-3-data-migration)
-      - Deployment step 4 - Compute nodes
-        - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-4-overview)
-        - [VM images](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-4-vm-images)
-      - Deployment step 5 - End user entry point
-        - [Overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-5-overview)
-        - [End-user entry point](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-5-end-user-entry-point)
-  - HPC Performance and Benchmarking
-    - [Performance and benchmarking overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/overview)
-    - [HPC workload best practices and storage solutions](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/hpc-storage-options)
-    - [HPC performance and benchmarking applications](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/high-performance-computing-performance-benchmarking-applications)
-    - [Performance optimization for HPC and AI VMs](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/optimize-performance)
+        - Set up resource groups, networking, and foundational storage
+          - [Resource group configuration](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-resource-group)
+          - [Network access and security configuration](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-networking)
+          - [Basic storage account setup](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-1-storage)
+        - Configure CycleCloud, schedulers, identity, and monitoring
+          - [Resource orchestration with Azure CycleCloud](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-resource-orchestrator)
+          - [Job scheduler deployment and migration](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-job-scheduler)
+          - [Identity management and user authentication](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-identity)
+          - [Monitoring with Azure Monitor and Grafana](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-monitor)
+          - [Cost accounting and budget tracking](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-2-accounting)
+        - Configure HPC storage and migrate data
+          - [Choose the right storage for your HPC workload](https://learn.microsoft.com/azure/virtual-machines/workload-guidelines-best-practices-storage)
+          - [HPC storage options Lustre, ANF, Blob, Azure Files](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-3-storage)
+          - [Migrate data to Azure Data Box, AzCopy, rsync](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-3-data-migration)
+        - Provision HPC and GPU compute nodes
+          - [Compute node selection and quota planning](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-4-overview)
+          - [VM image configuration Azure HPC images](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-4-vm-images)
+        - Enable user access and job submission
+          - [End user entry access](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-5-overview)
+          - [User entry access configuration and job submission](https://learn.microsoft.com/en-us/azure/high-performance-computing/lift-and-shift-step-5-end-user-entry-point)
+  - HPC and AI performance and benchmarking
+    - [HPC and AI benchmarking overview](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/overview)
+    - [Best practices for HPC workloads and storage performance](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/hpc-storage-options)
+    - [HPC and AI benchmarking applications reference](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/high-performance-computing-performance-benchmarking-applications)
+    - [Optimize performance for HPC and AI virtual machines](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/optimize-performance)
+    - [Run your first benchmark using STREAM](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/stream-benchmark)
+  - AI training
+    - [Choose your platform for AI training and fine-tuning](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/platform-selection-best-practices-for-hpc-ai-models)

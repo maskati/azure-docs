@@ -457,6 +457,7 @@
         - [AZFD0011](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0011)
         - [AZFD0012](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0012)
         - [AZFD0013](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0013)
+        - [AZFD0015](https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0015)
     - [host.json 2.x reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-host-json)
     - [host.json 1.x reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-host-json-v1)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions-reference)

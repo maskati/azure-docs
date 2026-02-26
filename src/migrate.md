@@ -188,6 +188,7 @@
     - Azure Migrate Project
       - [Troubleshoot Azure Migrate projects](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-project)
       - [Azure Migrate in unsupported regions](https://learn.microsoft.com/en-us/azure/migrate/azure-migrate-unsupported-regions)
+      - [Troubleshoot Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-general)
     - Appliance configuration
       - [Troubleshoot Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance)
       - [Troubleshoot with appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
@@ -197,6 +198,7 @@
     - [Server discovery](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-discovery)
     - Dependency analysis
       - [Troubleshoot dependency visualization](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-dependencies)
+      - [Troubleshoot assessment](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment-faq)
     - Assessments
       - [Common Issues](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment)
       - [Supported Scenarios](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-assessment-supported-scenarios)

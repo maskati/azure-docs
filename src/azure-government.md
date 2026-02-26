@@ -46,6 +46,7 @@
   - Compliance
     - [Trusted Internet Connections with Azure](https://learn.microsoft.com/en-us/azure/azure-government/compliance/compliance-tic)
     - [Cloud services by audit scope](https://learn.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope)
+    - [Recommended Secure Configuration](https://learn.microsoft.com/en-us/azure/azure-government/compliance/recommended-secure-configuration)
     - [Accelerate your path to ATO with Azure](https://learn.microsoft.com/en-us/azure/azure-government/compliance/documentation-accelerate-compliance)
   - Reference
     - Marketplace

@@ -11,7 +11,6 @@
 [Artifact Signing](./artifact-signing.md)
 [Azure Automanage](./automanage.md)
 [Azure Automation documentation](./automation.md)
-[Avere vFXT for Azure documentation](./avere-vfxt.md)
 [Azure App Configuration documentation](./azure-app-configuration.md)
 [Azure Cache for Redis Documentation](./azure-cache-for-redis.md)
 [Azure Change Tracking and Inventory documentation](./azure-change-tracking-inventory.md)

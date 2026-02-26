@@ -86,7 +86,7 @@
     - [Configure Threat Detection and manage health of Azure VM Backups](https://learn.microsoft.com/en-us/azure/backup/threat-detection-configure-monitor-tutorial)
   - Concepts
     - Reliability
-      - [Availability zone and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-backup?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Reliability in Azure Backup](https://learn.microsoft.com/azure/reliability/reliability-backup?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Migrate to availability zone support](https://learn.microsoft.com/azure/reliability/migrate-recovery-services-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
     - Support matrices
       - [Azure Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix)
