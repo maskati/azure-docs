@@ -103,7 +103,7 @@
       - [Configure a custom domain](https://learn.microsoft.com/en-us/azure/api-management/configure-custom-domain)
       - [Configure autoscale](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-autoscale)
       - [Plan and manage costs](https://learn.microsoft.com/en-us/azure/api-management/plan-manage-costs)
-      - [Service limits](https://learn.microsoft.com/en-us/azure/api-management/service-limits)
+      - [Understand service limits](https://learn.microsoft.com/en-us/azure/api-management/service-limits)
       - [Use an external cache](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-cache-external)
       - [Configure update settings](https://learn.microsoft.com/en-us/azure/api-management/configure-service-update-settings)
       - [Landing zone accelerator](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/app-platform/api-management/landing-zone-accelerator?toc=%2Fazure%2Fapi-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)

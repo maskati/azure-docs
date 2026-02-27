@@ -105,6 +105,7 @@
     - Enable conditional features with feature filters
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-aspnet-core)
+      - [Spring Boot](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-feature-filters-spring-boot)
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-javascript)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-python)
       - [Go Gin](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-go)

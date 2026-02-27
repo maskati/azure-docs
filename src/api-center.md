@@ -43,8 +43,7 @@
     - [Authorize access to APIs](https://learn.microsoft.com/en-us/azure/api-center/authorize-api-access)
     - [Workflow automation to set API status](https://learn.microsoft.com/en-us/azure/api-center/set-up-notification-workflow)
   - API discovery and consumption
-    - [Enable API Center portal](https://learn.microsoft.com/en-us/azure/api-center/set-up-api-center-portal)
-    - [Customize API Center portal](https://learn.microsoft.com/en-us/azure/api-center/customize-api-center-portal)
+    - [Enable and customize API Center portal](https://learn.microsoft.com/en-us/azure/api-center/set-up-api-center-portal)
     - [Enable API Center portal view - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/enable-api-center-portal-vs-code-extension)
     - [Self-host Azure API Center portal](https://learn.microsoft.com/en-us/azure/api-center/self-host-api-center-portal)
     - [Discover and consume APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/discover-apis-vscode-extension)

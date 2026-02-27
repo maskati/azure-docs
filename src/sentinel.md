@@ -154,11 +154,15 @@
         - [Overview](https://learn.microsoft.com/defender-xdr/custom-detections-overview?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
         - [Create detection rules](https://learn.microsoft.com/defender-xdr/custom-detection-rules?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
         - [Manage detection rules](https://learn.microsoft.com/defender-xdr/custom-detection-manage?toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
+      - User and Entity Behavior Analytics UEBA
+        - [UEBA overview](https://learn.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics)
+        - [Enable UEBA](https://learn.microsoft.com/en-us/azure/sentinel/enable-entity-behavior-analytics)
+        - [UEBA investigation examples](https://learn.microsoft.com/en-us/azure/sentinel/investigate-with-ueba)
+        - [Aggregate behavioral insights from raw logs](https://learn.microsoft.com/en-us/azure/sentinel/entity-behaviors-layer)
+        - [UEBA data sources and table schemas](https://learn.microsoft.com/en-us/azure/sentinel/ueba-reference)
       - Data classification with entities
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/entities)
         - [Entity pages](https://learn.microsoft.com/en-us/azure/sentinel/entity-pages)
-        - [User and entity behavior analytics UEBA](https://learn.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics)
-        - [Aggregate behavioral insights from raw logs](https://learn.microsoft.com/en-us/azure/sentinel/entity-behaviors-layer)
         - [Create custom entity activities](https://learn.microsoft.com/en-us/azure/sentinel/customize-entity-activities)
       - Watchlists
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/watchlists)
@@ -201,7 +205,6 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/incident-investigation)
         - [Triage and manage your incidents](https://learn.microsoft.com/en-us/azure/sentinel/incident-navigate-triage)
         - [Investigate incidents in depth](https://learn.microsoft.com/en-us/azure/sentinel/investigate-incidents)
-        - [Tutorial - Investigate with UEBA](https://learn.microsoft.com/en-us/azure/sentinel/investigate-with-ueba)
         - [Relate alerts to incidents](https://learn.microsoft.com/en-us/azure/sentinel/relate-alerts-to-incidents)
         - [Create incidents manually](https://learn.microsoft.com/en-us/azure/sentinel/create-incident-manually)
         - [Delete incidents](https://learn.microsoft.com/en-us/azure/sentinel/delete-incident)
