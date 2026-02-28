@@ -25,6 +25,16 @@
   - AI integration
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/ai-integration)
     - [Compose for agents](https://learn.microsoft.com/en-us/azure/container-apps/compose-agent)
+    - MCP servers
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/mcp-overview)
+      - [Choose a hosting option](https://learn.microsoft.com/en-us/azure/container-apps/mcp-choosing-azure-service)
+      - Tutorials
+        - [Deploy with .NET](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-mcp-server-dotnet)
+        - [Deploy with Python](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-mcp-server-python)
+        - [Deploy with Node.js](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-mcp-server-nodejs)
+        - [Deploy with Java](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-mcp-server-java)
+      - [Authentication](https://learn.microsoft.com/en-us/azure/container-apps/mcp-authentication)
+      - [Troubleshooting](https://learn.microsoft.com/en-us/azure/container-apps/mcp-troubleshooting)
     - GPUs
       - [Serverless GPUs](https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview)
       - [GPU types](https://learn.microsoft.com/en-us/azure/container-apps/gpu-types)

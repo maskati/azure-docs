@@ -129,7 +129,9 @@
         - [Configure access based on users and groups](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-users-access)
         - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-mfa)
       - VPN client configuration
-        - [Azure VPN Client - Windows](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows)
+        - Azure VPN Client - Windows
+          - [Microsoft-registered authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows)
+          - [Configure Device SSO](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows-device-sso)
         - [Azure VPN Client - Linux](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux)
         - [Azure VPN Client - macOS](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-mac)
         - [Generate VPN client profile configuration files](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-vpn-profile-download)

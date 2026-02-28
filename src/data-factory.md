@@ -46,9 +46,7 @@
         - [Copy data tool](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-hybrid-copy-data-tool)
         - [User interface UI](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-hybrid-copy-portal)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-hybrid-copy-powershell)
-      - From Amazon Web Services S3 to Azure Data Lake Storage
-        - [Azure Data Lake Storage Gen2](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-storage-gen2)
-        - [Azure Data Lake Storage Gen1](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-store)
+      - [Amazon Web Services S3 to Azure Data Lake Storage Gen2](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-storage-gen2)
       - [From Azure Data Lake Storage Gen1 to Azure Data Lake Storage Gen2](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-data-lake-storage-gen2-from-gen1)
       - [From Azure SQL Database to Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse)
       - [From SAP BW to Azure Data Lake Storage Gen2](https://learn.microsoft.com/en-us/azure/data-factory/load-sap-bw-data)
@@ -89,9 +87,6 @@
           - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-transform-data-spark-powershell)
         - Databricks Notebook
           - [User interface UI](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-databricks-notebook)
-        - Hive transformation in virtual network
-          - [User interface UI](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-transform-data-hive-virtual-network-portal)
-          - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-transform-data-hive-virtual-network)
       - [Build mapping dataflow pipeline using managed VNet and private endpoints](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-data-flow-private)
     - Control Flow
       - [User interface UI](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-control-flow-portal)
@@ -345,7 +340,6 @@
       - [Fault tolerance](https://learn.microsoft.com/en-us/azure/data-factory/copy-activity-fault-tolerance)
       - [Data consistency verification](https://learn.microsoft.com/en-us/azure/data-factory/copy-activity-data-consistency)
       - [Copy activity log](https://learn.microsoft.com/en-us/azure/data-factory/copy-activity-log)
-      - [Format and compression support legacy](https://learn.microsoft.com/en-us/azure/data-factory/supported-file-formats-and-compression-codecs-legacy)
     - [Transform data](https://learn.microsoft.com/en-us/azure/data-factory/transform-data)
       - [Execute Data Flow activity](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-data-flow-activity)
       - [Execute Power Query activity](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-power-query-activity)
@@ -363,8 +357,6 @@
       - [HDInsight Spark activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-spark)
       - [HDInsight Streaming activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-hadoop-streaming)
       - [Machine Learning Execute Pipeline activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-machine-learning-service)
-      - [Machine Learning Studio classic Batch Execution activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-machine-learning)
-      - [Machine Learning Studio classic Update Resource activity](https://learn.microsoft.com/en-us/azure/data-factory/update-machine-learning-models)
       - [Mapping data flows](https://learn.microsoft.com/en-us/azure/data-factory/tutorial-data-flow)
       - [Stored Procedure activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-stored-procedure)
       - [Script activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-script)
@@ -528,7 +520,6 @@
         - [Error row handling](https://learn.microsoft.com/en-us/azure/data-factory/how-to-data-flow-error-rows)
         - [Azure SQL DB to Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/data-factory/how-to-sqldb-to-cosmosdb)
         - [Dedupe and null check with snippets](https://learn.microsoft.com/en-us/azure/data-factory/how-to-data-flow-dedupe-nulls-snippets)
-        - [Process data from aml models using data flow](https://learn.microsoft.com/en-us/azure/data-factory/scenario-dataflow-process-data-aml-models)
       - SSIS migration from on-premises
         - [SSIS migration overview](https://learn.microsoft.com/en-us/azure/data-factory/scenario-ssis-migration-overview)
         - [SSIS migration assessment rules](https://learn.microsoft.com/en-us/azure/data-factory/scenario-ssis-migration-rules)
@@ -545,23 +536,12 @@
       - [Migrate data from Amazon S3 to Azure Storage](https://learn.microsoft.com/en-us/azure/data-factory/solution-template-migration-s3-azure)
       - [Move files](https://learn.microsoft.com/en-us/azure/data-factory/solution-template-move-files)
       - [Transformation with Azure Databricks](https://learn.microsoft.com/en-us/azure/data-factory/solution-template-databricks-notebook)
-      - [Call Synapse pipeline with a notebook activity](https://learn.microsoft.com/en-us/azure/data-factory/solution-template-synapse-notebook)
     - Understanding pricing
       - [Data flow reserved capacity overview](https://learn.microsoft.com/en-us/azure/data-factory/data-flow-reserved-capacity-overview)
       - [Data flow understand reservation charges](https://learn.microsoft.com/en-us/azure/data-factory/data-flow-understand-reservation-charges)
       - [Better understand different integration runtime charges](https://learn.microsoft.com/en-us/azure/data-factory/better-understand-different-integration-runtime-charges)
       - [Plan and manage costs](https://learn.microsoft.com/en-us/azure/data-factory/plan-manage-costs)
       - [FinOps in Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/apply-finops)
-      - Pricing examples
-        - [Pricing overview](https://learn.microsoft.com/en-us/azure/data-factory/pricing-concepts)
-        - [Copy data from AWS S3 to Azure Blob storage](https://learn.microsoft.com/en-us/azure/data-factory/pricing-examples-s3-to-blob)
-        - [Copy data and transform with Azure Databricks](https://learn.microsoft.com/en-us/azure/data-factory/pricing-examples-copy-transform-azure-databricks)
-        - [Copy/transform data with dynamic parameters](https://learn.microsoft.com/en-us/azure/data-factory/pricing-examples-copy-transform-dynamic-parameters)
-        - [Run SSIS packages on Azure-SSIS integration runtime](https://learn.microsoft.com/en-us/azure/data-factory/pricing-examples-ssis-on-azure-ssis-integration-runtime)
-        - [Using mapping data flow debug for a workday](https://learn.microsoft.com/en-us/azure/data-factory/pricing-examples-mapping-data-flow-debug-workday)
-        - [Transform blob data with mapping data flows](https://learn.microsoft.com/en-us/azure/data-factory/pricing-examples-transform-mapping-data-flows)
-        - [Data integration with Managed VNET](https://learn.microsoft.com/en-us/azure/data-factory/pricing-examples-data-integration-managed-vnet)
-        - [Get delta data from SAP ECC via SAP CDC in mapping data flows](https://learn.microsoft.com/en-us/azure/data-factory/pricing-examples-get-delta-data-from-sap-ecc)
     - Troubleshooting guides
       - [Azure Data Factory Studio](https://learn.microsoft.com/en-us/azure/data-factory/data-factory-ux-troubleshoot-guide)
       - [Activities](https://learn.microsoft.com/en-us/azure/data-factory/data-factory-troubleshoot-guide)
@@ -654,7 +634,6 @@
     - [Python](https://learn.microsoft.com/python/api/overview/azure/datafactory)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/data-factory/policy-reference)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/datafactory)
-    - [Compute optimized data flows retired](https://learn.microsoft.com/en-us/azure/data-factory/compute-optimized-data-flow-retire)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/data-factory/monitor-data-factory-reference)
   - Resources
     - [Whitepapers](https://learn.microsoft.com/en-us/azure/data-factory/whitepapers)
@@ -667,5 +646,4 @@
     - [Pricing](https://azure.microsoft.com/pricing/details/data-factory/)
     - [Availability by region](https://azure.microsoft.com/global-infrastructure/services/)
     - [Support options](https://azure.microsoft.com/support/options/)
-    - [Request quota increases from support](https://learn.microsoft.com/en-us/azure/data-factory/quota-increase)
     - [Limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
