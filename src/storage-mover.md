@@ -12,6 +12,7 @@
       - [Planning for a deployment](https://learn.microsoft.com/en-us/azure/storage-mover/deployment-planning)
       - [Service prerequisites](https://learn.microsoft.com/en-us/azure/storage-mover/service-prerequisites)
       - [Network prerequisites](https://learn.microsoft.com/en-us/azure/storage-mover/network-prerequisites)
+      - [Planning your Private Networking for cloud to cloud migrations](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-private-network-configs)
       - [Performance targets](https://learn.microsoft.com/en-us/azure/storage-mover/performance-targets)
     - Deploy and execute
       - [Create a storage mover resource](https://learn.microsoft.com/en-us/azure/storage-mover/storage-mover-create)
