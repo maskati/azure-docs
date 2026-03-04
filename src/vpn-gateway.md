@@ -159,6 +159,7 @@
       - [Azure VPN Client - optional settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-optional-configurations)
       - [Run Prerequisites Test](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-prerequisites-check)
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-versions)
+      - [Report Azure VPN Client problems - Feedback Hub](https://learn.microsoft.com/troubleshoot/azure/vpn-gateway/feedback-hub-azure-vpn-client?toc=/azure/vpn-gateway/TOC.json)
     - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
   - VNet-to-VNet VPN
     - Configure VNet-to-VNet VPN connections
@@ -202,20 +203,7 @@
     - [Monitor VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway)
     - [Configure packet captures](https://learn.microsoft.com/en-us/azure/vpn-gateway/packet-capture)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway-reference)
-  - Troubleshooting
-    - [Troubleshoot VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot)
-    - [Troubleshoot using diagnostic logs](https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-vpn-with-azure-diagnostics)
-    - [Troubleshoot digital certificate authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-digital-certificate-authentication)
-    - Troubleshoot point-to-site connection issues
-      - [Point-to-site connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-vpn-point-to-site-connection-problems)
-      - [macOS - native VPN client connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-point-to-site-osx-ikev2)
-      - [Troubleshoot the Azure VPN Client](https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-azure-vpn-client)
-      - [Report Azure VPN Client problems - Feedback Hub](https://learn.microsoft.com/en-us/azure/vpn-gateway/feedback-hub-azure-vpn-client)
-    - Troubleshoot site-to-site connection issues
-      - [Site-to-site connection problems](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-cannot-connect)
-      - [Site-to-site error codes and solutions](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-error-codes)
-      - [Site-to-site connection disconnects intermittently](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-disconnected-intermittently)
-    - [Validate VPN throughput to a VNet](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-validate-throughput-to-vnet)
+  - [Support and troubleshooting for VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-support-help)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
     - [REST](https://learn.microsoft.com/rest/api/network/virtualnetworkgateways)

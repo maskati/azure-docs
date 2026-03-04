@@ -94,7 +94,7 @@
           - Migrate
             - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-portal)
             - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-powershell)
-          - [Troubleshoot](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration-error-messaging)
+          - [Troubleshoot](https://learn.microsoft.com/troubleshoot/azure/expressroute/gateway-migration-error-messaging)
     - Traffic collector
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector)
       - [Configure Traffic Collector](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-traffic-collector)
@@ -114,7 +114,7 @@
           - Migrate
             - [Azure portal](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-portal)
             - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-powershell)
-          - [Troubleshoot](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration-error-messaging)
+          - [Troubleshoot](https://learn.microsoft.com/troubleshoot/azure/expressroute/gateway-migration-error-messaging)
       - [Evaluate ExpressRoute circuit resiliency](https://learn.microsoft.com/en-us/azure/expressroute/evaluate-circuit-resiliency)
       - [Resiliency Insights](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-insights)
       - [Resiliency Validation](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-validation)
@@ -151,12 +151,12 @@
       - [Configure controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/expressroute/customer-controlled-gateway-maintenance)
     - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/expressroute/toc.json)
   - Troubleshoot
-    - [Troubleshoot gateway migration](https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration-error-messaging)
-    - [Obtain correlation ID](https://learn.microsoft.com/en-us/azure/expressroute/get-correlation-id)
-    - [Verifying ExpressRoute connectivity](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-expressroute-overview)
-    - [Resolving network performance issues](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-network-performance)
-    - [Reset a failed circuit](https://learn.microsoft.com/en-us/azure/expressroute/reset-circuit)
-    - [Getting ARP tables](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-resource-manager)
+    - [Troubleshoot gateway migration](https://learn.microsoft.com/troubleshoot/azure/expressroute/gateway-migration-error-messaging)
+    - [Obtain correlation ID](https://learn.microsoft.com/troubleshoot/azure/expressroute/get-correlation-id)
+    - [Verifying ExpressRoute connectivity](https://learn.microsoft.com/troubleshoot/azure/expressroute/expressroute-troubleshooting-expressroute-overview)
+    - [Resolving network performance issues](https://learn.microsoft.com/troubleshoot/azure/expressroute/expressroute-troubleshooting-network-performance)
+    - [Reset a failed circuit](https://learn.microsoft.com/troubleshoot/azure/expressroute/reset-circuit)
+    - [Getting ARP tables](https://learn.microsoft.com/troubleshoot/azure/expressroute/expressroute-troubleshooting-arp-resource-manager)
     - [Questions & answers](https://learn.microsoft.com/answers/tags/225/azure-expressroute)
   - Reference
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute-reference)
