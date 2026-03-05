@@ -8,17 +8,19 @@
     - [What's new archived months](https://learn.microsoft.com/en-us/azure/data-factory/whats-new-archive)
   - Migrate to Fabric
     - [Compare Azure Data Factory to Data Factory in Fabric](https://learn.microsoft.com/fabric/data-factory/compare-fabric-data-factory-and-azure-data-factory?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
-    - [Pipeline assessment tool](https://learn.microsoft.com/en-us/azure/data-factory/how-to-assess-your-azure-data-factory-to-fabric-data-factory-migration)
-    - [Connector capability comparison](https://learn.microsoft.com/fabric/data-factory/connector-parity?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
     - [Migration planning](https://learn.microsoft.com/fabric/data-factory/migrate-planning-azure-data-factory?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+    - Upgrade pipelines to Fabric
+      - [Upgrade ADF pipelines to Fabric](https://learn.microsoft.com/en-us/azure/data-factory/how-to-upgrade-your-azure-data-factory-pipelines-to-fabric-data-factory)
+      - [Pipeline assessment tool](https://learn.microsoft.com/en-us/azure/data-factory/how-to-assess-your-azure-data-factory-to-fabric-data-factory-migration)
+      - Upgrade pipelines with PowerShell
+        - [Pipeline upgrade with PowerShell overview](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-powershell-upgrade-module-for-azure-data-factory-to-fabric?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+        - [Tutorial PowerShell pipeline upgrade](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-powershell-upgrade-module-tutorial?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+        - [Build your resolutions file](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-how-to-add-connections-to-resolutions-file?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+        - [Find your Fabric workspace ID](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-how-to-find-your-fabric-workspace-id?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
+    - [Connector capability comparison](https://learn.microsoft.com/fabric/data-factory/connector-parity?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
     - [Migrate global parameters to variable libraries](https://learn.microsoft.com/fabric/data-factory/convert-global-parameters-to-variable-libraries?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
     - [Migration best practices](https://learn.microsoft.com/fabric/data-factory/migration-best-practices?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
     - [Bring your Azure Data Factory to Fabric](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-azure-data-factory-item?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
-    - Migrate pipelines with PowerShell
-      - [Pipeline migration with PowerShell overview](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-powershell-upgrade-module-for-azure-data-factory-to-fabric?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
-      - [Tutorial PowerShell pipeline migration](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-powershell-upgrade-module-tutorial?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
-      - [Build your resolutions file](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-how-to-add-connections-to-resolutions-file?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
-      - [Find your Fabric workspace ID](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-how-to-find-your-fabric-workspace-id?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
     - [How to ingest data from Azure Data Factory to Fabric](https://learn.microsoft.com/en-us/azure/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory)
     - Dataflows
       - [Fabric dataflows for mapping data flow users](https://learn.microsoft.com/fabric/data-factory/guide-to-dataflows-for-mapping-data-flow-users?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)

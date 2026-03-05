@@ -78,19 +78,7 @@
       - [PowerShell](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=azurepowershell)
       - [Python](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=python)
       - [TypeScript](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=typescript)
-    - Azure CLI
-      - [CLI sample index](https://learn.microsoft.com/en-us/azure/azure-functions/functions-cli-samples)
-      - Create function app
-        - [Serverless function app](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-serverless)
-        - [Serverless Python app](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-serverless-python)
-        - [Scalable Premium plan app](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-premium-plan)
-        - [Dedicated App Service plan app](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-app-service-plan)
-      - Integrate services
-        - [Connect Azure Storage](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-connect-to-storage-account)
-        - [Connect Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-connect-to-cosmos-db)
-        - [Python mount Files share](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-mount-files-storage-linux)
-      - Continuous deployment
-        - [GitHub deployment](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-github-continuous)
+    - [Azure CLI](https://learn.microsoft.com/en-us/azure/azure-functions/functions-cli-samples)
     - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/azure-functions/create-resources-azure-powershell)
   - Concepts
     - Best practices
@@ -173,13 +161,11 @@
       - Create a function app
         - [Infrastructure as code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-infrastructure-as-code)
         - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-serverless)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli)
       - Create functions
         - HTTP trigger
           - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-http-endpoint)
           - [Kotlin using IntelliJ](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-kotlin-intellij)
-          - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-app-service-plan)
-          - [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-premium-plan)
           - [Linux container Premium](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container)
         - [Blob storage trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
         - [Queue storage trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-queue-triggered-function)
@@ -316,7 +302,7 @@
       - [Python](https://learn.microsoft.com/python/api/azure-functions/azure.functions)
     - [App settings reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-app-settings)
     - Triggers and bindings
-      - Azure Cache for Redis
+      - Azure Managed Redis
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache)
         - Trigger
           - [Pub Sub](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-trigger-redispubsub)

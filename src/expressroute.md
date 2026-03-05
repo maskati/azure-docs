@@ -150,14 +150,6 @@
       - [Guidance](https://learn.microsoft.com/en-us/azure/expressroute/planned-maintenance)
       - [Configure controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/expressroute/customer-controlled-gateway-maintenance)
     - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/expressroute/toc.json)
-  - Troubleshoot
-    - [Troubleshoot gateway migration](https://learn.microsoft.com/troubleshoot/azure/expressroute/gateway-migration-error-messaging)
-    - [Obtain correlation ID](https://learn.microsoft.com/troubleshoot/azure/expressroute/get-correlation-id)
-    - [Verifying ExpressRoute connectivity](https://learn.microsoft.com/troubleshoot/azure/expressroute/expressroute-troubleshooting-expressroute-overview)
-    - [Resolving network performance issues](https://learn.microsoft.com/troubleshoot/azure/expressroute/expressroute-troubleshooting-network-performance)
-    - [Reset a failed circuit](https://learn.microsoft.com/troubleshoot/azure/expressroute/reset-circuit)
-    - [Getting ARP tables](https://learn.microsoft.com/troubleshoot/azure/expressroute/expressroute-troubleshooting-arp-resource-manager)
-    - [Questions & answers](https://learn.microsoft.com/answers/tags/225/azure-expressroute)
   - Reference
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute-reference)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)
@@ -188,4 +180,5 @@
       - [Set up Microsoft peering for your circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-set-up-microsoft-peering-for-your-expressroute-circuit/)
     - Classic and legacy articles
       - [Configure ExpressRoute and S2S coexisting connections](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-classic)
-      - Change circuit from classic to Resource Manager
+      - [Change circuit from classic to Resource Manager](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-move-arm)
+  - [Support and troubleshooting for ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-support-help)

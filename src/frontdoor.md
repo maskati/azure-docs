@@ -136,14 +136,8 @@
     - [Understanding billing](https://learn.microsoft.com/en-us/azure/frontdoor/billing)
     - [Price comparison between tiers](https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing)
     - [CDN and Front Door price comparison](https://learn.microsoft.com/en-us/azure/frontdoor/compare-cdn-front-door-price)
-  - Troubleshoot
-    - [Troubleshoot with RefString](https://learn.microsoft.com/troubleshoot/azure/front-door/refstring)
-    - [Troubleshoot Front Door issues](https://learn.microsoft.com/troubleshoot/azure/front-door/troubleshoot-issues)
-    - [Troubleshoot Front Door performance issues](https://learn.microsoft.com/troubleshoot/azure/front-door/troubleshoot-performance-issues)
-    - [Troubleshoot file compression](https://learn.microsoft.com/troubleshoot/azure/front-door/troubleshoot-compression)
-    - [Allowed certificate authorities](https://ccadb.my.salesforce-sites.com/microsoft/IncludedCACertificateReportForMSFT)
     - [Subscription offers and bandwidth throttling](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/subscription-offers)
-    - [Questions & answers](https://learn.microsoft.com/answers/tags/96/azure-front-door)
+  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/frontdoor/support-help)
   - CDN and Front Door classic
     - Get started
       - [What is Azure Front Door classic?](https://learn.microsoft.com/en-us/azure/frontdoor/classic-overview)
@@ -255,6 +249,7 @@
       - [Pricing](https://azure.microsoft.com/pricing/details/frontdoor/)
       - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
       - [Service updates](https://azure.microsoft.com/updates/?product=frontdoor)
+      - [Allowed certificate authorities](https://ccadb.my.salesforce-sites.com/microsoft/IncludedCACertificateReportForMSFT)
     - CDN
       - [Azure Content Delivery Network billing](https://learn.microsoft.com/en-us/azure/cdn/cdn-billing?toc=/azure/frontdoor/toc.json)
       - [Microsoft Q&A question page](https://learn.microsoft.com/answers/tags/155/azure-cdn.html)

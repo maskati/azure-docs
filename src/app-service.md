@@ -177,7 +177,7 @@
         - Secrets in app settings
           - [Connect to Logic Apps](https://learn.microsoft.com/en-us/azure/app-service/tutorial-send-email)
         - Secrets in Key Vault
-          - Connect to Azure AI services
+          - Connect to Foundry Tools
             - [Use .NET](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-msi-key-vault)
             - [Use JavaScript](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-msi-key-vault-javascript)
             - [Use PHP](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-msi-key-vault-php)
