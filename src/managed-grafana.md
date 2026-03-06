@@ -54,7 +54,7 @@
       - [Troubleshoot connecting managed private endpoint to a private link service](https://learn.microsoft.com/en-us/azure/managed-grafana/troubleshoot-mpe-connection)
   - Security
     - [Secure Azure Managed Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/secure-azure-managed-grafana)
-    - [Service reliability](https://learn.microsoft.com/en-us/azure/managed-grafana/high-availability)
+    - [Service reliability](https://learn.microsoft.com/azure/reliability/reliability-managed-grafana?toc=/azure/managed-grafana/toc.json&bc=/azure/managed-grafana/breadcrumb/toc.json)
     - [Encryption](https://learn.microsoft.com/en-us/azure/managed-grafana/encryption)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/grafana)

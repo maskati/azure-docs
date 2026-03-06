@@ -7,6 +7,7 @@
   - Concepts
     - [Resource hierarchy](https://learn.microsoft.com/en-us/azure/storage-mover/resource-hierarchy)
     - [Migration costs](https://learn.microsoft.com/en-us/azure/storage-mover/billing)
+    - [Migrate data using private connections](https://learn.microsoft.com/en-us/azure/storage-mover/migrations-requiring-private-connections)
   - How-To
     - Plan
       - [Planning for a deployment](https://learn.microsoft.com/en-us/azure/storage-mover/deployment-planning)
