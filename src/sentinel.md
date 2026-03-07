@@ -475,6 +475,7 @@
         - [ASIM application entity](https://learn.microsoft.com/en-us/azure/sentinel/normalization-entity-application)
       - ASIM schemas
         - [ASIM alert event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-alert)
+        - [ASIM asset entity schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-asset)
         - [ASIM audit event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-audit)
         - [ASIM authentication schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-authentication)
         - [ASIM DNS schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-dns)

@@ -228,6 +228,7 @@
       - [Use a private endpoint](https://learn.microsoft.com/en-us/azure/container-apps/how-to-use-private-endpoint)
       - [Use mTLS](https://learn.microsoft.com/en-us/azure/container-apps/mtls)
       - [Integrate with Azure Front Door](https://learn.microsoft.com/en-us/azure/container-apps/how-to-integrate-with-azure-front-door)
+      - [Use Azure Front Door and Private Link](https://learn.microsoft.com/en-us/azure/container-apps/front-door-custom-virtual-network-private-link)
   - Languages and runtimes
     - .NET
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/dotnet-overview)
