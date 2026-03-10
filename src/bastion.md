@@ -17,6 +17,7 @@
   - Design & Architecture
     - Identity & authentication
       - [Configure Kerberos authentication](https://learn.microsoft.com/en-us/azure/bastion/kerberos-authentication-portal)
+      - [Configure Microsoft Entra ID authentication](https://learn.microsoft.com/en-us/azure/bastion/bastion-entra-id-authentication)
       - Connect to a virtual machine
         - Windows VM
           - [RDP connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-rdp-windows)

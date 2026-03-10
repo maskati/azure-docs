@@ -143,6 +143,7 @@
       - [Configure customer-managed key encryption at rest](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-customer-managed-keys)
     - [External storage solutions](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-external-storage-solutions)
     - [Configure Azure Elastic SAN](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-elastic-san)
+    - [Performance with Elastic SAN](https://learn.microsoft.com/en-us/azure/storage/elastic-san/elastic-san-performance-on-azure-vmware-solutions?context=%2fazure%2fazure-vmware%2fcontext%2fcontext)
     - Configure Azure NetApp Files
       - [Attach Azure NetApp Files datastores to Azure VMware Solution hosts](https://learn.microsoft.com/en-us/azure/azure-vmware/attach-azure-netapp-files-to-azure-vmware-solution-hosts)
       - [Attach Azure NetApp Files to Azure VMware Solution VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/netapp-files-with-azure-vmware-solution)
