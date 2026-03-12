@@ -347,6 +347,7 @@
         - [Connect via diagnostic settings-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-diagnostic-setting-based)
         - [Connect via Windows agent-based connectors](https://learn.microsoft.com/en-us/azure/sentinel/connect-services-windows-based)
       - [Azure Functions API connection](https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-functions-template)
+      - [Azure Storage blob connectors](https://learn.microsoft.com/en-us/azure/sentinel/setup-azure-storage-connector)
       - CEF/Syslog
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/cef-syslog-ama-overview)
         - [CEF and Syslog via AMA](https://learn.microsoft.com/en-us/azure/sentinel/connect-cef-syslog-ama)
@@ -501,6 +502,10 @@
       - [Data connector definitions API reference](https://learn.microsoft.com/en-us/azure/sentinel/data-connector-ui-definitions-reference)
       - [RestApiPoller data connectors API reference](https://learn.microsoft.com/en-us/azure/sentinel/data-connector-connection-rules-reference)
       - [GCP data connectors API reference](https://learn.microsoft.com/en-us/azure/sentinel/data-connection-rules-reference-gcp)
+      - Azure Storage Blob data connectors
+        - [Azure Storage Blob data connector reference](https://learn.microsoft.com/en-us/azure/sentinel/data-connection-rules-reference-azure-storage)
+        - [Enable network security for Azure Storage Blob data connector](https://learn.microsoft.com/en-us/azure/sentinel/enable-storage-network-security)
+        - [Troubleshoot Azure Storage Blob connector issues](https://learn.microsoft.com/en-us/azure/sentinel/azure-storage-blob-connector-troubleshoot)
       - [Sample API requests for creating Data Collection Rules DCRs](https://learn.microsoft.com/en-us/azure/sentinel/api-dcr-reference)
       - [Microsoft Purview Information Protection reference](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-purview-record-types-activities)
       - [Microsoft Defender XDR connector data type support](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-365-defender-cloud-support)

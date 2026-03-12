@@ -95,6 +95,7 @@
     - Chat completion
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-chat-completion-config)
       - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-chat-completion-dotnet)
+      - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-chat-completion-python)
       - [Go](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-chat-completion-go)
     - Agent framework
       - [Get started](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-ai-agent-config)

@@ -45,7 +45,7 @@
       - [Monitor Cache for Redis](https://learn.microsoft.com/azure/redis/monitor-cache)
       - [Monitor using insights](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-insights-overview)
       - [Monitor using diagnostic settings](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-monitor-diagnostic-settings)
-      - [List of Redis metrics](https://learn.microsoft.com/azure/redis/monitor-cache-reference)
+      - [List of Redis metrics](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/monitor-cache-reference)
     - Scaling and performance
       - [Change the size and tier of a cache](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-scale)
       - [Development best practices](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-best-practices-development)
