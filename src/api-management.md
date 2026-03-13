@@ -224,7 +224,6 @@
       - [Options to secure developer portal access](https://learn.microsoft.com/en-us/azure/api-management/secure-developer-portal-access)
       - [Authenticate with username and password](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-basic-authentication)
       - [Authenticate with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-aad)
-      - [Authenticate with Microsoft Entra External ID](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-entra-external-id)
       - [Authenticate with Azure AD B2C](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-aad-b2c)
       - [Delegate authentication](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-setup-delegation)
       - [Email notifications and templates](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-configure-notifications)

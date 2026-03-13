@@ -471,16 +471,16 @@
       - [ASIM helper functions](https://learn.microsoft.com/en-us/azure/sentinel/normalization-functions)
       - [ASIM known issues](https://learn.microsoft.com/en-us/azure/sentinel/normalization-known-issues)
       - ASIM entities
+        - [ASIM asset entity schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-asset)
         - [ASIM user entity](https://learn.microsoft.com/en-us/azure/sentinel/normalization-entity-user)
         - [ASIM device entity](https://learn.microsoft.com/en-us/azure/sentinel/normalization-entity-device)
         - [ASIM application entity](https://learn.microsoft.com/en-us/azure/sentinel/normalization-entity-application)
       - ASIM schemas
         - [ASIM alert event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-alert)
-        - [ASIM asset entity schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-asset)
         - [ASIM audit event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-audit)
         - [ASIM authentication schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-authentication)
-        - [ASIM DNS schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-dns)
         - [ASIM DHCP schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-dhcp)
+        - [ASIM DNS schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-dns)
         - [ASIM file event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-file-event)
         - [ASIM network session schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-network)
         - [ASIM process event schema](https://learn.microsoft.com/en-us/azure/sentinel/normalization-schema-process-event)

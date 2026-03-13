@@ -22,6 +22,7 @@
     - [Assessment rules for PostgreSQL](https://learn.microsoft.com/en-us/azure/migrate/assessment-rules-for-postgresql)
     - [Agentless migration architecture](https://learn.microsoft.com/en-us/azure/migrate/concepts-vmware-agentless-migration)
     - [Hyper-V migration architecture](https://learn.microsoft.com/en-us/azure/migrate/hyper-v-migration-architecture)
+    - [Azure Copilot Migration Agent](https://learn.microsoft.com/en-us/azure/migrate/azure-copilot-migration-agent)
     - [VMware agentless migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-agentless-migration)
     - [Hydration process workflow](https://learn.microsoft.com/en-us/azure/migrate/hydration-process)
   - Discover inventory
@@ -49,6 +50,7 @@
           - [Create least privileged credentials for PostgreSQL discovery](https://learn.microsoft.com/en-us/azure/migrate/postgresql-least-privilege-configuration)
         - MySQL instances
           - [Discover MySQL database instances](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-mysql-database-instances)
+    - [Discovery using collector](https://learn.microsoft.com/en-us/azure/migrate/how-to-discover-using-collector)
     - Discovery using Azure Arc
       - [Overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-arc-resource-discovery)
       - [Manage Arc resource sync](https://learn.microsoft.com/en-us/azure/migrate/how-to-manage-arc-resource-sync)
@@ -118,6 +120,7 @@
     - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
     - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
     - [Redeploy servers using IaC](https://learn.microsoft.com/en-us/azure/migrate/server-redeploy)
+    - [Generate and deploy a platform landing zone](https://learn.microsoft.com/en-us/azure/migrate/platform-landing-zone)
     - Support Matrix
       - [VMware vSphere migration requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration)
       - [Physical Agent-based migration requirements](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-support-matrix?toc=/azure/migrate/toc.json)
@@ -184,6 +187,7 @@
       - [Work with previous version of Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-v1)
       - [Onboard on-premises servers in VMware virtual environment to Azure Arc](https://learn.microsoft.com/en-us/azure/migrate/onboard-to-azure-arc-with-azure-migrate)
       - [Manage migration projects with Azure Lighthouse](https://learn.microsoft.com/azure/lighthouse/how-to/migration-at-scale?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
+    - [VMware migrations with migration agent](https://learn.microsoft.com/en-us/azure/migrate/how-to-plan-analyze-migration-with-agent)
   - Troubleshoot
     - Azure Migrate Project
       - [Troubleshoot Azure Migrate projects](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-project)
@@ -216,6 +220,7 @@
     - [Assessment](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-assessment)
     - [Business case](https://learn.microsoft.com/en-us/azure/migrate/common-questions-business-case)
     - [Migration and modernization tool](https://learn.microsoft.com/en-us/azure/migrate/common-questions-server-migration)
+    - [Responsible AI FAQ for Azure Copilot Migration Agent](https://learn.microsoft.com/en-us/azure/migrate/common-questions-azure-copilot-migration-agent)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/offazure)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.migrate/)
