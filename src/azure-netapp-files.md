@@ -96,42 +96,46 @@
     - Hybrid data mobility and protection
       - [Reliability in Azure NetApp Files](https://learn.microsoft.com/azure/reliability/reliability-netapp-files?toc=azure/azure-netapp-files/toc.json&bc=/azure/azure-netapp-files/breadcrumb/toc.json)
       - [Understand data protection and disaster recovery options](https://learn.microsoft.com/en-us/azure/azure-netapp-files/data-protection-disaster-recovery-options)
-      - [How Azure NetApp Files snapshots work](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-introduction)
-      - Azure NetApp Files caching
-        - [Understand Azure NetApp Files cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cache-volumes)
-        - [Understand resizing guidelines for cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cache-volumes-resize-guidelines)
-      - Azure NetApp Files backup
+      - Understand snapshot-based data protection
+        - [Understand Azure NetApp Files snapshot-based data protection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-introduction)
+        - Understand Azure Application Consistent Snapshot AzAcSnap tool
+          - What is AzAcSnap?
+            - [Introduction to AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-introduction)
+            - [Release Notes for AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-release-notes)
+          - Get started with AzAcSnap
+            - [Overall workflow](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-get-started)
+            - [Install AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-installation)
+            - Configure Database
+              - [All databases](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database)
+              - [SAP HANA](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=sap-hana)
+              - [Oracle Database](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=oracle)
+              - [IBM Db2](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=db2)
+              - [Microsoft SQL Server](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=mssql)
+            - Configure Storage
+              - [All storage](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-storage)
+              - [Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-storage?tabs=azure-netapp-files)
+              - [Azure Large Instance](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-storage?tabs=azure-large-instance)
+              - [Azure Managed Disk PREVIEW](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-preview?tabs=mssql)
+            - [Configure AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-cmd-ref-configure)
+            - [Test configuration of AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-cmd-ref-test)
+            - [Back up your database with AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-cmd-ref-backup)
+          - [Disaster recovery using AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-disaster-recovery)
+          - [Tips for using AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-tips)
+          - [Troubleshoot AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-troubleshoot)
+          - [Preview release features of AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-preview)
+      - Understand backup
         - [Understand Azure NetApp Files backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-introduction)
         - [Requirements and considerations for Azure NetApp Files backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-requirements-considerations)
-      - Replication
-        - [Replication in Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/replication)
-        - [Replication requirements and considerations](https://learn.microsoft.com/en-us/azure/azure-netapp-files/replication-requirements)
-      - Azure Application Consistent Snapshot AzAcSnap tool
-        - What is AzAcSnap?
-          - [Introduction to AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-introduction)
-          - [Release Notes for AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-release-notes)
-        - Get started with AzAcSnap
-          - [Overall workflow](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-get-started)
-          - [Install AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-installation)
-          - Configure Database
-            - [All databases](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database)
-            - [SAP HANA](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=sap-hana)
-            - [Oracle Database](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=oracle)
-            - [IBM Db2](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=db2)
-            - [Microsoft SQL Server](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-database?tabs=mssql)
-          - Configure Storage
-            - [All storage](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-storage)
-            - [Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-storage?tabs=azure-netapp-files)
-            - [Azure Large Instance](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-configure-storage?tabs=azure-large-instance)
-            - [Azure Managed Disk PREVIEW](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-preview?tabs=mssql)
-          - [Configure AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-cmd-ref-configure)
-          - [Test configuration of AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-cmd-ref-test)
-          - [Back up your database with AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-cmd-ref-backup)
-        - [Disaster recovery using AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-disaster-recovery)
-        - [Tips for using AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-tips)
-        - [Troubleshoot AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-troubleshoot)
-        - [Preview release features of AzAcSnap](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-preview)
-      - [Understand advanced ransomware protection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/advanced-ransomware-protection)
+      - Understand replication
+        - [Understand Azure NetApp Files replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/replication)
+        - [Requirements and considerations for Azure NetApp Files replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/replication-requirements)
+      - Understand caching
+        - [Understand Azure NetApp Files cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cache-volumes)
+        - [Requirements and considerations for Azure NetApp Files cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cache-requirements)
+        - [Understand resizing guidelines for Azure NetApp Files cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cache-volumes-resize-guidelines)
+      - Understand ransomware protection
+        - [Understand Azure NetApp Files advanced ransomware protection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/advanced-ransomware-protection)
+        - [Requirements and considerations for Azure NetApp Files advanced ransomware protection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/ransomware-protection-requirements)
     - Solutions and benefits
       - [Solution architectures using Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures)
       - Benefits of using Azure NetApp Files
@@ -140,16 +144,17 @@
         - [Benefits of using Azure NetApp Files with Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/azure-netapp-files/solutions-windows-virtual-desktop)
         - [Benefits of using Azure NetApp Files for SQL Server deployment](https://learn.microsoft.com/en-us/azure/azure-netapp-files/solutions-benefits-azure-netapp-files-sql-server)
     - Security
-      - [Understand data plane security](https://learn.microsoft.com/en-us/azure/azure-netapp-files/data-plane-security)
-      - [Understand control plane security](https://learn.microsoft.com/en-us/azure/azure-netapp-files/control-plane-security)
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-netapp-files-security-baseline?toc=/azure/azure-netapp-files/TOC.json)
+      - Understand Azure NetApp Files security
+        - [Understand data plane security](https://learn.microsoft.com/en-us/azure/azure-netapp-files/data-plane-security)
+        - [Understand control plane security](https://learn.microsoft.com/en-us/azure/azure-netapp-files/control-plane-security)
+        - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-netapp-files-security-baseline?toc=/azure/azure-netapp-files/TOC.json)
   - How-to guides
     - Register and set up
       - [Register for NetApp Resource Provider](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-register)
       - [Create a NetApp account](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-create-netapp-account)
       - [Delegate a subnet to Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-delegate-subnet)
       - [Request region access](https://learn.microsoft.com/en-us/azure/azure-netapp-files/request-region-access)
-    - Elastic service level
+    - Manage Elastic service level
       - [Create a NetApp Elastic account](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-account)
       - Manage Active Directory
         - [Create an Active Directory connection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-active-directory)
@@ -159,9 +164,9 @@
       - Manage volumes
         - [Create an NFS volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-volume)
         - [Create an SMB volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-volume-server-message-block)
-      - Manage volume encryption
-        - [Configure customer-managed keys](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-customer-managed-keys)
-    - Flexible, Standard, Premium, and Ultra service levels
+        - Manage volume encryption
+          - [Configure customer-managed keys](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-customer-managed-keys)
+    - Manage Flexible, Standard, Premium, and Ultra service levels
       - Manage Active Directory
         - [Create and manage Active Directory connections](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-active-directory-connections)
         - [Modify Active Directory connections](https://learn.microsoft.com/en-us/azure/azure-netapp-files/modify-active-directory-connections)
@@ -172,6 +177,7 @@
         - [Manage a manual QoS capacity pool](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-manual-qos-capacity-pool)
         - [Manage billing by using tags](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-billing-tags)
       - Manage volumes
+        - [Manage availability zone volume placement](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-availability-zone-volume-placement)
         - Manage NFS volumes
           - [Create an NFS volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-create-volumes)
           - [Configure NFSv4.1 ID domain](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-configure-nfsv41-domain)
@@ -214,55 +220,56 @@
           - [Manage storage with cool access](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-cool-access)
           - [Manage file access logs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-file-access-logs)
         - [Update Terraform-managed volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/terraform-manage-volume)
-      - Manage application volume groups
-        - Manage application volume groups for SAP HANA
-          - [Deploy the first SAP HANA host](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-deploy-first-host)
-          - [Add hosts to a multiple-host SAP HANA system](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-add-hosts)
-          - [Add volumes for an SAP HANA system as a secondary database in HSR](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-add-volume-secondary)
-          - [Add volumes for an SAP HANA system as a DR system](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-disaster-recovery)
-          - [Manage volumes in an application volume group for SAP HANA](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-manage-volumes)
-          - [Configure application volume groups for SAP HANA using REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-application-volume-group-sap-hana-api)
-        - Manage application volume groups for Oracle
-          - [Deploy application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-oracle-deploy-volumes)
-          - [Manage volumes in an application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-manage-volumes-oracle)
-          - [Configure application volume group for Oracle using REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-application-volume-oracle-api)
-          - [Deploy application volume group for Oracle using Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-application-volume-oracle-azure-resource-manager)
-        - [Delete an application volume group](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-delete)
-    - Manage data protection
-      - Manage volume snapshots
+    - Manage application volume groups
+      - Manage application volume groups for SAP HANA
+        - [Deploy the first SAP HANA host](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-deploy-first-host)
+        - [Add hosts to a multiple-host SAP HANA system](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-add-hosts)
+        - [Add volumes for an SAP HANA system as a secondary database in HSR](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-add-volume-secondary)
+        - [Add volumes for an SAP HANA system as a DR system](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-disaster-recovery)
+        - [Manage volumes in an application volume group for SAP HANA](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-manage-volumes)
+        - [Configure application volume groups for SAP HANA using REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-application-volume-group-sap-hana-api)
+      - Manage application volume groups for Oracle
+        - [Deploy application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-oracle-deploy-volumes)
+        - [Manage volumes in an application volume group for Oracle](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-manage-volumes-oracle)
+        - [Configure application volume group for Oracle using REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-application-volume-oracle-api)
+        - [Deploy application volume group for Oracle using Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-application-volume-oracle-azure-resource-manager)
+      - [Delete an application volume group](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-delete)
+    - Manage hybrid data mobility and protection
+      - Manage snapshot-based protection
         - [Create an on-demand snapshot](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-manage-snapshots)
         - [Manage snapshot policies](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-manage-policy)
-        - [Create a short-term clone](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-short-term-clone)
         - [Restore a snapshot to a new volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-new-volume)
         - [Restore individual files using single-file snapshot restore](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-file-single)
         - [Restore a file from a snapshot using a client](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-restore-file-client)
         - [Restore a volume using snapshot revert](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-revert-volume)
         - [Delete snapshots](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-delete)
-      - Manage volume backups
+      - Manage cloning
+        - [Create a short-term clone](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-short-term-clone)
+      - Manage backup
+        - [Manage a backup vault](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-vault-manage)
+        - [Manage backup policies](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-manage-policies)
         - Configure backups
           - [Configure policy-based backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-configure-policy-based)
           - [Configure manual backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-configure-manual)
-        - [Manage a backup vault](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-vault-manage)
-        - [Manage backup policies](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-manage-policies)
         - [Search backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-search)
         - [Restore a backup to a new volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-restore-new-volume)
         - [Restore individual files from a backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/restore-single-file-backup)
         - [Delete backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-delete)
       - Manage replication
-        - [Create volume replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-create-peering)
+        - [Create cross-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-create-peering)
+        - [Create cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-cross-zone-replication)
+        - [Create cross-zone-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-region-replication-configure)
         - [Display health and monitor status of replication relationship](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-display-health-status)
         - [Manage disaster recovery](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-manage-disaster-recovery)
         - [Delete volume replications or volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-delete)
         - [Re-establish volume replication relationships](https://learn.microsoft.com/en-us/azure/azure-netapp-files/reestablish-deleted-volume-relationships)
         - [Test disaster recovery with cross-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/test-disaster-recovery)
+        - [Enable cross-subscription replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/enable-cross-subscription-replication)
       - Manage caching
-        - [Configure cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-cache-volumes)
-      - Manage availability zones and cross-zone replication
-        - [Manage availability zone volume placement](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-availability-zone-volume-placement)
-        - [Create cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-cross-zone-replication)
-      - [Configure cross-zone-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-zone-region-replication-configure)
-      - [Configure ransomware protection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/ransomware-configure)
-      - Relocate
+        - [Manage cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-cache-volumes)
+      - Manage ransomware protection
+        - [Manage advanced ransomware protection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/ransomware-configure)
+      - Manage volume relocation
         - [Relocate volume to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-netapp?toc=/azure/azure-netapp-files/toc.json)
     - Develop
       - [REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-develop-with-rest-api)

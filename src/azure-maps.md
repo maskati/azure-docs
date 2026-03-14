@@ -16,24 +16,31 @@
       - [Analyze weather data using Jupyter Notebooks](https://learn.microsoft.com/en-us/azure/azure-maps/weather-service-tutorial)
       - [Analyze trip data using Snap to Roads](https://learn.microsoft.com/en-us/azure/azure-maps/tutorial-snap-to-Road)
   - Concepts
-    - [Authentication with Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-authentication)
-    - [Authentication best practices](https://learn.microsoft.com/en-us/azure/azure-maps/authentication-best-practices)
-    - [Azure Maps Event Grid integration](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-event-grid-integration)
-    - [Azure Maps geographic scope](https://learn.microsoft.com/en-us/azure/azure-maps/geographic-scope)
-    - [Consent management](https://learn.microsoft.com/en-us/azure/azure-maps/consent-management)
-    - [Azure Services that support managed identities](https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
-    - Coverage
-      - [Coverage](https://learn.microsoft.com/en-us/azure/azure-maps/geographic-coverage)
-      - [Geocoding coverage](https://learn.microsoft.com/en-us/azure/azure-maps/geocoding-coverage)
-      - [Traffic coverage](https://learn.microsoft.com/en-us/azure/azure-maps/traffic-coverage)
-      - [Render coverage](https://learn.microsoft.com/en-us/azure/azure-maps/render-coverage)
-      - [Routing coverage](https://learn.microsoft.com/en-us/azure/azure-maps/routing-coverage)
-      - [Weather coverage](https://learn.microsoft.com/en-us/azure/azure-maps/weather-coverage)
-    - [Localization support](https://learn.microsoft.com/en-us/azure/azure-maps/supported-languages)
-    - [Supported map styles](https://learn.microsoft.com/en-us/azure/azure-maps/supported-map-styles)
-    - [Zoom levels and tile grid](https://learn.microsoft.com/en-us/azure/azure-maps/zoom-levels-and-tile-grid)
-    - [Weather service concepts](https://learn.microsoft.com/en-us/azure/azure-maps/weather-services-concepts)
-    - [Weather service FAQ](https://learn.microsoft.com/en-us/azure/azure-maps/weather-services-faq.yml)
+    - Security & Identity
+      - [Authentication with Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-authentication)
+      - [Authentication best practices](https://learn.microsoft.com/en-us/azure/azure-maps/authentication-best-practices)
+      - [Azure Maps Event Grid integration](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-event-grid-integration)
+      - [Consent management](https://learn.microsoft.com/en-us/azure/azure-maps/consent-management)
+      - [Use private endpoints with Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/private-endpoints)
+      - [Azure Services that support managed identities](https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
+    - Integration
+      - [Azure Maps Event Grid integration](https://learn.microsoft.com/en-us/azure/azure-maps/azure-maps-event-grid-integration)
+    - Geography & Coverage
+      - [Azure Maps geographic scope](https://learn.microsoft.com/en-us/azure/azure-maps/geographic-scope)
+      - Coverage
+        - [Geographic coverage](https://learn.microsoft.com/en-us/azure/azure-maps/geographic-coverage)
+        - [Geocoding coverage](https://learn.microsoft.com/en-us/azure/azure-maps/geocoding-coverage)
+        - [Traffic coverage](https://learn.microsoft.com/en-us/azure/azure-maps/traffic-coverage)
+        - [Render coverage](https://learn.microsoft.com/en-us/azure/azure-maps/render-coverage)
+        - [Routing coverage](https://learn.microsoft.com/en-us/azure/azure-maps/routing-coverage)
+        - [Weather coverage](https://learn.microsoft.com/en-us/azure/azure-maps/weather-coverage)
+      - [Localization support](https://learn.microsoft.com/en-us/azure/azure-maps/supported-languages)
+    - Maps & Visualization
+      - [Supported map styles](https://learn.microsoft.com/en-us/azure/azure-maps/supported-map-styles)
+      - [Zoom levels and tile grid](https://learn.microsoft.com/en-us/azure/azure-maps/zoom-levels-and-tile-grid)
+    - Weather service
+      - [Weather service concepts](https://learn.microsoft.com/en-us/azure/azure-maps/weather-services-concepts)
+      - [Weather service FAQ](https://learn.microsoft.com/en-us/azure/azure-maps/weather-services-faq.yml)
   - How-to guides
     - Migrate from Bing Maps
       - [Bing Maps migration overview](https://learn.microsoft.com/en-us/azure/azure-maps/migrate-bing-maps-overview)
