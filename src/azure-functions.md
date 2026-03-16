@@ -96,7 +96,7 @@
       - Container hosting
         - [Containerized functions](https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts)
         - [Azure Container Apps hosting](https://learn.microsoft.com/en-us/azure/azure-functions/functions-container-apps-hosting)
-      - [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
+      - [Consumption plan legacy](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
       - [Host MCP servers](https://learn.microsoft.com/en-us/azure/azure-functions/self-hosted-mcp-servers)
     - Deployment
       - [Deployment options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies)
@@ -282,13 +282,13 @@
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
   - Migration guides
     - [Migrate from AWS Lambda](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-aws-lambda-to-azure-functions)
+    - [Migrate Consumption plan apps to Flex Consumption](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-plan-consumption-to-flex)
     - Upgrade runtime versions
       - [Migrate v3.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-3-version-4)
       - [Migrate v1.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-1-version-4)
     - Language version updates
       - [Update language versions](https://learn.microsoft.com/en-us/azure/azure-functions/update-language-versions)
       - [Migrate Node.js to model v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-upgrade-v4)
-    - [Migrate Consumption plan apps to Flex Consumption](https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-plan-consumption-to-flex)
     - [Migrate .NET apps to the isolated model](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-dotnet-to-isolated-model)
     - Move resources
       - [Move between subscriptions](https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription?toc=%2Fazure%2Fazure-functions%2Ftoc.json)
