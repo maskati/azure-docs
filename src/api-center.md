@@ -18,23 +18,26 @@
       - [2 - Add APIs to the inventory](https://learn.microsoft.com/en-us/azure/api-center/tutorials/register-apis)
       - [3 - Add environments and deployments](https://learn.microsoft.com/en-us/azure/api-center/tutorials/configure-environments-deployments)
       - [4 - Link an API Management instance](https://learn.microsoft.com/en-us/azure/api-management/tutorials/link-api-center)
-  - API inventory
-    - [Manage inventory - Azure CLI](https://learn.microsoft.com/en-us/azure/api-center/manage-apis-azure-cli)
-    - [Import APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/import-api-management-apis)
-    - Integrate API sources
-      - [Synchronize APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/synchronize-api-management-apis)
-      - [Synchronize APIs from Amazon API Gateway](https://learn.microsoft.com/en-us/azure/api-center/synchronize-aws-gateway-apis)
-    - [Build and register APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/build-register-apis-vscode-extension)
-    - [Design and develop  APIs - GitHub Copilot for Azure](https://learn.microsoft.com/en-us/azure/api-center/design-api-github-copilot-azure)
-    - [Register APIs - GitHub Actions](https://learn.microsoft.com/en-us/azure/api-center/register-apis-github-actions)
-    - [Export API from API Center to Copilot Studio](https://learn.microsoft.com/en-us/azure/api-center/export-to-copilot-studio.yml)
-    - [Track API dependencies](https://learn.microsoft.com/en-us/azure/api-center/track-resource-dependencies)
-  - Agent-to-Agent
-    - [Overview](https://learn.microsoft.com/en-us/azure/api-center/agent-to-agent-overview)
-    - [Register and manage agents](https://learn.microsoft.com/en-us/azure/api-center/register-manage-agents)
-  - MCP servers
-    - [Register and discover MCP servers](https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server)
-    - [Build and register Logic Apps MCP server](https://learn.microsoft.com/en-us/azure/logic-apps/create-mcp-server-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
+  - Asset inventory
+    - APIs
+      - [Manage APIs - Azure CLI](https://learn.microsoft.com/en-us/azure/api-center/manage-apis-azure-cli)
+      - [Import APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/import-api-management-apis)
+      - Integrate API sources
+        - [Synchronize APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/synchronize-api-management-apis)
+        - [Synchronize APIs from Amazon API Gateway](https://learn.microsoft.com/en-us/azure/api-center/synchronize-aws-gateway-apis)
+      - [Build and register APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/build-register-apis-vscode-extension)
+      - [Design and develop  APIs - GitHub Copilot for Azure](https://learn.microsoft.com/en-us/azure/api-center/design-api-github-copilot-azure)
+      - [Register APIs - GitHub Actions](https://learn.microsoft.com/en-us/azure/api-center/register-apis-github-actions)
+      - [Export API from API Center to Copilot Studio](https://learn.microsoft.com/en-us/azure/api-center/export-to-copilot-studio.yml)
+      - [Track API dependencies](https://learn.microsoft.com/en-us/azure/api-center/track-resource-dependencies)
+    - Agents
+      - [Overview](https://learn.microsoft.com/en-us/azure/api-center/agent-to-agent-overview)
+      - [Register and manage agents](https://learn.microsoft.com/en-us/azure/api-center/register-manage-agents)
+    - MCP servers
+      - [Register and discover MCP servers](https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server)
+      - [Build and register Logic Apps MCP server](https://learn.microsoft.com/en-us/azure/logic-apps/create-mcp-server-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
+    - Skills
+      - [Register and discover skills](https://learn.microsoft.com/en-us/azure/api-center/register-discover-skills)
   - API governance
     - [Use metadata for governance](https://learn.microsoft.com/en-us/azure/api-center/metadata)
     - [Govern APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/govern-apis-vscode-extension)
