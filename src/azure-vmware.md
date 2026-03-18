@@ -174,6 +174,7 @@
       - [Failback from Azure](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-failback?context=%2fazure%2fazure-vmware%2fcontext%2fcontext)
   - Operations and monitoring
     - [Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/using-run-command)
+    - [Use Set-ToolsRepo Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/use-set-toolsrepo-run-command)
     - [Configure VMware syslogs](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vmware-syslogs)
     - [Send syslogs to log management solutions via Azure Logic Apps](https://learn.microsoft.com/en-us/azure/azure-vmware/logs-via-logic-app)
     - [Configure alerts and work with metrics](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-alerts-for-azure-vmware-solution)

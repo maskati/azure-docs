@@ -9,11 +9,11 @@
     - [Bastion FAQ](https://learn.microsoft.com/en-us/azure/bastion/bastion-faq)
   - Get Started
     - [Deploy Bastion - Azure portal](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-portal)
+    - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/bastion-create-host-powershell)
+    - [Azure CLI](https://learn.microsoft.com/en-us/azure/bastion/create-host-cli)
     - [Deploy private-only Bastion](https://learn.microsoft.com/en-us/azure/bastion/private-only-deployment)
     - [Deploy Bastion - ARM template](https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-arm-template)
     - [Deploy Bastion - Terraform](https://learn.microsoft.com/en-us/azure/bastion/quickstart-deploy-terraform)
-    - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/bastion-create-host-powershell)
-    - [Azure CLI](https://learn.microsoft.com/en-us/azure/bastion/create-host-cli)
   - Design & Architecture
     - Identity & authentication
       - [Configure Kerberos authentication](https://learn.microsoft.com/en-us/azure/bastion/kerberos-authentication-portal)
@@ -26,13 +26,13 @@
           - [SSH connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-ssh-linux)
           - [RDP connection](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-linux-rdp)
     - Connectivity & Access Methods
+      - [About IP-based connection](https://learn.microsoft.com/en-us/azure/bastion/connect-ip-address)
       - [Bastion and VNet peering](https://learn.microsoft.com/en-us/azure/bastion/vnet-peering)
       - [Connect to an AKS cluster](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-to-aks-private-cluster)
       - [Configure native client support](https://learn.microsoft.com/en-us/azure/bastion/native-client)
         - [Connect from Windows native client](https://learn.microsoft.com/en-us/azure/bastion/connect-vm-native-client-windows)
         - [Connect from Linux native client](https://learn.microsoft.com/en-us/azure/bastion/connect-vm-native-client-linux)
         - [Transfer files - native client](https://learn.microsoft.com/en-us/azure/bastion/vm-upload-download-native)
-      - [Connect to a VM - IP address](https://learn.microsoft.com/en-us/azure/bastion/connect-ip-address)
       - [Connect to a VM scale set](https://learn.microsoft.com/en-us/azure/bastion/bastion-connect-vm-scale-set)
       - [Connect to DevTest Labs VMs](https://learn.microsoft.com/en-us/azure/devtest-labs/enable-browser-connection-lab-virtual-machines?toc=%2fazure%2fbastion%2ftoc.json)
       - [Configure a shareable link](https://learn.microsoft.com/en-us/azure/bastion/shareable-link)

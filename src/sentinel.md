@@ -192,7 +192,6 @@
         - [Other KQL resources](https://learn.microsoft.com/kusto/query/kql-learning-resources?view=microsoft-sentinel&preserve-view=true&toc=/azure/sentinel/TOC.json&bc=/azure/sentinel/breadcrumb/toc.json)
       - [Create custom query](https://learn.microsoft.com/en-us/azure/sentinel/hunts-custom-queries)
       - [Bookmarks](https://learn.microsoft.com/en-us/azure/sentinel/bookmarks)
-      - [Livestream](https://learn.microsoft.com/en-us/azure/sentinel/livestream)
       - Notebooks
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/notebooks)
         - [Get started with notebooks and MSTICPy](https://learn.microsoft.com/en-us/azure/sentinel/notebook-get-started)

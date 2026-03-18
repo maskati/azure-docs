@@ -68,6 +68,7 @@
       - [Backup](https://learn.microsoft.com/en-us/azure/backup/tutorial-create-first-backup-azure-database-postgresql-flex)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-postgresql-flex)
     - [Configure item level backup of an AKS cluster](https://learn.microsoft.com/en-us/azure/backup/tutorial-configure-backup-aks)
+    - [Back up Azure Files volumes in AKS clusters](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-aks-azure-files)
     - [Configure vaulted backup for Azure Blob](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-tutorial)
     - [Back up Azure Data Lake Storage](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-tutorial)
     - [Restore vaulted backups for AKS clusters in a secondary region](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-aks-backups-across-regions)
