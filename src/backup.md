@@ -1,202 +1,116 @@
 # Azure Backup service documentation
 > The Azure Backup service provides simple, secure, and cost-effective solutions to back up your data and recover it from the Microsoft Azure cloud.
   - [Azure Backup documentation](https://learn.microsoft.com/en-us/azure/backup/)
-  - Overview
+  - About Azure Backup
     - [Overview of Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-overview)
+    - [Azure Backup architecture](https://learn.microsoft.com/en-us/azure/backup/backup-architecture)
     - [What's new in Azure Backup](https://learn.microsoft.com/en-us/azure/backup/whats-new)
     - [Pricing](https://azure.microsoft.com/pricing/details/backup/)
-  - Quickstarts
-    - [Back up a VM - Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal)
-    - [Back up a VM - PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-powershell)
-    - [Back up a VM - CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-cli)
-    - [Back up a VM - ARM template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-template)
-    - [Back up a VM - Bicep file](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-bicep-file)
-    - [Back up a VM - Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-terraform)
-    - Back up Azure PostgreSQL Database
-      - [Back up the database - Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-database-portal)
-      - Restore the PostgreSQL database across regions
-        - [Using the Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-cross-region-restore)
-        - [With Azure PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-secondary-region-restore-postgresql-powershell)
-    - Configure AKS cluster backup
-      - [From the Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-aks)
-      - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-cli)
-      - [With PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-powershell)
-      - [With Azure Resource Manager](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-arm)
-      - [With Bicep](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-bicep)
-      - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-terraform)
-    - Create a backup policy for Azure Database for PostgreSQL - Flexible Server
-      - [With Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-portal)
-      - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-cli)
-      - [With PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-powershell)
-    - Configure backup for Azure Database for PostgreSQL  - Flexible Server
-      - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-terraform)
-      - [With Azure Resource Manager template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-arm)
-      - [With Azure Bicep file](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-bicep)
-    - Configure vaulted backup for Azure Blob
-      - [From the Azure portal](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-quick)
-      - [Using PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-blob-vaulted-backup-powershell)
-      - [Using Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-blob-vaulted-backup-cli)
-      - [Using ARM template](https://learn.microsoft.com/en-us/azure/backup/backup-blobs-storage-account-arm-template)
-      - [Using Bicep](https://learn.microsoft.com/en-us/azure/backup/backup-blobs-storage-account-bicep)
-    - [Create a vaulted backup policy for Azure Data Lake Storage using Azure portal/ PowerShell/ Azure CLI](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-create-policy-quickstart)
-    - [Configure Azure Data Lake Storage vaulted backup using ARM/ Bicep template](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-configure-quickstart-arm-bicep)
-    - [Install Backup extension in AKS cluster](https://learn.microsoft.com/en-us/azure/backup/quick-install-backup-extension)
-    - [Create a backup policy for Azure Files](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-portal)
-    - Configure vaulted backup for Azure Files
-      - [With Azure PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-powershell)
-      - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-cli)
-      - [With Azure Resource Manager](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-arm)
-      - [With Azure Bicep](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-bicep)
-      - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-terraform)
-    - [Enable Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/enable-multi-user-authorization-quickstart)
-    - Backup SAP HANA System Replication database
-      - [Backup](https://learn.microsoft.com/en-us/azure/backup/quick-backup-hana-cli)
-      - [Restore](https://learn.microsoft.com/en-us/azure/backup/quick-restore-hana-cli)
-    - [Restore the entire SAP HANA system to snapshot restore point](https://learn.microsoft.com/en-us/azure/backup/quick-sap-hana-database-instance-restore)
-    - [Run preregistration script for SAP ASE database backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup-run-preregistration-quickstart)
-  - Tutorials
-    - [Back up multiple Azure VMs](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-vm-at-scale)
-    - [Back up Azure VMs with PowerShell](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-azure-vm)
-    - [Restore a VM with Azure CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-disk)
-    - [Restore individual files](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-files)
-    - [Back up SQL Server on Azure VM](https://learn.microsoft.com/en-us/azure/backup/tutorial-sql-backup)
-    - [Back up SAP HANA databases in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-sap-hana-db)
-    - Back up PostgreSQL databases
-      - [Back up the database](https://learn.microsoft.com/en-us/azure/backup/tutorial-postgresql-backup)
-      - [Configure and run Cross Region Restore](https://learn.microsoft.com/en-us/azure/backup/tutorial-cross-region-restore)
-    - Back up Azure Database for PostgreSQL - Flexible Server
-      - [Backup](https://learn.microsoft.com/en-us/azure/backup/tutorial-create-first-backup-azure-database-postgresql-flex)
-      - [Restore](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-postgresql-flex)
-    - [Configure item level backup of an AKS cluster](https://learn.microsoft.com/en-us/azure/backup/tutorial-configure-backup-aks)
-    - [Back up Azure Files volumes in AKS clusters](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-aks-azure-files)
-    - [Configure vaulted backup for Azure Blob](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-tutorial)
-    - [Back up Azure Data Lake Storage](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-tutorial)
-    - [Restore vaulted backups for AKS clusters in a secondary region](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-aks-backups-across-regions)
-    - [Back up Azure Files using Azure portal](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-azure-files-vault-tier-portal)
-    - [Back up Windows Server](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-windows-server-to-azure)
-    - [Restore files to Windows Server](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-restore-files-windows-server)
-    - SAP HANA databases on Azure VMs – using CLI
-      - [Backup SAP HANA databases - CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-sap-hana-backup-cli)
-      - [Restore SAP HANA databases - CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-sap-hana-restore-cli)
-      - [Manage backed up SAP HANA databases - CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-sap-hana-manage-cli)
-    - [Configure SAP HANA database instance snapshot backup](https://learn.microsoft.com/en-us/azure/backup/tutorial-configure-sap-hana-database-instance-snapshot-backup)
-    - [Back up SAP ASE database on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup-tutorial)
-    - [Back up Azure Managed Disks](https://learn.microsoft.com/en-us/azure/backup/back-up-managed-disks-tutorial)
-    - [Configure Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-tutorial)
-    - [Recover soft deleted items with enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-tutorial)
-    - [Configure Threat Detection and manage health of Azure VM Backups](https://learn.microsoft.com/en-us/azure/backup/threat-detection-configure-monitor-tutorial)
-  - Concepts
-    - Reliability
-      - [Reliability in Azure Backup](https://learn.microsoft.com/azure/reliability/reliability-backup?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Migrate to availability zone support](https://learn.microsoft.com/azure/reliability/migrate-recovery-services-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-    - Support matrices
-      - [Azure Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix)
-      - [Backup center support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-center-support-matrix)
-      - [Azure VM backup support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix-iaas)
-      - [DPM/Azure Backup Server MABS support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix-mabs-dpm)
-      - [MARS agent support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix-mars-agent)
-      - [SQL Server Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sql-support-matrix)
-      - [SAP HANA Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-hana-backup-support-matrix)
-      - [SAP ASE Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-ase-backup-support-matrix)
-      - [Azure Database for MySQL - Flexible Server long-term retention support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)
-      - [Azure files backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-support-matrix)
-      - [Azure Elastic SAN backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-support-matrix)
-      - [Azure Disk Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/disk-backup-support-matrix)
-      - [Azure Blobs backup support matrix](https://learn.microsoft.com/en-us/azure/backup/blob-backup-support-matrix)
-      - [Azure Data Lake Storage vaulted backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-support-matrix)
-      - [Active Directory domain controllers](https://learn.microsoft.com/en-us/azure/backup/active-directory-backup-restore)
-      - [Supported VM SKUs for Azure Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-policy-supported-skus)
-      - [Azure Database for PostgreSQL backup support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-support-matrix)
-      - [Azure Database for PostgreSQL -Flexible server backup support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-support-matrix)
-      - [Azure Kubernetes Service backup support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-support-matrix)
-      - [Automation in Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-support-automation)
-    - Frequently asked questions FAQ
-      - [FAQ-Recovery Services vaults](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-faq.yml)
-      - [FAQ-Backup center](https://learn.microsoft.com/en-us/azure/backup/backup-center-faq.yml)
-      - [FAQ-Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vm-backup-faq.yml)
-      - [FAQ-MARS agent](https://learn.microsoft.com/en-us/azure/backup/backup-azure-file-folder-backup-faq.yml)
-      - [FAQ-Back up Azure Files](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files-faq.yml)
-      - [FAQ-Back up Azure Blob](https://learn.microsoft.com/en-us/azure/backup/blob-backup-faq.yml)
-      - [FAQ-Azure Disk Backup](https://learn.microsoft.com/en-us/azure/backup/disk-backup-faq.yml)
-      - [FAQ-Azure Backup for AKS](https://learn.microsoft.com/en-us/azure/backup/aks-backup-faq.yml)
-      - [FAQ-Back up SQL Server databases on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/faq-backup-sql-server.yml)
-      - [FAQ-Back up SAP HANA databases on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/sap-hana-faq-backup-azure-vm.yml)
-      - [FAQ-Back up Azure Database for PostgreSQL server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-server-faq.yml)
-      - [FAQ-Azure Backup Server and DPM](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dpm-azure-server-faq.yml)
-      - [FAQ-Azure Backup Monitoring and Reporting](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-alert-faq.yml)
-      - [FAQ-Protection against Ransomware](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
-      - [FAQ-Soft Delete](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-backup-faq.yml)
-    - Vaults
-      - [Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview)
-      - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/backup-vault-overview)
-    - [Resiliency](https://learn.microsoft.com/en-us/azure/resiliency/resiliency-overview?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-    - [Backup center](https://learn.microsoft.com/en-us/azure/backup/backup-center-overview)
-    - Azure VM backup
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
-      - [Agentless multi-disk crash-consistent VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-agentless-multi-disk-crash-consistent-overview)
-    - SAP HANA database on Azure VM backup
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-about)
-      - [Architecture](https://learn.microsoft.com/en-us/azure/backup/azure-backup-architecture-for-sap-hana-backup)
-    - [Azure Database for MySQL - Flexible Server long-term retention](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
-    - [Azure Database for PostgreSQL -Flexible server backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-overview)
-    - [SAP ASE database on Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-about)
-    - Azure Kubernetes Service backup
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-overview)
-      - [Prerequisites](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-concept)
-    - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/blob-backup-overview)
-    - [Azure Data Lake Storage vaulted backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-overview)
-    - [Azure Elastic SAN backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-overview)
-    - [Azure Files backup](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)
-    - Windows backup using MARS agent
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-about-mars)
-      - [Restore](https://learn.microsoft.com/en-us/azure/backup/about-restore-microsoft-azure-recovery-services)
-    - [Monitoring and Reporting](https://learn.microsoft.com/en-us/azure/backup/monitoring-and-alerts-overview)
-    - Security
-      - [Enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-about)
-      - [Multi-user authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept)
-      - [Immutable vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-concept)
-      - [Secure by Default with Azure Backup](https://learn.microsoft.com/en-us/azure/backup/secure-by-default)
-      - Private endpoints
-        - [V1 experience](https://learn.microsoft.com/en-us/azure/backup/private-endpoints-overview)
-        - [V2 experience](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-concept)
-      - [Threat Detection with Microsoft Defender for Cloud integration](https://learn.microsoft.com/en-us/azure/backup/threat-detection-overview)
-    - [Backup architecture](https://learn.microsoft.com/en-us/azure/backup/backup-architecture)
-    - [Guidance and best practices](https://learn.microsoft.com/en-us/azure/backup/guidance-best-practices)
-    - [Glossary of terms](https://learn.microsoft.com/en-us/azure/backup/azure-backup-glossary)
-  - How-to guides
-    - Vaults
-      - Recovery Services vault
+  - Backup management planes
+    - Resiliency
+      - [Overview](https://learn.microsoft.com/en-us/azure/resiliency/resiliency-overview?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Support Matrices](https://learn.microsoft.com/en-us/azure/resiliency/resiliency-support-matrix?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - Manage operations in the control plane
+        - [View protectable resources](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-view-protectable-resources?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Create a vault](https://learn.microsoft.com/en-us/azure/resiliency/backup-vaults?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Manage vault operations](https://learn.microsoft.com/en-us/azure/resiliency/manage-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Create a protection policy](https://learn.microsoft.com/en-us/azure/resiliency/backup-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Manage a protection policy](https://learn.microsoft.com/en-us/azure/resiliency/manage-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-configure-protection-datasource?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Reconfigure backup in an alternate vault](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-reconfigure-backup-alternate-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Recover an item](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-recover-deleted-item?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [View protected items and perform actions](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-view-protected-items-and-perform-actions?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Review security posture](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-review-security-posture?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Monitor jobs](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-monitor-operate?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Monitor alerts and metrics](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-monitor-alerts-metrics?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Monitoring protection summary](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-monitor-protection-summary?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Govern and view compliance](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-govern-monitor-compliance?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Manage the business continuity and disaster recovery estate using Copilot](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-manage-data-using-copilot?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+    - Recovery Services vault
+      - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview)
+      - [FAQ- Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-faq.yml)
+      - Create and manage the vault
         - [Create](https://learn.microsoft.com/en-us/azure/backup/backup-create-recovery-services-vault)
         - [Delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-delete-vault)
         - [Relocate](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-backup?toc=/azure/backup/toc.json)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-manage-windows-server)
-      - Backup vault
+    - Backup vault
+      - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-vault-overview)
+      - Create and manage the vault
         - [Create and delete](https://learn.microsoft.com/en-us/azure/backup/create-manage-backup-vault)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-backup-vault)
-    - Resiliency
-      - [View protectable resources](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-view-protectable-resources?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - Create and manage vaults
-        - [Create](https://learn.microsoft.com/en-us/azure/resiliency/backup-vaults?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-        - [Manage](https://learn.microsoft.com/en-us/azure/resiliency/manage-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - Create and manage protection policy
-        - [Create](https://learn.microsoft.com/en-us/azure/resiliency/backup-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-        - [Manage](https://learn.microsoft.com/en-us/azure/resiliency/manage-protection-policy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Configure protection for datasources](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-configure-protection-datasource?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Reconfigure backup in an alternate vault](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-reconfigure-backup-alternate-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Recover item](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-recover-deleted-item?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [View protected items and perform actions](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-view-protected-items-and-perform-actions?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Review security posture](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-review-security-posture?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Monitor jobs](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-monitor-operate?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Monitor alerts and metrics](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-monitor-alerts-metrics?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Monitoring protection summary](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-monitor-protection-summary?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Govern and view compliance](https://learn.microsoft.com/en-us/azure/resiliency/tutorial-govern-monitor-compliance?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [Support Matrices](https://learn.microsoft.com/en-us/azure/resiliency/resiliency-support-matrix?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-    - Backup center
-      - [Monitor and Operate](https://learn.microsoft.com/en-us/azure/backup/backup-center-monitor-operate)
-      - [Obtain insights](https://learn.microsoft.com/en-us/azure/backup/backup-center-obtain-insights)
-      - [Govern environment](https://learn.microsoft.com/en-us/azure/backup/backup-center-govern-environment)
-      - [Perform actions](https://learn.microsoft.com/en-us/azure/backup/backup-center-actions)
-    - Azure VM backup
+    - Backup Center
+      - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-center-overview)
+      - [FAQ-Backup center](https://learn.microsoft.com/en-us/azure/backup/backup-center-faq.yml)
+      - [Backup center support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-center-support-matrix)
+      - Manage operations in the control plane
+        - [Monitor and Operate](https://learn.microsoft.com/en-us/azure/backup/backup-center-monitor-operate)
+        - [Obtain insights](https://learn.microsoft.com/en-us/azure/backup/backup-center-obtain-insights)
+        - [Govern environment](https://learn.microsoft.com/en-us/azure/backup/backup-center-govern-environment)
+        - [Perform actions](https://learn.microsoft.com/en-us/azure/backup/backup-center-actions)
+  - Security and Ransomware protection
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/security-overview)
+    - [FAQ-Protection against Ransomware](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
+    - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/backup/backup-rbac-rs-vault)
+    - Multi-user authorization
+      - [Overview](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept)
+      - [Quickstart - Enable Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/enable-multi-user-authorization-quickstart)
+      - [Tutorial - configure Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-tutorial)
+      - [Configure Multi-user authorization using Resource Guard](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization)
+    - Immutability
+      - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-concept)
+      - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-how-to-manage)
+    - Secure by default with soft delete
+      - [Overview of soft delete](https://learn.microsoft.com/en-us/azure/backup/secure-by-default)
+      - [Overview of enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-about)
+      - [FAQ-Soft Delete](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-backup-faq.yml)
+      - Manage soft deleted data
+        - [Manage soft deleted items](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-configure-manage)
+        - [Soft delete backups for virtual machines](https://learn.microsoft.com/en-us/azure/backup/soft-delete-virtual-machines)
+        - [Soft delete backups for SQL Server and SAP HANA in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/soft-delete-sql-saphana-in-azure-vm)
+    - [Delete protection for Azure files](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-file-share)
+    - Ransomware protection
+      - [Overview](https://learn.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [FAQ-Protection against Ransomware](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
+      - [Integrate with Microsoft Defender's ransomware alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-integrate-microsoft-defender-using-logic-apps)
+    - [Security for hybrid backups](https://learn.microsoft.com/en-us/azure/backup/backup-azure-security-feature)
+    - [Save and manage MARS agent passphrase in Azure Key Vault](https://learn.microsoft.com/en-us/azure/backup/save-backup-passphrase-securely-in-azure-key-vault)
+    - Private Endpoints
+      - V1 experience
+        - [Overview](https://learn.microsoft.com/en-us/azure/backup/private-endpoints-overview)
+        - [Create and manage](https://learn.microsoft.com/en-us/azure/backup/private-endpoints)
+      - V2 experience
+        - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-concept)
+        - [Create and manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-configure-manage)
+    - Threat Detection with Microsoft Defender for Cloud integration
+      - [Overview](https://learn.microsoft.com/en-us/azure/backup/threat-detection-overview)
+      - [Configure Threat Detection and manage health of Azure VM Backups](https://learn.microsoft.com/en-us/azure/backup/threat-detection-configure-monitor-tutorial)
+    - [Encryption in Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-encryption)
+    - Encryption using customer-managed keys
+      - [Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/encryption-at-rest-with-cmk)
+      - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/encryption-at-rest-with-cmk-for-backup-vault)
+    - [Transport Layer Security](https://learn.microsoft.com/en-us/azure/backup/transport-layer-security)
+    - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/backup/security-controls-policy)
+    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/backup-security-baseline?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+  - Azure VM backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
+    - [Agentless multi-disk crash-consistent VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-agentless-multi-disk-crash-consistent-overview)
+    - [FAQ-Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vm-backup-faq.yml)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix-iaas)
+    - [Supported VM SKUs for Azure Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-policy-supported-skus)
+    - Quickstarts
+      - [Back up a VM - Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal)
+      - [Back up a VM - PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-powershell)
+      - [Back up a VM - CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-cli)
+      - [Back up a VM - ARM template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-template)
+      - [Back up a VM - Bicep file](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-bicep-file)
+      - [Back up a VM - Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-terraform)
+    - Tutorials
+      - [Back up multiple Azure VMs](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-vm-at-scale)
+      - [Back up Azure VMs with PowerShell](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-azure-vm)
+      - [Restore a VM with Azure CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-disk)
+      - [Restore individual files](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-files)
+    - Backup scenarios
       - Backup
         - [Back up and restore Azure VMs with Azure Backup Instant Restore](https://learn.microsoft.com/en-us/azure/backup/backup-instant-restore-capability)
         - [Enable backup when you create an Azure VM](https://learn.microsoft.com/en-us/azure/backup/backup-during-vm-creation)
@@ -222,85 +136,12 @@
         - [Manage recovery points](https://learn.microsoft.com/en-us/azure/backup/manage-recovery-points)
         - [Migrate backups from standard to enhanced policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vm-migrate-enhanced-policy)
         - [Modify backup policy with Azure CLI](https://learn.microsoft.com/en-us/azure/backup/modify-vm-policy-cli)
-    - SQL Server database on Azure VM backup
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-database)
-      - From the Azure portal
-        - Backup
-          - [Back up multiple SQL Server VMs from the vault](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-database-azure-vms)
-          - [Back up SQL Server Availability Group](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-on-availability-groups)
-          - [Back up a SQL Server VM from the VM pane](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-vm-from-vm-pane)
-          - [Back up SQL Server from the SQL Server VM blade](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-database-from-azure-vm-blade)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-sql-database-azure-vm)
-        - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-monitor-sql-database-backup)
-      - With CLI
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-backup-cli)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-restore-cli)
-        - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-manage-cli)
-      - With REST API
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-vm-rest-api)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-sql-vm-rest-api)
-        - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-azure-sql-vm-rest-api)
-    - Azure Database for MySQL - Flexible Server backup retention
-      - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server)
-      - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-restore)
-    - Azure Database for PostgreSQL backup
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-overview)
-      - From the Azure portal
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-database-postgresql)
-        - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-azure-database-postgresql)
-      - With PowerShell
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-postgresql-ps)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-postgresql-database-ps)
-      - With CLI
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-postgresql-cli)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-postgresql-database-cli)
-      - With REST API
-        - [Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-data-protection-use-rest-api-create-update-postgresql-policy)
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-data-protection-use-rest-api-backup-postgresql)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-postgresql-database-use-rest-api)
-    - Azure Database for PostgreSQL -Flexible server backup
-      - From the Azure portal
-        - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-database-postgresql-flex)
-        - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-manage)
-      - With Azure CLI
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-database-postgresql-flex-backup-cli)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-restore-cli)
-      - With PowerShell
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-database-postgresql-flex-backup-powershell)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-restore-powershell)
-      - With REST API
-        - [Create a policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api-create-update-policy)
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api-restore)
-    - Azure Kubernetes Service backup
-      - From the Azure portal
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-restore)
-        - [Manage](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-manage-backups)
-        - [Cross Region Restore for WebLogic Server on AKS](https://learn.microsoft.com/azure/developer/java/migration/migrate-weblogic-to-aks-with-ha-geo-redundancy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-        - [Cross Region Restore for Liberty on AKS](https://learn.microsoft.com/azure/developer/java/migration/migrate-liberty-to-aks-with-ha-dr?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - With PowerShell
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-using-powershell)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-restore-using-powershell)
-      - With CLI
-        - [Backup](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-using-cli)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-restore-using-cli)
-    - Windows backup using MARS agent
-      - Install or upgrade
-        - [Install MARS agent](https://learn.microsoft.com/en-us/azure/backup/install-mars-agent)
-        - [Upgrade MARS agent](https://learn.microsoft.com/en-us/azure/backup/upgrade-mars-agent)
-      - Backup
-        - [Back up Windows Server files and folders](https://learn.microsoft.com/en-us/azure/backup/backup-windows-with-mars-agent)
-        - [Back up Windows Server System State](https://learn.microsoft.com/en-us/azure/backup/backup-azure-system-state)
-      - Restore
-        - [Recover files from Azure to Windows Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-restore-windows-server)
-        - [Restore all files in a volume](https://learn.microsoft.com/en-us/azure/backup/restore-all-files-volume-mars)
-        - [Restore Windows Server System State](https://learn.microsoft.com/en-us/azure/backup/backup-azure-restore-system-state)
-      - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-manage-mars)
-    - Azure Disk backup
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/disk-backup-overview)
+  - Azure Disk backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/disk-backup-overview)
+    - [FAQ-Azure Disk Backup](https://learn.microsoft.com/en-us/azure/backup/disk-backup-faq.yml)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/disk-backup-support-matrix)
+    - [Tutorial to back up Azure Managed Disks](https://learn.microsoft.com/en-us/azure/backup/back-up-managed-disks-tutorial)
+    - Backup scenarios
       - From the Azure portal
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-managed-disks)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-managed-disks)
@@ -315,7 +156,18 @@
         - [Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-create-update-disk-policy)
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-backup-disks)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-restore-disks)
-    - Azure Blob backup
+  - Azure Blob backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/blob-backup-overview)
+    - [FAQ-Azure Blob Backup](https://learn.microsoft.com/en-us/azure/backup/blob-backup-faq.yml)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/blob-backup-support-matrix)
+    - Quickstarts to configure vaulted blob backup
+      - [From the Azure portal](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-quick)
+      - [Using PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-blob-vaulted-backup-powershell)
+      - [Using Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-blob-vaulted-backup-cli)
+      - [Using ARM template](https://learn.microsoft.com/en-us/azure/backup/backup-blobs-storage-account-arm-template)
+      - [Using Bicep](https://learn.microsoft.com/en-us/azure/backup/backup-blobs-storage-account-bicep)
+    - [Tutorial to back up Azure Blob](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-tutorial)
+    - Backup scenarios
       - From the Azure portal
         - [Configure and manage](https://learn.microsoft.com/en-us/azure/backup/blob-backup-configure-manage)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/blob-restore)
@@ -329,11 +181,31 @@
         - [Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-create-update-blob-policy)
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-backup-blobs)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-restore-blobs)
-    - Azure Data Lake Storage vaulted backup
+  - Azure Data Lake Storage vaulted backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-overview)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-support-matrix)
+    - Quickstarts
+      - [Create a vaulted backup policy for Azure Data Lake Storage using Azure portal/ PowerShell/ Azure CLI](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-create-policy-quickstart)
+      - [Configure Azure Data Lake Storage vaulted backup using ARM/ Bicep template](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-configure-quickstart-arm-bicep)
+    - [Tutorial - Back up Azure Data Lake Storage](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-tutorial)
+    - Backup scenarios
       - [Configure vaulted backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-configure-backup)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-restore)
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-manage)
-    - Azure Files backup
+  - Azure Files backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)
+    - [FAQ-Back up Azure Files](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files-faq.yml)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-support-matrix)
+    - Quickstarts
+      - [Create a backup policy for Azure Files](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-portal)
+      - Configure vaulted backup for Azure Files
+        - [With Azure PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-powershell)
+        - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-cli)
+        - [With Azure Resource Manager](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-arm)
+        - [With Azure Bicep](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-bicep)
+        - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-azure-files-vault-tier-terraform)
+    - [Tutorial - Back up Azure Files using Azure portal](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-azure-files-vault-tier-portal)
+    - Backup scenarios
       - From the Azure portal
         - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-afs)
@@ -350,11 +222,145 @@
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-file-share-rest-api)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-file-share-rest-api)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-azure-file-share-rest-api)
-    - Azure Elastic SAN backup
+  - Azure Kubernetes Service backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-overview)
+    - [Prerequisites](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-concept)
+    - [FAQ-Azure Backup for AKS](https://learn.microsoft.com/en-us/azure/backup/aks-backup-faq.yml)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-support-matrix)
+    - Quickstarts
+      - [Install Backup extension in AKS cluster](https://learn.microsoft.com/en-us/azure/backup/quick-install-backup-extension)
+      - Configure AKS cluster backup
+        - [From the Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-aks)
+        - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-cli)
+        - [With PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-powershell)
+        - [With Azure Resource Manager](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-arm)
+        - [With Bicep](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-bicep)
+        - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-kubernetes-backup-terraform)
+    - Tutorials
+      - [Configure item level backup of an AKS cluster](https://learn.microsoft.com/en-us/azure/backup/tutorial-configure-backup-aks)
+      - [Back up Azure Files volumes in AKS clusters](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-aks-azure-files)
+      - [Restore vaulted backups for AKS clusters in a secondary region](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-aks-backups-across-regions)
+    - Backup scenarios
+      - From the Azure portal
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-restore)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-manage-backups)
+        - [Cross Region Restore for WebLogic Server on AKS](https://learn.microsoft.com/azure/developer/java/migration/migrate-weblogic-to-aks-with-ha-geo-redundancy?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+        - [Cross Region Restore for Liberty on AKS](https://learn.microsoft.com/azure/developer/java/migration/migrate-liberty-to-aks-with-ha-dr?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - With PowerShell
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-using-powershell)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-restore-using-powershell)
+      - With CLI
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-using-cli)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-restore-using-cli)
+  - Azure Elastic SAN backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-overview)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-support-matrix)
+    - Backup scenarios
       - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-configure)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-restore)
       - [manage](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-manage)
-    - SAP HANA database on Azure VM backup
+  - Azure Database for PostgreSQL -Flexible server backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-overview)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-support-matrix)
+    - Quickstarts
+      - Create a backup policy for Azure Database for PostgreSQL - Flexible Server
+        - [With Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-portal)
+        - [With Azure CLI](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-cli)
+        - [With PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-powershell)
+      - Configure backup for Azure Database for PostgreSQL  - Flexible Server
+        - [With Terraform](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-terraform)
+        - [With Azure Resource Manager template](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-arm)
+        - [With Azure Bicep file](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-flexible-server-bicep)
+    - Tutorials for Azure Database for PostgreSQL - Flexible Server backup
+      - [Backup](https://learn.microsoft.com/en-us/azure/backup/tutorial-create-first-backup-azure-database-postgresql-flex)
+      - [Restore](https://learn.microsoft.com/en-us/azure/backup/tutorial-restore-postgresql-flex)
+    - Backup scenarios
+      - From the Azure portal
+        - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-database-postgresql-flex)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-manage)
+      - With Azure CLI
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-database-postgresql-flex-backup-cli)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-restore-cli)
+      - With PowerShell
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-database-postgresql-flex-backup-powershell)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-restore-powershell)
+      - With REST API
+        - [Create a policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api-create-update-policy)
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api-restore)
+  - Azure Database for MySQL - Flexible Server backup retention
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)
+    - Backup scenarios
+      - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server)
+      - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-restore)
+  - Azure Database for PostgreSQL backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-overview)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-support-matrix)
+    - [FAQ-Back up Azure Database for PostgreSQL server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-server-faq.yml)
+    - Quickstarts for Azure PostgreSQL Database backup
+      - [Back up the database - Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-backup-postgresql-database-portal)
+      - Restore the PostgreSQL database across regions
+        - [Using the Azure portal](https://learn.microsoft.com/en-us/azure/backup/quick-cross-region-restore)
+        - [With Azure PowerShell](https://learn.microsoft.com/en-us/azure/backup/quick-secondary-region-restore-postgresql-powershell)
+    - Tutorials for PostgreSQL databases backup
+      - [Back up the database](https://learn.microsoft.com/en-us/azure/backup/tutorial-postgresql-backup)
+      - [Configure and run Cross Region Restore](https://learn.microsoft.com/en-us/azure/backup/tutorial-cross-region-restore)
+    - Backup scenarios
+      - From the Azure portal
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-database-postgresql)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-azure-database-postgresql)
+      - With PowerShell
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-postgresql-ps)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-postgresql-database-ps)
+      - With CLI
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-postgresql-cli)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-postgresql-database-cli)
+      - With REST API
+        - [Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-data-protection-use-rest-api-create-update-postgresql-policy)
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-data-protection-use-rest-api-backup-postgresql)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-postgresql-database-use-rest-api)
+  - SQL Server database on Azure VM backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-database)
+    - [FAQ-Back up SQL Server databases on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/faq-backup-sql-server.yml)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/sql-support-matrix)
+    - [Tutorial for SQL Server on Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/tutorial-sql-backup)
+    - Backup scenarios
+      - From the Azure portal
+        - Backup
+          - [Back up multiple SQL Server VMs from the vault](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-database-azure-vms)
+          - [Back up SQL Server Availability Group](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-on-availability-groups)
+          - [Back up a SQL Server VM from the VM pane](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-vm-from-vm-pane)
+          - [Back up SQL Server from the SQL Server VM blade](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-database-from-azure-vm-blade)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-sql-database-azure-vm)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-monitor-sql-database-backup)
+      - With CLI
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-backup-cli)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-restore-cli)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-manage-cli)
+      - With REST API
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-vm-rest-api)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-sql-vm-rest-api)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-azure-sql-vm-rest-api)
+  - SAP HANA database on Azure VM backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-about)
+    - [Architecture](https://learn.microsoft.com/en-us/azure/backup/azure-backup-architecture-for-sap-hana-backup)
+    - [FAQ-Back up SAP HANA databases on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/sap-hana-faq-backup-azure-vm.yml)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-hana-backup-support-matrix)
+    - Quickstarts for SAP HANA database backup
+      - [Back up HANA System Replication database](https://learn.microsoft.com/en-us/azure/backup/quick-backup-hana-cli)
+      - [Restore HANA System Replication database](https://learn.microsoft.com/en-us/azure/backup/quick-restore-hana-cli)
+      - [Restore the entire SAP HANA system to snapshot restore point](https://learn.microsoft.com/en-us/azure/backup/quick-sap-hana-database-instance-restore)
+    - Tutorials for SAP HANA databases on Azure VMs backup
+      - [Back up SAP HANA databases using the Azure portal](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-sap-hana-db)
+      - [Back up SAP HANA databases using CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-sap-hana-backup-cli)
+      - [Restore SAP HANA databases using CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-sap-hana-restore-cli)
+      - [Manage backed up SAP HANA databases using CLI](https://learn.microsoft.com/en-us/azure/backup/tutorial-sap-hana-manage-cli)
+      - [Configure SAP HANA database instance snapshot backup](https://learn.microsoft.com/en-us/azure/backup/tutorial-configure-sap-hana-database-instance-snapshot-backup)
+    - Backup scenarios
       - Backup
         - [Database](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database)
         - [HANA System Replication database](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-with-hana-system-replication-backup)
@@ -363,159 +369,163 @@
         - [Database and HANA System Replication database](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-restore)
         - [Instance snapshot](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-instances-restore)
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-manage)
-    - SAP ASE database on Azure VM backup
+  - SAP ASE database on Azure VM backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-about)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/sap-ase-backup-support-matrix)
+    - [Quickstart to run preregistration script for the database backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup-run-preregistration-quickstart)
+    - [Tutorial for SAP ASE database on Azure VMs backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup-tutorial)
+    - Backup scenarios
       - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-backup)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-restore)
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/sap-ase-database-manage)
-    - Azure Backup Server MABS
-      - Protection matrices
-        - [MABS V4 and later protection matrix](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-protection-matrix)
-        - [MABS V3 UR1 and later](https://learn.microsoft.com/en-us/azure/backup/microsoft-azure-backup-server-protection-v3-ur1)
-        - [MABS V3 RTM protection matrix](https://learn.microsoft.com/en-us/azure/backup/microsoft-azure-backup-server-protection-v3)
+  - Archive tier
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/archive-tier-support)
+    - [Use Archive tier](https://learn.microsoft.com/en-us/azure/backup/use-archive-tier-support)
+  - Windows backup using MARS agent
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-about-mars)
+    - [FAQ-MARS agent](https://learn.microsoft.com/en-us/azure/backup/backup-azure-file-folder-backup-faq.yml)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix-mars-agent)
+    - Tutorials for backup of Windows Server
+      - [Back up Windows Server](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-windows-server-to-azure)
+      - [Restore files to Windows Server](https://learn.microsoft.com/en-us/azure/backup/tutorial-backup-restore-files-windows-server)
+    - Back up scenarios
       - Install or upgrade
-        - [Install Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup)
-        - [Add storage](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-add-storage)
-        - [What's New in MABS](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-whats-new-mabs)
-        - [Release notes MABS](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-release-notes-v3)
-        - [Turn on/off telemetry settings](https://learn.microsoft.com/en-us/azure/backup/manage-telemetry)
-        - [Unattended installation](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-unattended-install)
-      - Configure and manage private endpoint in Recovery Services vault for backup
-        - [Configure private endpoint](https://learn.microsoft.com/en-us/azure/backup/private-endpoint-configure-vault-backup-server)
-        - [Re-register MABS using public access](https://learn.microsoft.com/en-us/azure/backup/register-public-access-vault-backup-server)
-      - Protect workloads
-        - [Back up Hyper-V virtual machines](https://learn.microsoft.com/en-us/azure/backup/back-up-hyper-v-virtual-machines-mabs)
-        - [Back up Azure Local virtual machines](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-stack-hyperconverged-infrastructure-virtual-machines)
-        - [VMware server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-server-vmware)
-        - [Exchange](https://learn.microsoft.com/en-us/azure/backup/backup-azure-exchange-mabs)
-        - [SharePoint farm](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-sharepoint-mabs)
-        - [SQL Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-mabs)
-        - [Protect system state and bare metal recovery](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-system-state-and-bmr)
-        - [Using pre-backup and post-backup scripts](https://learn.microsoft.com/en-us/azure/backup/pre-backup-post-backup-scripts)
-        - [Back up file data with MABS](https://learn.microsoft.com/en-us/azure/backup/back-up-file-data)
-      - [Recover data from Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server)
-      - [Restore VMware VMs with Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/restore-azure-backup-server-vmware)
-      - [Back up the MABS server](https://learn.microsoft.com/en-us/azure/backup/backup-the-mabs-server)
-    - Azure Backup Server on Azure Stack
-      - [Install Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-install-azure-stack)
-      - [Protect files and applications](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-files-applications-azure-stack)
-      - [Protect SharePoint farm](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-sharepoint-azure-stack)
-      - [Protect SQL Server database](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-sql-azure-stack)
-    - Data Protection Manager DPM
-      - [Prepare DPM workloads in the Azure portal](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dpm-introduction)
-      - [Use DPM to back up Exchange server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-exchange-server)
-      - [Recover data to alternate DPM server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server)
-      - [Use DPM to back up SQL Server workloads](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-sql)
-      - [Use DPM to back up a SharePoint farm](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-sharepoint)
-      - [Replace your tape library](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-cloud-as-tape)
-    - Offline backup
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/offline-backup-overview)
-      - [Offline Backup with Azure Data Box MARS](https://learn.microsoft.com/en-us/azure/backup/offline-backup-azure-data-box)
-      - [Offline Backup with Azure Data Box DPM/MABS](https://learn.microsoft.com/en-us/azure/backup/offline-backup-azure-data-box-dpm-mabs)
-      - [Offline Backup with Import/Export MARS](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-import-export)
-      - [Offline Backup with Import/Export DPM/MABS](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-server-import-export)
-      - [Offline Backup for DPM and MABS previous versions](https://learn.microsoft.com/en-us/azure/backup/offline-backup-server-previous-versions)
-    - Monitoring
-      - [Review backup estate](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-built-in-monitor)
-      - [Monitor Azure Backup](https://learn.microsoft.com/en-us/azure/backup/monitor-backup)
-      - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/backup/monitor-backup-reference)
-      - Alerts
-        - [Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-alerts)
-        - [Metrics](https://learn.microsoft.com/en-us/azure/backup/metrics-overview)
-        - [Logs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-use-azuremonitor)
-        - [Configure notifications](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-alerts-notification)
-        - [Classic Alerts](https://learn.microsoft.com/en-us/azure/backup/move-to-azure-monitor-alerts)
-    - Reporting
-      - Configure Azure Backup reports
-        - [Configure Report](https://learn.microsoft.com/en-us/azure/backup/configure-reports)
-        - [View Report](https://learn.microsoft.com/en-us/azure/backup/view-reports)
-        - [Email Report](https://learn.microsoft.com/en-us/azure/backup/backup-reports-email)
-      - Configure Diagnostics Events
-        - [Use Diagnostic Settings with Log Analytics](https://learn.microsoft.com/en-us/azure/backup/backup-azure-diagnostic-events)
-        - [Log Analytics Data Model for Resource Specific Diagnostic Events](https://learn.microsoft.com/en-us/azure/backup/backup-azure-reports-data-model)
-        - [Log Analytics Data Model for Legacy Diagnostic Events](https://learn.microsoft.com/en-us/azure/backup/backup-azure-diagnostics-mode-data-model)
-        - [System Functions](https://learn.microsoft.com/en-us/azure/backup/backup-reports-system-functions)
-      - [Backup Explorer](https://learn.microsoft.com/en-us/azure/backup/monitor-azure-backup-with-backup-explorer)
-    - Automation
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/automation-backup)
-      - Built-in Azure Policy for Azure Backup
-        - [Auto-Enable Backup on VM Creation using Azure Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-auto-enable-backup)
-        - [Configure vault diagnostics settings at scale](https://learn.microsoft.com/en-us/azure/backup/azure-policy-configure-diagnostics)
-        - [Audit and Enforce backup for Azure Files using Azure policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files-policy-automation)
-        - [Audit and Enforce backup for Managed Disks using Azure policy](https://learn.microsoft.com/en-us/azure/backup/backup-managed-disks-policy)
-        - [Audit and Enforce backup operations for Azure Kubernetes Service clusters using Azure policy](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-policy)
-      - Use PowerShell
-        - [Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-automation)
-        - [Data Protection Manager DPM](https://learn.microsoft.com/en-us/azure/backup/backup-dpm-automation)
-        - [Windows Server using the MARS agent](https://learn.microsoft.com/en-us/azure/backup/backup-client-automation)
-        - [SQL in Azure VM backups](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-automation)
-        - [Azure PowerShell Samples](https://learn.microsoft.com/en-us/azure/backup/powershell-backup-samples)
-      - [Use Azure CLI](https://learn.microsoft.com/en-us/azure/backup/create-manage-azure-services-using-azure-command-line-interface)
-      - Use Azure Backup REST API
-        - [Create Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-createorupdatevault)
-        - [Update Recovery Services vault configurations](https://learn.microsoft.com/en-us/azure/backup/use-restapi-update-vault-properties)
-        - [Create and update backup policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-createorupdatepolicy)
-        - [Back up Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-backupazurevms)
-        - [Restore Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-restoreazurevms)
-        - [Manage Azure Backup jobs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-managejobs)
-      - [Use Azure Data Protection REST API](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-create-update-backup-vault)
-      - [Query backup information using ARG](https://learn.microsoft.com/en-us/azure/backup/query-backups-using-azure-resource-graph)
-      - [Resource Manager and Bicep files](https://learn.microsoft.com/en-us/azure/backup/backup-rm-template-samples)
-    - Security and Ransomware protection
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/security-overview)
-      - [Save and manage MARS agent passphrase in Azure Key Vault](https://learn.microsoft.com/en-us/azure/backup/save-backup-passphrase-securely-in-azure-key-vault)
-      - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/backup/backup-rbac-rs-vault)
-      - [Configure Multi-user authorization using Resource Guard](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization)
-      - [Manage Immutable vaults](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-how-to-manage)
-      - Soft delete
-        - [For virtual machines](https://learn.microsoft.com/en-us/azure/backup/soft-delete-virtual-machines)
-        - [For SQL Server and SAP HANA in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/soft-delete-sql-saphana-in-azure-vm)
-      - [Configure and manage enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-configure-manage)
-      - [Delete protection for Azure files](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-file-share)
-      - Ransomware protection
-        - [Overview](https://learn.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-        - [Integrate with Microsoft Defender's ransomware alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-integrate-microsoft-defender-using-logic-apps)
-        - [FAQ-Protection against Ransomware](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
-      - [Security for hybrid backups](https://learn.microsoft.com/en-us/azure/backup/backup-azure-security-feature)
-      - Private Endpoints
-        - [V1 experience](https://learn.microsoft.com/en-us/azure/backup/private-endpoints)
-        - [V2 experience](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-configure-manage)
-      - [Encryption in Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-encryption)
-      - Encryption using customer-managed keys
-        - [Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/encryption-at-rest-with-cmk)
-        - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/encryption-at-rest-with-cmk-for-backup-vault)
-      - [Transport Layer Security](https://learn.microsoft.com/en-us/azure/backup/transport-layer-security)
-      - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/backup/security-controls-policy)
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/backup-security-baseline?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-    - Archive tier
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/archive-tier-support)
-      - [Use Archive tier](https://learn.microsoft.com/en-us/azure/backup/use-archive-tier-support)
-    - Troubleshoot
-      - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/backup-vault-troubleshoot)
-      - [Azure VM](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-troubleshoot)
-      - [Azure VM file recovery](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vm-file-recovery-troubleshoot)
-      - [Azure Backup agent or VM extension timed out](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-vm-backup-fails-snapshot-timeout)
-      - [Encrypted Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-encrypted-vm-troubleshoot)
-      - [Azure Backup agent](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mars-troubleshoot)
-      - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-blob-backup)
-      - [Azure Data Lake Storage vaulted backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-troubleshoot)
-      - [Files and folders backup is slow](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-slow-backup-performance-issue)
-      - [Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mabs-troubleshoot)
-      - [Azure Backup Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-vault-troubleshoot)
-      - [System Center DPM](https://learn.microsoft.com/en-us/azure/backup/backup-azure-scdpm-troubleshooting)
-      - [Azure Files](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-azure-files)
-      - [Azure Disk Backup](https://learn.microsoft.com/en-us/azure/backup/disk-backup-troubleshoot)
-      - [SQL Server](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-azure-troubleshoot)
-      - [Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-troubleshoot)
-      - [Azure Database for PostgreSQL - Flexible server backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-troubleshoot)
-      - [Azure Database for MySQL - Flexible Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-troubleshoot)
-      - [SAP HANA backup in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database-troubleshoot)
-      - [SAP HANA database instance backup in Azure VM](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-instance-troubleshoot)
-      - [SAP ASE database backup in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-sap-ase-sybase-database-backup)
-      - [System State](https://learn.microsoft.com/en-us/azure/backup/backup-azure-system-state-troubleshoot)
-      - [Archive tier](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-archive-tier)
-      - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-troubleshoot)
-      - [Data recovery from Microsoft Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server-troubleshoot)
-      - [Monitoring and  alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-troubleshoot)
+        - [Install MARS agent](https://learn.microsoft.com/en-us/azure/backup/install-mars-agent)
+        - [Upgrade MARS agent](https://learn.microsoft.com/en-us/azure/backup/upgrade-mars-agent)
+      - Backup
+        - [Back up Windows Server files and folders](https://learn.microsoft.com/en-us/azure/backup/backup-windows-with-mars-agent)
+        - [Back up Windows Server System State](https://learn.microsoft.com/en-us/azure/backup/backup-azure-system-state)
+      - Restore
+        - [Overview](https://learn.microsoft.com/en-us/azure/backup/about-restore-microsoft-azure-recovery-services)
+        - [Recover files from Azure to Windows Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-restore-windows-server)
+        - [Restore all files in a volume](https://learn.microsoft.com/en-us/azure/backup/restore-all-files-volume-mars)
+        - [Restore Windows Server System State](https://learn.microsoft.com/en-us/azure/backup/backup-azure-restore-system-state)
+      - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-manage-mars)
+  - Azure Backup Server MABS
+    - [What's New in MABS](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-whats-new-mabs)
+    - [Release notes MABS](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-release-notes-v3)
+    - [FAQ-Azure Backup Server and DPM](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dpm-azure-server-faq.yml)
+    - [DPM/Azure Backup Server MABS support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix-mabs-dpm)
+    - Protection matrices
+      - [MABS V4 and later protection matrix](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-protection-matrix)
+      - [MABS V3 UR1 and later](https://learn.microsoft.com/en-us/azure/backup/microsoft-azure-backup-server-protection-v3-ur1)
+      - [MABS V3 RTM protection matrix](https://learn.microsoft.com/en-us/azure/backup/microsoft-azure-backup-server-protection-v3)
+    - Install or upgrade
+      - [Install Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup)
+      - [Add storage](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-add-storage)
+      - [Turn on/off telemetry settings](https://learn.microsoft.com/en-us/azure/backup/manage-telemetry)
+      - [Unattended installation](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-unattended-install)
+    - Configure and manage private endpoint in Recovery Services vault for backup
+      - [Configure private endpoint](https://learn.microsoft.com/en-us/azure/backup/private-endpoint-configure-vault-backup-server)
+      - [Re-register MABS using public access](https://learn.microsoft.com/en-us/azure/backup/register-public-access-vault-backup-server)
+    - Protect workloads
+      - [Back up Hyper-V virtual machines](https://learn.microsoft.com/en-us/azure/backup/back-up-hyper-v-virtual-machines-mabs)
+      - [Back up Azure Local virtual machines](https://learn.microsoft.com/en-us/azure/backup/back-up-azure-stack-hyperconverged-infrastructure-virtual-machines)
+      - [VMware server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-server-vmware)
+      - [Exchange](https://learn.microsoft.com/en-us/azure/backup/backup-azure-exchange-mabs)
+      - [SharePoint farm](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-sharepoint-mabs)
+      - [SQL Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-mabs)
+      - [Protect system state and bare metal recovery](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-system-state-and-bmr)
+      - [Using pre-backup and post-backup scripts](https://learn.microsoft.com/en-us/azure/backup/pre-backup-post-backup-scripts)
+      - [Back up file data with MABS](https://learn.microsoft.com/en-us/azure/backup/back-up-file-data)
+    - [Recover data from Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server)
+    - [Restore VMware VMs with Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/restore-azure-backup-server-vmware)
+    - [Back up the MABS server](https://learn.microsoft.com/en-us/azure/backup/backup-the-mabs-server)
+  - Azure Backup Server on Azure Stack
+    - [Install Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-install-azure-stack)
+    - [Protect files and applications](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-files-applications-azure-stack)
+    - [Protect SharePoint farm](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-sharepoint-azure-stack)
+    - [Protect SQL Server database](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-sql-azure-stack)
+  - Data Protection Manager DPM
+    - [Prepare DPM workloads in the Azure portal](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dpm-introduction)
+    - [Use DPM to back up Exchange server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-exchange-server)
+    - [Recover data to alternate DPM server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server)
+    - [Use DPM to back up SQL Server workloads](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-sql)
+    - [Use DPM to back up a SharePoint farm](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-sharepoint)
+    - [Replace your tape library](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-cloud-as-tape)
+  - Offline backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/offline-backup-overview)
+    - [Offline Backup with Azure Data Box MARS](https://learn.microsoft.com/en-us/azure/backup/offline-backup-azure-data-box)
+    - [Offline Backup with Azure Data Box DPM/MABS](https://learn.microsoft.com/en-us/azure/backup/offline-backup-azure-data-box-dpm-mabs)
+    - [Offline Backup with Import/Export MARS](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-import-export)
+    - [Offline Backup with Import/Export DPM/MABS](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-server-import-export)
+    - [Offline Backup for DPM and MABS previous versions](https://learn.microsoft.com/en-us/azure/backup/offline-backup-server-previous-versions)
+  - Monitoring
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/monitoring-and-alerts-overview)
+    - [FAQ-Azure Backup Monitoring and Reporting](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-alert-faq.yml)
+    - [Review backup estate](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-built-in-monitor)
+    - [Monitor Azure Backup](https://learn.microsoft.com/en-us/azure/backup/monitor-backup)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/backup/monitor-backup-reference)
+    - Alerts
+      - [Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-alerts)
+      - [Metrics](https://learn.microsoft.com/en-us/azure/backup/metrics-overview)
+      - [Logs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-use-azuremonitor)
+      - [Configure notifications](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-alerts-notification)
+      - [Classic Alerts](https://learn.microsoft.com/en-us/azure/backup/move-to-azure-monitor-alerts)
+  - Reporting
+    - Configure Azure Backup reports
+      - [Configure Report](https://learn.microsoft.com/en-us/azure/backup/configure-reports)
+      - [View Report](https://learn.microsoft.com/en-us/azure/backup/view-reports)
+      - [Email Report](https://learn.microsoft.com/en-us/azure/backup/backup-reports-email)
+    - Configure Diagnostics Events
+      - [Use Diagnostic Settings with Log Analytics](https://learn.microsoft.com/en-us/azure/backup/backup-azure-diagnostic-events)
+      - [Log Analytics Data Model for Resource Specific Diagnostic Events](https://learn.microsoft.com/en-us/azure/backup/backup-azure-reports-data-model)
+      - [Log Analytics Data Model for Legacy Diagnostic Events](https://learn.microsoft.com/en-us/azure/backup/backup-azure-diagnostics-mode-data-model)
+      - [System Functions](https://learn.microsoft.com/en-us/azure/backup/backup-reports-system-functions)
+    - [Backup Explorer](https://learn.microsoft.com/en-us/azure/backup/monitor-azure-backup-with-backup-explorer)
+  - Automation
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/automation-backup)
+    - [Support matrix for automation](https://learn.microsoft.com/en-us/azure/backup/backup-support-automation)
+    - Built-in Azure Policy for Azure Backup
+      - [Auto-Enable Backup on VM Creation using Azure Policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-auto-enable-backup)
+      - [Configure vault diagnostics settings at scale](https://learn.microsoft.com/en-us/azure/backup/azure-policy-configure-diagnostics)
+      - [Audit and Enforce backup for Azure Files using Azure policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files-policy-automation)
+      - [Audit and Enforce backup for Managed Disks using Azure policy](https://learn.microsoft.com/en-us/azure/backup/backup-managed-disks-policy)
+      - [Audit and Enforce backup operations for Azure Kubernetes Service clusters using Azure policy](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-policy)
+    - Use PowerShell
+      - [Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-automation)
+      - [Data Protection Manager DPM](https://learn.microsoft.com/en-us/azure/backup/backup-dpm-automation)
+      - [Windows Server using the MARS agent](https://learn.microsoft.com/en-us/azure/backup/backup-client-automation)
+      - [SQL in Azure VM backups](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-automation)
+      - [Azure PowerShell Samples](https://learn.microsoft.com/en-us/azure/backup/powershell-backup-samples)
+    - [Use Azure CLI](https://learn.microsoft.com/en-us/azure/backup/create-manage-azure-services-using-azure-command-line-interface)
+    - Use Azure Backup REST API
+      - [Create Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-createorupdatevault)
+      - [Update Recovery Services vault configurations](https://learn.microsoft.com/en-us/azure/backup/use-restapi-update-vault-properties)
+      - [Create and update backup policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-createorupdatepolicy)
+      - [Back up Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-backupazurevms)
+      - [Restore Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-restoreazurevms)
+      - [Manage Azure Backup jobs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-arm-userestapi-managejobs)
+    - [Use Azure Data Protection REST API](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dataprotection-use-rest-api-create-update-backup-vault)
+    - [Query backup information using ARG](https://learn.microsoft.com/en-us/azure/backup/query-backups-using-azure-resource-graph)
+    - [Resource Manager and Bicep files](https://learn.microsoft.com/en-us/azure/backup/backup-rm-template-samples)
+  - Troubleshoot
+    - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/backup-vault-troubleshoot)
+    - [Azure VM](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-troubleshoot)
+    - [Azure VM file recovery](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vm-file-recovery-troubleshoot)
+    - [Azure Backup agent or VM extension timed out](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-vm-backup-fails-snapshot-timeout)
+    - [Encrypted Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-encrypted-vm-troubleshoot)
+    - [Azure Backup agent](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mars-troubleshoot)
+    - [Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-blob-backup)
+    - [Azure Data Lake Storage vaulted backup](https://learn.microsoft.com/en-us/azure/backup/azure-data-lake-storage-backup-troubleshoot)
+    - [Files and folders backup is slow](https://learn.microsoft.com/en-us/azure/backup/backup-azure-troubleshoot-slow-backup-performance-issue)
+    - [Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mabs-troubleshoot)
+    - [Azure Backup Vault](https://learn.microsoft.com/en-us/azure/backup/backup-azure-backup-vault-troubleshoot)
+    - [System Center DPM](https://learn.microsoft.com/en-us/azure/backup/backup-azure-scdpm-troubleshooting)
+    - [Azure Files](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-azure-files)
+    - [Azure Disk Backup](https://learn.microsoft.com/en-us/azure/backup/disk-backup-troubleshoot)
+    - [SQL Server](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-azure-troubleshoot)
+    - [Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-troubleshoot)
+    - [Azure Database for PostgreSQL - Flexible server backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-troubleshoot)
+    - [Azure Database for MySQL - Flexible Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-troubleshoot)
+    - [SAP HANA backup in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database-troubleshoot)
+    - [SAP HANA database instance backup in Azure VM](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-instance-troubleshoot)
+    - [SAP ASE database backup in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-sap-ase-sybase-database-backup)
+    - [System State](https://learn.microsoft.com/en-us/azure/backup/backup-azure-system-state-troubleshoot)
+    - [Archive tier](https://learn.microsoft.com/en-us/azure/backup/troubleshoot-archive-tier)
+    - [Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-backup-troubleshoot)
+    - [Data recovery from Microsoft Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server-troubleshoot)
+    - [Monitoring and  alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitor-troubleshoot)
   - Script samples
     - [Pre-Backup and Post-Backup Scripts](https://learn.microsoft.com/en-us/azure/backup/pre-backup-post-backup-scripts)
     - [Find Vault for Storage Account PowerShell Script](https://learn.microsoft.com/en-us/azure/backup/scripts/backup-powershell-script-find-recovery-services-vault)
@@ -526,6 +536,13 @@
     - [Create/ modify the file and folder backup policy](https://learn.microsoft.com/en-us/azure/backup/scripts/set-file-folder-backup-policy)
     - [Create/ modify the system state backup policy](https://learn.microsoft.com/en-us/azure/backup/scripts/set-system-state-backup-policy)
   - Reference
+    - [Azure Backup guidance and best practices](https://learn.microsoft.com/en-us/azure/backup/guidance-best-practices)
+    - [Azure Backup terminology](https://learn.microsoft.com/en-us/azure/backup/azure-backup-glossary)
+    - [Azure Backup support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix)
+    - [Active Directory domain controllers backup /restore](https://learn.microsoft.com/en-us/azure/backup/active-directory-backup-restore)
+    - Reliability
+      - [Reliability in Azure Backup](https://learn.microsoft.com/azure/reliability/reliability-backup?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Migrate to availability zone support](https://learn.microsoft.com/azure/reliability/migrate-recovery-services-vault?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
     - [Archived release notes](https://learn.microsoft.com/en-us/azure/backup/backup-release-notes-archived)
     - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.recoveryservices.backup)
     - [Azure CLI](https://learn.microsoft.com/cli/azure/backup)

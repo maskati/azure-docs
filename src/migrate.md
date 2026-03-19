@@ -3,6 +3,7 @@
   - [Azure Migrate Documentation](https://learn.microsoft.com/en-us/azure/migrate/)
   - Overview
     - [What is Azure Migrate?](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
+    - [What is Azure Copilot Migration Agent?](https://learn.microsoft.com/en-us/azure/migrate/azure-copilot-migration-agent)
     - [What's new](https://learn.microsoft.com/en-us/azure/migrate/whats-new)
   - Quickstarts
     - [Prepare Azure accounts using built-in roles](https://learn.microsoft.com/en-us/azure/migrate/prepare-azure-accounts)
@@ -22,7 +23,6 @@
     - [Assessment rules for PostgreSQL](https://learn.microsoft.com/en-us/azure/migrate/assessment-rules-for-postgresql)
     - [Agentless migration architecture](https://learn.microsoft.com/en-us/azure/migrate/concepts-vmware-agentless-migration)
     - [Hyper-V migration architecture](https://learn.microsoft.com/en-us/azure/migrate/hyper-v-migration-architecture)
-    - [Azure Copilot Migration Agent](https://learn.microsoft.com/en-us/azure/migrate/azure-copilot-migration-agent)
     - [VMware agentless migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-agentless-migration)
     - [Hydration process workflow](https://learn.microsoft.com/en-us/azure/migrate/hydration-process)
   - Discover inventory

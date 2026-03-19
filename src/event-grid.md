@@ -105,6 +105,7 @@
         - [Delivery and retry](https://learn.microsoft.com/en-us/azure/event-grid/namespace-delivery-retry)
         - [Event filtering](https://learn.microsoft.com/en-us/azure/event-grid/namespace-event-filtering)
         - [Custom domains for namespaces](https://learn.microsoft.com/en-us/azure/event-grid/custom-domains-namespaces)
+        - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json)
         - Security
           - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/event-grid-security-baseline?toc=/azure/event-grid/toc.json)
           - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/event-grid/security-controls-policy)
@@ -254,7 +255,7 @@
         - [Endpoint validation with Event Grid event schema](https://learn.microsoft.com/en-us/azure/event-grid/end-point-validation-event-grid-events-schema)
         - [Event schema compatibility](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-compatibility)
         - [Custom delivery properties](https://learn.microsoft.com/en-us/azure/event-grid/delivery-properties)
-      - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json)
+      - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json)
       - Security
         - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/event-grid-security-baseline?toc=/azure/event-grid/toc.json)
         - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/event-grid/security-controls-policy)
