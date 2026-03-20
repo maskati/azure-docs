@@ -44,9 +44,7 @@
       - [Monitor and manage sessions](https://learn.microsoft.com/en-us/azure/bastion/session-monitoring)
       - [Configure session recording](https://learn.microsoft.com/en-us/azure/bastion/session-recording)
     - Platform
-      - Configure host scaling
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling-powershell)
+      - [Configure host scaling](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling)
       - [Design architecture](https://learn.microsoft.com/en-us/azure/bastion/design-architecture)
       - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-bastion?toc=/azure/bastion/TOC.json)
     - [Bastion configuration settings](https://learn.microsoft.com/en-us/azure/bastion/configuration-settings)

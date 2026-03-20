@@ -33,6 +33,7 @@
       - [Create a custom image for a confidential VM](https://learn.microsoft.com/en-us/azure/confidential-computing/how-to-create-custom-image-confidential-vm)
       - [How to migrate nested confidential VMs from one region to another](https://learn.microsoft.com/en-us/azure/confidential-computing/migrate-nested-confidential-vms)
       - [Virtual Machine Metablob Disk](https://learn.microsoft.com/en-us/azure/confidential-computing/virtual-machine-metablob-disk)
+      - [How to disable Virtual Machine Metablob Disk](https://learn.microsoft.com/en-us/azure/confidential-computing/disable-confidential-vm-metadata-blob)
       - Quickly create confidential VMs
         - [Create a Confidential VM through the Azure portal](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-portal)
         - [Create a Confidential VM through Azure CLI](https://learn.microsoft.com/en-us/azure/confidential-computing/quick-create-confidential-vm-azure-cli)

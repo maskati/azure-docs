@@ -32,6 +32,12 @@
         - [Internet routing preference in Azure](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/routing-preference-overview)
       - Security
         - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/networking/security-controls-policy)
+        - Zero Trust network security
+          - [Zero Trust network security recommendations](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-network-security)
+          - [Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-ddos-protection)
+          - [Azure Firewall](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-azure-firewall)
+          - [Application Gateway WAF](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-application-gateway-waf)
+          - [Azure Front Door WAF](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-front-door-waf)
       - [Virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=%2fazure%2fnetworking%2ftoc.json)
       - [Network load balancing](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview?toc=%2fazure%2fnetworking%2ftoc.json)
       - [Application load balancing](https://learn.microsoft.com/en-us/azure/application-gateway/overview?toc=%2fazure%2fnetworking%2ftoc.json)

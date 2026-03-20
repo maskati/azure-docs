@@ -120,7 +120,7 @@
       - [Security overview](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/functions-security-baseline?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - Reliability
-      - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Reliability in Azure Functions](https://learn.microsoft.com/azure/reliability/reliability-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Zone redundancy](https://learn.microsoft.com/en-us/azure/azure-functions/functions-zone-redundancy)
       - [Migrate to a zone-redundant plan](https://learn.microsoft.com/azure/reliability/migrate-functions?toc=%2fazure%2fazure-functions%2ftoc.json)
     - [Diagnostics](https://learn.microsoft.com/en-us/azure/azure-functions/functions-diagnostics)
