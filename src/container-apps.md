@@ -126,6 +126,7 @@
     - Migration
       - [Heroku migration overview](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku-overview)
       - [Migrate from Heroku](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku)
+    - [Azure Developer CLI azd templates](https://learn.microsoft.com/en-us/azure/container-apps/container-apps-cli-templates)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
     - Troubleshoot and resolve issues with an agent

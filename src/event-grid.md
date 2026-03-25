@@ -42,6 +42,7 @@
           - [MQTT client authentication using certificates](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-certificate-authentication)
           - [Microsoft Entra JWT authentication and RBAC authorization for clients](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac)
           - [OAuth 2.0 JSON Web Token authentication and authorization for clients](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-custom-jwt)
+          - [Custom webhook authentication](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-webhook-authentication)
           - [Transport Layer Security connection with MQTT broker](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-transport-layer-security-flow)
         - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json)
         - Security

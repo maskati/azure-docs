@@ -73,6 +73,7 @@
     - Migrate from previous versions
       - [Android SDK migration guide](https://learn.microsoft.com/en-us/azure/azure-maps/android-sdk-migration-guide)
       - [iOS SDK migration guide](https://learn.microsoft.com/en-us/azure/azure-maps/ios-sdk-migration-guide)
+      - [Migrate Azure Maps Search 1.0 APIs](https://learn.microsoft.com/en-us/azure/azure-maps/migrate-search-v1-api)
       - [Migrate Azure Maps Route 1.0 APIs](https://learn.microsoft.com/en-us/azure/azure-maps/migrate-route-v1-api)
       - [Migrate Azure Maps Traffic 1.0 APIs](https://learn.microsoft.com/en-us/azure/azure-maps/migrate-traffic-v1-api)
     - Manage Maps accounts

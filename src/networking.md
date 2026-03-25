@@ -17,6 +17,7 @@
       - [Choose a secure network topology](https://learn.microsoft.com/en-us/azure/networking/secure-network-topology)
       - [Choose a secure application delivery service](https://learn.microsoft.com/en-us/azure/networking/secure-application-delivery)
     - Plan and design
+      - [Design a secure hub-spoke network](https://learn.microsoft.com/en-us/azure/networking/cross-service-scenarios/design-secure-hub-spoke-network)
       - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support)
       - [Virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm?toc=%2fazure%2fnetworking%2ftoc.json)
       - [Cross-premises connectivity - VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?toc=%2fazure%2fnetworking%2ftoc.json)
