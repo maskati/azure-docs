@@ -12,7 +12,7 @@
   - Quickstarts
     - Scenarios
       - [Scalable web API](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
-      - [Process file uploads](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-blob-storage-events)
+      - [Respond to blob storage events](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-blob-storage-events)
       - AI tools and MCP
         - [Custom remote MCP server](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
         - [MCP Apps](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
@@ -49,7 +49,6 @@
   - Tutorials
     - [Functions with Logic Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-twitter-email)
     - [Host MCP servers for AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-tutorial)
-    - [Develop Python functions with VS Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
     - [Create serverless APIs using Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio)
     - [OpenTelemetry distributed tracing](https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions-opentelemetry-distributed-tracing)
     - Networking
@@ -62,12 +61,15 @@
       - [Access Azure SQL with managed identity](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity)
     - [Low-latency Blob trigger using Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-grid-blob-trigger)
     - [Image resize with Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
-    - [Create a serverless web app](https://learn.microsoft.com/training/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/)
+    - [Real-time serverless app with SignalR](https://learn.microsoft.com/azure/azure-signalr/signalr-tutorial-authenticate-azure-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - Data + AI
       - [Azure OpenAI for text completion](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion)
       - [Machine learning with TensorFlow](https://learn.microsoft.com/en-us/azure/azure-functions/functions-machine-learning-tensorflow)
       - [Image classification with PyTorch](https://learn.microsoft.com/en-us/azure/azure-functions/machine-learning-pytorch)
     - [Functions on IoT Edge device](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+    - Azure Files storage mounts
+      - [Process images with FFmpeg on a mounted share](https://learn.microsoft.com/en-us/azure/azure-functions/tutorial-ffmpeg-processing-azure-files)
+      - [Durable text analysis on a mounted share](https://learn.microsoft.com/en-us/azure/azure-functions/durable/tutorial-durable-text-analysis-azure-files?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [Java with Azure Cosmos DB and Event Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-hub-cosmos-db)
   - Samples
     - [Azure Functions Samples in Github](https://github.com/search?q=topic%3Aazure-functions+org%3AAzure-Samples+fork%3Atrue&type=repositories)
@@ -86,6 +88,7 @@
       - [Performance and reliability](https://learn.microsoft.com/en-us/azure/azure-functions/performance-reliability)
       - [Manage connections](https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections)
       - [Storage considerations](https://learn.microsoft.com/en-us/azure/azure-functions/storage-considerations)
+      - [Choose a file access strategy](https://learn.microsoft.com/en-us/azure/azure-functions/concept-file-access-options)
       - [Error handling and function retries](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages)
       - [Security](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
     - [Compare runtime versions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions)
