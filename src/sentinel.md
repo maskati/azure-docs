@@ -316,6 +316,7 @@
     - KQL for data lake exploration
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-overview)
       - [Run KQL queries](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-queries)
+      - [KQL using the API](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-queries-api)
       - [Sample KQL queries](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-sample-queries)
       - [Create KQL jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs)
       - [Manage KQL jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-manage-jobs)

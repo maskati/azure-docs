@@ -59,6 +59,7 @@
     - [Virtual hub settings](https://learn.microsoft.com/en-us/azure/virtual-wan/hub-settings)
     - [Connect a VNet to a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-connect-vnet-hub)
     - [Connect cross-tenant virtual networks to a Virtual WAN hub](https://learn.microsoft.com/en-us/azure/virtual-wan/cross-tenant-vnet)
+    - [Delete a VNet Connected to a Virtual WAN hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-remove-vnet-connection)
     - Secured virtual hub
       - [What is a secured virtual hub?](https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
       - [Convert a virtual hub to a secured virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall)

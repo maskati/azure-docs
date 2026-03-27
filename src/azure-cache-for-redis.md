@@ -13,7 +13,14 @@
         - [Create Redis cache - ARM template](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/redis-cache-arm-provision)
         - [Java app](https://learn.microsoft.com/azure/redis/java-get-started)
   - Migration
-    - [Migrate to Azure Managed Redis](https://learn.microsoft.com/azure/redis/migrate/migrate-overview)
+    - Migrate Basic, Standard, or Premium tiers to Azure Managed Redis
+      - [Overview](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-overview)
+      - [Understand](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-understand)
+      - [Self-service](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-self-service)
+    - Migrate Enterprise tier to Azure Managed Redis
+      - [Overview](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-overview)
+      - [Understand](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-understand)
+      - [Self-service](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-self-service)
     - [Migrate to Azure Redis from other caches](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-migration-guide)
   - Azure Cache for Redis
     - [About Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)

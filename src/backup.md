@@ -62,7 +62,6 @@
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-how-to-manage)
     - Secure by default with soft delete
       - [Overview of soft delete](https://learn.microsoft.com/en-us/azure/backup/secure-by-default)
-      - [Overview of enhanced soft delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-about)
       - [FAQ-Soft Delete](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-backup-faq.yml)
       - Manage soft deleted data
         - [Manage soft deleted items](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-configure-manage)
