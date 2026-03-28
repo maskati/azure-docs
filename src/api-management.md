@@ -56,7 +56,7 @@
       - [Import an App Service web API](https://learn.microsoft.com/en-us/azure/api-management/import-app-service-as-api)
       - [Import a Container App web API](https://learn.microsoft.com/en-us/azure/api-management/import-container-app-with-oas)
       - [Import a Function App web API](https://learn.microsoft.com/en-us/azure/api-management/import-function-app-as-api)
-      - [Import a Logic App](https://learn.microsoft.com/en-us/azure/api-management/import-logic-app-as-api)
+      - [Import a Logic App web API](https://learn.microsoft.com/en-us/azure/api-management/import-logic-app-as-api)
       - [Import a WebSocket API](https://learn.microsoft.com/en-us/azure/api-management/websocket-api)
       - [Configure API for server-sent events SSE](https://learn.microsoft.com/en-us/azure/api-management/how-to-server-sent-events)
     - Import non-REST APIs

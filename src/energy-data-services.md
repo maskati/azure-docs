@@ -61,6 +61,7 @@
     - [Convert SEG-Y to oVDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-convert-segy-to-ovds)
     - [Generate auth token](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-generate-auth-token)
     - [Upload large files using file service](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-upload-large-files-using-file-service)
+    - [Manage upgrade settings](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-upgrade-settings)
   - References
     - REST API
       - [Data plane](https://microsoft.github.io/adme-samples/)

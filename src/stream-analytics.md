@@ -120,7 +120,6 @@
       - [Scale cluster size](https://learn.microsoft.com/en-us/azure/stream-analytics/scale-cluster)
       - [Move cluster to another region](https://learn.microsoft.com/en-us/azure/stream-analytics/move-cluster)
     - Build with no code editor
-      - [Build real-time dashboard with Power BI dataset](https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-build-power-bi-dashboard)
       - [Capture Event Hubs data in Delta Lake format](https://learn.microsoft.com/en-us/azure/stream-analytics/capture-event-hub-data-delta-lake)
       - [Capture Event Hubs data in Parquet format](https://learn.microsoft.com/en-us/azure/stream-analytics/capture-event-hub-data-parquet)
       - [Materialize data to Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-materialize-cosmos-db)

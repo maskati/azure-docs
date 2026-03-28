@@ -29,7 +29,6 @@
       - [Migrate to Dataflow Gen2 scenarios](https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1-scenarios?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
       - [Move queries from Dataflow Gen1 to Gen2](https://learn.microsoft.com/fabric/data-factory/move-dataflow-gen1-to-dataflow-gen2?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
       - [Migrate to Dataflow Gen2 using Save As](https://learn.microsoft.com/fabric/data-factory/migrate-to-dataflow-gen2-using-save-as?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
-      - [How to ingest data from ADF to Fabric](https://learn.microsoft.com/fabric/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
   - Quickstarts
     - [Get started with Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-get-started)
     - [Create a data factory](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory)

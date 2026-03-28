@@ -123,9 +123,13 @@
         - [Storage mount](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-storage-mount-failures)
         - [Target port](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-target-port-settings)
         - [Container start](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-start-failures)
-    - Migration
+    - Migrate to Azure Container Apps
       - [Heroku migration overview](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku-overview)
       - [Migrate from Heroku](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku)
+      - [Migrate Spring Boot applications](https://learn.microsoft.com/en-us/azure/container-apps/migrate-spring-boot)
+      - [Migrate Spring Cloud applications](https://learn.microsoft.com/en-us/azure/container-apps/migrate-spring-cloud)
+      - [Migrate Tomcat applications](https://learn.microsoft.com/en-us/azure/container-apps/migrate-tomcat)
+      - [Migrate Java with GitHub Copilot app modernization](https://learn.microsoft.com/en-us/azure/container-apps/migrate-java-github-copilot-app-modernization)
     - [Azure Developer CLI azd templates](https://learn.microsoft.com/en-us/azure/container-apps/container-apps-cli-templates)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
