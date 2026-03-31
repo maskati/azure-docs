@@ -9,7 +9,7 @@
     - Quickstarts & Tutorials
       - [Create and manage a VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
       - Configure a site-to-site connection
-        - [Preshared key](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
+        - [Shared key](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
         - [Certificate authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal)
       - Configure a point-to-site connection
         - [Certificate authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway)
@@ -37,7 +37,6 @@
       - [Remove the Basic SKU public IP reference - Basic SKU VPN gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-sku-public-ip-remove)
     - [About active-active mode gateways](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways)
     - [VPN Gateway configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
-    - [IPv6 configuration settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipv6-configuration)
     - [About site-to-site VPN connections with certificate authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-about)
   - Create & manage a VPN gateway
     - Create a VPN gateway
@@ -60,7 +59,7 @@
     - [Reset a gateway or gateway connection](https://learn.microsoft.com/en-us/azure/vpn-gateway/reset-gateway)
     - [Configure gateway maintenance](https://learn.microsoft.com/en-us/azure/vpn-gateway/customer-controlled-gateway-maintenance)
   - Site-to-site S2S VPN
-    - Configure site-to-site connections - preshared key
+    - Configure site-to-site connections - shared key
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell)
       - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli)
@@ -162,6 +161,9 @@
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-versions)
       - [Report Azure VPN Client problems - Feedback Hub](https://learn.microsoft.com/troubleshoot/azure/vpn-gateway/feedback-hub-azure-vpn-client?toc=/azure/vpn-gateway/TOC.json)
     - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
+  - IPv6 dual stack connections
+    - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipv6-configuration)
+    - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-ipv6-azure-cli)
   - VNet-to-VNet VPN
     - Configure VNet-to-VNet VPN connections
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)

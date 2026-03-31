@@ -16,7 +16,7 @@
     - [Understanding IoT hub IP address](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-understand-ip-address)
     - [Choose an IoT Hub SDK](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
     - Protocol support
-      - [MQTT support](https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-connect-to-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+      - [MQTT support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-mqtt-connect-to-iot-hub)
       - [AMQP support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-amqp-support)
       - [Supporting additional protocols](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway)
     - [Compare IoT Hub and Event Hubs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-compare-event-hubs)
@@ -98,6 +98,7 @@
     - [Read device-to-cloud messages from the built-in endpoint](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-read-builtin)
     - [Understand message enrichments](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-message-enrichments-overview)
     - [Use message enrichments](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-message-enrichments)
+    - [Tutorial - Connect a device with MQTT](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-use-mqtt)
   - Authentication and authorization
     - [Built-in RBAC roles for IoT](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles/internet-of-things?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
     - [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-azure-ad)
@@ -122,6 +123,7 @@
     - [Reliability in IoT Hub](https://learn.microsoft.com/azure/reliability/reliability-iot-hub?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
     - [Reliability in Azure Device Registry](https://learn.microsoft.com/azure/reliability/reliability-device-registry?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
     - [Disable disaster recovery](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-disable-dr)
+    - [Manage device reconnections](https://learn.microsoft.com/en-us/azure/iot-hub/concepts-manage-device-reconnections)
     - [Perform manual failover](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-manual-failover)
   - Troubleshooting
     - [Troubleshoot device connectivity](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-troubleshoot-connectivity)
@@ -153,7 +155,6 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/iot-hub/policy-reference)
     - [X.509 certificates](https://learn.microsoft.com/en-us/azure/iot-hub/reference-x509-certificates)
-    - Feature and API retirement
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/iot-hub/monitor-iot-hub-reference)
   - Resources
     - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
@@ -166,7 +167,7 @@
       - [Azure Maps](https://learn.microsoft.com/en-us/azure/azure-maps/)
     - Azure IoT SDKs
       - [IoT Service SDKs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
-      - [IoT Device SDKs](https://learn.microsoft.com/en-us/azure/iot/iot-sdks)
+      - [IoT Device SDKs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-sdks)
     - Azure IoT samples
       - [C# .NET](https://github.com/Azure/azure-iot-sdk-csharp)
       - [Node.js](https://github.com/Azure/azure-iot-sdk-node/tree/main/device/samples)

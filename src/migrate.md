@@ -69,6 +69,9 @@
     - [Business case overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-business-case-calculation)
     - [Build a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
     - [Review business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-view-a-business-case)
+  - Create Reports
+    - [Overview reports](https://learn.microsoft.com/en-us/azure/migrate/reports-overview)
+    - [Build a report](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-report)
   - Plan migrations
     - Assessments
       - [Overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-overview)

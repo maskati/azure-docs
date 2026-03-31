@@ -141,7 +141,9 @@
       - [Custom RBAC](https://learn.microsoft.com/en-us/azure/iot-operations/reference/custom-rbac)
       - Available metrics for observability
         - [MQTT broker](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-mqtt-broker)
+        - [Data flows](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-data-flows)
         - [Connector for OPC UA](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-opcua-broker)
+        - [Akri and connectors](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-akri-connectors)
         - [Layered Network Management](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-layered-network)
       - [MQTT support](https://learn.microsoft.com/en-us/azure/iot-operations/reference/mqtt-support)
       - [IoT Glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary?toc=/azure/iot-operations/toc.json&bc=/azure/iot-operations/breadcrumb/toc.json)

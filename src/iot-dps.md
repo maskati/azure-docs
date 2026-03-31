@@ -39,7 +39,7 @@
     - [High availability and disaster recovery](https://learn.microsoft.com/en-us/azure/iot-dps/iot-dps-ha-dr)
     - [Understanding DPS IP addresses](https://learn.microsoft.com/en-us/azure/iot-dps/iot-dps-understand-ip-address)
     - Protocols
-      - [MQTT support](https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-connect-to-iot-dps?toc=/azure/iot-dps/toc.json&bc=/azure/iot-dps/breadcrumb/toc.json)
+      - [MQTT support](https://learn.microsoft.com/en-us/azure/iot-dps/iot-mqtt-connect-to-iot-dps)
       - [TLS support](https://learn.microsoft.com/en-us/azure/iot-dps/tls-support)
     - [Security practices for device manufacturers](https://learn.microsoft.com/en-us/azure/iot-dps/concepts-device-oem-security-practices)
   - How-to guides

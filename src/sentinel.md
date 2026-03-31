@@ -433,6 +433,7 @@
     - [Sentinel solution quality guidelines](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solution-quality-guidance)
     - [Microsoft Sentinel solution setup essentials](https://learn.microsoft.com/en-us/azure/sentinel/solution-setup-essentials)
     - Sentinel SIEM content
+      - [Create custom connectors using AI agent in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector-builder-agent)
       - [Creating codeless data connectors CCF](https://learn.microsoft.com/en-us/azure/sentinel/create-codeless-connector)
       - [Creating push codeless data connectors CCF](https://learn.microsoft.com/en-us/azure/sentinel/create-push-codeless-connector)
       - [Creating analytics rules](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-analytic-rules-creation)
