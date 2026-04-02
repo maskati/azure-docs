@@ -255,7 +255,7 @@
           - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/java-petclinic-ai-overview)
           - [Deploy the PetClinic AI sample](https://learn.microsoft.com/en-us/azure/container-apps/java-petclinic-ai-tutorial)
       - Java components
-        - [Launch your first Java microservice apps with managed Java components](https://learn.microsoft.com/en-us/azure/container-apps/java-microservice-get-started)
+        - [Launch Java microservice apps](https://learn.microsoft.com/en-us/azure/container-apps/java-microservice-get-started)
         - [Connect to Eureka Server for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server)
         - [Integrate Eureka Server with Admin for Spring](https://learn.microsoft.com/en-us/azure/container-apps/java-admin-eureka-integration)
         - [Create a highly available Eureka server component cluster](https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-highly-available)

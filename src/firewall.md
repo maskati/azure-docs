@@ -84,9 +84,11 @@
     - Tags
       - [FQDN tags](https://learn.microsoft.com/en-us/azure/firewall/fqdn-tags)
       - [Service tags](https://learn.microsoft.com/en-us/azure/firewall/service-tags)
-      - [Scale outbound SNAT ports](https://learn.microsoft.com/en-us/azure/firewall/integrate-with-nat-gateway)
     - [Application rules with SQL FQDNs](https://learn.microsoft.com/en-us/azure/firewall/sql-fqdn-filtering)
-    - [SNAT private ranges](https://learn.microsoft.com/en-us/azure/firewall/snat-private-range)
+    - SNAT
+      - [SNAT private ranges](https://learn.microsoft.com/en-us/azure/firewall/snat-private-range)
+      - [Scale outbound SNAT ports](https://learn.microsoft.com/en-us/azure/firewall/integrate-with-nat-gateway)
+      - [Scale outbound SNAT ports with zone redundancy](https://learn.microsoft.com/en-us/azure/firewall/integrate-with-nat-gateway-v2)
     - [Customer-controlled maintenance](https://learn.microsoft.com/en-us/azure/firewall/customer-controlled-maintenance)
     - [Packet capture on Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/packet-capture)
   - Secure

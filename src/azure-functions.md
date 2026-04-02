@@ -22,6 +22,7 @@
         - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-sqldb)
       - [Build a serverless workflow](https://learn.microsoft.com/en-us/azure/azure-functions/durable/scenario-build-serverless-workflow?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Run scheduled tasks](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-scheduled-tasks)
+      - [Process real-time events](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-real-time-events-processing)
     - Developer tools
       - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
       - [Command line Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli)

@@ -224,6 +224,7 @@
         - [Partner Events overview partners](https://learn.microsoft.com/en-us/azure/event-grid/partner-events-overview-for-partners)
         - Event sources publishers
           - [Auth0](https://learn.microsoft.com/en-us/azure/event-grid/auth0-overview)
+          - [Stripe](https://learn.microsoft.com/en-us/azure/event-grid/stripe-overview)
           - [Tribal Group](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-tribal-group-events)
           - Microsoft Graph API
             - [Graph API event sources](https://learn.microsoft.com/en-us/azure/event-grid/partner-events-graph-api)
@@ -284,6 +285,7 @@
         - [Onboard as a partner](https://learn.microsoft.com/en-us/azure/event-grid/onboard-partner)
         - [Subscribe to partner events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-partner-events)
         - [Subscribe to Tribal Group events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-tribal-group-events)
+        - [Subscribe to Stripe events](https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-stripe-events)
         - Auth0
           - [Subscribe to Auth0 events](https://learn.microsoft.com/en-us/azure/event-grid/auth0-how-to)
           - [Send Auth0 events to Azure Blob Storage](https://learn.microsoft.com/en-us/azure/event-grid/auth0-log-stream-blob-storage)

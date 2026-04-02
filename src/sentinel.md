@@ -292,8 +292,20 @@
     - [Microsoft Sentinel SIEM service limits](https://learn.microsoft.com/en-us/azure/sentinel/sentinel-service-limits)
   - Microsoft Sentinel platform
     - [Microsoft Sentinel data lake overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-overview)
-    - [Microsoft Sentinel graph overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-graph-overview)
-    - [Compare KQL jobs, summary rules, and search jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs-summary-rules-search-jobs)
+    - Data federation in the Microsoft Sentinel data lake
+      - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/data-federation-overview)
+      - [Set up federated tables](https://learn.microsoft.com/en-us/azure/sentinel/datalake/data-federation-setup)
+      - [Using federated tables](https://learn.microsoft.com/en-us/azure/sentinel/datalake/using-data-federation)
+    - Microsoft Sentinel graph
+      - [Microsoft Sentinel graph overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-graph-overview)
+      - [Graph visualization](https://learn.microsoft.com/en-us/azure/sentinel/datalake/graph-visualization)
+      - Microsoft Sentinel custom graphs
+        - [Custom graphs overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/custom-graphs-overview)
+        - [Create custom graphs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/create-custom-graphs)
+        - [Microsoft Sentinel graph provider reference](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-graph-provider-reference)
+        - [Create custom graph using AI](https://learn.microsoft.com/en-us/azure/sentinel/datalake/create-graphs-with-ai)
+        - [GQL reference for Sentinel custom graph](https://learn.microsoft.com/en-us/azure/sentinel/datalake/gql-reference-for-sentinel-custom-graph)
+        - [Graph REST API](https://learn.microsoft.com/en-us/azure/sentinel/datalake/graph-rest-api)
     - Microsoft Sentinel MCP server
       - [Microsoft Sentinel MCP server overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-overview)
       - Get started with Microsoft Sentinel MCP
@@ -302,7 +314,7 @@
         - [Use Sentinel MCP tools in Copilot Studio](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-copilot-studio)
         - [Use Sentinel MCP tools in Microsoft Foundry](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-azure-ai-foundry)
         - [Use Sentinel MCP tools in Visual Studio Code](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-use-tool-visual-studio-code)
-        - [Use Sentinel MCP connector in ChatGPT](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-chatgpt-connector)
+        - [Use MCP connector in ChatGPT or Claude](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-chatgpt-claude-connector)
       - Tool collection in Microsoft Sentinel MCP
         - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-tools-overview)
         - [Data exploration](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-data-exploration-tool)
@@ -320,7 +332,9 @@
       - [Sample KQL queries](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-sample-queries)
       - [Create KQL jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs)
       - [Manage KQL jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-manage-jobs)
+      - [Compare KQL jobs, summary rules, and search jobs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-jobs-summary-rules-search-jobs)
       - [Troubleshoot KQL for the lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/kql-troubleshoot)
+      - [Workbooks for Microsoft Sentinel data lake](https://learn.microsoft.com/en-us/azure/sentinel/datalake/workbooks-for-data-lake)
     - Notebooks for data lake exploration
       - [Overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/notebooks-overview)
       - [Run notebooks](https://learn.microsoft.com/en-us/azure/sentinel/datalake/notebooks)
@@ -395,6 +409,7 @@
     - Manage data
       - [Data management overview](https://learn.microsoft.com/en-us/azure/sentinel/manage-data-overview)
       - [Manage tables, tiers, and retention](https://learn.microsoft.com/en-us/azure/sentinel/manage-table-tiers-retention)
+      - [Data transformation using filter and split](https://learn.microsoft.com/en-us/azure/sentinel/transformation-filter-split)
   - SOC optimizations
     - [Optimize your security operations](https://learn.microsoft.com/en-us/azure/sentinel/soc-optimization/soc-optimization-access)
     - [Use SOC optimizations programmatically](https://learn.microsoft.com/en-us/azure/sentinel/soc-optimization/soc-optimization-api)
@@ -465,6 +480,7 @@
       - Azure RBAC roles
         - [All Azure roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
         - [Microsoft Sentinel roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
+        - [Configure Microsoft Sentinel scoping row-level RBAC](https://learn.microsoft.com/en-us/azure/sentinel/scoping)
     - Advanced Security Information Model ASIM
       - [ASIM content](https://learn.microsoft.com/en-us/azure/sentinel/normalization-content)
       - [ASIM parsers](https://learn.microsoft.com/en-us/azure/sentinel/normalization-parsers-list)

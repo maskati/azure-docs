@@ -159,6 +159,7 @@
       - [Azure VPN Client - optional settings](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-optional-configurations)
       - [Run Prerequisites Test](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-prerequisites-check)
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-versions)
+      - [Download Azure VPN Client with Windows Package Manager WinGet](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-winget)
       - [Report Azure VPN Client problems - Feedback Hub](https://learn.microsoft.com/troubleshoot/azure/vpn-gateway/feedback-hub-azure-vpn-client?toc=/azure/vpn-gateway/TOC.json)
     - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
   - IPv6 dual stack connections

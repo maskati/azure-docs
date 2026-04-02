@@ -122,6 +122,7 @@
     - [Performance considerations](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-performance)
     - [Billing model](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-billing-model)
     - [Microsoft Entra Authorization](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-azure-ad-authorization)
+    - [Wildcard group role patterns](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-wildcard-group-roles)
     - [Metrics](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-metrics)
     - Security
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-web-pubsub-security-baseline?toc=/azure/azure-web-pubsub/toc.json)

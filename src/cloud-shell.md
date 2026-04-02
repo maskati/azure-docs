@@ -9,9 +9,10 @@
     - [Get started with new storage account New UI](https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/new-storage)
     - [Get started with existing storage account New UI](https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/existing-storage)
   - How to use Azure Cloud Shell
-    - [Use the window Classic UI](https://learn.microsoft.com/en-us/azure/cloud-shell/using-the-shell-window)
-    - [Use the window New UI](https://learn.microsoft.com/en-us/azure/cloud-shell/new-ui-shell-window)
-    - [Use the Cloud Shell editor Classic UI](https://learn.microsoft.com/en-us/azure/cloud-shell/using-cloud-shell-editor)
+    - [Use the window New UI](https://learn.microsoft.com/en-us/azure/cloud-shell/use-the-shell-window-new)
+    - [Use the Cloud Shell editor New UI](https://learn.microsoft.com/en-us/azure/cloud-shell/use-cloud-shell-editor-new)
+    - [Use the window Classic UI](https://learn.microsoft.com/en-us/azure/cloud-shell/use-the-shell-window-classic)
+    - [Use the Cloud Shell editor Classic UI](https://learn.microsoft.com/en-us/azure/cloud-shell/use-cloud-shell-editor-classic)
     - [Persist files in storage](https://learn.microsoft.com/en-us/azure/cloud-shell/persisting-shell-storage)
     - [Predictive IntelliSense in Cloud Shell](https://learn.microsoft.com/en-us/azure/cloud-shell/cloud-shell-predictive-intellisense)
     - [FAQ & Troubleshooting](https://learn.microsoft.com/en-us/azure/cloud-shell/faq-troubleshooting)
