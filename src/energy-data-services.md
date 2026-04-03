@@ -43,7 +43,6 @@
       - [How to enable External Data Services EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-external-data-services)
       - [How to register External Data Services EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-register-external-data-services)
       - [How to enable legal tags restricted COO Country of Origin](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-legal-tags-restricted-country-of-origin)
-      - [How to enable Reservoir DDMS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-reservoir-ddms)
       - [How to manage upgrade settings](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-upgrade-settings)
     - Monitoring
       - [Airflow task logs integration with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-airflow-logs-with-azure-monitor)

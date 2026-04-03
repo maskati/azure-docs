@@ -80,7 +80,7 @@
     - [Create and deploy a container app using the CLI](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-deploy-first-app-cli)
     - [Create and deploy a container app from code](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-deploy-from-code)
     - [Update a container app deployed from code](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-update-from-code)
-    - [Create a functions app deployed from code](https://learn.microsoft.com/en-us/azure/container-apps/functions-container-apps)
+    - [Create a function app deployed from code](https://learn.microsoft.com/en-us/azure/container-apps/functions-container-apps)
     - Connect to apps & services
       - [Communicate between multiple apps](https://learn.microsoft.com/en-us/azure/container-apps/connect-apps)
       - Connect to a cloud service using Service Connector
