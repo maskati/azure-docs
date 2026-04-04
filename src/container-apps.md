@@ -133,21 +133,24 @@
     - [Azure Developer CLI azd templates](https://learn.microsoft.com/en-us/azure/container-apps/container-apps-cli-templates)
   - Observability
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/observability)
-    - Troubleshoot and resolve issues with an agent
+    - Develop and debug with real-time logs
+      - [Log streaming](https://learn.microsoft.com/en-us/azure/container-apps/log-streaming)
+      - [Container console](https://learn.microsoft.com/en-us/azure/container-apps/container-console)
+      - [Container debug console](https://learn.microsoft.com/en-us/azure/container-apps/container-debug-console)
+    - Monitor production workloads
+      - [Application logging](https://learn.microsoft.com/en-us/azure/container-apps/logging)
+      - [Logging options](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
+      - [Log monitoring](https://learn.microsoft.com/en-us/azure/container-apps/log-monitoring)
+      - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/metrics)
+      - [Alerts](https://learn.microsoft.com/en-us/azure/container-apps/alerts)
+    - End-to-end tracing and dashboards
+      - [Aspire Dashboard](https://learn.microsoft.com/en-us/azure/container-apps/aspire-dashboard)
+      - [OpenTelemetry agents](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents)
+      - [Grafana dashboards](https://learn.microsoft.com/en-us/azure/container-apps/grafana-dashboards)
+    - Troubleshoot and resolve issues with SRE agent
       - [Overview](https://learn.microsoft.com/en-us/azure/sre-agent/overview)
       - [Use an SRE agent](https://learn.microsoft.com/en-us/azure/sre-agent/usage)
       - [Fix app issues with an SRE agent](https://learn.microsoft.com/en-us/azure/sre-agent/troubleshoot-azure-container-apps)
-    - [Application logging](https://learn.microsoft.com/en-us/azure/container-apps/logging)
-    - [Real time data](https://learn.microsoft.com/en-us/azure/container-apps/aspire-dashboard)
-    - [Logging options](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
-    - [Log streaming](https://learn.microsoft.com/en-us/azure/container-apps/log-streaming)
-    - [Container console](https://learn.microsoft.com/en-us/azure/container-apps/container-console)
-    - [Container debug console](https://learn.microsoft.com/en-us/azure/container-apps/container-debug-console)
-    - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/metrics)
-    - [Log monitoring](https://learn.microsoft.com/en-us/azure/container-apps/log-monitoring)
-    - [Alerts](https://learn.microsoft.com/en-us/azure/container-apps/alerts)
-    - [OpenTelemetry agents](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents)
-    - [Grafana dashboards](https://learn.microsoft.com/en-us/azure/container-apps/grafana-dashboards)
   - Scaling & performance
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/scale-app)
     - [Scale a container app](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-scaling)

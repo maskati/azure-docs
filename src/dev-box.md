@@ -54,6 +54,7 @@
     - [Tutorial: Get started with the Dev Box MCP Server](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-get-started-dev-box-mcp-server)
   - Security
     - [Manage project access](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-box-access)
+    - [Enable guest user access](https://learn.microsoft.com/en-us/azure/dev-box/how-to-enable-guest-access)
     - [Configure conditional access policies](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-intune-conditional-access-policies)
     - [Configure elevated privilege for dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-elevate-privilege-dev-box)
     - [Enable single sign-on for dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-enable-single-sign-on)
