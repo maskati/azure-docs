@@ -81,11 +81,11 @@
         - [REST](https://learn.microsoft.com/previous-versions/azure/network-watcher/nsg-flow-logs-rest?toc=/azure/network-watcher/toc.json)
       - [Audit and deploy using Azure Policy](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal)
       - Analyze NSG flow logs
-        - [Use Power BI](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-power-bi)
         - [Use Elastic Stack](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-open-source-tools?toc=/azure/network-watcher/toc.json)
         - [Use Grafana](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-nsg-grafana?toc=/azure/network-watcher/toc.json)
         - [Use Graylog](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-analyze-nsg-flow-logs-graylog?toc=/azure/network-watcher/toc.json)
     - [Read flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-read)
+    - [Visualize flow logs with Power BI](https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-power-bi)
     - [Migrate NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate)
   - Traffic analytics
     - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
