@@ -5,7 +5,7 @@
     - [Functions overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
     - [Scenarios](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenarios)
     - [AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-ai-enabled-apps)
-    - [Getting started](https://learn.microsoft.com/en-us/azure/azure-functions/functions-get-started)
+    - [Get started](https://learn.microsoft.com/en-us/azure/azure-functions/functions-get-started)
     - [Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable-functions/durable-functions-overview)
     - [Serverless comparison](https://learn.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs)
     - [Hosting plan options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale)

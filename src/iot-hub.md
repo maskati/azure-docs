@@ -46,7 +46,6 @@
       - [Device configuration best practices](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configuration-best-practices)
     - Monitor
       - [Monitor IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/monitor-iot-hub)
-      - [Enable message tracing](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-distributed-tracing)
       - [IoT Hub service and resource health](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-azure-service-health-integration)
       - [Use metrics and logs to monitor IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-use-metrics-and-diags)
       - Integration with other services
@@ -80,7 +79,6 @@
     - [Understand cloud-to-device guidance](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-c2d-guidance)
     - [Invoke direct methods on a device](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-direct-methods)
     - [Send cloud-to-device messages](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-cloud-to-device-messaging)
-    - [Overview of IoT Hub device streams preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-streams-overview)
     - [Control a device connected to an IoT hub](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-control-device)
   - Device twins and module twins
     - Device twins
