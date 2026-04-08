@@ -92,6 +92,7 @@
     - [Usage scenarios](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-usage-scenarios)
     - [Schema and data aggregation](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema)
     - [Use queries in traffic analytics](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-queries)
+    - [Rules impact analyzer](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-rule-impact-analyzer)
     - [Integrate Microsoft Sentinel with traffic analytics](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-sentinel)
     - [Apply Zero Trust principles to segment Azure network](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-zero-trust)
     - [Enable traffic analytics using Azure policy](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)

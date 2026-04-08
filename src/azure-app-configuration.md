@@ -172,7 +172,7 @@
     - Geo-replication
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-geo-replication)
       - [Enable geo-replication](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-geo-replication)
-    - [Reliability in App Configuration](https://learn.microsoft.com/azure/reliability/reliability-app-configuration?bc=/azure/bread/toc.json&toc=/azure/app-service/toc.json)
+    - [Reliability in App Configuration](https://learn.microsoft.com/azure/reliability/reliability-app-configuration?bc=/azure/bread/toc.json&toc=/azure/azure-app-configuration/TOC.json)
     - [Resiliency and disaster recovery](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-disaster-recovery)
     - [Availability zone support](https://learn.microsoft.com/azure/reliability/migrate-app-configuration)
   - Samples
