@@ -209,7 +209,6 @@
       - [IBM MQ](https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-mq)
       - [Integration Account](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-metadata)
       - [Microsoft Dataverse](https://learn.microsoft.com/en-us/azure/logic-apps/connectors/dataverse)
-      - [Microsoft Graph Security](https://learn.microsoft.com/en-us/azure/connectors/connectors-integrate-security-operations-create-api-microsoft-graph-security)
       - [Office 365 Outlook](https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-office365-outlook)
       - [Oracle Database](https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-oracledatabase)
       - [Recurrence](https://learn.microsoft.com/en-us/azure/connectors/connectors-native-recurrence)

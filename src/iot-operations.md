@@ -92,7 +92,8 @@
       - [Profiles](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-dataflow-profile)
     - Manage network
       - [Overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/overview-layered-network)
-      - [IoT Operations in layered network](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/concept-iot-operations-in-layered-network)
+      - [Deploy with private connectivity](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-private-connectivity)
+      - [Troubleshoot private connectivity](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-troubleshoot-private-connectivity)
     - Configure observability and monitoring
       - [Deploy observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-configure-observability)
       - [Clean up observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-clean-up-observability-resources)
@@ -128,6 +129,7 @@
       - [Bi-directional messaging with Event Grid](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/tutorial-mqtt-bridge)
       - [Send data to Data Lake Storage](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/tutorial-opc-ua-to-data-lake)
       - [Secure communication with TLS, X.509, and ABAC](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/tutorial-tls-x509)
+      - [Deploy in layered network with private connectivity](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-layered-network-private-connectivity)
     - Troubleshoot
       - [Troubleshoot](https://learn.microsoft.com/en-us/azure/iot-operations/troubleshoot/troubleshoot)
       - [Known issues](https://learn.microsoft.com/en-us/azure/iot-operations/troubleshoot/known-issues)

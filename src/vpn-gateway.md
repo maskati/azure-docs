@@ -164,6 +164,7 @@
     - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
   - IPv6 dual stack connections
     - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipv6-configuration)
+    - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-ipv6-azure-powershell)
     - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-ipv6-azure-cli)
   - VNet-to-VNet VPN
     - Configure VNet-to-VNet VPN connections

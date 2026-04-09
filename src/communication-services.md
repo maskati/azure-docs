@@ -188,6 +188,7 @@
       - [SMS REST](https://learn.microsoft.com/rest/api/communication/sms/operation-groups)
   - Advanced messaging with WhatsApp
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-overview)
+    - [WhatsApp usernames and BSUIDs](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-username-support-overview)
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/pricing)
     - [Advanced messaging for WhatsApp terms of service](https://learn.microsoft.com/en-us/azure/communication-services/concepts/advanced-messaging/whatsapp/whatsapp-terms-of-service)
     - [Messaging policy](https://learn.microsoft.com/en-us/azure/communication-services/concepts/sms/messaging-policy)

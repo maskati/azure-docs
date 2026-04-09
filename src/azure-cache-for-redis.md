@@ -15,12 +15,14 @@
   - Migration
     - Migrate Basic, Standard, or Premium tiers to Azure Managed Redis
       - [Overview](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-overview)
-      - [Understand](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-understand)
-      - [Self-service](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-self-service)
+      - [Understand differences](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-understand)
+      - [Explore migration options](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-options)
+      - [Self-service migration](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-self-service)
+      - [Migration using tooling](https://learn.microsoft.com/azure/redis/migrate/migrate-basic-standard-premium-with-tooling)
     - Migrate Enterprise tier to Azure Managed Redis
       - [Overview](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-overview)
-      - [Understand](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-understand)
-      - [Self-service](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-self-service)
+      - [Understand differences](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-understand)
+      - [Self-service migration](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-self-service)
     - [Migrate to Azure Redis from other caches](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-migration-guide)
   - Azure Cache for Redis
     - [About Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
