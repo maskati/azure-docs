@@ -32,9 +32,8 @@
     - [Manage Standard V2 NAT gateway flow logs](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-flow-logs)
     - [Monitor Standard V2 NAT gateway flow logs](https://learn.microsoft.com/en-us/azure/nat-gateway/monitor-nat-gateway-flow-logs)
   - Troubleshoot
-    - [Troubleshoot NAT gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat)
-    - [Troubleshoot NAT gateway connectivity](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat-connectivity)
-    - [Troubleshoot NAT gateway and Azure services](https://learn.microsoft.com/en-us/azure/nat-gateway/troubleshoot-nat-and-azure-services)
+    - [Troubleshoot Azure NAT Gateway](https://learn.microsoft.com/troubleshoot/azure/nat-gateway/welcome-azure-nat-gateway?toc=/azure/nat-gateway/TOC.json)
+  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-support-help)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/azure-cli-reference-for-network)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)

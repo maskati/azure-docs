@@ -58,7 +58,8 @@
       - [Configure subnet override - Azure CLI](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-subnet-override-cli)
       - [Configure subnet override - PowerShell](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-subnet-override-powershell)
     - Troubleshoot
-      - [Troubleshoot degraded state on Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-troubleshooting-degraded)
+      - [Troubleshoot Azure Traffic Manager](https://learn.microsoft.com/troubleshoot/azure/traffic-manager/welcome-azure-traffic-manager?toc=/azure/traffic-manager/TOC.json)
+  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-support-help)
   - Reference
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=traffic-manager)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.trafficmanager)

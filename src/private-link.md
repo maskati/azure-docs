@@ -68,8 +68,8 @@
     - Network security perimeter
       - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs)
   - Troubleshoot
-    - [Troubleshoot private endpoint connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-endpoint-connectivity)
-    - [Troubleshoot Private Link service connectivity problems](https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-link-connectivity)
+    - [Troubleshoot Azure Private Link](https://learn.microsoft.com/troubleshoot/azure/private-link/welcome-azure-private-link?toc=/azure/private-link/TOC.json)
+  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/private-link/private-link-support-help)
   - Reference
     - [The Azure CLI](https://learn.microsoft.com/cli/azure/network/private-link-service)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)

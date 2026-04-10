@@ -107,7 +107,8 @@
     - Manage private DNS
       - [Use Azure Resource Graph Explorer](https://learn.microsoft.com/en-us/azure/dns/private-dns-arg)
   - Troubleshoot
-    - [Troubleshoot public DNS](https://learn.microsoft.com/en-us/azure/dns/dns-troubleshoot)
+    - [Troubleshoot Azure DNS](https://learn.microsoft.com/troubleshoot/azure/dns/welcome-azure-dns?toc=/azure/dns/TOC.json)
+  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/dns/dns-support-help)
   - Reference
     - Public DNS
       - [Code samples](https://azure.microsoft.com/resources/samples/?service=dns)
