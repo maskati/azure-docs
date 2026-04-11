@@ -12,6 +12,7 @@
     - [Agentic web applications](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-agentic-web-apps)
     - [OpenAPI tools for Foundry agents](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-openapi-tool)
     - [Model Context Protocol servers](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-model-context-protocol-server)
+    - [MCP hosting options](https://learn.microsoft.com/azure/container-apps/mcp-choosing-azure-service?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
     - [Local small language models](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-local-small-language-model)
     - [Secure AI applications](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-authentication)
   - Get started

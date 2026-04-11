@@ -5,7 +5,6 @@
     - [What is Azure Health Data Services?](https://learn.microsoft.com/en-us/azure/healthcare-apis/healthcare-apis-overview)
     - [FHIR service](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/overview)
     - [DICOM service](https://learn.microsoft.com/en-us/azure/healthcare-apis/dicom/dicom-services-overview)
-    - [MedTech service](https://learn.microsoft.com/en-us/azure/healthcare-apis/iot/overview)
     - [De-identification service](https://learn.microsoft.com/en-us/azure/healthcare-apis/deidentification/overview)
     - [Events](https://learn.microsoft.com/en-us/azure/healthcare-apis/events/events-overview)
     - [Azure API for FHIR](https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir/overview)
