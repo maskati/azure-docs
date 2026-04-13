@@ -299,6 +299,7 @@
     - Microsoft Sentinel graph
       - [Microsoft Sentinel graph overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-graph-overview)
       - [Graph visualization](https://learn.microsoft.com/en-us/azure/sentinel/datalake/graph-visualization)
+      - [Identity attack graph](https://learn.microsoft.com/en-us/azure/sentinel/datalake/identity-attack-graph)
       - Microsoft Sentinel custom graphs
         - [Custom graphs overview](https://learn.microsoft.com/en-us/azure/sentinel/datalake/custom-graphs-overview)
         - [Create custom graphs](https://learn.microsoft.com/en-us/azure/sentinel/datalake/create-custom-graphs)
