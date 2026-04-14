@@ -62,7 +62,7 @@
     - Work with a VM session
       - [Copy and paste](https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-copy-paste)
       - [Full screen view](https://learn.microsoft.com/en-us/azure/bastion/bastion-vm-full-screen)
-    - [Troubleshoot](https://learn.microsoft.com/en-us/azure/bastion/troubleshoot)
+  - [Troubleshoot](https://learn.microsoft.com/troubleshoot/azure/bastion/welcome-azure-bastion)
   - Reference
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/)
     - [REST](https://learn.microsoft.com/rest/api/virtualnetwork/bastion-hosts)

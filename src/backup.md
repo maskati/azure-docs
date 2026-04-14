@@ -472,6 +472,9 @@
       - [Log Analytics Data Model for Legacy Diagnostic Events](https://learn.microsoft.com/en-us/azure/backup/backup-azure-diagnostics-mode-data-model)
       - [System Functions](https://learn.microsoft.com/en-us/azure/backup/backup-reports-system-functions)
     - [Backup Explorer](https://learn.microsoft.com/en-us/azure/backup/monitor-azure-backup-with-backup-explorer)
+  - Pricing
+    - [Granular billing](https://learn.microsoft.com/en-us/azure/backup/backup-azure-granular-billing)
+    - [Pricing calculator](https://learn.microsoft.com/en-us/azure/backup/azure-backup-pricing)
   - Automation
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/automation-backup)
     - [Support matrix for automation](https://learn.microsoft.com/en-us/azure/backup/backup-support-automation)
@@ -558,6 +561,5 @@
     - [Compliance](https://learn.microsoft.com/en-us/azure/backup/compliance-offerings)
     - [Azure updates](https://azure.microsoft.com/updates/?searchterms=Azure+Backup)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-backup.html)
-    - [Pricing calculator](https://learn.microsoft.com/en-us/azure/backup/azure-backup-pricing)
     - [Service updates](https://azure.microsoft.com/updates/?product=backup)
     - [Videos](https://learn.microsoft.com/shows/browse?terms=backup)
