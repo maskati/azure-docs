@@ -116,7 +116,7 @@
     - Troubleshooting
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting)
       - Errors and failures
-        - [Container create](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-create-failures)
+        - [Container exits](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-create-failures)
         - [Open Container Initiative OCI](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-open-container-initiative-errors)
         - [Health probe](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-health-probe-failures)
         - [Image pull](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-image-pull-failures)

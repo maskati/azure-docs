@@ -114,6 +114,7 @@
     - [Retrieve metadata using the Azure IMDS](https://learn.microsoft.com/en-us/azure/load-balancer/howto-load-balancer-imds)
     - [Manage admin state](https://learn.microsoft.com/en-us/azure/load-balancer/manage-admin-state-how-to)
     - [Retrieve information using the Azure Instance Metadata Service](https://learn.microsoft.com/en-us/azure/load-balancer/instance-metadata-service-load-balancer)
+    - [Testing inbound frontend IP address reachability](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-test-frontend-reachability)
     - Health probes
       - [Manage health probes](https://learn.microsoft.com/en-us/azure/load-balancer/manage-probes-how-to)
       - [Create a custom HTTP/HTTPS health probe](https://learn.microsoft.com/en-us/azure/load-balancer/create-custom-http-health-probe-howto)
@@ -128,16 +129,7 @@
       - [Standard Load Balancer metrics and diagnostics](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-standard-diagnostics)
       - [Load Balancer Health Event Logs](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-health-event-logs)
       - [Manage Load Balancer health status](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-manage-health-status)
-  - Troubleshoot
-    - [Troubleshoot Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot)
-    - [Testing inbound frontend IP address reachability](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-test-frontend-reachability)
-    - [Health Probe status](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot-health-probe-status)
-    - [Backend pool VM traffic](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot-backend-traffic)
-    - [Troubleshoot SNAT exhaustion and connection timeouts](https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-outbound-connection)
-    - [Resource health and inbound availability issues](https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-rhc)
-    - [Common error codes for Azure Instance Metadata Service IMDS](https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-load-balancer-imds)
-    - [Common deployment errors](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-common-deployment-errors)
-    - [Troubleshoot load balancer health event logs](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot-health-event-logs)
+  - [Support and troubleshooting for Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-support-help)
   - Reference
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=load-balancer)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network)

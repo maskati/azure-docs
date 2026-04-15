@@ -115,8 +115,6 @@
     - [Best practices for performance](https://learn.microsoft.com/en-us/azure/firewall/firewall-best-practices)
     - [Relocate to another region](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json)
     - [Remote work support](https://learn.microsoft.com/en-us/azure/firewall/remote-work-support)
-  - Troubleshooting
-    - [Known issues and limitations](https://learn.microsoft.com/en-us/azure/firewall/firewall-known-issues)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/network/firewall)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/new-azfirewall)
@@ -133,3 +131,4 @@
     - [Community templates](https://github.com/Azure/azure-quickstart-templates?tab=readme-ov-file)
     - [Pricing](https://azure.microsoft.com/pricing/details/azure-firewall/)
     - [Regional availability](https://azure.microsoft.com/regions/services/)
+  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/firewall/support-help)

@@ -108,7 +108,7 @@
       - [WAF insights dashboards](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/insights)
       - [Resource logs](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/web-application-firewall-logs)
       - [Log Analytics](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/log-analytics)
-      - [Troubleshoot](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/web-application-firewall-troubleshoot)
+      - [Troubleshoot](https://learn.microsoft.com/troubleshoot/azure/web-application-firewall/web-application-firewall-troubleshoot)
     - Front Door
       - [Best practices](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-best-practices)
       - [Monitoring and logging](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-monitor)

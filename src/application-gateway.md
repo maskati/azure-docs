@@ -174,7 +174,7 @@
     - [Java](https://learn.microsoft.com/java/api/)
     - [Node.js](https://azure.microsoft.com/develop/nodejs/)
     - [Python](https://azure.microsoft.com/develop/python/)
-    - [REST](https://learn.microsoft.com/rest/api/application-gateway/application-gateways)
+    - [REST API](https://learn.microsoft.com/rest/api/application-gateway/application-gateways)
     - [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/applicationgateways)
   - Resources
