@@ -5,6 +5,7 @@
   - [What is Azure IoT?](https://learn.microsoft.com/en-us/azure/iot/iot-introduction)
   - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
   - [Choose an Azure IoT service](https://learn.microsoft.com/en-us/azure/iot/iot-services-and-technologies)
+  - [IoT device development](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development)
   - Deliver industrial solutions
     - [Implement industrial IoT reference solution](https://learn.microsoft.com/en-us/azure/iot/tutorial-iot-industrial-solution-architecture)
     - [Connect on-premises SAP system to Azure](https://learn.microsoft.com/en-us/azure/iot/howto-connect-on-premises-sap-to-azure)

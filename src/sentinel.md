@@ -380,6 +380,7 @@
         - [Connect Microsoft Sentinel to AWS](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-configure-environment)
         - [AWS service logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws)
         - [AWS S3 WAF logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-s3-waf)
+        - [AWS EKS logs](https://learn.microsoft.com/en-us/azure/sentinel/connect-aws-eks)
         - [Enable attack disruption actions on AWS](https://learn.microsoft.com/en-us/azure/sentinel/aws-disruption)
         - [Troubleshoot AWS S3 connector issues](https://learn.microsoft.com/en-us/azure/sentinel/aws-s3-troubleshoot)
       - [Cisco firewalls](https://learn.microsoft.com/en-us/azure/sentinel/cisco-ftd-firewall)

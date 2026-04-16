@@ -140,3 +140,4 @@
     - [SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)
     - [Regional availability](https://azure.microsoft.com/regions/services/)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-waf)
+  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/web-application-firewall/support-help)
