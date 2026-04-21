@@ -80,6 +80,7 @@
 [Load Balancer documentation](./load-balancer.md)
 [Azure Logic Apps documentation](./logic-apps.md)
 [Azure Managed Grafana documentation](./managed-grafana.md)
+[Microsoft Discovery documentation](./microsoft-discovery.md)
 [Azure Migrate documentation](./migrate.md)
 [Microsoft Azure Migration Hub](./migration.md)
 [Azure NAT Gateway documentation](./nat-gateway.md)

@@ -230,6 +230,7 @@
     - [Azure CLI](https://learn.microsoft.com/cli/azure/offazure)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.migrate/)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/migrate/policy-reference)
+    - [Azure Migration Hub](https://learn.microsoft.com/azure/migration/)
   - Resources
     - [Migration in the Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/)
     - [Contoso migration examples](https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-overview)
