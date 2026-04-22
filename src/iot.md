@@ -5,6 +5,8 @@
   - [What is Azure IoT?](https://learn.microsoft.com/en-us/azure/iot/iot-introduction)
   - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
   - [Choose an Azure IoT service](https://learn.microsoft.com/en-us/azure/iot/iot-services-and-technologies)
+  - [Best practices for namespaces](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-namespace-guidance)
+  - [Best practices for schema registries](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-schema-registry-guidance)
   - [IoT device development](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development)
   - Deliver industrial solutions
     - [Implement industrial IoT reference solution](https://learn.microsoft.com/en-us/azure/iot/tutorial-iot-industrial-solution-architecture)
