@@ -123,6 +123,7 @@
     - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Operational excellence
     - [High availability implementation guide](https://learn.microsoft.com/en-us/azure/frontdoor/high-availability)
+    - [Video on-demand and live streaming](https://learn.microsoft.com/en-us/azure/frontdoor/video-on-demand-live-streaming)
     - [WebSocket](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/websocket)
     - [HTTP/2](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2)
     - [Compression](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-compression)

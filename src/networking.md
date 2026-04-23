@@ -1,97 +1,103 @@
 # Azure networking documentation
 > Learn about the various Azure networking services available that provide connectivity to your resources in Azure, deliver and protect applications, and help secure your network.
-  - Overview
-    - [About Azure networking](https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview)
-    - Architecture
-      - [Azure for network engineers](https://learn.microsoft.com/en-us/azure/networking/azure-for-network-engineers)
-      - [Virtual Datacenters](https://learn.microsoft.com/azure/architecture/vdc/networking-virtual-datacenter)
-      - [Asymmetric routing with multiple network paths](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-asymmetric-routing?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Secure network designs](https://learn.microsoft.com/azure/cloud-adoption-framework/reference/networking-vdc?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Hub-spoke topology](https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
-      - [Network security best practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-best-practices?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Highly available network virtual appliances](https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/nva-ha)
-      - [Combine load balancing methods](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-load-balancing-azure?toc=%2fazure%2fnetworking%2ftoc.json)
-      - Reliability
-        - [Reliability in Azure DNS](https://learn.microsoft.com/azure/reliability/reliability-dns?toc=%2fazure%2fnetworking%2ftoc.json)
-        - [Reliability in Traffic Manager](https://learn.microsoft.com/azure/reliability/reliability-traffic-manager?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Choose a secure network topology](https://learn.microsoft.com/en-us/azure/networking/secure-network-topology)
-      - [Choose a secure application delivery service](https://learn.microsoft.com/en-us/azure/networking/secure-application-delivery)
-    - Plan and design
-      - [Virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Cross-premises connectivity - VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Cross-premises connectivity - dedicated private](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-workflows?toc=%2fazure%2fnetworking%2ftoc.json)
-      - Design cross-service scenarios
-        - [Design a secure hub-spoke network](https://learn.microsoft.com/en-us/azure/networking/cross-service-scenarios/design-secure-hub-spoke-network)
-      - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support)
-      - [Load balancing and content delivery](https://learn.microsoft.com/en-us/azure/networking/load-balancer-content-delivery/)
-      - Backend connectivity interoperability
-        - [Preface and Test Setup](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-preface)
-        - [Control Plane Analysis](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-control-plane)
-        - [Data Plane Analysis](https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-data-plane)
-    - Concepts
-      - [Microsoft global network](https://learn.microsoft.com/en-us/azure/networking/microsoft-global-network)
-        - [Azure network latency](https://learn.microsoft.com/en-us/azure/networking/azure-network-latency)
-        - [Internet routing preference in Azure](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/routing-preference-overview)
-      - Security
-        - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/networking/security-controls-policy)
-        - Zero Trust network security
-          - [Zero Trust network security recommendations](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-network-security)
-          - [Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-ddos-protection)
-          - [Azure Firewall](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-azure-firewall)
-          - [Application Gateway WAF](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-application-gateway-waf)
-          - [Azure Front Door WAF](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-front-door-waf)
-      - [Virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Network load balancing](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Application load balancing](https://learn.microsoft.com/en-us/azure/application-gateway/overview?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [DNS](https://learn.microsoft.com/en-us/azure/dns/dns-overview?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [DNS-based traffic distribution](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Connect on-premises - VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Connect on-premises - dedicated](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [NVA accelerated connections](https://learn.microsoft.com/en-us/azure/networking/nva-accelerated-connections)
-  - Quickstart
-    - [Create your first virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-portal?toc=%2fazure%2fnetworking%2ftoc.json)
-  - How to
-    - Internet connectivity
-      - [Network load balance public servers](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Application load balance public servers](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-portal?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Protect web applications](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-web-application-firewall-portal?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Distribute traffic across locations](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-geographic-routing-method?toc=%2fazure%2fnetworking%2ftoc.json)
-    - Internal connectivity
-      - [Network load balance private servers](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Application load balance private servers](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-ilb-arm?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Connect virtual networks same location](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Connect virtual networks different locations](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal?toc=%2fazure%2fnetworking%2ftoc.json)
-    - Cross-premises connectivity
-      - [Create a S2S VPN connection IPsec/IKE](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Create a P2S VPN connection SSTP with certificates](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway?toc=%2fazure%2fnetworking%2ftoc.json)
-      - [Create a dedicated private connection ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager?toc=%2fazure%2fnetworking%2ftoc.json)
-    - Public cloud connectivity
-      - [Connect Azure to public clouds](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-connect-azure-to-public-cloud?toc=%2fazure%2fnetworking%2ftoc.json)
-    - Management
-      - [Network monitoring overview](https://learn.microsoft.com/en-us/azure/networking/network-monitoring-overview)
-      - [Check resource usage against Azure limits](https://learn.microsoft.com/en-us/azure/networking/check-usage-against-limits)
-      - [View topology](https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-topology?toc=%2fazure%2fnetworking%2ftoc.json)
-    - Security
-      - [Create a Zero Trust network for web applications](https://learn.microsoft.com/en-us/azure/networking/create-zero-trust-network-web-apps)
-    - Tutorials
-      - [Load balance VMs](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
-      - [Connect a computer to a virtual network](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway?toc=%2fazure%2fnetworking%2ftoc.json)
-  - Reference
-    - [Azure CLI](https://learn.microsoft.com/cli/azure/network)
-    - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.network/)
-    - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.network)
-    - [Node.js](https://azure.microsoft.com/develop/nodejs/)
-    - [REST](https://learn.microsoft.com/rest/api/virtual-network/)
-    - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/networking/policy-reference)
+  - [Azure Networking Documentation](https://learn.microsoft.com/en-us/azure/networking/)
+  - Azure Networking overview
+    - [Azure Networking overview](https://learn.microsoft.com/en-us/azure/networking/networking-overview?toc=/azure/networking/toc.json)
+    - [Network foundations overview](https://learn.microsoft.com/en-us/azure/networking/foundations/network-foundations-overview?toc=/azure/networking/toc.json)
+    - [Load balancing and content delivery overview](https://learn.microsoft.com/en-us/azure/networking/load-balancer-content-delivery/load-balancing-content-delivery-overview?toc=/azure/networking/toc.json)
+    - [Network security overview](https://learn.microsoft.com/en-us/azure/networking/security/network-security?toc=/azure/networking/toc.json)
+    - [Hybrid connectivity overview](https://learn.microsoft.com/en-us/azure/networking/hybrid-connectivity/hybrid-connectivity?toc=/azure/networking/toc.json)
+    - [Network monitoring and management overview](https://learn.microsoft.com/en-us/azure/networking/monitoring-management/?toc=/azure/networking/toc.json)
+    - Network foundations
+      - [Network foundations hub](https://learn.microsoft.com/en-us/azure/networking/foundations/)
+      - [Create a virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/quickstart-create-virtual-network?toc=/azure/networking/toc.json)
+    - Load balancing and content delivery
+      - [Create a public load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?toc=/azure/networking/toc.json)
+      - [Create a front door](https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-portal?toc=/azure/networking/toc.json)
+    - Network security
+    - Hybrid connectivity
+    - Network monitoring and management
+  - Plan and Design
+    - [Architecture guides](https://learn.microsoft.com/en-us/azure/networking/architecture-guides?toc=/azure/networking/toc.json)
+    - Design cross-service scenarios
+      - [Design a secure hub-spoke network](https://learn.microsoft.com/en-us/azure/networking/cross-service-scenarios/design-secure-hub-spoke-network?toc=/azure/networking/toc.json)
+    - [Azure for network engineers](https://learn.microsoft.com/en-us/azure/networking/azure-for-network-engineers?toc=/azure/networking/toc.json)
+    - [Working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/networking/toc.json)
+    - [Virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm?toc=/azure/networking/toc.json)
+    - [Hub-spoke network topology in Azure](https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?toc=/azure/networking/toc.json)
+    - Cross-premises connectivity - VPN
+      - [VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/design?toc=/azure/networking/toc.json)
+      - [Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about?toc=/azure/networking/toc.json)
+    - [Cross-premises connectivity - dedicated private](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-workflows?toc=/azure/networking/toc.json)
+    - Microsoft global network
+      - [Overview](https://learn.microsoft.com/en-us/azure/networking/microsoft-global-network?toc=/azure/networking/toc.json)
+      - [Azure network latency](https://learn.microsoft.com/en-us/azure/networking/azure-network-latency?toc=/azure/networking/toc.json)
+      - [Internet routing preference in Azure](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/routing-preference-overview?toc=/azure/networking/toc.json)
+      - Cloud network connectivity
+        - [Virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/networking/toc.json)
+        - [Public IP address](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/networking/toc.json)
+        - [DNS](https://learn.microsoft.com/en-us/azure/dns/dns-overview?toc=/azure/networking/toc.json)
+        - [Route network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview?toc=/azure/networking/toc.json)
+        - Connect virtual networks
+          - [Virtual network peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview?toc=/azure/networking/toc.json)
+          - [Virtual network manager](https://learn.microsoft.com/en-us/azure/virtual-network-manager/overview?toc=/azure/networking/toc.json)
+        - [Private access to resources](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/toc.json)
+        - Connect on-premises to Azure - VPN encryption
+          - [VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?toc=/azure/networking/toc.json)
+          - [Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about?toc=/azure/networking/toc.json)
+        - [Extend on-premises to Azure - private connection](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-connect-azure-to-public-cloud?toc=/azure/networking/toc.json)
+        - [Outbound-only internet connectivity](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview?toc=/azure/networking/toc.json)
+  - Deploy
+    - Deploy networking resources
+      - Create and connect to cloud networks
+        - [Create a virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/quickstart-create-virtual-network?toc=/azure/networking/toc.json)
+        - [Create a public IP address](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/create-public-ip-portal?toc=/azure/networking/toc.json)
+        - [Optimize routing costs](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/routing-preference-portal?toc=/azure/networking/toc.json)
+        - [Create a NAT gateway for outbound connection](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway?toc=/azure/networking/toc.json)
+        - [Create an Azure DNS zone and record](https://learn.microsoft.com/en-us/azure/dns/dns-getstarted-portal?toc=/azure/networking/toc.json)
+        - [Route traffic using route tables](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table?toc=/azure/networking/toc.json)
+      - Connect virtual networks
+        - [Connect virtual networks with peering](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks?toc=/azure/networking/toc.json)
+        - [Create a hub and spoke topology with Virtual Network Manager](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke?toc=/azure/networking/toc.json)
+      - [Private access to resources](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal?toc=/azure/networking/toc.json)
+      - [Connect on-premises network to a virtual network - VPN encryption](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=/azure/networking/toc.json)
+      - [Cross-premises connectivity - dedicated](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager?toc=/azure/networking/toc.json)
+    - Scalable application delivery
+      - [Load balancing and content delivery overview](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/networking/toc.json)
+      - load balancer
+        - [Load balancing options in Azure](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/networking/toc.json)
+        - [Network load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview?toc=/azure/networking/toc.json)
+        - [Create a network load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?toc=/azure/networking/toc.json)
+      - Azure Front Door
+        - [Secure cloud CDN and global load balancer](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview?toc=/azure/networking/toc.json)
+        - [Deploy a secure cloud CDN and global load balancer](https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-portal?toc=/azure/networking/toc.json)
+      - Azure Application Gateway
+        - [Web application load balancer](https://learn.microsoft.com/en-us/azure/application-gateway/overview?toc=/azure/networking/toc.json)
+        - [Create a web application load balancer](https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-portal?toc=/azure/networking/toc.json)
+      - [DNS-based load balancer](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview?toc=/azure/networking/toc.json)
+      - [Create a dns-based load balancer](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile?toc=/azure/networking/toc.json)
+    - [Deploy and manage a VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal?toc=/azure/networking/toc.json)
+    - [Deploy and configure Azure Firewall using the Azure portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal?toc=/azure/networking/toc.json)
+  - Secure
+    - [Restrict network access](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources?toc=/azure/networking/toc.json)
+    - [Filter network traffic](https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?toc=/azure/networking/toc.json)
+    - [Network security groups](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview?toc=/azure/networking/toc.json)
+    - [Private Endpoint](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/toc.json)
+    - [Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/overview?toc=/azure/networking/toc.json)
+    - [Deploy a network firewall](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal?toc=/azure/networking/toc.json)
+    - [Azure Firewall Manager](https://learn.microsoft.com/en-us/azure/firewall-manager/overview?toc=/azure/networking/toc.json)
+    - [DDoS protection](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview?toc=/azure/networking/toc.json)
+    - [Protect your network against DDoS attacks](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection?toc=/azure/networking/toc.json)
+    - [Web Application Firewall](https://learn.microsoft.com/en-us/azure/web-application-firewall/overview?toc=/azure/networking/toc.json)
+    - [Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview?toc=/azure/networking/toc.json)
+    - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/networking/security-controls-policy?toc=/azure/networking/toc.json)
+  - Manage and monitor
+    - [Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview?toc=/azure/networking/toc.json)
+    - [Network insights](https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-overview?toc=/azure/networking/toc.json)
+    - [Monitor communication between Azure resources](https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-create-using-portal?toc=/azure/networking/toc.json)
+    - [View topology](https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-topology?toc=/azure/networking/toc.json)
+    - [Azure Resource Graph queries](https://learn.microsoft.com/en-us/azure/networking/resource-graph-samples?toc=/azure/networking/toc.json)
+  - Troubleshoot
+    - [Troubleshoot Microsoft.Network Failed provisioning state](https://learn.microsoft.com/en-us/azure/networking/troubleshoot-failed-state?toc=/azure/networking/toc.json)
   - Resources
-    - [Author templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax?toc=%2fazure%2fnetworking%2ftoc.json)
-    - [Providers](https://learn.microsoft.com/en-us/azure/networking/networking-partners-msp)
-    - [Community templates](https://azure.microsoft.com/resources/templates/)
-    - [Networking blog](https://azure.microsoft.com/blog/category/networking/)
-    - [Pricing](https://azure.microsoft.com/pricing)
-    - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
-    - [Regional availability](https://azure.microsoft.com/regions/services/)
-    - [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-virtual-network)
-    - [Videos](https://learn.microsoft.com/shows/browse?terms=virtual-network)
-  - Troubleshooting
-    - [Troubleshoot Microsoft.Network Failed provisioning state](https://learn.microsoft.com/en-us/azure/networking/troubleshoot-failed-state)
+    - [Lumenisity UoS Patents](https://learn.microsoft.com/en-us/azure/networking/lumenisity-patent-list?toc=/azure/networking/toc.json)

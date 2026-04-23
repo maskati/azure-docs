@@ -185,6 +185,7 @@
   - Reliability
     - [Reliability in Azure Container Apps](https://learn.microsoft.com/azure/reliability/reliability-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
     - [Create a zone-redundant container app](https://learn.microsoft.com/en-us/azure/container-apps/how-to-zone-redundancy)
+    - [Relocate to another region](https://learn.microsoft.com/en-us/azure/container-apps/relocate-region)
   - Dedicated compute
     - [Workload profiles](https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-overview)
     - Manage workload profiles
