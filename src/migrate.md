@@ -202,7 +202,6 @@
       - [Troubleshoot Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance)
       - [Troubleshoot with appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
       - [Troubleshoot network connectivity for private endpoint](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-network-connectivity)
-    - Workload discovery
     - [Action Center](https://learn.microsoft.com/en-us/azure/migrate/centralized-issue-tracking)
     - [Server discovery](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-discovery)
     - Dependency analysis
