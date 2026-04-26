@@ -79,6 +79,7 @@
 [Azure Logic Apps documentation](./logic-apps.md)
 [Azure Managed Grafana documentation](./managed-grafana.md)
 [Microsoft Discovery documentation](./microsoft-discovery.md)
+[microsoft-opentelemetry](./microsoft-opentelemetry.md)
 [Azure Migrate documentation](./migrate.md)
 [Microsoft Azure Migration Hub](./migration.md)
 [Azure NAT Gateway documentation](./nat-gateway.md)
