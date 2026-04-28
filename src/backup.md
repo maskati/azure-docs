@@ -474,6 +474,8 @@
     - [Backup Explorer](https://learn.microsoft.com/en-us/azure/backup/monitor-azure-backup-with-backup-explorer)
   - Pricing
     - [Granular billing](https://learn.microsoft.com/en-us/azure/backup/backup-azure-granular-billing)
+    - [Optimize storage cost](https://learn.microsoft.com/en-us/azure/backup/backup-azure-reserved-pricing-optimize-cost)
+    - [Reservation discount for storage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-reserved-pricing-overview)
     - [Pricing calculator](https://learn.microsoft.com/en-us/azure/backup/azure-backup-pricing)
   - Automation
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/automation-backup)

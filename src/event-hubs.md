@@ -89,6 +89,7 @@
           - [Authenticate from an application](https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-application)
           - [Authorize access with Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-azure-active-directory)
       - [Network security](https://learn.microsoft.com/en-us/azure/event-hubs/network-security)
+      - [Confidential computing](https://learn.microsoft.com/en-us/azure/event-hubs/confidential-computing)
       - [Network security perimeter](https://learn.microsoft.com/en-us/azure/event-hubs/network-security-perimeter)
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/event-hubs/security-controls-policy)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/event-hubs-security-baseline?toc=/azure/event-hubs/TOC.json)
