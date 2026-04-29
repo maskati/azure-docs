@@ -33,11 +33,13 @@
         - [Create](https://learn.microsoft.com/en-us/azure/backup/backup-create-recovery-services-vault)
         - [Delete](https://learn.microsoft.com/en-us/azure/backup/backup-azure-delete-vault)
         - [Relocate](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-backup?toc=/azure/backup/toc.json)
+        - [Enable managed identity](https://learn.microsoft.com/en-us/azure/backup/enable-managed-identity-recovery-services-vault)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-manage-windows-server)
     - Backup vault
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-vault-overview)
       - Create and manage the vault
         - [Create and delete](https://learn.microsoft.com/en-us/azure/backup/create-manage-backup-vault)
+        - [Enable managed identity](https://learn.microsoft.com/en-us/azure/backup/enable-managed-identity-backup-vault)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-backup-vault)
     - Backup Center
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-center-overview)
