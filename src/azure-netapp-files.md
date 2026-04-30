@@ -264,7 +264,6 @@
         - [Delete volume replications or volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-delete)
         - [Re-establish volume replication relationships](https://learn.microsoft.com/en-us/azure/azure-netapp-files/reestablish-deleted-volume-relationships)
         - [Test disaster recovery with cross-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/test-disaster-recovery)
-        - [Enable cross-subscription replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/enable-cross-subscription-replication)
       - Manage caching
         - [Manage cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-cache-volumes)
       - Manage ransomware protection

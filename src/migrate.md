@@ -62,8 +62,10 @@
   - Explore inventory
     - [Discovered metadata](https://learn.microsoft.com/en-us/azure/migrate/discovered-metadata)
     - [Review discovered inventory](https://learn.microsoft.com/en-us/azure/migrate/how-to-review-discovered-inventory)
-    - [Tags](https://learn.microsoft.com/en-us/azure/migrate/resource-tagging)
     - [Insights](https://learn.microsoft.com/en-us/azure/migrate/insights-overview)
+    - [Tags in Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/resource-tagging)
+    - [Create and manage tags](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-manage-tags)
+    - [Modify and delete tags](https://learn.microsoft.com/en-us/azure/migrate/how-to-modify-delete-tags)
     - [Define and manage applications](https://learn.microsoft.com/en-us/azure/migrate/define-manage-applications)
   - Create Business case
     - [Business case overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-business-case-calculation)
@@ -87,7 +89,7 @@
         - Code level insights
           - [Integrate with CAST highlights](https://learn.microsoft.com/en-us/azure/migrate/cast-highlights-integration)
       - Workload specific assessments
-        - Azure VM assessment
+        - VM assessment
           - [Create an Azure VM assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-assessment)
           - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/vm-assessment-properties)
           - [Target right-sizing](https://learn.microsoft.com/en-us/azure/migrate/target-right-sizing)
@@ -95,11 +97,11 @@
         - Azure VMware Solution AVS assessment
           - [Create an Azure VMware Solution AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-azure-vmware-solution-assessment)
-        - Azure SQL assessment
+        - SQL assessment
           - [Create an Azure SQL assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-sql)
           - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-sql-assessment)
-        - Azure Database for PostgreSQL assessment
+        - PostgreSQL assessment
           - [Create an Azure Database for PostgreSQL assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-postgresql)
           - [Review assessment PostgreSQL report](https://learn.microsoft.com/en-us/azure/migrate/tutorial-review-postgresql-report)
           - [PostgreSQL customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/postgresql-assessment-properties)
