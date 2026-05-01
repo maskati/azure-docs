@@ -45,7 +45,6 @@
   - Connect a device
     - [Create and connect a device](https://learn.microsoft.com/en-us/azure/iot-hub/create-connect-device)
     - [Tutorial - Connect a device with MQTT](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-use-mqtt)
-    - [Test device connectivity](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-connectivity)
     - [Connect Raspberry Pi to run samples](https://learn.microsoft.com/en-us/azure/iot-hub/raspberry-pi-get-started)
   - Route device-to-cloud data
     - [Understand device-to-cloud guidance](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-d2c-guidance)
@@ -96,10 +95,7 @@
       - [Understand job scheduling](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-jobs)
       - [Create back-end app to schedule jobs](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-schedule-broadcast-jobs)
       - [Schedule bulk operations with jobs](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-cli)
-    - Queries
-      - [Query language overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-query-language)
-      - [Device and module twin queries](https://learn.microsoft.com/en-us/azure/iot-hub/query-twins)
-      - [Job queries](https://learn.microsoft.com/en-us/azure/iot-hub/query-jobs)
+    - [Query language overview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-query-language)
   - Monitor
     - [Monitor IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/monitor-iot-hub)
     - [IoT Hub service and resource health](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-azure-service-health-integration)

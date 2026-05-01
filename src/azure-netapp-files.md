@@ -251,6 +251,7 @@
         - Configure backups
           - [Configure policy-based backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-configure-policy-based)
           - [Configure manual backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-configure-manual)
+        - [Enable backup by default for new volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/protect-volumes)
         - [Search backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-search)
         - [Restore a backup to a new volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-restore-new-volume)
         - [Restore individual files from a backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/restore-single-file-backup)

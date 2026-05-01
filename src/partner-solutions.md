@@ -21,7 +21,6 @@
       - [Dell PowerScale Preview](https://learn.microsoft.com/en-us/azure/partner-solutions/dell/)
       - [Informatica](https://learn.microsoft.com/en-us/azure/partner-solutions/informatica/)
       - [MongoDB Atlas](https://learn.microsoft.com/en-us/azure/partner-solutions/mongo-db/)
-      - [Neon Serverless Postgres](https://learn.microsoft.com/en-us/azure/partner-solutions/neon/)
       - [Pure Storage Cloud](https://learn.microsoft.com/en-us/azure/partner-solutions/pure-storage/)
       - [Qumulo](https://learn.microsoft.com/en-us/azure/partner-solutions/qumulo/)
     - Network and security partners

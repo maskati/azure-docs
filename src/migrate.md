@@ -107,6 +107,9 @@
           - [PostgreSQL customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/postgresql-assessment-properties)
         - MySQL assessment
           - [Create and Review MySQL assessment](https://learn.microsoft.com/en-us/azure/migrate/create-mysql-assessment)
+        - MongoDB assessment
+          - [Create a MongoDB assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-mongodb)
+          - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/tutorial-review-mongodb-report)
         - Webapp assessment
           - [Create a Webapp assessment](https://learn.microsoft.com/en-us/azure/migrate/create-web-app-assessment)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-web-app-assessment)

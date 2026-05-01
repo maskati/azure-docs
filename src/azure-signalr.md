@@ -35,10 +35,10 @@
       - [Develop and configure SignalR Service apps](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-serverless-development-config)
       - [SignalR Service bindings for Azure Functions reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service)
       - [Configure upstream endpoints](https://learn.microsoft.com/en-us/azure/azure-signalr/concept-upstream)
-    - High availability
+    - Reliability
+      - [Reliability in Azure SignalR Service](https://learn.microsoft.com/azure/reliability/reliability-signalr?toc=/azure/azure-signalr/TOC.json)
       - [Gracefully shut down your app server](https://learn.microsoft.com/en-us/azure/azure-signalr/server-graceful-shutdown)
-      - [Resiliency and disaster recovery](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery)
-      - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-signalr/availability-zones)
+      - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery)
     - [Messages and connections](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-messages-and-connections)
     - [Performance considerations](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-performance)
     - [Authentication](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-authenticate-oauth)

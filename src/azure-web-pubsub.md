@@ -116,9 +116,9 @@
   - Concepts
     - [Service internals](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-service-internals)
     - [Client protocol overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-client-protocols)
-    - High availability
-      - [Resiliency and disaster recovery](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-disaster-recovery)
-      - [Availability zones](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-availability-zones)
+    - Reliability
+      - [Reliability in Azure Web PubSub](https://learn.microsoft.com/azure/reliability/reliability-web-pubsub?toc=/azure/azure-web-pubsub/toc.json)
+      - [Disaster recovery](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-disaster-recovery)
     - [Performance considerations](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-performance)
     - [Billing model](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-billing-model)
     - [Microsoft Entra Authorization](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/concept-azure-ad-authorization)
