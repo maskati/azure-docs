@@ -22,7 +22,9 @@
     - Migrate Enterprise tier to Azure Managed Redis
       - [Overview](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-overview)
       - [Understand differences](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-understand)
+      - [Explore migration options](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-options)
       - [Self-service migration](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-self-service)
+      - [Migration using tooling](https://learn.microsoft.com/azure/redis/migrate/migrate-redis-enterprise-with-tooling)
     - [Migrate to Azure Redis from other caches](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-migration-guide)
   - Azure Cache for Redis
     - [About Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
