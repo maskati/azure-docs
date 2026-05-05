@@ -3,8 +3,7 @@
   - [Microsoft Dev Box documentation](https://learn.microsoft.com/en-us/azure/dev-box/)
   - Overview
     - [What is Microsoft Dev Box?](https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box)
-    - [Roadmap for Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-roadmap)
-    - [Windows 365 adds Microsoft Dev Box capabilities](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-windows-365-announcement)
+    - [Dev Box maintenance mode](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-roadmap)
   - Quickstarts
     - [Get Started with the quick start template](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-get-started-template)
     - [Set up Dev Box service Azure portal](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-service)
@@ -54,7 +53,6 @@
     - [Tutorial: Get started with the Dev Box MCP Server](https://learn.microsoft.com/en-us/azure/dev-box/tutorial-get-started-dev-box-mcp-server)
   - Security
     - [Manage project access](https://learn.microsoft.com/en-us/azure/dev-box/how-to-manage-dev-box-access)
-    - [Enable guest user access](https://learn.microsoft.com/en-us/azure/dev-box/how-to-enable-guest-access)
     - [Configure conditional access policies](https://learn.microsoft.com/en-us/azure/dev-box/how-to-configure-intune-conditional-access-policies)
     - [Configure elevated privilege for dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-elevate-privilege-dev-box)
     - [Enable single sign-on for dev boxes](https://learn.microsoft.com/en-us/azure/dev-box/how-to-enable-single-sign-on)
