@@ -154,7 +154,8 @@
     - Manage
       - [Manage Application Groups](https://learn.microsoft.com/en-us/azure/event-hubs/resource-governance-with-app-groups)
       - [Configure properties for an event hub](https://learn.microsoft.com/en-us/azure/event-hubs/configure-event-hub-properties)
-      - [Automatically scale throughput units](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-auto-inflate)
+      - [Auto inflate overview](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-auto-inflate)
+      - [Enable Auto inflate](https://learn.microsoft.com/en-us/azure/event-hubs/enable-auto-inflate)
       - [Event Hubs management libraries](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-management-libraries)
       - [Use geo-replication](https://learn.microsoft.com/en-us/azure/event-hubs/use-geo-replication)
     - Monitor

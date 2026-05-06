@@ -106,7 +106,10 @@
       - [Create a Functions app through custom containers](https://learn.microsoft.com/en-us/azure/container-apps/functions-container-apps)
       - [Create a Functions app through the portal and CLI](https://learn.microsoft.com/en-us/azure/container-apps/functions-usage)
       - [Manage a Functions app](https://learn.microsoft.com/en-us/azure/container-apps/functions-manage)
-      - [Manage secrets for Azure Functions on Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/functions-secrets-tutorial)
+      - Managing Secrets in Functions on ACA
+        - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/functions-secrets-tutorial)
+        - [Store app-level secrets](https://learn.microsoft.com/en-us/azure/container-apps/functions-secrets-app-level)
+        - [Configure host key storage](https://learn.microsoft.com/en-us/azure/container-apps/functions-secrets-host-keys)
       - [KEDA scaling mappings reference](https://learn.microsoft.com/en-us/azure/container-apps/functions-keda-mappings)
       - [Migrate from Functions v1 to v2](https://learn.microsoft.com/en-us/azure/container-apps/migrate-functions)
       - [Run event-driven and batch workloads](https://learn.microsoft.com/en-us/azure/container-apps/functions-unified-platform)
