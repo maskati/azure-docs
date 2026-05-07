@@ -41,15 +41,20 @@
   - Scenarios
     - [Migrate to Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
     - [Virtual hub routing preference](https://learn.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing-preference)
-    - [Any-to-any](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-any-to-any)
-    - [Isolating VNets](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets)
-    - [Isolating VNets - custom](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets-custom)
-    - [Isolating virtual networks and branches](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-virtual-networks-branches)
-    - [Shared services VNets](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-shared-services-vnet)
-    - [Route through an NVA](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nva)
-    - [Route through an NVA - custom](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nvas-custom)
+    - Basic routing scenarios
+      - [Any-to-any](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-any-to-any)
+      - [Isolating VNets](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets)
+      - [Isolating VNets - custom](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets-custom)
+      - [Shared services VNets](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-shared-services-vnet)
+    - Static routes in Virtual WAN
+      - [Static routes overview](https://learn.microsoft.com/en-us/azure/virtual-wan/static-routes)
+      - [Azure Firewall static routing basics](https://learn.microsoft.com/en-us/azure/virtual-wan/static-routes-firewall-basic)
+      - [Selective Azure Firewall bypass](https://learn.microsoft.com/en-us/azure/virtual-wan/firewall-custom-bypass)
+      - [Route traffic to spoke NVAs](https://learn.microsoft.com/en-us/azure/virtual-wan/indirect-spoke-architecture)
+      - [Spoke NVA inspection](https://learn.microsoft.com/en-us/azure/virtual-wan/spoke-inspection-north-south)
+      - [Combining Azure Firewall and spoke NVAs](https://learn.microsoft.com/en-us/azure/virtual-wan/hybrid-firewall-spoke-static)
+      - [Routing intent with static routes](https://learn.microsoft.com/en-us/azure/virtual-wan/routing-intent-static-route)
     - [BGP peering with virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-bgp-peering-hub)
-    - [Azure Firewall - custom](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-between-vnets-firewall)
     - [Application Gateway and backend pools](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-secured-hub-app-gateway)
     - [Microsoft 365 - ExpressRoute private peering](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-365-expressroute-private)
   - Virtual WAN and virtual hub settings
@@ -67,10 +72,11 @@
       - [Customer-provided public IP address for secured virtual hub](https://learn.microsoft.com/en-us/azure/firewall/secured-hub-customer-public-ip?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
   - Integrated NVA in a virtual hub
     - [Create an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub)
-    - [Restart an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart)
-    - [Reimage an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-reimage)
     - [Configure DNAT/Internet inbound for NVAs](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-inbound)
-    - [Manage IP configurations for NVAs](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-add-ip-configurations)
+    - Infrastructure operations
+      - [Restart an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart)
+      - [Reimage an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-reimage)
+      - [Manage IP configurations for NVAs](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-add-ip-configurations)
   - Site-to-site S2S connections
     - Create a site-to-site connection
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal)
@@ -123,7 +129,7 @@
         - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-register-custom-app)
         - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-mfa)
         - [Configure a tenant](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant)
-        - [Configure a tenant for multiple application registration](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app)
+        - [Configure a tenant for multiple application registrations](https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app)
       - VPN client configuration
         - [Azure VPN Client - Windows](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-windows)
         - [Azure VPN Client - macOS](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-vpn-client-mac)
@@ -172,6 +178,7 @@
     - Routing intent and policies
       - [Configure routing intent](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies)
       - [Internet access with routing intent](https://learn.microsoft.com/en-us/azure/virtual-wan/about-internet-routing)
+      - [Configuring static routes with routing intent](https://learn.microsoft.com/en-us/azure/virtual-wan/routing-intent-static-route)
     - [Next hop IP support](https://learn.microsoft.com/en-us/azure/virtual-wan/next-hop-ip)
     - Route traffic from a virtual hub to an NVA legacy
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-route-table-nva-portal)

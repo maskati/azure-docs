@@ -105,6 +105,15 @@
       - Migration from BizTalk Server
         - [Why migrate from BizTalk Server?](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-overview)
         - [Migration options and best practices](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-approaches)
+        - Migration Agent for Azure Logic Apps
+          - [About Migration Agent](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-overview)
+          - [Migrate to Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-quickstart)
+          - [Discovery stage](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-discovery-stage)
+          - [Planning stage](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-planning-stage)
+          - [Conversion stage](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-conversion-stage)
+          - [Validation stage](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-validation-stage)
+          - [Deployment stage](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-deployment-stage)
+          - [Extend migration agent with custom parsers](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-extend)
     - Develop
       - [Add a trigger or action to a workflow](https://learn.microsoft.com/en-us/azure/logic-apps/add-trigger-action-workflow)
       - Control workflow execution
