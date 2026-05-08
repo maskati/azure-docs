@@ -114,6 +114,7 @@
     - Enable features on a schedule
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-aspnet-core)
+      - [Spring Boot](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-time-window-filter-spring-boot)
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-javascript)
       - [Go Gin](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-timewindow-filter-go)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-time-window-filter-python)

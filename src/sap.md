@@ -4,6 +4,7 @@
   - [Overview](https://learn.microsoft.com/en-us/azure/sap/sap-on-azure-overview)
   - [SAP on Azure VM workloads](https://learn.microsoft.com/en-us/azure/sap/workloads/toc.yml)
   - [Azure Center for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/center-sap-solutions/toc.yml)
-  - [SAP on Azure automation framework](https://learn.microsoft.com/en-us/azure/sap/automation/toc.yml)
+  - [SAP on Azure Automation framework](https://learn.microsoft.com/en-us/azure/sap/automation/toc.yml)
   - [Azure Monitor for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/monitor/toc.yml)
   - [Business Process Solutions](https://learn.microsoft.com/en-us/azure/sap/business-process-solutions/toc.yml)
+  - [SAP with Microsoft AI](https://learn.microsoft.com/en-us/azure/sap/microsoft-ai/toc.yml)

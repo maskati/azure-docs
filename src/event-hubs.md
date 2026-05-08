@@ -78,6 +78,7 @@
       - [Reliability in Event Hubs](https://learn.microsoft.com/azure/reliability/reliability-event-hubs?toc=/azure/event-hubs/TOC.json&maintainContext=true)
       - [Geo-replication](https://learn.microsoft.com/en-us/azure/event-hubs/geo-replication)
       - [Metadata only geo-disaster recovery](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-geo-dr)
+      - [Configure geo-disaster recovery](https://learn.microsoft.com/en-us/azure/event-hubs/configure-geo-disaster-recovery)
     - Security
       - Authentication and authorization
         - [Authenticate and authorize access to Event Hubs resources](https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-event-hubs)

@@ -22,9 +22,6 @@
     - APIs
       - [Manage APIs - Azure CLI](https://learn.microsoft.com/en-us/azure/api-center/manage-apis-azure-cli)
       - [Import APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/import-api-management-apis)
-      - Integrate API sources
-        - [Synchronize APIs from API Management](https://learn.microsoft.com/en-us/azure/api-center/synchronize-api-management-apis)
-        - [Synchronize APIs from Amazon API Gateway](https://learn.microsoft.com/en-us/azure/api-center/synchronize-aws-gateway-apis)
       - [Build and register APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/build-register-apis-vscode-extension)
       - [Design and develop  APIs - GitHub Copilot for Azure](https://learn.microsoft.com/en-us/azure/api-center/design-api-github-copilot-azure)
       - [Register APIs - GitHub Actions](https://learn.microsoft.com/en-us/azure/api-center/register-apis-github-actions)
@@ -38,6 +35,10 @@
       - [Build and register Logic Apps MCP server](https://learn.microsoft.com/en-us/azure/logic-apps/create-mcp-server-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
     - Skills
       - [Register and discover skills](https://learn.microsoft.com/en-us/azure/api-center/register-discover-skills)
+    - Integrate API sources
+      - [Synchronize assets from API Management](https://learn.microsoft.com/en-us/azure/api-center/synchronize-api-management-apis)
+      - [Synchronize assets from Amazon API Gateway](https://learn.microsoft.com/en-us/azure/api-center/synchronize-aws-gateway-apis)
+      - [Synchronize assets from a Git repository](https://learn.microsoft.com/en-us/azure/api-center/synchronize-assets-git)
   - API governance
     - [Use metadata for governance](https://learn.microsoft.com/en-us/azure/api-center/metadata)
     - [Govern APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/govern-apis-vscode-extension)
