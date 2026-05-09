@@ -99,6 +99,7 @@
       - Message handling
         - [Java message service JMS 2.0 entities](https://learn.microsoft.com/en-us/azure/service-bus-messaging/java-message-service-20-entities)
         - [Java Message Service JMS Developer guide](https://learn.microsoft.com/en-us/azure/service-bus-messaging/jms-developer-guide)
+        - [Choose between JMS and native SDK Java](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-jms-versus-native-sdk)
         - [Messages, payloads, and serialization](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messages-payloads)
         - [Message sequencing and timestamps](https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sequencing)
         - [Message expiration Time to Live](https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-expiration)

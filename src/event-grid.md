@@ -29,6 +29,7 @@
         - [Client groups](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-groups)
         - [Topic spaces](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-topic-spaces)
         - [MQTT Retain](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-retain)
+        - [Shared subscriptions](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-shared-subscriptions)
         - [HTTP Publish](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-http-publish)
         - [Routing MQTT messages](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-routing)
           - [Routing event schema](https://learn.microsoft.com/en-us/azure/event-grid/mqtt-routing-event-schema)
