@@ -41,6 +41,7 @@
         - [Security admin rule overview](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admins)
         - [Security admin rule enforcement](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-enforcement)
         - [Network groups as source and destination](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admin-rules-network-group)
+        - [Simulate security admin rule impact](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-simulate-security-admin-rules)
       - User-defined routes UDRs management
         - [User-defined routes UDRs management overview](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-user-defined-route)
         - [Create user-defined routes UDRs](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route)
@@ -49,6 +50,7 @@
     - [Remove or update network manager components](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-remove-components-checklist)
   - Secure network traffic
     - Secure network traffic with security admin rules
+      - [Simulate security admin rule impact](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-simulate-security-admin-rules)
       - [Using network groups as source and destination](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-security-admin-rule-network-group)
       - [Block network traffic - Portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-network-traffic-portal)
       - [Block network traffic -PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-network-traffic-powershell)

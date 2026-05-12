@@ -25,10 +25,8 @@
       - [Python function with Azure Table Storage as output](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-functions-storage-table-as-output)
     - Azure Container Apps
       - [Java Quarkus app to PostgreSQL](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-java-quarkus-connect-managed-identity-postgresql-database?bc=%2fazure%2fservice-connector%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fservice-connector%2fTOC.json)
-    - Azure Spring Apps
-      - [Java app to PostgreSQL](https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/how-to-bind-postgres?bc=%2fazure%2fservice-connector%2fbreadcrumb%2ftoc.json&tabs=Passwordlessflex&toc=%2fazure%2fservice-connector%2fTOC.json)
-      - [Spring Boot app to Kafka on Confluent Cloud](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-java-spring-confluent-kafka)
-      - [Spring app to MySQL](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-java-spring-mysql)
+    - [Azure Spring Apps to PostgreSQL](https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/how-to-bind-postgres?bc=%2fazure%2fservice-connector%2fbreadcrumb%2ftoc.json&tabs=Passwordlessflex&toc=%2fazure%2fservice-connector%2fTOC.json)
+    - [Azure Spring Apps to MySQL](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-java-spring-mysql)
     - Azure Kubernetes Service AKS
       - [Connect to Azure Key Vault using CSI driver](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-aks-keyvault-csi-driver)
       - [Connect to Azure Storage using workload identity](https://learn.microsoft.com/en-us/azure/service-connector/tutorial-python-aks-storage-workload-identity)
