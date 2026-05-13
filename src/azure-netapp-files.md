@@ -9,10 +9,12 @@
     - [Set up Azure NetApp Files and create an NFS volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-quickstart-set-up-account-create-volumes)
   - Concepts
     - Volumes as a service
-      - [Understand NAS](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-storage-concept)
-      - [Understand NAS protocols](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-storage-protocols)
-      - [Understand SMB support](https://learn.microsoft.com/en-us/azure/azure-netapp-files/sever-message-block-support)
-      - [Understand Object REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/object-rest-api-introduction)
+      - [Understand Azure NetApp Files Volumes as a Service](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-volumes-as-service)
+      - Understand NAS
+        - [Understand NAS concepts](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-storage-concept)
+        - [Understand NAS protocols](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-storage-protocols)
+        - [Understand Server Message Block SMB support](https://learn.microsoft.com/en-us/azure/azure-netapp-files/sever-message-block-support)
+        - [Understand object REST API](https://learn.microsoft.com/en-us/azure/azure-netapp-files/object-rest-api-introduction)
       - Understand NAS permissions
         - [Understand NAS share permissions](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-storage-permissions)
         - [Understand NAS file permissions](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-file-permissions)
@@ -21,20 +23,21 @@
           - [Understand mode bits](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-attached-file-permissions-nfs)
           - [Understand auxiliary/supplemental groups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/auxiliary-groups)
           - [Understand NFSv4.x access control lists](https://learn.microsoft.com/en-us/azure/azure-netapp-files/nfs-access-control-lists)
-      - [Understand dual-protocol security style and permission behaviors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/dual-protocol-permission-behaviors)
-      - [Understand data encryption](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-data-encryption)
-      - [Understand Kerberos](https://learn.microsoft.com/en-us/azure/azure-netapp-files/kerberos)
-      - [Understand guidelines for Active Directory Domain Services](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-guidelines-active-directory-domain-service-site)
-      - [Understand DNS](https://learn.microsoft.com/en-us/azure/azure-netapp-files/domain-name-system-concept)
-      - Understand LDAP
-        - [Understand LDAP basics](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol)
-        - [Understand name mapping using LDAP](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-name-mapping)
-        - [Understand the allow local NFS users with LDAP option](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-local-users)
-        - [Understand LDAP schemas](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-schemas)
-      - [Understand NFS group memberships and supplemental groups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-file-system-group-memberships)
-      - [Understand file locking](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-file-locks)
-      - [Understand volume languages](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-volume-languages)
-      - [Understand file path lengths](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-path-lengths)
+        - [Understand dual-protocol security style and permission behaviors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/dual-protocol-permission-behaviors)
+      - Understand Kerberos, Entra ID, Active Directory, LDAP and DNS
+        - [Understand Kerberos](https://learn.microsoft.com/en-us/azure/azure-netapp-files/kerberos)
+        - [Understand Active Directory Domain Services and guidelines for site design and planning](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-guidelines-active-directory-domain-service-site)
+        - Understand LDAP
+          - [Understand LDAP basics](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol)
+          - [Understand name mapping using LDAP](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-name-mapping)
+          - [Understand the allow local NFS users with LDAP option](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-local-users)
+          - [Understand LDAP schemas](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-schemas)
+          - [Understand NFS group memberships and supplemental groups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/network-file-system-group-memberships)
+        - [Understand DNS](https://learn.microsoft.com/en-us/azure/azure-netapp-files/domain-name-system-concept)
+      - Understand volume characteristics
+        - [Understand file locking and lock types](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-file-locks)
+        - [Understand volume languages](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-volume-languages)
+        - [Understand path lengths](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-path-lengths)
     - Azure NetApp Files essentials
       - [Storage hierarchy of Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-understand-storage-hierarchy)
       - Service levels for Azure NetApp Files
@@ -53,15 +56,18 @@
       - [Metrics for Elastic zone-redundant Storage](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-metrics)
       - [Azure Policy definitions for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-policy-definitions)
       - [Storage service add-ons](https://learn.microsoft.com/en-us/azure/azure-netapp-files/storage-service-add-ons)
+    - Quotas
+      - Understand capacity quotas
+        - [Understand regional capacity quota](https://learn.microsoft.com/en-us/azure/azure-netapp-files/regional-capacity-quota)
+      - Understand volume quotas
+        - [Understand volume quota](https://learn.microsoft.com/en-us/azure/azure-netapp-files/volume-quota-introduction)
+        - [Understand volume hard quotas](https://learn.microsoft.com/en-us/azure/azure-netapp-files/volume-hard-quota-guidelines)
+      - Understand user and group quotas
+        - [Understand default and individual user and group quotas](https://learn.microsoft.com/en-us/azure/azure-netapp-files/default-individual-user-group-quotas-introduction)
     - Cost optimization
       - [Cost model for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-cost-model)
       - [Azure NetApp Files storage with cool access](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cool-access-introduction)
       - [Azure NetApp Files reserved capacity](https://learn.microsoft.com/en-us/azure/azure-netapp-files/reservations)
-    - Quotas
-      - [Understand volume quota](https://learn.microsoft.com/en-us/azure/azure-netapp-files/volume-quota-introduction)
-      - [Understand volume hard quota](https://learn.microsoft.com/en-us/azure/azure-netapp-files/volume-hard-quota-guidelines)
-      - [Regional capacity quota](https://learn.microsoft.com/en-us/azure/azure-netapp-files/regional-capacity-quota)
-      - [Understand default and individual user and group quotas](https://learn.microsoft.com/en-us/azure/azure-netapp-files/default-individual-user-group-quotas-introduction)
     - Performance
       - Best practices and considerations
         - [General performance considerations for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-performance-considerations)
@@ -136,6 +142,12 @@
       - Understand ransomware protection
         - [Understand Azure NetApp Files advanced ransomware protection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/advanced-ransomware-protection)
         - [Requirements and considerations for Azure NetApp Files advanced ransomware protection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/ransomware-protection-requirements)
+    - Security and data encryption
+      - Understand Azure NetApp Files security and encryption
+        - [Understand Azure NetApp Files data plane security](https://learn.microsoft.com/en-us/azure/azure-netapp-files/data-plane-security)
+        - [Understand Azure NetApp Files control plane security](https://learn.microsoft.com/en-us/azure/azure-netapp-files/control-plane-security)
+        - [Understand data encryption in Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-data-encryption)
+      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-netapp-files-security-baseline?toc=/azure/azure-netapp-files/TOC.json)
     - Solutions and benefits
       - [Solution architectures using Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures)
       - Benefits of using Azure NetApp Files
@@ -143,11 +155,6 @@
         - [Benefits of using Azure NetApp Files for Electronic Design Automation EDA](https://learn.microsoft.com/en-us/azure/azure-netapp-files/solutions-benefits-azure-netapp-files-electronic-design-automation)
         - [Benefits of using Azure NetApp Files with Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/azure-netapp-files/solutions-windows-virtual-desktop)
         - [Benefits of using Azure NetApp Files for SQL Server deployment](https://learn.microsoft.com/en-us/azure/azure-netapp-files/solutions-benefits-azure-netapp-files-sql-server)
-    - Security
-      - Understand Azure NetApp Files security
-        - [Understand data plane security](https://learn.microsoft.com/en-us/azure/azure-netapp-files/data-plane-security)
-        - [Understand control plane security](https://learn.microsoft.com/en-us/azure/azure-netapp-files/control-plane-security)
-        - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-netapp-files-security-baseline?toc=/azure/azure-netapp-files/TOC.json)
   - How-to guides
     - Register and set up
       - [Register for NetApp Resource Provider](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-register)

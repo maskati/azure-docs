@@ -148,7 +148,7 @@
     - [Monitor App Service](https://learn.microsoft.com/en-us/azure/app-service/monitor-app-service)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/app-service/monitor-app-service-reference)
     - [Azure Monitor tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-troubleshoot-monitor)
-    - [Stream diagnostic logs](https://learn.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)
+    - [Enable diagnostic logs](https://learn.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)
     - [Open SSH session to a web app in a container](https://learn.microsoft.com/en-us/azure/app-service/configure-linux-open-ssh-session)
     - [Monitor instance health](https://learn.microsoft.com/en-us/azure/app-service/monitor-instances-health-check)
     - [About App Service diagnostics tool](https://learn.microsoft.com/en-us/azure/app-service/overview-diagnostics)

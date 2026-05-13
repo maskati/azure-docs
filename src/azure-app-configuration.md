@@ -101,6 +101,7 @@
     - Agent framework
       - [Get started](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-ai-agent-config)
       - [Python](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-ai-agent-config-python)
+      - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-ai-agent-config-dotnet)
   - Feature management
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
     - [Experimentation](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-experimentation)
