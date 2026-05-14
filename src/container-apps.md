@@ -3,7 +3,9 @@
   - [Azure Container Apps documentation](https://learn.microsoft.com/en-us/azure/container-apps/)
   - Get started
     - [About Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/overview)
+    - [Express overview](https://learn.microsoft.com/en-us/azure/container-apps/express-overview)
     - [Introduction to containers](https://learn.microsoft.com/en-us/azure/container-apps/start-containers)
+    - [Deploy an express container app](https://learn.microsoft.com/en-us/azure/container-apps/deploy-express-cli)
     - [Use serverless containers](https://learn.microsoft.com/en-us/azure/container-apps/start-serverless-containers)
     - Quickstarts
       - Deploy from an existing container image

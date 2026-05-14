@@ -83,7 +83,6 @@
 [Azure Migrate documentation](./migrate.md)
 [Microsoft Azure Migration Hub](./migration.md)
 [Azure NAT Gateway documentation](./nat-gateway.md)
-[Network Function Manager documentation](./network-function-manager.md)
 [Network Watcher documentation](./network-watcher.md)
 [Azure networking documentation](./networking.md)
 [Azure Notification Hubs documentation](./notification-hubs.md)
