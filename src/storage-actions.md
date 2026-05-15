@@ -19,6 +19,7 @@
       - [Operations](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-operations)
     - Storage task assignment
       - [Storage task assignment](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-assignment)
+      - [Mock runs for storage task assignments](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-mock-run)
       - [Azure roles for assignments](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-authorization-roles-assign)
     - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-storage-actions?toc=/azure/storage-actions/toc.json)
     - [Costs and billing](https://learn.microsoft.com/en-us/azure/storage-actions/storage-actions-plan-manage-costs)
@@ -26,6 +27,7 @@
     - [Create a storage task](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-create)
     - [Compose a condition](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-conditions-operations-edit)
     - [Create and manage an assignment](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-assignment-create)
+    - [Create and use a mock run](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-mock-run-create)
     - [Monitor storage tasks](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/monitor-storage-tasks)
     - [Analyze storage task runs](https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/storage-task-runs)
   - Reference

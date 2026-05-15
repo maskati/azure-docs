@@ -299,6 +299,7 @@
     - [NFS FAQs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/faq-nfs)
     - [SMB FAQs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/faq-smb)
     - [Performance FAQs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/faq-performance)
+    - [Cloning FAQs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/faq-clone)
     - [Application resilience FAQs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/faq-application-resilience)
     - [Data migration and protection FAQs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/faq-data-migration-protection)
     - [Application volume group FAQs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/faq-application-volume-group)

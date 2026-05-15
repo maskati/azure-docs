@@ -312,4 +312,5 @@
     - [Azure security baseline for Azure Container Apps](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-container-apps-security-baseline)
   - Samples & FAQs
     - [Samples](https://learn.microsoft.com/en-us/azure/container-apps/samples)
-    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/container-apps/faq.yml)
+    - [Container Apps frequently asked questions](https://learn.microsoft.com/en-us/azure/container-apps/faq.yml)
+    - [Express frequently asked questions](https://learn.microsoft.com/en-us/azure/container-apps/express-faq.yml)
