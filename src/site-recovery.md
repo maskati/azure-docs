@@ -322,6 +322,7 @@
     - [REST](https://learn.microsoft.com/rest/api/site-recovery)
     - [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected)
   - Related
+    - [Reliability in Azure Site Recovery](https://learn.microsoft.com/azure/reliability/reliability-site-recovery)
     - [Azure Backup](https://learn.microsoft.com/en-us/azure/backup/)
     - [Azure Automation](https://learn.microsoft.com/en-us/azure/automation/)
     - [Azure Resource Mover](https://learn.microsoft.com/en-us/azure/resource-mover/)
