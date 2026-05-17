@@ -113,6 +113,9 @@
         - [Store app-level secrets](https://learn.microsoft.com/en-us/azure/container-apps/functions-secrets-app-level)
         - [Configure host key storage](https://learn.microsoft.com/en-us/azure/container-apps/functions-secrets-host-keys)
       - [KEDA scaling mappings reference](https://learn.microsoft.com/en-us/azure/container-apps/functions-keda-mappings)
+      - Functions and GPU
+        - [Use GPUs with Functions on Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/functions-gpu-container-apps)
+        - [Tutorial: GPU image generation with Functions on ACA](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-gpu-image-generation)
       - [Migrate from Functions v1 to v2](https://learn.microsoft.com/en-us/azure/container-apps/migrate-functions)
       - [Run event-driven and batch workloads](https://learn.microsoft.com/en-us/azure/container-apps/functions-unified-platform)
     - Event-driven processing
