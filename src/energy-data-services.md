@@ -20,6 +20,7 @@
     - [Use Reservoir DDMS APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-reservoir-ddms-apis)
     - [Use Reservoir DDMS websocket APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-reservoir-ddms-websocket)
     - [Use Rock and Fluid Samples DDMS APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-rock-and-fluid-samples-ddms)
+    - [Use analytics consumption zone APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-analytics-consumption-zone-apis)
   - Concepts
     - [OSDU® services available on Azure Data Manager for Energy](https://learn.microsoft.com/en-us/azure/energy-data-services/osdu-services-on-adme)
     - [CSV parser ingestion](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-csv-parser-ingestion)
@@ -31,7 +32,8 @@
     - Reliability
       - [Reliability overview](https://learn.microsoft.com/en-us/azure/energy-data-services/reliability-energy-data-services)
     - [Tier details](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-tier-details)
-    - [Syncing Reference data values](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-reference-data-values)
+    - [Syncing reference data values](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-reference-data-values)
+    - [Analytics consumption zone ACZ](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-analytics-consumption-zone)
   - How-to guides
     - Administration
       - [Manage users](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-users)
@@ -42,8 +44,9 @@
       - [Deploy OSDU Admin UI](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-deploy-osdu-admin-ui)
       - [How to enable External Data Services EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-external-data-services)
       - [How to register External Data Services EDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-register-external-data-services)
-      - [How to enable legal tags restricted COO Country of Origin](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-legal-tags-restricted-country-of-origin)
+      - [How to enable legal tags restricted COO](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-legal-tags-restricted-country-of-origin)
       - [How to manage upgrade settings](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-upgrade-settings)
+      - [How to enable analytics consumption zone ACZ](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-analytics-consumption-zone)
     - Monitoring
       - [Airflow task logs integration with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-airflow-logs-with-azure-monitor)
       - [Elastic logs integration with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-elastic-logs-with-azure-monitor)
@@ -61,6 +64,8 @@
     - [Convert SEG-Y to oVDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-convert-segy-to-ovds)
     - [Generate auth token](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-generate-auth-token)
     - [Upload large files using file service](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-upload-large-files-using-file-service)
+    - [Connect ACZ to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-connect-analytics-consumption-zone-to-fabric)
+    - [Connect ACZ to Azure Databricks](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-connect-analytics-consumption-zone-to-databricks)
   - References
     - REST API
       - [Data plane](https://microsoft.github.io/adme-samples/)

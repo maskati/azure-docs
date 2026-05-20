@@ -30,7 +30,7 @@
     - [Real User Measurements](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-rum-overview)
     - [Traffic View](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-traffic-view-overview)
     - [Metrics and alerts](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-metrics-alerts)
-    - [Reliability and disaster recovery](https://learn.microsoft.com/en-us/azure/networking/disaster-recovery-dns-traffic-manager)
+    - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-traffic-manager?toc=/azure/traffic-manager/toc.json)
     - [How Traffic Manager works](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works)
     - [FAQs](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-FAQs)
     - [IPv6 and DNS record types](https://learn.microsoft.com/en-us/azure/traffic-manager/dns-record-types)

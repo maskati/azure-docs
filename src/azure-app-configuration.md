@@ -104,7 +104,6 @@
       - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-ai-agent-config-dotnet)
   - Feature management
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-feature-management)
-    - [Experimentation](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-experimentation)
     - Enable conditional features with feature filters
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters)
       - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-feature-filters-aspnet-core)
