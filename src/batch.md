@@ -94,6 +94,7 @@
       - [Use RDMA or GPU instances](https://learn.microsoft.com/en-us/azure/batch/batch-pool-compute-intensive-sizes)
       - [Use Linux compute nodes](https://learn.microsoft.com/en-us/azure/batch/batch-linux-nodes)
       - [Use Azure Spot VMs](https://learn.microsoft.com/en-us/azure/batch/batch-spot-vms)
+      - [Use temporary NVMe disks](https://learn.microsoft.com/en-us/azure/batch/batch-nvme-temporary)
       - [Checking for pool and node errors](https://learn.microsoft.com/en-us/azure/batch/batch-pool-node-error-checking)
     - [Create a CI/CD pipeline for Batch](https://learn.microsoft.com/en-us/azure/batch/batch-ci-cd)
     - Manage jobs and tasks

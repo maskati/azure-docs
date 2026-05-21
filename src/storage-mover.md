@@ -24,6 +24,7 @@
       - [Create endpoints](https://learn.microsoft.com/en-us/azure/storage-mover/endpoint-manage)
       - [Define a migration project](https://learn.microsoft.com/en-us/azure/storage-mover/project-manage)
       - [Define and start a migration job](https://learn.microsoft.com/en-us/azure/storage-mover/job-definition-create)
+      - [Schedule a migration job](https://learn.microsoft.com/en-us/azure/storage-mover/job-scheduling)
     - Manage
       - [Configure bandwidth limits](https://learn.microsoft.com/en-us/azure/storage-mover/bandwidth-management)
     - Decommission

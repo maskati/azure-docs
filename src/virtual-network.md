@@ -49,6 +49,7 @@
     - [IP based access control list ACL](https://learn.microsoft.com/en-us/azure/virtual-network/ip-based-access-control-list-overview)
     - [Subnet delegation](https://learn.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview)
     - [Subnet extension](https://learn.microsoft.com/en-us/azure/virtual-network/subnet-extension)
+    - [Advertised gateway prefixes](https://learn.microsoft.com/en-us/azure/virtual-network/advertised-gateway-prefixes-overview)
     - [Virtual network peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
     - [What is IP address 168.63.129.16?](https://learn.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16)
   - Plan and design
