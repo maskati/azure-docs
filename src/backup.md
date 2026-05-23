@@ -291,7 +291,15 @@
         - [Create a policy](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api-create-update-policy)
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-use-rest-api-restore)
-  - Azure Database for MySQL - Flexible Server backup retention
+  - Azure Cosmos DB vaulted backup
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-overview)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-support-matrix)
+    - Backup scenarios
+      - From the Azure portal
+        - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-restore)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-manage)
+  - Azure Database for MySQL - Flexible Server backup preview
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)
     - Backup scenarios

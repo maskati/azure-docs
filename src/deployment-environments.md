@@ -6,7 +6,7 @@
     - [Maintenance mode for Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/maintenance-mode)
   - Quickstarts
     - [Configure Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/quickstart-create-and-configure-devcenter)
-    - [Create dev center and project Azure Resource Manager](https://learn.microsoft.com/en-us/azure/deployment-environments/quickstart-create-dev-center-project-azure-resource-manager)
+    - [Create dev center and project by using ARM](https://learn.microsoft.com/en-us/azure/deployment-environments/quickstart-create-dev-center-project-azure-resource-manager)
     - [Create and access an environment](https://learn.microsoft.com/en-us/azure/deployment-environments/quickstart-create-access-environments)
   - Concepts
     - [Key concepts](https://learn.microsoft.com/en-us/azure/deployment-environments/concept-environments-key-concepts)
@@ -38,7 +38,7 @@
     - [Automatically delete an environment](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-schedule-environment-deletion)
     - [Request a quota limit increase](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-request-quota-increase)
   - Security
-    - [Grant access to Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-manage-deployment-environments-access)
+    - [Grant and manage access](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-manage-deployment-environments-access)
     - [Authenticate to REST APIs](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-authenticate)
   - Automate with CI/CD
     - [Automate with GitHub Actions CI/CD](https://learn.microsoft.com/en-us/azure/deployment-environments/tutorial-deploy-environments-in-cicd-github)
