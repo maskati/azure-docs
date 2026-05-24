@@ -395,6 +395,7 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp)
         - [Tool trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-tool-trigger)
         - [Resource trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-resource-trigger)
+        - [Prompt trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-prompt-trigger)
       - [Mobile Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mobile-apps)
       - [Notification Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-notification-hubs)
       - Queue storage
