@@ -344,7 +344,10 @@
           - [Back up SQL Server Availability Group](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-on-availability-groups)
           - [Back up a SQL Server VM from the VM pane](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-vm-from-vm-pane)
           - [Back up SQL Server from the SQL Server VM blade](https://learn.microsoft.com/en-us/azure/backup/backup-sql-server-database-from-azure-vm-blade)
-        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-sql-database-azure-vm)
+          - [Back up SQL Server instance snapshot](https://learn.microsoft.com/en-us/azure/backup/back-up-sql-server-instance-snapshot)
+        - Restore
+          - [Restore SQL Server database from the vault](https://learn.microsoft.com/en-us/azure/backup/restore-sql-database-azure-vm)
+          - [Restore SQL Server instance](https://learn.microsoft.com/en-us/azure/backup/back-up-sql-server-instance-snapshot-restore)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-monitor-sql-database-backup)
       - With CLI
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-backup-cli)
