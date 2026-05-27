@@ -5,7 +5,7 @@
     - [What is BareMetal Infrastructure?](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/concepts-baremetal-infrastructure-overview)
     - [Know the terms](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/know-baremetal-terms)
     - [Connect BareMetal instances in Azure](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/connect-baremetal-infrastructure)
-  - Workloads
+  - Workload
     - SAP HANA on Azure Large Instances
       - [Overview](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-overview-architecture?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
       - [Certification](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-certification?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
@@ -50,4 +50,3 @@
         - [OS Upgrade for HANA Large Instances](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/os-upgrade-hana-large-instance?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
         - [Setting up SMT server for SUSE Linux](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/hana-setup-smt?context=%2fazure%2fbaremetal-infrastructure%2fworkloads%2fsap%2fcontext%2fcontext)
         - [Buy an SAP HANA Large Instances reservation](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-hana-large-instances-reserved-capacity)
-    - [Nutanix Cloud Clusters on Azure](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/workloads/nc2-on-azure/toc.yml)

@@ -160,8 +160,11 @@
       - [Access keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-disable-access-key-authentication)
       - [Managed identities](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-integrate-azure-managed-service-identity)
     - Network security
-      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-private-endpoint)
-      - [Set up Private Endpoints](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-set-up-private-access)
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-network-security)
+      - [Private endpoints](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-private-endpoint)
+      - [Set up private endpoints](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-set-up-private-access)
+      - [Network security perimeter](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-network-security-perimeter)
+      - [Associate with a network security perimeter](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-set-up-network-security-perimeter)
       - [Disable public network access](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-disable-public-access)
       - [Network access errors](https://learn.microsoft.com/en-us/azure/azure-app-configuration/network-access-errors)
     - Data encryption

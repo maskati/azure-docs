@@ -5,6 +5,7 @@
     - [What is Virtual WAN?](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
     - [What's new?](https://learn.microsoft.com/en-us/azure/virtual-wan/whats-new)
     - What is hybrid connectivity?
+    - [Virtual Network Manager and Virtual WAN overview](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-network-manager-integration)
     - [Virtual WAN FAQ](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq)
     - [About Virtual WAN pricing](https://learn.microsoft.com/en-us/azure/virtual-wan/pricing-concepts)
     - Quickstarts & Tutorials
@@ -40,6 +41,7 @@
       - [Leverage Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/work-remotely-support)
   - Scenarios
     - [Migrate to Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
+    - [Configure Virtual WAN with Virtual Network Manager](https://learn.microsoft.com/en-us/azure/virtual-network-manager/configure-virtual-wan-hub-for-network-manager)
     - [Virtual hub routing preference](https://learn.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing-preference)
     - Basic routing scenarios
       - [Any-to-any](https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-any-to-any)
@@ -167,6 +169,7 @@
         - Configure virtual hub routing preference
           - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-virtual-hub-routing-preference)
           - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-virtual-hub-routing-preference-powershell)
+    - [Connection policy](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-connection-policy)
     - Route-maps
       - [About Route-maps](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-about)
       - [Configure Route-maps](https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-how-to)

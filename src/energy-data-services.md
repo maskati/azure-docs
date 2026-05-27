@@ -20,7 +20,7 @@
     - [Use Reservoir DDMS APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-reservoir-ddms-apis)
     - [Use Reservoir DDMS websocket APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-reservoir-ddms-websocket)
     - [Use Rock and Fluid Samples DDMS APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-rock-and-fluid-samples-ddms)
-    - [Use analytics consumption zone APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-analytics-consumption-zone-apis)
+    - [Use Analytics Consumption Zone ACZ APIs](https://learn.microsoft.com/en-us/azure/energy-data-services/tutorial-analytics-consumption-zone-apis)
   - Concepts
     - [OSDU® services available on Azure Data Manager for Energy](https://learn.microsoft.com/en-us/azure/energy-data-services/osdu-services-on-adme)
     - [CSV parser ingestion](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-csv-parser-ingestion)
@@ -64,8 +64,8 @@
     - [Convert SEG-Y to oVDS](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-convert-segy-to-ovds)
     - [Generate auth token](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-generate-auth-token)
     - [Upload large files using file service](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-upload-large-files-using-file-service)
-    - [Connect ACZ to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-connect-analytics-consumption-zone-to-fabric)
-    - [Connect ACZ to Azure Databricks](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-connect-analytics-consumption-zone-to-databricks)
+    - [Connect Analytics Consumption Zone ACZ to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-connect-analytics-consumption-zone-to-fabric)
+    - [Connect Analytics Consumption Zone ACZ to Azure Databricks](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-connect-analytics-consumption-zone-to-databricks)
   - References
     - REST API
       - [Data plane](https://microsoft.github.io/adme-samples/)

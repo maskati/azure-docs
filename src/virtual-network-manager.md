@@ -26,6 +26,7 @@
         - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke-powershell)
         - [Deploy hub and spoke topology with Azure Firewall](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-deploy-hub-spoke-topology-with-azure-firewall)
+        - [Configure Virtual WAN hub in Hub and Spoke Topology](https://learn.microsoft.com/en-us/azure/virtual-network-manager/configure-virtual-wan-hub-for-network-manager)
       - Mesh
         - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network)
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network-powershell)
