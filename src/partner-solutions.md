@@ -8,6 +8,7 @@
     - AI partners
       - [Arize AI](https://learn.microsoft.com/en-us/azure/partner-solutions/arize-ai/)
       - [LambdaTest - HyperExecute](https://learn.microsoft.com/en-us/azure/partner-solutions/lambda-test/)
+      - [Napster Companion API](https://learn.microsoft.com/en-us/azure/partner-solutions/napster/)
     - Observability partners
       - [Datadog](https://learn.microsoft.com/en-us/azure/partner-solutions/datadog/)
       - [Dynatrace](https://learn.microsoft.com/en-us/azure/partner-solutions/dynatrace/)

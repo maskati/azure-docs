@@ -7,25 +7,49 @@
       - [Run Azure IoT Operations in Codespaces](https://learn.microsoft.com/en-us/azure/iot-operations/get-started-end-to-end-sample/quickstart-deploy)
       - [Configure your instance](https://learn.microsoft.com/en-us/azure/iot-operations/get-started-end-to-end-sample/quickstart-configure)
       - [Get insights from your data](https://learn.microsoft.com/en-us/azure/iot-operations/get-started-end-to-end-sample/quickstart-get-insights)
-    - Deploy Azure IoT Operations to your cluster
+    - Plan your deployment
+      - [Deployment planning](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning)
+      - [Production deployment examples](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-examples)
+      - [Disk-backed message buffer](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning-disk-buffer)
+      - [Persistence](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning-persistence)
+      - [Diagnostics](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning-diagnostics)
+      - [Advanced MQTT options](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning-mqtt-options)
+      - [Internal traffic encryption](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning-encryption)
+    - Deploy Azure IoT Operations
       - [Deployment overview](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/overview-deploy)
-      - [Prepare a cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-prepare-cluster)
-      - [Deploy to a test cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-test-operations)
-      - [Deploy to a production cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-operations)
       - [Best practices for namespaces](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-namespace-guidance?toc=/azure/iot-operations/toc.json&bc=/azure/iot-operations/breadcrumb/toc.json)
       - [Best practices for schema registries](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-schema-registry-guidance?toc=/azure/iot-operations/toc.json&bc=/azure/iot-operations/breadcrumb/toc.json)
-      - [Manage, update, or uninstall](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-manage-update-uninstall)
-      - [Clone an instance](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-clone-instance)
-      - [Upgrade](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-upgrade)
+      - [Prepare a cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-prepare-cluster)
+      - [Set up your own certificate issuer](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-bring-your-own-issuer)
+      - [Deploy to a test cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-test-operations)
       - [Production deployment guidelines](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-guidelines)
-      - [Production deployment examples](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-examples)
-    - Secure your deployment
-      - [Built-in RBAC](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/built-in-rbac)
-      - [Manage certificates](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-certificates)
-      - [Manage secrets](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-secrets)
-      - [Validate images](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-validate-images)
-      - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
-      - [Enable secure settings](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-enable-secure-settings)
+      - [Deploy to a production cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-operations)
+      - Configure observability
+        - [Unified health status reporting](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/health-status-reporting)
+        - [Deploy observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-configure-observability)
+        - [Cleanup observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-clean-up-observability-resources)
+      - Secure your deployment
+        - [Enable secure settings](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-enable-secure-settings)
+        - [Manage certificates](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-certificates)
+        - [Manage secrets](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-secrets)
+        - [Validate images](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-validate-images)
+        - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
+    - Manage Azure IoT Operations
+      - [Manage, update, or uninstall](https://learn.microsoft.com/en-us/azure/iot-operations/manage-iot-ops/howto-manage-update-uninstall)
+      - [Clone an instance](https://learn.microsoft.com/en-us/azure/iot-operations/manage-iot-ops/howto-clone-instance)
+      - [Upgrade](https://learn.microsoft.com/en-us/azure/iot-operations/manage-iot-ops/howto-upgrade)
+      - Manage MQTT broker
+        - [Broker overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/overview-broker)
+        - [Listener](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-brokerlistener)
+        - [Authentication](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-authentication)
+        - [Authorization](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-authorization)
+        - [Test connection](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-test-connection)
+        - [Data persistence](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-broker-persistence)
+      - Manage network
+        - [Overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/overview-layered-network)
+        - [Layered networking](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/concept-layered-network)
+        - [Deploy with private connectivity](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-private-connectivity)
+        - [Troubleshoot private connectivity](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-troubleshoot-private-connectivity)
     - Discover and manage assets and devices
       - [Understand asset and device management](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-manage-assets)
       - [Understand assets and devices](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-assets-devices)
@@ -46,18 +70,6 @@
       - [Connect to Kafka endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-connect-kafka)
       - [Enable and run management actions](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-management-actions)
       - [Use asset endpoints to manage assets](https://learn.microsoft.com/previous-versions/azure/iot-operations/discover-manage-assets/overview-manage-assets)
-    - Manage MQTT broker
-      - [Broker overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/overview-broker)
-      - [Listener](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-brokerlistener)
-      - [Authentication](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-authentication)
-      - [Authorization](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-authorization)
-      - [Scale and availability](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-configure-availability-scale)
-      - [Disk-backed message buffer](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-disk-backed-message-buffer)
-      - [Persistence](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-broker-persistence)
-      - [Diagnostic settings](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-broker-diagnostics)
-      - [MQTT client options](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-broker-mqtt-client-options)
-      - [Encrypt internal traffic](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-encrypt-internal-traffic)
-      - [Test connection](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/howto-test-connection)
     - Process and route data
       - [Data flows vs. data flow graphs](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/overview-dataflow-comparison)
       - Endpoints
@@ -92,15 +104,6 @@
       - [Buffering and disk persistence](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-disk-persistence)
       - [Expressions reference](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-dataflow-graphs-expressions)
       - [Profiles](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-configure-dataflow-profile)
-    - Manage network
-      - [Overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/overview-layered-network)
-      - [Layered networking](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/concept-layered-network)
-      - [Deploy with private connectivity](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-private-connectivity)
-      - [Troubleshoot private connectivity](https://learn.microsoft.com/en-us/azure/iot-operations/manage-layered-network/howto-troubleshoot-private-connectivity)
-    - Configure observability and monitoring
-      - [Unified health status reporting](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/health-status-reporting)
-      - [Deploy observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-configure-observability)
-      - [Clean up observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/configure-observability-monitoring/howto-clean-up-observability-resources)
     - Develop edge applications
       - [Developer guide](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-iot-operations-development)
       - [Start developing with the SDKs](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/quickstart-get-started-sdks)
@@ -138,7 +141,7 @@
       - [Send data to Data Lake Storage](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/tutorial-opc-ua-to-data-lake)
       - [Secure communication with TLS, X.509, and ABAC](https://learn.microsoft.com/en-us/azure/iot-operations/manage-mqtt-broker/tutorial-tls-x509)
       - [Deploy in layered network with private connectivity](https://learn.microsoft.com/en-us/azure/iot-operations/end-to-end-tutorials/tutorial-layered-network-private-connectivity)
-    - Troubleshoot
+    - Troubleshoot Azure IoT Operations
       - [Troubleshoot](https://learn.microsoft.com/en-us/azure/iot-operations/troubleshoot/troubleshoot)
       - [Known issues](https://learn.microsoft.com/en-us/azure/iot-operations/troubleshoot/known-issues)
       - [Tips and tools](https://learn.microsoft.com/en-us/azure/iot-operations/troubleshoot/tips-tools)
@@ -157,5 +160,6 @@
         - [Akri and connectors](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-akri-connectors)
         - [Layered Network Management](https://learn.microsoft.com/en-us/azure/iot-operations/reference/observability-metrics-layered-network)
       - [MQTT support](https://learn.microsoft.com/en-us/azure/iot-operations/reference/mqtt-support)
+      - [Baseline resource profiles](https://learn.microsoft.com/en-us/azure/iot-operations/reference/concept-resource-profiles)
       - [IoT Glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary?toc=/azure/iot-operations/toc.json&bc=/azure/iot-operations/breadcrumb/toc.json)
       - [Digital twin builder preview in Fabric](https://learn.microsoft.com/fabric/real-time-intelligence/digital-twin-builder/overview)
