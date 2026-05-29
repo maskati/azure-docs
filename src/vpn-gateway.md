@@ -93,6 +93,7 @@
   - Point-to-site P2S VPN
     - [About point-to-site VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about)
     - [About point-to-site VPN routing](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-point-to-site-routing)
+    - [Migrate from Azure VPN Client for Linux](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-linux-retirement)
     - Configure P2S - certificate authentication
       - P2S gateway configuration
         - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway)
