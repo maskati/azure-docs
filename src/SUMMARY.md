@@ -102,7 +102,6 @@
 [SAP on Azure documentation](./sap.md)
 [Azure Service Bus Messaging documentation](./service-bus-messaging.md)
 [Service Connector documentation](./service-connector.md)
-[Azure startup credit offer documentation](./signups.md)
 [Azure Site Recovery documentation](./site-recovery.md)
 [Azure SRE Agent documentation](./sre-agent.md)
 [Azure Static Web Apps documentation](./static-web-apps.md)
