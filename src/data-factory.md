@@ -352,7 +352,6 @@
       - [Databricks Notebook activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-databricks-notebook)
       - [Databricks Python activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-databricks-python)
       - [Data Explorer Command activity](https://learn.microsoft.com/azure/data-explorer/data-factory-command-activity?toc=/azure/data-factory/toc.json)
-      - [Data Lake U-SQL activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-data-lake-analytics)
       - [HDInsight Hive activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-hadoop-hive)
       - [HDInsight MapReduce activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-hadoop-map-reduce)
       - [HDInsight Pig activity](https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-hadoop-pig)

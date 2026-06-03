@@ -6,7 +6,7 @@
     - [Scenarios](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenarios)
     - [AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-ai-enabled-apps)
     - [Get started](https://learn.microsoft.com/en-us/azure/azure-functions/functions-get-started)
-    - [Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable-functions/durable-functions-overview)
+    - [Durable Functions](https://learn.microsoft.com/en-us/azure/durable-task/durable-functions/durable-functions-overview)
     - [Serverless comparison](https://learn.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs)
     - [Hosting plan options](https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale)
   - Quickstarts
@@ -17,6 +17,7 @@
         - [Custom remote MCP server](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
         - [MCP Apps](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
         - [Host MCP server using SDKs](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-host-mcp-server-sdks)
+      - [Serverless agents](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-serverless-agents-runtime)
       - Respond to database changes
         - [Azure Cosmos DB NoSQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-cosmosdb)
         - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-sqldb)
@@ -25,7 +26,7 @@
       - [Migrate Linux apps to Flex Consumption using Copilot](https://learn.microsoft.com/en-us/azure/azure-functions/migration/scenario-migrate-linux-consumption-to-flex)
     - Developer tools
       - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
-      - [Command line Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli)
+      - [Command line tools](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli)
       - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-vs-code)
       - [Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
       - Other
@@ -70,7 +71,7 @@
     - [Functions on IoT Edge device](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - Azure Files storage mounts
       - [Process images with FFmpeg on a mounted share](https://learn.microsoft.com/en-us/azure/azure-functions/tutorial-ffmpeg-processing-azure-files)
-      - [Durable text analysis on a mounted share](https://learn.microsoft.com/en-us/azure/azure-functions/durable-functions/tutorial-durable-text-analysis-azure-files?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Durable text analysis on a mounted share](https://learn.microsoft.com/en-us/azure/durable-task/durable-functions/tutorial-durable-text-analysis-azure-files?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [Java with Azure Cosmos DB and Event Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-hub-cosmos-db)
   - Samples
     - [Azure Functions Samples in Github](https://github.com/search?q=topic%3Aazure-functions+org%3AAzure-Samples+fork%3Atrue&type=repositories)
@@ -118,6 +119,8 @@
       - [Extension bundles](https://learn.microsoft.com/en-us/azure/azure-functions/extension-bundles)
       - [Binding expression patterns](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-expressions-patterns)
       - [Handle binding errors](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-errors)
+    - Managed connectors
+      - [Use connectors in Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-connectors-overview)
     - Frameworks
       - [Express.js](https://learn.microsoft.com/en-us/azure/azure-functions/shift-expressjs)
     - Security
@@ -162,7 +165,8 @@
         - [Develop and debug locally](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-local)
         - [Visual Studio Code development](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code)
         - [Visual Studio development](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs)
-        - [Core Tools development](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local)
+        - [Azure Functions Core Tools v4](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local)
+        - [Azure Functions CLI v5](https://learn.microsoft.com/en-us/azure/azure-functions/functions-cli-develop-local)
       - Create a function app
         - [Infrastructure as code](https://learn.microsoft.com/en-us/azure/azure-functions/functions-infrastructure-as-code)
         - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal)
@@ -282,6 +286,9 @@
       - [MCP server authorization](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Connect to Foundry Agent Service](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-foundry-tools)
       - [Register an MCP server in API Center](https://learn.microsoft.com/en-us/azure/azure-functions/register-mcp-server-api-center)
+    - Serverless agents runtime
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-serverless-agents-runtime)
+      - [Quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-serverless-agents-runtime)
     - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
   - Migration guides
@@ -301,7 +308,7 @@
     - API references
       - [ARM template](https://learn.microsoft.com/azure/templates/microsoft.web/2022-03-01/sites/functions)
       - [Azure CLI](https://learn.microsoft.com/cli/azure/functionapp)
-      - [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-core-tools-reference)
+      - [Local runtime/tools func.exe](https://learn.microsoft.com/en-us/azure/azure-functions/functions-core-tools-reference)
       - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.functions/)
       - [Java](https://learn.microsoft.com/java/api/overview/azure/functions/runtime)
       - [Python](https://learn.microsoft.com/python/api/azure-functions/azure.functions)

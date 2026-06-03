@@ -141,7 +141,7 @@
           - [T-SQL](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/quickstart-configure-workload-isolation-tsql?context=/azure/synapse-analytics/context/context)
     - Tutorials
       - [Use serverless SQL pool to analyze data](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-data-analyst)
-      - [Create Logical Data Warehouse with serverless SQL pool](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-logical-data-warehouse)
+      - [Create Logical Data Warehouse on Cosmos DB and Azure Storage](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-logical-data-warehouse)
       - [Power BI Desktop](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-connect-power-bi-desktop)
     - Concepts
       - [Back up and restore](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/backup-and-restore?context=/azure/synapse-analytics/context/context)
@@ -323,7 +323,7 @@
       - Azure Synapse runtimes for Apache Spark
         - [Runtime for Apache Spark overview](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-version-support)
         - [Azure Synapse Apache Spark 3.5 runtime GA](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-35-runtime)
-        - [Azure Synapse Apache Spark 3.4 runtime EOSA](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-34-runtime)
+        - [Azure Synapse Apache Spark 3.4 runtime unsupported](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-34-runtime)
         - [Azure Synapse Apache Spark 3.3 runtime unsupported](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-33-runtime)
         - [Lifecycle and Supportability](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/runtime-for-apache-spark-lifecycle-and-supportability)
       - [Machine learning](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-concept)
@@ -358,13 +358,14 @@
         - [Monitor Apache Spark pools](https://learn.microsoft.com/en-us/azure/synapse-analytics/monitoring/how-to-monitor-spark-pools)
         - [Collect Apache Spark applications metrics using APIs](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/connect-monitor-azure-synapse-spark-application-level-metrics)
         - [Monitor Apache Spark Applications metrics with Prometheus and Grafana](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/use-prometheus-grafana-to-monitor-apache-spark-application-level-metrics)
-        - [Monitor your Apache Spark applications with Azure Log Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-log-analytics)
+        - [Collect logs and metrics with Azure Log Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/data-collector-api-to-log-ingestion-api)
         - [Collect Apache Spark applications logs and metrics with Azure Storage account](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/azure-synapse-diagnostic-emitters-azure-storage)
         - [Collect Apache Spark applications logs and metrics with Azure Event Hubs](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/azure-synapse-diagnostic-emitters-azure-eventhub)
         - [Collect Apache Spark Application Logs and Metrics to Azure Event Hubs Using Certificate-Based Service Principal Authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/how-to-use-certificate-with-service-principalp-emit-log-event-hubs)
         - [Collect Apache Spark Application Logs and Metrics to Azure Storage Account Using Certificate-Based Service Principal Authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/how-to-use-certificate-with-service-principal-for-log-storage)
         - [Manage Apache Spark configuration](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-create-spark-configuration)
         - [Apache Spark Advisor](https://learn.microsoft.com/en-us/azure/synapse-analytics/monitoring/apache-spark-advisor)
+      - [Legacy HTTP Data Collector API path for Azure Log Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-log-analytics)
       - Data sources
         - [Azure Cosmos DB Spark 3](https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-link/how-to-query-analytical-store-spark-3)
         - [Azure Cosmos DB Spark 2](https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-link/how-to-query-analytical-store-spark)

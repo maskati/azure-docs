@@ -62,6 +62,10 @@
         - [Shell session with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell-mcp)
         - [Python code interpreter with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-python-mcp)
     - [Modernize .NET & Java apps](https://learn.microsoft.com/en-us/azure/container-apps/modernize-ai)
+    - Sandboxes
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-overview)
+      - [Snapshots and state management](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
+      - [Egress policies](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-egress-policies)
   - Key concepts
     - Compute and billing structures
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/structure)
@@ -157,8 +161,12 @@
       - [Alerts](https://learn.microsoft.com/en-us/azure/container-apps/alerts)
     - End-to-end tracing and dashboards
       - [Aspire Dashboard](https://learn.microsoft.com/en-us/azure/container-apps/aspire-dashboard)
-      - [OpenTelemetry agents](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents)
       - [Grafana dashboards](https://learn.microsoft.com/en-us/azure/container-apps/grafana-dashboards)
+    - OpenTelemetry agents
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents)
+      - [Export to Dynatrace](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-export-dynatrace)
+      - [Export to Elastic](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-export-elastic)
+      - [Export to New Relic](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-export-new-relic)
     - Troubleshoot and resolve issues with SRE agent
       - [Overview](https://learn.microsoft.com/en-us/azure/sre-agent/overview)
       - [Use an SRE agent](https://learn.microsoft.com/en-us/azure/sre-agent/usage)

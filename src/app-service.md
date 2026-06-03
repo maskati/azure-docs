@@ -12,6 +12,7 @@
     - [Agentic web applications](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-agentic-web-apps)
     - [OpenAPI tools for Foundry agents](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-openapi-tool)
     - [Model Context Protocol servers](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-model-context-protocol-server)
+    - [Built-in MCP Preview](https://learn.microsoft.com/en-us/azure/app-service/configure-mcp-built-in)
     - [MCP hosting options](https://learn.microsoft.com/azure/container-apps/mcp-choosing-azure-service?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
     - [Local small language models](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-local-small-language-model)
     - [Secure AI applications](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-authentication)
@@ -45,6 +46,7 @@
         - [Add MCP server to app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-dotnet)
         - [Foundry agent calling web app](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-integrate-azure-ai-agent-dotnet)
         - [Agentic web app .NET](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-web-app-semantic-kernel-foundry-dotnet)
+        - [Monitor agents with OpenTelemetry](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-monitoring-dotnet)
         - [Chatbot with local SLM](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-slm-dotnet)
     - Java
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-java)

@@ -144,6 +144,12 @@
         - [Deploy and call custom APIs](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-custom-api-host-deploy-call)
       - [Support non-UTF-8 character encoding in logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/support-non-unicode-character-encoding)
       - [Troubleshoot errors](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-diagnosing-failures)
+    - Connector Namespace
+      - [Overview](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/connector-namespace-overview)
+      - [Create connector namespace](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/create-connector-namespace)
+      - [Create connector namespace connection](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/create-connector-namespace-connection)
+      - [Hosted MCP servers](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/connector-namespace-hosted-mcp)
+      - [Create a hosted MCP server](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/hosted-mcp-quickstart)
     - Access on-premises data sources
       - [Install on-premises data gateway](https://learn.microsoft.com/en-us/azure/logic-apps/install-on-premises-data-gateway-workflows)
       - [Connect to on-premises data sources](https://learn.microsoft.com/en-us/azure/logic-apps/connect-on-premises-data-sources)

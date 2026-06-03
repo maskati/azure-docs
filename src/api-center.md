@@ -35,6 +35,8 @@
       - [Build and register Logic Apps MCP server](https://learn.microsoft.com/en-us/azure/logic-apps/create-mcp-server-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
     - Skills
       - [Register and discover skills](https://learn.microsoft.com/en-us/azure/api-center/register-discover-skills)
+    - Plugins
+      - [Register and discover plugins](https://learn.microsoft.com/en-us/azure/api-center/register-discover-plugins)
     - Integrate API sources
       - [Synchronize assets from API Management](https://learn.microsoft.com/en-us/azure/api-center/synchronize-api-management-apis)
       - [Synchronize assets from Amazon API Gateway](https://learn.microsoft.com/en-us/azure/api-center/synchronize-aws-gateway-apis)
@@ -52,6 +54,7 @@
     - [Self-host Azure API Center portal](https://learn.microsoft.com/en-us/azure/api-center/self-host-api-center-portal)
     - [Discover and consume APIs - VS Code extension](https://learn.microsoft.com/en-us/azure/api-center/discover-apis-vscode-extension)
     - [Enable plugin marketplace](https://learn.microsoft.com/en-us/azure/api-center/enable-api-center-plugin-marketplace)
+    - [Enable API Center MCP server](https://learn.microsoft.com/en-us/azure/api-center/discover-catalog-mcp-server)
   - API center management and operations
     - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
   - Reference
