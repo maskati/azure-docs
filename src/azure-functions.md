@@ -158,6 +158,7 @@
         - [General troubleshooting](https://learn.microsoft.com/en-us/azure/azure-functions/recover-python-functions)
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
       - [Python SDK API reference](https://learn.microsoft.com/python/api/azure-functions/azure.functions)
+    - [Go Preview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-go)
   - How-to guides
     - Develop
       - [Developer guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference)

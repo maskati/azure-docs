@@ -62,6 +62,7 @@
         - [Control OPC UA assets](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-control-opc-ua)
         - [Understand OPC UA application authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opc-ua-connector-certificates-management)
         - [Configure OPC UA application authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-certificates-infrastructure)
+      - [Create and manage connector template instances](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-manage-connector-templates)
       - [Connect to media sources](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-media-connector)
       - [Connect to ONVIF-compliant cameras](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-onvif-connector)
       - [Connect to HTTP/REST endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-http-connector)

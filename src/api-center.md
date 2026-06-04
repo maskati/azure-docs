@@ -28,7 +28,6 @@
       - [Export API from API Center to Copilot Studio](https://learn.microsoft.com/en-us/azure/api-center/export-to-copilot-studio.yml)
       - [Track API dependencies](https://learn.microsoft.com/en-us/azure/api-center/track-resource-dependencies)
     - Agents
-      - [Overview](https://learn.microsoft.com/en-us/azure/api-center/agent-to-agent-overview)
       - [Register and manage agents](https://learn.microsoft.com/en-us/azure/api-center/register-manage-agents)
     - MCP servers
       - [Register and discover MCP servers](https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server)
