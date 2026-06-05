@@ -274,7 +274,6 @@
         - [Test disaster recovery with cross-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/test-disaster-recovery)
       - Manage caching
         - [Manage cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-cache-volumes)
-        - [Manage file access logs in Azure NetApp Files cache volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-file-access-logs-cache-volumes)
         - [Change the service level of an Azure NetApp Files cache volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/change-cache-volume-service-level)
         - [Break file locks for an Azure NetApp Files cache volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/break-file-locks-cache-volume)
         - [Reset SMB password for an Azure NetApp Files cache volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/reset-password-cache-volumes)

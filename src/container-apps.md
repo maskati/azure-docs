@@ -164,6 +164,7 @@
       - [Grafana dashboards](https://learn.microsoft.com/en-us/azure/container-apps/grafana-dashboards)
     - OpenTelemetry agents
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents)
+      - [Export to Datadog](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-export-datadog)
       - [Export to Dynatrace](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-export-dynatrace)
       - [Export to Elastic](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-export-elastic)
       - [Export to New Relic](https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-export-new-relic)
