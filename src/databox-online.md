@@ -245,7 +245,8 @@
         - [Enable remote support](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-remote-support-diagnostics-repair)
         - [Contact Microsoft Support](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-contact-microsoft-support)
     - Shared release notes
-      - [2510 - Current](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2510-release-notes)
+      - [2604 - Current](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2604-release-notes)
+      - [2510](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2510-release-notes)
       - [2506](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2506-release-notes)
       - [2501](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2501-release-notes)
       - [2407](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-2407-release-notes)

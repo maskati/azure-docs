@@ -29,6 +29,7 @@
     - [Troubleshoot Route Server issues](https://learn.microsoft.com/en-us/azure/route-server/troubleshoot-route-server)
     - [Monitor Route Server](https://learn.microsoft.com/en-us/azure/route-server/monitor-route-server)
   - Security
+    - [Secure Route Server deployment](https://learn.microsoft.com/en-us/azure/route-server/secure-route-server)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-route-server-security-baseline?toc=/azure/route-server/toc.json)
     - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Reference

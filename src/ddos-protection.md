@@ -29,6 +29,7 @@
     - [Deploy Application Gateway with DDoS Protection](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway-ddos?toc=/azure/ddos-protection/TOC.json)
     - [Deploy Load Balancer with DDoS Protection](https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer-ddos?toc=/azure/ddos-protection/TOC.json)
   - Secure
+    - [Secure DDoS Protection deployment](https://learn.microsoft.com/en-us/azure/ddos-protection/secure-ddos-protection)
     - [DDoS Protection on Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos?toc=/azure/ddos-protection/TOC.json)
     - [Defend against API Management DDoS attacks](https://learn.microsoft.com/en-us/azure/api-management/protect-with-ddos-protection?toc=/azure/ddos-protection/TOC.json)
     - [Inline L7 DDoS protection with Gateway Load Balancer and partner NVAs](https://learn.microsoft.com/en-us/azure/ddos-protection/inline-protection-glb)

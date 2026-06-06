@@ -50,6 +50,7 @@
     - [Connect to an Azure Cosmos DB account](https://learn.microsoft.com/azure/cosmos-db/how-to-configure-private-endpoints?toc=/azure/private-link/toc.json)
     - [Approve private link connections across subscriptions](https://learn.microsoft.com/en-us/azure/private-link/how-to-approve-private-link-cross-subscription)
   - Security
+    - [Secure Private Link deployment](https://learn.microsoft.com/en-us/azure/private-link/secure-private-link)
     - [Configure an application security group](https://learn.microsoft.com/en-us/azure/private-link/configure-asg-private-endpoint)
     - [Inspect private endpoint traffic with Azure Firewall](https://learn.microsoft.com/en-us/azure/private-link/tutorial-inspect-traffic-azure-firewall)
     - [RBAC permissions](https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions)

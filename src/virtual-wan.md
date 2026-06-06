@@ -96,6 +96,9 @@
     - [About IPsec policies](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-ipsec)
     - [About client address pools](https://learn.microsoft.com/en-us/azure/virtual-wan/about-client-address-pools)
     - [About global and hub profiles](https://learn.microsoft.com/en-us/azure/virtual-wan/global-hub-profile)
+    - Gateway root certificate migration
+      - [About gateway root certificate migration](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-about-gateway-certificate-migration)
+      - [Update a VPN Client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-vpn-profile-update?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Migrate from the Azure VPN Client for Linux](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-linux-retirement)
     - Configure P2S - Certificate authentication
       - P2S server configuration

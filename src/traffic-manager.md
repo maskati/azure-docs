@@ -22,6 +22,7 @@
     - [Routing methods](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods)
       - [Country/Region hierarchy used by Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-geographic-regions)
     - Security
+      - [Secure Traffic Manager deployment](https://learn.microsoft.com/en-us/azure/traffic-manager/secure-traffic-manager)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/traffic-manager-security-baseline?toc=/azure/traffic-manager/toc.json)
       - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
     - [Nested Traffic Manager profiles](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-nested-profiles)
