@@ -3,20 +3,23 @@
   - [Azure Logic Apps documentation](https://learn.microsoft.com/en-us/azure/logic-apps/)
   - Overview
     - [About Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
+    - [About Azure Logic Apps Automation](https://learn.microsoft.com/en-us/azure/logic-apps/automation/dynamic-workflow-automation-introduction)
   - Quickstarts
-    - Consumption logic app workflows
+    - Dynamic workflows
+      - [1 - Create projects](https://learn.microsoft.com/en-us/azure/logic-apps/automation/quickstart-create-dynamic-automation-projects)
+      - [2 - Create applications](https://learn.microsoft.com/en-us/azure/logic-apps/automation/quickstart-create-dynamic-automation-applications)
+      - [3 - Create workflows](https://learn.microsoft.com/en-us/azure/logic-apps/automation/quickstart-create-dynamic-automation-workflows)
+    - Standard workflows
+      - [Portal](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-azure-portal)
+      - [Portal - Templates gallery](https://learn.microsoft.com/en-us/azure/logic-apps/create-workflows-from-templates?tabs=standard)
+      - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/create-standard-workflows-visual-studio-code)
+    - Consumption workflows
       - [Portal](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-example-consumption-workflow)
-      - [Portal - Templates gallery](https://learn.microsoft.com/en-us/azure/logic-apps/create-workflows-from-templates?tabs=consumption)
-      - [Visual Studio](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-with-visual-studio)
-      - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-visual-studio-code)
+      - [Portal - Templates gallery](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-logic-apps-visual-studio-code)
       - [Bicep](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-deploy-bicep)
       - [ARM template](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-create-deploy-azure-resource-manager-template)
       - [Azure CLI](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-logic-apps-azure-cli)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/logic-apps/quickstart-logic-apps-azure-powershell)
-    - Standard logic app workflows
-      - [Portal](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-azure-portal)
-      - [Portal - Templates gallery](https://learn.microsoft.com/en-us/azure/logic-apps/create-workflows-from-templates?tabs=standard)
-      - [Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/create-standard-workflows-visual-studio-code)
   - Tutorials
     - [Create Consumption schedule-based workflow](https://learn.microsoft.com/en-us/azure/logic-apps/tutorial-build-schedule-recurring-logic-app-workflow)
     - [Create Consumption approval-based workflow](https://learn.microsoft.com/en-us/azure/logic-apps/tutorial-process-mailing-list-subscriptions-workflow)

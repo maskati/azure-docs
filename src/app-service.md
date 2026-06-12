@@ -168,7 +168,7 @@
       - [Minimum TLS version](https://learn.microsoft.com/en-us/azure/app-service/tls-minimum-version)
       - [Secure a custom domain with HTTPS](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-bindings)
       - [Add and manage TLS/SSL certificates](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate)
-      - [Create and Manage App Service certificates](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-app-service-certificate)
+      - [Buy and manage App Service certificates](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-app-service-certificate)
       - [Use TLS/SSL certificates in app code](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate-in-code)
       - [Configure TLS mutual authentication](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth)
       - [Industry-wide certificate changes](https://learn.microsoft.com/en-us/azure/app-service/industry-wide-certificate-changes)

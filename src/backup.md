@@ -443,6 +443,7 @@
     - [Recover data from Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server)
     - [Restore VMware VMs with Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/restore-azure-backup-server-vmware)
     - [Back up the MABS server](https://learn.microsoft.com/en-us/azure/backup/backup-the-mabs-server)
+    - [Stop protection for datasource](https://learn.microsoft.com/en-us/azure/backup/backup-server-stop-protection)
   - Azure Backup Server on Azure Stack
     - [Install Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-install-azure-stack)
     - [Protect files and applications](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-files-applications-azure-stack)
