@@ -5,7 +5,7 @@
     - [About Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
     - [About Azure Logic Apps Automation](https://learn.microsoft.com/en-us/azure/logic-apps/automation/dynamic-workflow-automation-introduction)
   - Quickstarts
-    - Dynamic workflows
+    - Automation workflows
       - [1 - Create projects](https://learn.microsoft.com/en-us/azure/logic-apps/automation/quickstart-create-dynamic-automation-projects)
       - [2 - Create applications](https://learn.microsoft.com/en-us/azure/logic-apps/automation/quickstart-create-dynamic-automation-applications)
       - [3 - Create workflows](https://learn.microsoft.com/en-us/azure/logic-apps/automation/quickstart-create-dynamic-automation-workflows)
@@ -48,7 +48,13 @@
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/logic-apps/security-controls-policy)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/logic-apps-security-baseline?toc=/azure/logic-apps/toc.json)
   - How-to guides
-    - Single-tenant Azure Logic Apps
+    - Azure Logic Apps Automation
+      - [About Azure Logic Apps Automation](https://learn.microsoft.com/en-us/azure/logic-apps/automation/dynamic-workflow-automation-introduction)
+      - [Compare automation services](https://learn.microsoft.com/en-us/azure/logic-apps/automation/compare-automation-services)
+      - [1 - Create projects](https://learn.microsoft.com/en-us/azure/logic-apps/automation/quickstart-create-dynamic-automation-projects)
+      - [2 - Create applications](https://learn.microsoft.com/en-us/azure/logic-apps/automation/quickstart-create-dynamic-automation-applications)
+      - [3 - Create workflows](https://learn.microsoft.com/en-us/azure/logic-apps/automation/quickstart-create-dynamic-automation-workflows)
+    - Azure Logic Apps Standard
       - [Overview](https://learn.microsoft.com/en-us/azure/logic-apps/single-tenant-overview-compare)
       - [Navigate the Standard workflow designer](https://learn.microsoft.com/en-us/azure/logic-apps/designer-overview)
       - [Built-in versus Azure connector operations](https://learn.microsoft.com/en-us/azure/connectors/compare-built-in-azure-connectors)
@@ -148,12 +154,12 @@
         - [Deploy and call custom APIs](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-custom-api-host-deploy-call)
       - [Support non-UTF-8 character encoding in logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/support-non-unicode-character-encoding)
       - [Troubleshoot errors](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-diagnosing-failures)
-    - Connector Namespace
+    - Azure Connector Namespaces
       - [Overview](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/connector-namespace-overview)
-      - [Create connector namespace](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/create-connector-namespace)
-      - [Create connector namespace connection](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/create-connector-namespace-connection)
+      - [Create connector namespaces](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/create-connector-namespace)
+      - [Create connections for connector namespaces](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/create-connector-namespace-connection)
       - [Hosted MCP servers](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/connector-namespace-hosted-mcp)
-      - [Create a hosted MCP server](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/hosted-mcp-quickstart)
+      - [Create hosted MCP servers](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/hosted-mcp-quickstart)
       - [Hosted MCP servers developer guide](https://learn.microsoft.com/en-us/azure/logic-apps/connector-namespace/hosted-mcp-dev-guide)
     - Access on-premises data sources
       - [Install on-premises data gateway](https://learn.microsoft.com/en-us/azure/logic-apps/install-on-premises-data-gateway-workflows)
@@ -167,7 +173,7 @@
         - [Maps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-maps)
         - [Certificates](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-certificates)
         - [Artifact metadata](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-metadata)
-      - [Receive and send B2B messages](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-b2b)
+      - [Exchange B2B messages](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-b2b)
       - AS2 messaging
         - [Exchange AS2 messages](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-as2)
         - [AS2 message settings](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-as2-message-settings)
@@ -265,9 +271,9 @@
       - [Create unit tests from Standard workflow runs](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/create-unit-tests-standard-workflow-runs-visual-studio-code)
       - [Test workflows with mock outputs](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/test-logic-apps-mock-data-static-results)
     - Deploy
-      - [About automated deployment - Multitenant](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-azure-resource-manager-templates-overview)
-      - [Create logic app templates](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-create-azure-resource-manager-templates)
-      - [Deploy logic app templates](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-deploy-azure-resource-manager-templates)
+      - [Automated deployment for multitenant](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-azure-resource-manager-templates-overview)
+      - [Create logic app templates for multitenant](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-create-azure-resource-manager-templates)
+      - [Deploy logic app templates for multitenant](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-deploy-azure-resource-manager-templates)
     - Monitor
       - [Monitor workflows](https://learn.microsoft.com/en-us/azure/logic-apps/monitor-logic-apps-overview)
       - [View workflow status and run history](https://learn.microsoft.com/en-us/azure/logic-apps/view-workflow-status-run-history)
@@ -326,8 +332,8 @@
       - [DataMapTestExecutor class](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/data-map-test-executor-class-definition)
       - [LiquidDataMapTestExecutor class](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/liquid-data-map-test-executor-class-definition)
       - [TestLiquidTransformKind enum](https://learn.microsoft.com/en-us/azure/logic-apps/testing-framework/test-liquid-transform-kind-enum-definition)
-    - Standard Logic Apps SDK
-      - [Logic Apps Standard SDK overview](https://learn.microsoft.com/en-us/azure/logic-apps/standard-sdk/logic-apps-standard-sdk)
+    - Azure Logic Apps Standard SDK
+      - [Overview](https://learn.microsoft.com/en-us/azure/logic-apps/standard-sdk/logic-apps-standard-sdk)
       - Workflow composition and chaining
         - [IChainableNode interface](https://learn.microsoft.com/en-us/azure/logic-apps/standard-sdk/i-chainable-node-class-definition)
         - [IWorkflowOperation interface](https://learn.microsoft.com/en-us/azure/logic-apps/standard-sdk/i-workflow-operation-class-definition)

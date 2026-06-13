@@ -89,7 +89,7 @@
       - [Java](https://learn.microsoft.com/java/api/)
       - [Node.js](https://learn.microsoft.com/javascript/azure)
       - [Python](https://azure.microsoft.com/develop/python/)
-      - [REST](https://github.com/Azure/azure-rest-api-specs/blob/main/specification/network/resource-manager/Microsoft.Network/preview/2023-07-01-preview/networkSecurityPerimeter.json)
+      - [REST](https://github.com/Azure/azure-rest-api-specs/blob/main/specification/network/resource-manager/Microsoft.Network/Network/preview/2023-07-01-preview/networkSecurityPerimeter.json)
   - Resources
     - [Build your skills with Microsoft Learn training](https://learn.microsoft.com/training/browse/)
     - [Azure Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
