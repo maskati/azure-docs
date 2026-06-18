@@ -596,6 +596,7 @@
       - [Emergency Calling](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/tpe/teams-phone-extensibility-emergency-call)
       - [Teams Extension User Authentication Sample](https://github.com/Azure-Samples/communication-services-javascript-quickstarts/tree/main/tpe-token-and-access-management)
       - [Place a server outbound call](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/tpe/teams-phone-extensibility-server-outbound-call)
+      - [Build an IVR Bot for Teams Auto Attendant](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/tpe/teams-phone-extensibility-interactive-voice-response)
       - [REST API for Teams Phone extensibility](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/tpe/teams-phone-extensiblity-rest-api)
   - Job Router
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/router/concepts)
