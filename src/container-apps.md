@@ -153,6 +153,7 @@
       - [Log streaming](https://learn.microsoft.com/en-us/azure/container-apps/log-streaming)
       - [Container console](https://learn.microsoft.com/en-us/azure/container-apps/container-console)
       - [Container debug console](https://learn.microsoft.com/en-us/azure/container-apps/container-debug-console)
+      - [Deployment error guidance](https://learn.microsoft.com/en-us/azure/container-apps/deployment-errors)
     - Monitor production workloads
       - [Application logging](https://learn.microsoft.com/en-us/azure/container-apps/logging)
       - [Logging options](https://learn.microsoft.com/en-us/azure/container-apps/log-options)

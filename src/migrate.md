@@ -87,6 +87,7 @@
         - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)
         - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-application-assessment)
         - Code level insights
+          - [Enhance web app assessment by adding code scan report](https://learn.microsoft.com/en-us/azure/migrate/add-copilot-code-insights)
           - [Integrate with CAST highlights](https://learn.microsoft.com/en-us/azure/migrate/cast-highlights-integration)
       - Workload specific assessments
         - VM assessment
@@ -113,7 +114,6 @@
         - Webapp assessment
           - [Create a Webapp assessment](https://learn.microsoft.com/en-us/azure/migrate/create-web-app-assessment)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-web-app-assessment)
-          - [Enhance web app assessment by adding code scan report](https://learn.microsoft.com/en-us/azure/migrate/add-copilot-code-insights)
         - File share assessment
           - [Create a file share assessment](https://learn.microsoft.com/en-us/azure/migrate/create-file-share-assessment)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-file-share-assessment)

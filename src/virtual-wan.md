@@ -150,8 +150,10 @@
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-versions)
     - Assign IP addresses to specific User Groups
       - [About user groups and client address pools](https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-about)
-      - [Configure user groups for address pools](https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-create)
-      - [RADIUS - Configure NPS and user groups](https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-radius)
+      - Configure user groups and address pools
+        - [Azure Portal](https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-create)
+        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-user-groups-powershell)
+        - [RADIUS - Configure NPS and user groups](https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-radius)
     - Configure Always On tunnels
       - [User tunnel - Windows clients](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-user-tunnel)
       - [Device tunnel - Windows clients](https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-device-tunnel)
