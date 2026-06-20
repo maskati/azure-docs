@@ -12,7 +12,7 @@
     - [Create a project - Portal](https://learn.microsoft.com/en-us/azure/migrate/quickstart-create-project)
     - [Evaluate migration readiness and savings for Arc resources](https://learn.microsoft.com/en-us/azure/migrate/quickstart-evaluate-readiness-savings-for-arc-resources)
     - [Create a business case using imported inventory](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
-  - Key Concepts
+  - Key concepts
     - [Supported Geographies](https://learn.microsoft.com/en-us/azure/migrate/supported-geographies)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-migrate-security-baseline?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
     - [Appliance:Security best practices](https://learn.microsoft.com/en-us/azure/migrate/best-practices-security)
@@ -71,7 +71,7 @@
     - [Business case overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-business-case-calculation)
     - [Build a business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-business-case)
     - [Review business case](https://learn.microsoft.com/en-us/azure/migrate/how-to-view-a-business-case)
-  - Create Reports
+  - Create reports
     - [Overview reports](https://learn.microsoft.com/en-us/azure/migrate/reports-overview)
     - [Build a report](https://learn.microsoft.com/en-us/azure/migrate/how-to-build-a-report)
   - Plan migrations
@@ -86,8 +86,8 @@
         - [Create assessment](https://learn.microsoft.com/en-us/azure/migrate/create-application-assessment)
         - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/assessment-properties)
         - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-application-assessment)
-        - Code level insights
-          - [Enhance web app assessment by adding code scan report](https://learn.microsoft.com/en-us/azure/migrate/add-copilot-code-insights)
+        - Code insights
+          - [Add code insights using GitHub Copilot modernization](https://learn.microsoft.com/en-us/azure/migrate/add-copilot-code-insights)
           - [Integrate with CAST highlights](https://learn.microsoft.com/en-us/azure/migrate/cast-highlights-integration)
       - Workload specific assessments
         - VM assessment
@@ -199,7 +199,7 @@
       - [Manage migration projects with Azure Lighthouse](https://learn.microsoft.com/azure/lighthouse/how-to/migration-at-scale?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
     - [VMware migrations with migration agent](https://learn.microsoft.com/en-us/azure/migrate/how-to-plan-analyze-migration-with-agent)
   - Troubleshoot
-    - Azure Migrate Project
+    - Azure Migrate project
       - [Troubleshoot Azure Migrate projects](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-project)
       - [Azure Migrate in unsupported regions](https://learn.microsoft.com/en-us/azure/migrate/azure-migrate-unsupported-regions)
       - [Troubleshoot Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-general)

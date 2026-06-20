@@ -82,7 +82,7 @@
         - [Regions](https://azure.microsoft.com/global-infrastructure/services/?products=virtual-machine)
     - Confidential services
       - [Confidential VMs for Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/flexible-server/security-confidential-computing)
-      - [Confidential VMs for Azure Databricks](https://techcommunity.microsoft.com/t5/azure-confidential-computing/confidential-vm-option-for-azure-databricks-preview/ba-p/3827982)
+      - [Confidential VMs for Azure Databricks](https://techcommunity.microsoft.com/blog/azuredatablog/announcing-the-general-availability-of-amd-based-confidential-vms-on-azure-datab/3980969)
       - [Confidential VMs for Azure Data Explorer preview](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/confidential-vm-option-for-azure-data-explorer-public-preview/ba-p/3827343)
       - [Confidential VMs for Azure Virtual Desktop](https://learn.microsoft.com/azure/virtual-desktop/whats-new)
       - [Azure confidential ledger](https://learn.microsoft.com/azure/confidential-ledger/overview)

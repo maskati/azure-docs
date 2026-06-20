@@ -43,6 +43,7 @@
     - [Error handling and detection](https://learn.microsoft.com/en-us/azure/batch/error-handling)
     - [Best practices](https://learn.microsoft.com/en-us/azure/batch/best-practices)
     - [Quotas and limits](https://learn.microsoft.com/en-us/azure/batch/batch-quota-limit)
+    - [Capacity planning](https://learn.microsoft.com/en-us/azure/batch/batch-capacity-planning)
     - [Supported VM sizes](https://learn.microsoft.com/en-us/azure/batch/batch-pool-vm-sizes)
     - [Reliability in Azure Batch](https://learn.microsoft.com/azure/reliability/reliability-batch?toc=/azure/batch/toc.json&bc=/azure/batch/breadcrumb/toc.json)
     - [Task runtime environment variables](https://learn.microsoft.com/en-us/azure/batch/batch-compute-node-environment-variables)
