@@ -21,6 +21,7 @@
     - [Deploy using quickstart templates](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/deployment)
     - [Connect to storage using a private endpoint](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/how-to-use-private-endpoint-storage)
     - [Troubleshoot Azure Cloud Shell in a virtual network](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/troubleshooting)
+    - [Assign necessary permissions to prepare for Network Profile deprecation](https://learn.microsoft.com/en-us/azure/cloud-shell/vnet/migrate-container-permissions)
   - Security
     - [Allow multiple users to use a single storage account and file share](https://learn.microsoft.com/en-us/azure/cloud-shell/security/how-to-support-multiple-users)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/cloud-shell-security-baseline?bc=%2fazure%2fbread%2ftoc.json&toc=%2fazure%2fcloud-shell%2ftoc.json)
