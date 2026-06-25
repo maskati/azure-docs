@@ -53,6 +53,7 @@
   - Security and Ransomware protection
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/security-overview)
     - [FAQ-Protection against Ransomware](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
+    - [Best practices for backup data protection](https://learn.microsoft.com/en-us/azure/backup/azure-backup-data-protection-best-practices)
     - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/backup/backup-rbac-rs-vault)
     - Multi-user authorization
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept)

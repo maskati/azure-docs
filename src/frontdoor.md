@@ -67,10 +67,7 @@
     - Caching
       - [Caching with Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-standard-premium)
       - [Configure caching](https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-caching)
-      - Purge Front Door cache
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-cache-purge)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-cache-purge-powershell)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-cache-purge-cli)
+      - [Purge cache](https://learn.microsoft.com/en-us/azure/frontdoor/cache-purge)
     - Integrations
       - [Azure Storage Account](https://learn.microsoft.com/en-us/azure/frontdoor/integrate-storage-account)
       - [Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/front-door-api-management?toc=/azure/frontdoor/toc.json)
