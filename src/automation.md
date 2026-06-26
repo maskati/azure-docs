@@ -149,6 +149,7 @@
       - [Troubleshoot Agent-based Hybrid Runbook Worker Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/hybrid-runbook-worker)
     - [Troubleshoot State Configuration Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration)
     - [Data to Collect when Opening a Case for Microsoft Azure Automation](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/collect-data-microsoft-azure-automation-case)
+  - [Retirements](https://learn.microsoft.com/en-us/azure/automation/automation-runtime-retirement-policy)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/automation)
     - [Azure PowerShell Az](https://learn.microsoft.com/powershell/module/az.automation/)
