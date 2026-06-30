@@ -59,6 +59,7 @@
       - [Message browsing](https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-browsing)
       - [Message transfers, locks, and settlement](https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-transfers-locks-settlement)
       - [Dead-letter queues](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues)
+      - [Prevent message loss and duplicates](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-message-loss-and-duplicates)
       - [Message deferral](https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-deferral)
       - [Prefetch messages](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-prefetch)
       - [Chain entities with auto-forwarding](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-auto-forwarding)
@@ -153,6 +154,7 @@
       - [Audit minimum required TLS version](https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-audit-minimum-version)
     - Troubleshoot
       - [Troubleshooting guide](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide)
+      - [Handle timeouts and configure retries](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-timeouts-retries)
       - [SDK troubleshooting guide](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/TROUBLESHOOTING)
       - [Resource Manager exceptions](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-exceptions)
       - [Service Bus exceptions](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest)

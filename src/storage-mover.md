@@ -33,6 +33,9 @@
       - [Troubleshoot network issues](https://learn.microsoft.com/en-us/azure/storage-mover/network-troubleshooting)
       - [Job run error codes](https://learn.microsoft.com/en-us/azure/storage-mover/status-code)
       - [Collect a support bundle](https://learn.microsoft.com/en-us/azure/storage-mover/troubleshooting)
+  - Reliability and resiliency
+    - [Reliability in Azure Storage Mover](https://learn.microsoft.com/azure/reliability/reliability-azure-storage-mover?toc=/azure/storage-mover/toc.json)
+    - [Customer-initiated disaster recovery](https://learn.microsoft.com/en-us/azure/storage-mover/customer-initiated-disaster-recovery)
   - Resources
     - [Monitor copy and job run logs](https://learn.microsoft.com/en-us/azure/storage-mover/log-monitoring)
     - [Release notes](https://learn.microsoft.com/en-us/azure/storage-mover/release-notes)
