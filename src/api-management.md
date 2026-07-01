@@ -41,15 +41,18 @@
       - [Import Google Gemini API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-google-gemini-api)
       - [Import Amazon Bedrock API](https://learn.microsoft.com/en-us/azure/api-management/amazon-bedrock-passthrough-llm-api)
       - [Authenticate and authorize to LLM APIs](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-ai-apis)
-    - AI tools and agent integrations
+      - [Log LLM tokens, requests, and responses](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-llm-logs)
+      - [Semantic caching for LLM API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
+    - Manage MCP servers and tools
       - [Model Context Protocol MCP server capabilities](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-overview)
       - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
       - [Expose existing MCP server](https://learn.microsoft.com/en-us/azure/api-management/expose-existing-mcp-server)
+      - [Govern MCP servers with products](https://learn.microsoft.com/en-us/azure/api-management/govern-mcp-server-products)
       - [Secure access to MCP servers](https://learn.microsoft.com/en-us/azure/api-management/secure-mcp-servers)
+      - [Roll out MCP servers using versions](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-versions)
+      - [Monitor MCP server traffic](https://learn.microsoft.com/en-us/azure/api-management/monitor-mcp-servers)
+    - Manage agent APIs
       - [Import agent-to-agent A2A API](https://learn.microsoft.com/en-us/azure/api-management/agent-to-agent-api)
-    - Logging, metrics, and semantic caching
-      - [Log LLM tokens, requests, and responses](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-llm-logs)
-      - [Semantic caching for LLM API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
   - Create and import APIs
     - [Add an API manually](https://learn.microsoft.com/en-us/azure/api-management/add-api-manually)
     - Import REST APIs

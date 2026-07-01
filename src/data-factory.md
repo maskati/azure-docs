@@ -13,6 +13,7 @@
       - [Pipeline assessment tool](https://learn.microsoft.com/en-us/azure/data-factory/how-to-assess-your-azure-data-factory-to-fabric-data-factory-migration)
       - [Upgrade Azure Data Factory pipelines to Fabric](https://learn.microsoft.com/en-us/azure/data-factory/how-to-upgrade-your-azure-data-factory-pipelines-to-fabric-data-factory)
       - [Upgrade Azure Synapse Analytics pipelines to Fabric](https://learn.microsoft.com/en-us/azure/data-factory/how-to-upgrade-your-azure-synapse-analytics-pipelines-to-fabric-data-factory)
+      - [Upgrade mapping data flows to Fabric](https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-mapping-data-flows-transforms-upgrade?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
       - Upgrade pipelines with PowerShell
         - [Pipeline upgrade with PowerShell overview](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-powershell-upgrade-module-for-azure-data-factory-to-fabric?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)
         - [Tutorial PowerShell pipeline upgrade](https://learn.microsoft.com/fabric/data-factory/migrate-pipelines-powershell-upgrade-module-tutorial?toc=/azure/data-factory/TOC.json&bc=/azure/data-factory/breadcrumb/toc.json)

@@ -13,11 +13,12 @@
       - [Planning for a deployment](https://learn.microsoft.com/en-us/azure/storage-mover/deployment-planning)
       - [Service prerequisites](https://learn.microsoft.com/en-us/azure/storage-mover/service-prerequisites)
       - [Network prerequisites](https://learn.microsoft.com/en-us/azure/storage-mover/network-prerequisites)
-      - [Planning your Private Networking for cloud to cloud migrations](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-private-network-configs)
+      - [Planning your Private Networking for cloud to cloud migrations](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-private-network-configuration)
       - [Performance targets](https://learn.microsoft.com/en-us/azure/storage-mover/performance-targets)
     - Deploy and execute
       - [Create a storage mover resource](https://learn.microsoft.com/en-us/azure/storage-mover/storage-mover-create)
       - [Migrate from Amazon S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
+      - [Migrate from Google S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/google-migration)
       - [Transfer from Azure Blob to Blob](https://learn.microsoft.com/en-us/azure/storage-mover/azure-to-azure-migration)
       - [Deploy a storage mover agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy)
       - [Register an agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-register)
