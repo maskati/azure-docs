@@ -47,6 +47,7 @@
       - [Model Context Protocol MCP server capabilities](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-overview)
       - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
       - [Expose existing MCP server](https://learn.microsoft.com/en-us/azure/api-management/expose-existing-mcp-server)
+      - [Create and manage MCP servers programmatically](https://learn.microsoft.com/en-us/azure/api-management/manage-mcp-servers-rest-api)
       - [Govern MCP servers with products](https://learn.microsoft.com/en-us/azure/api-management/govern-mcp-server-products)
       - [Secure access to MCP servers](https://learn.microsoft.com/en-us/azure/api-management/secure-mcp-servers)
       - [Roll out MCP servers using versions](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-versions)

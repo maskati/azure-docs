@@ -52,6 +52,7 @@
 [Azure Digital Twins documentation](./digital-twins.md)
 [Azure DNS documentation](./dns.md)
 [Azure Education Hub documentation](./education-hub.md)
+[Azure Enclave documentation](./enclave.md)
 [Microsoft Azure Data Manager for Energy documentation](./energy-data-services.md)
 [Azure Event Grid documentation](./event-grid.md)
 [Azure Event Hubs documentation](./event-hubs.md)

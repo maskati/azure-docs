@@ -82,3 +82,4 @@
     - [.NET SDK](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.network)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/networkmanagers)
   - Resources
+    - [Reliability in Azure Virtual Network Manager](https://learn.microsoft.com/azure/reliability/reliability-virtual-network-manager)
