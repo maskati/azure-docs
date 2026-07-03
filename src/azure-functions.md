@@ -201,6 +201,7 @@
     - Deploy
       - [Continuous deployment](https://learn.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment)
       - [Deployment slots](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots)
+      - [Recover a Flex Consumption deployment](https://learn.microsoft.com/en-us/azure/azure-functions/functions-rollback-deployments)
       - Containers
         - [Work with containers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-custom-container)
         - [Create functions in containers](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-container-registry)

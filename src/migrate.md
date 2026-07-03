@@ -125,7 +125,7 @@
       - [Wave planning](https://learn.microsoft.com/en-us/azure/migrate/common-questions-wave-planning)
   - Execute migrations
     - [Overview of migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
-    - [End-to-end portal experience for server migrations with Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/end-to-end-portal-experience-server-migrations)
+    - [Execute server migrations in Azure Migrate portal](https://learn.microsoft.com/en-us/azure/migrate/execute-server-migrations)
     - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
     - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
     - [Redeploy servers using IaC](https://learn.microsoft.com/en-us/azure/migrate/server-redeploy)
