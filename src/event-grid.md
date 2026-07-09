@@ -197,7 +197,6 @@
             - [Advanced Messaging Events](https://learn.microsoft.com/en-us/azure/event-grid/communication-services-advanced-messaging-events)
           - [Azure Container Registry](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-container-registry)
           - [Azure Data Box](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-data-box)
-          - [Azure Data Manager for Agriculture](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-data-manager-for-agriculture)
           - [Azure Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-event-grid-namespace)
           - [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-event-hubs)
           - [Azure Health Data Services](https://learn.microsoft.com/en-us/azure/event-grid/event-schema-azure-health-data-services)

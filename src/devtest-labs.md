@@ -106,8 +106,6 @@
       - [Specify mandatory artifacts](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-mandatory-artifacts)
       - [Troubleshoot issues with applying artifacts](https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-troubleshoot-apply-artifacts)
     - [Encrypt OS disks using customer-managed keys](https://learn.microsoft.com/en-us/azure/devtest-labs/encrypt-disks-customer-managed-keys)
-    - Integrate with CI/CD
-      - [Use DevTest Labs in Azure Pipelines build and release pipelines](https://learn.microsoft.com/en-us/azure/devtest-labs/use-devtest-labs-build-release-pipelines)
     - Extend DevTest Labs
       - [Use Azure Functions to extend DevTest Labs](https://learn.microsoft.com/en-us/azure/devtest-labs/extend-devtest-labs-azure-functions)
     - [Report usage of labs](https://learn.microsoft.com/en-us/azure/devtest-labs/report-usage-across-multiple-labs-subscriptions)

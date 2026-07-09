@@ -22,14 +22,9 @@
       - [Configure cross-tenant connections - Portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-portal)
       - [Configure cross-tenant connections - CLI](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-cli)
     - Create a network topology
-      - Hub-and-spoke
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke-powershell)
-        - [Deploy hub and spoke topology with Azure Firewall](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-deploy-hub-spoke-topology-with-azure-firewall)
-        - [Configure Virtual WAN hub in Hub and Spoke Topology](https://learn.microsoft.com/en-us/azure/virtual-network-manager/configure-virtual-wan-hub-for-network-manager)
-      - Mesh
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network-powershell)
+      - [Create mesh or hub-and-spoke topology](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-network-manager-topologies)
+      - [Deploy hub and spoke topology with Azure Firewall](https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-deploy-hub-spoke-topology-with-azure-firewall)
+      - [Configure Virtual WAN hub in Hub and Spoke Topology](https://learn.microsoft.com/en-us/azure/virtual-network-manager/configure-virtual-wan-hub-for-network-manager)
   - Configure
     - [Scope overview](https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-manager-scope)
     - Network groups
