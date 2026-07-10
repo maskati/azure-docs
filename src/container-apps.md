@@ -22,6 +22,10 @@
       - Run a job
         - [Azure portal](https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-portal)
         - [Command line](https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-cli)
+    - Sandboxes
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-overview)
+      - [Snapshots and state management](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
+      - [Egress policies](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-egress-policies)
     - Express
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/express-overview)
       - [Deploy with the CLI](https://learn.microsoft.com/en-us/azure/container-apps/deploy-express-cli)
@@ -62,10 +66,6 @@
         - [Shell session with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-shell-mcp)
         - [Python code interpreter with MCP](https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-python-mcp)
     - [Modernize .NET & Java apps](https://learn.microsoft.com/en-us/azure/container-apps/modernize-ai)
-    - Sandboxes
-      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-overview)
-      - [Snapshots and state management](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
-      - [Egress policies](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-egress-policies)
   - Key concepts
     - Compute and billing structures
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/structure)
