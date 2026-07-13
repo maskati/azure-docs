@@ -41,8 +41,8 @@
     - Data security
       - [Encryption of secure assets](https://learn.microsoft.com/en-us/azure/automation/automation-secure-asset-encryption)
       - [Management of Azure Automation data](https://learn.microsoft.com/en-us/azure/automation/automation-managing-data)
-    - High availability
-      - [Availability zones](https://learn.microsoft.com/en-us/azure/automation/automation-availability-zones)
+    - Reliability
+      - [Reliability in Azure Automation](https://learn.microsoft.com/azure/reliability/reliability-automation?toc=/azure/automation/TOC.json)
       - [Disaster recovery for Automation accounts](https://learn.microsoft.com/en-us/azure/automation/automation-disaster-recovery)
   - How-to guides
     - Automation Account

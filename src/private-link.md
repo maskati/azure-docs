@@ -7,6 +7,7 @@
     - [Private Link service](https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview)
     - [Service endpoints](https://learn.microsoft.com/azure/virtual-network/virtual-network-service-endpoints-overview?toc=/azure/private-link/toc.json)
     - [What is a network security perimeter?](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-concepts)
+    - [What are network security perimeter links?](https://learn.microsoft.com/en-us/azure/private-link/perimeter-links-overview)
     - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
     - [What is network foundations?](https://learn.microsoft.com/azure/networking/foundations/network-foundations-overview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/private-link/private-link-faq.yml)
@@ -34,6 +35,7 @@
       - [Create a network security perimeter - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-cli)
       - [Create a network security perimeter - Bicep](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-bicep)
       - [Create a network security perimeter - ARM template](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-template)
+      - [Configure a perimeter link between network security perimeters](https://learn.microsoft.com/en-us/azure/private-link/configure-perimeter-link)
       - [Transition to a network security perimeter](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-transition)
     - DNS
       - [Private DNS zone values](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
