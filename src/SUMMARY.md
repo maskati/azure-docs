@@ -36,6 +36,7 @@
 [cloud-shell](./cloud-shell.md)
 [Azure Communication Services documentation](./communication-services.md)
 [Azure confidential computing](./confidential-computing.md)
+[Connector Namespace documentation](./connector-namespace.md)
 [Azure Container Apps documentation](./container-apps.md)
 [Cost Management + Billing documentation](./cost-management-billing.md)
 [Azure CycleCloud Documentation](./cyclecloud.md)

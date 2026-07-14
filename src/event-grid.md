@@ -96,6 +96,7 @@
             - [Azure portal](https://learn.microsoft.com/en-us/azure/event-grid/publish-deliver-events-with-namespace-topics-webhook-portal)
       - Concepts
         - [Terminology](https://learn.microsoft.com/en-us/azure/event-grid/concepts-event-grid-namespaces)
+        - [Autoscale](https://learn.microsoft.com/en-us/azure/event-grid/namespace-autoscale-overview)
         - [Event handlers Push delivery](https://learn.microsoft.com/en-us/azure/event-grid/namespace-topics-event-handlers)
           - [Event Hubs](https://learn.microsoft.com/en-us/azure/event-grid/namespace-handler-event-hubs)
           - [Webhook](https://learn.microsoft.com/en-us/azure/event-grid/namespace-handler-webhook)
@@ -115,6 +116,8 @@
           - [Network security](https://learn.microsoft.com/en-us/azure/event-grid/network-security-namespaces)
       - How-to
         - [Create, view, and manage namespaces](https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-namespaces)
+        - [Enable Autoscale](https://learn.microsoft.com/en-us/azure/event-grid/namespace-enable-autoscale)
+        - [Enable manual scale](https://learn.microsoft.com/en-us/azure/event-grid/namespace-enable-manual-scale)
         - [Create, view, and manage namespace topics](https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-namespace-topics)
         - [Create, view, and manage event subscriptions](https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-event-subscriptions)
         - [Assign custom domain name to a namespace](https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name)

@@ -173,7 +173,9 @@
       - [Reprotect VMs](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-reprotect?context=%2fazure%2fazure-vmware%2fcontext%2fcontext)
       - [Failback from Azure](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-failback?context=%2fazure%2fazure-vmware%2fcontext%2fcontext)
   - Operations and monitoring
+    - [Collect esxtop performance data](https://learn.microsoft.com/en-us/azure/azure-vmware/run-command-esxtop)
     - [Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/using-run-command)
+    - [Troubleshoot Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/troubleshoot-run-command)
     - [Use Set-ToolsRepo Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/use-set-toolsrepo-run-command)
     - [Use vCenter Login Banner Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/use-vcenter-login-banner-run-command)
     - [Configure VMware syslogs](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vmware-syslogs)

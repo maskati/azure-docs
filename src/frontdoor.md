@@ -125,6 +125,7 @@
     - [HTTP/2](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2)
     - [Compression](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-compression)
     - [Blue/Green deployment with Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/blue-green-deployment)
+    - [Edge actions](https://learn.microsoft.com/en-us/azure/frontdoor/edge-actions)
     - Monitor and reports
       - [Monitor Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/monitor-front-door)
       - [Front Door monitoring data reference](https://learn.microsoft.com/en-us/azure/frontdoor/monitor-front-door-reference)
