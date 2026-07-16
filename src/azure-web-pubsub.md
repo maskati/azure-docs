@@ -84,6 +84,10 @@
       - [MQTT event handler protocol](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-mqtt-cloud-events)
       - [REST API for MQTT](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-rest-api-mqtt)
       - [Cross-protocol communication](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-mqtt-cross-protocol-communication)
+  - Chat hub Preview
+    - [Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-hub-overview)
+    - [Quickstart](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-hub-quickstart)
+    - [FAQ](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-hub-faq)
   - Socket.IO
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-overview)
     - [Serverless Mode Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-serverless-overview)
