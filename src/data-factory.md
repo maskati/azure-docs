@@ -431,6 +431,7 @@
       - [Managed virtual network](https://learn.microsoft.com/en-us/azure/data-factory/managed-virtual-network-private-endpoint)
       - [Azure private link for Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/data-factory-private-link)
       - [Azure security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/data-factory-security-baseline?toc=/azure/data-factory/TOC.json)
+      - [Modern Trusted Service Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/modern-trusted-service)
     - Settings
       - [Manage Azure Data Factory settings and preferences](https://learn.microsoft.com/en-us/azure/data-factory/how-to-manage-settings)
       - [Manage Azure Data Factory studio preview experience](https://learn.microsoft.com/en-us/azure/data-factory/how-to-manage-studio-preview-exp)

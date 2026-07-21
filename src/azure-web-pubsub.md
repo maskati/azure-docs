@@ -84,10 +84,21 @@
       - [MQTT event handler protocol](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-mqtt-cloud-events)
       - [REST API for MQTT](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-rest-api-mqtt)
       - [Cross-protocol communication](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/reference-mqtt-cross-protocol-communication)
-  - Chat hub Preview
-    - [Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-hub-overview)
-    - [Quickstart](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-hub-quickstart)
-    - [FAQ](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-hub-faq)
+  - Chat Preview
+    - [Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-overview)
+    - Quickstart and tutorial
+      - [Configure storage and enable Chat](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-howto-enable-chat)
+      - [Quickstart](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-quickstart)
+      - [Tutorial](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-tutorial)
+    - How-to guides
+      - [Authenticate and connect clients](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-howto-authenticate)
+      - [Create and manage rooms](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-howto-manage-rooms)
+      - [Send and read messages](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-howto-messages)
+      - [Configure roles and permissions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-howto-roles-permissions)
+    - Reference
+      - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-faq)
+      - [SDKs and REST API](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-reference-sdk-and-rest)
+      - [Error codes](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-reference-errors)
   - Socket.IO
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-overview)
     - [Serverless Mode Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socket-io-serverless-overview)

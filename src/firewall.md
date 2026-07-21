@@ -47,6 +47,7 @@
     - [Firewall with inbound DNAT rules](https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat-policy)
     - [Private IP DNAT for overlapped and nonroutable networks](https://learn.microsoft.com/en-us/azure/firewall/tutorial-private-ip-dnat)
     - [Firewall with DDoS protection](https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall)
+    - [Deploy dual-stack firewall IPv6](https://learn.microsoft.com/en-us/azure/firewall/deploy-dual-stack-firewall)
     - [Integrate NAT gateway with Azure Firewall](https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-hub-spoke-nat-firewall?toc=%2fazure%2ffirewall%2ftoc.json)
     - Deploy with IP Groups
       - [Overview](https://learn.microsoft.com/en-us/azure/firewall/ip-groups)
