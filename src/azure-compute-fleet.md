@@ -1,5 +1,7 @@
 # azure-compute-fleet
   - [What is Azure Compute Fleet?](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/overview)
+  - [Managed mode](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/managed-mode)
+  - [Launch mode Preview](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/launch-mode)
   - Quickstarts
     - [Create in the Azure portal](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/quickstart-create-portal)
     - [Create with ARM template](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/quickstart-create-rest-api)
@@ -7,6 +9,5 @@
   - [Allocation strategies](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/allocation-strategies)
   - [Spot VM configuration](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/spot-vm-configuration)
   - [Attribute based VM selection Preview](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/attribute-based-vm-selection)
-  - [Modify a Compute Fleet](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/modify-fleet)
   - [Multi-region Compute Fleet Preview](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/multi-region-compute-fleet)
   - [FAQ](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/faq.yml)

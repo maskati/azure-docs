@@ -23,6 +23,7 @@
         - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-sqldb)
       - [Run scheduled tasks](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-scheduled-tasks)
       - [Process real-time events](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-real-time-events-processing)
+      - [Build a serverless workflow](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-build-serverless-workflow)
       - [Migrate Linux apps to Flex Consumption using Copilot](https://learn.microsoft.com/en-us/azure/azure-functions/migration/scenario-migrate-linux-consumption-to-flex)
     - Developer tools
       - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
@@ -290,7 +291,8 @@
       - [Register an MCP server in API Center](https://learn.microsoft.com/en-us/azure/azure-functions/register-mcp-server-api-center)
     - Serverless agents runtime
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-serverless-agents-runtime)
-      - [Quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-serverless-agents-runtime)
+      - [Get started](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-serverless-agents-runtime)
+      - [Compare agent options](https://learn.microsoft.com/en-us/azure/azure-functions/compare-serverless-agents-runtime)
     - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
   - Migration guides
