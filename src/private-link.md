@@ -6,6 +6,8 @@
     - [What is a private endpoint?](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
     - [Private Link service](https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview)
     - [Service endpoints](https://learn.microsoft.com/azure/virtual-network/virtual-network-service-endpoints-overview?toc=/azure/private-link/toc.json)
+    - [Azure Private Link over IPv6 Preview](https://learn.microsoft.com/en-us/azure/private-link/private-link-ipv6)
+    - [Standard service endpoint](https://learn.microsoft.com/en-us/azure/private-link/service-endpoint-standard-overview)
     - [What is a network security perimeter?](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-concepts)
     - [What are network security perimeter links?](https://learn.microsoft.com/en-us/azure/private-link/perimeter-links-overview)
     - [Availability](https://learn.microsoft.com/en-us/azure/private-link/availability)
@@ -37,6 +39,10 @@
       - [Create a network security perimeter - ARM template](https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-template)
       - [Configure a perimeter link between network security perimeters](https://learn.microsoft.com/en-us/azure/private-link/configure-perimeter-link)
       - [Transition to a network security perimeter](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-transition)
+    - Configure a standard service endpoint
+      - [Configure a standard service endpoint - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/configure-service-endpoint-standard-portal)
+      - [Configure a standard service endpoint - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/configure-service-endpoint-standard-cli)
+      - [Configure a standard service endpoint - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/configure-service-endpoint-standard-powershell)
     - DNS
       - [Private DNS zone values](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
       - [Private endpoint DNS integration](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns-integration)

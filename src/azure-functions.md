@@ -12,7 +12,7 @@
   - Quickstarts
     - Scenarios
       - [Scalable web API](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
-      - [Respond to blob storage events](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-blob-storage-events)
+      - [Process file uploads](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-blob-storage-events)
       - AI tools and MCP
         - [Custom remote MCP server](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
         - [MCP Apps](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
@@ -52,19 +52,17 @@
   - Tutorials
     - [Functions with Logic Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-twitter-email)
     - [Host MCP servers for AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-tutorial)
+    - [Develop Python functions with VS Code](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python)
     - [Create serverless APIs using Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio)
     - [OpenTelemetry distributed tracing](https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions-opentelemetry-distributed-tracing)
     - Networking
       - [Connect to a Virtual Network](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet)
       - [Establish private site access](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-private-site-access)
       - [Use an outbound NAT gateway](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-nat-gateway)
-    - Identity-based connections
-      - [Use identity for host connections](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial)
-      - [Use identity for triggers and bindings](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial-2)
-      - [Access Azure SQL with managed identity](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity)
+    - [Access Azure SQL with managed identity](https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity)
     - [Low-latency Blob trigger using Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-grid-blob-trigger)
     - [Image resize with Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
-    - [Real-time serverless app with SignalR](https://learn.microsoft.com/azure/azure-signalr/signalr-tutorial-authenticate-azure-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+    - [Create a serverless web app](https://learn.microsoft.com/training/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/)
     - Data + AI
       - [Azure OpenAI for text completion](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion)
       - [Machine learning with TensorFlow](https://learn.microsoft.com/en-us/azure/azure-functions/functions-machine-learning-tensorflow)
@@ -91,7 +89,6 @@
       - [Performance and reliability](https://learn.microsoft.com/en-us/azure/azure-functions/performance-reliability)
       - [Manage connections](https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections)
       - [Storage considerations](https://learn.microsoft.com/en-us/azure/azure-functions/storage-considerations)
-      - [Choose a file access strategy](https://learn.microsoft.com/en-us/azure/azure-functions/concept-file-access-options)
       - [Error handling and function retries](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages)
       - [Security](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
     - [Compare runtime versions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions)
@@ -128,7 +125,7 @@
       - [Security overview](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/functions-security-baseline?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - Reliability
-      - [Reliability in Azure Functions](https://learn.microsoft.com/azure/reliability/reliability-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
+      - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Zone redundancy](https://learn.microsoft.com/en-us/azure/azure-functions/functions-zone-redundancy)
       - [Migrate to a zone-redundant plan](https://learn.microsoft.com/azure/reliability/migrate-functions?toc=%2fazure%2fazure-functions%2ftoc.json)
     - [Diagnostics](https://learn.microsoft.com/en-us/azure/azure-functions/functions-diagnostics)
@@ -145,8 +142,14 @@
         - [Execution mode comparison](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-in-process-differences)
         - [In-process model](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library)
         - [Script .csx](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-csharp)
-    - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=javascript)
-    - [TypeScript](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=typescript)
+    - TypeScript/JavaScript
+      - [Developer reference guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node)
+      - [Triggers and bindings](https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings)
+      - [Build options](https://learn.microsoft.com/en-us/azure/azure-functions/typescript-build-options)
+      - [Scale and performance recommendations](https://learn.microsoft.com/en-us/azure/azure-functions/node-scale-performance)
+      - [Troubleshooting](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-troubleshoot)
+      - [Samples](https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=typescript,nodejs,javascript)
+      - [TypeScript/JavaScript SDK API reference](https://learn.microsoft.com/javascript/api/%40azure/functions/)
     - [Java](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-java)
     - [PowerShell](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell)
     - Python
@@ -176,6 +179,7 @@
       - Create functions
         - HTTP trigger
           - [Azure portal](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-http-endpoint)
+          - [HTTP streams TypeScript/JavaScript](https://learn.microsoft.com/en-us/azure/azure-functions/node-http-stream)
           - [Kotlin using IntelliJ](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-kotlin-intellij)
           - [Linux container Premium](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container)
         - [Blob storage trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
@@ -212,6 +216,8 @@
       - [Build and deploy using GitHub Actions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions)
       - [Zip deployment](https://learn.microsoft.com/en-us/azure/azure-functions/deployment-zip-push)
       - [Run from package](https://learn.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package)
+      - [Package management](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node)
+      - [Managing dependencies](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node)
       - [Deploy using the Jenkins plugin](https://learn.microsoft.com/azure/developer/jenkins/deploy-to-azure-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - Configure
       - [Manage a function app](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings)
@@ -292,6 +298,7 @@
     - Serverless agents runtime
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-serverless-agents-runtime)
       - [Get started](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-serverless-agents-runtime)
+      - [Reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-serverless-agents-runtime-reference)
       - [Compare agent options](https://learn.microsoft.com/en-us/azure/azure-functions/compare-serverless-agents-runtime)
     - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
@@ -316,6 +323,7 @@
       - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.functions/)
       - [Java](https://learn.microsoft.com/java/api/overview/azure/functions/runtime)
       - [Python](https://learn.microsoft.com/python/api/azure-functions/azure.functions)
+    - [Serverless agents runtime](https://learn.microsoft.com/en-us/azure/azure-functions/functions-serverless-agents-runtime-reference)
     - [App settings reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-app-settings)
     - Triggers and bindings
       - Azure Managed Redis

@@ -7,7 +7,7 @@
     - [Load balancing and content delivery overview](https://learn.microsoft.com/en-us/azure/networking/load-balancer-content-delivery/load-balancing-content-delivery-overview?toc=/azure/networking/toc.json)
     - [Network security overview](https://learn.microsoft.com/en-us/azure/networking/security/network-security?toc=/azure/networking/toc.json)
     - [Hybrid connectivity overview](https://learn.microsoft.com/en-us/azure/networking/hybrid-connectivity/hybrid-connectivity?toc=/azure/networking/toc.json)
-    - [Network monitoring and management overview](https://learn.microsoft.com/en-us/azure/networking/monitoring-management/?toc=/azure/networking/toc.json)
+    - [Network monitoring and management overview](https://learn.microsoft.com/en-us/azure/networking/monitoring-management/network-monitoring-management-overview?toc=/azure/networking/toc.json)
   - Networking fundamentals
     - [What is Azure Networking?](https://learn.microsoft.com/en-us/azure/networking/networking-overview?toc=/azure/networking/toc.json)
     - [Azure for network engineers](https://learn.microsoft.com/en-us/azure/networking/azure-for-network-engineers?toc=/azure/networking/toc.json)
@@ -133,7 +133,7 @@
     - [Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview?toc=/azure/networking/toc.json)
     - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/networking/security-controls-policy?toc=/azure/networking/toc.json)
   - Monitor and manage
-    - [Network monitoring and management overview](https://learn.microsoft.com/en-us/azure/networking/monitoring-management/?toc=/azure/networking/toc.json)
+    - [Network monitoring and management overview](https://learn.microsoft.com/en-us/azure/networking/monitoring-management/network-monitoring-management-overview?toc=/azure/networking/toc.json)
     - [Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview?toc=/azure/networking/toc.json)
     - [Network insights](https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-overview?toc=/azure/networking/toc.json)
     - [Monitor communication between Azure resources](https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-create-using-portal?toc=/azure/networking/toc.json)

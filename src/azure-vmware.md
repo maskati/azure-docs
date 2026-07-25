@@ -199,7 +199,7 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.avs/privateclouds)
     - [Terraform Azure provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/vmware_private_cloud)
     - [Configure VMware Cloud Director Service in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vmware-cloud-director-service-azure-vmware-solution)
-    - [Plan self-service maintenance for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/self-service-maintenance-orchestration)
+    - [Plan maintenance for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/maintenance-orchestration)
     - [Enable VMware Cloud Director Service with Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-vmware-cds-with-azure)
     - [Deploy VMware Cloud Director Availability in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-vmware-cloud-director-availability-in-azure-vmware-solution)
   - Resources

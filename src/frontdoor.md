@@ -224,7 +224,6 @@
       - Classic
         - [Azure CLI](https://learn.microsoft.com/cli/azure/afd/)
         - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.frontdoor)
-        - [Bicep and Resource Manager Templates](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-quickstart-template-samples?pivots=front-door-classic)
         - [Terraform](https://learn.microsoft.com/en-us/azure/frontdoor/terraform-samples?pivots=front-door-classic)
         - [REST API](https://learn.microsoft.com/rest/api/frontdoor/)
         - [JavaScript SDK](https://learn.microsoft.com/javascript/api/overview/azure/arm-frontdoor-readme)

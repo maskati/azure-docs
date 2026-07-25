@@ -85,6 +85,7 @@
     - Tags
       - [FQDN tags](https://learn.microsoft.com/en-us/azure/firewall/fqdn-tags)
       - [Service tags](https://learn.microsoft.com/en-us/azure/firewall/service-tags)
+    - [HTTP header insertion](https://learn.microsoft.com/en-us/azure/firewall/configure-http-header-insertion)
     - [Application rules with SQL FQDNs](https://learn.microsoft.com/en-us/azure/firewall/sql-fqdn-filtering)
     - SNAT
       - [SNAT private ranges](https://learn.microsoft.com/en-us/azure/firewall/snat-private-range)

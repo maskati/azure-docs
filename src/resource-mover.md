@@ -26,7 +26,7 @@
       - [Manage resources created during move](https://learn.microsoft.com/en-us/azure/resource-mover/manage-resources-created-move-process)
   - Resources
     - [Migration in the Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/)
-    - [Azure services relcoation guidance overview](https://learn.microsoft.com/azure/operational-excellence/overview-relocation)
+    - [Azure services relocation guidance overview](https://learn.microsoft.com/azure/operational-excellence/overview-relocation)
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.migrate/allversions)
     - [Azure Roadmap](https://azure.microsoft.com/updates/)
   - Monitoring

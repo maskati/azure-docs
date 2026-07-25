@@ -27,7 +27,7 @@
 [Azure VMware Solution documentation](./azure-vmware.md)
 [Azure Web PubSub service documentation](./azure-web-pubsub.md)
 [Azure Backup service documentation](./backup.md)
-[BareMetal Infrastructure documentation](./baremetal-infrastructure.md)
+[baremetal-infrastructure](./baremetal-infrastructure.md)
 [Azure Bastion documentation](./bastion.md)
 [Azure Batch documentation](./batch.md)
 [Azure Business Process Tracking documentation](./business-process-tracking.md)

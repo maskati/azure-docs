@@ -9,6 +9,7 @@
     - [Application security groups](https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups)
     - [Network security groups](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
     - [Service endpoints](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview)
+    - [Standard service endpoint](https://learn.microsoft.com/azure/private-link/service-endpoint-standard-overview?toc=/azure/virtual-network/toc.json)
     - [Service tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
     - [Architecture best practices for Azure Virtual Network](https://learn.microsoft.com/azure/well-architected/service-guides/virtual-network)
     - [What is network foundations?](https://learn.microsoft.com/azure/networking/foundations/network-foundations-overview)

@@ -5,9 +5,11 @@
     - [What is Azure IoT?](https://learn.microsoft.com/en-us/azure/iot/iot-introduction)
     - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
     - [Choose an Azure IoT service](https://learn.microsoft.com/en-us/azure/iot/iot-services-and-technologies)
+    - [IoT device development](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development)
+  - Azure Device Registry
+    - [What is Azure Device Registry?](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-overview)
     - [Best practices for namespaces](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-namespace-guidance)
     - [Best practices for schema registries](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-schema-registry-guidance)
-    - [IoT device development](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development)
   - References
     - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help)
     - [IoT glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary)

@@ -31,29 +31,37 @@
       - [10 - Manage APIs in Visual Studio Code](https://learn.microsoft.com/en-us/azure/api-management/visual-studio-code-tutorial)
       - [11 - Link to an API Center](https://learn.microsoft.com/en-us/azure/api-management/tutorials/link-api-center)
   - Manage AI models, tools, and agents
-    - AI Gateway overview
-      - [AI Gateway capabilities](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
-    - Manage LLM APIs
-      - [Create a unified model API](https://learn.microsoft.com/en-us/azure/api-management/unified-model-api)
-      - [Import Microsoft Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
-      - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
-      - [Import language model API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-llm-api)
-      - [Import Google Gemini API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-google-gemini-api)
-      - [Import Amazon Bedrock API](https://learn.microsoft.com/en-us/azure/api-management/amazon-bedrock-passthrough-llm-api)
-      - [Authenticate and authorize to LLM APIs](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-ai-apis)
-      - [Log LLM tokens, requests, and responses](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-llm-logs)
-      - [Semantic caching for LLM API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
-    - Manage MCP servers and tools
-      - [Model Context Protocol MCP server capabilities](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-overview)
-      - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
-      - [Expose existing MCP server](https://learn.microsoft.com/en-us/azure/api-management/expose-existing-mcp-server)
-      - [Create and manage MCP servers programmatically](https://learn.microsoft.com/en-us/azure/api-management/manage-mcp-servers-rest-api)
-      - [Govern MCP servers with products](https://learn.microsoft.com/en-us/azure/api-management/govern-mcp-server-products)
-      - [Secure access to MCP servers](https://learn.microsoft.com/en-us/azure/api-management/secure-mcp-servers)
-      - [Roll out MCP servers using versions](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-versions)
-      - [Monitor MCP server traffic](https://learn.microsoft.com/en-us/azure/api-management/monitor-mcp-servers)
-    - Manage agent APIs
-      - [Import agent-to-agent A2A API](https://learn.microsoft.com/en-us/azure/api-management/agent-to-agent-api)
+    - V1 and V2 tiers
+      - AI Gateway overview
+        - [AI Gateway capabilities](https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities)
+      - Manage LLM APIs
+        - [Create a unified model API](https://learn.microsoft.com/en-us/azure/api-management/unified-model-api)
+        - [Import Microsoft Foundry API](https://learn.microsoft.com/en-us/azure/api-management/azure-ai-foundry-api)
+        - [Import Azure OpenAI API](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-api-from-specification)
+        - [Import language model API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-llm-api)
+        - [Import Google Gemini API](https://learn.microsoft.com/en-us/azure/api-management/openai-compatible-google-gemini-api)
+        - [Import Amazon Bedrock API](https://learn.microsoft.com/en-us/azure/api-management/amazon-bedrock-passthrough-llm-api)
+        - [Authenticate and authorize to LLM APIs](https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-ai-apis)
+        - [Log LLM tokens, requests, and responses](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-llm-logs)
+        - [Semantic caching for LLM API requests](https://learn.microsoft.com/en-us/azure/api-management/azure-openai-enable-semantic-caching)
+      - Manage MCP servers and tools
+        - [Model Context Protocol MCP server capabilities](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-overview)
+        - [Expose REST API as MCP server](https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server)
+        - [Expose existing MCP server](https://learn.microsoft.com/en-us/azure/api-management/expose-existing-mcp-server)
+        - [Create and manage MCP servers programmatically](https://learn.microsoft.com/en-us/azure/api-management/manage-mcp-servers-rest-api)
+        - [Govern MCP servers with products](https://learn.microsoft.com/en-us/azure/api-management/govern-mcp-server-products)
+        - [Secure access to MCP servers](https://learn.microsoft.com/en-us/azure/api-management/secure-mcp-servers)
+        - [Roll out MCP servers using versions](https://learn.microsoft.com/en-us/azure/api-management/mcp-server-versions)
+        - [Monitor MCP server traffic](https://learn.microsoft.com/en-us/azure/api-management/monitor-mcp-servers)
+      - Manage agent APIs
+        - [Import agent-to-agent A2A API](https://learn.microsoft.com/en-us/azure/api-management/agent-to-agent-api)
+    - AI Gateway tier
+      - [Overview](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-overview)
+      - [Create an instance](https://learn.microsoft.com/en-us/azure/api-management/quickstart-ai-gateway-create)
+      - [Set up your gateway](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-setup)
+      - [Manage models and tools](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-manage-models-tools)
+      - [Govern, secure, and operate](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-govern-secure-assets)
+      - [Configure private networking](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-configure-private-networking)
   - Create and import APIs
     - [Add an API manually](https://learn.microsoft.com/en-us/azure/api-management/add-api-manually)
     - Import REST APIs

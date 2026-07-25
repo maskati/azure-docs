@@ -377,6 +377,7 @@
       - Backup
         - [Database](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database)
         - [HANA System Replication database](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-with-hana-system-replication-backup)
+        - [HANA Scale-out database](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-scale-out-backup)
         - [Instance snapshot](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-instances-backup)
       - Restore
         - [Database and HANA System Replication database](https://learn.microsoft.com/en-us/azure/backup/sap-hana-database-restore)

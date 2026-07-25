@@ -1,5 +1,4 @@
-# BareMetal Infrastructure documentation
-> Learn how to use BareMetal Infrastructure to create, deploy, and manage virtual machines in Microsoft Azure.
+# baremetal-infrastructure
   - [Azure BareMetal Infrastructure](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/)
   - Overview
     - [What is BareMetal Infrastructure?](https://learn.microsoft.com/en-us/azure/baremetal-infrastructure/concepts-baremetal-infrastructure-overview)
