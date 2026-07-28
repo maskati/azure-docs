@@ -151,6 +151,7 @@
       - Configure groups and client address pools
         - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-groups-create-portal)
         - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-groups-create)
+        - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-groups-create-cli)
       - [RADIUS - Configure NPS and user groups](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-groups-radius)
     - Configure Always On tunnels
       - [Device tunnel - Windows clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-device-tunnel)

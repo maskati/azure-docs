@@ -55,6 +55,7 @@
     - [Enable plugin marketplace](https://learn.microsoft.com/en-us/azure/api-center/enable-api-center-plugin-marketplace)
     - [Enable API Center MCP server](https://learn.microsoft.com/en-us/azure/api-center/discover-catalog-mcp-server)
   - API center management and operations
+    - [Backup and restore](https://learn.microsoft.com/en-us/azure/api-center/backup-restore)
     - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-api-center?toc=/azure/api-center/toc.json&bc=/azure/api-center/breadcrumb/toc.json)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/apic)
