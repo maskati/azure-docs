@@ -2,6 +2,7 @@
 > SAP on Azure provides multiple options for running, managing and monitoring SAP workloads on Azure.
   - [SAP on Azure documentation](https://learn.microsoft.com/en-us/azure/sap/)
   - [Overview](https://learn.microsoft.com/en-us/azure/sap/sap-on-azure-overview)
+  - [Service scenarios and selection guidance](https://learn.microsoft.com/en-us/azure/sap/choose-sap-services-by-scenario)
   - [SAP on Azure VM workloads](https://learn.microsoft.com/en-us/azure/sap/workloads/toc.yml)
   - [Azure Center for SAP solutions](https://learn.microsoft.com/en-us/azure/sap/center-sap-solutions/toc.yml)
   - [SAP on Azure Automation framework](https://learn.microsoft.com/en-us/azure/sap/automation/toc.yml)

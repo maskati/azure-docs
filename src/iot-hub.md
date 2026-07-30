@@ -104,6 +104,7 @@
   - Secure and harden your IoT solution
     - [Secure your Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/secure-azure-iot-hub)
     - [Transport Layer Security TLS support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-tls-support)
+    - [Update private endpoints for TLS 1.3](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-tls-1-3-update-private-endpoint)
     - [Migrate to a new TLS certificate root](https://learn.microsoft.com/en-us/azure/iot-hub/migrate-tls-certificate)
     - [Virtual networks support with Azure Private Link](https://learn.microsoft.com/en-us/azure/iot-hub/virtual-network-support)
     - Network access control

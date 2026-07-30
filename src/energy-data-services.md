@@ -34,6 +34,7 @@
     - [Tier details](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-tier-details)
     - [Syncing reference data values](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-reference-data-values)
     - [Analytics consumption zone ACZ](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-analytics-consumption-zone)
+    - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-monitor-data-reference)
   - How-to guides
     - Administration
       - [Manage users](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-users)
@@ -48,6 +49,7 @@
       - [How to manage upgrade settings](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-upgrade-settings)
       - [How to enable the Analytics Consumption Zone ACZ](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-enable-analytics-consumption-zone)
     - Monitoring
+      - [Monitor Azure Data Manager for Energy](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-monitor-data-manager-energy)
       - [Airflow task logs integration with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-airflow-logs-with-azure-monitor)
       - [Elastic logs integration with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-elastic-logs-with-azure-monitor)
       - [Integrate OSDU Service Logs with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-osdu-service-logs-with-azure-monitor)
