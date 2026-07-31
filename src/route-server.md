@@ -24,8 +24,14 @@
     - [Route injection in spoke virtual networks](https://learn.microsoft.com/en-us/azure/route-server/route-injection-in-spokes)
     - [IP anycast](https://learn.microsoft.com/en-us/azure/route-server/anycast)
     - [Roles and permissions](https://learn.microsoft.com/en-us/azure/route-server/roles-permissions)
+    - [About route maps](https://learn.microsoft.com/en-us/azure/route-server/route-maps-about)
   - How-to guides
     - [Configure and manage Route Server](https://learn.microsoft.com/en-us/azure/route-server/configure-route-server)
+    - [Configure route maps](https://learn.microsoft.com/en-us/azure/route-server/route-maps-how-to)
+    - Route maps scenarios
+      - [Prepend routes](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-prepend-routes)
+      - [Tag routes with BGP communities](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-tag-bgp-communities)
+      - [Drop inbound routes](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-drop-inbound-routes)
     - [Troubleshoot Route Server issues](https://learn.microsoft.com/en-us/azure/route-server/troubleshoot-route-server)
     - [Monitor Route Server](https://learn.microsoft.com/en-us/azure/route-server/monitor-route-server)
   - Security

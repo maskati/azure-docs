@@ -148,6 +148,7 @@
   - Logs and monitoring
     - [Troubleshoot and resolve issues with an agent](https://learn.microsoft.com/en-us/azure/sre-agent/troubleshoot-azure-app-service)
     - [Monitor App Service](https://learn.microsoft.com/en-us/azure/app-service/monitor-app-service)
+    - [Use the App Service site status page](https://learn.microsoft.com/en-us/azure/app-service/use-app-service-site-status-page)
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/app-service/monitor-app-service-reference)
     - [Azure Monitor tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-troubleshoot-monitor)
     - [Enable diagnostic logs](https://learn.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)

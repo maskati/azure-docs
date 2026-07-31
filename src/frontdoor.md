@@ -34,7 +34,7 @@
         - [Add a custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-add-custom-domain)
         - [Configure HTTPS on a custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-https-custom-domain)
         - [Apex domains](https://learn.microsoft.com/en-us/azure/frontdoor/apex-domain)
-        - [Add a root or apex domain](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-onboard-apex-domain?pivots=front-door-standard-premium)
+        - [Add a root or apex domain](https://learn.microsoft.com/en-us/azure/frontdoor/apex-domain-onboard)
         - [Wildcard domains](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-standard-premium)
     - Rules engine
       - [What is a rule set?](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-standard-premium)
@@ -154,7 +154,6 @@
           - [Azure portal](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-custom-domain)
           - [Azure CLI](https://learn.microsoft.com/en-us/azure/frontdoor/scripts/custom-domain)
         - [Configure HTTPS on a custom domain](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-custom-domain-https)
-        - [Add a root or apex domain](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-onboard-apex-domain?pivots=front-door-classic)
         - [Set up a Rules Engine classic](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-tutorial-rules-engine)
       - CDN classic from Microsoft
         - [Optimized content](https://learn.microsoft.com/en-us/azure/cdn/cdn-optimization-overview?toc=/azure/frontdoor/toc.json)

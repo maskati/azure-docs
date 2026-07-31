@@ -91,9 +91,7 @@
     - [Create a function app deployed from code](https://learn.microsoft.com/en-us/azure/container-apps/functions-container-apps)
     - Connect to apps & services
       - [Communicate between multiple apps](https://learn.microsoft.com/en-us/azure/container-apps/connect-apps)
-      - Connect to a cloud service using Service Connector
-        - [.NET app with Blob Storage](https://learn.microsoft.com/en-us/azure/container-apps/service-connector)
-        - [Java Quarkus app with Postgres DB](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-java-quarkus-connect-managed-identity-postgresql-database)
+      - [Java Quarkus app with Postgres DB](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-java-quarkus-connect-managed-identity-postgresql-database)
     - Build a multiple app scenario
       - [Deploy a backend microservice app](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-code-to-cloud)
       - [Deploy a frontend microservice app](https://learn.microsoft.com/en-us/azure/container-apps/communicate-between-microservices)
@@ -139,6 +137,8 @@
         - [Storage mount](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-storage-mount-failures)
         - [Target port](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-target-port-settings)
         - [Container start](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-start-failures)
+        - [Deployment failures](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-deployment-errors)
+      - [Use Diagnose and Solve](https://learn.microsoft.com/en-us/azure/container-apps/diagnose-solve)
     - Migrate to Azure Container Apps
       - [Heroku migration overview](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku-overview)
       - [Migrate from Heroku](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku)
@@ -153,14 +153,13 @@
       - [Log streaming](https://learn.microsoft.com/en-us/azure/container-apps/log-streaming)
       - [Container console](https://learn.microsoft.com/en-us/azure/container-apps/container-console)
       - [Container debug console](https://learn.microsoft.com/en-us/azure/container-apps/container-debug-console)
-      - [Deployment error guidance](https://learn.microsoft.com/en-us/azure/container-apps/deployment-errors)
     - Monitor production workloads
       - [Application logging](https://learn.microsoft.com/en-us/azure/container-apps/logging)
       - [Logging options](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
       - [Log monitoring](https://learn.microsoft.com/en-us/azure/container-apps/log-monitoring)
       - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/metrics)
       - [Alerts](https://learn.microsoft.com/en-us/azure/container-apps/alerts)
-    - End-to-end tracing and dashboards
+    - Dashboards
       - [Aspire Dashboard](https://learn.microsoft.com/en-us/azure/container-apps/aspire-dashboard)
       - [Grafana dashboards](https://learn.microsoft.com/en-us/azure/container-apps/grafana-dashboards)
     - OpenTelemetry agents
