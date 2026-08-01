@@ -18,6 +18,7 @@
     - [Control traffic with weighted endpoints](https://learn.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-weighted-endpoint-routing)
     - [Route traffic based on user's subnet](https://learn.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-subnet-routing)
     - [Alias records for Traffic Manager](https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-tm?toc=%2fazure%2ftraffic-manager%2ftoc.json)
+    - [Traffic Manager linked records](https://learn.microsoft.com/en-us/azure/dns/tutorial-traffic-manager-linked-records-portal?toc=%2fazure%2ftraffic-manager%2ftoc.json)
   - Concepts
     - [Routing methods](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods)
       - [Country/Region hierarchy used by Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-geographic-regions)
@@ -27,6 +28,7 @@
       - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
     - [Nested Traffic Manager profiles](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-nested-profiles)
     - [Endpoint types](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-endpoint-types)
+    - [Strictly typed profiles](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-strictly-typed-profiles)
     - [Endpoint monitoring](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-monitoring)
     - [Real User Measurements](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-rum-overview)
     - [Traffic View](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-traffic-view-overview)
@@ -59,8 +61,7 @@
       - [Configure subnet override - Azure CLI](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-subnet-override-cli)
       - [Configure subnet override - PowerShell](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-subnet-override-powershell)
     - Troubleshoot
-      - [Troubleshoot Azure Traffic Manager](https://learn.microsoft.com/troubleshoot/azure/traffic-manager/welcome-azure-traffic-manager?toc=/azure/traffic-manager/TOC.json)
-  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-support-help)
+      - [Troubleshoot degraded state on Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-troubleshooting-degraded)
   - Reference
     - [Code samples](https://azure.microsoft.com/resources/samples/?service=traffic-manager)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.trafficmanager)

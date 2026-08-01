@@ -38,6 +38,9 @@
       - [Create alias records for zone records](https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-rr)
       - [Create alias records for public IP addresses](https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-pip)
       - [Create alias records for Traffic Manager](https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-tm)
+      - [Create Traffic Manager linked records - Portal](https://learn.microsoft.com/en-us/azure/dns/tutorial-traffic-manager-linked-records-portal)
+      - [Create Traffic Manager linked records - CLI](https://learn.microsoft.com/en-us/azure/dns/tutorial-traffic-manager-linked-records-cli)
+      - [Create Traffic Manager linked records - PowerShell](https://learn.microsoft.com/en-us/azure/dns/tutorial-traffic-manager-linked-records-powershell)
       - [Alias records for load balanced web apps](https://learn.microsoft.com/en-us/azure/dns/dns-alias-appservice)
       - [Integrate with other Azure services](https://learn.microsoft.com/en-us/azure/dns/dns-for-azure-services)
       - [Automate DNS operations with the .NET SDK](https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.dns-readme?toc=/azure/dns/TOC.json)
@@ -58,6 +61,7 @@
     - Public DNS
       - [Zones and records](https://learn.microsoft.com/en-us/azure/dns/dns-zones-records)
       - [Alias records](https://learn.microsoft.com/en-us/azure/dns/dns-alias)
+      - [Traffic Manager linked records](https://learn.microsoft.com/en-us/azure/dns/dns-traffic-manager-linked-records)
       - [Delegation with Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-domain-delegation)
       - [Reverse DNS](https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-overview)
       - [FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq.yml)
@@ -107,8 +111,7 @@
     - Manage private DNS
       - [Use Azure Resource Graph Explorer](https://learn.microsoft.com/en-us/azure/dns/private-dns-arg)
   - Troubleshoot
-    - [Troubleshoot Azure DNS](https://learn.microsoft.com/troubleshoot/azure/dns/welcome-azure-dns?toc=/azure/dns/TOC.json)
-  - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/dns/dns-support-help)
+    - [Troubleshoot public DNS](https://learn.microsoft.com/en-us/azure/dns/dns-troubleshoot)
   - Reference
     - Public DNS
       - [Code samples](https://azure.microsoft.com/resources/samples/?service=dns)

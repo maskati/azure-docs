@@ -46,7 +46,7 @@
       - [Server variables](https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables)
       - [URL rewrite](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium)
       - [URL redirect](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-standard-premium)
-      - [Cross-Origin Resource Sharing CORS](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/troubleshoot-cross-origin-resources)
+      - [Cross-Origin Resource Sharing CORS](https://learn.microsoft.com/en-us/azure/frontdoor/cross-origin-resource-sharing)
     - Origins
       - [Origins and origin groups](https://learn.microsoft.com/en-us/azure/frontdoor/origin)
       - [Traffic acceleration](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-standard-premium)

@@ -5,7 +5,7 @@
     - [What is Azure Network Watcher?](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview)
     - [FAQ](https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions.yml)
     - Prerequisites
-      - [RBAC permissions](https://learn.microsoft.com/en-us/azure/network-watcher/required-rbac-permissions)
+      - [RBAC permissions](https://learn.microsoft.com/en-us/azure/network-watcher/rbac-permissions)
       - [Enable Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-create)
       - Network Watcher Agent
         - [Windows](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-agent-windows)

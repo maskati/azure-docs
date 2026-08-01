@@ -10,6 +10,18 @@
     - [What is Azure Device Registry?](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-overview)
     - [Best practices for namespaces](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-namespace-guidance)
     - [Best practices for schema registries](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-schema-registry-guidance)
+    - Manage certificate lifecycle
+      - [Certificate management preview in Azure Device Registry](https://learn.microsoft.com/en-us/azure/iot/iot-hub-certificate-management-overview)
+      - [Key concepts for certificate management](https://learn.microsoft.com/en-us/azure/iot/iot-hub-certificate-management-concepts)
+      - Set up certificate management
+        - [Configure a credential](https://learn.microsoft.com/en-us/azure/iot/how-to-configure-credential)
+        - [Create a policy with a Microsoft root CA](https://learn.microsoft.com/en-us/azure/iot/how-to-create-policy)
+        - [Create a policy with an external root CA](https://learn.microsoft.com/en-us/azure/iot/how-to-create-policy-external-certificate)
+      - Manage certificates and policies
+        - [Issuance of device certificates](https://learn.microsoft.com/en-us/azure/iot/concept-certificate-issuance)
+        - [Renewal of device certificates](https://learn.microsoft.com/en-us/azure/iot/concept-certificate-renewal)
+        - [Certificate revocation and policy management](https://learn.microsoft.com/en-us/azure/iot/concepts-certificate-policy-management)
+        - [Revoke certificates and delete policies](https://learn.microsoft.com/en-us/azure/iot/how-to-revoke-certificate-delete-policy)
   - References
     - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help)
     - [IoT glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary)
