@@ -376,3 +376,4 @@
       - [CAPTCHA endpoint update September 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/captcha-endpoint-change-sep-2025)
       - [Trusted service connectivity retirement March 2026](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/trusted-service-connectivity-retirement-march-2026)
       - [Built-in analytics dashboard retirement March 2027](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/analytics-dashboard-retirement-march-2027)
+      - [Retirement of TLS 1.0 and TLS 1.1 October 2025](https://learn.microsoft.com/en-us/azure/api-management/breaking-changes/tls-versions-retirement-oct-2025)
