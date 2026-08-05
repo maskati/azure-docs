@@ -56,6 +56,8 @@
       - [Build a unified namespace](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-build-unified-namespace)
       - [Understand Akri services](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-akri)
       - [Use the operations experience UI](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-operations-experience)
+      - [Create and manage connector template instances](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-manage-connector-templates)
+      - [Enable and run management actions](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-management-actions)
       - Connect to OPC UA servers
         - [Understand the connector for OPC UA](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opc-ua-connector)
         - [OPC UA asset discovery modes](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-opc-ua-asset-discovery)
@@ -64,14 +66,12 @@
         - [Control OPC UA assets](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-control-opc-ua)
         - [Understand OPC UA application authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opc-ua-connector-certificates-management)
         - [Configure OPC UA application authentication](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-certificates-infrastructure)
-      - [Create and manage connector template instances](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-manage-connector-templates)
       - [Connect to media sources](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-media-connector)
       - [Connect to ONVIF-compliant cameras](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-onvif-connector)
       - [Connect to HTTP/REST endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-http-connector)
       - [Connect to SSE endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-sse-connector)
       - [Connect to MQTT endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-mqtt-connector)
       - [Connect to Kafka endpoints](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-connect-kafka)
-      - [Enable and run management actions](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-management-actions)
       - [Use asset endpoints to manage assets](https://learn.microsoft.com/previous-versions/azure/iot-operations/discover-manage-assets/overview-manage-assets)
     - Process and route data
       - [Data flows vs. data flow graphs](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/overview-dataflow-comparison)
