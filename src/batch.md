@@ -86,6 +86,7 @@
       - [Create a pool with public IP addresses](https://learn.microsoft.com/en-us/azure/batch/create-pool-public-ip)
       - [Create a simplified node communication pool without public IP addresses](https://learn.microsoft.com/en-us/azure/batch/simplified-node-communication-pool-no-public-ip)
       - [Create a pool with ephemeral OS disk nodes](https://learn.microsoft.com/en-us/azure/batch/create-pool-ephemeral-os-disk)
+      - [Disable hyper-threading on pool nodes](https://learn.microsoft.com/en-us/azure/batch/how-to-disable-hyper-threading-using-pool-tag)
       - [Create an Azure Batch pool with Auto OS Upgrade](https://learn.microsoft.com/en-us/azure/batch/batch-upgrade-policy)
       - [Use extensions with pools](https://learn.microsoft.com/en-us/azure/batch/create-pool-extensions)
       - [Configure managed identities](https://learn.microsoft.com/en-us/azure/batch/managed-identity-pools)

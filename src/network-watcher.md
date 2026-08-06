@@ -69,16 +69,14 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-overview)
       - [Log network traffic](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-tutorial)
       - [Manage VNet flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-manage)
+      - [Create using Bicep](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-bicep)
+      - [Create using an ARM template](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-template)
       - [VNet flow logs managed identity](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-managed-identity)
       - [VNet flow logs filtering](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-filtering)
       - [Audit and deploy using Azure Policy](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-policy)
     - NSG flow logs
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview)
       - [Manage NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-manage)
-      - Deploy NSG flow logs
-        - [ARM template](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-template)
-        - [Bicep](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-bicep)
-        - [REST](https://learn.microsoft.com/previous-versions/azure/network-watcher/nsg-flow-logs-rest?toc=/azure/network-watcher/toc.json)
       - [Audit and deploy using Azure Policy](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal)
       - Analyze NSG flow logs
         - [Use Elastic Stack](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-open-source-tools?toc=/azure/network-watcher/toc.json)
