@@ -148,6 +148,7 @@
         - [Understand Azure NetApp Files control plane security](https://learn.microsoft.com/en-us/azure/azure-netapp-files/control-plane-security)
         - [Understand data encryption in Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-data-encryption)
         - [Understand AES in Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-advanced-encryption-standard)
+        - [Understand double encryption at rest](https://learn.microsoft.com/en-us/azure/azure-netapp-files/double-encryption-at-rest)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-netapp-files-security-baseline?toc=/azure/azure-netapp-files/TOC.json)
     - Solutions and benefits
       - [Solution architectures using Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures)

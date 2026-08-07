@@ -4,6 +4,7 @@
   - Overview
     - [About Web PubSub](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview)
     - [About hubs, groups, and connections](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/key-concepts)
+    - [Choose Web PubSub capability](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/choose-web-pubsub-capability)
     - [Pricing](https://azure.microsoft.com/pricing/details/web-pubsub/)
     - [Region availability](https://azure.microsoft.com/global-infrastructure/services/?products=web-pubsub)
     - [What's new](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/whats-new)
