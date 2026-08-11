@@ -78,7 +78,7 @@
     - Private Resolver
       - [Endpoints and rulesets](https://learn.microsoft.com/en-us/azure/dns/private-resolver-endpoints-rulesets)
       - [Private resolver architecture](https://learn.microsoft.com/en-us/azure/dns/private-resolver-architecture)
-      - [Resiliency in Azure DNS Private Resolver](https://learn.microsoft.com/en-us/azure/dns/private-resolver-reliability)
+      - [Reliability in Azure DNS Private Resolver](https://learn.microsoft.com/azure/reliability/reliability-dns-private-resolver?toc=%2fazure%2fdns%2ftoc.json)
   - Security
     - [Secure DNS](https://learn.microsoft.com/en-us/azure/dns/secure-dns)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-dns-security-baseline?toc=/azure/dns/TOC.json)
