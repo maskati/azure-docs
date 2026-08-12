@@ -41,6 +41,7 @@
       - [Configure NSX network components](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-nsx-network-components-azure-portal)
       - [Configure port mirroring](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-port-mirroring-azure-vmware-solution)
       - [Configure a site-to-site VPN in vWAN](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-site-to-site-vpn-gateway)
+      - [Configure IPv6 Layer 3 forwarding](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-ipv6-layer-3-forwarding)
     - Tutorials
       - [1 - Network planning checklist](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-network-checklist)
       - [2 - Create a private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/tutorial-create-private-cloud)
@@ -70,6 +71,7 @@
       - [Public and Private DNS forward lookup zone configuration](https://learn.microsoft.com/en-us/azure/azure-vmware/native-dns-forward-lookup-zone)
       - [Route architecture for Gen 2](https://learn.microsoft.com/en-us/azure/azure-vmware/native-network-routing-architecture)
       - [Automatic peering sync for Gen 2 Preview](https://learn.microsoft.com/en-us/azure/azure-vmware/native-auto-peering-sync)
+      - [Configure IPv6 Layer 3 forwarding](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-ipv6-layer-3-forwarding)
   - Cost optimization
     - [ESUs for SQL Server and Windows Server in Azure VMware Solution VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/extended-security-updates-windows-sql-server)
     - [License SQL Server, Windows Server and Linux in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/license-sql-windows-in-avs)

@@ -55,13 +55,12 @@
         - [Monitor MCP server traffic](https://learn.microsoft.com/en-us/azure/api-management/monitor-mcp-servers)
       - Manage agent APIs
         - [Import agent-to-agent A2A API](https://learn.microsoft.com/en-us/azure/api-management/agent-to-agent-api)
-    - AI Gateway tier
+    - AI Gateway tier preview
       - [Overview](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-overview)
       - [Create an instance](https://learn.microsoft.com/en-us/azure/api-management/quickstart-ai-gateway-create)
       - [Set up your gateway](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-setup)
       - [Manage models and tools](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-manage-models-tools)
       - [Govern, secure, and operate](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-govern-secure-assets)
-      - [Configure private networking](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-configure-private-networking)
   - Create and import APIs
     - [Add an API manually](https://learn.microsoft.com/en-us/azure/api-management/add-api-manually)
     - Import REST APIs
@@ -142,6 +141,7 @@
       - Network isolation - v2 tiers
         - [Virtual network injection v2 tiers](https://learn.microsoft.com/en-us/azure/api-management/inject-vnet-v2)
         - [Virtual network integration v2 tiers](https://learn.microsoft.com/en-us/azure/api-management/integrate-vnet-outbound)
+      - [Private networking - AI Gateway tier preview](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-configure-private-networking)
       - [Virtual network for workspace gateways](https://learn.microsoft.com/en-us/azure/api-management/virtual-network-workspaces-resources)
       - [Connect privately using private endpoint](https://learn.microsoft.com/en-us/azure/api-management/private-endpoint)
       - [Retrieve IP addresses](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-ip-addresses)

@@ -151,7 +151,9 @@
       - [Task start event](https://learn.microsoft.com/en-us/azure/batch/batch-task-start-event)
       - [Task complete event](https://learn.microsoft.com/en-us/azure/batch/batch-task-complete-event)
       - [Task fail event](https://learn.microsoft.com/en-us/azure/batch/batch-task-fail-event)
+      - [Task requeue event](https://learn.microsoft.com/en-us/azure/batch/batch-task-requeue-event)
       - [Task schedule fail event](https://learn.microsoft.com/en-us/azure/batch/batch-task-schedule-fail-event)
+      - [Special task event](https://learn.microsoft.com/en-us/azure/batch/batch-special-task-event)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/batch/policy-reference)
   - Resources
     - [Azure updates](https://azure.microsoft.com/updates/)

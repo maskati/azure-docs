@@ -1,11 +1,8 @@
 # Azure Digital Twins documentation
 > Learn how to use Azure Digital Twins by creating a digital twin architecture that acts as a representation of your assets, environments and business systems, to build next generation IoT solutions that model the real world.
   - [Azure Digital Twins documentation](https://learn.microsoft.com/en-us/azure/digital-twins/)
-  - Overview
-    - [About Azure Digital Twins](https://learn.microsoft.com/en-us/azure/digital-twins/overview)
-  - Quickstarts
-    - [Get started with Azure Digital Twins Explorer](https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer)
-    - [Get started with 3D Scenes Studio](https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-3d-scenes-studio)
+  - [Overview - About Azure Digital Twins](https://learn.microsoft.com/en-us/azure/digital-twins/overview)
+  - [Quickstart - Get started with Azure Digital Twins Explorer](https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer)
   - Tutorials
     - [Code a client app](https://learn.microsoft.com/en-us/azure/digital-twins/tutorial-code)
     - Create a graph

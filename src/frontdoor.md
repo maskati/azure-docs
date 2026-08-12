@@ -41,6 +41,7 @@
       - [Match conditions](https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-standard-premium)
       - [Actions](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-standard-premium)
       - [Configure a rule set](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-rule-set)
+      - [Batch rule updates for rule sets](https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-batch)
       - [Configure delivery rules](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/front-door-add-rules-cli)
       - [Rules engine scenarios](https://learn.microsoft.com/en-us/azure/frontdoor/rules-engine-scenarios)
       - [Server variables](https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables)
@@ -102,6 +103,7 @@
     - TLS policy
       - [Front Door TLS policy](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/tls-policy)
       - [Configure TLS policy](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/tls-policy-configure)
+    - [Mutual TLS authentication](https://learn.microsoft.com/en-us/azure/frontdoor/mutual-tls)
     - [Set up managed identity](https://learn.microsoft.com/en-us/azure/frontdoor/managed-identity)
     - Sensitive data protection
       - [Front Door sensitive data protection](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/sensitive-data-protection)

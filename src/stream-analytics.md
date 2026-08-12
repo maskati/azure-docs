@@ -113,6 +113,7 @@
       - [Copy or back up a job](https://learn.microsoft.com/en-us/azure/stream-analytics/copy-job)
       - [Pair jobs for reliability](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-reliability)
       - [Geo-redundancy](https://learn.microsoft.com/en-us/azure/stream-analytics/geo-redundancy)
+      - [Move job to another region](https://learn.microsoft.com/en-us/azure/stream-analytics/move-across-regions)
       - [Encrypt your data CMK](https://learn.microsoft.com/en-us/azure/stream-analytics/data-protection)
     - Manage Stream Analytics clusters
       - [Create and delete private endpoints](https://learn.microsoft.com/en-us/azure/stream-analytics/private-endpoints)

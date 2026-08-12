@@ -24,8 +24,8 @@
       - [Create a private resolver - Bicep](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-bicep)
       - [Create a private resolver - Terraform](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-terraform)
       - [Create a private resolver - ARM Template](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-template)
-    - DNS security policy
-      - [What is DNS security policy?](https://learn.microsoft.com/en-us/azure/dns/dns-security-policy)
+    - DNS resolver policy
+      - [What is DNS resolver policy?](https://learn.microsoft.com/en-us/azure/dns/dns-security-policy)
       - [How-to secure and view DNS traffic](https://learn.microsoft.com/en-us/azure/dns/dns-traffic-log-how-to)
     - Traffic Manager
       - [What is Azure Traffic Manager?](https://learn.microsoft.com/azure/traffic-manager/traffic-manager-overview)
