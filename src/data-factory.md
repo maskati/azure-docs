@@ -609,9 +609,6 @@
   - Security
     - [Secure your Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/secure-your-azure-data-factory)
     - [Business continuity and disaster recovery](https://learn.microsoft.com/en-us/azure/data-factory/pipelines-disaster-recovery)
-  - Workflow Orchestration Manager
-    - Tutorials
-    - How-to
   - Reference
     - [Data flow script](https://learn.microsoft.com/en-us/azure/data-factory/data-flow-script)
     - [.NET](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.datafactory)

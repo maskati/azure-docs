@@ -297,6 +297,7 @@
         - [CHARINDEX](https://learn.microsoft.com/stream-analytics-query/charindex-azure-stream-analytics)
         - [CONCAT](https://learn.microsoft.com/stream-analytics-query/concat-azure-stream-analytics)
         - [CONCAT_WS](https://learn.microsoft.com/stream-analytics-query/concat-ws-azure-stream-analytics)
+        - [JSON_PARSE](https://learn.microsoft.com/stream-analytics-query/json-parse-azure-stream-analytics)
         - [LEFT](https://learn.microsoft.com/stream-analytics-query/left-azure-stream-analytics)
         - [LEN](https://learn.microsoft.com/stream-analytics-query/len-azure-stream-analytics)
         - [LOWER](https://learn.microsoft.com/stream-analytics-query/lower-azure-stream-analytics)
