@@ -100,9 +100,7 @@
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-front-door-security-baseline?toc=/azure/frontdoor/toc.json)
     - [DDoS protection](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos)
     - [End-to-end TLS encryption](https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls)
-    - TLS policy
-      - [Front Door TLS policy](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/tls-policy)
-      - [Configure TLS policy](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/tls-policy-configure)
+    - [TLS policy](https://learn.microsoft.com/en-us/azure/frontdoor/tls-policy)
     - [Mutual TLS authentication](https://learn.microsoft.com/en-us/azure/frontdoor/mutual-tls)
     - [Set up managed identity](https://learn.microsoft.com/en-us/azure/frontdoor/managed-identity)
     - Sensitive data protection

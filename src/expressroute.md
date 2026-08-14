@@ -80,6 +80,7 @@
       - [Rate limit for ExpressRoute Direct circuit](https://learn.microsoft.com/en-us/azure/expressroute/rate-limit)
     - ExpressRoute gateway
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-virtual-network-gateways)
+      - [Use a VPN or ExpressRoute gateway in a different region](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-different-region?toc=/azure/expressroute/toc.json)
       - About Scalable Gateway
         - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/scalable-gateway)
         - [Configure a scalable gateway](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-scalable-portal)
