@@ -156,6 +156,7 @@
     - Monitor production workloads
       - [Application logging](https://learn.microsoft.com/en-us/azure/container-apps/logging)
       - [Logging options](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
+      - [Change logging from Log Analytics to Azure Monitor](https://learn.microsoft.com/en-us/azure/container-apps/migrate-logs-azure-monitor)
       - [Log monitoring](https://learn.microsoft.com/en-us/azure/container-apps/log-monitoring)
       - [Metrics](https://learn.microsoft.com/en-us/azure/container-apps/metrics)
       - [Alerts](https://learn.microsoft.com/en-us/azure/container-apps/alerts)
