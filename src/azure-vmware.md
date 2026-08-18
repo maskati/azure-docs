@@ -77,7 +77,9 @@
     - [License SQL Server, Windows Server and Linux in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/license-sql-windows-in-avs)
     - [Enable unlimited virtualization with Azure Hybrid Benefit for SQL Server in Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/enable-sql-azure-hybrid-benefit)
     - [Save costs with a reserved instance](https://learn.microsoft.com/en-us/azure/azure-vmware/reserved-instance)
-    - [VMware Cloud Foundations VCF license portability on Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/vmware-cloud-foundations-license-portability)
+    - Portable VMware Cloud Foundation licensing
+      - [Configure portable VCF](https://learn.microsoft.com/en-us/azure/azure-vmware/vmware-cloud-foundations-license-portability)
+      - [Portable VCF licensing reference](https://learn.microsoft.com/en-us/azure/azure-vmware/portable-vcf-licensing-reference)
     - Cloud Adoption Framework
       - [Azure VMware Solution landing zone accelerator](https://aka.ms/avsaccelerator)
       - [Enterprise-Scale for Azure VMware Solution repository](https://github.com/Azure/Enterprise-Scale-for-AVS)

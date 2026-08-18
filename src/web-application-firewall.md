@@ -58,11 +58,11 @@
         - [Create rate limiting rules](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/rate-limiting-configure)
         - [Use geomatch custom rules to enhance network security](https://learn.microsoft.com/en-us/azure/web-application-firewall/geomatch-custom-rules-examples)
       - [Request size limits](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-request-size-limits)
-      - [Configure custom response code and body](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/configure-custom-response-code)
+      - [Configure custom response](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/configure-custom-response-code)
       - [WAF engine](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-engine)
     - Front Door
       - [Policy settings](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-policy-settings)
-      - [Configure custom response code](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-custom-response-code)
+      - [Configure custom response](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-custom-response-code)
       - Managed rules
         - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs)
         - [Managed ruleset support policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/ruleset-support-policy?pivots=front-door)
