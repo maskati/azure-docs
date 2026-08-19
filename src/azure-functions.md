@@ -117,10 +117,7 @@
       - [Extension bundles](https://learn.microsoft.com/en-us/azure/azure-functions/extension-bundles)
       - [Binding expression patterns](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-expressions-patterns)
       - [Handle binding errors](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-errors)
-    - Managed connectors
-      - [Use connectors in Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-connectors-overview)
-    - Frameworks
-      - [Express.js](https://learn.microsoft.com/en-us/azure/azure-functions/shift-expressjs)
+    - [Managed connectors](https://learn.microsoft.com/en-us/azure/azure-functions/functions-connectors-overview)
     - Security
       - [Security overview](https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts)
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/functions-security-baseline?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
@@ -312,6 +309,7 @@
       - [Update language versions](https://learn.microsoft.com/en-us/azure/azure-functions/update-language-versions)
       - [Migrate Node.js to model v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-upgrade-v4)
     - [Migrate .NET apps to the isolated model](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-dotnet-to-isolated-model)
+    - [Migrate from Express.js](https://learn.microsoft.com/en-us/azure/azure-functions/shift-expressjs)
     - Move resources
       - [Move between subscriptions](https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription?toc=%2Fazure%2Fazure-functions%2Ftoc.json)
       - [Move to other regions](https://learn.microsoft.com/azure/operational-excellence/relocation-functions?toc=%2Fazure%2Fazure-functions%2Ftoc.json)

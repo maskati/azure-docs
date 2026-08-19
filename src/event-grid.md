@@ -152,7 +152,7 @@
         - [ARM template](https://learn.microsoft.com/en-us/azure/event-grid/blob-event-quickstart-template)
       - [Subscribe to Container Registry events](https://learn.microsoft.com/azure/container-registry/container-registry-event-grid-quickstart?toc=/azure/event-grid/toc.json)
       - [Subscribe to Azure Communication Services events](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/handle-sms-events?toc=/azure/event-grid/toc.json)
-      - [Subscribe to Azure Cache for Redis events](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-event-grid-quickstart-portal?toc=/azure/event-grid/toc.json)
+      - [Subscribe to Azure Cache for Redis events](https://learn.microsoft.com/azure/azure-cache-for-redis/cache-event-grid-quickstart-portal?toc=/azure/event-grid/toc.json)
     - Tutorials
       - [Email when VM changes](https://learn.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-logic-app)
       - [Trigger Automation runbook](https://learn.microsoft.com/en-us/azure/event-grid/ensure-tags-exists-on-new-virtual-machines)

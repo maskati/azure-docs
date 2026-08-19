@@ -183,6 +183,7 @@
     - [Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/using-run-command)
     - [Troubleshoot Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/troubleshoot-run-command)
     - [Use Set-ToolsRepo Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/use-set-toolsrepo-run-command)
+    - [Use New-AVSStoragePolicy Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/use-new-avsstoragepolicy-run-command)
     - [Use vCenter Login Banner Run Command](https://learn.microsoft.com/en-us/azure/azure-vmware/use-vcenter-login-banner-run-command)
     - [Configure VMware syslogs](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-vmware-syslogs)
     - [Send syslogs to log management solutions via Azure Logic Apps](https://learn.microsoft.com/en-us/azure/azure-vmware/logs-via-logic-app)

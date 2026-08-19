@@ -133,7 +133,6 @@
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/lab-services/policy-reference)
     - [Microsoft Azure SDK for Python](https://pypi.org/project/azure-mgmt-labservices/)
   - Resources
-    - [Transition to Azure DevTest Labs](https://learn.microsoft.com/en-us/azure/lab-services/transition-devtest-labs-guidance)
     - [Azure Lab Services Blog](https://aka.ms/azlabs-blog)
     - [Azure updates](https://azure.microsoft.com/updates/?product=lab-services)
     - [Regional availability](https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=lab-services)

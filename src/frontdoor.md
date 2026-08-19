@@ -192,11 +192,9 @@
       - CDN classic from Microsoft
         - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/content-delivery-network-security-baseline?toc=/azure/frontdoor/toc.json)
         - [DDoS protection](https://learn.microsoft.com/en-us/azure/cdn/cdn-ddos?toc=/azure/frontdoor/toc.json)
-    - Operation excellence
-      - CDN classic from Microsoft
-        - [HTTP/2 support](https://learn.microsoft.com/en-us/azure/cdn/cdn-http2?toc=/azure/frontdoor/toc.json)
-        - [Retrieve POP IPs](https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-list-api?toc=/azure/frontdoor/toc.json)
-        - [China content delivery](https://learn.microsoft.com/en-us/azure/cdn/cdn-china-delivery?toc=/azure/frontdoor/toc.json)
+    - Operational excellence
+      - [HTTP/2 support](https://learn.microsoft.com/en-us/azure/cdn/cdn-http2?toc=/azure/frontdoor/toc.json)
+      - [Retrieve POP IPs](https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-list-api?toc=/azure/frontdoor/toc.json)
     - Troubleshoot
       - CDN
         - [404 status](https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-endpoint?toc=/azure/frontdoor/toc.json)

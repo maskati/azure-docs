@@ -429,6 +429,7 @@
       - [Add storage](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-add-storage)
       - [Turn on/off telemetry settings](https://learn.microsoft.com/en-us/azure/backup/manage-telemetry)
       - [Unattended installation](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-unattended-install)
+      - [Create Application Control supplemental policy for MABS with PowerShell](https://learn.microsoft.com/en-us/azure/backup/backup-server-application-control-supplemental-policy-create)
     - Configure and manage private endpoint in Recovery Services vault for backup
       - [Configure private endpoint](https://learn.microsoft.com/en-us/azure/backup/private-endpoint-configure-vault-backup-server)
       - [Re-register MABS using public access](https://learn.microsoft.com/en-us/azure/backup/register-public-access-vault-backup-server)
@@ -446,6 +447,7 @@
     - [Restore VMware VMs with Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/restore-azure-backup-server-vmware)
     - [Back up the MABS server](https://learn.microsoft.com/en-us/azure/backup/backup-the-mabs-server)
     - [Stop protection in Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-server-stop-protection)
+    - [Monitor MABS](https://learn.microsoft.com/en-us/azure/backup/backup-server-monitor)
   - Azure Backup Server on Azure Stack
     - [Install Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-install-azure-stack)
     - [Protect files and applications](https://learn.microsoft.com/en-us/azure/backup/backup-mabs-files-applications-azure-stack)
