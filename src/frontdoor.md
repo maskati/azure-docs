@@ -103,9 +103,7 @@
     - [TLS policy](https://learn.microsoft.com/en-us/azure/frontdoor/tls-policy)
     - [Mutual TLS authentication](https://learn.microsoft.com/en-us/azure/frontdoor/mutual-tls)
     - [Set up managed identity](https://learn.microsoft.com/en-us/azure/frontdoor/managed-identity)
-    - Sensitive data protection
-      - [Front Door sensitive data protection](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/sensitive-data-protection)
-      - [Enable log scrubbing](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-protect-sensitive-data)
+    - [Protect sensitive data in logs](https://learn.microsoft.com/en-us/azure/frontdoor/sensitive-data-protection)
     - [Secure traffic to origins](https://learn.microsoft.com/en-us/azure/frontdoor/origin-security)
     - Web Application Firewall
       - [Web Application Firewall WAF on Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/web-application-firewall)

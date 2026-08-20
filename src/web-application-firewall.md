@@ -16,47 +16,47 @@
   - Deploy
     - Application Gateway
       - Create Web Application Firewall
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-web-application-firewall-portal)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/tutorial-restrict-web-traffic-powershell)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/tutorial-restrict-web-traffic-cli)
+        - [Create WAF - Azure portal](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-web-application-firewall-portal)
+        - [Create WAF - Azure PowerShell](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/tutorial-restrict-web-traffic-powershell)
+        - [Create WAF - Azure CLI](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/tutorial-restrict-web-traffic-cli)
       - [Create Web Application Firewall v2 - ARM template](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/quick-create-template)
       - [Create Web Application Firewall v2 - Bicep](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/quick-create-bicep)
-      - [Create Web Application Firewall v2 – Terraform](https://learn.microsoft.com/en-us/azure/web-application-firewall/quickstart-web-application-firewall-terraform)
+      - [Create Web Application Firewall v2 - Terraform](https://learn.microsoft.com/en-us/azure/web-application-firewall/quickstart-web-application-firewall-terraform)
     - Front Door
       - [Create WAF policy - portal](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal)
       - [Configure WAF policy - PowerShell](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules-powershell)
   - Configure
     - Application Gateway
       - WAF policy
-        - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/policy-overview)
-        - [Create WAF policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/create-waf-policy-ag)
-        - [Per-site policies](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/per-site-policies)
+        - [WAF policy overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/policy-overview)
+        - [Create a WAF policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/create-waf-policy-ag)
         - [Associate a policy with an existing Application Gateway](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/associate-waf-policy-existing-gateway)
+        - [Configure per-site policies](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/per-site-policies)
         - Upgrade WAF
           - [Upgrade to WAF policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/upgrade-ag-waf-policy)
           - [Upgrade using PowerShell](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/migrate-policy)
       - Managed rules
-        - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules)
-        - [Managed ruleset support policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/ruleset-support-policy?pivots=application-gateway)
+        - [Managed rules overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules)
+        - Customize managed rules
+          - [Customize managed rules - Azure portal](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-portal)
+          - [Customize managed rules - Azure PowerShell](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-powershell)
+          - [Customize managed rules - Azure CLI](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-cli)
         - [Exclusion lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-configuration)
         - [Exception lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-exceptions)
         - [Upgrade ruleset version](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/upgrade-ruleset-version)
-        - Customize managed rules
-          - [Azure portal](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-portal)
-          - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-powershell)
-          - [Azure CLI](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-cli)
+        - [Managed ruleset support policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/ruleset-support-policy?pivots=application-gateway)
       - [HTTP DDoS protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/ddos-ruleset)
       - Bot protection
-        - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/bot-protection-overview)
+        - [Bot protection overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/bot-protection-overview)
         - [Configure bot protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/bot-protection)
       - Custom rules
-        - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/custom-waf-rules-overview)
-        - [Geomatch custom rules](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/geomatch-custom-rules)
-        - [Rate limiting](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/rate-limiting-overview)
-        - [Configure WAF v2 custom rule - PowerShell](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/configure-waf-custom-rules)
+        - [Custom rules overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/custom-waf-rules-overview)
         - [Custom rule examples](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/create-custom-waf-rules)
-        - [Create rate limiting rules](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/rate-limiting-configure)
+        - [Configure WAF v2 custom rule - PowerShell](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/configure-waf-custom-rules)
+        - [Geomatch custom rules](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/geomatch-custom-rules)
         - [Use geomatch custom rules to enhance network security](https://learn.microsoft.com/en-us/azure/web-application-firewall/geomatch-custom-rules-examples)
+        - [Rate limiting](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/rate-limiting-overview)
+        - [Create rate limiting rules](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/rate-limiting-configure)
       - [Request size limits](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-request-size-limits)
       - [Configure custom response](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/configure-custom-response-code)
       - [WAF engine](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-engine)
@@ -64,21 +64,21 @@
       - [Policy settings](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-policy-settings)
       - [Configure custom response](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-custom-response-code)
       - Managed rules
-        - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs)
-        - [Managed ruleset support policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/ruleset-support-policy?pivots=front-door)
+        - [Managed rules overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs)
         - [Exclusion lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-exclusion)
         - [Configure exclusion lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-exclusion-configure)
         - [Exception lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/front-door-exceptions)
+        - [Managed ruleset support policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/ruleset-support-policy?pivots=front-door)
       - [HTTP DDoS protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/http-ddos-ruleset)
       - [Configure bot protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-policy-configure-bot-protection)
       - Custom rules
-        - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules)
+        - [Custom rules overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules)
         - [Rate limiting](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit)
-        - [Geo-filtering](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering)
         - [Configure rate limit](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure)
+        - [Geo-filtering](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering)
         - [Configure a geo-filtering WAF policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering)
-        - [Configure IP restrictions](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction)
         - [Use geomatch custom rules to enhance network security](https://learn.microsoft.com/en-us/azure/web-application-firewall/geomatch-custom-rules-examples)
+        - [Configure IP restrictions](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction)
       - [Tuning](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tuning)
     - [Use Azure Policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/waf-azure-policy)
     - [Configure policies using Firewall Manager](https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/manage-policies)
@@ -87,14 +87,14 @@
   - Secure
     - [Secure your Azure Web Application Firewall](https://learn.microsoft.com/en-us/azure/web-application-firewall/secure-web-application-firewall)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/web-application-firewall-security-baseline?toc=/azure/web-application-firewall/toc.json)
-    - [Azure Network Security Blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
-    - Sensitive Data Protection
+    - [Azure Network Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
+    - Sensitive data protection
       - Application Gateway
-        - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-sensitive-data-protection)
-        - [Mask sensitive data](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-sensitive-data-protection-configure)
+        - [Sensitive data protection overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-sensitive-data-protection)
+        - [Configure sensitive data masking](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-sensitive-data-protection-configure)
       - Front Door
-        - [Overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-sensitive-data-protection-frontdoor)
-        - [Mask sensitive data](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-sensitive-data-protection-configure-frontdoor)
+        - [Sensitive data protection overview](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-sensitive-data-protection-frontdoor)
+        - [Configure sensitive data masking](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-sensitive-data-protection-configure-frontdoor)
     - Microsoft Sentinel
       - [Using Microsoft Sentinel with Web Application Firewall](https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-sentinel)
       - [Detect new threats using Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-new-threat-detection)
@@ -124,7 +124,7 @@
       - [Front Door](https://learn.microsoft.com/cli/azure/network/front-door/waf-policy)
       - [Application Gateway](https://learn.microsoft.com/cli/azure/network/application-gateway)
       - [Application Gateway for Containers](https://learn.microsoft.com/cli/azure/network/alb/security-policy)
-      - [CDN](https://learn.microsoft.com/azure/web-application-firewall/afds/waf-front-door-create-portal)
+      - [CDN](https://learn.microsoft.com/cli/azure/network/front-door/waf-policy)
     - REST API
       - [Front Door](https://learn.microsoft.com/rest/api/frontdoorservice/webapplicationfirewall/policies)
       - [Application Gateway](https://learn.microsoft.com/rest/api/application-gateway)

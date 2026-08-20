@@ -1,13 +1,6 @@
 # Azure networking documentation
 > Learn about the various Azure networking services available that provide connectivity to your resources in Azure, deliver and protect applications, and help secure your network.
   - [Azure Networking Documentation](https://learn.microsoft.com/en-us/azure/networking/)
-  - Azure Networking overview
-    - [Azure Networking overview](https://learn.microsoft.com/en-us/azure/networking/networking-overview?toc=/azure/networking/toc.json)
-    - [Network foundations overview](https://learn.microsoft.com/en-us/azure/networking/foundations/network-foundations-overview?toc=/azure/networking/toc.json)
-    - [Load balancing and content delivery overview](https://learn.microsoft.com/en-us/azure/networking/load-balancer-content-delivery/load-balancing-content-delivery-overview?toc=/azure/networking/toc.json)
-    - [Network security overview](https://learn.microsoft.com/en-us/azure/networking/security/network-security?toc=/azure/networking/toc.json)
-    - [Hybrid connectivity overview](https://learn.microsoft.com/en-us/azure/networking/hybrid-connectivity/hybrid-connectivity?toc=/azure/networking/toc.json)
-    - [Network monitoring and management overview](https://learn.microsoft.com/en-us/azure/networking/monitoring-management/network-monitoring-management-overview?toc=/azure/networking/toc.json)
   - Networking fundamentals
     - [What is Azure Networking?](https://learn.microsoft.com/en-us/azure/networking/networking-overview?toc=/azure/networking/toc.json)
     - [Azure for network engineers](https://learn.microsoft.com/en-us/azure/networking/azure-for-network-engineers?toc=/azure/networking/toc.json)
@@ -19,9 +12,8 @@
       - [Network security groups](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview?toc=/azure/networking/toc.json)
       - [Private endpoints](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/toc.json)
     - Choosing the right services
-      - [Load balancing options](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/networking/toc.json)
-      - [Hybrid connectivity options](https://learn.microsoft.com/azure/architecture/guide/technology-choices/hybrid-connectivity-overview?toc=/azure/networking/toc.json)
-      - [Network security options](https://learn.microsoft.com/en-us/azure/networking/security/network-security?toc=/azure/networking/toc.json)
+      - [Load balancing options](https://learn.microsoft.com/en-us/azure/networking/design-guide/app-delivery)
+      - [Hybrid connectivity options](https://learn.microsoft.com/en-us/azure/networking/design-guide/hybrid-connectivity)
   - Plan and design
     - Networking design guide
       - [Overview](https://learn.microsoft.com/en-us/azure/networking/design-guide/overview)
@@ -40,9 +32,9 @@
         - [Azure Virtual WAN](https://learn.microsoft.com/en-us/azure/networking/design-guide/virtual-wan)
         - [Multi-region networking](https://learn.microsoft.com/en-us/azure/networking/design-guide/multi-region)
       - Connectivity
-        - [Hybrid connectivity](https://learn.microsoft.com/en-us/azure/networking/design-guide/hybrid-connectivity)
+        - [Choose a hybrid connectivity option](https://learn.microsoft.com/en-us/azure/networking/design-guide/hybrid-connectivity)
         - [Internet ingress](https://learn.microsoft.com/en-us/azure/networking/design-guide/internet-ingress)
-        - [Application delivery](https://learn.microsoft.com/en-us/azure/networking/design-guide/app-delivery)
+        - [Choose a load balancing service](https://learn.microsoft.com/en-us/azure/networking/design-guide/app-delivery)
         - [Outbound egress](https://learn.microsoft.com/en-us/azure/networking/design-guide/outbound-egress)
         - [Private PaaS access](https://learn.microsoft.com/en-us/azure/networking/design-guide/private-platform-as-a-service)
         - [Developer and admin access](https://learn.microsoft.com/en-us/azure/networking/design-guide/developer-admin-access)
@@ -90,9 +82,11 @@
     - NAT Gateway
       - [What is Azure NAT Gateway?](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview?toc=/azure/networking/toc.json)
       - [Create a NAT gateway for outbound connection](https://learn.microsoft.com/en-us/azure/nat-gateway/quickstart-create-nat-gateway?toc=/azure/networking/toc.json)
+    - Performance
+      - [Accelerated connections on NVAs and VMs](https://learn.microsoft.com/en-us/azure/networking/nva-accelerated-connections?toc=/azure/networking/toc.json)
   - Load balancing and content delivery
     - [Load balancing and content delivery overview](https://learn.microsoft.com/en-us/azure/networking/load-balancer-content-delivery/load-balancing-content-delivery-overview?toc=/azure/networking/toc.json)
-    - [Choose a load balancing solution](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/networking/toc.json)
+    - [Choose a load balancing service](https://learn.microsoft.com/en-us/azure/networking/design-guide/app-delivery)
     - Azure Load Balancer
       - [What is Azure Load Balancer?](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview?toc=/azure/networking/toc.json)
       - [Create a public load balancer](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?toc=/azure/networking/toc.json)
@@ -107,6 +101,7 @@
       - [Create a DNS-based load balancer](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile?toc=/azure/networking/toc.json)
   - Hybrid connectivity
     - [Hybrid connectivity overview](https://learn.microsoft.com/en-us/azure/networking/hybrid-connectivity/hybrid-connectivity?toc=/azure/networking/toc.json)
+    - [Choose a hybrid connectivity option](https://learn.microsoft.com/en-us/azure/networking/design-guide/hybrid-connectivity)
     - VPN Gateway
       - [VPN Gateway overview](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?toc=/azure/networking/toc.json)
       - [VPN Gateway design](https://learn.microsoft.com/en-us/azure/vpn-gateway/design?toc=/azure/networking/toc.json)
@@ -131,7 +126,12 @@
       - [Protect your network against DDoS attacks](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection?toc=/azure/networking/toc.json)
     - [Web Application Firewall](https://learn.microsoft.com/en-us/azure/web-application-firewall/overview?toc=/azure/networking/toc.json)
     - [Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview?toc=/azure/networking/toc.json)
-    - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/networking/security-controls-policy?toc=/azure/networking/toc.json)
+    - Zero Trust recommendations
+      - [Network security Zero Trust recommendations](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-network-security?toc=/azure/networking/toc.json)
+      - [Azure Firewall](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-azure-firewall?toc=/azure/networking/toc.json)
+      - [Azure DDoS Protection](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-ddos-protection?toc=/azure/networking/toc.json)
+      - [Azure Front Door WAF](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-front-door-waf?toc=/azure/networking/toc.json)
+      - [Application Gateway WAF](https://learn.microsoft.com/en-us/azure/networking/security/zero-trust-application-gateway-waf?toc=/azure/networking/toc.json)
   - Monitor and manage
     - [Network monitoring and management overview](https://learn.microsoft.com/en-us/azure/networking/monitoring-management/network-monitoring-management-overview?toc=/azure/networking/toc.json)
     - [Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview?toc=/azure/networking/toc.json)
@@ -140,6 +140,7 @@
     - [View topology](https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-topology?toc=/azure/networking/toc.json)
     - [Azure Resource Graph queries](https://learn.microsoft.com/en-us/azure/networking/resource-graph-samples?toc=/azure/networking/toc.json)
   - Support and troubleshooting
+    - [Troubleshoot failed provisioning state](https://learn.microsoft.com/en-us/azure/networking/troubleshoot-failed-state?toc=/azure/networking/toc.json)
     - [Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-support-help?toc=/azure/networking/toc.json)
     - [VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-support-help?toc=/azure/networking/toc.json)
     - [ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-support-help?toc=/azure/networking/toc.json)
@@ -149,5 +150,11 @@
     - [Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/support-help?toc=/azure/networking/toc.json)
     - [Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/support-help?toc=/azure/networking/toc.json)
     - [Azure Web Application Firewall](https://learn.microsoft.com/en-us/azure/web-application-firewall/support-help?toc=/azure/networking/toc.json)
+  - Reference
+    - [Check resource usage against limits](https://learn.microsoft.com/en-us/azure/networking/check-usage-against-limits?toc=/azure/networking/toc.json)
+    - Policy and compliance
+      - [Azure Policy built-in definitions](https://learn.microsoft.com/en-us/azure/networking/policy-reference?toc=/azure/networking/toc.json)
+      - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/networking/security-controls-policy?toc=/azure/networking/toc.json)
   - Resources
+    - [Networking partners MSP](https://learn.microsoft.com/en-us/azure/networking/networking-partners-msp?toc=/azure/networking/toc.json)
     - [Lumenisity UoS Patents](https://learn.microsoft.com/en-us/azure/networking/lumenisity-patent-list?toc=/azure/networking/toc.json)

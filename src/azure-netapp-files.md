@@ -299,6 +299,7 @@
       - [Troubleshoot user access on LDAP volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-user-access-ldap)
       - [Troubleshoot file locks](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-file-locks)
       - [Troubleshoot SMB authentication and CIFS password reset failures](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-authentication-password-reset-failure)
+      - [Troubleshoot latency issues](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-latency-issues)
   - FAQs
     - [Networking FAQs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/faq-networking)
     - [Capacity management FAQs](https://learn.microsoft.com/en-us/azure/azure-netapp-files/faq-capacity-management)
