@@ -29,6 +29,7 @@
     - [Discovery methods](https://learn.microsoft.com/en-us/azure/migrate/discovery-methods-modes)
     - Discovery using appliance
       - [Appliance requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-appliance)
+      - [Register appliance by onboarding to Azure Arc](https://learn.microsoft.com/en-us/azure/migrate/how-to-register-appliance-using-arc-agent)
       - [Register appliance using pre-configured Entra app](https://learn.microsoft.com/en-us/azure/migrate/how-to-register-appliance-using-entra-app)
       - Appliance configuration
         - [Provide server credentials](https://learn.microsoft.com/en-us/azure/migrate/add-server-credentials)
