@@ -6,15 +6,17 @@
     - [Cloud migration basics](https://learn.microsoft.com/en-us/azure/storage-mover/migration-basics)
   - Concepts
     - [Resource hierarchy](https://learn.microsoft.com/en-us/azure/storage-mover/resource-hierarchy)
-    - [Migration costs](https://learn.microsoft.com/en-us/azure/storage-mover/billing)
     - [Migrate data using private connections](https://learn.microsoft.com/en-us/azure/storage-mover/migrations-requiring-private-connections)
-  - How-To
-    - Plan
+    - [Configure bandwidth limits](https://learn.microsoft.com/en-us/azure/storage-mover/bandwidth-management)
+    - [Migration costs](https://learn.microsoft.com/en-us/azure/storage-mover/billing)
+  - On-premises to Azure
+    - Assess and plan
       - [Planning for a deployment](https://learn.microsoft.com/en-us/azure/storage-mover/deployment-planning)
       - [Service prerequisites](https://learn.microsoft.com/en-us/azure/storage-mover/service-prerequisites)
       - [Network prerequisites](https://learn.microsoft.com/en-us/azure/storage-mover/network-prerequisites)
       - [Planning migrations using Private Networking](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-private-network-configuration)
       - [Performance targets](https://learn.microsoft.com/en-us/azure/storage-mover/performance-targets)
+      - [Estimate billing & costs](https://learn.microsoft.com/en-us/azure/storage-mover/billing)
     - Deploy and execute
       - [Create a storage mover resource](https://learn.microsoft.com/en-us/azure/storage-mover/storage-mover-create)
       - [Migrate from Amazon S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
@@ -28,18 +30,24 @@
       - [Create endpoints](https://learn.microsoft.com/en-us/azure/storage-mover/endpoint-manage)
       - [Define a migration project](https://learn.microsoft.com/en-us/azure/storage-mover/project-manage)
       - [Define and start a migration job](https://learn.microsoft.com/en-us/azure/storage-mover/job-definition-create)
+      - [Monitor copy and job run logs](https://learn.microsoft.com/en-us/azure/storage-mover/log-monitoring)
+    - Manage and decommission
       - [Schedule a migration job](https://learn.microsoft.com/en-us/azure/storage-mover/job-scheduling)
-    - Manage
       - [Configure bandwidth limits](https://learn.microsoft.com/en-us/azure/storage-mover/bandwidth-management)
-    - Decommission
       - [Unregister an agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy)
-    - Troubleshoot
-      - [Troubleshoot network issues](https://learn.microsoft.com/en-us/azure/storage-mover/network-troubleshooting)
-      - [Job run error codes](https://learn.microsoft.com/en-us/azure/storage-mover/status-code)
-      - [Collect a support bundle](https://learn.microsoft.com/en-us/azure/storage-mover/troubleshooting)
+  - Cloud to cloud
+    - [Planning your Private Networking for cloud to cloud migrations](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-private-network-configuration)
+    - [Migrate from Amazon S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
+    - [Migrate from Google S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/google-migration)
+    - [Transfer from Azure Blob to Blob](https://learn.microsoft.com/en-us/azure/storage-mover/azure-to-azure-migration)
+    - [Migrate from AWS FSx to Azure Files](https://learn.microsoft.com/en-us/azure/storage-mover/amazon-files-azure-files-migration)
+    - [Schedule a migration job](https://learn.microsoft.com/en-us/azure/storage-mover/job-scheduling)
   - Reliability and resiliency
     - [Reliability in Azure Storage Mover](https://learn.microsoft.com/azure/reliability/reliability-storage-mover?toc=/azure/storage-mover/toc.json)
     - [Customer-initiated disaster recovery](https://learn.microsoft.com/en-us/azure/storage-mover/customer-initiated-disaster-recovery)
   - Resources
+    - [Troubleshoot network issues](https://learn.microsoft.com/en-us/azure/storage-mover/network-troubleshooting)
+    - [Job run error codes](https://learn.microsoft.com/en-us/azure/storage-mover/status-code)
+    - [Collect a support bundle](https://learn.microsoft.com/en-us/azure/storage-mover/troubleshooting)
     - [Monitor copy and job run logs](https://learn.microsoft.com/en-us/azure/storage-mover/log-monitoring)
     - [Release notes](https://learn.microsoft.com/en-us/azure/storage-mover/release-notes)

@@ -41,7 +41,6 @@
     - [Grant and manage access](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-manage-deployment-environments-access)
     - [Authenticate to REST APIs](https://learn.microsoft.com/en-us/azure/deployment-environments/how-to-authenticate)
   - Automate with CI/CD
-    - [Automate with GitHub Actions CI/CD](https://learn.microsoft.com/en-us/azure/deployment-environments/tutorial-deploy-environments-in-cicd-github)
     - [Automate with Azure Pipelines CI/CD](https://learn.microsoft.com/en-us/azure/deployment-environments/tutorial-deploy-environments-in-cicd-azure-devops)
   - Reference
     - [ADE CLI reference](https://learn.microsoft.com/en-us/azure/deployment-environments/reference-deployment-environment-cli)
