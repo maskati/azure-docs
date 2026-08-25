@@ -24,6 +24,8 @@
         - [Command line](https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-cli)
     - Sandboxes
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-overview)
+      - Quickstarts
+        - [Azure portal](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-portal)
       - [Snapshots and state management](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
       - [Egress policies](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-egress-policies)
     - Express
