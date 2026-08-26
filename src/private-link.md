@@ -43,6 +43,7 @@
       - [Configure a standard service endpoint - Azure portal](https://learn.microsoft.com/en-us/azure/private-link/configure-service-endpoint-standard-portal)
       - [Configure a standard service endpoint - Azure CLI](https://learn.microsoft.com/en-us/azure/private-link/configure-service-endpoint-standard-cli)
       - [Configure a standard service endpoint - PowerShell](https://learn.microsoft.com/en-us/azure/private-link/configure-service-endpoint-standard-powershell)
+      - [Configure a standard service endpoint - Terraform](https://learn.microsoft.com/en-us/azure/private-link/configure-service-endpoint-standard-terraform)
     - DNS
       - [Private DNS zone values](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
       - [Private endpoint DNS integration](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns-integration)
