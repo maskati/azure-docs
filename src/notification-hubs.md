@@ -36,7 +36,7 @@
     - [PowerShell](https://learn.microsoft.com/en-us/azure/notification-hubs/samples-powershell)
     - [UWP React Native sample overview](https://learn.microsoft.com/en-us/azure/notification-hubs/uwp-react)
   - Concepts
-    - [Availability zones and disaster recovery](https://learn.microsoft.com/azure/reliability/reliability-notification-hubs?toc=/azure/reliability/toc.json)
+    - [Reliability in Azure Notification Hubs](https://learn.microsoft.com/azure/reliability/reliability-notification-hubs?toc=/azure/notification-hubs/toc.json)
     - [EU Data Boundary](https://learn.microsoft.com/en-us/azure/notification-hubs/eu-data-boundary)
     - [Data encryption at rest](https://learn.microsoft.com/en-us/azure/notification-hubs/encrypt-at-rest)
     - [Transport Layer Security TLS](https://learn.microsoft.com/en-us/azure/notification-hubs/notification-hubs-tls12)
@@ -52,6 +52,7 @@
       - [FCM migration using Azure SDKs](https://learn.microsoft.com/en-us/azure/notification-hubs/firebase-migration-sdk)
       - [Updating ANH with FCMv1 Credentials](https://learn.microsoft.com/en-us/azure/notification-hubs/firebase-migration-update-sdk)
     - [Change pricing tier](https://learn.microsoft.com/en-us/azure/notification-hubs/change-pricing-tier)
+    - [Enable disaster recovery for an existing namespace](https://learn.microsoft.com/en-us/azure/notification-hubs/enable-disaster-recovery-existing-namespace)
     - [Send cross-platform notifications](https://learn.microsoft.com/en-us/azure/notification-hubs/notification-hubs-aspnet-cross-platform-notification)
     - [Use Private Link](https://learn.microsoft.com/en-us/azure/notification-hubs/private-link)
     - [Push rich content to devices](https://learn.microsoft.com/en-us/azure/notification-hubs/notification-hubs-aspnet-backend-ios-apple-push-notification-service-apns-rich)

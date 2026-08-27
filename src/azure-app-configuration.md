@@ -196,9 +196,11 @@
         - Resources
           - [Keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-keys)
           - [Key-values](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-key-value)
+          - [Enhanced feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-enhanced-feature-flag)
           - [Labels](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-labels)
           - [Locks](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-locks)
-          - [Revisions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-revisions)
+          - [Key-value revisions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-revisions)
+          - [Enhanced feature flag revisions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-enhanced-feature-flag-revisions)
           - [Snapshots](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-snapshot)
         - Protocol
           - [Authentication](https://learn.microsoft.com/en-us/azure/azure-app-configuration/rest-api-authentication-index)

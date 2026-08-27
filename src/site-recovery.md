@@ -117,8 +117,6 @@
     - Security
       - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/site-recovery-security-baseline?toc=/azure/site-recovery/toc.json)
       - [Transport Layer Security](https://learn.microsoft.com/en-us/azure/site-recovery/transport-layer-security)
-    - VMware to Azure architecture
-      - [Classic](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-architecture)
     - [Failback location options from Azure to VMware](https://learn.microsoft.com/en-us/azure/site-recovery/concepts-types-of-failback)
     - [Multitenant support for VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-multi-tenant-overview)
     - [About role-based access control with Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-role-based-linked-access-control)
@@ -304,8 +302,6 @@
       - VMware VM/physical server
         - [Replication errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-replication)
         - [Error ID 78144](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-replication-vss-installation-failure-behaviors)
-      - [Configuration server errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-configuration-server)
-      - [Process server errors Classic](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-troubleshoot-process-server)
       - [Replication appliance health](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-troubleshoot-appliance-health-issue)
       - [Mobility agent health](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-troubleshoot-mobility-agent-health)
       - [Mobility service - push installation errors](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-troubleshoot-push-install)

@@ -64,6 +64,7 @@
       - [Traffic Manager linked records](https://learn.microsoft.com/en-us/azure/dns/dns-traffic-manager-linked-records)
       - [Delegation with Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-domain-delegation)
       - [Reverse DNS](https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-overview)
+      - [Reliability in Azure Public DNS](https://learn.microsoft.com/azure/reliability/reliability-dns-public?toc=%2fazure%2fdns%2ftoc.json)
       - [FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq.yml)
     - Private DNS
       - [What is an Azure Private DNS zone?](https://learn.microsoft.com/en-us/azure/dns/private-dns-privatednszone)

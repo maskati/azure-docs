@@ -164,6 +164,7 @@
       - [Stream Azure Diagnostics data using Event Hubs](https://learn.microsoft.com/azure/azure-monitor/agents/diagnostics-extension-stream-event-hubs)
     - Secure
       - [Enable managed identity for a namespace](https://learn.microsoft.com/en-us/azure/event-hubs/enable-managed-identity)
+      - [Access Event Hubs from a VM using a managed identity](https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-managed-identity-virtual-machine)
       - [Allow access from specific IP addresses](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-ip-filtering)
       - [Allow access from specific virtual networks](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-service-endpoints)
       - [Allow access via private endpoints](https://learn.microsoft.com/en-us/azure/event-hubs/private-link-service)
