@@ -27,6 +27,8 @@
       - [Get started](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-get-started)
       - Quickstarts
         - [Azure portal](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-portal)
+        - [Agent skills](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-agent-skills)
+        - [CLI](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-cli)
         - [Bicep](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-bicep)
         - [Python SDK](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-python-sdk)
       - [Snapshots and state management](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
