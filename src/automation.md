@@ -101,9 +101,6 @@
         - [Forward Azure Automation diagnostic logs to Azure Monitor](https://learn.microsoft.com/en-us/azure/automation/automation-manage-send-joblogs-log-analytics)
       - Work with Hybrid Runbook Worker
         - [Deploy extension-based worker](https://learn.microsoft.com/en-us/azure/automation/extension-based-hybrid-runbook-worker-install)
-        - [Migrate existing Agent-based Hybrid Workers to Extension-based Workers](https://learn.microsoft.com/en-us/azure/automation/migrate-existing-agent-based-hybrid-worker-to-extension-based-workers)
-        - [Deploy agent-based Windows worker](https://learn.microsoft.com/en-us/azure/automation/automation-windows-hrw-install)
-        - [Deploy agent-based Linux worker](https://learn.microsoft.com/en-us/azure/automation/automation-linux-hrw-install)
         - [Run runbooks on Hybrid Runbook Worker](https://learn.microsoft.com/en-us/azure/automation/automation-hrw-run-runbooks)
         - [Use Azure Policy to enforce job execution](https://learn.microsoft.com/en-us/azure/automation/enforce-job-execution-hybrid-worker)
       - [Use source control integration](https://learn.microsoft.com/en-us/azure/automation/source-control-integration)
@@ -146,7 +143,6 @@
     - [Troubleshoot Runbook Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/runbooks)
     - Troubleshoot Hybrid Runbook Worker Issues
       - [Troubleshoot Extension-based Hybrid Runbook Worker Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/extension-based-hybrid-runbook-worker)
-      - [Troubleshoot Agent-based Hybrid Runbook Worker Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/hybrid-runbook-worker)
     - [Troubleshoot State Configuration Issues](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration)
     - [Data to Collect when Opening a Case for Microsoft Azure Automation](https://learn.microsoft.com/en-us/azure/automation/troubleshoot/collect-data-microsoft-azure-automation-case)
   - [Retirements](https://learn.microsoft.com/en-us/azure/automation/automation-runtime-retirement-policy)

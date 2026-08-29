@@ -18,6 +18,7 @@
         - [Metrics and logs](https://learn.microsoft.com/en-us/azure/partner-solutions/metrics-logs)
     - Data and storage partners
       - [Astro](https://learn.microsoft.com/en-us/azure/partner-solutions/astronomer/)
+      - [Commvault](https://learn.microsoft.com/en-us/azure/partner-solutions/commvault/)
       - [Confluent](https://learn.microsoft.com/en-us/azure/partner-solutions/apache-kafka-confluent-cloud/)
       - [Dell PowerScale Preview](https://learn.microsoft.com/en-us/azure/partner-solutions/dell/)
       - [Informatica](https://learn.microsoft.com/en-us/azure/partner-solutions/informatica/)

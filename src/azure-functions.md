@@ -17,7 +17,7 @@
         - [Custom remote MCP server](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
         - [MCP Apps](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
         - [Host MCP server using SDKs](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-host-mcp-server-sdks)
-      - [Serverless agents](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-serverless-agents-runtime)
+      - [Event-driven AI app](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-hosted-skills)
       - Respond to database changes
         - [Azure Cosmos DB NoSQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-cosmosdb)
         - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-sqldb)
@@ -292,11 +292,10 @@
       - [MCP server authorization](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
       - [Connect to Foundry Agent Service](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-foundry-tools)
       - [Register an MCP server in API Center](https://learn.microsoft.com/en-us/azure/azure-functions/register-mcp-server-api-center)
-    - Serverless agents runtime
-      - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-serverless-agents-runtime)
-      - [Get started](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-serverless-agents-runtime)
-      - [Reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-serverless-agents-runtime-reference)
-      - [Compare agent options](https://learn.microsoft.com/en-us/azure/azure-functions/compare-serverless-agents-runtime)
+    - Hosted skills
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills)
+      - [Get started](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-hosted-skills)
+      - [Reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-reference)
     - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
   - Migration guides
@@ -321,7 +320,7 @@
       - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.functions/)
       - [Java](https://learn.microsoft.com/java/api/overview/azure/functions/runtime)
       - [Python](https://learn.microsoft.com/python/api/azure-functions/azure.functions)
-    - [Serverless agents runtime](https://learn.microsoft.com/en-us/azure/azure-functions/functions-serverless-agents-runtime-reference)
+    - [Azure Functions hosted skills](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-reference)
     - [App settings reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-app-settings)
     - Triggers and bindings
       - Azure Managed Redis
