@@ -82,6 +82,7 @@
 [microsoft-opentelemetry](./microsoft-opentelemetry.md)
 [Azure Migrate documentation](./migrate.md)
 [Microsoft Azure Migration Hub](./migration.md)
+[Azure Multicloud Interconnect Preview documentation](./multicloud-interconnect.md)
 [Azure NAT Gateway documentation](./nat-gateway.md)
 [Network Watcher documentation](./network-watcher.md)
 [Azure networking documentation](./networking.md)

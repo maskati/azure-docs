@@ -32,11 +32,7 @@
       - [Develop with local tunnel tool](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-web-pubsub-tunnel-tool)
       - [Write an upstream server](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-web-pubsub-write-upstream-server)
       - [Send client events to Event Hubs](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-event-listener)
-      - Use server SDK with Azure Identity
-        - [Use server SDK with Azure Identity and .NET](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-create-serviceclient-with-net-and-azure-identity)
-        - [Use server SDK with Azure Identity and Java](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-create-serviceclient-with-java-and-azure-identity)
-        - [Use server SDK with Azure Identity and JavaScript](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-create-serviceclient-with-javascript-and-azure-identity)
-        - [Use server SDK with Azure Identity and Python](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-create-serviceclient-with-python-and-azure-identity)
+      - [Use server SDK with Azure Identity](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-use-azure-identity)
     - Monitor
       - [Audit compliance using Azure Policy](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-monitor-azure-policy)
       - [Monitor Azure Web PubSub](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-azure-monitor)

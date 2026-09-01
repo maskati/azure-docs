@@ -300,6 +300,12 @@
         - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-restore)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-manage)
+      - With Azure CLI
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-using-cli)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-restore-cli)
+      - With PowerShell
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-using-powershell)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-restore-powershell)
   - Azure Database for MySQL - Flexible Server backup preview
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)
