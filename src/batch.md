@@ -112,6 +112,7 @@
       - [Persist output with Batch API](https://learn.microsoft.com/en-us/azure/batch/batch-task-output-files)
       - [Persist output with File Conventions library](https://learn.microsoft.com/en-us/azure/batch/batch-task-output-file-conventions)
     - [Monitor Azure Batch](https://learn.microsoft.com/en-us/azure/batch/monitor-batch)
+      - [Monitor pool compute node performance](https://learn.microsoft.com/en-us/azure/batch/monitor-batch-pool-nodes)
       - [Monitor with Application Insights](https://learn.microsoft.com/en-us/azure/batch/monitor-application-insights)
       - [Create efficient query lists](https://learn.microsoft.com/en-us/azure/batch/batch-efficient-list-queries)
       - [Count resources by state](https://learn.microsoft.com/en-us/azure/batch/batch-get-resource-counts)

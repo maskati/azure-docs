@@ -25,6 +25,7 @@
     - [Hyper-V migration architecture](https://learn.microsoft.com/en-us/azure/migrate/hyper-v-migration-architecture)
     - [VMware agentless migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-agentless-migration)
     - [Hydration process workflow](https://learn.microsoft.com/en-us/azure/migrate/hydration-process)
+    - [Auto-wave-planning](https://learn.microsoft.com/en-us/azure/migrate/automatic-wave-planning-architecture)
   - Discover inventory
     - [Discovery methods](https://learn.microsoft.com/en-us/azure/migrate/discovery-methods-modes)
     - Discovery using appliance
@@ -96,6 +97,8 @@
           - [Customize assessment settings](https://learn.microsoft.com/en-us/azure/migrate/vm-assessment-properties)
           - [Target right-sizing](https://learn.microsoft.com/en-us/azure/migrate/target-right-sizing)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-assessment)
+          - [Plan Azure Network assessment](https://learn.microsoft.com/en-us/azure/migrate/network-assessment)
+          - [Review Azure Network assessment](https://learn.microsoft.com/en-us/azure/migrate/review-network-assessment)
         - Azure VMware Solution AVS assessment
           - [Create an Azure VMware Solution AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/tutorial-assess-vmware-azure-vmware-solution)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-azure-vmware-solution-assessment)
@@ -123,7 +126,7 @@
       - [Plan and create waves](https://learn.microsoft.com/en-us/azure/migrate/how-to-plan-create-waves)
       - [Complete a wave plan](https://learn.microsoft.com/en-us/azure/migrate/how-to-complete-wave-plan)
       - [Execute and track waves](https://learn.microsoft.com/en-us/azure/migrate/how-to-execute-track-waves)
-      - [Wave planning](https://learn.microsoft.com/en-us/azure/migrate/common-questions-wave-planning)
+      - [Wave planning](https://learn.microsoft.com/en-us/azure/migrate/common-questions-wave-planning.yml)
   - Execute migrations
     - [Overview of migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
     - [Execute server migrations in Azure Migrate portal](https://learn.microsoft.com/en-us/azure/migrate/execute-server-migrations)
