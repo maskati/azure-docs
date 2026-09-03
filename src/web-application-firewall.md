@@ -79,6 +79,8 @@
         - [Configure a geo-filtering WAF policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering)
         - [Use geomatch custom rules to enhance network security](https://learn.microsoft.com/en-us/azure/web-application-firewall/geomatch-custom-rules-examples)
         - [Configure IP restrictions](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction)
+        - [AS number matching](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/asn-match-condition)
+        - [Client fingerprint matching](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/client-fingerprint-match-condition)
       - [Tuning](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tuning)
     - [Use Azure Policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/waf-azure-policy)
     - [Configure policies using Firewall Manager](https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/manage-policies)

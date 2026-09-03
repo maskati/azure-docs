@@ -23,7 +23,7 @@
       - [Dell PowerScale Preview](https://learn.microsoft.com/en-us/azure/partner-solutions/dell/)
       - [Informatica](https://learn.microsoft.com/en-us/azure/partner-solutions/informatica/)
       - [MongoDB Atlas](https://learn.microsoft.com/en-us/azure/partner-solutions/mongo-db/)
-      - [Pure Storage Cloud](https://learn.microsoft.com/en-us/azure/partner-solutions/pure-storage/)
+      - [Everpure Cloud](https://learn.microsoft.com/en-us/azure/partner-solutions/pure-storage/)
       - [Qumulo](https://learn.microsoft.com/en-us/azure/partner-solutions/qumulo/)
     - Network and security partners
       - [F5](https://learn.microsoft.com/en-us/azure/partner-solutions/nginx/)

@@ -138,6 +138,7 @@
       - [JavaScript](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry-javascript)
     - [View feature flag events](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-telemetry-review-results)
     - [Analyze the impact of feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-metric-scorecards)
+    - [Enhanced feature flags](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-enhanced-feature-flags)
   - Hyperscale configuration
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-hyperscale-client-configuration)
     - [Connect to Azure Front Door](https://learn.microsoft.com/en-us/azure/azure-app-configuration/how-to-connect-azure-front-door)
