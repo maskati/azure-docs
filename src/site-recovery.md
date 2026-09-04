@@ -11,7 +11,6 @@
   - What's New
     - [Release notes](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-whats-new)
     - [Feature releases](https://learn.microsoft.com/en-us/azure/site-recovery/feature-updates-whats-new)
-    - [What's new - Archive](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-whats-new-archive)
   - Quickstarts
     - [Set up disaster recovery on an Azure VM](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-quickstart)
     - [Setup disaster recovery on an on-premises VMware VM](https://learn.microsoft.com/en-us/azure/site-recovery/quickstart-enable-replication)

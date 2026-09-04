@@ -200,13 +200,13 @@
       - [X](https://learn.microsoft.com/en-us/azure/container-apps/authentication-twitter)
       - [Custom OpenID Connect](https://learn.microsoft.com/en-us/azure/container-apps/authentication-openid)
   - Security
+    - [Secure your Azure Container Apps deployment](https://learn.microsoft.com/en-us/azure/container-apps/secure-deployment)
     - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/security)
     - [Manage secrets](https://learn.microsoft.com/en-us/azure/container-apps/manage-secrets)
     - [Token store](https://learn.microsoft.com/en-us/azure/container-apps/token-store)
     - Managed identities
       - [Use managed identities](https://learn.microsoft.com/en-us/azure/container-apps/managed-identity)
       - [Azure Container Registry image pull with managed identity](https://learn.microsoft.com/en-us/azure/container-apps/managed-identity-image-pull)
-    - [Secure deployments](https://learn.microsoft.com/en-us/azure/container-apps/secure-deployment)
     - [Confidential compute](https://learn.microsoft.com/en-us/azure/container-apps/confidential-compute)
   - Resiliency preview
     - [Service discovery resiliency](https://learn.microsoft.com/en-us/azure/container-apps/service-discovery-resiliency)
@@ -327,9 +327,9 @@
     - [1 - Set up Azure Arc-enabled Kubernetes clusters](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-enable-cluster)
     - [2 - Create container app](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-create-container-app)
   - Compliance
+    - [Secure your Azure Container Apps deployment](https://learn.microsoft.com/en-us/azure/container-apps/secure-deployment)
     - [Microsoft Azure Compliance Offerings](https://servicetrust.microsoft.com/DocumentPage/7adf2d9e-d7b5-4e71-bad8-713e6a183cf3)
     - [Azure, Dynamics 365, Microsoft 365, and Power Platform compliance offerings](https://learn.microsoft.com/azure/compliance/offerings/)
-    - [Azure security baseline for Azure Container Apps](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-container-apps-security-baseline)
   - Samples & FAQs
     - [Samples](https://learn.microsoft.com/en-us/azure/container-apps/samples)
     - [Container Apps frequently asked questions](https://learn.microsoft.com/en-us/azure/container-apps/faq.yml)

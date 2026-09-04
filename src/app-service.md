@@ -219,7 +219,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp)
       - [Secure calls from Visual Studio Code](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-mcp-server-vscode)
   - Security and networking
-    - [Security overview](https://learn.microsoft.com/en-us/azure/app-service/overview-security)
+    - [Secure your Azure App Service deployment](https://learn.microsoft.com/en-us/azure/app-service/overview-security)
     - [Deploy a multi-region app tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-multi-region-app)
     - [Deploy an N-tier app tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-secure-ntier-app)
     - [Isolate network traffic tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-networking-isolate-vnet)
@@ -229,7 +229,6 @@
       - [About OS and runtime patching](https://learn.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime)
       - [About name resolution DNS](https://learn.microsoft.com/en-us/azure/app-service/overview-name-resolution)
       - [About subdomain takeover](https://learn.microsoft.com/en-us/azure/app-service/reference-dangling-subdomain-prevention)
-      - [Security baseline reference](https://learn.microsoft.com/security/benchmark/azure/baselines/app-service-security-baseline?toc=/azure/app-service/toc.json)
       - [Security controls by Azure Policy reference](https://learn.microsoft.com/en-us/azure/app-service/security-controls-policy)
     - Networking
       - [Networking features overview](https://learn.microsoft.com/en-us/azure/app-service/networking-features)

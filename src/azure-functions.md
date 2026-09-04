@@ -14,10 +14,10 @@
       - [Scalable web API](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli)
       - [Process file uploads](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-blob-storage-events)
       - AI tools and MCP
+        - [Event-driven AI-enabled app](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-hosted-skills)
         - [Custom remote MCP server](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
         - [MCP Apps](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
         - [Host MCP server using SDKs](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-host-mcp-server-sdks)
-      - [Event-driven AI app](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-hosted-skills)
       - Respond to database changes
         - [Azure Cosmos DB NoSQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-cosmosdb)
         - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-database-changes-azure-sqldb)
@@ -294,7 +294,8 @@
       - [Register an MCP server in API Center](https://learn.microsoft.com/en-us/azure/azure-functions/register-mcp-server-api-center)
     - Hosted skills
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills)
-      - [Get started](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-hosted-skills)
+      - [Dynamic workflows](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows)
+      - [Create and run dynamic workflows](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows-how-to)
       - [Reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-reference)
     - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)

@@ -98,7 +98,6 @@
       - [Configure IP filtering](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-ip-filtering)
       - [Manage public network access](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-public-network-access)
       - [Restrict outbound network access](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-restrict-outbound-network-access)
-    - [Security baseline for IoT Hub](https://learn.microsoft.com/security/benchmark/azure/baselines/iot-hub-security-baseline?toc=/azure/iot-hub/TOC.json)
     - [Regulatory compliance controls by Azure Policy](https://learn.microsoft.com/en-us/azure/iot-hub/security-controls-policy)
   - Deploy device updates at scale
     - [Create a device update account](https://learn.microsoft.com/en-us/azure/iot-hub-device-update/create-device-update-account)

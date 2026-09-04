@@ -158,6 +158,7 @@
     - [Move a resource between subscriptions or resource groups](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-move-resource-between-subscriptions-resource-groups)
     - [Preview API life cycle](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-preview-api-life-cycle)
   - Security
+    - [Secure your Azure App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/secure-azure-app-configuration)
     - Authentication
       - [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-enable-rbac)
       - [Access keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-disable-access-key-authentication)
@@ -174,7 +175,6 @@
       - [Add Managed Identities](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview-managed-identity)
       - [Encrypt data using customer-managed keys](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-customer-managed-keys)
     - [Azure Policies](https://learn.microsoft.com/en-us/azure/azure-app-configuration/security-controls-policy)
-    - [Security baselines](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-app-configuration-security-baseline?toc=/azure/azure-app-configuration/TOC.json)
   - Reliability
     - Geo-replication
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-geo-replication)
