@@ -34,5 +34,7 @@
     - [HPC and AI benchmarking applications reference](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/high-performance-computing-performance-benchmarking-applications)
     - [Optimize performance for HPC and AI virtual machines](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/optimize-performance)
     - [Run your first benchmark using STREAM](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/stream-benchmark)
+  - [Remote visualization for HPC](https://learn.microsoft.com/en-us/azure/high-performance-computing/remote-visualization-overview)
+  - [Choose a remote visualization deployment model](https://learn.microsoft.com/en-us/azure/high-performance-computing/remote-visualization-choose-deployment-model)
   - AI training
     - [Choose your platform for AI training and fine-tuning](https://learn.microsoft.com/en-us/azure/high-performance-computing/performance-benchmarking/platform-selection-best-practices-for-hpc-ai-models)
