@@ -33,6 +33,7 @@
         - [Manage certificates](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-certificates)
         - [Manage secrets](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-manage-secrets)
         - [Validate images](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-validate-images)
+        - [Mirror deployment images](https://learn.microsoft.com/en-us/azure/iot-operations/secure-iot-ops/howto-mirror-images-private-registry)
         - [Secure your solution](https://learn.microsoft.com/en-us/azure/iot/iot-overview-security)
     - Manage Azure IoT Operations
       - [Manage, update, or uninstall](https://learn.microsoft.com/en-us/azure/iot-operations/manage-iot-ops/howto-manage-update-uninstall)
@@ -60,6 +61,7 @@
       - [Enable and run management actions](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-use-management-actions)
       - Connect to OPC UA servers
         - [Understand the connector for OPC UA](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/overview-opc-ua-connector)
+        - [Monitor OPC UA server availability](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-opc-ua-server-heartbeat-monitoring)
         - [OPC UA asset discovery modes](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-opc-ua-asset-discovery)
         - [Configure OPC UA assets and devices](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua)
         - [Configure OPC UA sessions and high availability](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-sessions-high-availability)

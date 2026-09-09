@@ -20,7 +20,7 @@
       - [Astro](https://learn.microsoft.com/en-us/azure/partner-solutions/astronomer/)
       - [Commvault](https://learn.microsoft.com/en-us/azure/partner-solutions/commvault/)
       - [Confluent](https://learn.microsoft.com/en-us/azure/partner-solutions/apache-kafka-confluent-cloud/)
-      - [Dell PowerScale Preview](https://learn.microsoft.com/en-us/azure/partner-solutions/dell/)
+      - [Dell PowerScale](https://learn.microsoft.com/en-us/azure/partner-solutions/dell/)
       - [Informatica](https://learn.microsoft.com/en-us/azure/partner-solutions/informatica/)
       - [MongoDB Atlas](https://learn.microsoft.com/en-us/azure/partner-solutions/mongo-db/)
       - [Everpure Cloud](https://learn.microsoft.com/en-us/azure/partner-solutions/pure-storage/)
