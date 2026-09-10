@@ -70,6 +70,7 @@
       - [Manage devices in bulk with jobs](https://learn.microsoft.com/en-us/azure/iot-central/core/howto-manage-devices-in-bulk)
       - [Configure and use file uploads](https://learn.microsoft.com/en-us/azure/iot-central/core/howto-configure-file-uploads)
       - [Migrate devices to IoT Hub](https://learn.microsoft.com/en-us/azure/iot-central/core/howto-migrate-to-iot-hub)
+      - [Migrate to native Azure IoT architecture](https://learn.microsoft.com/en-us/azure/iot-central/core/howto-migrate-to-azure-native-iot)
     - Extend your application
       - [Configure rules](https://learn.microsoft.com/en-us/azure/iot-central/core/howto-configure-rules)
       - [Use rules and workflows to integrate with other services](https://learn.microsoft.com/en-us/azure/iot-central/core/howto-configure-rules-advanced)

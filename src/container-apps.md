@@ -271,7 +271,7 @@
   - Languages and runtimes
     - .NET
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/dotnet-overview)
-      - [Deploy a .NET Aspire app](https://learn.microsoft.com/dotnet/aspire/deployment/azure/aca-deployment)
+      - [Deploy an Aspire app](https://aspire.dev/deployment/azure/container-apps/)
       - [Deploy and scale an ASP.NET Core app](https://learn.microsoft.com/aspnet/core/host-and-deploy/scaling-aspnet-apps/scaling-aspnet-apps)
     - Java
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/java-overview)

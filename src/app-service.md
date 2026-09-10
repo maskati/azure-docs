@@ -20,11 +20,11 @@
     - [Get started](https://learn.microsoft.com/en-us/azure/app-service/getting-started)
     - .NET
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore)
-      - [Aspire Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnet-aspire)
+      - [Aspire Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-aspire)
       - Configure
         - [ASP.NET](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnet-framework)
         - [ASP.NET Core](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnetcore)
-        - [Aspire](https://learn.microsoft.com/en-us/azure/app-service/configure-language-dotnet-aspire)
+        - [Aspire](https://learn.microsoft.com/en-us/azure/app-service/configure-language-aspire)
       - Connect
         - [ASP.NET Core with SQL DB](https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app)
         - [ASP.NET with SQL DB](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnet-sqldatabase)
