@@ -14,6 +14,11 @@
     - [Deploy a Batch account and two pools - Terraform](https://learn.microsoft.com/en-us/azure/batch/quick-deploy-batch-account-two-pools-terraform)
     - [Deploy a Batch account and two pools with a start task - Terraform](https://learn.microsoft.com/en-us/azure/batch/quick-deploy-batch-account-two-pools-start-task-terraform)
   - Tutorials
+    - [Financial risk simulations](https://learn.microsoft.com/en-us/azure/batch/tutorials/financial-risk-simulations/index)
+      - [Plan a simulation run](https://learn.microsoft.com/en-us/azure/batch/tutorials/financial-risk-simulations/plan-a-run)
+      - [Automate runs with .NET](https://learn.microsoft.com/en-us/azure/batch/tutorials/financial-risk-simulations/automate-with-dotnet)
+      - [Evaluate GPU acceleration](https://learn.microsoft.com/en-us/azure/batch/tutorials/financial-risk-simulations/evaluate-gpu-acceleration)
+      - [Package models with containers](https://learn.microsoft.com/en-us/azure/batch/tutorials/financial-risk-simulations/package-models-with-containers)
     - [Parallel file processing - .NET](https://learn.microsoft.com/en-us/azure/batch/tutorial-parallel-dotnet)
     - [Parallel file processing - Python](https://learn.microsoft.com/en-us/azure/batch/tutorial-parallel-python)
     - [OCR with Batch and Functions](https://learn.microsoft.com/en-us/azure/batch/tutorial-batch-functions)

@@ -32,10 +32,12 @@
     - TCP/TLS proxy
       - [Overview](https://learn.microsoft.com/en-us/azure/application-gateway/tcp-tls-proxy-overview)
       - [Client IP preservation](https://learn.microsoft.com/en-us/azure/application-gateway/proxy-protocol-header)
-    - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fapplication-gateway%2ftoc.json)
-    - [High traffic support](https://learn.microsoft.com/en-us/azure/application-gateway/high-traffic-support)
+    - Support
+      - [WebSocket support](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-websocket)
+      - [High traffic support](https://learn.microsoft.com/en-us/azure/application-gateway/high-traffic-support)
+      - [Support for working remotely](https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=%2fazure%2fapplication-gateway%2ftoc.json)
+      - [HTTP/3 support in Azure Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/http3-quic-support)
     - [Autoscaling v2 SKU](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
-    - [WebSocket support](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-websocket)
     - [Ingress for AKS](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview)
     - [Understanding pricing](https://learn.microsoft.com/en-us/azure/application-gateway/understanding-pricing)
     - [FAQ](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq.yml)

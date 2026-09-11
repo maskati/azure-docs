@@ -1,5 +1,5 @@
 # Azure Logic Apps documentation
-> Build automated scalable workflows, business processes, and enterprise orchestrations to integrate your apps and data across cloud services and on-premises systems.
+> Build automated scalable workflows for business processes and enterprise orchestrations to integrate apps and data across cloud services and on-premises systems.
   - [Azure Logic Apps documentation](https://learn.microsoft.com/en-us/azure/logic-apps/)
   - Overview
     - [About Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
