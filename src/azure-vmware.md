@@ -80,7 +80,7 @@
     - Portable VMware Cloud Foundation licensing
       - [Configure portable VCF](https://learn.microsoft.com/en-us/azure/azure-vmware/vmware-cloud-foundations-license-portability)
       - [Portable VCF licensing reference](https://learn.microsoft.com/en-us/azure/azure-vmware/portable-vcf-licensing-reference)
-      - [AVS License-included Service Retirement, using portable VCF and other options](https://learn.microsoft.com/en-us/azure/azure-vmware/license-included-service-retirement)
+      - [Azure VMware Solution license-included service retirement, using portable VCF and other options](https://learn.microsoft.com/en-us/azure/azure-vmware/license-included-service-retirement)
     - Cloud Adoption Framework
       - [Azure VMware Solution landing zone accelerator](https://aka.ms/avsaccelerator)
       - [Enterprise-Scale for Azure VMware Solution repository](https://github.com/Azure/Enterprise-Scale-for-AVS)
@@ -190,7 +190,7 @@
     - [Send syslogs to log management solutions via Azure Logic Apps](https://learn.microsoft.com/en-us/azure/azure-vmware/logs-via-logic-app)
     - [Configure alerts and work with metrics](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-alerts-for-azure-vmware-solution)
     - [Configure Newest Metrics for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-vmware-solution-metrics)
-    - Resource Health for AVS
+    - Resource Health for Azure VMware Solution
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-vmware/resource-health-for-azure-vmware-solution-overview)
       - [Configure Azure Monitor for Resource Health alerts](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-monitor-for-resource-health-for-azure-vmware-solution)
     - Arc-enabled Azure VMware Solution private cloud
