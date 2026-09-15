@@ -64,7 +64,7 @@
       - [Traffic Manager linked records](https://learn.microsoft.com/en-us/azure/dns/dns-traffic-manager-linked-records)
       - [Delegation with Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-domain-delegation)
       - [Reverse DNS](https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-overview)
-      - [Reliability in Azure Public DNS](https://learn.microsoft.com/azure/reliability/reliability-dns-public?toc=%2fazure%2fdns%2ftoc.json)
+      - [Reliability in Azure DNS public zones](https://learn.microsoft.com/azure/reliability/reliability-dns-public?toc=%2fazure%2fdns%2ftoc.json)
       - [FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq.yml)
     - Private DNS
       - [What is an Azure Private DNS zone?](https://learn.microsoft.com/en-us/azure/dns/private-dns-privatednszone)
@@ -74,7 +74,7 @@
       - [Private DNS scenarios](https://learn.microsoft.com/en-us/azure/dns/private-dns-scenarios)
       - [Sharding private DNS zones](https://learn.microsoft.com/en-us/azure/dns/sharding-private-dns-zones)
       - [DNS resolution in virtual networks](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances?toc=%2fazure%2fdns%2ftoc.json)
-      - [Private DNS resiliency](https://learn.microsoft.com/en-us/azure/dns/private-dns-resiliency)
+      - [Reliability in Azure DNS private zones](https://learn.microsoft.com/azure/reliability/reliability-dns-private?toc=%2fazure%2fdns%2ftoc.json)
       - [FAQ](https://learn.microsoft.com/en-us/azure/dns/dns-faq-private.yml)
     - Private Resolver
       - [Endpoints and rulesets](https://learn.microsoft.com/en-us/azure/dns/private-resolver-endpoints-rulesets)

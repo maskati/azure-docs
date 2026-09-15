@@ -3,7 +3,7 @@
   - [Microsoft Dev Box documentation](https://learn.microsoft.com/en-us/azure/dev-box/)
   - Overview
     - [What is Microsoft Dev Box?](https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box)
-    - [Dev Box maintenance mode](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-roadmap)
+    - [Microsoft Dev Box retirement guide](https://learn.microsoft.com/en-us/azure/dev-box/dev-box-retirement-guide)
   - Quickstarts
     - [Get Started with the quick start template](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-get-started-template)
     - [Set up Dev Box service Azure portal](https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-service)

@@ -7,8 +7,7 @@
     - Prerequisites
       - [RBAC permissions](https://learn.microsoft.com/en-us/azure/network-watcher/rbac-permissions)
       - [Enable Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-create)
-      - [Install and manage Network Watcher Agent](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-agent-manage)
-      - [Update Network Watcher Agent to latest version](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-agent-update)
+      - [Network Watcher Agent](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-agent-manage)
   - Monitoring
     - Connection monitor
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-overview)

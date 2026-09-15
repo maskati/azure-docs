@@ -164,6 +164,8 @@
     - Create an ExpressRoute association
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-portal)
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/expressroute-powershell)
+    - [ExpressRoute resiliency insights](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-insights?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
+    - [Validate ExpressRoute resiliency](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-validation?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json)
     - [Configure ExpressRoute encryption](https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-over-expressroute)
   - Routing
     - [Virtual WAN routing deep dive](https://learn.microsoft.com/en-us/azure/virtual-wan/routing-deep-dive)

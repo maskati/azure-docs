@@ -33,6 +33,7 @@
         - [Python SDK](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-python-sdk)
       - [Snapshots and state management](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
       - [Egress policies](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-egress-policies)
+      - [Reliability in Container Apps Sandboxes](https://learn.microsoft.com/azure/reliability/reliability-container-apps-sandboxes?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
     - Express
       - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/express-overview)
       - [Deploy with the CLI](https://learn.microsoft.com/en-us/azure/container-apps/deploy-express-cli)
@@ -213,6 +214,7 @@
     - [Dapr component resiliency](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency)
   - Reliability
     - [Reliability in Azure Container Apps](https://learn.microsoft.com/azure/reliability/reliability-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
+    - [Reliability in Container Apps Sandboxes](https://learn.microsoft.com/azure/reliability/reliability-container-apps-sandboxes?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
     - [Create a zone-redundant container app](https://learn.microsoft.com/en-us/azure/container-apps/how-to-zone-redundancy)
     - [Relocate to another region](https://learn.microsoft.com/en-us/azure/container-apps/relocate-region)
   - Dedicated compute
