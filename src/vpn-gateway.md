@@ -158,10 +158,7 @@
       - [Download Azure VPN Client with Windows Package Manager WinGet](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-winget)
       - [Report Azure VPN Client problems - Feedback Hub](https://learn.microsoft.com/troubleshoot/azure/vpn-gateway/feedback-hub-azure-vpn-client?toc=/azure/vpn-gateway/TOC.json)
     - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
-  - IPv6 dual stack connections
-    - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/ipv6-configuration)
-    - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-ipv6-azure-powershell)
-    - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-ipv6-azure-cli)
+  - [IPv6 dual stack connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-ipv6-azure)
   - VNet-to-VNet VPN
     - Configure VNet-to-VNet VPN connections
       - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)

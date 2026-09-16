@@ -87,7 +87,7 @@
         - [How to secure account with a SAS token](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-secure-sas-app)
         - [How to secure non-interactive sign-in single page application](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-secure-spa-app)
         - [How to secure input constrained application](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-secure-device-code)
-      - [Manage pricing tier](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-manage-pricing-tier)
+      - [Azure Maps account pricing](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-manage-pricing-tier)
       - [View usage metrics](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-view-api-usage)
     - Get map data from REST APIs
       - [Search for an address](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-search-for-address)

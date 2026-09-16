@@ -115,8 +115,8 @@
       - [Migration from Power Automate](https://learn.microsoft.com/en-us/azure/logic-apps/power-automate-migration)
       - Migration from BizTalk Server
         - [Why migrate from BizTalk Server?](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-overview)
-        - [Migration options and best practices](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-approaches)
         - Migration Agent for Azure Logic Apps
+          - [Migration approaches with Migration Agent](https://learn.microsoft.com/en-us/azure/logic-apps/biztalk-server-migration-approaches)
           - [About Migration Agent](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-overview)
           - [Migrate to Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-quickstart)
           - [Discovery stage](https://learn.microsoft.com/en-us/azure/logic-apps/migration/migration-agent-discovery-stage)

@@ -77,6 +77,7 @@
       - [Use edgeAgent direct methods](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-edgeagent-direct-method)
       - [Retrieve logs with direct methods](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-retrieve-iot-edge-logs)
       - [Access built-in metrics](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-access-built-in-metrics)
+      - [Migrate to Metrics Collector 2.0](https://learn.microsoft.com/en-us/azure/iot-edge/migrate-metrics-collector)
       - Azure Monitor integration
         - [Collect and transport metrics](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-collect-and-transport-metrics)
         - [Explore curated visualizations](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-explore-curated-visualizations)
