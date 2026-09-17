@@ -255,13 +255,15 @@
       - With CLI
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-backup-using-cli)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-kubernetes-service-cluster-restore-using-cli)
-  - Azure Elastic SAN backup
+  - Azure Elastic  SAN volume operational backup
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-overview)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-support-matrix)
+    - [Quickstart](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-quickstart)
+    - [Tutorial](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-tutorial)
     - Backup scenarios
-      - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-configure)
+      - [Configure operational backup](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-configure)
       - [Restore](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-restore)
-      - [manage](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-manage)
+      - [Manage](https://learn.microsoft.com/en-us/azure/backup/azure-elastic-san-backup-manage)
   - Azure Database for PostgreSQL -Flexible server backup
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-overview)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-database-postgresql-flex-support-matrix)

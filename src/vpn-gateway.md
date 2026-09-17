@@ -116,22 +116,15 @@
         - [Create or modify custom audience app ID](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-register-custom-app)
         - [Configure access based on users and groups](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-users-access)
         - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-mfa)
-      - VPN client configuration
-        - Azure VPN Client - Windows
-          - [Microsoft-registered authentication](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows)
-          - [Configure Device SSO](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows-device-sso)
-        - [Azure VPN Client - Linux](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux)
-        - [Azure VPN Client - macOS](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-mac)
-        - [Generate VPN client profile configuration files](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-vpn-profile-download)
+      - [Configure Azure VPN Client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client)
+      - [Configure device SSO for Windows](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows-device-sso)
+      - [Generate VPN client profile configuration files](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-vpn-profile-download)
     - Configure P2S - RADIUS authentication
       - P2S gateway configuration
         - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-radius-gateway)
         - [Azure Powershell](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-radius-ps)
         - [Multifactor authentication - P2S RADIUS and NPS server](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-radius-mfa-nsp)
-        - VPN client configuration
-          - [Certificate authentication clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-certificate)
-          - [Password authentication clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-password)
-          - [Other authentication protocols](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-other)
+        - [VPN client configuration](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius)
     - Assign IP addresses to specific User Groups
       - [About User Groups and client address pools](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-groups-about)
       - Configure groups and client address pools
@@ -186,10 +179,7 @@
     - [Use a VPN or ExpressRoute gateway in a different region](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-different-region)
     - BGP
       - [About BGP and VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-bgp-overview)
-      - Configure BGP for a VPN gateway
-        - [Azure portal](https://learn.microsoft.com/en-us/azure/vpn-gateway/bgp-howto)
-        - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-bgp-resource-manager-ps)
-        - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/bgp-how-to-cli)
+      - [Configure BGP for a VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/configure-bgp)
       - [Connect AWS and Azure using a BGP-enabled VPN gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-aws-bgp)
     - NAT
       - [About NAT and VPN Gateway](https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-overview)

@@ -31,8 +31,9 @@
     - [Planning your Private Networking for cloud to cloud migrations](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-private-network-configuration)
     - [Migrate from Amazon S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
     - [Migrate from Google S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/google-migration)
-    - [Transfer from Azure Blob to Blob](https://learn.microsoft.com/en-us/azure/storage-mover/azure-to-azure-migration)
     - [Migrate from AWS FSx to Azure Files](https://learn.microsoft.com/en-us/azure/storage-mover/amazon-files-azure-files-migration)
+    - [Transfer from Azure Blob to Blob](https://learn.microsoft.com/en-us/azure/storage-mover/azure-to-azure-migration)
+    - [Migrate across Microsoft Entra tenants from Azure Blob to Blob](https://learn.microsoft.com/en-us/azure/storage-mover/azure-cross-tenant-blob-migration)
   - Reliability and resiliency
     - [Reliability in Azure Storage Mover](https://learn.microsoft.com/azure/reliability/reliability-storage-mover?toc=/azure/storage-mover/toc.json)
     - [Customer-initiated disaster recovery](https://learn.microsoft.com/en-us/azure/storage-mover/customer-initiated-disaster-recovery)

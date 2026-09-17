@@ -95,6 +95,8 @@
     - Reference
       - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-faq)
       - [SDKs and REST API](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-reference-sdk-and-rest)
+      - [Service SDK - Java](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-reference-service-sdk-java)
+      - [Service SDK - JavaScript](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-reference-service-sdk-javascript)
       - [Error codes](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/chat-reference-errors)
   - Socket.IO
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/socketio-overview)
