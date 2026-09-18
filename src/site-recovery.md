@@ -45,10 +45,11 @@
       - [Fail over to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-failover)
       - [Reprotect VMs](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-reprotect)
       - [Fail back from Azure](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-failback)
-    - Move to modernized VMware VM disaster recovery
+    - Archive - retired classic VMware migration
       - [Classic to modernized VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/move-from-classic-to-modernized-vmware-disaster-recovery)
       - [Move from classic to modernized VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/how-to-move-from-classic-to-modernized-vmware-disaster-recovery)
-      - [Deploy Azure Site Recovery replication appliance modernized](https://learn.microsoft.com/en-us/azure/site-recovery/deploy-vmware-azure-replication-appliance-modernized)
+      - [Classic to modernized VMware disaster recovery FAQ](https://learn.microsoft.com/en-us/azure/site-recovery/classic-to-modernized-common-questions)
+    - [Deploy Azure Site Recovery replication appliance modernized](https://learn.microsoft.com/en-us/azure/site-recovery/deploy-vmware-azure-replication-appliance-modernized)
     - Set up disaster recovery for Azure Extended Zones VMs
       - [Disaster recovery using the Recovery Services vault](https://learn.microsoft.com/en-us/azure/site-recovery/disaster-recovery-for-edge-zone-vm-tutorial)
       - [Disaster recovery when creating a VM](https://learn.microsoft.com/en-us/azure/site-recovery/disaster-recovery-for-edge-zone-via-vm-flow-tutorial)
@@ -75,7 +76,6 @@
       - [Azure to Azure disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-common-questions)
       - [VMware to Azure replication](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-common-questions)
       - [Hyper-V to Azure disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-common-questions)
-      - [Classic to Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/classic-to-modernized-common-questions)
       - [Monitoring](https://learn.microsoft.com/en-us/azure/site-recovery/monitoring-common-questions)
     - About Azure VM disaster recovery
       - [Azure to Azure disaster recovery architecture](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-architecture)
@@ -243,7 +243,7 @@
     - Backup center
       - [Obtain insights](https://learn.microsoft.com/en-us/azure/backup/backup-center-obtain-insights?toc=/azure/site-recovery/toc.json&bc=/azure/site-recovery/breadcrumb/toc.json)
       - [Perform actions](https://learn.microsoft.com/en-us/azure/backup/backup-center-actions?toc=/azure/site-recovery/toc.json&bc=/azure/site-recovery/breadcrumb/toc.json)
-    - Classic
+    - Archive - retired classic experience
       - VMware VM
         - [Plan capacity](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-plan-capacity-vmware)
         - [Manage the Mobility agent](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-manage-mobility-service)

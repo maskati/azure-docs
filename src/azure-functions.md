@@ -48,7 +48,6 @@
       - Databases
         - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code)
         - [Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code)
-      - [OpenAI](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion)
   - Tutorials
     - [Functions with Logic Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-twitter-email)
     - [Host MCP servers for AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-tutorial)
@@ -64,7 +63,6 @@
     - [Image resize with Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [Create a serverless web app](https://learn.microsoft.com/training/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/)
     - Data + AI
-      - [Azure OpenAI for text completion](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion)
       - [Machine learning with TensorFlow](https://learn.microsoft.com/en-us/azure/azure-functions/functions-machine-learning-tensorflow)
       - [Image classification with PyTorch](https://learn.microsoft.com/en-us/azure/azure-functions/machine-learning-pytorch)
     - [Functions on IoT Edge device](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
@@ -305,6 +303,7 @@
     - Upgrade runtime versions
       - [Migrate v3.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-3-version-4)
       - [Migrate v1.x to v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-1-version-4)
+      - [Runtime v1.x legacy reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-runtime-1x-legacy)
     - Language version updates
       - [Update language versions](https://learn.microsoft.com/en-us/azure/azure-functions/update-language-versions)
       - [Migrate Node.js to model v4.x](https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-upgrade-v4)
