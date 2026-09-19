@@ -64,7 +64,7 @@
       - [Create Standard workflows from templates - Portal](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-templates)
       - [Create Standard workflows - Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/create-single-tenant-workflows-visual-studio-code)
       - [Export Standard from portal to Visual Studio Code](https://learn.microsoft.com/en-us/azure/logic-apps/export-standard-logic-app-to-visual-studio-code)
-      - [Create and run .NET code](https://learn.microsoft.com/en-us/azure/logic-apps/create-run-custom-code-functions)
+      - [Create and run local functions in Standard workflows](https://learn.microsoft.com/en-us/azure/logic-apps/create-run-custom-code-functions)
       - [Create workflows with C# and Logic Apps Standard SDK](https://learn.microsoft.com/en-us/azure/logic-apps/standard-sdk/create-workflows-with-csharp)
       - [Add and run C# scripts](https://learn.microsoft.com/en-us/azure/logic-apps/add-run-csharp-scripts)
       - [Add and run PowerShell scripts](https://learn.microsoft.com/en-us/azure/logic-apps/add-run-powershell-scripts)
@@ -246,7 +246,7 @@
       - [X12](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-x12)
       - [XML Validation](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-xml-validation)
     - Secure
-      - [Secure logic apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-securing-a-logic-app)
+      - [Secure data and access](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-security-permissions)
       - [Secure agentic workflows with Easy Auth](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-authentication-agent-workflows)
       - [Authenticate with managed identities](https://learn.microsoft.com/en-us/azure/logic-apps/authenticate-with-managed-identity)
       - [Authorize agent loop access to resources with OBO](https://learn.microsoft.com/en-us/azure/logic-apps/set-up-on-behalf-of-user-flow)

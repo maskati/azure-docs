@@ -70,7 +70,6 @@
       - [Asynchronous messaging and high availability](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-async-messaging)
       - [Handling outages and disasters](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters)
       - [Throttling](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-throttling)
-      - [Enforce minimum required TLS version](https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-enforce-minimum-version)
       - [Delete messages in Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/batch-delete)
     - Federation
       - [Message replication and cross-region federation](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-overview)
@@ -81,19 +80,30 @@
       - [Replicate messages to Event Hubs](https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopyToEventHub)
       - [Acquire messages from Event Hubs](https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/EventHubCopyToServiceBus)
     - [Reliability](https://learn.microsoft.com/azure/reliability/reliability-service-bus?toc=/azure/service-bus-messaging/TOC.json)
-    - Security
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/service-bus-messaging-security-baseline?toc=/azure/service-bus-messaging/TOC.json)
-      - [Authentication and authorization](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-authentication-and-authorization)
-        - [Authentication with Shared Access Signatures](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas)
-        - Use Microsoft Entra ID
-          - [Authenticate with managed identities for Azure resources](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-managed-service-identity)
-          - [Authenticate from an application](https://learn.microsoft.com/en-us/azure/service-bus-messaging/authenticate-application)
-      - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/service-bus-messaging/security-controls-policy)
-      - [Network security](https://learn.microsoft.com/en-us/azure/service-bus-messaging/network-security)
-      - [Confidential computing](https://learn.microsoft.com/en-us/azure/service-bus-messaging/confidential-computing)
-      - [Network security perimeter](https://learn.microsoft.com/en-us/azure/service-bus-messaging/network-security-perimeter)
     - Integration with other services
       - [Azure Service Bus and Azure Event Grid integration](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-concept)
+  - Security
+    - [Secure your Service Bus deployment](https://learn.microsoft.com/en-us/azure/service-bus-messaging/secure-service-bus)
+    - [Authentication and authorization](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-authentication-and-authorization)
+      - [Authentication with Shared Access Signatures](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas)
+      - Use Microsoft Entra ID
+        - [Authenticate with managed identities for Azure resources](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-managed-service-identity)
+        - [Authenticate from an application](https://learn.microsoft.com/en-us/azure/service-bus-messaging/authenticate-application)
+      - [Disable local or SAS authentication](https://learn.microsoft.com/en-us/azure/service-bus-messaging/disable-local-authentication)
+    - [Network security](https://learn.microsoft.com/en-us/azure/service-bus-messaging/network-security)
+      - [Allow access from specific IP addresses](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-ip-filtering)
+      - [Allow access from specific virtual networks](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-service-endpoints)
+      - [Allow access via private endpoints](https://learn.microsoft.com/en-us/azure/service-bus-messaging/private-link-service)
+      - [Network security perimeter](https://learn.microsoft.com/en-us/azure/service-bus-messaging/network-security-perimeter)
+    - Data protection
+      - [Encrypt data using customer-managed keys](https://learn.microsoft.com/en-us/azure/service-bus-messaging/configure-customer-managed-key)
+    - Transport Layer Security TLS
+      - [Enforce minimum required TLS version](https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-enforce-minimum-version)
+      - [Configure minimum required TLS version](https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-configure-minimum-version)
+      - [Audit minimum required TLS version](https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-audit-minimum-version)
+    - Compliance and governance
+      - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/service-bus-messaging/security-controls-policy)
+    - [Confidential computing](https://learn.microsoft.com/en-us/azure/service-bus-messaging/confidential-computing)
   - How-to guides
     - Develop
       - [Set subscription filters and actions](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-filter-examples)
