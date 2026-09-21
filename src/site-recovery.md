@@ -237,9 +237,6 @@
     - Backup center
       - [Obtain insights](https://learn.microsoft.com/en-us/azure/backup/backup-center-obtain-insights?toc=/azure/site-recovery/toc.json&bc=/azure/site-recovery/breadcrumb/toc.json)
       - [Perform actions](https://learn.microsoft.com/en-us/azure/backup/backup-center-actions?toc=/azure/site-recovery/toc.json&bc=/azure/site-recovery/breadcrumb/toc.json)
-    - Archive - retired classic experience
-      - VMware VM
-      - Physical VM
   - Automation
     - [Set up disaster recovery of Azure VMs using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-powershell)
     - [Set up disaster recovery on Azure Extended Zones VMs using PowerShell](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-replicate-vms-edge-zone-to-azure-region)
