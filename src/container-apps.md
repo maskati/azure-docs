@@ -324,10 +324,12 @@
       - [Java](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-appcontainers-readme)
       - [Node.js](https://learn.microsoft.com/javascript/api/overview/azure/arm-appcontainers-readme)
       - [Python](https://learn.microsoft.com/python/api/azure-mgmt-appcontainers/azure.mgmt.appcontainers)
-  - Azure Arc
-    - [Azure Arc-enabled Kubernetes clusters](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-overview)
-    - [1 - Set up Azure Arc-enabled Kubernetes clusters](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-enable-cluster)
-    - [2 - Create container app](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-create-container-app)
+  - Azure Arc-enabled Kubernetes
+    - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-overview)
+    - [Plan deployment](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-plan)
+    - [Set up cluster](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-enable-cluster)
+    - [Create first app](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-create-container-app)
+    - [Troubleshoot](https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-troubleshoot)
   - Compliance
     - [Secure your Azure Container Apps deployment](https://learn.microsoft.com/en-us/azure/container-apps/secure-deployment)
     - [Microsoft Azure Compliance Offerings](https://servicetrust.microsoft.com/DocumentPage/7adf2d9e-d7b5-4e71-bad8-713e6a183cf3)
