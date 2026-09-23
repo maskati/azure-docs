@@ -4,6 +4,7 @@
   - Overview
     - [What is Azure Communication Services?](https://learn.microsoft.com/en-us/azure/communication-services/overview)
     - [What's new](https://learn.microsoft.com/en-us/azure/communication-services/whats-new)
+    - [Retirement and breaking changes guide](https://learn.microsoft.com/en-us/azure/communication-services/acs-retirement-and-breaking-changes-guide)
     - [Services](https://learn.microsoft.com/en-us/azure/communication-services/concepts/services)
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
   - Fundamentals
@@ -38,6 +39,7 @@
   - Chat
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
     - [Pricing](https://azure.microsoft.com/pricing/details/communication-services/)
+    - [Migrate Chat to Microsoft Graph chat](https://learn.microsoft.com/en-us/azure/communication-services/acs-chat-to-graph-chat-migration-guide)
     - [Chat architecture](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
     - [Build intelligent, AI-powered chat experiences](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/concepts)
     - [Chat SDK overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/chat/sdk-features)
@@ -435,6 +437,8 @@
         - [Rooms REST](https://learn.microsoft.com/rest/api/communication/rooms/operation-groups)
   - Phone calling
     - [Overview](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/telephony-concept)
+    - [Migration to Teams Phone numbers](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/migrate-to-teams-phone)
+    - [Migration to Teams Phone Direct Routing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/migrate-to-teams-direct-routing)
     - [Pricing](https://learn.microsoft.com/en-us/azure/communication-services/concepts/pstn-pricing)
     - [Phone number types](https://learn.microsoft.com/en-us/azure/communication-services/concepts/numbers/number-types)
     - [Define your caller identity](https://learn.microsoft.com/en-us/azure/communication-services/concepts/telephony/how-to-manage-your-calling-identity)

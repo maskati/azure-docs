@@ -322,6 +322,7 @@
       - [Intelligent Cache](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-intelligent-cache-concept)
       - Azure Synapse runtimes for Apache Spark
         - [Runtime for Apache Spark overview](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-version-support)
+        - [Runtime release channels](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-runtime-release-channels)
         - [Azure Synapse Apache Spark 3.5 runtime GA](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-35-runtime)
         - [Azure Synapse Apache Spark 3.4 runtime unsupported](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-34-runtime)
         - [Azure Synapse Apache Spark 3.3 runtime unsupported](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-33-runtime)
