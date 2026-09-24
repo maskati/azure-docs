@@ -16,6 +16,7 @@
   - Concepts
     - [Firmware analysis role-based access control](https://learn.microsoft.com/en-us/azure/firmware-analysis/firmware-analysis-rbac)
     - [Understanding and prioritizing weaknesses data in firmware analysis](https://learn.microsoft.com/en-us/azure/firmware-analysis/understand-weaknesses-data)
+    - [Understanding unsafe function call data](https://learn.microsoft.com/en-us/azure/firmware-analysis/understand-unsafe-function-calls)
     - [UEFI firmware analysis capabilities](https://learn.microsoft.com/en-us/azure/firmware-analysis/unified-extensible-firmware-interface-firmware-analysis)
     - [Firmware analysis integration with Azure Device Registry](https://learn.microsoft.com/en-us/azure/firmware-analysis/firmware-analysis-integration-with-azure-device-registry)
   - How-to guides

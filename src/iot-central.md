@@ -3,6 +3,7 @@
   - [Azure IoT Central documentation](https://learn.microsoft.com/en-us/azure/iot-central/)
   - Overview
     - [What is Azure IoT Central](https://learn.microsoft.com/en-us/azure/iot-central/core/overview-iot-central)
+    - [Azure IoT Central evolution](https://learn.microsoft.com/en-us/azure/iot-central/core/iot-central-evolution)
     - [Tour of the UI](https://learn.microsoft.com/en-us/azure/iot-central/core/overview-iot-central-tour)
     - [Tour of the API](https://learn.microsoft.com/en-us/azure/iot-central/core/overview-iot-central-api-tour)
   - Quickstarts

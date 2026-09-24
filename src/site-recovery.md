@@ -31,12 +31,12 @@
       - [Run a disaster recovery drill](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-dr-drill-azure)
       - [Run VMware VMs failover to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-tutorial-failover-failback-modernized)
     - Hyper-V VM disaster recovery to Azure
+      - [Set up replication for Hyper-V VMs](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-tutorial)
       - [Prepare Azure](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-prepare-azure-for-hyperv)
       - [Prepare on-premises Hyper-V](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-prepare-on-premises-tutorial)
       - [Set up replication for Hyper-V VMs in VMM clouds](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-vmm-azure-tutorial)
       - [Run a disaster recovery drill](https://learn.microsoft.com/en-us/azure/site-recovery/tutorial-dr-drill-azure)
       - [Fail over to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-failover-failback-tutorial)
-    - [Set up replication for Hyper-V VMs](https://learn.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-tutorial)
     - Azure VMware Solution disaster recovery to Azure
       - [Prepare Azure](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-prepare-azure)
       - [Prepare Azure VMware Solution](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-prepare-avs)
@@ -45,10 +45,10 @@
       - [Fail over to Azure](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-failover)
       - [Reprotect VMs](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-reprotect)
       - [Fail back from Azure](https://learn.microsoft.com/en-us/azure/site-recovery/avs-tutorial-failback)
-    - Archive - retired classic VMware migration
-      - [Classic to modernized VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/move-from-classic-to-modernized-vmware-disaster-recovery)
-      - [Move from classic to modernized VMware disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/how-to-move-from-classic-to-modernized-vmware-disaster-recovery)
-      - [Classic to modernized VMware disaster recovery FAQ](https://learn.microsoft.com/en-us/azure/site-recovery/classic-to-modernized-common-questions)
+    - Classic VMware migration
+      - [Prepare infrastructure for migration](https://learn.microsoft.com/en-us/azure/site-recovery/move-from-classic-to-modernized-vmware-disaster-recovery)
+      - [Move resources from classic to modernized experience](https://learn.microsoft.com/en-us/azure/site-recovery/how-to-move-from-classic-to-modernized-vmware-disaster-recovery)
+      - [FAQ on classic to modernized VMware DR](https://learn.microsoft.com/en-us/azure/site-recovery/classic-to-modernized-common-questions)
     - [Deploy Azure Site Recovery replication appliance modernized](https://learn.microsoft.com/en-us/azure/site-recovery/deploy-vmware-azure-replication-appliance-modernized)
     - Set up disaster recovery for Azure Extended Zones VMs
       - [Disaster recovery using the Recovery Services vault](https://learn.microsoft.com/en-us/azure/site-recovery/disaster-recovery-for-edge-zone-vm-tutorial)
@@ -88,7 +88,6 @@
       - [About moving Azure VMs to another region](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-move-overview)
       - [Alternative virtual machine size guidance](https://learn.microsoft.com/en-us/azure/site-recovery/alternative-vm-size-failover-flow)
     - About VMware VM disaster recovery
-      - [Deprecation of classic experience](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-classic-deprecation)
       - [Failover and failback - Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/failover-failback-overview-modernized)
         - [Configure on-premise disks for Azure through Hydration](https://learn.microsoft.com/en-us/azure/site-recovery/hydration-process)
       - [VMware to Azure architecture - Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-azure-architecture-modernized)
@@ -97,7 +96,6 @@
     - About Backup center
       - [Backup center overview](https://learn.microsoft.com/en-us/azure/backup/backup-center-overview?toc=/azure/site-recovery/toc.json&bc=/azure/site-recovery/breadcrumb/toc.json)
     - About physical server disaster recovery
-      - [Deprecation of classic experience](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-classic-deprecation)
       - [Physical server to Azure architecture - Modernized](https://learn.microsoft.com/en-us/azure/site-recovery/physical-server-azure-architecture-modernized)
     - About networking for disaster recovery
       - [Azure Traffic Manager with Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/concepts-traffic-manager-with-site-recovery)

@@ -31,7 +31,7 @@
         - [CLI](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-cli)
         - [Bicep](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-bicep)
         - [Python SDK](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-python-sdk)
-      - [Snapshots and state management](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
+      - [Lifecycle preview](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
       - [Egress policies](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-egress-policies)
       - [Reliability in Container Apps Sandboxes](https://learn.microsoft.com/azure/reliability/reliability-container-apps-sandboxes?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
     - Express

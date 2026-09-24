@@ -282,6 +282,9 @@
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
   - AI
     - [Create AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-ai-enabled-apps)
+    - [Agent bindings in Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings)
+    - [Agent binding with Microsoft Agent Framework](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings-agent-framework)
+    - [Agent binding with Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings-agent-framework-durable)
     - Custom remote MCP servers
       - [MCP extension quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
       - [MCP Apps quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
@@ -292,8 +295,8 @@
       - [Register an MCP server in API Center](https://learn.microsoft.com/en-us/azure/azure-functions/register-mcp-server-api-center)
     - Hosted skills
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills)
-      - [Dynamic workflows](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows)
-      - [Create and run dynamic workflows](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows-how-to)
+      - [Dynamic workflows overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows)
+      - [Dynamic workflows quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows-how-to)
       - [Reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-reference)
     - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)

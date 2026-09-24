@@ -17,10 +17,12 @@
     - [Use playground to explore](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/quickstarts-playground)
     - [Publish and subscribe messages](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-pub-sub-messages)
     - [Build a chat app](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-build-chat)
+    - [Run an app with Web PubSub Chat](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-build-chat-client)
     - [Develop with Visual Studio Code](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-develop-with-visual-studio-code)
     - [Client streaming with a service-supported subprotocol](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-subprotocol)
     - [Authentication and permissions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-permission)
     - [Build a serverless chat app with Azure Functions](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/quickstart-serverless)
+    - [Deploy a serverless app with Web PubSub Chat](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-serverless-chat)
     - [Authenticate and authorize MQTT client](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-upstream-auth-mqtt-client)
   - How-to guides
     - Develop
