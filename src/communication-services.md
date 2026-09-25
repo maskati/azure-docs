@@ -592,6 +592,7 @@
     - [Provisioning and authorization](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-provisioning)
     - [Teams Phone capabilities](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-capabilities)
     - [Teams Phone extensibility FAQ](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-faq)
+    - [Lowest Latency Best Practices](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-optimize-latency)
     - [Troubleshooting](https://learn.microsoft.com/en-us/azure/communication-services/concepts/interop/tpe/teams-phone-extensibility-troubleshooting)
     - Samples and tutorials
       - [Teams Phone extensibility quick start](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/tpe/teams-phone-extensibility-quickstart)

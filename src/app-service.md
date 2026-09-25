@@ -171,6 +171,7 @@
       - [Industry-wide certificate changes](https://learn.microsoft.com/en-us/azure/app-service/industry-wide-certificate-changes)
   - Database and service connection
     - [Connectivity scenarios overview](https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-overview)
+    - [Managed connectors](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-connectors)
     - Connect by using secrets
       - [Use secrets in app settings](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal)
       - [Use secrets from Key Vault](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references)

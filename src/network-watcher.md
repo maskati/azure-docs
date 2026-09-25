@@ -92,6 +92,7 @@
     - [Integrate Microsoft Sentinel with traffic analytics](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-sentinel)
     - [Apply Zero Trust principles to segment Azure network](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-zero-trust)
     - [Enable traffic analytics using Azure policy](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)
+    - [Enhance traffic analytics insights with AI agent usage](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-insights)
   - Security
     - [Secure Network Watcher deployment](https://learn.microsoft.com/en-us/azure/network-watcher/secure-network-watcher)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/network-watcher-security-baseline?toc=/azure/network-watcher/toc.json)

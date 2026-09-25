@@ -27,6 +27,7 @@
       - Understand Kerberos, Entra ID, Active Directory, LDAP and DNS
         - [Understand Kerberos](https://learn.microsoft.com/en-us/azure/azure-netapp-files/kerberos)
         - [Understand Active Directory Domain Services and guidelines for site design and planning](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-guidelines-active-directory-domain-service-site)
+        - [Understand Microsoft Entra ID hybrid and cloud-only identities](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-entra-id)
         - Understand LDAP
           - [Understand LDAP basics](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol)
           - [Understand name mapping using LDAP](https://learn.microsoft.com/en-us/azure/azure-netapp-files/lightweight-directory-access-protocol-name-mapping)
@@ -181,6 +182,8 @@
         - [Modify Active Directory connections](https://learn.microsoft.com/en-us/azure/azure-netapp-files/modify-active-directory-connections)
         - [Configure AD DS LDAP authentication for NFS volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-ldap-over-tls)
         - [Join a Linux VM to an Active Directory Domain](https://learn.microsoft.com/en-us/azure/azure-netapp-files/join-active-directory-domain)
+      - Manage Entra ID
+        - [Manage Microsoft Entra Kerberos authentication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-entra-kerberos-authentication-for-hybrid-cloud-identities)
       - Manage capacity pools
         - [Set up a capacity pool](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-set-up-capacity-pool)
         - [Manage a manual QoS capacity pool](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-manual-qos-capacity-pool)
@@ -299,6 +302,7 @@
       - [Troubleshoot Resource Provider errors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-troubleshoot-resource-provider-errors)
       - [Troubleshoot user access on LDAP volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-user-access-ldap)
       - [Troubleshoot file locks](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-file-locks)
+      - [Troubleshoot Microsoft Entra Kerberos authentication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-entra-kerberos-authentication)
       - [Troubleshoot SMB authentication and CIFS password reset failures](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-authentication-password-reset-failure)
       - [Troubleshoot latency issues](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-latency-issues)
   - FAQs
