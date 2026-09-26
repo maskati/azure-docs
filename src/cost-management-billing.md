@@ -127,6 +127,8 @@
         - [Manage a Microsoft Azure credit resource](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/credits/manage-azure-credits)
       - Manage discounts
         - [Manage a Microsoft discount resource](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/discounts/manage-azure-discount)
+      - Discover promotions
+        - [Discover and redeem eligible Azure promotions](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/promos/browse-redeem-consumption-promos)
       - Manage Microsoft Azure Consumption Commitment
         - [Track your Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/macc/track-consumption-commitment)
         - [Manage a Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/macc/manage-consumption-commitment)
