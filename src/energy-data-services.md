@@ -70,6 +70,7 @@
     - [Upload large files using file service](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-upload-large-files-using-file-service)
     - [Connect Analytics Consumption Zone ACZ to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-connect-analytics-consumption-zone-to-fabric)
     - [Connect Analytics Consumption Zone ACZ to Azure Databricks](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-connect-analytics-consumption-zone-to-databricks)
+    - [Connect Analytics Consumption Zone ACZ to Snowflake](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-connect-analytics-consumption-zone-to-snowflake)
   - References
     - REST API
       - [Data plane](https://microsoft.github.io/adme-samples/)

@@ -148,7 +148,6 @@
       - [Defend against Distributed Denial of Service DDoS attacks](https://learn.microsoft.com/en-us/azure/api-management/protect-with-ddos-protection)
       - [Configure Front Door](https://learn.microsoft.com/en-us/azure/api-management/front-door-api-management)
       - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/api-management/security-controls-policy)
-      - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/api-management-security-baseline?toc=%2Fazure/api-management%2Ftoc.json&bc=/azure/api-management/breadcrumb/toc.json)
     - Reliability and disaster recovery
       - [Access resource protected by network security perimeter](https://learn.microsoft.com/en-us/azure/api-management/using-network-security-perimeter)
     - Configuration management
@@ -162,6 +161,7 @@
       - [Enable availability zones](https://learn.microsoft.com/en-us/azure/api-management/enable-availability-zone-support)
       - [Set up DR using backup/restore](https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore)
   - Secure API access
+    - [Secure your API Management deployment](https://learn.microsoft.com/en-us/azure/api-management/secure-api-management)
     - [API authentication and authorization options](https://learn.microsoft.com/en-us/azure/api-management/authentication-authorization-overview)
     - Authenticate APIs with Microsoft Entra ID
       - [Protect product APIs with Microsoft Entra ID applications](https://learn.microsoft.com/en-us/azure/api-management/applications)
