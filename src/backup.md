@@ -52,6 +52,7 @@
         - [Perform actions](https://learn.microsoft.com/en-us/azure/backup/backup-center-actions)
   - Security and Ransomware protection
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/security-overview)
+    - [Secure your Azure Backup deployment](https://learn.microsoft.com/en-us/azure/backup/secure-backup)
     - [FAQ-Protection against Ransomware](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
     - [Best practices for backup data protection](https://learn.microsoft.com/en-us/azure/backup/azure-backup-data-protection-best-practices)
     - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/backup/backup-rbac-rs-vault)
@@ -93,7 +94,6 @@
       - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/encryption-at-rest-with-cmk-for-backup-vault)
     - [Transport Layer Security](https://learn.microsoft.com/en-us/azure/backup/transport-layer-security)
     - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/backup/security-controls-policy)
-    - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/backup-security-baseline?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
   - Azure VM backup
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
     - [Agentless multi-disk crash-consistent VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-agentless-multi-disk-crash-consistent-overview)
@@ -308,6 +308,11 @@
       - With PowerShell
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-using-powershell)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-restore-powershell)
+  - Azure PostgreSQL flexible server and elastic cluster vaulted backup v2
+    - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-overview)
+    - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-support-matrix)
+    - [Tutorial](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-tutorial)
+    - [Migrate from v1 to v2](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-migrate)
   - Azure Database for MySQL - Flexible Server backup preview
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)

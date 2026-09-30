@@ -65,7 +65,7 @@
       - [Bicep](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-bicep)
       - [ARM template](https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-resource-manager)
     - [.NET App in Visual Studio](https://learn.microsoft.com/visualstudio/azure/vs-azure-tools-connected-services-app-configuration)
-  - Understand basics
+  - Configuration management
     - Keys and values
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-key-value)
       - [Point-in-time key-values](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-point-time-snapshot)
@@ -88,9 +88,6 @@
       - Dynamic configuration with push model
         - [.NET](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-core-push-refresh)
         - [Java Spring](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-java-spring-push-refresh)
-    - Soft delete
-      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-soft-delete)
-      - [Recover or purge deleted stores](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-recover-deleted-stores-in-azure-app-configuration)
   - AI configuration
     - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-ai-configuration)
     - Chat completion
@@ -154,6 +151,9 @@
   - Monitoring
     - [Monitor App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration)
   - Resource management
+    - Soft delete
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-soft-delete)
+      - [Recover or purge deleted stores](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-recover-deleted-stores-in-azure-app-configuration)
     - [Move a resource between Azure regions](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-move-resource-between-regions)
     - [Move a resource between subscriptions or resource groups](https://learn.microsoft.com/en-us/azure/azure-app-configuration/howto-move-resource-between-subscriptions-resource-groups)
     - [Preview API life cycle](https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-preview-api-life-cycle)
@@ -271,10 +271,6 @@
     - [Roadmap](https://github.com/Azure/AppConfiguration/projects/1)
     - [Support policy](https://learn.microsoft.com/en-us/azure/azure-app-configuration/client-library-support-policy)
     - Videos
-      - [Getting started with App Configuration](https://learn.microsoft.com/Shows/Azure-Friday/Getting-started-with-Azure-App-Configuration)
-      - [Making centralized configuration easy](https://learn.microsoft.com/Events/dotnetConf/NET-Conf-2019/B210)
-      - [Azure App Configuration on Cloud Native Show](https://www.youtube.com/watch?v=DJqmA5PcfzE)
-      - [Rolling out new features](https://learn.microsoft.com/Shows/Azure-Friday/How-Azure-App-Configuration-helps-developers-roll-out-new-features?ocid=AID747781&wt.mc_id=azfr-c9-scottha&wt.mc_id=CFID0553)
       - [Three reasons to use configuration snapshots](https://aka.ms/appconfig/snapshotVideo)
       - [Five things you might not know about Azure App Configuration](https://aka.ms/appconfig/fiveThingsVideo)
     - [Provide product feedback](https://github.com/Azure/AppConfiguration/issues)
