@@ -291,7 +291,10 @@
     - [Azure updates](https://azure.microsoft.com/updates/?searchterms=Azure+Site+Recovery)
     - Pricing
       - [Azure Site Recovery Pricing](https://azure.microsoft.com/pricing/details/site-recovery/)
-      - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)
+      - [Pricing Calculator for Total Cost of Ownership for A2A](https://azure.microsoft.com/updates/?id=482319)
+      - Understand Pricing Components
+        - [Azure to Azure - costs](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-cost)
+        - [Azure Site Recovery Deployment Planner](https://learn.microsoft.com/en-us/azure/site-recovery/deployment-planner-cost-estimation)
     - [Blog](https://azure.microsoft.com/blog/tag/azure-site-recovery/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-site-recovery.html)
     - [Learning path](https://learn.microsoft.com/training/azure/)

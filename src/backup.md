@@ -312,7 +312,9 @@
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-overview)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-support-matrix)
     - [Tutorial](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-tutorial)
-    - [Migrate from v1 to v2](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-migrate)
+    - Backup scenarios
+      - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-restore)
+      - [Migrate from v1 to v2](https://learn.microsoft.com/en-us/azure/backup/backup-azure-postgresql-flex-server-elastic-cluster-v2-migrate)
   - Azure Database for MySQL - Flexible Server backup preview
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-about)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-mysql-flexible-server-support-matrix)

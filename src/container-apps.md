@@ -129,7 +129,7 @@
         - [Use GPUs with Functions on Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/functions-gpu-container-apps)
         - [Tutorial: GPU image generation with Functions on ACA](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-gpu-image-generation)
       - [Override auto-generated KEDA scale rules](https://learn.microsoft.com/en-us/azure/container-apps/functions-scale-rule-override)
-      - [Migrate from Functions v1 to v2](https://learn.microsoft.com/en-us/azure/container-apps/migrate-functions)
+      - [Migrate from Functions on Azure Container Apps V1 to Functions on Azure Container Apps V2](https://learn.microsoft.com/en-us/azure/container-apps/migrate-functions)
       - [Run event-driven and batch workloads](https://learn.microsoft.com/en-us/azure/container-apps/functions-unified-platform)
     - Event-driven processing
       - [With a job](https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs)

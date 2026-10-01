@@ -184,7 +184,7 @@
     - JavaScript
       - [Map control](https://learn.microsoft.com/javascript/api/azure-maps-control/)
       - [Drawing tools](https://learn.microsoft.com/javascript/api/azure-maps-drawing-tools/)
-      - [Service module](https://learn.microsoft.com/javascript/api/azure-maps-rest/)
+      - [REST SDK](https://learn.microsoft.com/en-us/azure/azure-maps/how-to-dev-guide-js-sdk)
       - [Spatial IO module](https://learn.microsoft.com/javascript/api/azure-maps-spatial-io/)
       - Release notes
         - [Map control](https://learn.microsoft.com/en-us/azure/azure-maps/release-notes-map-control)
