@@ -83,6 +83,7 @@
     - [Read flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-read)
     - [Visualize flow logs with Power BI](https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-power-bi)
     - [Migrate NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate)
+    - [Monitor AKS traffic flows](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-aks-scenarios)
   - Traffic analytics
     - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
     - [Usage scenarios](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-usage-scenarios)

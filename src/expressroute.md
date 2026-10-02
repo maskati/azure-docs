@@ -106,6 +106,7 @@
       - Private Peering
         - [Design with private peering](https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering)
         - [Design VPN as private peering backup](https://learn.microsoft.com/en-us/azure/expressroute/use-s2s-vpn-as-backup-for-expressroute-privatepeering)
+    - [Test link failover](https://learn.microsoft.com/en-us/azure/expressroute/test-link-failover)
     - ExpressRoute gateway
       - [Reliability in ExpressRoute gateway](https://learn.microsoft.com/azure/reliability/reliability-virtual-network-gateway?pivot=expressroute?toc=/azure/expressroute/toc.json)
       - [ExpressRoute Resiliency Guard](https://learn.microsoft.com/en-us/azure/expressroute/resiliency-model)
