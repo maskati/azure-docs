@@ -78,6 +78,7 @@
     - [Azure Security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
     - Network security perimeter
       - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs)
+      - [Metrics](https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-metrics)
   - Troubleshoot
     - [Troubleshoot Azure Private Link](https://learn.microsoft.com/troubleshoot/azure/private-link/welcome-azure-private-link?toc=/azure/private-link/TOC.json)
   - [Support and troubleshooting](https://learn.microsoft.com/en-us/azure/private-link/private-link-support-help)

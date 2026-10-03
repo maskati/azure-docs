@@ -295,6 +295,7 @@
       - [Register an MCP server in API Center](https://learn.microsoft.com/en-us/azure/azure-functions/register-mcp-server-api-center)
     - Hosted skills
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills)
+      - [Canvas quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-canvas)
       - [Dynamic workflows overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows)
       - [Dynamic workflows quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows-how-to)
       - [Reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-reference)
