@@ -15,7 +15,7 @@
     - [Pricing examples](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-pricing)
     - [Understand IoT Hub endpoints](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-endpoints)
     - [Understanding IoT hub IP address](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-understand-ip-address)
-    - [Best practices for Azure Device Registry namespaces](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-namespace-guidance?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
+    - [Best practices for Azure Device Registry namespaces](https://learn.microsoft.com/en-us/azure/iot/device-registry/best-practices-namespaces?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
     - Protocol support
       - [MQTT support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-mqtt-connect-to-iot-hub)
       - [AMQP support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-amqp-support)
@@ -68,7 +68,6 @@
       - [Get started with module twins](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-module-twins)
   - Manage devices
     - [Azure Device Registry integration preview](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-registry-overview)
-    - [Enable or disable device in ADR preview](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-disable-enable-device)
     - IoT Hub device management
       - [Overview of device management](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-management-overview)
       - [Manage device identities](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-identity-registry)

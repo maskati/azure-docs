@@ -7,21 +7,35 @@
     - [Choose an Azure IoT service](https://learn.microsoft.com/en-us/azure/iot/iot-services-and-technologies)
     - [IoT device development](https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development)
   - Azure Device Registry
-    - [What is Azure Device Registry?](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-overview)
-    - [Best practices for namespaces](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-namespace-guidance)
-    - [Best practices for schema registries](https://learn.microsoft.com/en-us/azure/iot/iot-device-registry-schema-registry-guidance)
-    - Manage certificate lifecycle
-      - [Certificate management preview in Azure Device Registry](https://learn.microsoft.com/en-us/azure/iot/iot-certificate-management-overview)
-      - [Key concepts for certificate management](https://learn.microsoft.com/en-us/azure/iot/iot-certificate-management-concepts)
+    - [What is Azure Device Registry?](https://learn.microsoft.com/en-us/azure/iot/device-registry/overview-device-registry)
+    - Get started with Azure Device Registry
+      - [Azure IoT Hub get started preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/get-started-azure-device-registry)
+      - [Azure IoT Operations get started](https://learn.microsoft.com/en-us/azure/iot-operations/get-started-end-to-end-sample/quickstart-deploy)
+    - [What is an Azure Device Registry namespace?](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-namespaces)
+    - [Best practices for namespaces](https://learn.microsoft.com/en-us/azure/iot/device-registry/best-practices-namespaces)
+    - [Best practices for schema registries](https://learn.microsoft.com/en-us/azure/iot/device-registry/best-practices-schema-registries)
+    - Develop with Azure IoT SDKs
+      - [Unified Azure IoT SDKs for IoT Hub and Azure Device Registry](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-unified-iot-sdks)
+    - Manage certificate lifecycle preview
+      - [Certificate management overview](https://learn.microsoft.com/en-us/azure/iot/iot-certificate-management-overview)
+      - [PKI fundamentals](https://learn.microsoft.com/en-us/azure/iot/iot-certificate-management-concepts)
       - Set up certificate management
-        - [Configure a credential](https://learn.microsoft.com/en-us/azure/iot/how-to-configure-credential)
-        - [Create a policy with a Microsoft root CA](https://learn.microsoft.com/en-us/azure/iot/how-to-create-policy)
-        - [Create a policy with an external root CA](https://learn.microsoft.com/en-us/azure/iot/how-to-create-policy-external-certificate)
-      - Manage certificates and policies
-        - [Issuance of device certificates](https://learn.microsoft.com/en-us/azure/iot/concept-certificate-issuance)
-        - [Renewal of device certificates](https://learn.microsoft.com/en-us/azure/iot/concept-certificate-renewal)
-        - [Certificate revocation and policy management](https://learn.microsoft.com/en-us/azure/iot/concepts-certificate-policy-management)
-        - [Revoke certificates and delete policies](https://learn.microsoft.com/en-us/azure/iot/how-to-revoke-certificate-delete-policy)
+        - [Certificate Authorities in Azure Device Registry](https://learn.microsoft.com/en-us/azure/iot/concept-managed-ca-hierarchy)
+        - [Set up a root and intermediate CA](https://learn.microsoft.com/en-us/azure/iot/how-to-create-policy)
+        - [Bring your own CA](https://learn.microsoft.com/en-us/azure/iot/how-to-create-policy-external-certificate)
+        - [Create or edit a certificate policy](https://learn.microsoft.com/en-us/azure/iot/how-to-create-edit-certificate-policy)
+      - Issue, renew, and revoke certificates
+        - [Issue device certificates](https://learn.microsoft.com/en-us/azure/iot/concept-certificate-issuance)
+        - [Renew device certificates](https://learn.microsoft.com/en-us/azure/iot/concept-certificate-renewal)
+        - [Revoke certificates](https://learn.microsoft.com/en-us/azure/iot/concepts-certificate-policy-management)
+    - Manage your device fleet
+      - [Disable or enable a device preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-disable-enable-device)
+      - [Groups concepts preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-groups)
+      - [Jobs concepts preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-jobs)
+      - [Software updates concepts preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-software-updates)
+      - [Import a software update preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-import-software-update)
+      - [Deploy a software update to a group preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-deploy-software-update-group)
+      - [Deploy an onboarding update to a namespace preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-deploy-onboarding-update-namespace)
   - References
     - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help)
     - [IoT glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary)
