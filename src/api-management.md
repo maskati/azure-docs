@@ -60,7 +60,9 @@
       - [Create an instance](https://learn.microsoft.com/en-us/azure/api-management/quickstart-ai-gateway-create)
       - [Set up your gateway](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-setup)
       - [Manage models and tools](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-manage-models-tools)
+      - [Tool threat protection](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-policy-tool-threat)
       - [Govern, secure, and operate](https://learn.microsoft.com/en-us/azure/api-management/ai-gateway-govern-secure-assets)
+    - [Govern tools with Agent 365](https://learn.microsoft.com/en-us/azure/api-management/agent-365)
   - Create and import APIs
     - [Add an API manually](https://learn.microsoft.com/en-us/azure/api-management/add-api-manually)
     - Import REST APIs

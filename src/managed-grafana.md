@@ -14,9 +14,9 @@
     - [Remote MCP server](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-mcp-server)
   - How-to guides
     - Access and sharing
-      - [Configure Grafana resource authentication and permissions](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-authentication-permissions)
-      - [Modify access permissions to Azure Monitor](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-permissions)
-      - [Manage access and permissions for users and identities](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-manage-access-permissions-users-identities)
+      - [Configure Grafana authentication](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-authentication-permissions)
+      - [Grant access to Azure Monitor data](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-permissions)
+      - [Grant access to Grafana](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-manage-access-permissions-users-identities)
       - [Use Grafana Team Sync](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-sync-teams-with-entra-groups)
     - Data sources
       - [Configure data sources](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-data-source-plugins-managed-identity)
