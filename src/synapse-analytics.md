@@ -206,13 +206,33 @@
         - [Recommendations](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-concept-recommendations?context=/azure/synapse-analytics/context/context)
       - Security
         - [Database access control](https://learn.microsoft.com/azure/azure-sql/database/logins-create-manage?toc=%2fazure%2fsynapse-analytics%2ftoc.json)
+        - [Managed identity authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-azure-ad-user-assigned-managed-identity)
         - [Shared database access control](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/shared-databases-access-control)
-        - Data security
-          - [Column-level security](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/column-level-security?context=/azure/synapse-analytics/context/context)
-          - [Row-level security](https://learn.microsoft.com/sql/relational-databases/security/row-level-security?context=/azure/synapse-analytics/context/context)
-        - Data Encryption
-          - [Transparent Data Encryption overview](https://learn.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?toc=%2fazure%2fsynapse-analytics%2ftoc.json)
-          - [TDE with bring your own key](https://learn.microsoft.com/azure/azure-sql/database/transparent-data-encryption-byok-overview?toc=%2fazure%2fsynapse-analytics%2ftoc.json)
+      - Data security
+        - [Dynamic data masking](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/dynamic-data-masking-overview)
+        - [Column-level security](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/column-level-security?context=/azure/synapse-analytics/context/context)
+        - [Row-level security](https://learn.microsoft.com/sql/relational-databases/security/row-level-security?context=/azure/synapse-analytics/context/context)
+      - Auditing
+        - [Overview](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/auditing-overview)
+        - [Set up auditing](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/auditing-setup)
+        - [Audit log format](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/audit-log-format)
+        - [Analyze audit logs and reports](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/auditing-analyze-audit-logs)
+        - [Best practices](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/auditing-best-practices)
+        - [Manage auditing using APIs](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/auditing-manage-using-api)
+        - [Auditing using managed identity](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/auditing-managed-identity)
+        - [Audit Microsoft support operations](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/auditing-microsoft-support-operations)
+        - [Server-level and database-level policies](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/auditing-server-level-database-level)
+        - [Audit to protected storage](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/audit-write-storage-account-behind-vnet-firewall)
+      - Network security
+        - [Network access controls](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/network-access-controls-overview)
+        - [Virtual network service endpoints](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/vnet-service-endpoint-rule-overview)
+        - [Azure Private Link](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/private-endpoint-overview)
+      - Data encryption
+        - [Transparent Data Encryption overview](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/transparent-data-encryption-tde-overview)
+        - [Customer-managed TDE](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/transparent-data-encryption-byok-overview)
+        - [Configure TDE with BYOK](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/transparent-data-encryption-byok-configure)
+        - [Rotate the TDE protector](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/transparent-data-encryption-byok-key-rotation)
+        - [Remove a TDE protector](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/transparent-data-encryption-byok-remove-tde-protector)
       - Workload management
         - [Overview](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-workload-management?context=/azure/synapse-analytics/context/context)
         - [Workload classification](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-workload-classification?context=/azure/synapse-analytics/context/context)

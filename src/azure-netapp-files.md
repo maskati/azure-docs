@@ -247,7 +247,6 @@
         - [Deploy application volume group for Oracle using Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-application-volume-oracle-azure-resource-manager)
       - [Delete an application volume group](https://learn.microsoft.com/en-us/azure/azure-netapp-files/application-volume-group-delete)
     - Manage hybrid data mobility and protection
-      - [Manage data restores](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-manage-data-restores)
       - Manage snapshot-based protection
         - [Create an on-demand snapshot](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-manage-snapshots)
         - [Manage snapshot policies](https://learn.microsoft.com/en-us/azure/azure-netapp-files/snapshots-manage-policy)
@@ -269,6 +268,8 @@
         - [Restore a backup to a new volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-restore-new-volume)
         - [Restore individual files from a backup](https://learn.microsoft.com/en-us/azure/azure-netapp-files/restore-single-file-backup)
         - [Delete backups](https://learn.microsoft.com/en-us/azure/azure-netapp-files/backup-delete)
+      - Manage restores
+        - [Manage data restores](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-manage-data-restores)
       - Manage replication
         - [Create cross-region replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-create-peering)
         - [Create cross-zone replication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-cross-zone-replication)
