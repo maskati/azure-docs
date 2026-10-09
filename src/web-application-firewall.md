@@ -82,6 +82,7 @@
         - [Configure IP restrictions](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction)
         - [AS number matching](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/asn-match-condition)
         - [Client fingerprint matching](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/client-fingerprint-match-condition)
+        - [Service tag matching](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/service-tag-match-condition)
       - [Tuning](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tuning)
     - [Use Azure Policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/waf-azure-policy)
     - [Configure policies using Firewall Manager](https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/manage-policies)
