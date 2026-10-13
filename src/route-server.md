@@ -32,8 +32,9 @@
       - [Prepend routes](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-prepend-routes)
       - [Tag routes with BGP communities](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-tag-bgp-communities)
       - [Drop inbound routes](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-drop-inbound-routes)
-    - [Troubleshoot Route Server issues](https://learn.microsoft.com/en-us/azure/route-server/troubleshoot-route-server)
+  - Monitor and troubleshoot
     - [Monitor Route Server](https://learn.microsoft.com/en-us/azure/route-server/monitor-route-server)
+    - [Troubleshoot Route Server issues](https://learn.microsoft.com/en-us/azure/route-server/troubleshoot-route-server)
   - Security
     - [Secure Route Server deployment](https://learn.microsoft.com/en-us/azure/route-server/secure-route-server)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/azure-route-server-security-baseline?toc=/azure/route-server/toc.json)

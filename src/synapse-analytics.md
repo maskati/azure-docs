@@ -204,9 +204,20 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-manageability-monitoring?context=/azure/synapse-analytics/context/context)
         - [Resource utilization & query activity](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-concept-resource-utilization-query-activity?context=/azure/synapse-analytics/context/context)
         - [Recommendations](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-concept-recommendations?context=/azure/synapse-analytics/context/context)
+        - [Create alerts](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/alerts-create)
       - Security
-        - [Database access control](https://learn.microsoft.com/azure/azure-sql/database/logins-create-manage?toc=%2fazure%2fsynapse-analytics%2ftoc.json)
-        - [Managed identity authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-azure-ad-user-assigned-managed-identity)
+        - [Database access control](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/logins-create-manage?toc=%2fazure%2fsynapse-analytics%2ftoc.json)
+        - [Microsoft Defender for SQL](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/azure-defender-for-sql)
+        - [Data Discovery & Classification](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/data-discovery-and-classification-overview)
+        - Authentication
+          - [Microsoft Entra authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-aad-overview)
+          - [Configure Microsoft Entra authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-aad-configure)
+          - [Connect with Microsoft Entra authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-microsoft-entra-connect-to-azure-sql)
+          - [Microsoft Entra server principals](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-azure-ad-logins)
+          - [Create Microsoft Entra server logins](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-azure-ad-logins-tutorial)
+          - [Assign Directory Readers role](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-aad-directory-readers-role-tutorial)
+          - [Microsoft Entra-only authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-azure-ad-only-authentication)
+          - [Managed identity authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/authentication-azure-ad-user-assigned-managed-identity)
         - [Shared database access control](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/shared-databases-access-control)
       - Data security
         - [Dynamic data masking](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/dynamic-data-masking-overview)

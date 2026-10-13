@@ -60,8 +60,8 @@
       - [Bicep](https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-bicep)
       - [Terraform](https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-terraform)
       - [ARM template](https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-template)
-    - Deploy with Availability zones
-      - [Deploy with Availability Zones](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell)
+    - Deploy with zone redundancy
+      - [Platform-managed zone allocation](https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell)
       - [Bicep](https://learn.microsoft.com/en-us/azure/firewall/deploy-bicep)
       - [Terraform](https://learn.microsoft.com/en-us/azure/firewall/deploy-terraform)
       - [ARM template](https://learn.microsoft.com/en-us/azure/firewall/deploy-template)
