@@ -193,7 +193,7 @@
         - [Migrate from Microsoft.Azure.Event Hubs to Azure.Messaging.EventHubs](https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/eventhub/Azure.Messaging.EventHubs/MigrationGuide)
         - [Azure.Messaging.EventHubs latest](https://learn.microsoft.com/dotnet/api/azure.messaging.eventhubs)
         - [Microsoft.Azure.EventHubs legacy](https://learn.microsoft.com/dotnet/api/microsoft.azure.eventhubs)
-        - [Microsoft.ServiceBus.Messaging legacy](https://learn.microsoft.com/dotnet/api/microsoft.servicebus.messaging)
+        - [Migrate from WindowsAzure.ServiceBus](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/eventhub/Azure.Messaging.EventHubs/MigrationGuide_WindowsAzureServiceBus)
       - [Management library](https://learn.microsoft.com/dotnet/api/microsoft.azure.management.eventhub)
     - Java
       - Client library

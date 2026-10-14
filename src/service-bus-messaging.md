@@ -168,19 +168,19 @@
       - [SDK troubleshooting guide](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/TROUBLESHOOTING)
       - [Resource Manager exceptions](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-exceptions)
       - [Service Bus exceptions](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest)
-      - [Service Bus exceptions deprecated](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions)
+      - [Service Bus exceptions retired libraries](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions)
   - Reference
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/service-bus-messaging/monitor-service-bus-reference)
     - .NET
-      - [Migrate from Microsoft.Azure.ServiceBus to Azure.Messaging.ServiceBus](https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide)
+      - [Migrate from Microsoft.Azure.ServiceBus to Azure.Messaging.ServiceBus](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide)
       - [Migrate from WindowsAzure.ServiceBus to Azure.Messaging.ServiceBus](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide_WindowsAzureServiceBus)
       - [Azure.Messaging.ServiceBus .NET Standard - latest](https://learn.microsoft.com/dotnet/api/azure.messaging.servicebus)
-      - [Microsoft.Azure.ServiceBus .NET Standard - legacy](https://learn.microsoft.com/dotnet/api/microsoft.azure.servicebus)
-      - [Microsoft.ServiceBus.Messaging .NET Framework - legacy](https://learn.microsoft.com/dotnet/api/microsoft.servicebus.messaging)
+      - [Microsoft.Azure.ServiceBus retired](https://learn.microsoft.com/dotnet/api/microsoft.azure.servicebus)
+      - [WindowsAzure.ServiceBus messaging APIs retired](https://learn.microsoft.com/dotnet/api/microsoft.servicebus.messaging)
     - Java
-      - [Migrate from azure-servicebus to azure-messaging-servicebus](https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/servicebus/azure-messaging-servicebus/migration-guide)
+      - [Migrate from azure-servicebus to azure-messaging-servicebus](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/servicebus/azure-messaging-servicebus/migration-guide)
       - [azure-messaging-servicebus latest](https://learn.microsoft.com/java/api/com.azure.messaging.servicebus)
-      - [azure-servicebus legacy](https://learn.microsoft.com/java/api/com.microsoft.azure.servicebus)
+      - [azure-servicebus retired](https://learn.microsoft.com/java/api/com.microsoft.azure.servicebus)
     - Spring
       - [Spring JMS support](https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json)
       - [Spring Integration with Azure Service Bus](https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json)

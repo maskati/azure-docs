@@ -142,7 +142,6 @@
     - Build solutions
       - [X sentiment analysis](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-twitter-sentiment-analysis-trends)
       - [Run jobs on Azure Stack](https://learn.microsoft.com/en-us/azure/stream-analytics/on-azure-stack)
-      - [Toll booth sensor data analysis](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-build-an-iot-solution-using-stream-analytics)
       - [High-frequency trading](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-high-frequency-trading)
       - [Process IoT streaming data](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-get-started-with-azure-stream-analytics-to-process-data-from-iot-devices)
       - [Threshold-based rules](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-threshold-based-rules)
