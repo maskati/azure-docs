@@ -123,6 +123,11 @@
         - [AMQP protocol guide](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide)
         - [AMQP request-response-based operations](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-request-response)
         - [AMQP errors](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot)
+      - REST and HTTP
+        - [REST APIs and client libraries](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-rest-overview)
+        - [Namespace addressing](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-rest-namespace-access)
+        - [HTTP message headers and properties](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-rest-message-properties)
+        - [Send a message with Microsoft Entra ID authentication](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-rest-send-entra-token-how-to)
       - [Build a multi-tier Service Bus application](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-multi-tier-app-using-service-bus-queues)
       - [Test locally with Service Bus emulator](https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator)
     - Migrate

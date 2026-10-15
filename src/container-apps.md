@@ -229,7 +229,6 @@
         - [Deploy using Azure CLI](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr)
         - [Deploy using ARM or Bicep](https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-azure-resource-manager)
         - [Configure Dapr on an existing container app](https://learn.microsoft.com/en-us/azure/container-apps/enable-dapr)
-        - [Deploy using the Dapr extension for Azure Functions](https://learn.microsoft.com/en-us/azure/container-apps/dapr-functions-extension)
       - Components
         - [Components overview](https://learn.microsoft.com/en-us/azure/container-apps/dapr-components)
         - [Connect to Azure or partner services](https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connect-services)
