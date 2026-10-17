@@ -31,7 +31,7 @@
         - [CLI](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-cli)
         - [Bicep](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-bicep)
         - [Python SDK](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-python-sdk)
-      - [Lifecycle preview](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
+      - [Lifecycle](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-snapshots-state-management)
       - [Egress policies](https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-egress-policies)
       - [Reliability in Container Apps Sandboxes](https://learn.microsoft.com/azure/reliability/reliability-container-apps-sandboxes?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json)
     - Express
@@ -307,6 +307,7 @@
     - [Billing](https://learn.microsoft.com/en-us/azure/container-apps/billing)
     - [Quotas](https://learn.microsoft.com/en-us/azure/container-apps/quotas)
     - [Make quota requests](https://learn.microsoft.com/en-us/azure/container-apps/quota-requests)
+    - [Troubleshoot environment capacity](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-environment-capacity)
   - Product updates
     - [What's new](https://learn.microsoft.com/en-us/azure/container-apps/whats-new)
   - API docs & reference

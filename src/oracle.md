@@ -16,6 +16,10 @@
       - [Oracle Exadata Database on Dedicated Infrastructure Logs on Azure for Enhanced Observability](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-exadata-database-dedicated-infrastructure-logs)
     - Onboarding
       - [Onboard Oracle Database@Azure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/onboard-oracle-database)
+      - [Oracle Exadata Database on Dedicated Infrastructure Logs on Azure for Enhanced Observability](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/oracle-exadata-database-dedicated-infrastructure-logs)
+      - [Azure proximity placement groups with Oracle AI Database@Azure](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/proximity-placement-groups-with-oracle)
+    - Security
+      - [Manage Oracle TDE with Azure Key Vault](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/manage-oracle-transparent-data-encryption-azure-key-vault)
     - Design considerations
       - [Design considerations for Oracle Database@Azure](https://docs.oracle.com/en-us/iaas/Content/database-at-azure/odbaa-design.htm)
     - [FAQs](https://learn.microsoft.com/en-us/azure/oracle/oracle-db/faq-oracle-database-azure)
