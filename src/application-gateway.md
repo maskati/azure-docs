@@ -51,6 +51,7 @@
     - [JSON Web Token JWT Configuration](https://learn.microsoft.com/en-us/azure/application-gateway/json-web-token-overview)
     - [Using Key Vault](https://learn.microsoft.com/en-us/azure/application-gateway/key-vault-certs)
     - [SSL certificate management](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management)
+    - [Keyless TLS and Managed HSM](https://learn.microsoft.com/en-us/azure/application-gateway/keyless-tls-overview)
     - [FIPS 140 support on V2](https://learn.microsoft.com/en-us/azure/application-gateway/fips)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)
     - [TLS 1.0 and 1.1 retirement](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-tls-version-retirement)
@@ -71,6 +72,7 @@
       - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-ilb-arm)
     - Configure SSL
       - SSL termination
+        - [Keyless TLS and Managed HSM](https://learn.microsoft.com/en-us/azure/application-gateway/keyless-tls)
         - [SSL termination - PowerShell](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ssl-powershell)
         - [SSL termination - Azure CLI](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ssl-cli)
         - [Configure Key Vault - PowerShell](https://learn.microsoft.com/en-us/azure/application-gateway/configure-keyvault-ps)

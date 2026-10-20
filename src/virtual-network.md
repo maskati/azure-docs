@@ -90,6 +90,7 @@
         - [Different subscriptions and tenants](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions)
         - [Different subscriptions with SPNs](https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions-service-principal)
       - [Manage a virtual network peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-peering)
+      - [Disable peering route propagation](https://learn.microsoft.com/en-us/azure/virtual-network/configure-disable-peering-route-propagation)
       - [Update the address space for a peered virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/update-virtual-network-peering-address-space.yml)
       - [Configure subnet peering](https://learn.microsoft.com/en-us/azure/virtual-network/how-to-configure-subnet-peering)
     - Routing
