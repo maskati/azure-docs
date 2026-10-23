@@ -45,7 +45,9 @@
       - [Configure Windows Update client](https://learn.microsoft.com/en-us/azure/update-manager/configure-wu-agent)
     - Manage
       - [Check update compliance](https://learn.microsoft.com/en-us/azure/update-manager/view-updates)
-      - [Automate assessment at scale using Policy](https://learn.microsoft.com/en-us/azure/update-manager/periodic-assessment-at-scale)
+      - Automate assessment
+        - [Automate assessment at scale using Policy](https://learn.microsoft.com/en-us/azure/update-manager/periodic-assessment-at-scale)
+        - [Enable Periodic Assessment for Azure Virtual Machine Scale Sets Uniform](https://learn.microsoft.com/en-us/azure/update-manager/enable-periodic-assessment-azure-virtual-machine-scale-sets-uniform)
       - [Deploy updates and track results](https://learn.microsoft.com/en-us/azure/update-manager/deploy-updates)
       - [Manage update settings](https://learn.microsoft.com/en-us/azure/update-manager/manage-update-settings)
       - [Schedule updates](https://learn.microsoft.com/en-us/azure/update-manager/scheduled-patching)

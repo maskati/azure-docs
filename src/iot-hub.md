@@ -6,7 +6,7 @@
     - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-faq)
     - [Compare IoT Hub and Event Hubs](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-compare-event-hubs)
   - Quickstarts
-    - [Get started ADR integration](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-registry-setup)
+    - [Get started ADR integration](https://learn.microsoft.com/en-us/azure/iot/device-registry/get-started-azure-device-registry)
     - [Create an IoT hub no ADR integration](https://learn.microsoft.com/en-us/azure/iot-hub/create-hub)
     - [Send telemetry using CLI](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-cli)
   - Plan and scale your IoT Hub
