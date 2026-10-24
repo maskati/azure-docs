@@ -74,6 +74,7 @@
         - [Transfer subscriptions between partners](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/azure-plan-subscription-transfer-partners)
         - [Transfer EA accounts](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/ea-transfers)
         - [Transfer subscription to EA](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mosp-ea-transfer)
+        - [Transfer MCA-Online subscriptions to EA](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-online-ea-transfer)
         - [Transfer CSP subscriptions](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp.yml)
         - [Transfer Microsoft Customer Agreement ownership](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-request-billing-ownership)
         - [Transfer Microsoft Partner Agreement ownership](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mpa-request-ownership)
