@@ -411,6 +411,9 @@
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka)
         - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-trigger)
         - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-output)
+      - Managed connectors
+        - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-connector)
+        - [Trigger Preview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-connector-trigger)
       - MCP
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp)
         - [Tool trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-tool-trigger)
