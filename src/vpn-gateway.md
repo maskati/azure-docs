@@ -129,13 +129,14 @@
         - [PowerShell](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-groups-create)
         - [Azure CLI](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-groups-create-cli)
       - [RADIUS - Configure NPS and user groups](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-groups-radius)
-    - Configure Always On tunnels
+      - Configure Always On tunnels
       - [Device tunnel - Windows clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-device-tunnel)
       - [Device tunnel - macOS clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-device-tunnel-macos)
       - [User tunnel - Windows clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-user-tunnel)
     - Gateway root certificate migration
       - [About gateway root certificate migration](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about-gateway-certificate-migration)
       - [Update a P2S VPN Client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-user-vpn-profile-update)
+      - [Migrate a P2S gateway root certificate](https://learn.microsoft.com/en-us/azure/vpn-gateway/how-to-migrate-gateway-root-certificate)
     - [Move to OpenVPN or IKEv2 from SSTP](https://learn.microsoft.com/en-us/azure/vpn-gateway/ikev2-openvpn-from-sstp)
     - [P2S session management](https://learn.microsoft.com/en-us/azure/vpn-gateway/p2s-session-management)
     - [Advertise custom routes to P2S clients](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes)
@@ -146,7 +147,7 @@
       - [Run Prerequisites Test](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-prerequisites-check)
       - [Azure VPN Client versions](https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-versions)
       - [Download Azure VPN Client with Windows Package Manager WinGet](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-winget)
-      - [Report Azure VPN Client problems - Feedback Hub](https://learn.microsoft.com/troubleshoot/azure/vpn-gateway/feedback-hub-azure-vpn-client?toc=/azure/vpn-gateway/TOC.json)
+      - [Report Azure VPN Client problems - Feedback Hub](https://learn.microsoft.com/troubleshoot/azure/vpn-gateway/feedback-hub-azure-vpn-client)
     - [Intune - Deploy VPN client profile](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune)
   - [IPv6 dual stack connections](https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-ipv6-azure)
   - VNet-to-VNet VPN

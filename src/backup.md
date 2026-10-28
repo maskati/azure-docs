@@ -61,6 +61,8 @@
       - [Quickstart - Enable Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/enable-multi-user-authorization-quickstart)
       - [Tutorial - configure Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-tutorial)
       - [Configure Multi-user authorization using Resource Guard](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization)
+    - [Cross-tenant restore overview preview](https://learn.microsoft.com/en-us/azure/backup/cross-tenant-restore-overview)
+    - [Tutorial - Configure cross-tenant restore and restore data preview](https://learn.microsoft.com/en-us/azure/backup/tutorial-cross-tenant-restore)
     - Immutability
       - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-concept)
       - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-how-to-manage)

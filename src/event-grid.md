@@ -116,6 +116,7 @@
           - [Network security](https://learn.microsoft.com/en-us/azure/event-grid/network-security-namespaces)
       - How-to
         - [Create, view, and manage namespaces](https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-namespaces)
+        - [Configure IPv6 dual-stack support preview](https://learn.microsoft.com/en-us/azure/event-grid/namespace-ipv6-dual-stack)
         - [Enable Autoscale](https://learn.microsoft.com/en-us/azure/event-grid/namespace-enable-autoscale)
         - [Enable manual scale](https://learn.microsoft.com/en-us/azure/event-grid/namespace-enable-manual-scale)
         - [Create, view, and manage namespace topics](https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-namespace-topics)
