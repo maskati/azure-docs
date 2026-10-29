@@ -50,52 +50,53 @@
         - [Obtain insights](https://learn.microsoft.com/en-us/azure/backup/backup-center-obtain-insights)
         - [Govern environment](https://learn.microsoft.com/en-us/azure/backup/backup-center-govern-environment)
         - [Perform actions](https://learn.microsoft.com/en-us/azure/backup/backup-center-actions)
-  - Security and Ransomware protection
+  - Azure Backup Cyber Recovery
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/security-overview)
-    - [Secure your Azure Backup deployment](https://learn.microsoft.com/en-us/azure/backup/secure-backup)
-    - [FAQ-Protection against Ransomware](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
-    - [Best practices for backup data protection](https://learn.microsoft.com/en-us/azure/backup/azure-backup-data-protection-best-practices)
-    - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/backup/backup-rbac-rs-vault)
-    - Multi-user authorization
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept)
-      - [Quickstart - Enable Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/enable-multi-user-authorization-quickstart)
-      - [Tutorial - configure Multi-user authorization MUA](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-tutorial)
-      - [Configure Multi-user authorization using Resource Guard](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization)
-    - [Cross-tenant restore overview preview](https://learn.microsoft.com/en-us/azure/backup/cross-tenant-restore-overview)
-    - [Tutorial - Configure cross-tenant restore and restore data preview](https://learn.microsoft.com/en-us/azure/backup/tutorial-cross-tenant-restore)
-    - Immutability
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-concept)
-      - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-how-to-manage)
-    - Secure by default with soft delete
-      - [Overview of soft delete](https://learn.microsoft.com/en-us/azure/backup/secure-by-default)
-      - [FAQ-Soft Delete](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-backup-faq.yml)
-      - Manage soft deleted data
-        - [Manage soft deleted items](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-configure-manage)
-        - [Soft delete backups for virtual machines](https://learn.microsoft.com/en-us/azure/backup/soft-delete-virtual-machines)
-        - [Soft delete backups for SQL Server and SAP HANA in Azure VMs](https://learn.microsoft.com/en-us/azure/backup/soft-delete-sql-saphana-in-azure-vm)
-    - [Delete protection for Azure files](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-file-share)
-    - Ransomware protection
-      - [Overview](https://learn.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
-      - [FAQ-Protection against Ransomware](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
-      - [Integrate with Microsoft Defender's ransomware alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-integrate-microsoft-defender-using-logic-apps)
-    - [Security for hybrid backups](https://learn.microsoft.com/en-us/azure/backup/backup-azure-security-feature)
-    - [Save and manage MARS agent passphrase in Azure Key Vault](https://learn.microsoft.com/en-us/azure/backup/save-backup-passphrase-securely-in-azure-key-vault)
-    - Private Endpoints
-      - V1 experience
-        - [Overview](https://learn.microsoft.com/en-us/azure/backup/private-endpoints-overview)
-        - [Create and manage](https://learn.microsoft.com/en-us/azure/backup/private-endpoints)
-      - V2 experience
-        - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-concept)
-        - [Create and manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-configure-manage)
-    - Threat Detection with Microsoft Defender for Cloud integration
-      - [Overview](https://learn.microsoft.com/en-us/azure/backup/threat-detection-overview)
-      - [Configure Threat Detection and manage health of Azure VM Backups](https://learn.microsoft.com/en-us/azure/backup/threat-detection-configure-monitor-tutorial)
-    - [Encryption in Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-encryption)
-    - Encryption using customer-managed keys
-      - [Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/encryption-at-rest-with-cmk)
-      - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/encryption-at-rest-with-cmk-for-backup-vault)
-    - [Transport Layer Security](https://learn.microsoft.com/en-us/azure/backup/transport-layer-security)
-    - [Security controls by Azure Policy](https://learn.microsoft.com/en-us/azure/backup/security-controls-policy)
+    - [Ransomware protection FAQ](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
+    - Govern backup security
+      - [Backup security best practices](https://learn.microsoft.com/en-us/azure/backup/azure-backup-data-protection-best-practices)
+      - [Plan backup protection against ransomware](https://learn.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
+      - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/backup/backup-rbac-rs-vault)
+      - [Enforce security controls with Azure Policy](https://learn.microsoft.com/en-us/azure/backup/security-controls-policy)
+    - Protect backups
+      - [Secure your Azure Backup deployment](https://learn.microsoft.com/en-us/azure/backup/secure-backup)
+      - Multi-user authorization
+        - [Overview](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept)
+        - [Quickstart - Enable multi-user authorization](https://learn.microsoft.com/en-us/azure/backup/enable-multi-user-authorization-quickstart)
+        - [Tutorial - Configure multi-user authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-tutorial)
+        - [Configure multi-user authorization using Resource Guard](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization)
+      - Immutability
+        - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-concept)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-immutable-vault-how-to-manage)
+      - Soft delete
+        - [Secure by default with soft delete](https://learn.microsoft.com/en-us/azure/backup/secure-by-default)
+        - [Soft delete FAQ](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-backup-faq.yml)
+        - [Manage and recover soft-deleted backup items](https://learn.microsoft.com/en-us/azure/backup/backup-azure-enhanced-soft-delete-configure-manage)
+        - [Soft delete and recovery for Azure VMs](https://learn.microsoft.com/en-us/azure/backup/soft-delete-virtual-machines)
+        - [Soft delete and recovery for SQL Server and SAP HANA](https://learn.microsoft.com/en-us/azure/backup/soft-delete-sql-saphana-in-azure-vm)
+        - [Delete protection for Azure Files](https://learn.microsoft.com/en-us/azure/backup/soft-delete-azure-file-share)
+      - [Security for hybrid backups](https://learn.microsoft.com/en-us/azure/backup/backup-azure-security-feature)
+      - [Save and manage the MARS agent passphrase in Azure Key Vault](https://learn.microsoft.com/en-us/azure/backup/save-backup-passphrase-securely-in-azure-key-vault)
+      - Private endpoints
+        - V1 experience
+          - [Overview](https://learn.microsoft.com/en-us/azure/backup/private-endpoints-overview)
+          - [Create and manage](https://learn.microsoft.com/en-us/azure/backup/private-endpoints)
+        - V2 experience
+          - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-concept)
+          - [Create and manage](https://learn.microsoft.com/en-us/azure/backup/backup-azure-private-endpoints-configure-manage)
+      - [Encryption in Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-encryption)
+      - Encryption using customer-managed keys
+        - [Recovery Services vault](https://learn.microsoft.com/en-us/azure/backup/encryption-at-rest-with-cmk)
+        - [Backup vault](https://learn.microsoft.com/en-us/azure/backup/encryption-at-rest-with-cmk-for-backup-vault)
+      - [Transport Layer Security](https://learn.microsoft.com/en-us/azure/backup/transport-layer-security)
+    - Detect and respond to threats
+      - [Threat detection with Microsoft Defender for Cloud preview](https://learn.microsoft.com/en-us/azure/backup/threat-detection-overview)
+      - [Configure threat detection and monitor backup health preview](https://learn.microsoft.com/en-us/azure/backup/threat-detection-configure-monitor-tutorial)
+      - [Preserve recovery points in response to ransomware alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-integrate-microsoft-defender-using-logic-apps)
+    - Recover backups during security incidents
+      - Cross-tenant restore preview
+        - [Overview](https://learn.microsoft.com/en-us/azure/backup/cross-tenant-restore-overview)
+        - [Tutorial - Configure cross-tenant restore and restore data](https://learn.microsoft.com/en-us/azure/backup/tutorial-cross-tenant-restore)
   - Azure VM backup
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
     - [Agentless multi-disk crash-consistent VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-agentless-multi-disk-crash-consistent-overview)
