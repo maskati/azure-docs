@@ -57,6 +57,7 @@
       - [Elastic logs integration with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-elastic-logs-with-azure-monitor)
       - [Integrate OSDU Service Logs with Azure Monitor](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-integrate-osdu-service-logs-with-azure-monitor)
     - Security
+      - [Analytics consumption zone entitlements export preview](https://learn.microsoft.com/en-us/azure/energy-data-services/concepts-analytics-consumption-zone-entitlements)
       - [Set up Private Links](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-set-up-private-links)
       - [Set up Customer managed encryption keys CMEK](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-data-security-and-encryption)
       - [Set up Lockbox](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-create-lockbox)

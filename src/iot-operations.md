@@ -100,6 +100,12 @@
       - Data flow graphs
         - [Overview](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/concept-dataflow-graphs)
         - [Create a data flow graph](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-create-dataflow-graph)
+        - Stateful processing patterns
+          - [Report meaningful value changes](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/dataflow-patterns/howto-report-value-changes)
+          - [Alarm hysteresis](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/dataflow-patterns/howto-stabilize-alarms)
+          - [Detect offline sensors](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/dataflow-patterns/howto-detect-offline-sensors)
+          - [Keep running totals](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/dataflow-patterns/howto-keep-running-totals)
+          - [Reduce noise with an exponential moving average](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/dataflow-patterns/howto-smooth-each-reading)
         - [Transform data with map](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-dataflow-graphs-map)
         - [Filter, branch, and merge data](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-dataflow-graphs-filter-route)
         - [Aggregate data over time](https://learn.microsoft.com/en-us/azure/iot-operations/connect-to-cloud/howto-dataflow-graphs-window)

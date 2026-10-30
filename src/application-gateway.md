@@ -25,6 +25,7 @@
       - [Request routing rules](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules)
       - [HTTP settings](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-http-settings)
     - Routing
+      - [Advanced Routing Rules](https://learn.microsoft.com/en-us/azure/application-gateway/advanced-rules)
       - [Multi-site hosting](https://learn.microsoft.com/en-us/azure/application-gateway/multiple-site-overview)
       - [URL routing](https://learn.microsoft.com/en-us/azure/application-gateway/url-route-overview)
       - [Redirection](https://learn.microsoft.com/en-us/azure/application-gateway/redirect-overview)
@@ -53,10 +54,12 @@
     - [SSL certificate management](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management)
     - [Keyless TLS and Managed HSM](https://learn.microsoft.com/en-us/azure/application-gateway/keyless-tls-overview)
     - [FIPS 140 support on V2](https://learn.microsoft.com/en-us/azure/application-gateway/fips)
+    - [Confidential Compute](https://learn.microsoft.com/en-us/azure/application-gateway/confidential-compute-overview)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)
     - [TLS 1.0 and 1.1 retirement](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-tls-version-retirement)
     - [Network security blog](https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog)
   - Deploy
+    - [Advanced Routing Rules](https://learn.microsoft.com/en-us/azure/application-gateway/configure-advanced-routing-rule)
     - [Host multiple sites](https://learn.microsoft.com/en-us/azure/application-gateway/create-multiple-sites-portal)
     - [Route by URL](https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
     - [Redirect web traffic](https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-redirect-cli)

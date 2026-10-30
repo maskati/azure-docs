@@ -41,9 +41,7 @@
         - [Understand path lengths](https://learn.microsoft.com/en-us/azure/azure-netapp-files/understand-path-lengths)
     - Azure NetApp Files essentials
       - [Storage hierarchy of Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-understand-storage-hierarchy)
-      - Service levels for Azure NetApp Files
-        - [Understand service levels](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-service-levels)
-        - [Understand Elastic zone-redundant storage](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-zone-redundant-concept)
+      - [Service levels for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-service-levels)
       - [Guidelines for Azure NetApp Files network planning](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-network-topologies)
       - [Resource limits for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-resource-limits)
       - [Migrating data into Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/migrate-data)
@@ -54,7 +52,6 @@
         - [Understand maximum directory sizes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/directory-sizes-concept)
       - [Ways to monitor Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/monitor-azure-netapp-files)
       - [Metrics for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-metrics)
-      - [Metrics for Elastic zone-redundant Storage](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-metrics)
       - [Azure Policy definitions for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-policy-definitions)
       - [Storage service add-ons](https://learn.microsoft.com/en-us/azure/azure-netapp-files/storage-service-add-ons)
     - Quotas
@@ -164,18 +161,6 @@
       - [Create a NetApp account](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-create-netapp-account)
       - [Delegate a subnet to Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-delegate-subnet)
       - [Request region access](https://learn.microsoft.com/en-us/azure/azure-netapp-files/request-region-access)
-    - Manage Elastic service level
-      - [Create a NetApp Elastic account](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-account)
-      - Manage Active Directory
-        - [Create an Active Directory connection](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-active-directory)
-      - Manage capacity pools
-        - [Create an Elastic capacity pool](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-capacity-pool-task)
-        - [Change zones for Elastic capacity pools](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-change-zones)
-      - Manage volumes
-        - [Create an NFS volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-volume)
-        - [Create an SMB volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-volume-server-message-block)
-        - Manage volume encryption
-          - [Configure customer-managed keys](https://learn.microsoft.com/en-us/azure/azure-netapp-files/elastic-customer-managed-keys)
     - Manage Flexible, Standard, Premium, and Ultra service levels
       - Manage Active Directory
         - [Create and manage Active Directory connections](https://learn.microsoft.com/en-us/azure/azure-netapp-files/create-active-directory-connections)

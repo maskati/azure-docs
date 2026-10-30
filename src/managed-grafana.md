@@ -11,7 +11,7 @@
     - [Connect to self-hosted Prometheus through managed private endpoint](https://learn.microsoft.com/en-us/azure/managed-grafana/tutorial-mpe-oss-prometheus)
   - Concepts
     - [Grafana settings](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-settings)
-    - [Remote MCP server](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-mcp-server)
+    - [Azure Managed Grafana Remote MCP](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-mcp-server)
   - How-to guides
     - Access and sharing
       - [Configure Grafana authentication](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-authentication-permissions)
