@@ -12,6 +12,7 @@
   - Concepts
     - [Grafana settings](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-settings)
     - [Azure Managed Grafana Remote MCP](https://learn.microsoft.com/en-us/azure/managed-grafana/grafana-mcp-server)
+    - [Azure Monitor dashboards remote MCP server](https://learn.microsoft.com/en-us/azure/managed-grafana/azure-monitor-dashboards-mcp-server)
   - How-to guides
     - Access and sharing
       - [Configure Grafana authentication](https://learn.microsoft.com/en-us/azure/managed-grafana/how-to-authentication-permissions)

@@ -300,6 +300,8 @@
   - Azure Cosmos DB vaulted backup
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-overview)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-support-matrix)
+    - [Quickstart](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-quickstart)
+    - [Tutorial](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db-tutorial)
     - Backup scenarios
       - From the Azure portal
         - [Configure backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-cosmos-db)

@@ -1,7 +1,7 @@
 # azure-compute-fleet
   - [What is Azure Compute Fleet?](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/overview)
   - [Managed mode](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/managed-mode)
-  - [Launch mode Preview](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/launch-mode)
+  - [Launch mode](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/launch-mode)
   - Quickstarts
     - [Create in the Azure portal](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/quickstart-create-portal)
     - [Create with ARM template](https://learn.microsoft.com/en-us/azure/azure-compute-fleet/quickstart-create-rest-api)
