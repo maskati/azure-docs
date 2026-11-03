@@ -104,7 +104,7 @@
       - [Node.js](https://github.com/Azure/azure-iot-sdk-node/tree/main/provisioning/device/samples)
       - [Java](https://github.com/Azure/azure-iot-sdk-java)
       - [Python](https://github.com/Azure/azure-iot-sdk-python/tree/v2/samples)
-      - [iOS Platform](https://azure.microsoft.com/resources/samples/azure-iot-samples-ios/)
+      - [iOS Platform](https://github.com/Azure-Samples/azure-iot-samples-ios)
     - Terraform modules
       - [DPS instance resource](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/iothub_dps)
       - [DPS instance data source](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/iothub_dps)

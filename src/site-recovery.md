@@ -296,7 +296,7 @@
       - Understand Pricing Components
         - [Azure to Azure - costs](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-cost)
         - [Azure Site Recovery Deployment Planner](https://learn.microsoft.com/en-us/azure/site-recovery/deployment-planner-cost-estimation)
-    - [Blog](https://azure.microsoft.com/blog/tag/azure-site-recovery/)
+    - [Blog](https://azure.microsoft.com/blog/product/azure-site-recovery/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-site-recovery.html)
     - [Learning path](https://learn.microsoft.com/training/azure/)
     - [Service updates](https://azure.microsoft.com/updates/?product=site-recovery)

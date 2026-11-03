@@ -177,11 +177,11 @@
       - [Connect a virtual network gateway to a circuit](https://learn.microsoft.com/shows/azure/expressroute-how-to-create-connection-between-your-vpn-gateway-expressroute-circuit)
       - [Create a virtual network for ExpressRoute](https://learn.microsoft.com/shows/azure/expressroute-how-to-create-virtual-network)
       - [Create a virtual network gateway for ExpressRoute](https://learn.microsoft.com/shows/azure/expressroute-how-to-create-vpn-gateway-your-virtual-network)
-      - [Create an ExpressRoute circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-an-expressroute-circuit/)
+      - [Create an ExpressRoute circuit](https://learn.microsoft.com/shows/azure/expressroute-how-to-create-expressroute-circuit)
       - [Evolve your network infrastructure for connectivity](https://learn.microsoft.com/events/ignite-2015/brk2481)
       - [How to set up private peering for your circuit](https://learn.microsoft.com/azure/expressroute/configure-expressroute-private-peering)
       - [Hybrid partnerships: Enabling on-premises scenarios](https://learn.microsoft.com/events/ignite-2015/brk1454)
-      - [Set up Microsoft peering for your circuit](https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-set-up-microsoft-peering-for-your-expressroute-circuit/)
+      - [Set up Microsoft peering for your circuit](https://learn.microsoft.com/shows/azure/expressroute-how-to-set-up-microsoft-peering-your-expressroute-circuit)
     - Classic and legacy articles
       - [Configure ExpressRoute and S2S coexisting connections](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-classic)
       - [Change circuit from classic to Resource Manager](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-move-arm)

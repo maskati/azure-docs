@@ -71,4 +71,4 @@
     - [Samples and labs](https://learn.microsoft.com/en-us/azure/api-center/resources)
     - [Building an API security strategy](https://aka.ms/API-Security-EBook)
     - [Azure updates](https://aka.ms/apic/updates)
-    - [MCP Center](https://mcp.azure.com/)
+    - [MCP Center](https://mcp.microsoft.com/)

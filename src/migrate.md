@@ -247,7 +247,7 @@
     - [Pricing](https://azure.microsoft.com/pricing/details/azure-migrate/)
     - [UserVoice](https://aka.ms/AzureMigrateUservoice)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-migrate.html)
-    - [Blog](https://azure.microsoft.com/blog/tag/azure-migrate/)
+    - [Blog](https://azure.microsoft.com/blog/product/azure-migrate/)
     - [Azure Migrate](https://azure.microsoft.com/products/azure-migrate)
     - [Azure Roadmap](https://azure.microsoft.com/updates/)
     - [Create an AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment)

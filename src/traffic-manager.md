@@ -73,7 +73,7 @@
     - [Resource Manager template](https://learn.microsoft.com/azure/templates/microsoft.network/trafficmanagerprofiles)
   - Resources
     - [Networking blog](https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog)
-    - [Azure networking blog](https://azure.microsoft.com/blog/topics/networking/)
+    - [Azure networking blog](https://azure.microsoft.com/blog/category/networking/)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-virtual-network.html)
     - [Pricing](https://azure.microsoft.com/pricing/details/traffic-manager/)
     - [Pricing calculator](https://azure.microsoft.com/pricing/calculator/)

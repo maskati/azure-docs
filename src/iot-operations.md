@@ -145,6 +145,7 @@
       - Create custom connectors
         - [Develop custom connectors](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-akri-connectors)
         - [Create a custom Akri connector with .NET](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-develop-akri-connectors)
+        - [Understand custom Akri connector development with Rust](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/concept-akri-connector-development-rust)
         - [Build Akri connectors with VS Code extension](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/howto-build-akri-connectors-vscode)
       - Concepts
         - [Highly available edge apps](https://learn.microsoft.com/en-us/azure/iot-operations/develop-edge-apps/overview-edge-apps)

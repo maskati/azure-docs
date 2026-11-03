@@ -296,8 +296,10 @@
     - Hosted skills
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills)
       - [Canvas quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-canvas)
+      - [Hosted Skill bindings in Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-bindings)
       - [Dynamic workflows overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows)
       - [Dynamic workflows quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows-how-to)
+      - [Evaluate hosted skills](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-evaluation)
       - [Reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-reference)
     - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
