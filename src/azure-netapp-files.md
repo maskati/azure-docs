@@ -171,6 +171,7 @@
         - [Manage Microsoft Entra Kerberos authentication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-entra-kerberos-authentication-for-hybrid-cloud-identities)
       - Manage capacity pools
         - [Set up a capacity pool](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-set-up-capacity-pool)
+        - [Migrate volumes to the Flexible service level](https://learn.microsoft.com/en-us/azure/azure-netapp-files/migrate-volumes-flexible-service-level)
         - [Manage a manual QoS capacity pool](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-manual-qos-capacity-pool)
         - [Manage billing by using tags](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-billing-tags)
       - Manage volumes

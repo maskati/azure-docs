@@ -55,6 +55,7 @@
     - [Ransomware protection FAQ](https://learn.microsoft.com/en-us/azure/backup/protect-backups-from-ransomware-faq.yml)
     - Govern backup security
       - [Backup security best practices](https://learn.microsoft.com/en-us/azure/backup/azure-backup-data-protection-best-practices)
+      - [Plan a 3-2-1-1-0 backup strategy with Azure Backup](https://learn.microsoft.com/en-us/azure/backup/azure-backup-3-2-1-1-0-strategy)
       - [Plan backup protection against ransomware](https://learn.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware?toc=/azure/backup/toc.json&bc=/azure/backup/breadcrumb/toc.json)
       - [Azure role-based access control](https://learn.microsoft.com/en-us/azure/backup/backup-rbac-rs-vault)
       - [Enforce security controls with Azure Policy](https://learn.microsoft.com/en-us/azure/backup/security-controls-policy)

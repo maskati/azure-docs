@@ -1,6 +1,7 @@
 # Azure VMware Solution documentation
 > Learn to use Azure VMware Solution to deploy a VMware Software-defined Data Center (SDDC) private cloud to Azure.
   - [Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/)
+  - [VMware Cloud Foundation 9.1](https://learn.microsoft.com/en-us/azure/azure-vmware/architecture-vmware-cloud-foundation)
   - [Overview](https://learn.microsoft.com/en-us/azure/azure-vmware/introduction)
   - [What's new](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-platform-updates)
   - [Known issues](https://learn.microsoft.com/en-us/azure/azure-vmware/azure-vmware-solution-known-issues)

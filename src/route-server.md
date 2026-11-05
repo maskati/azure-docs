@@ -27,11 +27,13 @@
     - [About route maps](https://learn.microsoft.com/en-us/azure/route-server/route-maps-about)
   - How-to guides
     - [Configure and manage Route Server](https://learn.microsoft.com/en-us/azure/route-server/configure-route-server)
+    - [View effective routes](https://learn.microsoft.com/en-us/azure/route-server/view-route-server-effective-routes)
     - [Configure route maps](https://learn.microsoft.com/en-us/azure/route-server/route-maps-how-to)
     - Route maps scenarios
       - [Prepend routes](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-prepend-routes)
       - [Tag routes with BGP communities](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-tag-bgp-communities)
       - [Drop inbound routes](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-drop-inbound-routes)
+      - [Apply route maps to an NVA in a spoke](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-spoke-network-virtual-appliance)
   - Monitor and troubleshoot
     - [Monitor Route Server](https://learn.microsoft.com/en-us/azure/route-server/monitor-route-server)
     - [Troubleshoot Route Server issues](https://learn.microsoft.com/en-us/azure/route-server/troubleshoot-route-server)

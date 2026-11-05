@@ -31,6 +31,7 @@
 [Azure Batch documentation](./batch.md)
 [Azure Business Process Tracking documentation](./business-process-tracking.md)
 [Edge Secured-core Documentation](./certification.md)
+[Azure in China Playbook](./china.md)
 [Azure Cloud Services (extended support) documentation](./cloud-services-extended-support.md)
 [cloud-shell](./cloud-shell.md)
 [Azure Communication Services documentation](./communication-services.md)

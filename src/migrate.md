@@ -25,7 +25,6 @@
     - [Hyper-V migration architecture](https://learn.microsoft.com/en-us/azure/migrate/hyper-v-migration-architecture)
     - [VMware agentless migration](https://learn.microsoft.com/en-us/azure/migrate/prepare-for-agentless-migration)
     - [Hydration process workflow](https://learn.microsoft.com/en-us/azure/migrate/hydration-process)
-    - [Auto-wave-planning](https://learn.microsoft.com/en-us/azure/migrate/automatic-wave-planning-architecture)
   - Discover inventory
     - [Discovery methods](https://learn.microsoft.com/en-us/azure/migrate/discovery-methods-modes)
     - Discovery using appliance
@@ -122,19 +121,26 @@
           - [Create a file share assessment](https://learn.microsoft.com/en-us/azure/migrate/create-file-share-assessment)
           - [Review assessment report](https://learn.microsoft.com/en-us/azure/migrate/review-file-share-assessment)
     - Wave planning
-      - [Overview](https://learn.microsoft.com/en-us/azure/migrate/overview)
-      - [Plan and create waves](https://learn.microsoft.com/en-us/azure/migrate/how-to-plan-create-waves)
-      - [Complete a wave plan](https://learn.microsoft.com/en-us/azure/migrate/how-to-complete-wave-plan)
-      - [Execute and track waves](https://learn.microsoft.com/en-us/azure/migrate/how-to-execute-track-waves)
-      - [Wave planning](https://learn.microsoft.com/en-us/azure/migrate/common-questions-wave-planning.yml)
+      - [Overview](https://learn.microsoft.com/en-us/azure/migrate/wave-plan-overview)
+      - [Configure a wave plan](https://learn.microsoft.com/en-us/azure/migrate/how-to-configure-wave-plan)
   - Execute migrations
-    - [Overview of migration method](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
-    - [Execute server migrations in Azure Migrate portal](https://learn.microsoft.com/en-us/azure/migrate/execute-server-migrations)
-    - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
-    - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
-    - [Redeploy servers using IaC](https://learn.microsoft.com/en-us/azure/migrate/server-redeploy)
+    - [Overview of migration execution](https://learn.microsoft.com/en-us/azure/migrate/migration-execution-overview)
+    - Execute migrations using waves
+      - [Overview of wave migrations](https://learn.microsoft.com/en-us/azure/migrate/wave-migrations-overview)
+      - [How wave migrations work](https://learn.microsoft.com/en-us/azure/migrate/wave-migrations)
+      - [Configure and customize a wave](https://learn.microsoft.com/en-us/azure/migrate/configure-customize-wave)
+      - [Execute a wave](https://learn.microsoft.com/en-us/azure/migrate/execute-wave-migration)
+      - [Track and troubleshoot wave migrations](https://learn.microsoft.com/en-us/azure/migrate/track-wave-migrations)
+    - [Execute migrations using classic waves](https://learn.microsoft.com/en-us/azure/migrate/configure-execute-track-classic-waves)
+    - Execute direct server migrations
+      - [Overview of server migrations](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
+      - [Execute direct server migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/execute-server-migrations)
+      - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
+      - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
+      - [Redeploy servers using IaC](https://learn.microsoft.com/en-us/azure/migrate/server-redeploy)
     - [Generate and deploy a platform landing zone](https://learn.microsoft.com/en-us/azure/migrate/platform-landing-zone)
     - Support Matrix
+      - [Overview of server migration methods](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
       - [VMware vSphere migration requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration)
       - [Physical Agent-based migration requirements](https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-support-matrix?toc=/azure/migrate/toc.json)
       - [Hyper-V migration requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v-migration)
@@ -232,6 +238,7 @@
     - [Software and Insights](https://learn.microsoft.com/en-us/azure/migrate/software-insights-faq.yml)
     - [Assessment](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-assessment)
     - [Business case](https://learn.microsoft.com/en-us/azure/migrate/common-questions-business-case)
+    - [Wave planning](https://learn.microsoft.com/en-us/azure/migrate/common-questions-wave-planning)
     - [Migration and modernization tool](https://learn.microsoft.com/en-us/azure/migrate/common-questions-server-migration)
     - [Responsible AI FAQ for Azure Copilot Migration Agent](https://learn.microsoft.com/en-us/azure/migrate/common-questions-azure-copilot-migration-agent)
   - Reference
@@ -239,6 +246,7 @@
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.migrate/)
     - [Azure Policy built-ins](https://learn.microsoft.com/en-us/azure/migrate/policy-reference)
     - [Azure Migration Hub](https://learn.microsoft.com/azure/migration/)
+    - [Wave migration reference](https://learn.microsoft.com/en-us/azure/migrate/reference-wave-migrations)
   - Resources
     - [Migration in the Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/)
     - [Contoso migration examples](https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-overview)
