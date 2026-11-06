@@ -79,6 +79,7 @@
     - Private Resolver
       - [Endpoints and rulesets](https://learn.microsoft.com/en-us/azure/dns/private-resolver-endpoints-rulesets)
       - [Private resolver architecture](https://learn.microsoft.com/en-us/azure/dns/private-resolver-architecture)
+      - [Scale QPS in a hub-and-spoke network](https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-scale-qps)
       - [Reliability in Azure DNS Private Resolver](https://learn.microsoft.com/azure/reliability/reliability-dns-private-resolver?toc=%2fazure%2fdns%2ftoc.json)
   - Security
     - [Secure DNS](https://learn.microsoft.com/en-us/azure/dns/secure-dns)

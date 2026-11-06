@@ -23,6 +23,7 @@
       - [Define a migration project](https://learn.microsoft.com/en-us/azure/storage-mover/project-manage)
       - [Define and start a migration job](https://learn.microsoft.com/en-us/azure/storage-mover/job-definition-create)
       - [Migrate from on-premises SMB to Azure Files agentless](https://learn.microsoft.com/en-us/azure/storage-mover/agentless-on-premises-files-migration)
+      - [Migrate from on-premises NFS to Azure Files and Blob Storage agentless](https://learn.microsoft.com/en-us/azure/storage-mover/agentless-on-premises-nfs-migration)
       - [Migrate from on-premises S3-compatible storage to Azure Blob Storage](https://learn.microsoft.com/en-us/azure/storage-mover/on-premises-s3-compatible-migration)
       - [Migrate from on-premises to Azure over private networks](https://learn.microsoft.com/en-us/azure/storage-mover/on-premises-private-network-configuration)
     - Manage and decommission

@@ -10,6 +10,7 @@
     - [Create a Route Server - ARM template](https://learn.microsoft.com/en-us/azure/route-server/quickstart-create-route-server-template)
   - Tutorials
     - [Peer Route Server with NVA](https://learn.microsoft.com/en-us/azure/route-server/peer-route-server-with-virtual-appliance)
+    - [Configure dual-stack Route Server - PowerShell preview](https://learn.microsoft.com/en-us/azure/route-server/tutorial-configure-route-server-nva-dual-stack-powershell)
     - [Deploy Route Server with DDoS protection](https://learn.microsoft.com/en-us/azure/route-server/tutorial-protect-route-server-ddos)
   - Concepts
     - [Route Server FAQ](https://learn.microsoft.com/en-us/azure/route-server/route-server-faq)
@@ -27,6 +28,8 @@
     - [About route maps](https://learn.microsoft.com/en-us/azure/route-server/route-maps-about)
   - How-to guides
     - [Configure and manage Route Server](https://learn.microsoft.com/en-us/azure/route-server/configure-route-server)
+    - [Enable IPv4/IPv6 dual-stack preview](https://learn.microsoft.com/en-us/azure/route-server/enable-route-server-dual-stack)
+    - [Configure customer-controlled maintenance](https://learn.microsoft.com/en-us/azure/route-server/configure-customer-controlled-maintenance)
     - [View effective routes](https://learn.microsoft.com/en-us/azure/route-server/view-route-server-effective-routes)
     - [Configure route maps](https://learn.microsoft.com/en-us/azure/route-server/route-maps-how-to)
     - Route maps scenarios

@@ -27,7 +27,8 @@
       - [Troubleshoot](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-troubleshoot)
       - [Contact Microsoft Support](https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-contact-microsoft-support)
     - Release notes
-      - [2409 - Current](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2409-release-notes)
+      - [2610 - Current](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2610-release-notes)
+      - [2409](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2409-release-notes)
       - [2301](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2301-release-notes)
       - [2105](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2105-release-notes)
       - [2101](https://learn.microsoft.com/en-us/azure/databox-gateway/data-box-gateway-2101-release-notes)

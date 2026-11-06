@@ -41,6 +41,7 @@
   - How-to guides
     - Administration
       - [Manage users](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-users)
+      - [Manage permissions with Microsoft Entra ID groups](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-microsoft-entra-id-groups)
       - [Manage ACLs](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-acls)
       - [Manage legal tags](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-manage-legal-tags)
       - [Manage data partitions](https://learn.microsoft.com/en-us/azure/energy-data-services/how-to-add-more-data-partitions)

@@ -283,6 +283,7 @@
       - [Troubleshoot using diagnose and solve problems tool](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-diagnose-solve-problems)
       - [Troubleshoot capacity pool errors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-capacity-pools)
       - [Troubleshoot volume errors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-volumes)
+      - [Troubleshoot cache volume errors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-cache-volumes)
       - [Troubleshoot application volume group errors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-application-volume-groups)
       - [Troubleshoot snapshot policy errors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-snapshot-policies)
       - [Troubleshoot cross-region replication errors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-cross-region-replication)
