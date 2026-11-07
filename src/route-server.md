@@ -32,6 +32,7 @@
     - [Configure customer-controlled maintenance](https://learn.microsoft.com/en-us/azure/route-server/configure-customer-controlled-maintenance)
     - [View effective routes](https://learn.microsoft.com/en-us/azure/route-server/view-route-server-effective-routes)
     - [Configure route maps](https://learn.microsoft.com/en-us/azure/route-server/route-maps-how-to)
+    - [Configure dual-stack route maps - Portal preview](https://learn.microsoft.com/en-us/azure/route-server/route-maps-dual-stack-portal)
     - Route maps scenarios
       - [Prepend routes](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-prepend-routes)
       - [Tag routes with BGP communities](https://learn.microsoft.com/en-us/azure/route-server/route-maps-scenario-tag-bgp-communities)

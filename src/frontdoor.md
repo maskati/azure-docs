@@ -121,6 +121,7 @@
     - [Video on-demand and live streaming](https://learn.microsoft.com/en-us/azure/frontdoor/video-on-demand-live-streaming)
     - [WebSocket](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/websocket)
     - [HTTP/2](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2)
+    - [gRPC preview](https://learn.microsoft.com/en-us/azure/frontdoor/grpc)
     - [Compression](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-compression)
     - [Blue/Green deployment with Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/blue-green-deployment)
     - [Edge actions](https://learn.microsoft.com/en-us/azure/frontdoor/edge-actions)
@@ -216,6 +217,15 @@
         - [Python SDK](https://learn.microsoft.com/python/api/azure-mgmt-cdn)
         - [Go SDK](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go@v62.3.0+incompatible/services/cdn/mgmt/2021-06-01/cdn)
         - [JavaScript SDK](https://learn.microsoft.com/javascript/api/overview/azure/cdn)
+        - Edge actions
+          - [Azure CLI](https://learn.microsoft.com/cli/azure/edge-action)
+          - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.edgeaction/)
+          - [Bicep, ARM, and Terraform AzAPI reference](https://learn.microsoft.com/azure/templates/microsoft.cdn/edgeactions?pivots=deployment-language-bicep)
+          - [REST API](https://learn.microsoft.com/rest/api/edge-actions/operation-groups)
+          - [Python SDK](https://learn.microsoft.com/python/api/overview/azure/mgmt-edgeactions-readme)
+          - [.NET SDK preview](https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.edgeactions-readme?view=azure-dotnet-preview&preserve-view=true)
+          - [Go SDK](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/edgeactions/armedgeactions)
+          - [Java SDK](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-edgeactions-readme)
       - Classic
         - [Azure CLI](https://learn.microsoft.com/cli/azure/afd/)
         - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.frontdoor)
