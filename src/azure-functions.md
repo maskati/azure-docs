@@ -282,9 +282,11 @@
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
   - AI
     - [Create AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-ai-enabled-apps)
-    - [Agent bindings in Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings)
-    - [Agent binding with Microsoft Agent Framework](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings-agent-framework)
-    - [Agent binding with Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings-agent-framework-durable)
+    - Agent bindings
+      - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings)
+      - [Microsoft Agent Framework quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings-agent-framework)
+      - [GitHub Copilot SDK quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings-copilot-sdk)
+      - [Durable Functions quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings-agent-framework-durable)
     - Custom remote MCP servers
       - [MCP extension quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
       - [MCP Apps quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
