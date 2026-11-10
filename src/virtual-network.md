@@ -93,6 +93,7 @@
       - [Disable peering route propagation](https://learn.microsoft.com/en-us/azure/virtual-network/configure-disable-peering-route-propagation)
       - [Update the address space for a peered virtual network](https://learn.microsoft.com/en-us/azure/virtual-network/update-virtual-network-peering-address-space.yml)
       - [Configure subnet peering](https://learn.microsoft.com/en-us/azure/virtual-network/how-to-configure-subnet-peering)
+      - [Configure IPv6-only peering](https://learn.microsoft.com/en-us/azure/virtual-network/configure-ipv6-only-vnet-peering)
     - Routing
       - [Manage route tables](https://learn.microsoft.com/en-us/azure/virtual-network/manage-route-table.yml)
       - [Ansible](https://learn.microsoft.com/azure/developer/ansible/route-table-configure?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)

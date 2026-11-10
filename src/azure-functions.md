@@ -281,6 +281,7 @@
         - [Scale and performance](https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference)
         - [Memory profiling](https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference)
   - AI
+    - [Azure Functions skills for coding agents](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills)
     - [Create AI-enabled functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-ai-enabled-apps)
     - Agent bindings
       - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings)
@@ -298,13 +299,18 @@
     - Hosted skills
       - [What are hosted skills?](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills)
       - [Scenarios](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-scenarios)
-      - [Canvas quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-canvas)
+      - Quickstarts
+        - [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-hosted-skills)
+        - [Canvas](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-canvas)
+        - [AI coding assistant](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-ai-coding-assistant)
       - [Developer guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-developer-guide)
-      - [Hosted Skill bindings in Python](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-bindings)
-      - [Dynamic workflows overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows)
-      - [Dynamic workflows quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows-how-to)
+      - Features
+        - [Dynamic workflows overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows)
+        - [Create and manage dynamic workflows](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-dynamic-workflows-how-to)
+        - [Hosted Skill bindings](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-bindings)
+        - [Migrate an existing workflow](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-migrate)
+        - [Evaluate hosted skills](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-evaluation)
       - [Monitor and troubleshoot](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-monitor-troubleshoot)
-      - [Evaluate hosted skills](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-evaluation)
       - [Reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-reference)
     - [Azure MCP server for Azure Functions](https://learn.microsoft.com/azure/developer/azure-mcp-server/services/azure-mcp-server-for-functions?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
     - [GitHub Copilot for Azure](https://learn.microsoft.com/azure/developer/github-copilot-azure?toc=/azure/azure-functions/toc.json&bc=/azure/azure-functions/breadcrumb/toc.json)
@@ -324,6 +330,25 @@
       - [Move between subscriptions](https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription?toc=%2Fazure%2Fazure-functions%2Ftoc.json)
       - [Move to other regions](https://learn.microsoft.com/azure/operational-excellence/relocation-functions?toc=%2Fazure%2Fazure-functions%2Ftoc.json)
   - Reference
+    - Azure Functions skills
+      - [Reference overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/index)
+      - [Best practices](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-best-practices)
+      - [Common references](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-common)
+      - [Connector creation](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-connector-create)
+      - [Connector MCP tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-connector-mcp)
+      - [Connector validation](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-connector-validate)
+      - [Create](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-create)
+      - [Deploy](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-deploy)
+      - [Diagnostics](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-diagnostics)
+      - [Project diagnostics](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-doctor)
+      - [Feedback](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-feedback)
+      - [Health status](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-health-status)
+      - [Help](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-help)
+      - [Hosted-skills authoring](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-hosted-skills)
+      - [Hosted-skills migration](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-hosted-skills-migrate)
+      - [Inventory](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-inventory)
+      - [Setup](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-setup)
+      - [Update](https://learn.microsoft.com/en-us/azure/azure-functions/functions-skills-reference/azure-functions-update)
     - API references
       - [ARM template](https://learn.microsoft.com/azure/templates/microsoft.web/2022-03-01/sites/functions)
       - [Azure CLI](https://learn.microsoft.com/cli/azure/functionapp)

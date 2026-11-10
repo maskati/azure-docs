@@ -146,6 +146,7 @@
       - [Hyper-V migration requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v-migration)
   - Modernize applications
     - [Overview of Web App Migration and Modernization](https://learn.microsoft.com/en-us/azure/migrate/web-app-migration-modernization)
+    - [Containerize Java apps and migrate to Container Apps](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-container-apps)
     - [Containerize ASP.NET apps and migrate to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-kubernetes)
     - [Containerize Java web apps and migrate to AKS](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-kubernetes)
     - [Containerize Java web apps and migrate to App Service containers](https://learn.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-app-service)

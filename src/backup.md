@@ -351,6 +351,9 @@
     - [Overview](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-database)
     - [FAQ-Back up SQL Server databases on Azure VMs](https://learn.microsoft.com/en-us/azure/backup/faq-backup-sql-server.yml)
     - [Support matrix](https://learn.microsoft.com/en-us/azure/backup/sql-support-matrix)
+    - Quickstarts for SQL Server database backup
+      - [Back up SQL Server databases using stream-based backups](https://learn.microsoft.com/en-us/azure/backup/quickstart-backup-sql-server-database)
+      - [Back up SQL Server instances using snapshot-based backups](https://learn.microsoft.com/en-us/azure/backup/quickstart-backup-sql-server-instance-snapshot)
     - [Tutorial for SQL Server on Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/tutorial-sql-backup)
     - Backup scenarios
       - From the Azure portal
@@ -364,6 +367,10 @@
           - [Restore SQL Server database from the vault](https://learn.microsoft.com/en-us/azure/backup/restore-sql-database-azure-vm)
           - [Restore SQL Server instance](https://learn.microsoft.com/en-us/azure/backup/back-up-sql-server-instance-snapshot-restore)
         - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-monitor-sql-database-backup)
+      - With PowerShell
+        - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-vm-powershell)
+        - [Restore](https://learn.microsoft.com/en-us/azure/backup/restore-azure-sql-vm-powershell)
+        - [Manage](https://learn.microsoft.com/en-us/azure/backup/manage-azure-sql-vm-powershell)
       - With CLI
         - [Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-backup-cli)
         - [Restore](https://learn.microsoft.com/en-us/azure/backup/backup-azure-sql-restore-cli)

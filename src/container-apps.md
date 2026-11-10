@@ -148,6 +148,8 @@
         - [Deployment failures](https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-deployment-errors)
       - [Use Diagnose and Solve](https://learn.microsoft.com/en-us/azure/container-apps/diagnose-solve)
     - Migrate to Azure Container Apps
+      - [Overview](https://learn.microsoft.com/en-us/azure/container-apps/migrate-overview)
+      - [Migrate to Azure Container Apps with Azure Migrate](https://learn.microsoft.com/en-us/azure/container-apps/migrate-azure-migrate)
       - [Heroku migration overview](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku-overview)
       - [Migrate from Heroku](https://learn.microsoft.com/en-us/azure/container-apps/migrate-heroku)
       - [Migrate Spring Boot applications](https://learn.microsoft.com/en-us/azure/container-apps/migrate-spring-boot)

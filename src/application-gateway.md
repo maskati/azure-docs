@@ -168,6 +168,7 @@
     - [Monitor Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/monitor-application-gateway)
     - [Health probe](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-probe-overview)
     - [Backend health](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-backend-health)
+    - [Gateway health](https://learn.microsoft.com/en-us/azure/application-gateway/health-dashboard)
     - [Diagnostic logs](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics)
     - [Metrics](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-metrics)
   - [Support and troubleshooting for Application Gateway](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-support-help)
