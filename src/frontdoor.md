@@ -103,6 +103,7 @@
     - [TLS policy](https://learn.microsoft.com/en-us/azure/frontdoor/tls-policy)
     - [TLS key exchange policy](https://learn.microsoft.com/en-us/azure/frontdoor/tls-key-exchange-policy)
     - [Mutual TLS authentication](https://learn.microsoft.com/en-us/azure/frontdoor/mutual-tls)
+    - [Authentication policy preview](https://learn.microsoft.com/en-us/azure/frontdoor/authentication-policy)
     - [Set up managed identity](https://learn.microsoft.com/en-us/azure/frontdoor/managed-identity)
     - [Protect sensitive data in logs](https://learn.microsoft.com/en-us/azure/frontdoor/sensitive-data-protection)
     - [Secure traffic to origins](https://learn.microsoft.com/en-us/azure/frontdoor/origin-security)
