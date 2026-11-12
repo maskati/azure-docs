@@ -52,6 +52,7 @@
     - [JSON Web Token JWT Configuration](https://learn.microsoft.com/en-us/azure/application-gateway/json-web-token-overview)
     - [Using Key Vault](https://learn.microsoft.com/en-us/azure/application-gateway/key-vault-certs)
     - [SSL certificate management](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management)
+    - [Application Gateway Confidential Compute Overview - Preview](https://learn.microsoft.com/en-us/azure/application-gateway/confidential-compute-overview)
     - [Keyless TLS and Managed HSM](https://learn.microsoft.com/en-us/azure/application-gateway/keyless-tls-overview)
     - [FIPS 140 support on V2](https://learn.microsoft.com/en-us/azure/application-gateway/fips)
     - [Security baseline](https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json)

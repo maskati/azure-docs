@@ -32,6 +32,7 @@
       - [Disable or enable a device preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-disable-enable-device)
       - [Groups concepts preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-groups)
       - [Jobs concepts preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-jobs)
+      - [Define, run, and monitor jobs preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-define-run-monitor-jobs)
       - [Software updates concepts preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-software-updates)
       - [Import a software update preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-import-software-update)
       - [Deploy a software update to a group preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-deploy-software-update-group)
