@@ -4,6 +4,7 @@
   - Overview
     - [What is Azure Data Share?](https://learn.microsoft.com/en-us/azure/data-share/overview)
     - [Supported data stores](https://learn.microsoft.com/en-us/azure/data-share/supported-data-stores)
+    - [Retirement](https://learn.microsoft.com/en-us/azure/data-share/retirement)
   - Quickstarts
     - [Share data - Azure portal](https://learn.microsoft.com/en-us/azure/data-share/share-your-data-portal)
     - [Share data - Bicep](https://learn.microsoft.com/en-us/azure/data-share/share-your-data-bicep)

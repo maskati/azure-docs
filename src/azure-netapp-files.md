@@ -50,6 +50,7 @@
       - High file counts
         - [Understand maxfiles](https://learn.microsoft.com/en-us/azure/azure-netapp-files/maxfiles-concept)
         - [Understand maximum directory sizes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/directory-sizes-concept)
+        - [Understand asynchronous directory deletion](https://learn.microsoft.com/en-us/azure/azure-netapp-files/asynchronous-directory-deletion-concept)
       - [Ways to monitor Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/monitor-azure-netapp-files)
       - [Metrics for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-metrics)
       - [Azure Policy definitions for Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-policy-definitions)
@@ -176,6 +177,7 @@
         - [Manage billing by using tags](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-billing-tags)
       - Manage volumes
         - [Manage availability zone volume placement](https://learn.microsoft.com/en-us/azure/azure-netapp-files/manage-availability-zone-volume-placement)
+        - [Configure asynchronous directory deletion](https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-asynchronous-directory-deletion)
         - Manage NFS volumes
           - [Create an NFS volume](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-create-volumes)
           - [Configure NFSv4.1 ID domain](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-configure-nfsv41-domain)
@@ -291,6 +293,7 @@
       - [Troubleshoot Resource Provider errors](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-troubleshoot-resource-provider-errors)
       - [Troubleshoot user access on LDAP volumes](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-user-access-ldap)
       - [Troubleshoot file locks](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-file-locks)
+      - [Troubleshoot asynchronous directory deletion](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-asynchronous-directory-deletion)
       - [Troubleshoot Microsoft Entra Kerberos authentication](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-entra-kerberos-authentication)
       - [Troubleshoot SMB authentication and CIFS password reset failures](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-authentication-password-reset-failure)
       - [Troubleshoot latency issues](https://learn.microsoft.com/en-us/azure/azure-netapp-files/troubleshoot-latency-issues)
