@@ -41,6 +41,8 @@
       - [Create Traffic Manager linked records - Portal](https://learn.microsoft.com/en-us/azure/dns/tutorial-traffic-manager-linked-records-portal)
       - [Create Traffic Manager linked records - CLI](https://learn.microsoft.com/en-us/azure/dns/tutorial-traffic-manager-linked-records-cli)
       - [Create Traffic Manager linked records - PowerShell](https://learn.microsoft.com/en-us/azure/dns/tutorial-traffic-manager-linked-records-powershell)
+      - [Create Traffic Manager linked records - Bicep](https://learn.microsoft.com/en-us/azure/dns/quickstart-traffic-manager-linked-records-bicep)
+      - [Create Traffic Manager linked records - ARM Template](https://learn.microsoft.com/en-us/azure/dns/quickstart-traffic-manager-linked-records-template)
       - [Alias records for load balanced web apps](https://learn.microsoft.com/en-us/azure/dns/dns-alias-appservice)
       - [Integrate with other Azure services](https://learn.microsoft.com/en-us/azure/dns/dns-for-azure-services)
       - [Automate DNS operations with the .NET SDK](https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.dns-readme?toc=/azure/dns/TOC.json)

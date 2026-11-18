@@ -5,6 +5,7 @@
     - [What is Azure DDoS Protection?](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
     - [Azure DDoS Protection features](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-features)
     - [DDoS custom policy overview](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-custom-policy-overview)
+    - [DDoS protection for NAT Gateway StandardV2 preview](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-nat-gateway-standardv2)
     - [Tier comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-sku-comparison)
     - [Price comparison](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-pricing-guide)
     - [Cost optimization principles](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-optimization-guide)
@@ -25,6 +26,7 @@
       - [ARM template](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-ip-protection-template)
     - DDoS custom policy
       - [Portal](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-custom-policy-portal)
+      - [PowerShell](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-custom-policy-powershell)
       - [CLI](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-custom-policy-cli)
       - [ARM template](https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-custom-policy-template)
     - [Switch tiers](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-switch-ddos-protection-tier)

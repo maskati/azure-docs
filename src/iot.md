@@ -9,14 +9,14 @@
   - Azure Device Registry
     - [What is Azure Device Registry?](https://learn.microsoft.com/en-us/azure/iot/device-registry/overview-device-registry)
     - Get started with Azure Device Registry
-      - [Azure IoT Hub get started preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/get-started-azure-device-registry)
-      - [Azure IoT Operations get started](https://learn.microsoft.com/en-us/azure/iot-operations/get-started-end-to-end-sample/quickstart-deploy)
+      - [Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot/device-registry/get-started-azure-device-registry)
+      - [Azure IoT Operations](https://learn.microsoft.com/en-us/azure/iot-operations/get-started-end-to-end-sample/quickstart-deploy)
     - [What is an Azure Device Registry namespace?](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-namespaces)
     - [Best practices for namespaces](https://learn.microsoft.com/en-us/azure/iot/device-registry/best-practices-namespaces)
     - [Best practices for schema registries](https://learn.microsoft.com/en-us/azure/iot/device-registry/best-practices-schema-registries)
     - Develop with Azure IoT SDKs
       - [Unified Azure IoT SDKs for IoT Hub and Azure Device Registry](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-unified-iot-sdks)
-    - Manage certificate lifecycle preview
+    - Manage certificate lifecycle
       - [Certificate management overview](https://learn.microsoft.com/en-us/azure/iot/iot-certificate-management-overview)
       - [PKI fundamentals](https://learn.microsoft.com/en-us/azure/iot/iot-certificate-management-concepts)
       - Set up certificate management
@@ -29,14 +29,16 @@
         - [Renew device certificates](https://learn.microsoft.com/en-us/azure/iot/concept-certificate-renewal)
         - [Revoke certificates](https://learn.microsoft.com/en-us/azure/iot/concepts-certificate-policy-management)
     - Manage your device fleet
-      - [Disable or enable a device preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-disable-enable-device)
+      - [Disable or enable a device](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-disable-enable-device)
       - [Groups concepts preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-groups)
       - [Jobs concepts preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-jobs)
       - [Define, run, and monitor jobs preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-define-run-monitor-jobs)
       - [Software updates concepts preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-software-updates)
       - [Import a software update preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-import-software-update)
       - [Deploy a software update to a group preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-deploy-software-update-group)
+      - [Reconcile IoT Hub twin properties with ADR](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-reconcile-iot-hub-twins)
       - [Deploy an onboarding update to a namespace preview](https://learn.microsoft.com/en-us/azure/iot/device-registry/how-to-deploy-onboarding-update-namespace)
+    - [Understand billing](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-billing)
   - References
     - [Support and help options](https://learn.microsoft.com/en-us/azure/iot/iot-support-help)
     - [IoT glossary](https://learn.microsoft.com/en-us/azure/iot/iot-glossary)

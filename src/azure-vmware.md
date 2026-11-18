@@ -196,7 +196,7 @@
       - [Configure Azure Monitor for Resource Health alerts](https://learn.microsoft.com/en-us/azure/azure-vmware/configure-azure-monitor-for-resource-health-for-azure-vmware-solution)
     - Arc-enabled Azure VMware Solution private cloud
       - [Deploy Arc-enabled VMware vSphere for Azure VMware Solution private cloud](https://learn.microsoft.com/en-us/azure/azure-vmware/deploy-arc-for-azure-vmware-solution)
-      - [Enable guest management and install extensions on Arc-enabled VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/arc-enable-guest-management)
+      - [Install Arc agent and extensions on discovered VMs](https://learn.microsoft.com/en-us/azure/azure-vmware/arc-onboard-vms)
       - [Manage Arc-enabled Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/manage-arc-enabled-azure-vmware-solution)
       - [Remove Arc-enabled Azure VMware Solution vSphere resources from Azure](https://learn.microsoft.com/en-us/azure/azure-vmware/remove-arc-enabled-azure-vmware-solution-vsphere-resources-from-azure)
     - [Application performance monitoring solutions for Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/ecosystem-app-monitoring-solutions)

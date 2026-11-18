@@ -43,6 +43,7 @@
       - [Monitor Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/monitor-bastion)
       - [Monitor and manage sessions](https://learn.microsoft.com/en-us/azure/bastion/session-monitoring)
       - [Configure session recording](https://learn.microsoft.com/en-us/azure/bastion/session-recording)
+      - [RDP/SSH Vision](https://learn.microsoft.com/en-us/azure/bastion/rdp-ssh-vision)
     - Platform
       - [Configure host scaling](https://learn.microsoft.com/en-us/azure/bastion/configure-host-scaling)
       - [Design architecture](https://learn.microsoft.com/en-us/azure/bastion/design-architecture)

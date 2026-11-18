@@ -73,6 +73,7 @@
         - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-arm?tabs=maximum)
   - Deploy
     - [ExpressRoute Metro](https://learn.microsoft.com/en-us/azure/expressroute/metro)
+    - [ExpressRoute Last Mile](https://learn.microsoft.com/en-us/azure/expressroute/last-mile)
     - ExpressRoute Direct
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about)
       - [Configure ExpressRoute Direct](https://learn.microsoft.com/en-us/azure/expressroute/how-to-expressroute-direct-portal)
@@ -147,6 +148,7 @@
       - [Monitor ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute)
       - [Network Insights](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-network-insights)
       - [Configure Connection Monitoring for ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-connection-monitor)
+      - [Diagnose packet loss with Connection Analyzer preview](https://learn.microsoft.com/en-us/azure/expressroute/connection-analyzer)
       - [Configure ExpressRoute Traffic Collector](https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-traffic-collector)
       - [View and configure maintenance alerts](https://learn.microsoft.com/en-us/azure/expressroute/maintenance-alerts)
       - [Configure custom alerts to monitor advertised routes](https://learn.microsoft.com/en-us/azure/expressroute/how-to-custom-route-alert)

@@ -14,7 +14,11 @@
     - Policy
       - [Policy rule sets](https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets)
       - [Policy Analytics](https://learn.microsoft.com/en-us/azure/firewall/policy-analytics)
+      - [Policy Advisor preview](https://learn.microsoft.com/en-us/azure/firewall/policy-analytics)
+    - [AI Security concepts preview](https://learn.microsoft.com/en-us/azure/firewall/ai-security-concepts)
+    - [Prompt Threat Protection concepts preview](https://learn.microsoft.com/en-us/azure/firewall/prompt-threat-protection)
     - [FQDN filtering](https://learn.microsoft.com/en-us/azure/firewall/domain-filtering-overview)
+    - [Geolocation filtering](https://learn.microsoft.com/en-us/azure/firewall/geo-ip-filtering)
     - [IDPS signature rule categories](https://learn.microsoft.com/en-us/azure/firewall/idps-signature-categories)
     - [Web categories](https://learn.microsoft.com/en-us/azure/firewall/web-categories)
     - [Rule processing logic](https://learn.microsoft.com/en-us/azure/firewall/rule-processing)
@@ -40,6 +44,9 @@
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy)
       - [Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-certificates)
       - [Enterprise CA Certificates](https://learn.microsoft.com/en-us/azure/firewall/premium-deploy-certificates-enterprise-ca)
+    - Firewall for Containers preview
+      - [Deployment guide](https://learn.microsoft.com/en-us/azure/firewall/deploy-firewall-for-containers)
+      - [ARM template](https://learn.microsoft.com/en-us/azure/firewall/quick-create-containers-template)
     - [Draft and Deploy](https://learn.microsoft.com/en-us/azure/firewall/draft-deploy)
     - To a hybrid Network
       - [Portal](https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal-policy)
@@ -86,6 +93,11 @@
       - [FQDN tags](https://learn.microsoft.com/en-us/azure/firewall/fqdn-tags)
       - [Service tags](https://learn.microsoft.com/en-us/azure/firewall/service-tags)
     - [HTTP header insertion](https://learn.microsoft.com/en-us/azure/firewall/configure-http-header-insertion)
+    - AI Security
+      - [Prompt Threat Protection preview](https://learn.microsoft.com/en-us/azure/firewall/configure-prompt-threat-protection)
+      - [Advanced Malware Threat Protection preview](https://learn.microsoft.com/en-us/azure/firewall/configure-malware-protection)
+      - [Advanced Application Threat Protection preview](https://learn.microsoft.com/en-us/azure/firewall/configure-application-threat-protection)
+      - [Network data loss prevention preview](https://learn.microsoft.com/en-us/azure/firewall/configure-network-dlp)
     - [Application rules with SQL FQDNs](https://learn.microsoft.com/en-us/azure/firewall/sql-fqdn-filtering)
     - SNAT
       - [SNAT private ranges](https://learn.microsoft.com/en-us/azure/firewall/snat-private-range)

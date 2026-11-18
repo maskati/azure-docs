@@ -20,11 +20,13 @@
     - Configuration
       - [Overview](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-overview)
       - [Infrastructure](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-infrastructure)
+      - [Deployment tier](https://learn.microsoft.com/en-us/azure/application-gateway/deployment-tier)
       - [Frontend IP address](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-frontend-ip)
       - [Listeners](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-listeners)
       - [Request routing rules](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules)
       - [HTTP settings](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-http-settings)
     - Routing
+      - [Advanced load balancing Preview](https://learn.microsoft.com/en-us/azure/application-gateway/advanced-load-balancing)
       - [Advanced Routing Rules](https://learn.microsoft.com/en-us/azure/application-gateway/advanced-rules)
       - [Multi-site hosting](https://learn.microsoft.com/en-us/azure/application-gateway/multiple-site-overview)
       - [URL routing](https://learn.microsoft.com/en-us/azure/application-gateway/url-route-overview)
@@ -50,6 +52,7 @@
     - [SSL policy overview](https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-ssl-policy-overview)
     - [Mutual authentication](https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-overview)
     - [JSON Web Token JWT Configuration](https://learn.microsoft.com/en-us/azure/application-gateway/json-web-token-overview)
+    - [Centralized user authentication preview](https://learn.microsoft.com/en-us/azure/application-gateway/user-authentication)
     - [Using Key Vault](https://learn.microsoft.com/en-us/azure/application-gateway/key-vault-certs)
     - [SSL certificate management](https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management)
     - [Application Gateway Confidential Compute Overview - Preview](https://learn.microsoft.com/en-us/azure/application-gateway/confidential-compute-overview)

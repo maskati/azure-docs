@@ -53,6 +53,9 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-overview)
       - [Manage packet captures](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-manage)
       - Analyze a packet capture
+        - [Packet capture insights overview](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-insights-overview)
+        - [Packet capture insights how-to](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-insights-how-to)
+        - [Responsible AI FAQ](https://learn.microsoft.com/en-us/azure/network-watcher/responsible-ai-faq.yml)
         - [Inspect to find anomalies](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-inspect)
         - [Proactive network monitoring with Azure Functions](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-alert-triggered)
         - [Perform intrusion detection using open source tools](https://learn.microsoft.com/previous-versions/azure/network-watcher/network-watcher-intrusion-detection-open-source-tools?toc=/azure/network-watcher/toc.json)
@@ -90,6 +93,7 @@
     - [Schema and data aggregation](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema)
     - [Use queries in traffic analytics](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-queries)
     - [Rules impact analyzer](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-rule-impact-analyzer)
+    - [Get Rule Recommendations in Traffic Analytics](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-rule-recommendation)
     - [Integrate Microsoft Sentinel with traffic analytics](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-sentinel)
     - [Apply Zero Trust principles to segment Azure network](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-zero-trust)
     - [Enable traffic analytics using Azure policy](https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)

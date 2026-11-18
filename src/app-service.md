@@ -18,6 +18,10 @@
     - [Secure AI applications](https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-authentication)
   - Get started
     - [Get started](https://learn.microsoft.com/en-us/azure/app-service/getting-started)
+    - App Service Builder
+      - [Overview](https://learn.microsoft.com/en-us/azure/app-service/app-service-builder-overview)
+      - [Get started](https://learn.microsoft.com/en-us/azure/app-service/app-service-builder-get-started)
+      - [Full documentation](https://builder.appservice.azure.com/docs/)
     - .NET
       - [Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore)
       - [Aspire Quickstart](https://learn.microsoft.com/en-us/azure/app-service/quickstart-aspire)
@@ -288,6 +292,10 @@
   - Reliability
     - [Reliability in Azure App Service](https://learn.microsoft.com/azure/reliability/reliability-app-service?toc=/azure/app-service/toc.json&bc=/azure/app-service/breadcrumb/toc.json)
     - [Configure App Service for zone redundancy](https://learn.microsoft.com/en-us/azure/app-service/configure-zone-redundancy)
+    - Geo-redundancy preview
+      - [Overview](https://learn.microsoft.com/en-us/azure/app-service/overview-geo-redundancy)
+      - [Quickstart - Create geo-redundant applications](https://learn.microsoft.com/en-us/azure/app-service/quickstart-geo-redundancy)
+      - [Configure and manage geo-redundancy](https://learn.microsoft.com/en-us/azure/app-service/configure-geo-redundancy)
   - Samples
     - [Azure CLI](https://learn.microsoft.com/en-us/azure/app-service/samples-cli)
     - [Azure PowerShell](https://learn.microsoft.com/en-us/azure/app-service/samples-powershell)

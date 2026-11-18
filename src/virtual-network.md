@@ -113,6 +113,7 @@
         - [Windows VMs](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-windows)
         - [MANA support for existing VM sizes](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-existing-sizes)
         - [MANA on Network Virtual Appliances NVAs for existing VM sizes](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-network-virtual-appliance-opt-out)
+        - [Enable Guest RDMA Preview on Azure Boost VMs](https://learn.microsoft.com/en-us/azure/virtual-network/guest-rdma)
       - [Migrate a VM public IP address to a NAT gateway](https://learn.microsoft.com/azure/nat-gateway/tutorial-migrate-ilip-nat?toc=%2Fazure%2Fvirtual-network%2Ftoc.json)
       - [Network bandwidth](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-machine-network-throughput)
       - [TCP/IP performance tuning](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-tcpip-performance-tuning)

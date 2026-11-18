@@ -25,6 +25,7 @@
       - [Deploy to a test cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-test-operations)
       - [Production deployment guidelines](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-guidelines)
       - [Deploy to a production cluster](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-operations)
+      - [Deploy using Azure CLI](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-deploy-iot-operations-cli)
       - Configure observability
         - [Unified health status reporting](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/health-status-reporting)
         - [Deploy observability resources](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/howto-configure-observability)
@@ -53,6 +54,7 @@
         - [Install Kubernetes MCP](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-deploy-kubernetes-mcp)
         - [Configure MCP authorization](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-configure-mcp-authorization)
         - [Connect to MCP](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-connect-ai-agent)
+        - [Query MQTT broker metadata](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-query-broker-metadata)
         - [Expose MCP through Azure Relay](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-deploy-mcp-relay)
         - [Troubleshoot MCP](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/troubleshoot-mcp)
       - Manage network
@@ -74,6 +76,8 @@
         - [Monitor OPC UA server availability](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-opc-ua-server-heartbeat-monitoring)
         - [OPC UA asset discovery modes](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/concept-opc-ua-asset-discovery)
         - [Configure OPC UA assets and devices](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua)
+        - [Configure OPC UA WoT connectivity](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-web-of-things-connectivity)
+        - [Configure declarative OPC UA WoT onboarding](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-web-of-things-declarative-onboarding)
         - [Configure OPC UA dataset heartbeats](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-dataset-heartbeat)
         - [Configure OPC UA sessions and high availability](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-sessions-high-availability)
         - [Configure advanced OPC UA data collection](https://learn.microsoft.com/en-us/azure/iot-operations/discover-manage-assets/howto-configure-opc-ua-advanced-data-collection)

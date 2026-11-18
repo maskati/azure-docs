@@ -1,9 +1,9 @@
-# Azure Migrate documentation
+# Azure Catalyst documentation
 > Find articles to help you discover, assess, and migrate your on-premises environment using tools in the Azure Migrate hub.
-  - [Azure Migrate Documentation](https://learn.microsoft.com/en-us/azure/migrate/)
+  - [Azure Catalyst Documentation](https://learn.microsoft.com/en-us/azure/migrate/)
   - Overview
-    - [What is Azure Migrate?](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
-    - [What is Azure Copilot Migration Agent?](https://learn.microsoft.com/en-us/azure/migrate/azure-copilot-migration-agent)
+    - [What is Azure Catalyst?](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
+    - [What is Azure Catalyst Agent?](https://learn.microsoft.com/en-us/azure/migrate/azure-copilot-migration-agent)
     - [What's new](https://learn.microsoft.com/en-us/azure/migrate/whats-new)
   - Quickstarts
     - [Prepare Azure accounts using built-in roles](https://learn.microsoft.com/en-us/azure/migrate/prepare-azure-accounts)
@@ -58,13 +58,14 @@
       - [Collect additional data about Arc enabled servers](https://learn.microsoft.com/en-us/azure/migrate/how-to-enable-additional-data-collection-for-arc-servers)
       - [Azure Migrate VM Extension for Arc-enabled servers](https://learn.microsoft.com/en-us/azure/migrate/migrate-virtual-machine-extension-reference)
     - Discover using inventory import
+      - [Inventory exports import preview](https://learn.microsoft.com/en-us/azure/migrate/how-to-import-inventory-exports-file-import)
       - [CSV import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import)
       - [RVTools import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-import-vmware-using-rvtools-xlsx)
   - Explore inventory
     - [Discovered metadata](https://learn.microsoft.com/en-us/azure/migrate/discovered-metadata)
     - [Review discovered inventory](https://learn.microsoft.com/en-us/azure/migrate/how-to-review-discovered-inventory)
     - [Insights](https://learn.microsoft.com/en-us/azure/migrate/insights-overview)
-    - [Tags in Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/resource-tagging)
+    - [Tags in Azure Catalyst](https://learn.microsoft.com/en-us/azure/migrate/resource-tagging)
     - [Create and manage tags](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-manage-tags)
     - [Modify and delete tags](https://learn.microsoft.com/en-us/azure/migrate/how-to-modify-delete-tags)
     - [Define and manage applications](https://learn.microsoft.com/en-us/azure/migrate/define-manage-applications)
@@ -174,7 +175,7 @@
   - How-to
     - [Discover and assess using Azure Private Link](https://learn.microsoft.com/en-us/azure/migrate/discover-and-assess-using-private-endpoints)
     - [Migrate servers to Azure using Private Link](https://learn.microsoft.com/en-us/azure/migrate/migrate-servers-to-azure-using-private-link)
-    - [Simplified experience for Azure migrate](https://learn.microsoft.com/en-us/azure/migrate/simplified-experience-for-azure-migrate)
+    - [Simplified experience for Azure Catalyst](https://learn.microsoft.com/en-us/azure/migrate/simplified-experience-for-azure-migrate)
     - Discovery
       - Deploy appliance
         - [Deploy appliance using script](https://learn.microsoft.com/en-us/azure/migrate/deploy-appliance-script)
@@ -198,7 +199,7 @@
       - [Test migration](https://learn.microsoft.com/en-us/azure/migrate/how-to-test-replicating-virtual-machines)
       - [Upgrade Windows OS](https://learn.microsoft.com/en-us/azure/migrate/how-to-upgrade-windows)
       - [Automate agent-based migrations using REST API](https://learn.microsoft.com/en-us/azure/migrate/how-to-automate-vmware-to-azure-migration-rest-api)
-      - [Migrate to Trusted Launch or Confidential Virtual Machines with Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-to-trusted-launch-virtual-machines-with-azure-migrate)
+      - [Migrate to Trusted Launch or Confidential Virtual Machines with Azure Catalyst](https://learn.microsoft.com/en-us/azure/migrate/migrate-to-trusted-launch-virtual-machines-with-azure-migrate)
       - Scale migration
         - [How to migrate VMware VMs at scale using the agentless replication method](https://learn.microsoft.com/en-us/azure/migrate/how-to-scale-out-for-migration)
         - [Automate migration of large number of VMs](https://learn.microsoft.com/en-us/azure/migrate/how-to-migrate-at-scale)
@@ -210,10 +211,10 @@
       - [Manage migration projects with Azure Lighthouse](https://learn.microsoft.com/azure/lighthouse/how-to/migration-at-scale?toc=/azure/migrate/toc.json&bc=/azure/migrate/breadcrumb/toc.json)
     - [VMware migrations with migration agent](https://learn.microsoft.com/en-us/azure/migrate/how-to-plan-analyze-migration-with-agent)
   - Troubleshoot
-    - Azure Migrate project
-      - [Troubleshoot Azure Migrate projects](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-project)
-      - [Azure Migrate in unsupported regions](https://learn.microsoft.com/en-us/azure/migrate/azure-migrate-unsupported-regions)
-      - [Troubleshoot Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-general)
+    - Azure Catalyst project
+      - [Troubleshoot Azure Catalyst projects](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-project)
+      - [Azure Catalyst in unsupported regions](https://learn.microsoft.com/en-us/azure/migrate/azure-migrate-unsupported-regions)
+      - [Troubleshoot Azure Catalyst](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-general)
     - Appliance configuration
       - [Troubleshoot Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance)
       - [Troubleshoot with appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
@@ -241,7 +242,7 @@
     - [Business case](https://learn.microsoft.com/en-us/azure/migrate/common-questions-business-case)
     - [Wave planning](https://learn.microsoft.com/en-us/azure/migrate/common-questions-wave-planning)
     - [Migration and modernization tool](https://learn.microsoft.com/en-us/azure/migrate/common-questions-server-migration)
-    - [Responsible AI FAQ for Azure Copilot Migration Agent](https://learn.microsoft.com/en-us/azure/migrate/common-questions-azure-copilot-migration-agent)
+    - [Responsible AI FAQ for Azure Catalyst agent](https://learn.microsoft.com/en-us/azure/migrate/common-questions-azure-copilot-migration-agent)
   - Reference
     - [Azure CLI](https://learn.microsoft.com/cli/azure/offazure)
     - [Azure PowerShell](https://learn.microsoft.com/powershell/module/az.migrate/)
@@ -257,6 +258,6 @@
     - [UserVoice](https://aka.ms/AzureMigrateUservoice)
     - [Microsoft Q&A question page](https://learn.microsoft.com/answers/topics/azure-migrate.html)
     - [Blog](https://azure.microsoft.com/blog/product/azure-migrate/)
-    - [Azure Migrate](https://azure.microsoft.com/products/azure-migrate)
+    - [Azure Catalyst](https://go.microsoft.com/fwlink/?LinkId=2387766)
     - [Azure Roadmap](https://azure.microsoft.com/updates/)
     - [Create an AVS assessment](https://learn.microsoft.com/en-us/azure/migrate/how-to-create-azure-vmware-solution-assessment)

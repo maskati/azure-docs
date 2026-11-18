@@ -92,6 +92,7 @@
     - [Compare runtime versions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions)
     - Hosting and scale
       - [Flex Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan)
+      - [OS-level dependencies via containers](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-os-level-dependencies)
       - [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/functions-premium-plan)
       - [Dedicated plan](https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan)
       - Container hosting
@@ -445,7 +446,7 @@
         - [Output](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-output)
       - Managed connectors
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-connector)
-        - [Trigger Preview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-connector-trigger)
+        - [Trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-connector-trigger)
       - MCP
         - [Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp)
         - [Tool trigger](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-tool-trigger)

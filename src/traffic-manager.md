@@ -10,6 +10,8 @@
     - [Create a Traffic Manager profile - Bicep](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile-bicep)
     - [Create a Traffic Manager profile - ARM Template](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile-template)
     - [Create a Traffic Manager profile - Terraform](https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile-terraform)
+    - [Create Traffic Manager linked records - Bicep](https://learn.microsoft.com/en-us/azure/dns/quickstart-traffic-manager-linked-records-bicep?toc=%2fazure%2ftraffic-manager%2ftoc.json)
+    - [Create Traffic Manager linked records - ARM Template](https://learn.microsoft.com/en-us/azure/dns/quickstart-traffic-manager-linked-records-template?toc=%2fazure%2ftraffic-manager%2ftoc.json)
   - Tutorials
     - [Route traffic for low latency](https://learn.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-improve-website-response)
     - [Route traffic based on geographic location of endpoint](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-geographic-routing-method)

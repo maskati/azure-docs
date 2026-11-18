@@ -6,8 +6,6 @@
     - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/partner-solutions/faq.yml)
   - Partner services documentation
     - AI partners
-      - [Arize AI](https://learn.microsoft.com/en-us/azure/partner-solutions/arize-ai/)
-      - [LambdaTest - HyperExecute](https://learn.microsoft.com/en-us/azure/partner-solutions/lambda-test/)
       - [Napster API](https://learn.microsoft.com/en-us/azure/partner-solutions/napster/)
     - Observability partners
       - [Datadog](https://learn.microsoft.com/en-us/azure/partner-solutions/datadog/)

@@ -133,6 +133,7 @@
       - Manage Microsoft Azure Consumption Commitment
         - [Track your Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/macc/track-consumption-commitment)
         - [Manage a Microsoft Azure Consumption Commitment](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/macc/manage-consumption-commitment)
+      - [Flex Plan](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/flex-plan/toc.yml)
       - Manage Conditional Azure Credit Offer
         - [Track your Conditional Azure Credit Offer](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/caco/track-conditional-credit-offer)
         - [Manage a Conditional Azure Credit Offer](https://learn.microsoft.com/en-us/azure/cost-management-billing/benefits/caco/manage-conditional-credit-offer)

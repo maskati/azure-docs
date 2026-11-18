@@ -9,6 +9,14 @@
     - [Get started ADR integration](https://learn.microsoft.com/en-us/azure/iot/device-registry/get-started-azure-device-registry)
     - [Create an IoT hub no ADR integration](https://learn.microsoft.com/en-us/azure/iot-hub/create-hub)
     - [Send telemetry using CLI](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-cli)
+  - IoT Hub with MQTT v5 preview
+    - [Overview](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-overview)
+    - [Capabilities and connection profiles](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-capabilities)
+    - [Get started](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-get-started)
+    - [Configure an MQTT v5 hub](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-cloud-setup)
+    - [Configure custom topics](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-custom-topics)
+    - [Connect a device](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-device-setup)
+    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-faq)
   - Plan and scale your IoT Hub
     - [Choose the right IoT Hub tier](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-scaling)
     - [Quotas and throttling](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-quotas-throttling)
@@ -47,6 +55,7 @@
       - [Configure file upload](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configure-file-upload)
   - Send and receive messages
     - [Create and read IoT Hub messages](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-construct)
+    - [Prepare telemetry for agents and analytics](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-agent-ready-data)
     - [Understand non-telemetry event schemas](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-non-telemetry-event-schema)
     - [Send cloud-to-device messages from IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-c2d)
     - [Choose a device communication protocol](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-protocols)
@@ -78,6 +87,7 @@
       - [Device configuration best practices](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-configuration-best-practices)
     - Develop
       - [Choose an IoT Hub SDK](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks)
+      - [Unified Azure IoT SDKs](https://learn.microsoft.com/en-us/azure/iot/device-registry/concept-unified-iot-sdks)
       - [Understand job scheduling](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-jobs)
       - [Create back-end app to schedule jobs](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-schedule-broadcast-jobs)
       - [Schedule bulk operations with jobs](https://learn.microsoft.com/en-us/azure/iot-hub/schedule-jobs-cli)
@@ -116,6 +126,7 @@
     - [Disable disaster recovery](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-disable-dr)
     - [Perform manual failover](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-manual-failover)
   - Troubleshoot
+    - [Investigate with Azure MCP Server](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-troubleshoot-mcp)
     - [Troubleshoot device connectivity](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-troubleshoot-connectivity)
     - [Troubleshoot message routing](https://learn.microsoft.com/en-us/azure/iot-hub/troubleshoot-message-routing)
     - [Troubleshoot error codes](https://learn.microsoft.com/en-us/azure/iot-hub/troubleshoot-error-codes)

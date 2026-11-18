@@ -75,6 +75,7 @@
   - Integrated NVA in a virtual hub
     - [Create an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub)
     - [Configure DNAT/Internet inbound for NVAs](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-inbound)
+    - [Deploy multiple third-party solutions in a Virtual WAN hub](https://learn.microsoft.com/en-us/azure/virtual-wan/deploy-multiple-network-virtual-appliance)
     - Infrastructure operations
       - [Restart an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart)
       - [Reimage an NVA in a virtual hub](https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-reimage)
@@ -222,7 +223,7 @@
       - [Azure portal](https://learn.microsoft.com/en-us/azure/virtual-wan/packet-capture-site-to-site-portal)
       - [PowerShell](https://learn.microsoft.com/en-us/azure/virtual-wan/packet-capture-site-to-site-powershell)
     - [Advanced Monitoring for P2S VPN](https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-point-to-site-connections)
-    - [Configure customer-controlled gateway maintenance](https://learn.microsoft.com/en-us/azure/virtual-wan/customer-controlled-gateway-maintenance)
+    - [Configure customer-controlled maintenance](https://learn.microsoft.com/en-us/azure/virtual-wan/customer-controlled-maintenance)
   - Troubleshoot
     - [Troubleshooting for Virtual WAN - Getting started](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-troubleshooting-overview)
   - Reference
