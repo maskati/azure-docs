@@ -11,12 +11,9 @@
     - [Send telemetry using CLI](https://learn.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-cli)
   - IoT Hub with MQTT v5 preview
     - [Overview](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-overview)
-    - [Capabilities and connection profiles](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-capabilities)
     - [Get started](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-get-started)
     - [Configure an MQTT v5 hub](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-cloud-setup)
     - [Configure custom topics](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-custom-topics)
-    - [Connect a device](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-device-setup)
-    - [Frequently asked questions](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-faq)
   - Plan and scale your IoT Hub
     - [Choose the right IoT Hub tier](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-scaling)
     - [Quotas and throttling](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-quotas-throttling)
@@ -24,8 +21,9 @@
     - [Understand IoT Hub endpoints](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-endpoints)
     - [Understanding IoT hub IP address](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-understand-ip-address)
     - [Best practices for Azure Device Registry namespaces](https://learn.microsoft.com/en-us/azure/iot/device-registry/best-practices-namespaces?toc=/azure/iot-hub/toc.json&bc=/azure/iot-hub/breadcrumb/toc.json)
-    - Protocol support
-      - [MQTT support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-mqtt-connect-to-iot-hub)
+    - Protocols and connection profiles
+      - [MQTT v3.1.1 support classic](https://learn.microsoft.com/en-us/azure/iot-hub/iot-mqtt-connect-to-iot-hub)
+      - [MQTT v5 support preview](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-capabilities)
       - [AMQP support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-amqp-support)
       - [Supporting additional protocols](https://learn.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway)
   - Authenticate and authorize access
@@ -38,6 +36,7 @@
       - [Third-party X.509 certificates](https://learn.microsoft.com/en-us/azure/iot-hub/authenticate-authorize-x509)
       - [Create and upload certificates for testing](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-x509-test-certs)
   - Connect a device
+    - [Connect a device using MQTT v5 preview](https://learn.microsoft.com/en-us/azure/iot-hub/mqtt-v5-device-setup)
     - [Create and connect a device](https://learn.microsoft.com/en-us/azure/iot-hub/create-connect-device)
     - [Tutorial - Connect a device with MQTT](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-use-mqtt)
     - [Connect Raspberry Pi to run samples](https://learn.microsoft.com/en-us/azure/iot-hub/raspberry-pi-get-started)
@@ -102,6 +101,7 @@
     - [Transport Layer Security TLS support](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-tls-support)
     - [Update private endpoints for TLS 1.3](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-tls-1-3-update-private-endpoint)
     - [Migrate to a new TLS certificate root](https://learn.microsoft.com/en-us/azure/iot-hub/migrate-tls-certificate)
+    - [Update root certificate in national clouds](https://learn.microsoft.com/en-us/azure/iot-hub/update-root-certificate-national-clouds)
     - [Virtual networks support with Azure Private Link](https://learn.microsoft.com/en-us/azure/iot-hub/virtual-network-support)
     - Network access control
       - [Configure IP filtering](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-ip-filtering)

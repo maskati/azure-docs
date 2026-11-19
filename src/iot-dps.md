@@ -61,6 +61,7 @@
       - [Manage deprovisioning](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-unprovision-devices)
       - [Configure IP filtering](https://learn.microsoft.com/en-us/azure/iot-dps/iot-dps-ip-filtering)
       - [Managing public network access](https://learn.microsoft.com/en-us/azure/iot-dps/public-network-access)
+      - [Update root certificate in national clouds](https://learn.microsoft.com/en-us/azure/iot-hub/update-root-certificate-national-clouds)
     - [Monitor Device Provisioning Service](https://learn.microsoft.com/en-us/azure/iot-dps/monitor-iot-dps)
     - Provision IoT Edge devices
       - [Linux](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-linux-tpm)

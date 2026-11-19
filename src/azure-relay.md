@@ -28,6 +28,7 @@
       - [Network security](https://learn.microsoft.com/en-us/azure/azure-relay/network-security)
     - [Hybrid Connections protocol](https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-protocol)
   - How To
+    - [Migrate WCF Relay to Hybrid Connections](https://learn.microsoft.com/en-us/azure/azure-relay/migrate-wcf-relay-to-hybrid-connections-how-to)
     - [Move across regions](https://learn.microsoft.com/en-us/azure/azure-relay/move-across-regions)
     - [Migrate from Azure Service Manager classic APIs to Resource Manager APIs](https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=%2fazure%2fservice-bus-relay%2ftoc.json)
     - Develop

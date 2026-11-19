@@ -4,10 +4,7 @@
   - Overview
     - [What is Azure Storage Mover?](https://learn.microsoft.com/en-us/azure/storage-mover/service-overview)
     - [Cloud migration basics](https://learn.microsoft.com/en-us/azure/storage-mover/migration-basics)
-  - Concepts
     - [Resource hierarchy](https://learn.microsoft.com/en-us/azure/storage-mover/resource-hierarchy)
-    - [Migrate data using private connections](https://learn.microsoft.com/en-us/azure/storage-mover/migrations-requiring-private-connections)
-    - [Configure bandwidth limits](https://learn.microsoft.com/en-us/azure/storage-mover/bandwidth-management)
     - [Migration costs](https://learn.microsoft.com/en-us/azure/storage-mover/billing)
   - On-premises to Azure
     - Assess and plan
@@ -28,16 +25,19 @@
       - [Migrate from on-premises to Azure over private networks](https://learn.microsoft.com/en-us/azure/storage-mover/on-premises-private-network-configuration)
     - Manage and decommission
       - [Schedule a migration job](https://learn.microsoft.com/en-us/azure/storage-mover/job-scheduling)
+      - [Configure bandwidth limits](https://learn.microsoft.com/en-us/azure/storage-mover/bandwidth-management)
       - [Unregister an agent](https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy)
-  - Cloud to cloud
-    - [Planning your Private Networking for cloud to cloud migrations](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-private-network-configuration)
-    - [Migrate from Amazon S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
-    - [Migrate from Google S3 to Azure](https://learn.microsoft.com/en-us/azure/storage-mover/google-migration)
+  - Other clouds to Azure migrations
+    - [Migrate from AWS S3 to Azure Blob Storage](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-migration)
+    - [Migrate from Google Cloud Storage to Azure Blob Storage](https://learn.microsoft.com/en-us/azure/storage-mover/google-migration)
     - [Migrate from Oracle Cloud to Azure Blob Storage](https://learn.microsoft.com/en-us/azure/storage-mover/oracle-cloud-azure-blob)
     - [Migrate from AWS FSx to Azure Files](https://learn.microsoft.com/en-us/azure/storage-mover/amazon-files-azure-files-migration)
-    - [Transfer from Azure Blob to Blob](https://learn.microsoft.com/en-us/azure/storage-mover/azure-to-azure-migration)
+    - [Planning your Private Networking for cloud to cloud migrations](https://learn.microsoft.com/en-us/azure/storage-mover/cloud-to-cloud-private-network-configuration)
+    - [Migrate data from AWS S3 to Azure Blob using private connections](https://learn.microsoft.com/en-us/azure/storage-mover/migrations-requiring-private-connections)
+  - Intra-Azure migrations
+    - [Migrate data from Azure Blob to Azure Blob Storage same Microsoft Entra tenant](https://learn.microsoft.com/en-us/azure/storage-mover/azure-to-azure-migration)
     - [Copy data from Azure Files to Azure Files preview](https://learn.microsoft.com/en-us/azure/storage-mover/azure-files-to-azure-files-copy)
-    - [Migrate across Microsoft Entra tenants from Azure Blob to Blob](https://learn.microsoft.com/en-us/azure/storage-mover/azure-cross-tenant-blob-migration)
+    - [Migrate data from Azure Blob to Azure Blob Storage across Microsoft Entra tenants](https://learn.microsoft.com/en-us/azure/storage-mover/azure-cross-tenant-blob-migration)
   - Reliability and resiliency
     - [Reliability in Azure Storage Mover](https://learn.microsoft.com/azure/reliability/reliability-storage-mover?toc=/azure/storage-mover/toc.json)
     - [Customer-initiated disaster recovery](https://learn.microsoft.com/en-us/azure/storage-mover/customer-initiated-disaster-recovery)
