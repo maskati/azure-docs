@@ -10,6 +10,7 @@
       - [Get insights from your data](https://learn.microsoft.com/en-us/azure/iot-operations/get-started-end-to-end-sample/quickstart-get-insights)
     - Plan your deployment
       - [Deployment planning](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning)
+      - [Offline operation and recovery](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning-offline-operation)
       - [Production deployment examples](https://learn.microsoft.com/en-us/azure/iot-operations/deploy-iot-ops/concept-production-examples)
       - [Disk-backed message buffer](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning-disk-buffer)
       - [Persistence](https://learn.microsoft.com/en-us/azure/iot-operations/deployment-plan/deployment-planning-persistence)
@@ -53,6 +54,7 @@
         - [Deploy MCP](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-deploy-mcp)
         - [Install Kubernetes MCP](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-deploy-kubernetes-mcp)
         - [Configure MCP authorization](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-configure-mcp-authorization)
+        - [MCP tools overview](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/overview-mcp-tools)
         - [Connect to MCP](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-connect-ai-agent)
         - [Query MQTT broker metadata](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-query-broker-metadata)
         - [Expose MCP through Azure Relay](https://learn.microsoft.com/en-us/azure/iot-operations/manage-model-context-protocol/howto-deploy-mcp-relay)

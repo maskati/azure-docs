@@ -114,6 +114,7 @@
         - [Configure access based on users and groups](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-users-access)
         - [Configure multifactor authentication MFA](https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-mfa)
       - [Configure Azure VPN Client](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client)
+      - [Modern Authentication for Azure VPN Client on macOS](https://learn.microsoft.com/en-us/azure/vpn-gateway/modern-authentication-methods-for-azure-vpn-client-macos)
       - [Configure device SSO for Windows](https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows-device-sso)
       - [Generate VPN client profile configuration files](https://learn.microsoft.com/en-us/azure/vpn-gateway/about-vpn-profile-download)
     - Configure P2S - RADIUS authentication

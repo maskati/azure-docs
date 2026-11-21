@@ -69,6 +69,7 @@
         - [Exclusion lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-exclusion)
         - [Configure exclusion lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-exclusion-configure)
         - [Exception lists](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/front-door-exceptions)
+        - [Upgrade ruleset version](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/upgrade-ruleset-version)
         - [Managed ruleset support policy](https://learn.microsoft.com/en-us/azure/web-application-firewall/ruleset-support-policy?pivots=front-door)
       - [HTTP DDoS protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/http-ddos-ruleset)
       - [Configure bot protection](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-policy-configure-bot-protection)

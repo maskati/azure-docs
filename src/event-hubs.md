@@ -175,7 +175,7 @@
       - [Configure TLS version for client](https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-configure-client-version)
       - [Migrate to passwordless connections](https://learn.microsoft.com/en-us/azure/event-hubs/passwordless-migration-event-hubs)
     - Troubleshoot
-      - [Troubleshoot connectivity issues](https://learn.microsoft.com/en-us/azure/event-hubs/troubleshooting-guide)
+      - [Azure Event Hubs troubleshooting guide](https://learn.microsoft.com/en-us/azure/event-hubs/troubleshooting-guide)
       - [Troubleshoot authentication and authorization issues](https://learn.microsoft.com/en-us/azure/event-hubs/troubleshoot-authentication-authorization)
       - [Troubleshoot checkpoint store issues](https://learn.microsoft.com/en-us/azure/event-hubs/troubleshoot-checkpoint-store-issues)
       - [Kafka troubleshooting guide for Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-troubleshooting-guide)

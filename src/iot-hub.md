@@ -95,6 +95,7 @@
     - [Monitor IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/monitor-iot-hub)
     - [IoT Hub service and resource health](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-azure-service-health-integration)
     - [Use metrics and logs to monitor IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/tutorial-use-metrics-and-diags)
+    - [Monitor device connectivity health](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-monitor-device-connectivity-health)
     - [React to IoT Hub events with Event Grid](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-event-grid)
   - Secure and harden your IoT solution
     - [Secure your Azure IoT Hub](https://learn.microsoft.com/en-us/azure/iot-hub/secure-azure-iot-hub)

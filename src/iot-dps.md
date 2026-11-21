@@ -68,6 +68,7 @@
       - [Windows](https://learn.microsoft.com/en-us/azure/iot-edge/how-to-provision-devices-at-scale-windows-tpm)
     - Troubleshooting and FAQ
       - [Troubleshooting DPS](https://learn.microsoft.com/en-us/azure/iot-dps/how-to-troubleshoot-dps)
+      - [Monitor device connectivity health](https://learn.microsoft.com/en-us/azure/iot-hub/how-to-monitor-device-connectivity-health?toc=/azure/iot-dps/toc.json&bc=/azure/iot-dps/breadcrumb/toc.json)
       - [DPS FAQ](https://learn.microsoft.com/en-us/azure/iot-dps/dps-faq.yml)
   - Reference
     - [Monitoring data reference](https://learn.microsoft.com/en-us/azure/iot-dps/monitor-iot-dps-reference)
