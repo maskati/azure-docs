@@ -120,6 +120,7 @@
     - Front Door
       - [Best practices](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-best-practices)
       - [Monitoring and logging](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-monitor)
+      - [WAF insights dashboards](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/insights)
   - Reference
     - Azure PowerShell
       - [Front Door](https://learn.microsoft.com/powershell/module/az.frontdoor/)
