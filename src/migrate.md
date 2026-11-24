@@ -1,5 +1,5 @@
 # Azure Catalyst documentation
-> Find articles to help you discover, assess, and migrate your on-premises environment using tools in the Azure Migrate hub.
+> Find articles to help you discover, assess, and migrate your on-premises environment using tools in the Azure Catalyst hub.
   - [Azure Catalyst Documentation](https://learn.microsoft.com/en-us/azure/migrate/)
   - Overview
     - [What is Azure Catalyst?](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
@@ -56,7 +56,7 @@
       - [Overview](https://learn.microsoft.com/en-us/azure/migrate/concepts-arc-resource-discovery)
       - [Manage Arc resource sync](https://learn.microsoft.com/en-us/azure/migrate/how-to-manage-arc-resource-sync)
       - [Collect additional data about Arc enabled servers](https://learn.microsoft.com/en-us/azure/migrate/how-to-enable-additional-data-collection-for-arc-servers)
-      - [Azure Migrate VM Extension for Arc-enabled servers](https://learn.microsoft.com/en-us/azure/migrate/migrate-virtual-machine-extension-reference)
+      - [Azure Catalyst Collector VM extension for Arc-enabled servers](https://learn.microsoft.com/en-us/azure/migrate/migrate-virtual-machine-extension-reference)
     - Discover using inventory import
       - [Inventory exports import preview](https://learn.microsoft.com/en-us/azure/migrate/how-to-import-inventory-exports-file-import)
       - [CSV import](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import)
@@ -138,8 +138,8 @@
       - [Execute direct server migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/execute-server-migrations)
       - [Agentless migrations using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
       - [Agent-based migration using portal](https://learn.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent)
-      - [Redeploy servers using IaC](https://learn.microsoft.com/en-us/azure/migrate/server-redeploy)
     - [Generate and deploy a platform landing zone](https://learn.microsoft.com/en-us/azure/migrate/platform-landing-zone)
+    - [Redeploy servers to Azure VMs with scoped data copy](https://learn.microsoft.com/en-us/azure/migrate/server-redeploy)
     - Support Matrix
       - [Overview of server migration methods](https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview)
       - [VMware vSphere migration requirements](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration)
@@ -216,7 +216,7 @@
       - [Azure Catalyst in unsupported regions](https://learn.microsoft.com/en-us/azure/migrate/azure-migrate-unsupported-regions)
       - [Troubleshoot Azure Catalyst](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-general)
     - Appliance configuration
-      - [Troubleshoot Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance)
+      - [Troubleshoot Azure Catalyst appliance](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance)
       - [Troubleshoot with appliance diagnostics](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-appliance-diagnostic)
       - [Troubleshoot network connectivity for private endpoint](https://learn.microsoft.com/en-us/azure/migrate/troubleshoot-network-connectivity)
     - [Action Center](https://learn.microsoft.com/en-us/azure/migrate/centralized-issue-tracking)
@@ -235,7 +235,7 @@
   - FAQs
     - [General](https://learn.microsoft.com/en-us/azure/migrate/resources-faq)
     - [RVTools XLSX import](https://learn.microsoft.com/en-us/azure/migrate/common-questions-import)
-    - [Azure Migrate appliance](https://learn.microsoft.com/en-us/azure/migrate/common-questions-appliance)
+    - [Azure Catalyst appliance](https://learn.microsoft.com/en-us/azure/migrate/common-questions-appliance)
     - [Discovery and dependency analysis](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-dependency-analysis)
     - [Software and Insights](https://learn.microsoft.com/en-us/azure/migrate/software-insights-faq.yml)
     - [Assessment](https://learn.microsoft.com/en-us/azure/migrate/common-questions-discovery-assessment)
