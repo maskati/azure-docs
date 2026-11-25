@@ -45,6 +45,7 @@
   - Samples
     - [Service Bus samples](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-samples)
   - Concepts
+    - [Partitioned DNS](https://learn.microsoft.com/en-us/azure/event-hubs/partitioned-dns?toc=/azure/service-bus-messaging/toc.json)
     - [Queues, topics, and subscriptions](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions)
     - [Premium messaging](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-premium-messaging)
     - [Compare Azure Queues and Service Bus queues](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted)

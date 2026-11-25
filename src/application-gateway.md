@@ -25,6 +25,7 @@
       - [Listeners](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-listeners)
       - [Request routing rules](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules)
       - [HTTP settings](https://learn.microsoft.com/en-us/azure/application-gateway/configuration-http-settings)
+      - [Global configurations](https://learn.microsoft.com/en-us/azure/application-gateway/global-configuration)
     - Routing
       - [Advanced load balancing Preview](https://learn.microsoft.com/en-us/azure/application-gateway/advanced-load-balancing)
       - [Advanced Routing Rules](https://learn.microsoft.com/en-us/azure/application-gateway/advanced-rules)

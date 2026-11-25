@@ -153,6 +153,7 @@
       - [Create a Spring Cloud Stream Binder app](https://learn.microsoft.com/java/azure/spring-framework/configure-spring-cloud-stream-binder-java-app-azure-event-hub)
       - [Use the Spring Boot Starter for Apache Kafka](https://learn.microsoft.com/java/azure/spring-framework/configure-spring-cloud-stream-binder-java-app-kafka-azure-event-hub)
     - Manage
+      - [Partitioned DNS](https://learn.microsoft.com/en-us/azure/event-hubs/partitioned-dns)
       - [Manage Application Groups](https://learn.microsoft.com/en-us/azure/event-hubs/resource-governance-with-app-groups)
       - [Configure properties for an event hub](https://learn.microsoft.com/en-us/azure/event-hubs/configure-event-hub-properties)
       - [Auto inflate overview](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-auto-inflate)
