@@ -119,6 +119,7 @@
     - [Monitor Azure Batch](https://learn.microsoft.com/en-us/azure/batch/monitor-batch)
       - [Monitor pool compute node performance](https://learn.microsoft.com/en-us/azure/batch/monitor-batch-pool-nodes)
       - [Monitor with Application Insights](https://learn.microsoft.com/en-us/azure/batch/monitor-application-insights)
+      - [Investigate issues with Azure SRE Agent](https://learn.microsoft.com/en-us/azure/batch/batch-sre-agent)
       - [Create efficient query lists](https://learn.microsoft.com/en-us/azure/batch/batch-efficient-list-queries)
       - [Count resources by state](https://learn.microsoft.com/en-us/azure/batch/batch-get-resource-counts)
     - Use scripting tools

@@ -245,4 +245,5 @@
       - [Open a support request for deployment failures](https://learn.microsoft.com/en-us/azure/azure-vmware/fix-deployment-failures)
       - [VMware tools vix error code = 21009](https://kb.vmware.com/s/article/2129927)
     - [FAQ](https://learn.microsoft.com/en-us/azure/azure-vmware/faq.yml)
+    - [Azure Migration & Modernization Blog](https://techcommunity.microsoft.com/category/azure/blog/azuremigrationblog)
     - [Azure VMware Solution Master Diagrams File](https://github.com/Azure/azure-vmware-solution/blob/main/azure-vmware-master-diagrams)

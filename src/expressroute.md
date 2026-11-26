@@ -76,6 +76,7 @@
     - [ExpressRoute Last Mile](https://learn.microsoft.com/en-us/azure/expressroute/last-mile)
     - ExpressRoute Direct
       - [Overview](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about)
+      - [About ExpressRoute Direct link groups](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-direct-link-groups)
       - [Configure ExpressRoute Direct](https://learn.microsoft.com/en-us/azure/expressroute/how-to-expressroute-direct-portal)
       - [Configure MACsec for ExpressRoute Direct ports](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-macsec)
       - [Rate limit for ExpressRoute Direct circuit](https://learn.microsoft.com/en-us/azure/expressroute/rate-limit)

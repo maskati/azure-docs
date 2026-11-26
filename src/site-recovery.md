@@ -287,7 +287,7 @@
     - [Azure Backup](https://learn.microsoft.com/en-us/azure/backup/)
     - [Azure Automation](https://learn.microsoft.com/en-us/azure/automation/)
     - [Azure Resource Mover](https://learn.microsoft.com/en-us/azure/resource-mover/)
-    - [Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/)
+    - [Azure Catalyst](https://learn.microsoft.com/en-us/azure/migrate/)
   - Resources
     - [Azure updates](https://azure.microsoft.com/updates/?searchterms=Azure+Site+Recovery)
     - Pricing
