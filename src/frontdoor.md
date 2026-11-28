@@ -11,6 +11,7 @@
     - [FAQ](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-faq.yml)
   - Design & plan
     - [Routing architecture](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-standard-premium)
+    - [Unicast routing architecture](https://learn.microsoft.com/en-us/azure/frontdoor/unicast-routing-architecture)
     - [Route matching](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?pivots=front-door-standard-premium)
     - [Routing limits](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits)
     - Scenarios
